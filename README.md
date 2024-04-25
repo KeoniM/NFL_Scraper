@@ -1,2 +1,2 @@
 # NFL_Scraper
-A web scraper that scrapers nfl.com
+A web scraper that scrapes nfl.com
