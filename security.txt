@@ -1,0 +1,46 @@
+I need to make my webscraper 
+1. respectful towards the website
+2. contain measures that makes it hard to ban
+
+~ chatGPT ~
+
+Prompt: 
+
+"Is there something I can use within my web scraper to ensure that it does not get banned from a website?"
+
+Response:
+
+Measures to make it hard to be banned:
+1. User-Agent String
+    - Use a legitimate user-agent string in your webscraper to identify it as a bot.
+        - You can rotate between different user-agent string to mimic different browsers.
+
+2. Request Throttling
+    - Implement delays between your requests to avoid hammering the server with too many
+      requests in a short period.
+        - This can be done using 'time.sleep()'
+
+3. Use Proxies
+    - Rotating through different IP addresses using proxies can help avoid triggering IP-based
+      rate limiting or bans.
+        - Be sure that the use of proxies is compliant with the website's policies and legal
+          in your jurisdiction.
+
+4, Headless browsers
+    - Selenium typically uses a headless browser, be aware that some sites might have measures to
+      detect these browsers and may block them.
+        - Configuring Selenium to mimic a non-headless browser can sometimes be beneficial.
+
+5. Session Management
+    - Maintain and manage sessions and cookies properly if the site requires login, as doing so
+      can help in mimicking a real user's behavior more closely.
+
+6. Error Handling
+    - Implement robust error handling to gracefully manage HTTP error codes or exceptions without
+      repeatedly hitting the server after an error.
+
+7. Contact website
+    - If your scraping activities are extensive, it might be worth contacting the website to inform
+      them of your activities or request permission.
+        - Some websites might provide an API for the data you need, which would be more reliable and
+          respectful of the website's resources.

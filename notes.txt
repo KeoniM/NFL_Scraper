@@ -1,0 +1,50 @@
+Compliance:
+- According to nfl.com/robots.txt I am in compliance.
+
+#########################################################
+#   User-agent: *                                      #
+#   Disallow: /_ctv/                                   #
+#   Disallow: /_fantasy-app/                           #
+#   Disallow: /_libraries/                             #
+#   Disallow: /_mobile-app/                            #
+#   Disallow: /_mobileview/                            #
+#   Disallow: /_phs/                                   #
+#   Disallow: /_sponsors/                              #
+#   Disallow: /account/                                #
+#   Disallow: /nfl-films-beta/                         #
+#   Disallow: /search/                                 #
+#   Sitemap: https://www.nfl.com/sitemap-index.xml     #
+#                                                      #
+#   User-agent: Mediapartners-Google                   #
+#   Disallow: /stats/player-stats/*                    #
+########################################################
+
+GOALS:
+1. webscrape NFL stats
+2. Connect and import into database
+    - Google Bigquery?
+    - upload datasheets to Kaggle
+3. Run models for predictions
+4. Data visualization
+
+Personal notes
+    - I will need to download a webdriver for both
+    mac and windows. I plan to have a macbook laptop
+    and a windows based PC.
+    - Label and organize all imports.
+    - Create descriptions for each method created
+
+Terminal Commands
+    - Virtual Environemnt
+        - START
+            - source bin/activate 
+        - STOP
+            - deactivate 
+
+Dependencies
+    - Chrome version - 120.0.6099.129
+    - Chromedriver version - 120.0.6099.109
+
+Helpful Tips
+    - driver.execute_script("arguments[0].style.border='3px solid red'", variable_for_WebElement)
+        - a helpful line of code that highlights what webelement your driver on
