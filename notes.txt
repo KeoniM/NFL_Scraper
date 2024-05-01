@@ -48,3 +48,8 @@ Dependencies
 Helpful Tips
     - driver.execute_script("arguments[0].style.border='3px solid red'", variable_for_WebElement)
         - a helpful line of code that highlights what webelement your driver on
+
+TESTING
+    - I need to create these tests
+        1. To make sure that each column of every row is the correct expected type
+        2. To make sure that each week has the correct data.
