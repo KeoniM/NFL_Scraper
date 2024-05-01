@@ -5,8 +5,12 @@
 
 The primary aim of this project is to provide users with the tools needed to access and collect NFL data. The extracted data includes:
 
-- Game Scores: Retrieve final scores from any NFL game.
-- Game Details: Collect play-by-play descriptions of game events.
+- **Game Scores:** Retrieve final scores from any NFL game.
+- **Game Details:** Collect play-by-play descriptions of game events.
+
+## Project Status
+
+**Development Stage:** This project is currently in its initial development phase. Functionality such as retrieving game scores is operational, but additional features and optimizations are planned. Future updates will focus on improving data extraction techniques and expanding the types of data available.
 
 ## Use Cases
 
