@@ -38,7 +38,7 @@ def main():
             adding_data = scraper.get_game_week_data(available_years[i], j)
             scraper.data = pd.concat([scraper.data, adding_data], ignore_index=True)
             time.sleep(base_sleep + random.random() * random_additional_sleep)
-        scraper.data.to_csv('{}_scores.csv'.format(available_years[i]), index=False)
+        scraper.data.to_csv('data/{}_scores.csv'.format(available_years[i]), index=False)
         scraper.data = pd.DataFrame()
     
     scraper.close_driver()

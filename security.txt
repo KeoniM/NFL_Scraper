@@ -2,6 +2,28 @@ I need to make my webscraper
 1. respectful towards the website
 2. contain measures that makes it hard to ban
 
+Compliance:
+- According to nfl.com/robots.txt I am in compliance.
+
+#########################################################
+#   User-agent: *                                      #
+#   Disallow: /_ctv/                                   #
+#   Disallow: /_fantasy-app/                           #
+#   Disallow: /_libraries/                             #
+#   Disallow: /_mobile-app/                            #
+#   Disallow: /_mobileview/                            #
+#   Disallow: /_phs/                                   #
+#   Disallow: /_sponsors/                              #
+#   Disallow: /account/                                #
+#   Disallow: /nfl-films-beta/                         #
+#   Disallow: /search/                                 #
+#   Sitemap: https://www.nfl.com/sitemap-index.xml     #
+#                                                      #
+#   User-agent: Mediapartners-Google                   #
+#   Disallow: /stats/player-stats/*                    #
+########################################################
+
+
 ~ chatGPT ~
 
 Prompt: 

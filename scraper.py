@@ -1,17 +1,3 @@
-"""
-FAR GOALS:
-2. Grab data for each play in a specific game
-  - I somehow need a way to select a desired season and game
-3. Player stats
-  - I somehow need a way to select a player I'd like to grab stats for
-
-SHORTERM GOALS:
-1. Create a very clean class file.
-2. Figure out methods
-    - Display all plays that happened within a targeted game
-      - Maybe sparse out who did what and where?
-"""
-
 # Imports
 # Driver tools
 from selenium import webdriver
@@ -35,25 +21,15 @@ from selenium.common.exceptions import StaleElementReferenceException
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import TimeoutException
 
-# Constructor 
-# - INITIALIZE DRIVER RIGHT AWAY. This is on purpose because I want
-#   a class that grabs data, not a class that is used to travel through the site.
-
 """
 PURPOSE: 
   - Webscraping data from the National Football League's website (nfl.com)
     - The goal is to create a webdriver that will be able to retreive nfl data 
       that people can use to create their own custom nfl datasets.
-      - Data available:
-        1. scores 
-        2. play by play
-
 INPUT PARAMETERS:
        self - Object Reference - Instance of NFL Webscraper
 driver_path -      String      - Personal path to webdriver
-
 ATTRIBUTES:
-self.diver_path -   string   - personal path to webdriver
     self.driver - Web Driver - A tool used to automate Chrome browser actions
       self.data - Dataframe  - Used to store data that the webdriver is currently looking at
 """
@@ -137,6 +113,9 @@ class NflScraper:
     max_attempts - int - maximum number of attempts to find webelements
   RETURN:
       df - dataframe - contains seasons and weeks available to gather data from.
+  NOTES:
+    - Not all options in 'season' dropdown is actually avaiable
+    - 'Weeks' dropdown is different for almost every season
   """
   def display_seasons_and_weeks(self, max_attempts = 5):
 
@@ -150,16 +129,14 @@ class NflScraper:
     wait = WebDriverWait(self.driver, 10)
 
     try:
-      # Waits until 'season' dropdown is available in the DOM and selects it.
+      # Wait until 'season' dropdown is available in the DOM and selects it.
       locate_season_webelement = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "#Season")))
       select_season_webelement = Select(locate_season_webelement)
 
       # All available elements within 'season' dropdown placed into list.
       season_webelement_options = [option.text for option in select_season_webelement.options]
       
-      # 1. Checks to see if season option is valid (A season may have not happened yet, nfl.com displays the season anyway)
-      #         - If invalid season option -> TimeoutException -> continue
-      # 2. Goes through all available 'week' dropdown options because each seaons has different weeks.
+      # Finding 'Weeks' schedule for each season
       for i in season_webelement_options:
         try:
           wait.until(dropdown_search_and_select((By.ID, "Season"), i))

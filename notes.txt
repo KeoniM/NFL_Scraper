@@ -1,31 +1,13 @@
-Compliance:
-- According to nfl.com/robots.txt I am in compliance.
-
-#########################################################
-#   User-agent: *                                      #
-#   Disallow: /_ctv/                                   #
-#   Disallow: /_fantasy-app/                           #
-#   Disallow: /_libraries/                             #
-#   Disallow: /_mobile-app/                            #
-#   Disallow: /_mobileview/                            #
-#   Disallow: /_phs/                                   #
-#   Disallow: /_sponsors/                              #
-#   Disallow: /account/                                #
-#   Disallow: /nfl-films-beta/                         #
-#   Disallow: /search/                                 #
-#   Sitemap: https://www.nfl.com/sitemap-index.xml     #
-#                                                      #
-#   User-agent: Mediapartners-Google                   #
-#   Disallow: /stats/player-stats/*                    #
-########################################################
-
 GOALS:
-1. webscrape NFL stats
-2. Connect and import into database
+1. webscrape NFL stats 
+2. Display all plays that happened within a targeted game
+    - Maybe sparse out who did what and where?
+3. Connect and import into database
     - Google Bigquery?
     - upload datasheets to Kaggle
-3. Run models for predictions
-4. Data visualization
+4. player stats?
+5. Data visualization
+6. Set up for users who want to run prediction models
 
 Personal notes
     - I will need to download a webdriver for both
