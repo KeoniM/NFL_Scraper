@@ -40,7 +40,7 @@ class NflScraper:
     self.driver = webdriver.Chrome(service = cService)
     self.data = pd.DataFrame() # Do I really need this?
 
-    # Close Chromedriver safely
+  # Close Chromedriver safely
   def close_driver(self):
       if self.driver:
         self.driver.quit()
@@ -135,10 +135,11 @@ class NflScraper:
 
       # All available elements within 'season' dropdown placed into list.
       season_webelement_options = [option.text for option in select_season_webelement.options]
-      
+
       # Finding 'Weeks' schedule for each season
       for i in season_webelement_options:
         try:
+          wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "#Season")))
           wait.until(dropdown_search_and_select((By.ID, "Season"), i))
           weeks_webelement = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "#Week")))
           select_weeks_webelement = Select(weeks_webelement)
