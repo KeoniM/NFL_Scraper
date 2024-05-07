@@ -4,3 +4,4 @@ bin/
 lib/
 scratch.py
 notes.txt
+pyvenv.cfg
