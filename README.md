@@ -1,5 +1,5 @@
 # NFL_Scraper
-**NFL_Scraper** is a web scraping tool designed to extract publicly available data from NFL.com. This tool enables users to efficiently gather information about NFL games, including scores and play-by-play breakdowns.
+**NFL_Scraper** is a web scraping tool designed to extract publicly available data from NFL.com. This tool enables users to efficiently gather information about NFL games, including scores and play-by-play breakdowns.Notably, it highlights the web elements from which data is being scraped, providing visual feedback during operation.
 
 ## Project Goal
 
