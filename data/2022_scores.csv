@@ -1,0 +1,367 @@
+Season,Week,GameStatus,Day,Date,AwayTeam,AwayRecord,AwayScore,AwayWin,HomeTeam,HomeRecord,HomeScore,HomeWin,AwaySeeding,HomeSeeding,PostSeason?
+2022,Hall Of Fame,FINAL,THU,08/04,Jaguars,0-2,11,0.0,Raiders,2-0,27,1.0,,,0
+2022,Preseason Week 1,FINAL,THU,08/11,Giants,2-0,23,1.0,Patriots,1-1,21,0.0,,,0
+2022,Preseason Week 1,FINAL,THU,08/11,Titans,1-1,10,0.0,Ravens,2-0,23,1.0,,,0
+2022,Preseason Week 1,FINAL,FRI,08/12,Falcons,1-1,27,1.0,Lions,1-1,23,0.0,,,0
+2022,Preseason Week 1,FINAL,FRI,08/12,Browns,1-1,24,1.0,Jaguars,0-3,13,0.0,,,0
+2022,Preseason Week 1,FINAL,FRI,08/12,Cardinals,1-1,36,1.0,Bengals,0-2,23,0.0,,,0
+2022,Preseason Week 1,FINAL,FRI,08/12,Jets,2-0,24,1.0,Eagles,1-1,21,0.0,,,0
+2022,Preseason Week 1,FINAL,FRI,08/12,Packers,1-1,21,0.0,49ers,2-0,28,1.0,,,0
+2022,Preseason Week 1,FINAL,SAT,08/13,Panthers,1-1,23,1.0,Commanders,0-2,21,0.0,,,0
+2022,Preseason Week 1,FINAL,SAT,08/13,Chiefs,1-1,14,0.0,Bears,2-0,19,1.0,,,0
+2022,Preseason Week 1,FINAL,SAT,08/13,Colts,0-2,24,0.0,Bills,2-0,27,1.0,,,0
+2022,Preseason Week 1,FINAL,SAT,08/13,Seahawks,0-2,25,0.0,Steelers,2-0,32,1.0,,,0
+2022,Preseason Week 1,FINAL,SAT,08/13,Dolphins,1-1,26,1.0,Buccaneers,0-2,24,0.0,,,0
+2022,Preseason Week 1,FINAL,SAT,08/13,Saints,0-2,13,0.0,Texans,2-0,17,1.0,,,0
+2022,Preseason Week 1,FINAL,SAT,08/13,Cowboys,1-1,7,0.0,Broncos,1-1,17,1.0,,,0
+2022,Preseason Week 1,FINAL,SAT,08/13,Rams,1-1,29,1.0,Chargers,0-2,22,0.0,,,0
+2022,Preseason Week 1,FINAL,SUN,08/14,Vikings,0-2,20,0.0,Raiders,3-0,26,1.0,,,0
+2022,Preseason Week 2,FINAL,THU,08/18,Bears,3-0,27,1.0,Seahawks,0-3,11,0.0,,,0
+2022,Preseason Week 2,FINAL,FRI,08/19,Panthers,2-1,10,0.0,Patriots,1-2,20,1.0,,,0
+2022,Preseason Week 2,FINAL,FRI,08/19,Saints,1-2,10,0.0,Packers,1-2,20,1.0,,,0
+2022,Preseason Week 2,FINAL,FRI,08/19,Texans,3-0,24,1.0,Rams,1-2,20,0.0,,,0
+2022,Preseason Week 2,FINAL,SAT,08/20,Lions,1-2,27,1.0,Colts,1-2,26,0.0,,,0
+2022,Preseason Week 2,FINAL,SAT,08/20,Broncos,2-1,15,0.0,Bills,2-1,42,1.0,,,0
+2022,Preseason Week 2,FINAL,SAT,08/20,Commanders,0-3,14,0.0,Chiefs,2-1,24,1.0,,,0
+2022,Preseason Week 2,FINAL,SAT,08/20,Buccaneers,0-3,3,0.0,Titans,2-1,13,1.0,,,0
+2022,Preseason Week 2,FINAL,SAT,08/20,49ers,2-1,17,1.0,Vikings,0-3,7,0.0,,,0
+2022,Preseason Week 2,FINAL,SAT,08/20,Steelers,3-0,16,1.0,Jaguars,0-4,15,0.0,,,0
+2022,Preseason Week 2,FINAL,SAT,08/20,Raiders,4-0,15,1.0,Dolphins,2-1,13,0.0,,,0
+2022,Preseason Week 2,FINAL,SAT,08/20,Cowboys,2-1,32,1.0,Chargers,0-3,18,0.0,,,0
+2022,Preseason Week 2,FINAL,SUN,08/21,Eagles,1-2,21,1.0,Browns,1-2,20,0.0,,,0
+2022,Preseason Week 2,FINAL,SUN,08/21,Bengals,1-2,22,0.0,Giants,2-1,25,1.0,,,0
+2022,Preseason Week 2,FINAL,SUN,08/21,Ravens,3-0,24,1.0,Cardinals,1-2,17,0.0,,,0
+2022,Preseason Week 2,FINAL,MON,08/22,Falcons,2-1,16,0.0,Jets,3-0,24,1.0,,,0
+2022,Preseason Week 3,FINAL,THU,08/25,Packers,0-0,10,0.0,Chiefs,0-0,17,1.0,,,0
+2022,Preseason Week 3,FINAL,THU,08/25,49ers,0-0,0,0.0,Texans,0-0,17,1.0,,,0
+2022,Preseason Week 3,FINAL,FRI,08/26,Bills,0-0,0,0.0,Panthers,0-0,21,1.0,,,0
+2022,Preseason Week 3,FINAL,FRI,08/26,Seahawks,0-0,26,0.0,Cowboys,0-0,27,1.0,,,0
+2022,Preseason Week 3,FINAL,FRI,08/26,Chargers,0-0,10,0.0,Saints,0-0,27,1.0,,,0
+2022,Preseason Week 3,FINAL,FRI,08/26,Patriots,0-0,6,0.0,Raiders,0-0,23,1.0,,,0
+2022,Preseason Week 3,FINAL,SAT,08/27,Jaguars,0-0,12,0.0,Falcons,0-0,28,1.0,,,0
+2022,Preseason Week 3,FINAL,SAT,08/27,Rams,0-0,7,0.0,Bengals,0-0,16,1.0,,,0
+2022,Preseason Week 3,FINAL,SAT,08/27,Commanders,0-0,15,0.0,Ravens,0-0,17,1.0,,,0
+2022,Preseason Week 3,FINAL,SAT,08/27,Eagles,0-0,10,0.0,Dolphins,0-0,48,1.0,,,0
+2022,Preseason Week 3,FINAL,SAT,08/27,Bears,0-0,21,1.0,Browns,0-0,20,0.0,,,0
+2022,Preseason Week 3,FINAL,SAT,08/27,Cardinals,0-0,23,0.0,Titans,0-0,26,1.0,,,0
+2022,Preseason Week 3,FINAL,SAT,08/27,Buccaneers,0-0,10,0.0,Colts,0-0,27,1.0,,,0
+2022,Preseason Week 3,FINAL,SAT,08/27,Vikings,0-0,13,0.0,Broncos,0-0,23,1.0,,,0
+2022,Preseason Week 3,FINAL,SUN,08/28,Giants,0-0,27,0.0,Jets,0-0,31,1.0,,,0
+2022,Preseason Week 3,FINAL,SUN,08/28,Lions,0-0,9,0.0,Steelers,0-0,19,1.0,,,0
+2022,Week 1,FINAL,THU,09/08,Bills,1-0,31,1.0,Rams,0-1,10,0.0,,,0
+2022,Week 1,FINAL,SUN,09/11,Saints,1-0,27,1.0,Falcons,0-1,26,0.0,,,0
+2022,Week 1,FINAL,SUN,09/11,Browns,1-0,26,1.0,Panthers,0-1,24,0.0,,,0
+2022,Week 1,FINAL,SUN,09/11,49ers,0-1,10,0.0,Bears,1-0,19,1.0,,,0
+2022,Week 1,FINAL,SUN,09/11,Steelers,1-0,23,1.0,Bengals,0-1,20,0.0,,,0
+2022,Week 1,FINAL,SUN,09/11,Eagles,1-0,38,1.0,Lions,0-1,35,0.0,,,0
+2022,Week 1,FINAL,SUN,09/11,Colts,0-0-1,20,0.0,Texans,0-0-1,20,0.0,,,0
+2022,Week 1,FINAL,SUN,09/11,Patriots,0-1,7,0.0,Dolphins,1-0,20,1.0,,,0
+2022,Week 1,FINAL,SUN,09/11,Ravens,1-0,24,1.0,Jets,0-1,9,0.0,,,0
+2022,Week 1,FINAL,SUN,09/11,Jaguars,0-1,22,0.0,Commanders,1-0,28,1.0,,,0
+2022,Week 1,FINAL,SUN,09/11,Giants,1-0,21,1.0,Titans,0-1,20,0.0,,,0
+2022,Week 1,FINAL,SUN,09/11,Chiefs,1-0,44,1.0,Cardinals,0-1,21,0.0,,,0
+2022,Week 1,FINAL,SUN,09/11,Raiders,0-1,19,0.0,Chargers,1-0,24,1.0,,,0
+2022,Week 1,FINAL,SUN,09/11,Packers,0-1,7,0.0,Vikings,1-0,23,1.0,,,0
+2022,Week 1,FINAL,SUN,09/11,Buccaneers,1-0,19,1.0,Cowboys,0-1,3,0.0,,,0
+2022,Week 1,FINAL,MON,09/12,Broncos,0-1,16,0.0,Seahawks,1-0,17,1.0,,,0
+2022,Week 2,FINAL,THU,09/15,Chargers,1-1,24,0.0,Chiefs,2-0,27,1.0,,,0
+2022,Week 2,FINAL,SUN,09/18,Dolphins,2-0,42,1.0,Ravens,1-1,38,0.0,,,0
+2022,Week 2,FINAL,SUN,09/18,Jets,1-1,31,1.0,Browns,1-1,30,0.0,,,0
+2022,Week 2,FINAL,SUN,09/18,Commanders,1-1,27,0.0,Lions,1-1,36,1.0,,,0
+2022,Week 2,FINAL,SUN,09/18,Colts,0-1-1,0,0.0,Jaguars,1-1,24,1.0,,,0
+2022,Week 2,FINAL,SUN,09/18,Buccaneers,2-0,20,1.0,Saints,1-1,10,0.0,,,0
+2022,Week 2,FINAL,SUN,09/18,Panthers,0-2,16,0.0,Giants,2-0,19,1.0,,,0
+2022,Week 2,FINAL,SUN,09/18,Patriots,1-1,17,1.0,Steelers,1-1,14,0.0,,,0
+2022,Week 2,FINAL,SUN,09/18,Falcons,0-2,27,0.0,Rams,1-1,31,1.0,,,0
+2022,Week 2,FINAL,SUN,09/18,Seahawks,1-1,7,0.0,49ers,1-1,27,1.0,,,0
+2022,Week 2,FINAL,SUN,09/18,Bengals,0-2,17,0.0,Cowboys,1-1,20,1.0,,,0
+2022,Week 2,FINAL,SUN,09/18,Texans,0-1-1,9,0.0,Broncos,1-1,16,1.0,,,0
+2022,Week 2,FINAL,SUN,09/18,Cardinals,1-1,29,1.0,Raiders,0-2,23,0.0,,,0
+2022,Week 2,FINAL,SUN,09/18,Bears,1-1,10,0.0,Packers,1-1,27,1.0,,,0
+2022,Week 2,FINAL,MON,09/19,Titans,0-2,7,0.0,Bills,2-0,41,1.0,,,0
+2022,Week 2,FINAL,MON,09/19,Vikings,1-1,7,0.0,Eagles,2-0,24,1.0,,,0
+2022,Week 3,FINAL,THU,09/22,Steelers,1-2,17,0.0,Browns,2-1,29,1.0,,,0
+2022,Week 3,FINAL,SUN,09/25,Saints,1-2,14,0.0,Panthers,1-2,22,1.0,,,0
+2022,Week 3,FINAL,SUN,09/25,Texans,0-2-1,20,0.0,Bears,2-1,23,1.0,,,0
+2022,Week 3,FINAL,SUN,09/25,Chiefs,2-1,17,0.0,Colts,1-1-1,20,1.0,,,0
+2022,Week 3,FINAL,SUN,09/25,Bills,2-1,19,0.0,Dolphins,3-0,21,1.0,,,0
+2022,Week 3,FINAL,SUN,09/25,Lions,1-2,24,0.0,Vikings,2-1,28,1.0,,,0
+2022,Week 3,FINAL,SUN,09/25,Ravens,2-1,37,1.0,Patriots,1-2,26,0.0,,,0
+2022,Week 3,FINAL,SUN,09/25,Bengals,1-2,27,1.0,Jets,1-2,12,0.0,,,0
+2022,Week 3,FINAL,SUN,09/25,Raiders,0-3,22,0.0,Titans,1-2,24,1.0,,,0
+2022,Week 3,FINAL,SUN,09/25,Eagles,3-0,24,1.0,Commanders,1-2,8,0.0,,,0
+2022,Week 3,FINAL,SUN,09/25,Jaguars,2-1,38,1.0,Chargers,1-2,10,0.0,,,0
+2022,Week 3,FINAL,SUN,09/25,Rams,2-1,20,1.0,Cardinals,1-2,12,0.0,,,0
+2022,Week 3,FINAL,SUN,09/25,Falcons,1-2,27,1.0,Seahawks,1-2,23,0.0,,,0
+2022,Week 3,FINAL,SUN,09/25,Packers,2-1,14,1.0,Buccaneers,2-1,12,0.0,,,0
+2022,Week 3,FINAL,SUN,09/25,49ers,1-2,10,0.0,Broncos,2-1,11,1.0,,,0
+2022,Week 3,FINAL,MON,09/26,Cowboys,2-1,23,1.0,Giants,2-1,16,0.0,,,0
+2022,Week 4,FINAL,THU,09/29,Dolphins,3-1,15,0.0,Bengals,2-2,27,1.0,,,0
+2022,Week 4,FINAL,SUN,10/02,Vikings,3-1,28,1.0,Saints,1-3,25,0.0,,,0
+2022,Week 4,FINAL,SUN,10/02,Browns,2-2,20,0.0,Falcons,2-2,23,1.0,,,0
+2022,Week 4,FINAL,SUN,10/02,Bills,3-1,23,1.0,Ravens,2-2,20,0.0,,,0
+2022,Week 4,FINAL,SUN,10/02,Commanders,1-3,10,0.0,Cowboys,3-1,25,1.0,,,0
+2022,Week 4,FINAL,SUN,10/02,Seahawks,2-2,48,1.0,Lions,1-3,45,0.0,,,0
+2022,Week 4,FINAL,SUN,10/02,Chargers,2-2,34,1.0,Texans,0-3-1,24,0.0,,,0
+2022,Week 4,FINAL,SUN,10/02,Titans,2-2,24,1.0,Colts,1-2-1,17,0.0,,,0
+2022,Week 4,FINAL,SUN,10/02,Bears,2-2,12,0.0,Giants,3-1,20,1.0,,,0
+2022,Week 4,FINAL,SUN,10/02,Jaguars,2-2,21,0.0,Eagles,4-0,29,1.0,,,0
+2022,Week 4,FINAL,SUN,10/02,Jets,2-2,24,1.0,Steelers,1-3,20,0.0,,,0
+2022,Week 4,FINAL,SUN,10/02,Cardinals,2-2,26,1.0,Panthers,1-3,16,0.0,,,0
+2022,Week 4,FINAL,SUN,10/02,Patriots,1-3,24,0.0,Packers,3-1,27,1.0,,,0
+2022,Week 4,FINAL,SUN,10/02,Broncos,2-2,23,0.0,Raiders,1-3,32,1.0,,,0
+2022,Week 4,FINAL,SUN,10/02,Chiefs,3-1,41,1.0,Buccaneers,2-2,31,0.0,,,0
+2022,Week 4,FINAL,MON,10/03,Rams,2-2,9,0.0,49ers,2-2,24,1.0,,,0
+2022,Week 5,FINAL,THU,10/06,Colts,1-2-1,12,1.0,Broncos,2-2,9,0.0,,,0
+2022,Week 5,FINAL,SUN,10/09,Giants,3-1,27,1.0,Packers,3-1,22,0.0,,,0
+2022,Week 5,FINAL,SUN,10/09,Steelers,1-3,3,0.0,Bills,3-1,38,1.0,,,0
+2022,Week 5,FINAL,SUN,10/09,Chargers,2-2,30,1.0,Browns,2-2,28,0.0,,,0
+2022,Week 5,FINAL,SUN,10/09,Texans,0-3-1,13,1.0,Jaguars,2-2,6,0.0,,,0
+2022,Week 5,FINAL,SUN,10/09,Bears,2-2,22,0.0,Vikings,3-1,29,1.0,,,0
+2022,Week 5,FINAL,SUN,10/09,Lions,1-3,0,0.0,Patriots,1-3,29,1.0,,,0
+2022,Week 5,FINAL,SUN,10/09,Seahawks,2-2,32,0.0,Saints,1-3,39,1.0,,,0
+2022,Week 5,FINAL,SUN,10/09,Dolphins,3-1,17,0.0,Jets,2-2,40,1.0,,,0
+2022,Week 5,FINAL,SUN,10/09,Falcons,2-2,15,0.0,Buccaneers,2-2,21,1.0,,,0
+2022,Week 5,FINAL,SUN,10/09,Titans,2-2,21,1.0,Commanders,1-3,17,0.0,,,0
+2022,Week 5,FINAL,SUN,10/09,49ers,2-2,37,1.0,Panthers,1-3,15,0.0,,,0
+2022,Week 5,FINAL,SUN,10/09,Eagles,4-0,20,1.0,Cardinals,2-2,17,0.0,,,0
+2022,Week 5,FINAL,SUN,10/09,Cowboys,3-1,22,1.0,Rams,2-2,10,0.0,,,0
+2022,Week 5,FINAL,SUN,10/09,Bengals,2-2,17,0.0,Ravens,2-2,19,1.0,,,0
+2022,Week 5,FINAL,MON,10/10,Raiders,1-3,29,0.0,Chiefs,3-1,30,1.0,,,0
+2022,Week 6,FINAL,THU,10/13,Commanders,1-3,12,1.0,Bears,2-2,7,0.0,,,0
+2022,Week 6,FINAL,SUN,10/16,49ers,2-2,14,0.0,Falcons,2-2,28,1.0,,,0
+2022,Week 6,FINAL,SUN,10/16,Patriots,1-3,38,1.0,Browns,2-2,15,0.0,,,0
+2022,Week 6,FINAL,SUN,10/16,Jets,2-2,27,1.0,Packers,3-1,10,0.0,,,0
+2022,Week 6,FINAL,SUN,10/16,Jaguars,2-2,27,0.0,Colts,1-2-1,34,1.0,,,0
+2022,Week 6,FINAL,SUN,10/16,Vikings,3-1,24,1.0,Dolphins,3-1,16,0.0,,,0
+2022,Week 6,FINAL,SUN,10/16,Bengals,2-2,30,1.0,Saints,1-3,26,0.0,,,0
+2022,Week 6,FINAL,SUN,10/16,Ravens,2-2,20,0.0,Giants,3-1,24,1.0,,,0
+2022,Week 6,FINAL,SUN,10/16,Buccaneers,2-2,18,0.0,Steelers,1-3,20,1.0,,,0
+2022,Week 6,FINAL,SUN,10/16,Panthers,1-3,10,0.0,Rams,2-2,24,1.0,,,0
+2022,Week 6,FINAL,SUN,10/16,Cardinals,2-2,9,0.0,Seahawks,2-2,19,1.0,,,0
+2022,Week 6,FINAL,SUN,10/16,Bills,3-1,24,1.0,Chiefs,3-1,20,0.0,,,0
+2022,Week 6,FINAL,SUN,10/16,Cowboys,3-1,17,0.0,Eagles,4-0,26,1.0,,,0
+2022,Week 6,FINAL,MON,10/17,Broncos,2-2,16,0.0,Chargers,2-2,19,1.0,,,0
+2022,Week 6,BYE,,,Lions,3-1,,,,,,,,,0
+2022,Week 6,BYE,,,Titans,2-2,,,,,,,,,0
+2022,Week 6,BYE,,,Raiders,1-3,,,,,,,,,0
+2022,Week 6,BYE,,,Texans,2-2,,,,,,,,,0
+2022,Week 7,FINAL,THU,10/20,Saints,1-3,34,0.0,Cardinals,2-2,42,1.0,,,0
+2022,Week 7,FINAL,SUN,10/23,Browns,2-2,20,0.0,Ravens,2-2,23,1.0,,,0
+2022,Week 7,FINAL,SUN,10/23,Buccaneers,2-2,3,0.0,Panthers,1-3,21,1.0,,,0
+2022,Week 7,FINAL,SUN,10/23,Falcons,2-2,17,0.0,Bengals,2-2,35,1.0,,,0
+2022,Week 7,FINAL,SUN,10/23,Lions,1-3,6,0.0,Cowboys,3-1,24,1.0,,,0
+2022,Week 7,FINAL,SUN,10/23,Giants,3-1,23,1.0,Jaguars,2-2,17,0.0,,,0
+2022,Week 7,FINAL,SUN,10/23,Colts,1-2-1,10,0.0,Titans,2-2,19,1.0,,,0
+2022,Week 7,FINAL,SUN,10/23,Packers,3-1,21,0.0,Commanders,1-3,23,1.0,,,0
+2022,Week 7,FINAL,SUN,10/23,Jets,2-2,16,1.0,Broncos,2-2,9,0.0,,,0
+2022,Week 7,FINAL,SUN,10/23,Texans,0-3-1,20,0.0,Raiders,1-3,38,1.0,,,0
+2022,Week 7,FINAL,SUN,10/23,Seahawks,2-2,37,1.0,Chargers,2-2,23,0.0,,,0
+2022,Week 7,FINAL,SUN,10/23,Chiefs,3-1,44,1.0,49ers,2-2,23,0.0,,,0
+2022,Week 7,FINAL,SUN,10/23,Steelers,1-3,10,0.0,Dolphins,3-1,16,1.0,,,0
+2022,Week 7,FINAL,MON,10/24,Bears,2-2,33,1.0,Patriots,1-3,14,0.0,,,0
+2022,Week 7,BYE,,,Vikings,1-3,,,,,,,,,0
+2022,Week 7,BYE,,,Eagles,4-0,,,,,,,,,0
+2022,Week 7,BYE,,,Rams,2-2,,,,,,,,,0
+2022,Week 7,BYE,,,Bills,3-1,,,,,,,,,0
+2022,Week 8,FINAL,THU,10/27,Ravens,2-2,27,1.0,Buccaneers,2-2,22,0.0,,,0
+2022,Week 8,FINAL,SUN,10/30,Broncos,2-2,21,1.0,Jaguars,2-2,17,0.0,,,0
+2022,Week 8,FINAL,SUN,10/30,Panthers,1-3,34,0.0,Falcons,2-2,37,1.0,,,0
+2022,Week 8,FINAL,SUN,10/30,Bears,2-2,29,0.0,Cowboys,3-1,49,1.0,,,0
+2022,Week 8,FINAL,SUN,10/30,Dolphins,3-1,31,1.0,Lions,1-3,27,0.0,,,0
+2022,Week 8,FINAL,SUN,10/30,Cardinals,2-2,26,0.0,Vikings,3-1,34,1.0,,,0
+2022,Week 8,FINAL,SUN,10/30,Raiders,1-3,0,0.0,Saints,1-3,24,1.0,,,0
+2022,Week 8,FINAL,SUN,10/30,Patriots,1-3,22,1.0,Jets,2-2,17,0.0,,,0
+2022,Week 8,FINAL,SUN,10/30,Steelers,1-3,13,0.0,Eagles,4-0,35,1.0,,,0
+2022,Week 8,FINAL,SUN,10/30,Titans,2-2,17,1.0,Texans,0-3-1,10,0.0,,,0
+2022,Week 8,FINAL,SUN,10/30,Commanders,1-3,17,1.0,Colts,1-2-1,16,0.0,,,0
+2022,Week 8,FINAL,SUN,10/30,49ers,2-2,31,1.0,Rams,2-2,14,0.0,,,0
+2022,Week 8,FINAL,SUN,10/30,Giants,3-1,13,0.0,Seahawks,2-2,27,1.0,,,0
+2022,Week 8,FINAL,SUN,10/30,Packers,3-1,17,0.0,Bills,3-1,27,1.0,,,0
+2022,Week 8,FINAL,MON,10/31,Bengals,2-2,13,0.0,Browns,2-2,32,1.0,,,0
+2022,Week 8,BYE,,,Chargers,2-2,,,,,,,,,0
+2022,Week 8,BYE,,,Chiefs,3-1,,,,,,,,,0
+2022,Week 9,FINAL,THU,11/03,Eagles,4-0,29,1.0,Texans,0-3-1,17,0.0,,,0
+2022,Week 9,FINAL,SUN,11/06,Chargers,2-2,20,1.0,Falcons,2-2,17,0.0,,,0
+2022,Week 9,FINAL,SUN,11/06,Dolphins,3-1,35,1.0,Bears,2-2,32,0.0,,,0
+2022,Week 9,FINAL,SUN,11/06,Panthers,1-3,21,0.0,Bengals,2-2,42,1.0,,,0
+2022,Week 9,FINAL,SUN,11/06,Packers,3-1,9,0.0,Lions,1-3,15,1.0,,,0
+2022,Week 9,FINAL,SUN,11/06,Raiders,1-3,20,0.0,Jaguars,2-2,27,1.0,,,0
+2022,Week 9,FINAL,SUN,11/06,Colts,1-2-1,3,0.0,Patriots,1-3,26,1.0,,,0
+2022,Week 9,FINAL,SUN,11/06,Bills,3-1,17,0.0,Jets,2-2,20,1.0,,,0
+2022,Week 9,FINAL,SUN,11/06,Vikings,3-1,20,1.0,Commanders,1-3,17,0.0,,,0
+2022,Week 9,FINAL,SUN,11/06,Seahawks,2-2,31,1.0,Cardinals,2-2,21,0.0,,,0
+2022,Week 9,FINAL,SUN,11/06,Rams,2-2,13,0.0,Buccaneers,2-2,16,1.0,,,0
+2022,Week 9,FINAL,SUN,11/06,Titans,2-2,17,0.0,Chiefs,3-1,20,1.0,,,0
+2022,Week 9,FINAL,MON,11/07,Ravens,2-2,27,1.0,Saints,1-3,13,0.0,,,0
+2022,Week 9,BYE,,,Browns,2-2,,,,,,,,,0
+2022,Week 9,BYE,,,Giants,1-3,,,,,,,,,0
+2022,Week 9,BYE,,,Steelers,2-2,,,,,,,,,0
+2022,Week 9,BYE,,,Broncos,1-3,,,,,,,,,0
+2022,Week 9,BYE,,,Cowboys,3-1,,,,,,,,,0
+2022,Week 9,BYE,,,49ers,4-0,,,,,,,,,0
+2022,Week 10,FINAL,THU,11/10,Falcons,2-2,15,0.0,Panthers,1-3,25,1.0,,,0
+2022,Week 10,FINAL,SUN,11/13,Seahawks,2-2,16,0.0,Buccaneers,2-2,21,1.0,,,0
+2022,Week 10,FINAL,SUN,11/13,Vikings,3-1,33,1.0,Bills,3-1,30,0.0,,,0
+2022,Week 10,FINAL,SUN,11/13,Lions,1-3,31,1.0,Bears,2-2,30,0.0,,,0
+2022,Week 10,FINAL,SUN,11/13,Jaguars,2-2,17,0.0,Chiefs,3-1,27,1.0,,,0
+2022,Week 10,FINAL,SUN,11/13,Browns,2-2,17,0.0,Dolphins,3-1,39,1.0,,,0
+2022,Week 10,FINAL,SUN,11/13,Texans,0-3-1,16,0.0,Giants,3-1,24,1.0,,,0
+2022,Week 10,FINAL,SUN,11/13,Saints,1-3,10,0.0,Steelers,1-3,20,1.0,,,0
+2022,Week 10,FINAL,SUN,11/13,Broncos,2-2,10,0.0,Titans,2-2,17,1.0,,,0
+2022,Week 10,FINAL,SUN,11/13,Colts,1-2-1,25,1.0,Raiders,1-3,20,0.0,,,0
+2022,Week 10,FINAL,SUN,11/13,Cowboys,3-1,28,0.0,Packers,3-1,31,1.0,,,0
+2022,Week 10,FINAL,SUN,11/13,Cardinals,2-2,27,1.0,Rams,2-2,17,0.0,,,0
+2022,Week 10,FINAL,SUN,11/13,Chargers,2-2,16,0.0,49ers,2-2,22,1.0,,,0
+2022,Week 10,FINAL,MON,11/14,Commanders,1-3,32,1.0,Eagles,4-0,21,0.0,,,0
+2022,Week 10,BYE,,,Ravens,3-1,,,,,,,,,0
+2022,Week 10,BYE,,,Patriots,1-3,,,,,,,,,0
+2022,Week 10,BYE,,,Jets,1-3,,,,,,,,,0
+2022,Week 10,BYE,,,Bengals,1-3,,,,,,,,,0
+2022,Week 11,FINAL,THU,11/17,Titans,2-2,27,1.0,Packers,3-1,17,0.0,,,0
+2022,Week 11,FINAL,SUN,11/20,Bears,2-2,24,0.0,Falcons,2-2,27,1.0,,,0
+2022,Week 11,FINAL,SUN,11/20,Panthers,1-3,3,0.0,Ravens,2-2,13,1.0,,,0
+2022,Week 11,FINAL,SUN,11/20,Browns,2-2,23,0.0,Bills,3-1,31,1.0,,,0
+2022,Week 11,FINAL,SUN,11/20,Commanders,1-3,23,1.0,Texans,0-3-1,10,0.0,,,0
+2022,Week 11,FINAL,SUN,11/20,Eagles,4-0,17,1.0,Colts,1-2-1,16,0.0,,,0
+2022,Week 11,FINAL,SUN,11/20,Jets,2-2,3,0.0,Patriots,1-3,10,1.0,,,0
+2022,Week 11,FINAL,SUN,11/20,Rams,2-2,20,0.0,Saints,1-3,27,1.0,,,0
+2022,Week 11,FINAL,SUN,11/20,Lions,1-3,31,1.0,Giants,3-1,18,0.0,,,0
+2022,Week 11,FINAL,SUN,11/20,Raiders,1-3,22,1.0,Broncos,2-2,16,0.0,,,0
+2022,Week 11,FINAL,SUN,11/20,Cowboys,3-1,40,1.0,Vikings,3-1,3,0.0,,,0
+2022,Week 11,FINAL,SUN,11/20,Bengals,2-2,37,1.0,Steelers,1-3,30,0.0,,,0
+2022,Week 11,FINAL,SUN,11/20,Chiefs,3-1,30,1.0,Chargers,2-2,27,0.0,,,0
+2022,Week 11,FINAL,MON,11/21,49ers,2-2,38,1.0,Cardinals,2-2,10,0.0,,,0
+2022,Week 11,BYE,,,Buccaneers,3-1,,,,,,,,,0
+2022,Week 11,BYE,,,Jaguars,2-2,,,,,,,,,0
+2022,Week 11,BYE,,,Dolphins,3-1,,,,,,,,,0
+2022,Week 11,BYE,,,Seahawks,3-1,,,,,,,,,0
+2022,Week 12,FINAL,THU,11/24,Bills,3-1,28,1.0,Lions,1-3,25,0.0,,,0
+2022,Week 12,FINAL,THU,11/24,Giants,3-1,20,0.0,Cowboys,3-1,28,1.0,,,0
+2022,Week 12,FINAL,THU,11/24,Patriots,1-3,26,0.0,Vikings,3-1,33,1.0,,,0
+2022,Week 12,FINAL,SUN,11/27,Broncos,2-2,10,0.0,Panthers,1-3,23,1.0,,,0
+2022,Week 12,FINAL,SUN,11/27,Buccaneers,2-2,17,0.0,Browns,2-2,23,1.0,,,0
+2022,Week 12,FINAL,SUN,11/27,Ravens,2-2,27,0.0,Jaguars,2-2,28,1.0,,,0
+2022,Week 12,FINAL,SUN,11/27,Texans,0-3-1,15,0.0,Dolphins,3-1,30,1.0,,,0
+2022,Week 12,FINAL,SUN,11/27,Bears,2-2,10,0.0,Jets,2-2,31,1.0,,,0
+2022,Week 12,FINAL,SUN,11/27,Bengals,2-2,20,1.0,Titans,2-2,16,0.0,,,0
+2022,Week 12,FINAL,SUN,11/27,Falcons,2-2,13,0.0,Commanders,1-3,19,1.0,,,0
+2022,Week 12,FINAL,SUN,11/27,Chargers,2-2,25,1.0,Cardinals,2-2,24,0.0,,,0
+2022,Week 12,FINAL,SUN,11/27,Raiders,1-3,40,1.0,Seahawks,2-2,34,0.0,,,0
+2022,Week 12,FINAL,SUN,11/27,Rams,2-2,10,0.0,Chiefs,3-1,26,1.0,,,0
+2022,Week 12,FINAL,SUN,11/27,Saints,1-3,0,0.0,49ers,2-2,13,1.0,,,0
+2022,Week 12,FINAL,SUN,11/27,Packers,3-1,33,0.0,Eagles,4-0,40,1.0,,,0
+2022,Week 12,FINAL,MON,11/28,Steelers,1-3,24,1.0,Colts,1-2-1,17,0.0,,,0
+2022,Week 13,FINAL,THU,12/01,Bills,3-1,24,1.0,Patriots,1-3,10,0.0,,,0
+2022,Week 13,FINAL,SUN,12/04,Steelers,1-3,19,1.0,Falcons,2-2,16,0.0,,,0
+2022,Week 13,FINAL,SUN,12/04,Broncos,2-2,9,0.0,Ravens,2-2,10,1.0,,,0
+2022,Week 13,FINAL,SUN,12/04,Packers,3-1,28,1.0,Bears,2-2,19,0.0,,,0
+2022,Week 13,FINAL,SUN,12/04,Jaguars,2-2,14,0.0,Lions,1-3,40,1.0,,,0
+2022,Week 13,FINAL,SUN,12/04,Browns,2-2,27,1.0,Texans,0-3-1,14,0.0,,,0
+2022,Week 13,FINAL,SUN,12/04,Jets,2-2,22,0.0,Vikings,3-1,27,1.0,,,0
+2022,Week 13,FINAL,SUN,12/04,Commanders,1-3,20,0.0,Giants,3-1,20,0.0,,,0
+2022,Week 13,FINAL,SUN,12/04,Titans,2-2,10,0.0,Eagles,4-0,35,1.0,,,0
+2022,Week 13,FINAL,SUN,12/04,Seahawks,2-2,27,1.0,Rams,2-2,23,0.0,,,0
+2022,Week 13,FINAL,SUN,12/04,Dolphins,3-1,17,0.0,49ers,2-2,33,1.0,,,0
+2022,Week 13,FINAL,SUN,12/04,Chiefs,3-1,24,0.0,Bengals,2-2,27,1.0,,,0
+2022,Week 13,FINAL,SUN,12/04,Chargers,2-2,20,0.0,Raiders,1-3,27,1.0,,,0
+2022,Week 13,FINAL,SUN,12/04,Colts,1-2-1,19,0.0,Cowboys,3-1,54,1.0,,,0
+2022,Week 13,FINAL,MON,12/05,Saints,1-3,16,0.0,Buccaneers,2-2,17,1.0,,,0
+2022,Week 13,BYE,,,Panthers,0-4,,,,,,,,,0
+2022,Week 13,BYE,,,Cardinals,1-3,,,,,,,,,0
+2022,Week 14,FINAL,THU,12/08,Raiders,1-3,16,0.0,Rams,2-2,17,1.0,,,0
+2022,Week 14,FINAL,SUN,12/11,Jets,2-2,12,0.0,Bills,3-1,20,1.0,,,0
+2022,Week 14,FINAL,SUN,12/11,Browns,2-2,10,0.0,Bengals,2-2,23,1.0,,,0
+2022,Week 14,FINAL,SUN,12/11,Texans,0-3-1,23,0.0,Cowboys,3-1,27,1.0,,,0
+2022,Week 14,FINAL,SUN,12/11,Vikings,3-1,23,0.0,Lions,1-3,34,1.0,,,0
+2022,Week 14,FINAL,SUN,12/11,Eagles,4-0,48,1.0,Giants,3-1,22,0.0,,,0
+2022,Week 14,FINAL,SUN,12/11,Ravens,2-2,16,1.0,Steelers,1-3,14,0.0,,,0
+2022,Week 14,FINAL,SUN,12/11,Jaguars,2-2,36,1.0,Titans,2-2,22,0.0,,,0
+2022,Week 14,FINAL,SUN,12/11,Chiefs,3-1,34,1.0,Broncos,2-2,28,0.0,,,0
+2022,Week 14,FINAL,SUN,12/11,Panthers,1-3,30,1.0,Seahawks,2-2,24,0.0,,,0
+2022,Week 14,FINAL,SUN,12/11,Buccaneers,2-2,7,0.0,49ers,2-2,35,1.0,,,0
+2022,Week 14,FINAL,SUN,12/11,Dolphins,3-1,17,0.0,Chargers,2-2,23,1.0,,,0
+2022,Week 14,FINAL,MON,12/12,Patriots,1-3,27,1.0,Cardinals,2-2,13,0.0,,,0
+2022,Week 14,BYE,,,Colts,2-2,,,,,,,,,0
+2022,Week 14,BYE,,,Saints,2-2,,,,,,,,,0
+2022,Week 14,BYE,,,Falcons,2-2,,,,,,,,,0
+2022,Week 14,BYE,,,Bears,0-4,,,,,,,,,0
+2022,Week 14,BYE,,,Commanders,2-2,,,,,,,,,0
+2022,Week 14,BYE,,,Packers,2-2,,,,,,,,,0
+2022,Week 15,FINAL,THU,12/15,49ers,2-2,21,1.0,Seahawks,2-2,13,0.0,,,0
+2022,Week 15,FINAL,SAT,12/17,Colts,1-2-1,36,0.0,Vikings,3-1,39,1.0,,,0
+2022,Week 15,FINAL,SAT,12/17,Ravens,2-2,3,0.0,Browns,2-2,13,1.0,,,0
+2022,Week 15,FINAL,SAT,12/17,Dolphins,3-1,29,0.0,Bills,3-1,32,1.0,,,0
+2022,Week 15,FINAL,SUN,12/18,Falcons,2-2,18,0.0,Saints,1-3,21,1.0,,,0
+2022,Week 15,FINAL,SUN,12/18,Steelers,1-3,24,1.0,Panthers,1-3,16,0.0,,,0
+2022,Week 15,FINAL,SUN,12/18,Eagles,4-0,25,1.0,Bears,2-2,20,0.0,,,0
+2022,Week 15,FINAL,SUN,12/18,Chiefs,3-1,30,1.0,Texans,0-3-1,24,0.0,,,0
+2022,Week 15,FINAL,SUN,12/18,Cowboys,3-1,34,0.0,Jaguars,2-2,40,1.0,,,0
+2022,Week 15,FINAL,SUN,12/18,Lions,1-3,20,1.0,Jets,2-2,17,0.0,,,0
+2022,Week 15,FINAL,SUN,12/18,Cardinals,2-2,15,0.0,Broncos,2-2,24,1.0,,,0
+2022,Week 15,FINAL,SUN,12/18,Patriots,1-3,24,0.0,Raiders,1-3,30,1.0,,,0
+2022,Week 15,FINAL,SUN,12/18,Titans,2-2,14,0.0,Chargers,2-2,17,1.0,,,0
+2022,Week 15,FINAL,SUN,12/18,Bengals,2-2,34,1.0,Buccaneers,2-2,23,0.0,,,0
+2022,Week 15,FINAL,SUN,12/18,Giants,3-1,20,1.0,Commanders,1-3,12,0.0,,,0
+2022,Week 15,FINAL,MON,12/19,Rams,2-2,12,0.0,Packers,3-1,24,1.0,,,0
+2022,Week 16,FINAL,THU,12/22,Jaguars,2-2,19,1.0,Jets,2-2,3,0.0,,,0
+2022,Week 16,FINAL,SAT,12/24,Falcons,2-2,9,0.0,Ravens,2-2,17,1.0,,,0
+2022,Week 16,FINAL,SAT,12/24,Lions,1-3,23,0.0,Panthers,1-3,37,1.0,,,0
+2022,Week 16,FINAL,SAT,12/24,Bills,3-1,35,1.0,Bears,2-2,13,0.0,,,0
+2022,Week 16,FINAL,SAT,12/24,Saints,1-3,17,1.0,Browns,2-2,10,0.0,,,0
+2022,Week 16,FINAL,SAT,12/24,Seahawks,2-2,10,0.0,Chiefs,3-1,24,1.0,,,0
+2022,Week 16,FINAL,SAT,12/24,Giants,3-1,24,0.0,Vikings,3-1,27,1.0,,,0
+2022,Week 16,FINAL,SAT,12/24,Bengals,2-2,22,1.0,Patriots,1-3,18,0.0,,,0
+2022,Week 16,FINAL,SAT,12/24,Texans,0-3-1,19,1.0,Titans,2-2,14,0.0,,,0
+2022,Week 16,FINAL,SAT,12/24,Commanders,1-3,20,0.0,49ers,2-2,37,1.0,,,0
+2022,Week 16,FINAL,SAT,12/24,Eagles,4-0,34,0.0,Cowboys,3-1,40,1.0,,,0
+2022,Week 16,FINAL,SAT,12/24,Raiders,1-3,10,0.0,Steelers,1-3,13,1.0,,,0
+2022,Week 16,FINAL,SUN,12/25,Packers,3-1,26,1.0,Dolphins,3-1,20,0.0,,,0
+2022,Week 16,FINAL,SUN,12/25,Broncos,2-2,14,0.0,Rams,2-2,51,1.0,,,0
+2022,Week 16,FINAL,SUN,12/25,Buccaneers,2-2,19,1.0,Cardinals,2-2,16,0.0,,,0
+2022,Week 16,FINAL,MON,12/26,Chargers,2-2,20,1.0,Colts,1-2-1,3,0.0,,,0
+2022,Week 17,FINAL,THU,12/29,Cowboys,3-1,27,1.0,Titans,2-2,13,0.0,,,0
+2022,Week 17,FINAL,SUN,01/01,Cardinals,2-2,19,0.0,Falcons,2-2,20,1.0,,,0
+2022,Week 17,FINAL,SUN,01/01,Bears,2-2,10,0.0,Lions,1-3,41,1.0,,,0
+2022,Week 17,FINAL,SUN,01/01,Jaguars,2-2,31,1.0,Texans,0-3-1,3,0.0,,,0
+2022,Week 17,FINAL,SUN,01/01,Broncos,2-2,24,0.0,Chiefs,3-1,27,1.0,,,0
+2022,Week 17,FINAL,SUN,01/01,Dolphins,3-1,21,0.0,Patriots,1-3,23,1.0,,,0
+2022,Week 17,FINAL,SUN,01/01,Colts,1-2-1,10,0.0,Giants,3-1,38,1.0,,,0
+2022,Week 17,FINAL,SUN,01/01,Saints,1-3,20,1.0,Eagles,4-0,10,0.0,,,0
+2022,Week 17,FINAL,SUN,01/01,Panthers,1-3,24,0.0,Buccaneers,2-2,30,1.0,,,0
+2022,Week 17,FINAL,SUN,01/01,Browns,2-2,24,1.0,Commanders,1-3,10,0.0,,,0
+2022,Week 17,FINAL,SUN,01/01,49ers,2-2,37,1.0,Raiders,1-3,34,0.0,,,0
+2022,Week 17,FINAL,SUN,01/01,Jets,2-2,6,0.0,Seahawks,2-2,23,1.0,,,0
+2022,Week 17,FINAL,SUN,01/01,Vikings,3-1,17,0.0,Packers,3-1,41,1.0,,,0
+2022,Week 17,FINAL,SUN,01/01,Rams,2-2,10,0.0,Chargers,2-2,31,1.0,,,0
+2022,Week 17,FINAL,SUN,01/01,Steelers,1-3,16,1.0,Ravens,2-2,13,0.0,,,0
+2022,Week 17,CANCELLED,CANCELLED,CANCELLED,Bills,3-1,0,0.0,Bengals,2-2,0,0.0,,,0
+2022,Week 18,FINAL,SAT,01/07,Chiefs,3-1,31,1.0,Raiders,1-3,13,0.0,,,0
+2022,Week 18,FINAL,SAT,01/07,Titans,2-2,16,0.0,Jaguars,2-2,20,1.0,,,0
+2022,Week 18,FINAL,SUN,01/08,Buccaneers,2-2,17,0.0,Falcons,2-2,30,1.0,,,0
+2022,Week 18,FINAL,SUN,01/08,Patriots,1-3,23,0.0,Bills,3-1,35,1.0,,,0
+2022,Week 18,FINAL,SUN,01/08,Vikings,3-1,29,1.0,Bears,2-2,13,0.0,,,0
+2022,Week 18,FINAL,SUN,01/08,Ravens,2-2,16,0.0,Bengals,2-2,27,1.0,,,0
+2022,Week 18,FINAL,SUN,01/08,Texans,0-3-1,32,1.0,Colts,1-2-1,31,0.0,,,0
+2022,Week 18,FINAL,SUN,01/08,Jets,2-2,6,0.0,Dolphins,3-1,11,1.0,,,0
+2022,Week 18,FINAL,SUN,01/08,Panthers,1-3,10,1.0,Saints,1-3,7,0.0,,,0
+2022,Week 18,FINAL,SUN,01/08,Browns,2-2,14,0.0,Steelers,1-3,28,1.0,,,0
+2022,Week 18,FINAL,SUN,01/08,Giants,3-1,16,0.0,Eagles,4-0,22,1.0,,,0
+2022,Week 18,FINAL,SUN,01/08,Cowboys,3-1,6,0.0,Commanders,1-3,26,1.0,,,0
+2022,Week 18,FINAL,SUN,01/08,Chargers,2-2,28,0.0,Broncos,2-2,31,1.0,,,0
+2022,Week 18,FINAL,SUN,01/08,Rams,2-2,16,0.0,Seahawks,2-2,19,1.0,,,0
+2022,Week 18,FINAL,SUN,01/08,Cardinals,2-2,13,0.0,49ers,2-2,38,1.0,,,0
+2022,Week 18,FINAL,SUN,01/08,Lions,1-3,20,1.0,Packers,3-1,16,0.0,,,0
+2022,Wild Card Weekend,FINAL,SAT,01/14,Seahawks,9-8,23,0.0,49ers,13-4,41,1.0,7,2,1
+2022,Wild Card Weekend,FINAL,SAT,01/14,Chargers,10-7,30,0.0,Jaguars,9-8,31,1.0,5,4,1
+2022,Wild Card Weekend,FINAL,SUN,01/15,Dolphins,9-8,31,0.0,Bills,13-3,34,1.0,7,2,1
+2022,Wild Card Weekend,FINAL,SUN,01/15,Giants,9-7-1,31,1.0,Vikings,13-4,24,0.0,6,3,1
+2022,Wild Card Weekend,FINAL,SUN,01/15,Ravens,10-7,17,0.0,Bengals,12-4,24,1.0,6,3,1
+2022,Wild Card Weekend,FINAL,MON,01/16,Cowboys,12-5,31,1.0,Buccaneers,8-9,14,0.0,5,4,1
+2022,Divisional Playoffs,FINAL,SAT,01/21,Jaguars,9-8,20,0.0,Chiefs,14-3,27,1.0,4,1,1
+2022,Divisional Playoffs,FINAL,SAT,01/21,Giants,9-7-1,7,0.0,Eagles,14-3,38,1.0,6,1,1
+2022,Divisional Playoffs,FINAL,SUN,01/22,Bengals,12-4,27,1.0,Bills,13-3,10,0.0,3,2,1
+2022,Divisional Playoffs,FINAL,SUN,01/22,Cowboys,12-5,12,0.0,49ers,13-4,19,1.0,5,2,1
+2022,Conference Championships,FINAL,SUN,01/29,49ers,13-4,7,0.0,Eagles,14-3,31,1.0,2,1,1
+2022,Conference Championships,FINAL,SUN,01/29,Bengals,12-4,20,0.0,Chiefs,14-3,23,1.0,3,1,1
+2022,Super Bowl,FINAL,SUN,02/12,Chiefs,14-3,38,1.0,Eagles,14-3,35,0.0,1,1,1
