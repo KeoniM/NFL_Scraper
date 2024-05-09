@@ -12,14 +12,15 @@ import random
 GLOBAL VARIABLES:
 path_to_webdriver - string - absolute path to webdriver on personal machine.
 """
-path_to_webdriver = '/Users/keoni/VisualStudioCode/Python/SeleniumVE/myenv/bin/chromedriver'
+
+relative_path_to_webdriver = 'bin/chromedriver'
 
 def main():
 
     print("STARTING")
 
     # Initializing instance of NflScraper 
-    scraper = NflScraper(path_to_webdriver)
+    scraper = NflScraper(relative_path_to_webdriver)
 
     # Display all available seasons and weeks
     available_options = scraper.display_seasons_and_weeks()
@@ -28,11 +29,12 @@ def main():
     available_years = available_options["Season"].tolist()
     available_weeks = available_options["Weeks"].tolist()
 
-    # Simulate normal user on website
+    # Simulate normal user on website (Trying to request throttle)
     base_sleep = 5
     random_additional_sleep = 5
 
-    for i in range(0,len(available_years)-6,1):
+    # Grabbing all scores from every week in every season
+    for i in range(1,len(available_years),1):
         for j in available_weeks[i]:
             print(available_years[i] + " " + j)
             adding_data = scraper.get_game_week_data(available_years[i], j)
