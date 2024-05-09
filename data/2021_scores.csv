@@ -1,0 +1,368 @@
+Season,Week,GameStatus,Day,Date,AwayTeam,AwayRecord,AwayScore,AwayWin,HomeTeam,HomeRecord,HomeScore,HomeWin,AwaySeeding,HomeSeeding,PostSeason?
+2021,Hall Of Fame,FINAL,THU,08/05,Cowboys,0-2,3,0.0,Steelers,2-0,16,1.0,,,0
+2021,Preseason Week 1,FINAL,THU,08/12,Football Team,1-1,13,0.0,Patriots,2-0,22,1.0,,,0
+2021,Preseason Week 1,FINAL,THU,08/12,Steelers,3-0,24,1.0,Eagles,0-2,16,0.0,,,0
+2021,Preseason Week 1,FINAL,FRI,08/13,Titans,2-0,23,1.0,Falcons,0-2,3,0.0,,,0
+2021,Preseason Week 1,FINAL,FRI,08/13,Bills,2-0,16,1.0,Lions,0-2,15,0.0,,,0
+2021,Preseason Week 1,FINAL,FRI,08/13,Cowboys,0-3,16,0.0,Cardinals,1-1,19,1.0,,,0
+2021,Preseason Week 1,FINAL,SAT,08/14,Dolphins,1-1,13,0.0,Bears,1-1,20,1.0,,,0
+2021,Preseason Week 1,FINAL,SAT,08/14,Broncos,2-0,33,1.0,Vikings,0-2,6,0.0,,,0
+2021,Preseason Week 1,FINAL,SAT,08/14,Saints,1-1,14,0.0,Ravens,2-0,17,1.0,,,0
+2021,Preseason Week 1,FINAL,SAT,08/14,Browns,2-0,23,1.0,Jaguars,0-2,13,0.0,,,0
+2021,Preseason Week 1,FINAL,SAT,08/14,Jets,2-0,12,1.0,Giants,0-2,7,0.0,,,0
+2021,Preseason Week 1,FINAL,SAT,08/14,Bengals,1-1,19,1.0,Buccaneers,0-2,14,0.0,,,0
+2021,Preseason Week 1,FINAL,SAT,08/14,Texans,2-0,26,1.0,Packers,0-2,7,0.0,,,0
+2021,Preseason Week 1,FINAL,SAT,08/14,Chiefs,2-0,19,1.0,49ers,1-1,16,0.0,,,0
+2021,Preseason Week 1,FINAL,SAT,08/14,Seahawks,0-2,7,0.0,Raiders,2-0,20,1.0,,,0
+2021,Preseason Week 1,FINAL,SAT,08/14,Chargers,1-1,13,1.0,Rams,0-2,6,0.0,,,0
+2021,Preseason Week 1,FINAL,SUN,08/15,Panthers,0-2,18,0.0,Colts,2-0,21,1.0,,,0
+2021,Preseason Week 2,FINAL,THU,08/19,Patriots,3-0,35,1.0,Eagles,0-2-1,0,0.0,,,0
+2021,Preseason Week 2,FINAL,FRI,08/20,Bengals,1-2,13,0.0,Football Team,1-2,17,1.0,,,0
+2021,Preseason Week 2,FINAL,FRI,08/20,Chiefs,3-0,17,1.0,Cardinals,1-1,10,0.0,,,0
+2021,Preseason Week 2,FINAL,SAT,08/21,Bills,3-0,41,1.0,Bears,2-1,15,0.0,,,0
+2021,Preseason Week 2,FINAL,SAT,08/21,Jets,2-0-1,23,1.0,Packers,0-3,14,0.0,,,0
+2021,Preseason Week 2,FINAL,SAT,08/21,Ravens,3-0,20,1.0,Panthers,1-2,3,0.0,,,0
+2021,Preseason Week 2,FINAL,SAT,08/21,Falcons,0-3,17,0.0,Dolphins,2-1,37,1.0,,,0
+2021,Preseason Week 2,FINAL,SAT,08/21,Titans,2-1,34,1.0,Buccaneers,1-2,3,0.0,,,0
+2021,Preseason Week 2,FINAL,SAT,08/21,Lions,0-3,20,0.0,Steelers,3-1,26,1.0,,,0
+2021,Preseason Week 2,FINAL,SAT,08/21,Colts,3-0,12,1.0,Vikings,0-3,10,0.0,,,0
+2021,Preseason Week 2,FINAL,SAT,08/21,Texans,2-1,20,1.0,Cowboys,0-4,14,0.0,,,0
+2021,Preseason Week 2,FINAL,SAT,08/21,Raiders,2-1,17,1.0,Rams,0-3,16,0.0,,,0
+2021,Preseason Week 2,FINAL,SAT,08/21,Broncos,3-0,30,1.0,Seahawks,1-2,3,0.0,,,0
+2021,Preseason Week 2,FINAL,SUN,08/22,Giants,0-3,13,0.0,Browns,3-0,17,1.0,,,0
+2021,Preseason Week 2,FINAL,SUN,08/22,49ers,2-1,15,1.0,Chargers,1-2,10,0.0,,,0
+2021,Preseason Week 2,FINAL,MON,08/23,Jaguars,1-2,21,0.0,Saints,1-1,23,1.0,,,0
+2021,Preseason Week 3,FINAL,FRI,08/27,Colts,0-0,27,1.0,Lions,0-0,17,0.0,,,0
+2021,Preseason Week 3,FINAL,FRI,08/27,Steelers,0-0,9,0.0,Panthers,0-0,34,1.0,,,0
+2021,Preseason Week 3,FINAL,FRI,08/27,Eagles,0-0,31,0.0,Jets,0-0,31,0.0,,,0
+2021,Preseason Week 3,FINAL,FRI,08/27,Vikings,0-0,25,0.0,Chiefs,0-0,28,1.0,,,0
+2021,Preseason Week 3,CANCELLED,CANCELLED,CANCELLED,Cardinals,0-0,0,0.0,Saints,0-0,0,0.0,,,0
+2021,Preseason Week 3,FINAL,SAT,08/28,Packers,0-0,0,0.0,Bills,0-0,19,1.0,,,0
+2021,Preseason Week 3,FINAL,SAT,08/28,Ravens,0-0,37,1.0,Football Team,0-0,3,0.0,,,0
+2021,Preseason Week 3,FINAL,SAT,08/28,Bears,0-0,27,1.0,Titans,0-0,24,0.0,,,0
+2021,Preseason Week 3,FINAL,SAT,08/28,Buccaneers,0-0,23,1.0,Texans,0-0,16,0.0,,,0
+2021,Preseason Week 3,FINAL,SAT,08/28,Rams,0-0,12,0.0,Broncos,0-0,17,1.0,,,0
+2021,Preseason Week 3,FINAL,SAT,08/28,Chargers,0-0,0,0.0,Seahawks,0-0,27,1.0,,,0
+2021,Preseason Week 3,FINAL,SUN,08/29,Jaguars,0-0,34,1.0,Cowboys,0-0,14,0.0,,,0
+2021,Preseason Week 3,FINAL,SUN,08/29,Dolphins,0-0,29,1.0,Bengals,0-0,26,0.0,,,0
+2021,Preseason Week 3,FINAL,SUN,08/29,Raiders,0-0,10,0.0,49ers,0-0,34,1.0,,,0
+2021,Preseason Week 3,FINAL,SUN,08/29,Patriots,0-0,22,1.0,Giants,0-0,20,0.0,,,0
+2021,Preseason Week 3,FINAL,SUN,08/29,Browns,0-0,19,1.0,Falcons,0-0,10,0.0,,,0
+2021,Week 1,FINAL,THU,09/09,Cowboys,0-1,29,0.0,Buccaneers,1-0,31,1.0,,,0
+2021,Week 1,FINAL,SUN,09/12,Jaguars,0-1,21,0.0,Texans,1-0,37,1.0,,,0
+2021,Week 1,FINAL,SUN,09/12,Chargers,1-0,20,1.0,Football Team,0-1,16,0.0,,,0
+2021,Week 1,FINAL,SUN,09/12,Seahawks,1-0,28,1.0,Colts,0-1,16,0.0,,,0
+2021,Week 1,FINAL,SUN,09/12,Jets,0-1,14,0.0,Panthers,1-0,19,1.0,,,0
+2021,Week 1,FINAL,SUN,09/12,Vikings,0-1,24,0.0,Bengals,1-0,27,1.0,,,0
+2021,Week 1,FINAL,SUN,09/12,Cardinals,1-0,38,1.0,Titans,0-1,13,0.0,,,0
+2021,Week 1,FINAL,SUN,09/12,49ers,1-0,41,1.0,Lions,0-1,33,0.0,,,0
+2021,Week 1,FINAL,SUN,09/12,Steelers,1-0,23,1.0,Bills,0-1,16,0.0,,,0
+2021,Week 1,FINAL,SUN,09/12,Eagles,1-0,32,1.0,Falcons,0-1,6,0.0,,,0
+2021,Week 1,FINAL,SUN,09/12,Browns,0-1,29,0.0,Chiefs,1-0,33,1.0,,,0
+2021,Week 1,FINAL,SUN,09/12,Packers,0-1,3,0.0,Saints,1-0,38,1.0,,,0
+2021,Week 1,FINAL,SUN,09/12,Broncos,1-0,27,1.0,Giants,0-1,13,0.0,,,0
+2021,Week 1,FINAL,SUN,09/12,Dolphins,1-0,17,1.0,Patriots,0-1,16,0.0,,,0
+2021,Week 1,FINAL,SUN,09/12,Bears,0-1,14,0.0,Rams,1-0,34,1.0,,,0
+2021,Week 1,FINAL,MON,09/13,Ravens,0-1,27,0.0,Raiders,1-0,33,1.0,,,0
+2021,Week 2,FINAL,THU,09/16,Giants,0-2,29,0.0,Football Team,1-1,30,1.0,,,0
+2021,Week 2,FINAL,SUN,09/19,Patriots,1-1,25,1.0,Jets,0-2,6,0.0,,,0
+2021,Week 2,FINAL,SUN,09/19,Broncos,2-0,23,1.0,Jaguars,0-2,13,0.0,,,0
+2021,Week 2,FINAL,SUN,09/19,Bills,1-1,35,1.0,Dolphins,1-1,0,0.0,,,0
+2021,Week 2,FINAL,SUN,09/19,49ers,2-0,17,1.0,Eagles,1-1,11,0.0,,,0
+2021,Week 2,FINAL,SUN,09/19,Rams,2-0,27,1.0,Colts,0-2,24,0.0,,,0
+2021,Week 2,FINAL,SUN,09/19,Raiders,2-0,26,1.0,Steelers,1-1,17,0.0,,,0
+2021,Week 2,FINAL,SUN,09/19,Bengals,1-1,17,0.0,Bears,1-1,20,1.0,,,0
+2021,Week 2,FINAL,SUN,09/19,Texans,1-1,21,0.0,Browns,1-1,31,1.0,,,0
+2021,Week 2,FINAL,SUN,09/19,Saints,1-1,7,0.0,Panthers,2-0,26,1.0,,,0
+2021,Week 2,FINAL,SUN,09/19,Vikings,0-2,33,0.0,Cardinals,2-0,34,1.0,,,0
+2021,Week 2,FINAL,SUN,09/19,Falcons,0-2,25,0.0,Buccaneers,2-0,48,1.0,,,0
+2021,Week 2,FINAL,SUN,09/19,Titans,1-1,33,1.0,Seahawks,1-1,30,0.0,,,0
+2021,Week 2,FINAL,SUN,09/19,Cowboys,1-1,20,1.0,Chargers,1-1,17,0.0,,,0
+2021,Week 2,FINAL,SUN,09/19,Chiefs,1-1,35,0.0,Ravens,1-1,36,1.0,,,0
+2021,Week 2,FINAL,MON,09/20,Lions,0-2,17,0.0,Packers,1-1,35,1.0,,,0
+2021,Week 3,FINAL,THU,09/23,Panthers,3-0,24,1.0,Texans,1-2,9,0.0,,,0
+2021,Week 3,FINAL,SUN,09/26,Colts,0-3,16,0.0,Titans,2-1,25,1.0,,,0
+2021,Week 3,FINAL,SUN,09/26,Falcons,1-2,17,1.0,Giants,0-3,14,0.0,,,0
+2021,Week 3,FINAL,SUN,09/26,Chargers,2-1,30,1.0,Chiefs,1-2,24,0.0,,,0
+2021,Week 3,FINAL,SUN,09/26,Bengals,2-1,24,1.0,Steelers,1-2,10,0.0,,,0
+2021,Week 3,FINAL,SUN,09/26,Bears,1-2,6,0.0,Browns,2-1,26,1.0,,,0
+2021,Week 3,FINAL,SUN,09/26,Ravens,2-1,19,1.0,Lions,0-3,17,0.0,,,0
+2021,Week 3,FINAL,SUN,09/26,Saints,2-1,28,1.0,Patriots,1-2,13,0.0,,,0
+2021,Week 3,FINAL,SUN,09/26,Cardinals,3-0,31,1.0,Jaguars,0-3,19,0.0,,,0
+2021,Week 3,FINAL,SUN,09/26,Football Team,1-2,21,0.0,Bills,2-1,43,1.0,,,0
+2021,Week 3,FINAL,SUN,09/26,Jets,0-3,0,0.0,Broncos,3-0,26,1.0,,,0
+2021,Week 3,FINAL,SUN,09/26,Dolphins,1-2,28,0.0,Raiders,3-0,31,1.0,,,0
+2021,Week 3,FINAL,SUN,09/26,Seahawks,1-2,17,0.0,Vikings,1-2,30,1.0,,,0
+2021,Week 3,FINAL,SUN,09/26,Buccaneers,2-1,24,0.0,Rams,3-0,34,1.0,,,0
+2021,Week 3,FINAL,SUN,09/26,Packers,2-1,30,1.0,49ers,2-1,28,0.0,,,0
+2021,Week 3,FINAL,MON,09/27,Eagles,1-2,21,0.0,Cowboys,2-1,41,1.0,,,0
+2021,Week 4,FINAL,THU,09/30,Jaguars,0-4,21,0.0,Bengals,3-1,24,1.0,,,0
+2021,Week 4,FINAL,SUN,10/03,Titans,2-2,24,0.0,Jets,1-3,27,1.0,,,0
+2021,Week 4,FINAL,SUN,10/03,Chiefs,2-2,42,1.0,Eagles,1-3,30,0.0,,,0
+2021,Week 4,FINAL,SUN,10/03,Panthers,3-1,28,0.0,Cowboys,3-1,36,1.0,,,0
+2021,Week 4,FINAL,SUN,10/03,Giants,1-3,27,1.0,Saints,2-2,21,0.0,,,0
+2021,Week 4,FINAL,SUN,10/03,Browns,3-1,14,1.0,Vikings,1-3,7,0.0,,,0
+2021,Week 4,FINAL,SUN,10/03,Lions,0-4,14,0.0,Bears,2-2,24,1.0,,,0
+2021,Week 4,FINAL,SUN,10/03,Texans,1-3,0,0.0,Bills,3-1,40,1.0,,,0
+2021,Week 4,FINAL,SUN,10/03,Colts,1-3,27,1.0,Dolphins,1-3,17,0.0,,,0
+2021,Week 4,FINAL,SUN,10/03,Football Team,2-2,34,1.0,Falcons,1-3,30,0.0,,,0
+2021,Week 4,FINAL,SUN,10/03,Seahawks,2-2,28,1.0,49ers,2-2,21,0.0,,,0
+2021,Week 4,FINAL,SUN,10/03,Cardinals,4-0,37,1.0,Rams,3-1,20,0.0,,,0
+2021,Week 4,FINAL,SUN,10/03,Steelers,1-3,17,0.0,Packers,3-1,27,1.0,,,0
+2021,Week 4,FINAL,SUN,10/03,Ravens,3-1,23,1.0,Broncos,3-1,7,0.0,,,0
+2021,Week 4,FINAL,SUN,10/03,Buccaneers,3-1,19,1.0,Patriots,1-3,17,0.0,,,0
+2021,Week 4,FINAL,MON,10/04,Raiders,3-1,14,0.0,Chargers,3-1,28,1.0,,,0
+2021,Week 5,FINAL,THU,10/07,Rams,3-1,26,1.0,Seahawks,2-2,17,0.0,,,0
+2021,Week 5,FINAL,SUN,10/10,Jets,1-3,20,0.0,Falcons,1-3,27,1.0,,,0
+2021,Week 5,FINAL,SUN,10/10,Lions,0-4,17,0.0,Vikings,1-3,19,1.0,,,0
+2021,Week 5,FINAL,SUN,10/10,Saints,2-2,33,1.0,Football Team,2-2,22,0.0,,,0
+2021,Week 5,FINAL,SUN,10/10,Patriots,1-3,25,1.0,Texans,1-3,22,0.0,,,0
+2021,Week 5,FINAL,SUN,10/10,Dolphins,1-3,17,0.0,Buccaneers,3-1,45,1.0,,,0
+2021,Week 5,FINAL,SUN,10/10,Packers,3-1,25,1.0,Bengals,3-1,22,0.0,,,0
+2021,Week 5,FINAL,SUN,10/10,Broncos,3-1,19,0.0,Steelers,1-3,27,1.0,,,0
+2021,Week 5,FINAL,SUN,10/10,Eagles,1-3,21,1.0,Panthers,3-1,18,0.0,,,0
+2021,Week 5,FINAL,SUN,10/10,Titans,2-2,37,1.0,Jaguars,0-4,19,0.0,,,0
+2021,Week 5,FINAL,SUN,10/10,Browns,3-1,42,0.0,Chargers,3-1,47,1.0,,,0
+2021,Week 5,FINAL,SUN,10/10,Bears,2-2,20,1.0,Raiders,3-1,9,0.0,,,0
+2021,Week 5,FINAL,SUN,10/10,49ers,2-2,10,0.0,Cardinals,4-0,17,1.0,,,0
+2021,Week 5,FINAL,SUN,10/10,Giants,1-3,20,0.0,Cowboys,3-1,44,1.0,,,0
+2021,Week 5,FINAL,SUN,10/10,Bills,3-1,38,1.0,Chiefs,2-2,20,0.0,,,0
+2021,Week 5,FINAL,MON,10/11,Colts,1-3,25,0.0,Ravens,3-1,31,1.0,,,0
+2021,Week 6,FINAL,THU,10/14,Buccaneers,3-1,28,1.0,Eagles,1-3,22,0.0,,,0
+2021,Week 6,FINAL,SUN,10/17,Dolphins,1-3,20,0.0,Jaguars,0-4,23,1.0,,,0
+2021,Week 6,FINAL,SUN,10/17,Chiefs,2-2,31,1.0,Football Team,2-2,13,0.0,,,0
+2021,Week 6,FINAL,SUN,10/17,Rams,3-1,38,1.0,Giants,1-3,11,0.0,,,0
+2021,Week 6,FINAL,SUN,10/17,Texans,1-3,3,0.0,Colts,1-3,31,1.0,,,0
+2021,Week 6,FINAL,SUN,10/17,Bengals,3-1,34,1.0,Lions,0-4,11,0.0,,,0
+2021,Week 6,FINAL,SUN,10/17,Packers,3-1,24,1.0,Bears,2-2,14,0.0,,,0
+2021,Week 6,FINAL,SUN,10/17,Chargers,3-1,6,0.0,Ravens,3-1,34,1.0,,,0
+2021,Week 6,FINAL,SUN,10/17,Vikings,1-3,34,1.0,Panthers,3-1,28,0.0,,,0
+2021,Week 6,FINAL,SUN,10/17,Cardinals,4-0,37,1.0,Browns,3-1,14,0.0,,,0
+2021,Week 6,FINAL,SUN,10/17,Raiders,3-1,34,1.0,Broncos,3-1,24,0.0,,,0
+2021,Week 6,FINAL,SUN,10/17,Cowboys,3-1,35,1.0,Patriots,1-3,29,0.0,,,0
+2021,Week 6,FINAL,SUN,10/17,Seahawks,2-2,20,0.0,Steelers,1-3,23,1.0,,,0
+2021,Week 6,FINAL,MON,10/18,Bills,3-1,31,0.0,Titans,2-2,34,1.0,,,0
+2021,Week 6,BYE,,,Jets,1-3,,,,,,,,,0
+2021,Week 6,BYE,,,Falcons,2-2,,,,,,,,,0
+2021,Week 6,BYE,,,49ers,4-0,,,,,,,,,0
+2021,Week 6,BYE,,,Saints,2-2,,,,,,,,,0
+2021,Week 7,FINAL,THU,10/21,Broncos,3-1,14,0.0,Browns,3-1,17,1.0,,,0
+2021,Week 7,FINAL,SUN,10/24,Panthers,3-1,3,0.0,Giants,1-3,25,1.0,,,0
+2021,Week 7,FINAL,SUN,10/24,Jets,1-3,13,0.0,Patriots,1-3,54,1.0,,,0
+2021,Week 7,FINAL,SUN,10/24,Chiefs,2-2,3,0.0,Titans,2-2,27,1.0,,,0
+2021,Week 7,FINAL,SUN,10/24,Football Team,2-2,10,0.0,Packers,3-1,24,1.0,,,0
+2021,Week 7,FINAL,SUN,10/24,Falcons,1-3,30,1.0,Dolphins,1-3,28,0.0,,,0
+2021,Week 7,FINAL,SUN,10/24,Bengals,3-1,41,1.0,Ravens,3-1,17,0.0,,,0
+2021,Week 7,FINAL,SUN,10/24,Lions,0-4,19,0.0,Rams,3-1,28,1.0,,,0
+2021,Week 7,FINAL,SUN,10/24,Eagles,1-3,22,0.0,Raiders,3-1,33,1.0,,,0
+2021,Week 7,FINAL,SUN,10/24,Texans,1-3,5,0.0,Cardinals,4-0,31,1.0,,,0
+2021,Week 7,FINAL,SUN,10/24,Bears,2-2,3,0.0,Buccaneers,3-1,38,1.0,,,0
+2021,Week 7,FINAL,SUN,10/24,Colts,1-3,30,1.0,49ers,2-2,18,0.0,,,0
+2021,Week 7,FINAL,MON,10/25,Saints,2-2,13,1.0,Seahawks,2-2,10,0.0,,,0
+2021,Week 7,BYE,,,Steelers,2-2,,,,,,,,,0
+2021,Week 7,BYE,,,Bills,3-1,,,,,,,,,0
+2021,Week 7,BYE,,,Chargers,2-2,,,,,,,,,0
+2021,Week 7,BYE,,,Jaguars,2-2,,,,,,,,,0
+2021,Week 7,BYE,,,Vikings,1-3,,,,,,,,,0
+2021,Week 7,BYE,,,Cowboys,3-1,,,,,,,,,0
+2021,Week 8,FINAL,THU,10/28,Packers,3-1,24,1.0,Cardinals,4-0,21,0.0,,,0
+2021,Week 8,FINAL,SUN,10/31,Bengals,3-1,31,0.0,Jets,1-3,34,1.0,,,0
+2021,Week 8,FINAL,SUN,10/31,Titans,2-2,34,1.0,Colts,1-3,31,0.0,,,0
+2021,Week 8,FINAL,SUN,10/31,Rams,3-1,38,1.0,Texans,1-3,22,0.0,,,0
+2021,Week 8,FINAL,SUN,10/31,Steelers,1-3,15,1.0,Browns,3-1,10,0.0,,,0
+2021,Week 8,FINAL,SUN,10/31,Eagles,1-3,44,1.0,Lions,0-4,6,0.0,,,0
+2021,Week 8,FINAL,SUN,10/31,49ers,2-2,33,1.0,Bears,2-2,22,0.0,,,0
+2021,Week 8,FINAL,SUN,10/31,Panthers,3-1,19,1.0,Falcons,1-3,13,0.0,,,0
+2021,Week 8,FINAL,SUN,10/31,Dolphins,1-3,11,0.0,Bills,3-1,26,1.0,,,0
+2021,Week 8,FINAL,SUN,10/31,Patriots,1-3,27,1.0,Chargers,3-1,24,0.0,,,0
+2021,Week 8,FINAL,SUN,10/31,Jaguars,0-4,7,0.0,Seahawks,2-2,31,1.0,,,0
+2021,Week 8,FINAL,SUN,10/31,Football Team,2-2,10,0.0,Broncos,3-1,17,1.0,,,0
+2021,Week 8,FINAL,SUN,10/31,Buccaneers,3-1,27,0.0,Saints,2-2,36,1.0,,,0
+2021,Week 8,FINAL,SUN,10/31,Cowboys,3-1,20,1.0,Vikings,1-3,16,0.0,,,0
+2021,Week 8,FINAL,MON,11/01,Giants,1-3,17,0.0,Chiefs,2-2,20,1.0,,,0
+2021,Week 8,BYE,,,Ravens,3-1,,,,,,,,,0
+2021,Week 8,BYE,,,Raiders,1-3,,,,,,,,,0
+2021,Week 9,FINAL,THU,11/04,Jets,1-3,30,0.0,Colts,1-3,45,1.0,,,0
+2021,Week 9,FINAL,SUN,11/07,Falcons,1-3,27,1.0,Saints,2-2,25,0.0,,,0
+2021,Week 9,FINAL,SUN,11/07,Broncos,3-1,30,1.0,Cowboys,3-1,16,0.0,,,0
+2021,Week 9,FINAL,SUN,11/07,Patriots,1-3,24,1.0,Panthers,3-1,6,0.0,,,0
+2021,Week 9,FINAL,SUN,11/07,Vikings,1-3,31,0.0,Ravens,3-1,34,1.0,,,0
+2021,Week 9,FINAL,SUN,11/07,Browns,3-1,41,1.0,Bengals,3-1,16,0.0,,,0
+2021,Week 9,FINAL,SUN,11/07,Bills,3-1,6,0.0,Jaguars,0-4,9,1.0,,,0
+2021,Week 9,FINAL,SUN,11/07,Texans,1-3,9,0.0,Dolphins,1-3,17,1.0,,,0
+2021,Week 9,FINAL,SUN,11/07,Raiders,3-1,16,0.0,Giants,1-3,23,1.0,,,0
+2021,Week 9,FINAL,SUN,11/07,Chargers,3-1,27,1.0,Eagles,1-3,24,0.0,,,0
+2021,Week 9,FINAL,SUN,11/07,Packers,3-1,7,0.0,Chiefs,2-2,13,1.0,,,0
+2021,Week 9,FINAL,SUN,11/07,Cardinals,4-0,31,1.0,49ers,2-2,17,0.0,,,0
+2021,Week 9,FINAL,SUN,11/07,Titans,2-2,28,1.0,Rams,3-1,16,0.0,,,0
+2021,Week 9,FINAL,MON,11/08,Bears,2-2,27,0.0,Steelers,1-3,29,1.0,,,0
+2021,Week 9,BYE,,,Football,ea,,,,,,,,,0
+2021,Week 9,BYE,,,Buccaneers,3-1,,,,,,,,,0
+2021,Week 9,BYE,,,Lions,3-1,,,,,,,,,0
+2021,Week 9,BYE,,,Seahawks,3-1,,,,,,,,,0
+2021,Week 10,FINAL,THU,11/11,Ravens,3-1,10,0.0,Dolphins,1-3,22,1.0,,,0
+2021,Week 10,FINAL,SUN,11/14,Bills,3-1,45,1.0,Jets,1-3,17,0.0,,,0
+2021,Week 10,FINAL,SUN,11/14,Buccaneers,3-1,19,0.0,Football Team,2-2,29,1.0,,,0
+2021,Week 10,FINAL,SUN,11/14,Falcons,1-3,3,0.0,Cowboys,3-1,43,1.0,,,0
+2021,Week 10,FINAL,SUN,11/14,Saints,2-2,21,0.0,Titans,2-2,23,1.0,,,0
+2021,Week 10,FINAL,SUN,11/14,Jaguars,0-4,17,0.0,Colts,1-3,23,1.0,,,0
+2021,Week 10,FINAL,SUN,11/14,Lions,0-4,16,0.0,Steelers,1-3,16,0.0,,,0
+2021,Week 10,FINAL,SUN,11/14,Browns,3-1,7,0.0,Patriots,1-3,45,1.0,,,0
+2021,Week 10,FINAL,SUN,11/14,Vikings,1-3,27,1.0,Chargers,3-1,20,0.0,,,0
+2021,Week 10,FINAL,SUN,11/14,Panthers,3-1,34,1.0,Cardinals,4-0,10,0.0,,,0
+2021,Week 10,FINAL,SUN,11/14,Eagles,1-3,30,1.0,Broncos,3-1,13,0.0,,,0
+2021,Week 10,FINAL,SUN,11/14,Seahawks,2-2,0,0.0,Packers,3-1,17,1.0,,,0
+2021,Week 10,FINAL,SUN,11/14,Chiefs,2-2,41,1.0,Raiders,3-1,14,0.0,,,0
+2021,Week 10,FINAL,MON,11/15,Rams,3-1,10,0.0,49ers,2-2,31,1.0,,,0
+2021,Week 10,BYE,,,Texans,2-2,,,,,,,,,0
+2021,Week 10,BYE,,,Bears,0-4,,,,,,,,,0
+2021,Week 10,BYE,,,Bengals,1-3,,,,,,,,,0
+2021,Week 10,BYE,,,Giants,1-3,,,,,,,,,0
+2021,Week 11,FINAL,THU,11/18,Patriots,1-3,25,1.0,Falcons,1-3,0,0.0,,,0
+2021,Week 11,FINAL,SUN,11/21,Saints,2-2,29,0.0,Eagles,1-3,40,1.0,,,0
+2021,Week 11,FINAL,SUN,11/21,Dolphins,1-3,24,1.0,Jets,1-3,17,0.0,,,0
+2021,Week 11,FINAL,SUN,11/21,Football Team,2-2,27,1.0,Panthers,3-1,21,0.0,,,0
+2021,Week 11,FINAL,SUN,11/21,Colts,1-3,41,1.0,Bills,3-1,15,0.0,,,0
+2021,Week 11,FINAL,SUN,11/21,Lions,0-4,10,0.0,Browns,3-1,13,1.0,,,0
+2021,Week 11,FINAL,SUN,11/21,49ers,2-2,30,1.0,Jaguars,0-4,10,0.0,,,0
+2021,Week 11,FINAL,SUN,11/21,Texans,1-3,22,1.0,Titans,2-2,13,0.0,,,0
+2021,Week 11,FINAL,SUN,11/21,Packers,3-1,31,0.0,Vikings,1-3,34,1.0,,,0
+2021,Week 11,FINAL,SUN,11/21,Ravens,3-1,16,1.0,Bears,2-2,13,0.0,,,0
+2021,Week 11,FINAL,SUN,11/21,Bengals,3-1,32,1.0,Raiders,3-1,13,0.0,,,0
+2021,Week 11,FINAL,SUN,11/21,Cardinals,4-0,23,1.0,Seahawks,2-2,13,0.0,,,0
+2021,Week 11,FINAL,SUN,11/21,Cowboys,3-1,9,0.0,Chiefs,2-2,19,1.0,,,0
+2021,Week 11,FINAL,SUN,11/21,Steelers,1-3,37,0.0,Chargers,3-1,41,1.0,,,0
+2021,Week 11,FINAL,MON,11/22,Giants,1-3,10,0.0,Buccaneers,3-1,30,1.0,,,0
+2021,Week 11,BYE,,,Broncos,1-3,,,,,,,,,0
+2021,Week 11,BYE,,,Rams,2-2,,,,,,,,,0
+2021,Week 12,FINAL,THU,11/25,Bears,2-2,16,1.0,Lions,0-4,14,0.0,,,0
+2021,Week 12,FINAL,THU,11/25,Raiders,3-1,36,1.0,Cowboys,3-1,33,0.0,,,0
+2021,Week 12,FINAL,THU,11/25,Bills,3-1,31,1.0,Saints,2-2,6,0.0,,,0
+2021,Week 12,FINAL,SUN,11/28,Buccaneers,3-1,38,1.0,Colts,1-3,31,0.0,,,0
+2021,Week 12,FINAL,SUN,11/28,Jets,1-3,21,1.0,Texans,1-3,14,0.0,,,0
+2021,Week 12,FINAL,SUN,11/28,Eagles,1-3,7,0.0,Giants,1-3,13,1.0,,,0
+2021,Week 12,FINAL,SUN,11/28,Panthers,3-1,10,0.0,Dolphins,1-3,33,1.0,,,0
+2021,Week 12,FINAL,SUN,11/28,Titans,2-2,13,0.0,Patriots,1-3,36,1.0,,,0
+2021,Week 12,FINAL,SUN,11/28,Steelers,1-3,10,0.0,Bengals,3-1,41,1.0,,,0
+2021,Week 12,FINAL,SUN,11/28,Falcons,1-3,21,1.0,Jaguars,0-4,14,0.0,,,0
+2021,Week 12,FINAL,SUN,11/28,Chargers,3-1,13,0.0,Broncos,3-1,28,1.0,,,0
+2021,Week 12,FINAL,SUN,11/28,Rams,3-1,28,0.0,Packers,3-1,36,1.0,,,0
+2021,Week 12,FINAL,SUN,11/28,Vikings,1-3,26,0.0,49ers,2-2,34,1.0,,,0
+2021,Week 12,FINAL,SUN,11/28,Browns,3-1,10,0.0,Ravens,3-1,16,1.0,,,0
+2021,Week 12,FINAL,MON,11/29,Seahawks,2-2,15,0.0,Football Team,2-2,17,1.0,,,0
+2021,Week 12,BYE,,,Cardinals,1-3,,,,,,,,,0
+2021,Week 12,BYE,,,Chiefs,3-1,,,,,,,,,0
+2021,Week 13,FINAL,THU,12/02,Cowboys,3-1,27,1.0,Saints,2-2,17,0.0,,,0
+2021,Week 13,FINAL,SUN,12/05,Giants,1-3,9,0.0,Dolphins,1-3,20,1.0,,,0
+2021,Week 13,FINAL,SUN,12/05,Colts,1-3,31,1.0,Texans,1-3,0,0.0,,,0
+2021,Week 13,FINAL,SUN,12/05,Vikings,1-3,27,0.0,Lions,0-4,29,1.0,,,0
+2021,Week 13,FINAL,SUN,12/05,Eagles,1-3,33,1.0,Jets,1-3,18,0.0,,,0
+2021,Week 13,FINAL,SUN,12/05,Cardinals,4-0,33,1.0,Bears,2-2,22,0.0,,,0
+2021,Week 13,FINAL,SUN,12/05,Chargers,3-1,41,1.0,Bengals,3-1,22,0.0,,,0
+2021,Week 13,FINAL,SUN,12/05,Buccaneers,3-1,30,1.0,Falcons,1-3,17,0.0,,,0
+2021,Week 13,FINAL,SUN,12/05,Jaguars,0-4,7,0.0,Rams,3-1,37,1.0,,,0
+2021,Week 13,FINAL,SUN,12/05,Football Team,2-2,17,1.0,Raiders,3-1,15,0.0,,,0
+2021,Week 13,FINAL,SUN,12/05,Ravens,3-1,19,0.0,Steelers,1-3,20,1.0,,,0
+2021,Week 13,FINAL,SUN,12/05,49ers,2-2,23,0.0,Seahawks,2-2,30,1.0,,,0
+2021,Week 13,FINAL,SUN,12/05,Broncos,3-1,9,0.0,Chiefs,2-2,22,1.0,,,0
+2021,Week 13,FINAL,MON,12/06,Patriots,1-3,14,1.0,Bills,3-1,10,0.0,,,0
+2021,Week 13,BYE,,,Titans,2-2,,,,,,,,,0
+2021,Week 13,BYE,,,Panthers,0-4,,,,,,,,,0
+2021,Week 13,BYE,,,Browns,2-2,,,,,,,,,0
+2021,Week 13,BYE,,,Packers,2-2,,,,,,,,,0
+2021,Week 14,FINAL,THU,12/09,Steelers,1-3,28,0.0,Vikings,1-3,36,1.0,,,0
+2021,Week 14,FINAL,SUN,12/12,Cowboys,3-1,27,1.0,Football Team,2-2,20,0.0,,,0
+2021,Week 14,FINAL,SUN,12/12,Jaguars,0-4,0,0.0,Titans,2-2,20,1.0,,,0
+2021,Week 14,FINAL,SUN,12/12,Seahawks,2-2,33,1.0,Texans,1-3,13,0.0,,,0
+2021,Week 14,FINAL,SUN,12/12,Raiders,3-1,9,0.0,Chiefs,2-2,48,1.0,,,0
+2021,Week 14,FINAL,SUN,12/12,Saints,2-2,30,1.0,Jets,1-3,9,0.0,,,0
+2021,Week 14,FINAL,SUN,12/12,Falcons,1-3,29,1.0,Panthers,3-1,21,0.0,,,0
+2021,Week 14,FINAL,SUN,12/12,Ravens,3-1,22,0.0,Browns,3-1,24,1.0,,,0
+2021,Week 14,FINAL,SUN,12/12,Giants,1-3,21,0.0,Chargers,3-1,37,1.0,,,0
+2021,Week 14,FINAL,SUN,12/12,Lions,0-4,10,0.0,Broncos,3-1,38,1.0,,,0
+2021,Week 14,FINAL,SUN,12/12,49ers,2-2,26,1.0,Bengals,3-1,23,0.0,,,0
+2021,Week 14,FINAL,SUN,12/12,Bills,3-1,27,0.0,Buccaneers,3-1,33,1.0,,,0
+2021,Week 14,FINAL,SUN,12/12,Bears,2-2,30,0.0,Packers,3-1,45,1.0,,,0
+2021,Week 14,FINAL,MON,12/13,Rams,3-1,30,1.0,Cardinals,4-0,23,0.0,,,0
+2021,Week 14,BYE,,,Colts,2-2,,,,,,,,,0
+2021,Week 14,BYE,,,Patriots,1-3,,,,,,,,,0
+2021,Week 14,BYE,,,Dolphins,3-1,,,,,,,,,0
+2021,Week 14,BYE,,,Eagles,4-0,,,,,,,,,0
+2021,Week 15,FINAL,THU,12/16,Chiefs,2-2,34,1.0,Chargers,3-1,28,0.0,,,0
+2021,Week 15,FINAL,SAT,12/18,Patriots,1-3,17,0.0,Colts,1-3,27,1.0,,,0
+2021,Week 15,FINAL,SUN,12/19,Cowboys,3-1,21,1.0,Giants,1-3,6,0.0,,,0
+2021,Week 15,FINAL,SUN,12/19,Texans,1-3,30,1.0,Jaguars,0-4,16,0.0,,,0
+2021,Week 15,FINAL,SUN,12/19,Titans,2-2,13,0.0,Steelers,1-3,19,1.0,,,0
+2021,Week 15,FINAL,SUN,12/19,Jets,1-3,24,0.0,Dolphins,1-3,31,1.0,,,0
+2021,Week 15,FINAL,SUN,12/19,Cardinals,4-0,12,0.0,Lions,0-4,30,1.0,,,0
+2021,Week 15,FINAL,SUN,12/19,Panthers,3-1,14,0.0,Bills,3-1,31,1.0,,,0
+2021,Week 15,FINAL,SUN,12/19,Bengals,3-1,15,1.0,Broncos,3-1,10,0.0,,,0
+2021,Week 15,FINAL,SUN,12/19,Falcons,1-3,13,0.0,49ers,2-2,31,1.0,,,0
+2021,Week 15,FINAL,SUN,12/19,Packers,3-1,31,1.0,Ravens,3-1,30,0.0,,,0
+2021,Week 15,FINAL,SUN,12/19,Saints,2-2,9,1.0,Buccaneers,3-1,0,0.0,,,0
+2021,Week 15,FINAL,MON,12/20,Raiders,3-1,16,1.0,Browns,3-1,14,0.0,,,0
+2021,Week 15,FINAL,MON,12/20,Vikings,1-3,17,1.0,Bears,2-2,9,0.0,,,0
+2021,Week 15,FINAL,TUE,12/21,Seahawks,2-2,10,0.0,Rams,3-1,20,1.0,,,0
+2021,Week 15,FINAL,TUE,12/21,Football Team,2-2,17,0.0,Eagles,1-3,27,1.0,,,0
+2021,Week 16,FINAL,THU,12/23,49ers,2-2,17,0.0,Titans,2-2,20,1.0,,,0
+2021,Week 16,FINAL,SAT,12/25,Browns,3-1,22,0.0,Packers,3-1,24,1.0,,,0
+2021,Week 16,FINAL,SAT,12/25,Colts,1-3,22,1.0,Cardinals,4-0,16,0.0,,,0
+2021,Week 16,FINAL,SUN,12/26,Giants,1-3,10,0.0,Eagles,1-3,34,1.0,,,0
+2021,Week 16,FINAL,SUN,12/26,Rams,3-1,30,1.0,Vikings,1-3,23,0.0,,,0
+2021,Week 16,FINAL,SUN,12/26,Bills,3-1,33,1.0,Patriots,1-3,21,0.0,,,0
+2021,Week 16,FINAL,SUN,12/26,Buccaneers,3-1,32,1.0,Panthers,3-1,6,0.0,,,0
+2021,Week 16,FINAL,SUN,12/26,Jaguars,0-4,21,0.0,Jets,1-3,26,1.0,,,0
+2021,Week 16,FINAL,SUN,12/26,Lions,0-4,16,0.0,Falcons,1-3,20,1.0,,,0
+2021,Week 16,FINAL,SUN,12/26,Chargers,3-1,29,0.0,Texans,1-3,41,1.0,,,0
+2021,Week 16,FINAL,SUN,12/26,Ravens,3-1,21,0.0,Bengals,3-1,41,1.0,,,0
+2021,Week 16,FINAL,SUN,12/26,Bears,2-2,25,1.0,Seahawks,2-2,24,0.0,,,0
+2021,Week 16,FINAL,SUN,12/26,Steelers,1-3,10,0.0,Chiefs,2-2,36,1.0,,,0
+2021,Week 16,FINAL,SUN,12/26,Broncos,3-1,13,0.0,Raiders,3-1,17,1.0,,,0
+2021,Week 16,FINAL,SUN,12/26,Football Team,2-2,14,0.0,Cowboys,3-1,56,1.0,,,0
+2021,Week 16,FINAL,MON,12/27,Dolphins,1-3,20,1.0,Saints,2-2,3,0.0,,,0
+2021,Week 17,FINAL,SUN,01/02,Eagles,1-3,20,1.0,Football Team,2-2,16,0.0,,,0
+2021,Week 17,FINAL,SUN,01/02,Rams,3-1,20,1.0,Ravens,3-1,19,0.0,,,0
+2021,Week 17,FINAL,SUN,01/02,Buccaneers,3-1,28,1.0,Jets,1-3,24,0.0,,,0
+2021,Week 17,FINAL,SUN,01/02,Dolphins,1-3,3,0.0,Titans,2-2,34,1.0,,,0
+2021,Week 17,FINAL,SUN,01/02,Jaguars,0-4,10,0.0,Patriots,1-3,50,1.0,,,0
+2021,Week 17,FINAL,SUN,01/02,Raiders,3-1,23,1.0,Colts,1-3,20,0.0,,,0
+2021,Week 17,FINAL,SUN,01/02,Chiefs,2-2,31,0.0,Bengals,3-1,34,1.0,,,0
+2021,Week 17,FINAL,SUN,01/02,Giants,1-3,3,0.0,Bears,2-2,29,1.0,,,0
+2021,Week 17,FINAL,SUN,01/02,Falcons,1-3,15,0.0,Bills,3-1,29,1.0,,,0
+2021,Week 17,FINAL,SUN,01/02,Texans,1-3,7,0.0,49ers,2-2,23,1.0,,,0
+2021,Week 17,FINAL,SUN,01/02,Broncos,3-1,13,0.0,Chargers,3-1,34,1.0,,,0
+2021,Week 17,FINAL,SUN,01/02,Panthers,3-1,10,0.0,Saints,2-2,18,1.0,,,0
+2021,Week 17,FINAL,SUN,01/02,Lions,0-4,29,0.0,Seahawks,2-2,51,1.0,,,0
+2021,Week 17,FINAL,SUN,01/02,Cardinals,4-0,25,1.0,Cowboys,3-1,22,0.0,,,0
+2021,Week 17,FINAL,SUN,01/02,Vikings,1-3,10,0.0,Packers,3-1,37,1.0,,,0
+2021,Week 17,FINAL,MON,01/03,Browns,3-1,14,0.0,Steelers,1-3,26,1.0,,,0
+2021,Week 18,FINAL,SAT,01/08,Chiefs,2-2,28,1.0,Broncos,3-1,24,0.0,,,0
+2021,Week 18,FINAL,SAT,01/08,Cowboys,3-1,51,1.0,Eagles,1-3,26,0.0,,,0
+2021,Week 18,FINAL,SUN,01/09,Packers,3-1,30,0.0,Lions,0-4,37,1.0,,,0
+2021,Week 18,FINAL,SUN,01/09,Colts,1-3,11,0.0,Jaguars,0-4,26,1.0,,,0
+2021,Week 18,FINAL,SUN,01/09,Football Team,2-2,22,1.0,Giants,1-3,7,0.0,,,0
+2021,Week 18,FINAL,SUN,01/09,Bears,2-2,17,0.0,Vikings,1-3,31,1.0,,,0
+2021,Week 18,FINAL,SUN,01/09,Titans,2-2,28,1.0,Texans,1-3,25,0.0,,,0
+2021,Week 18,FINAL,SUN,01/09,Steelers,1-3,16,1.0,Ravens,3-1,13,0.0,,,0
+2021,Week 18,FINAL,SUN,01/09,Bengals,3-1,16,0.0,Browns,3-1,21,1.0,,,0
+2021,Week 18,FINAL,SUN,01/09,49ers,2-2,27,1.0,Rams,3-1,24,0.0,,,0
+2021,Week 18,FINAL,SUN,01/09,Panthers,3-1,17,0.0,Buccaneers,3-1,41,1.0,,,0
+2021,Week 18,FINAL,SUN,01/09,Seahawks,2-2,38,1.0,Cardinals,4-0,30,0.0,,,0
+2021,Week 18,FINAL,SUN,01/09,Patriots,1-3,24,0.0,Dolphins,1-3,33,1.0,,,0
+2021,Week 18,FINAL,SUN,01/09,Saints,2-2,30,1.0,Falcons,1-3,20,0.0,,,0
+2021,Week 18,FINAL,SUN,01/09,Jets,1-3,10,0.0,Bills,3-1,27,1.0,,,0
+2021,Week 18,FINAL,SUN,01/09,Chargers,3-1,32,0.0,Raiders,3-1,35,1.0,,,0
+2021,Wild Card Weekend,FINAL,SAT,01/15,Raiders,10-7,19,0.0,Bengals,10-7,26,1.0,5,4,1
+2021,Wild Card Weekend,FINAL,SAT,01/15,Patriots,10-7,17,0.0,Bills,11-6,47,1.0,6,3,1
+2021,Wild Card Weekend,FINAL,SUN,01/16,Eagles,9-8,15,0.0,Buccaneers,13-4,31,1.0,7,2,1
+2021,Wild Card Weekend,FINAL,SUN,01/16,49ers,10-7,23,1.0,Cowboys,12-5,17,0.0,6,3,1
+2021,Wild Card Weekend,FINAL,SUN,01/16,Steelers,9-7-1,21,0.0,Chiefs,12-5,42,1.0,7,2,1
+2021,Wild Card Weekend,FINAL,MON,01/17,Cardinals,11-6,11,0.0,Rams,12-5,34,1.0,5,4,1
+2021,Divisional Playoffs,FINAL,SAT,01/22,Bengals,10-7,19,1.0,Titans,12-5,16,0.0,4,1,1
+2021,Divisional Playoffs,FINAL,SAT,01/22,49ers,10-7,13,1.0,Packers,13-4,10,0.0,6,1,1
+2021,Divisional Playoffs,FINAL,SUN,01/23,Rams,12-5,30,1.0,Buccaneers,13-4,27,0.0,4,2,1
+2021,Divisional Playoffs,FINAL,SUN,01/23,Bills,11-6,36,0.0,Chiefs,12-5,42,1.0,3,2,1
+2021,Conference Championships,FINAL,SUN,01/30,Bengals,10-7,27,1.0,Chiefs,12-5,24,0.0,4,2,1
+2021,Conference Championships,FINAL,SUN,01/30,49ers,10-7,17,0.0,Rams,12-5,20,1.0,6,4,1
+2021,Pro Bowl,FINAL,SUN,02/06,NFC Pro Bowl,,35,0.0,AFC Pro Bowl,,41,1.0,,,0
+2021,Super Bowl,FINAL,SUN,02/13,Rams,12-5,23,1.0,Bengals,10-7,20,0.0,4,4,1
