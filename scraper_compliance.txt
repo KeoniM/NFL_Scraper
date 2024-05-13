@@ -1,0 +1,26 @@
+Need to make sure this webscraper is:
+1. respectful towards the website
+  - Compliance with nfl.com/robots.txt
+
+nfl.com/robots.txt
+
+########################################################
+#   User-agent: *                                      #
+#   Disallow: /_ctv/                                   #
+#   Disallow: /_fantasy-app/                           #
+#   Disallow: /_libraries/                             #
+#   Disallow: /_mobile-app/                            #
+#   Disallow: /_mobileview/                            #
+#   Disallow: /_phs/                                   #
+#   Disallow: /_sponsors/                              #
+#   Disallow: /account/                                #
+#   Disallow: /nfl-films-beta/                         #
+#   Disallow: /search/                                 #
+#   Sitemap: https://www.nfl.com/sitemap-index.xml     #
+#                                                      #
+#   User-agent: Mediapartners-Google                   #
+#   Disallow: /stats/player-stats/*                    #
+########################################################
+
+- According to nfl.com/robots.txt this scraper is in compliance.
+  I am not using this software to accesss any disallowed areas.
