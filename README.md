@@ -15,6 +15,8 @@ The primary aim of this project is to provide users with the tools needed to acc
 
 **Development Stage:** This project is currently in its initial development phase. Functionality such as retrieving game scores is operational, but additional features and optimizations are planned. Future updates will focus on improving data extraction techniques and expanding the types of data available.
 
+**2024 Season Compatibility:** Currently, NFL_Scraper does not support scraping data for the 2024 NFL season. Work is underway to address this issue, and updates will be provided as progress is made.
+
 ## Use Cases
 
 The data collected with NFL_Scraper can be utilized in various applications, most notably in the development of machine learning models. The potential to analyze and model this data opens up exciting possibilities for predictions, sports analytics, and more.
