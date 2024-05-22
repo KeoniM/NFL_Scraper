@@ -16,6 +16,9 @@ from selenium.webdriver.support import expected_conditions as EC
 from custom_conditions import enough_elements_present
 from custom_conditions import dropdown_search_and_select
 
+# explicit Waits
+import time
+
 # exceptions
 from selenium.common.exceptions import StaleElementReferenceException
 from selenium.common.exceptions import NoSuchElementException
@@ -63,38 +66,47 @@ class NflScraper:
   def _open_nfl_scores_page(self):
     self.driver.get("https://www.nfl.com/scores/")
 
-
   """
   PURPOSE:
     - Opens the 'scores' page to a specified season and week.
   INPUT PARAMETERS:
-           driver - Object - An object of the webdriver.Chrome class used to automate Chrome browser actions
       chosen_year - String - Users choice of year (Season) that they would like to grab game data from
       chosen_week - String - Users choice of week that they would like to grab data from
      max_attempts -  int   - The maximum amount of errors allowed to occur when searching webelements before quitting.
   RETURN:
     - A state of the website being open to the desired season and week.
   """
-  def select_year_and_week(self, driver, chosen_year, chosen_week, max_attempts=5):
+  def select_year_and_week(self, chosen_year, chosen_week, max_attempts=5):
       # Check to see if driver is on scores page. If not, will open scores page.
-      if(driver.current_url != "https://www.nfl.com/scores/"):
+      if(self.driver.current_url != "https://www.nfl.com/scores/"):
           self._open_nfl_scores_page()
 
       wait = WebDriverWait(self.driver, 20)
 
       try:
-          wait.until(dropdown_search_and_select((By.ID, "Season"), chosen_year))
-          wait.until(dropdown_search_and_select((By.ID, "Week"), chosen_week))
+        wait.until(dropdown_search_and_select((By.ID, "Season"), chosen_year))
+        wait.until(dropdown_search_and_select((By.ID, "Week"), chosen_week))
+
+        # grabbing webelement containing text of which week the page is on
+        week_check = wait.until(
+          EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div/div/div/div/div/div/div"))
+        )
+
+        # double check to be sure that the users "chosen_week" matches the page
+        if(" ".join(week_check.text.split()[2::]) == chosen_week):
+          return
+        else:
+          return self.select_year_and_week(self.driver, chosen_year, chosen_week, max_attempts - 1)
 
       # If dropdowns have not been found yet, will run method over again.
       except StaleElementReferenceException:
-          if(max_attempts > 0):
-              print("SEARCHING, attempting {} more times (select year and week)".format(max_attempts))
-              return self.select_year_and_week(self.driver, chosen_year, chosen_week, max_attempts - 1)
-          else:
-              return print("Driver unable to find available options. Try again.")
+        if(max_attempts > 0):
+            print("SEARCHING, attempting {} more times (select year and week)".format(max_attempts))
+            return self.select_year_and_week(self.driver, chosen_year, chosen_week, max_attempts - 1)
+        else:
+            return print("Driver unable to find available options. Try again.")
       except NoSuchElementException:
-          return print("This year/week is not an option.")
+        return print("This year/week is not an option.")
 
 
   ###########################################################################################################################
@@ -170,219 +182,248 @@ class NflScraper:
 
   """
   PURPOSE:
-    - get all information of the games from a given season and week. 
+    - Get all game webelements in a specified week and season.
   INPUT PARAMETERS:
      chosen_year - string - user chooses a season which happens to be all in years
      chosen_week - string - user chooses a week within a given season
     max_attempts -  int   - number of errors allowed when finding webelements
   RETURN:
-  df_week_scores - dataframe - contains game scores, cancelled games and byes for that week
+    - All webelements for games played in a specific week and season
   """
-  def get_game_week_data(self, chosen_year, chosen_week, max_attempts=5):
+  def get_game_week_webelements(self, chosen_year, chosen_week, max_attempts=5):
 
-      # Opens nfl.com scores page to specified season and week
-      self.select_year_and_week(self.driver, chosen_year, chosen_week)
+    self.select_year_and_week(chosen_year, chosen_week)
 
-      # return dataframe
-      df_week_scores = pd.DataFrame(columns=["Season", "Week", "GameStatus", "Day", "Date", 
-                                      "AwayTeam", "AwayRecord", "AwayScore", "AwayWin",
-                                      "HomeTeam", "HomeRecord", "HomeScore", "HomeWin",
-                                      "AwaySeeding", "HomeSeeding", "PostSeason?"])
+    wait = WebDriverWait(self.driver, 5)
 
-      wait = WebDriverWait(self.driver, 5)
+    # webelement that shares a classname with all webelements that contain desired data (Titles/Scores/Byes/Upcoming).
+    shared_classname_webelement = wait.until(
+        EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div/div/div/div"))
+    )
 
-      # shares a classname with all webelements that contain desired data (Titles/Scores/Byes).
-      shared_classname_webelement = wait.until(
-          EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div/div/div/div"))
-      )
+    # the shared classname for all desired webelements
+    scores_shared_classname = shared_classname_webelement.get_attribute("class")
 
-      # shared classname with all individual boxed scores and bye weeks.
-      scores_shared_classname = shared_classname_webelement.get_attribute("class")
+    # Different weeks have different amounts of games displaying. (each week as a different amount of desired webelements displaying).
+    num_score_elements = 19 # Week 1 - Week 17 
+    if chosen_week in ["Hall Of Fame", "Pro Bowl", "Super Bowl"]:
+        num_score_elements = 4
+    elif chosen_week in ["Conference Championships"]:
+        num_score_elements = 5
+    elif chosen_week in ["Divisional Playoffs", "Wild Card Weekend"]:
+        num_score_elements = 7
 
-      # Different weeks have different amounts of games played. (amount of game webelements to look for)
-      num_score_elements = 19 # Week 1 - Week 17 
-      if chosen_week in ["Hall Of Fame", "Pro Bowl", "Super Bowl"]:
-          num_score_elements = 4
-      elif chosen_week in ["Conference Championships"]:
-          num_score_elements = 5
-      elif chosen_week in ["Divisional Playoffs"]:
-          num_score_elements = 7
-      elif chosen_week in ["Wild Card Weekend"]:
-          # num_score_elements = 9 
-          num_score_elements = 7 # 2019 and below had fewer wild card games.
+    # A measure to ensure that all games (webelements) were captured
+    # NOTE: an issue that I have been running into is that the scraper will grab all webelements that 
+    #       are currently displaying in the DOM but that does not necessarily mean that all of the
+    #       webelements are displayed at that time. This is the method that I came up with to combat 
+    #       that issue.
+    try:
+        # If same number of webelements are grabbed 5 times in a row, then that is likely the amount of game webelements available for that week
+        total = 0
+        array = [np.nan]
+        while( total % array[0] != 0):
+          total = 0
+          array = []
+          for i in range(0,5,1):
+            game_webelements = wait.until(enough_elements_present((By.CLASS_NAME, scores_shared_classname), num_score_elements))
+            total += len(game_webelements)
+            array.append(len(game_webelements))
 
-      # Wait for a number (num_score_elements) of webelements to appear and put into list.
-      #   - Crucial for page accuracy and to ensure all webelements were captured.
-      try:
-          titles_scores_byes_webelements = wait.until(enough_elements_present((By.CLASS_NAME, scores_shared_classname), num_score_elements))
-      except TimeoutException:
-          if (max_attempts > 0):
-            print("SEARCHING, attempting {} more times (get game week data)".format(max_attempts))
-            return self.get_game_week_data(chosen_year, chosen_week, max_attempts - 1)
-          else:
-             return print("Unable to get game week data.")
+        checked_game_webelements = game_webelements
 
-      # The first 3 elements to all score pages are titles and adds that are not wanted.
-      scores_byes_webelements = titles_scores_byes_webelements[3::]
+    except TimeoutException:
+        if (max_attempts > 0):
+          print("SEARCHING, attempting {} more times (get game week data)".format(max_attempts))
+          return self.get_game_week_data(chosen_year, chosen_week, max_attempts - 1)
+        else:
+            return print("Unable to get game week data.")
 
+    # The first 3 elements to all score pages are titles and adds that are not wanted.
+    clean_checked_game_webelements = checked_game_webelements[3::]
 
-        ###############################################################
-        ##                                                           ##
-        ## NESTED HELPER METHODS TO HANDLE "scores_byes" WEBELEMENTS ##
-        ##                                                           ##
-        ###############################################################
+    return clean_checked_game_webelements
 
 
-      """
-      PURPOSE: 
-        - Handle "status and date" data from game webelement 
-      INPUT PARAMETERS:
-        sad_webelement - webelement - contains status and date of game
-      RETURN:
-        sad_data - list - contains ['Game Status', 'Game Day', 'Game Date']
-      """
-      def get_game_status_date(sad_webelement):
+  #####################################################################
+  #                                                                   #
+  #          METHODS THAT EXTRACT DATA FROM GAME WEBELEMENTS          #
+  #                                                                   #
+  #####################################################################  
 
-        # text data within webelement
-        sad_data = sad_webelement.text.split()
 
-        if sad_data.count('CANCELLED') >= 1:
-           return ['CANCELLED', 'CANCELLED', 'CANCELLED']
+  """
+  PURPOSE:
+    - Retreive all outcome data from game webelements (final scores/ bye weeks/ canceled games / upcoming games)
+  INPUT PARAMETERS:
+     chosen_year - string - user chooses a season which happens to be all in years
+     chosen_week - string - user chooses a week within a given season
+  RETURN:
+    - All game outcomes for a specified week loaded into class dataframe. (scores/byes/canceled/upcoming)
+  NOTE: Helper methods are located within this method to handle different game webelements.
+        Decided to do this because there wont be any other method using these helper methods
+        except for this method here.
+  """
+  def get_game_week_scores(self, chosen_year, chosen_week):
 
-        sad_data.remove("-")
+    game_week_webelements = self.get_game_week_webelements(chosen_year, chosen_week)
 
-        return sad_data
+    # return dataframe
+    df_week_scores = pd.DataFrame(columns=["Season", "Week", "GameStatus", "Day", "Date", 
+                                    "AwayTeam", "AwayRecord", "AwayScore", "AwayWin",
+                                    "HomeTeam", "HomeRecord", "HomeScore", "HomeWin",
+                                    "AwaySeeding", "HomeSeeding", "PostSeason?"])
 
-      """
-      PURPOSE: 
-        - Handle "scores" data from game webelement (e.i. game played / game cancelled / bye week)
-      INPUT PARAMETERS:
-        scores_webelement - webelement - contains scores data of game
-      RETURN:
-        organized_game_data - list - contains organized data that breaks down the game contained in webelement.
-      """
-      def get_score_data(scores_webelement):
+    """
+    PURPOSE: 
+      - Handle "status and date" data from game webelement 
+    INPUT PARAMETERS:
+      sad_webelement - webelement - contains status and date of game
+    RETURN:
+      sad_data - list - contains ['Game Status', 'Game Day', 'Game Date']
+    """
+    def get_game_status_and_date(sad_webelement):
 
-        # text data within webelement.
-        scores_data = scores_webelement.text.split()
-        
-        # Variables to be filled with 'scores_data' and returned in a list
-        away_team_name = None
-        home_team_name = None
-        away_record = np.nan
-        home_record = np.nan
-        away_score = 0
-        home_score = 0
-        away_win = 0
-        home_win = 0
-        away_seeding = np.nan
-        home_seeding = np.nan
-        is_postseason = 0
+      # text data within webelement
+      sad_data = sad_webelement.text.split()
 
-        clean_scores_data = [] # list for filtered and cleaned 'scores_data'
-        multi_word_team_name = [] # Used for the rare case of a team having multiple strings within their name.
+      if sad_data.count('CANCELLED') >= 1:
+          return ['CANCELLED', 'CANCELLED', 'CANCELLED']
 
-        # Filter for 'scores_data'.
-        # Cycle through 'scores_data' and merge side by side strings to fit in a single element within a list.
-        while(len(scores_data) != 0): 
-          if scores_data[0][0].isupper():
-            multi_word_team_name.append(scores_data[0])
-            scores_data.pop(0)
-            continue
-          else:
-            if len(multi_word_team_name) > 0:
-              clean_scores_data.append(" ".join(multi_word_team_name))
-              multi_word_team_name.clear()
-            clean_scores_data.append(scores_data[0])
-            scores_data.pop(0)
-            continue
+      sad_data.remove("-")
 
-        # Data is symmetrical. Split evenly between away and home team
-        data_split = int(len(clean_scores_data)/2)
-        away_team = clean_scores_data[:data_split:]
-        home_team = clean_scores_data[data_split::]
+      return sad_data
 
-        # Postseason check 
-        if(away_team[0].isnumeric()):
-          is_postseason = 1
-          away_seeding = away_team[0]
-          home_seeding = home_team[0]
-          away_team.pop(0)
-          home_team.pop(0)
+    """
+    PURPOSE: 
+      - Handle "scores" data from game webelement (e.i. game played / game cancelled / bye week)
+    INPUT PARAMETERS:
+      scores_webelement - webelement - contains scores data of game
+    RETURN:
+      organized_game_data - list - contains organized data that breaks down the game contained in webelement.
+    """
+    def get_score_data(scores_webelement):
 
-        # Team Names
-        away_team_name = away_team[0]
-        home_team_name = home_team[0]
+      # text data within webelement.
+      scores_data = scores_webelement.text.split()
+      
+      # Variables to be filled with 'scores_data' and returned in a list
+      away_team_name = None
+      home_team_name = None
+      away_record = np.nan
+      home_record = np.nan
+      away_score = 0
+      home_score = 0
+      away_win = 0
+      home_win = 0
+      away_seeding = np.nan
+      home_seeding = np.nan
+      is_postseason = 0
+
+      clean_scores_data = [] # list for filtered and cleaned 'scores_data'
+      multi_word_team_name = [] # Used for the rare case of a team having multiple strings within their name.
+
+      # Filter for 'scores_data'.
+      # Cycle through 'scores_data' and merge side by side strings to fit in a single element within a list.
+      while(len(scores_data) != 0): 
+        if scores_data[0][0].isupper():
+          multi_word_team_name.append(scores_data[0])
+          scores_data.pop(0)
+          continue
+        else:
+          if len(multi_word_team_name) > 0:
+            clean_scores_data.append(" ".join(multi_word_team_name))
+            multi_word_team_name.clear()
+          clean_scores_data.append(scores_data[0])
+          scores_data.pop(0)
+          continue
+
+      # Data is symmetrical. Split evenly between away and home team
+      data_split = int(len(clean_scores_data)/2)
+      away_team = clean_scores_data[:data_split:]
+      home_team = clean_scores_data[data_split::]
+
+      # Postseason check 
+      if(away_team[0].isnumeric()):
+        is_postseason = 1
+        away_seeding = away_team[0]
+        home_seeding = home_team[0]
         away_team.pop(0)
         home_team.pop(0)
 
-        # Game scores AND team records (special cases will have one or the other)
-        while(len(away_team) > 0):
-          if(away_team[0].isnumeric()):
-            away_score = away_team[0]
-            home_score = home_team[0]
-          else:
-            away_record = away_team[0]
-            home_record = home_team[0]
-          away_team.pop(0)
-          home_team.pop(0)
+      # Team Names
+      away_team_name = away_team[0]
+      home_team_name = home_team[0]
+      away_team.pop(0)
+      home_team.pop(0)
 
-        # Team win check
-        if(int(away_score) > int(home_score)):
-          away_win = 1
-          home_win = 0
-        elif(int(away_score) < int(home_score)):
-          away_win = 0
-          home_win = 1
-        
-        oganized_game_data = [away_team_name, away_record, away_score, away_win,
-                              home_team_name, home_record, home_score, home_win,
-                              away_seeding, home_seeding, is_postseason]
-        
-        return oganized_game_data
+      # Game scores AND team records (special cases will have one or the other)
+      while(len(away_team) > 0):
+        if(away_team[0].isnumeric()):
+          away_score = away_team[0]
+          home_score = home_team[0]
+        else:
+          away_record = away_team[0]
+          home_record = home_team[0]
+        away_team.pop(0)
+        home_team.pop(0)
+
+      # Team win check
+      if(int(away_score) > int(home_score)):
+        away_win = 1
+        home_win = 0
+      elif(int(away_score) < int(home_score)):
+        away_win = 0
+        home_win = 1
+      
+      oganized_game_data = [away_team_name, away_record, away_score, away_win,
+                            home_team_name, home_record, home_score, home_win,
+                            away_seeding, home_seeding, is_postseason]
+      
+      return oganized_game_data
 
 
-      for i in scores_byes_webelements:
-          try:
-              # The closest parent element to all wanted data for game.
-              game = i.find_element(By.XPATH, "./div/div/button/div")
+    for i in game_week_webelements:
+        try:
+            # The closest parent element to all wanted data for game.
+            game = i.find_element(By.XPATH, "./div/div/button/div")
 
-              # Status and date of game broken down and organized.
-              status_and_date_webelement = game.find_element(By.XPATH, "./div[1]")
-              self.driver.execute_script("arguments[0].style.border='3px solid red'", status_and_date_webelement)
-              sad_data = get_game_status_date(status_and_date_webelement)
+            # Status and date of game broken down and organized.
+            status_and_date_webelement = game.find_element(By.XPATH, "./div[1]")
+            self.driver.execute_script("arguments[0].style.border='3px solid red'", status_and_date_webelement)
+            sad_data = get_game_status_and_date(status_and_date_webelement)
 
-              # score of game broken down and organized. 
-              score_webelement = game.find_element(By.XPATH, "./div[2]/div")
-              self.driver.execute_script("arguments[0].style.border='3px solid red'", score_webelement)
-              score_data = get_score_data(score_webelement)
+            # score of game broken down and organized. 
+            score_webelement = game.find_element(By.XPATH, "./div[2]/div")
+            self.driver.execute_script("arguments[0].style.border='3px solid red'", score_webelement)
+            score_data = get_score_data(score_webelement)
 
-              # ['Season', 'Week', Status and Date Data, Score Data]
-              sad_data.extend(score_data)
-              sad_data.insert(0, chosen_week)
-              sad_data.insert(0, chosen_year)
+            # ['Season', 'Week', Status and Date Data, Score Data]
+            sad_data.extend(score_data)
+            sad_data.insert(0, chosen_week)
+            sad_data.insert(0, chosen_year)
 
-              df_week_scores.loc[len(df_week_scores)] = sad_data
+            df_week_scores.loc[len(df_week_scores)] = sad_data
 
-          except NoSuchElementException:
-              # score welement not found because the webelement is a bye week
-              try:
-                  bye = i.find_element(By.XPATH, ".//button/div[1]")
-                  self.driver.execute_script("arguments[0].style.border='3px solid red'", bye)
-                  bye_week = [np.nan] * 7
-                  bye_data = bye.text.split() # ['Name', 'Record']
-                  bye_week.insert(0, chosen_year)
-                  bye_week.insert(1, chosen_week)
-                  bye_week.insert(2, "BYE")
-                  bye_week.insert(3, None)
-                  bye_week.insert(4, None)
-                  bye_week.insert(5, bye_data[0])
-                  bye_week.insert(6, bye_data[1][1:len(bye_data[1]) - 1]) # "(#-#)" -> "#-#"
-                  bye_week.insert(9, None)
-                  bye_week.append(0) # Placevalue for Postseason column. Postseason weeks do not have bye weeks displayed.
-                  df_week_scores.loc[len(df_week_scores)] = bye_week
-                  continue
-              except NoSuchElementException:
-                  continue
+        except NoSuchElementException:
+            # score welement not found because the webelement is a bye week
+            try:
+                bye = i.find_element(By.XPATH, ".//button/div[1]")
+                self.driver.execute_script("arguments[0].style.border='3px solid red'", bye)
+                bye_week = [np.nan] * 7
+                bye_data = bye.text.split() # ['Name', 'Record']
+                bye_week.insert(0, chosen_year)
+                bye_week.insert(1, chosen_week)
+                bye_week.insert(2, "BYE")
+                bye_week.insert(3, None)
+                bye_week.insert(4, None)
+                bye_week.insert(5, bye_data[0])
+                bye_week.insert(6, bye_data[1][1:len(bye_data[1]) - 1]) # "(#-#)" -> "#-#"
+                bye_week.insert(9, None)
+                bye_week.append(0) # Placevalue for Postseason column. Postseason weeks do not have bye weeks displayed.
+                df_week_scores.loc[len(df_week_scores)] = bye_week
+                continue
+            except NoSuchElementException:
+                continue
 
-      return df_week_scores
+    return df_week_scores
