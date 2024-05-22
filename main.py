@@ -28,21 +28,27 @@ def main():
     # Preparing a loop
     available_years = available_options["Season"].tolist()
     available_weeks = available_options["Weeks"].tolist()
+    print(available_years)
 
-    # Simulate normal user on website (Trying to request throttle)
-    base_sleep = 5
-    random_additional_sleep = 5
+    print(" ")
 
-    # Grabbing all scores from every week in every season
-    for i in range(1,len(available_years),1):
-        for j in available_weeks[i]:
-            print(available_years[i] + " " + j)
-            adding_data = scraper.get_game_week_data(available_years[i], j)
-            scraper.data = pd.concat([scraper.data, adding_data], ignore_index=True)
-            time.sleep(base_sleep + random.random() * random_additional_sleep)
-        scraper.data.to_csv('data/{}_scores.csv'.format(available_years[i]), index=False)
-        scraper.data = pd.DataFrame()
-    
+    for i in range(2, len(available_years), 1):
+        print(i)
+
+    # Avoid overloading server
+    # base_sleep = 3
+    # random_additional_sleep = 5
+
+    # Grabbing all scores from every week in every season & output each season results in .csv file
+    # for i in range(2,len(available_years),1):
+    #     for j in available_weeks[i]:
+    #         print(available_years[i] + " " + j)
+    #         adding_data = scraper.get_game_week_scores(available_years[i], j)
+    #         scraper.data = pd.concat([scraper.data, adding_data], ignore_index=True)
+    #         time.sleep(base_sleep + random.random() * random_additional_sleep)
+    #     scraper.data.to_csv('{}_scores.csv'.format(available_years[i]), index=False)
+    #     scraper.data = pd.DataFrame()
+
     scraper.close_driver()
     
 if __name__ == "__main__":
