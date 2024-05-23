@@ -34,9 +34,7 @@ def main():
     random_additional_sleep = 5
 
     # Grabbing all scores from every week in every season & output each season results in .csv file
-    # NOTE: Have not updated scraper to handle the new 2024 schedule yet. This loop will grab seasons
-    #       2023 - 2017
-    for i in range(1,len(available_years),1):
+    for i in range(0,len(available_years),1):
         for j in available_weeks[i]:
             print(available_years[i] + " " + j)
             adding_data = scraper.get_game_week_scores(available_years[i], j)
