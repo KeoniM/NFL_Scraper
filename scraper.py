@@ -239,10 +239,13 @@ class NflScraper:
         else:
             return print("Unable to get game week data.")
 
-    # The first 3 elements to all score pages are titles and adds that are not wanted.
-    clean_checked_game_webelements = checked_game_webelements[3::]
-
-    return clean_checked_game_webelements
+    # The first 3-4 elements to all score pages are titles and adds that are not wanted.
+    if (checked_game_webelements[1].text.lower() == "final"):
+       return checked_game_webelements[3::]
+    elif(checked_game_webelements[1].text.lower() == "upcoming"):
+       return checked_game_webelements[4::]
+    else:
+       return print("{} {} has not been accounted for yet. Look under 'get_game_week_webelements' and try to fix this".format(chosen_year, chosen_week))
 
 
   #####################################################################
@@ -284,15 +287,21 @@ class NflScraper:
     """
     def get_game_status_and_date(sad_webelement):
 
-      # text data within webelement
+      # text data within webelement 
       sad_data = sad_webelement.text.split()
-
-      if sad_data.count('CANCELLED') >= 1:
-          return ['CANCELLED', 'CANCELLED', 'CANCELLED']
-
       sad_data.remove("-")
 
-      return sad_data
+      # The only status games that I have come across are
+      # 1. Cancelled game
+      # 2. Final outcome
+      # 3. Upcoming games
+      if sad_data.count('CANCELLED') >= 1:
+          return ['CANCELLED', 'CANCELLED', 'CANCELLED']
+      elif sad_data.count('FINAL') >= 1:
+         return sad_data
+      else:
+         sad_data.insert(0, 'UPCOMING')
+         return sad_data[:3:1]
 
     """
     PURPOSE: 
