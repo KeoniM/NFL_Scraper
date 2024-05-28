@@ -88,3 +88,23 @@ class dropdown_search_and_select(object):
         except (StaleElementReferenceException, NoSuchElementException):
             return False
     
+
+    ###########################################################################################################################
+    ###########################################################################################################################
+    ##                                                                                                                       ##
+    ##                                         METHODS FOR CHILD ELEMENTS                                                    ##
+    ##                                                                                                                       ##
+    ###########################################################################################################################
+    ###########################################################################################################################
+
+
+class child_element_to_be_present:
+    def __init__(self, parent_webelement, child_locator):
+        self.parent_webelement = parent_webelement
+        self.child_locator = child_locator
+
+    def __call__(self, driver):
+        try:
+            return self.parent_webelement.find_element(*self.child_locator)
+        except NoSuchElementException:
+            return False
