@@ -97,7 +97,18 @@ class dropdown_search_and_select(object):
     ###########################################################################################################################
     ###########################################################################################################################
 
+# These methods might be redundant
 
+"""
+PURPOSE:
+    - Return true if child webelement has been found under a given parent webelement
+INPUT PARAMETERS:
+    parent_webelement - webelement - parent element to desired child webelement
+        child_locator -    tuple   - How to find child element on a webpage relative to parent_webelement,
+                                        typically formatted as (By.'locator strategy', 'identifier').
+RETURN:
+    - Child element if it has been found. If not, will return 'False'
+"""
 class child_element_to_be_present:
     def __init__(self, parent_webelement, child_locator):
         self.parent_webelement = parent_webelement
@@ -106,5 +117,39 @@ class child_element_to_be_present:
     def __call__(self, driver):
         try:
             return self.parent_webelement.find_element(*self.child_locator)
-        except NoSuchElementException:
+        except [StaleElementReferenceException, NoSuchElementException]:
+            return False    
+
+"""
+PURPOSE
+    - Will only pass if a specified amount (or more) of like child Webelements are found.
+INPUT PARAMETERS:
+               parent_webelement - webelement - parent element to desired child webelements
+               locator -  tuple  - How to find an element on a webpage. typically formatted
+                                   as (By.'locator strategy', 'identifier').
+    num_elements_check -   int   - Desired number of like Webelements that need to be found 
+                                   in the DOM order to pass.
+RETURN:
+    elements -  list   - List of all elements found with given locator at that time.
+                                  - The reason why I say "at that time" is because not all 
+                                    elements might have been found. 
+                                    (e.g. there are 100 like elements and this method is searching
+                                          for 5 or more. Anywhere from 5-100 might return.)
+       False - boolean - If specified like Webelements or more are not found.
+"""
+class enough_child_elements_present(object):
+
+    def __init__(self, parent_webelement, locator, num_elements_check):
+        self.parent_webelement = parent_webelement
+        self.locator = locator
+        self.num_elements_check = num_elements_check
+    
+    def __call__(self, driver):
+        try:
+            elements = self.parent_webelement.find_elements(*self.locator)
+            if len(elements) >= self.num_elements_check:
+                return elements
+            else:
+                return False
+        except [StaleElementReferenceException, NoSuchElementException]:
             return False
