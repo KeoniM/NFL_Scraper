@@ -512,13 +512,17 @@ class NflScraper:
 
   def get_game_week_play_by_play(self, chosen_year, chosen_week):
 
-    # I am going to need this multiple times throughout this method.
-    # The point of this is that I do not know the exact amount of webelements
-    # I am searching for every time I run this method. So I want to use this
-    # helper method to check how many elements are found multiple times, 
-    # and if the same number of elements are found x amount of times consecutively
-    # then there is a "good" chance that this is the amount of elements that
-    # are within the DOM.
+    """
+    PURPOSE:
+      - A double check to see if all child webelements have been found within a parent webelement
+    INPUT PARAMETERS:
+       parent_webelement - webelement - contains a webelement encapsulating either every quarter of a game or every drive within a quarter
+                 locator -   tuple    - A shared path from the parent webelement to the child webelements
+      num_elements_check -    int     - The least amount of child elements expected to be found
+         accuracy_number -    int     - the amount of times the method has to find the same number of child webelements consecutively
+    RETURN:
+             webelements -    list    - All specified child webelements under parent webelement
+    """
     def num_child_webelements_check(parent_webelement, locator, num_elements_check, accuracy_number):
       total = 0
       array = [np.nan]
@@ -531,37 +535,61 @@ class NflScraper:
           array.append(len(webelements))
       return webelements
 
-    # game_week_webelements = self.get_game_week_webelements(chosen_year, chosen_week)
     game_week_webelements = self.get_parsed_game_week_webelements(chosen_year, chosen_week)[0] # get_parsed_game_week_webelemts[0] = all games that have been played <----
 
     wait = WebDriverWait(self.driver, 20)
 
     for i in range(len(game_week_webelements)):
 
-      # game = self.get_game_week_webelements(chosen_year, chosen_week)[i]
       game = self.get_parsed_game_week_webelements(chosen_year,chosen_week)[0][i]
 
       try:
+          
+          # ['Year', 'Week']
+          game_details = [chosen_year, chosen_week]
 
-          # Locating game button to click to open site with game info
+          # Locating game button to click to open site with game data
           game_button_webelement = wait.until(
             child_element_to_be_present(game, (By.XPATH, "./div/div/button"))
           ) 
-          
+
           self.driver.execute_script("arguments[0].style.border='3px solid red'", game_button_webelement)
+
+          # Here I want to get game data so I know which game I am grabbing plays from.
+          # So something like ['Day', 'Date', 'Away Team', 'Home Team']
+
+          # First I'll grab ['Day', 'Date']
+          game_date_webelement = game_button_webelement.find_element(By.XPATH, "./div/div[1]")
+          self.driver.execute_script("arguments[0].style.border='3px solid red'", game_date_webelement)
+          game_date = game_date_webelement.text.split()
+          game_details.extend(game_date[2::])
+          print(game_details)
+
 
           # Scroll into view and click using JavaScript
           self.driver.execute_script("arguments[0].scrollIntoView(); arguments[0].click();", game_button_webelement)
 
           # Wrapper webelement containing every quarter played
-          every_quarter_played = wait.until(
+          game_parent_webelement = wait.until(
             EC.presence_of_element_located((By.ID, "all-drives-panel"))
           )
 
-          every_drive = num_child_webelements_check(every_quarter_played, (By.XPATH, "./div"), 1, 5)
+          every_quarter = num_child_webelements_check(game_parent_webelement, (By.XPATH, "./div"), 1, 5)
 
-          for i in every_drive:
-            self.driver.execute_script("arguments[0].style.border='3px solid red'", i)
+          for quarter in every_quarter:
+            self.driver.execute_script("arguments[0].style.border='3px solid red'", quarter)
+            self.driver.execute_script("arguments[0].scrollIntoView();", quarter)
+            quarter_number = quarter.find_element(By.XPATH, "./div")
+            self.driver.execute_script("arguments[0].style.border='3px solid red'", quarter_number)
+            quarter_number = quarter_number.text
+            print(quarter_number) # individual quarter
+            every_drive_within_quarter = num_child_webelements_check(quarter, (By.XPATH, "./div"), 1, 5)
+
+            drives = []
+            for drive in every_drive_within_quarter[1::]:
+               self.driver.execute_script("arguments[0].style.border='3px solid red'", drive)
+               drives.append(drive)
+               print("drive {} of {}".format(len(drives), quarter_number))
 
       except NoSuchElementException:
         print("No Such Element")
