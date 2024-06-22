@@ -512,6 +512,8 @@ class NflScraper:
 
   def get_game_week_play_by_play(self, chosen_year, chosen_week):
 
+    wait = WebDriverWait(self.driver, 20)
+
     """
     PURPOSE:
       - A double check to see if all child webelements have been found within a parent webelement
@@ -534,13 +536,14 @@ class NflScraper:
           total += len(webelements)
           array.append(len(webelements))
       return webelements
-
-    game_week_webelements = self.get_parsed_game_week_webelements(chosen_year, chosen_week)[0] # get_parsed_game_week_webelemts[0] = all games that have been played <----
-
-    wait = WebDriverWait(self.driver, 20)
+    
+    # get_parsed_game_week_webelements[0] -> returns all webelements of games that were played during the specified week
+    game_week_webelements = self.get_parsed_game_week_webelements(chosen_year, chosen_week)[0] 
 
     for i in range(len(game_week_webelements)):
 
+      # Need to do this because when we enter a game and come back to the start page with all games the webelement 
+      # to get to enter the next game is not exactly the same as it was even though it is in the same position.
       game = self.get_parsed_game_week_webelements(chosen_year,chosen_week)[0][i]
 
       try:
@@ -548,23 +551,45 @@ class NflScraper:
           # ['Year', 'Week']
           game_details = [chosen_year, chosen_week]
 
-          # Locating game button to click to open site with game data
+          # Locating game button to 
+          # 1. Use as parent element to grab "game_details"
+          # 2. Click to get to "play_by_play_data"
           game_button_webelement = wait.until(
             child_element_to_be_present(game, (By.XPATH, "./div/div/button"))
           ) 
 
           self.driver.execute_script("arguments[0].style.border='3px solid red'", game_button_webelement)
 
-          # Here I want to get game data so I know which game I am grabbing plays from.
-          # So something like ['Day', 'Date', 'Away Team', 'Home Team']
-
-          # First I'll grab ['Day', 'Date']
+          # ['Day', 'Date']
           game_date_webelement = game_button_webelement.find_element(By.XPATH, "./div/div[1]")
           self.driver.execute_script("arguments[0].style.border='3px solid red'", game_date_webelement)
           game_date = game_date_webelement.text.split()
           game_details.extend(game_date[2::])
-          print(game_details)
 
+          # ['Away Team', 'Home Team']
+          game_team_scores_webelement = game_button_webelement.find_element(By.XPATH, "./div/div[2]")
+          self.driver.execute_script("arguments[0].style.border='3px solid red'", game_team_scores_webelement)
+          game_team_scores_data = game_team_scores_webelement.text.split()
+
+          team_names_data = [] # list for team names ['Away Team', 'Home Team']
+          multi_word_team_name = [] # Used for the rare case of a team having multiple strings within their name.
+          # Filter for 'game_team_scores_data'.
+          # Cycle through 'game_team_scores_data' and merge side by side strings to fit in a single element within a list.
+          while(len(game_team_scores_data) != 0): 
+            if game_team_scores_data[0][0].isupper():
+              multi_word_team_name.append(game_team_scores_data[0])
+              game_team_scores_data.pop(0)
+              continue
+            else:
+              if len(multi_word_team_name) > 0:
+                team_names_data.append(" ".join(multi_word_team_name))
+                multi_word_team_name.clear()
+              game_team_scores_data.pop(0)
+              continue
+
+          # game_details = ['Year', 'Week', 'Day', 'Date', 'Away Team', 'Home Team']]
+          game_details.extend(team_names_data)
+          print(game_details)
 
           # Scroll into view and click using JavaScript
           self.driver.execute_script("arguments[0].scrollIntoView(); arguments[0].click();", game_button_webelement)
@@ -574,22 +599,95 @@ class NflScraper:
             EC.presence_of_element_located((By.ID, "all-drives-panel"))
           )
 
-          every_quarter = num_child_webelements_check(game_parent_webelement, (By.XPATH, "./div"), 1, 5)
-
-          for quarter in every_quarter:
+          every_quarter_in_game = num_child_webelements_check(game_parent_webelement, (By.XPATH, "./div"), 1, 5)
+          
+          # Loop through every quarter of the game
+          for quarter in every_quarter_in_game:
             self.driver.execute_script("arguments[0].style.border='3px solid red'", quarter)
-            self.driver.execute_script("arguments[0].scrollIntoView();", quarter)
+            # self.driver.execute_script("arguments[0].scrollIntoView();", quarter)
             quarter_number = quarter.find_element(By.XPATH, "./div")
             self.driver.execute_script("arguments[0].style.border='3px solid red'", quarter_number)
+            # ['Quarter #']
             quarter_number = quarter_number.text
-            print(quarter_number) # individual quarter
-            every_drive_within_quarter = num_child_webelements_check(quarter, (By.XPATH, "./div"), 1, 5)
 
+            every_drive_in_quarter = num_child_webelements_check(quarter, (By.XPATH, "./div"), 1, 5)
+
+            # Loop through every drive of the quarter
             drives = []
-            for drive in every_drive_within_quarter[1::]:
-               self.driver.execute_script("arguments[0].style.border='3px solid red'", drive)
-               drives.append(drive)
-               print("drive {} of {}".format(len(drives), quarter_number))
+            for drive in every_drive_in_quarter[1::]:
+
+              # I need to somehow figure out who has possession each drive
+              # 	https://static.www.nfl.com/f_png,q_85,h_90,w_90,c_fill,f_auto/league/api/clubs/logos/CIN
+              #	  https://static.www.nfl.com/f_auto,q_85/league/api/clubs/logos/CIN
+
+              #   https://static.www.nfl.com/f_auto,q_85/league/api/clubs/logos/HOU
+              #   
+
+
+
+
+              
+              drive_data = game_details.copy()
+              is_scoring_drive = 0
+
+              self.driver.execute_script("arguments[0].style.border='3px solid red'", drive)
+              drives.append(drive)
+
+              drive_parent_webelement = drive.find_element(By.XPATH, "./div/div/div[2]/div/div")
+
+              drive_child_webelements = num_child_webelements_check(drive_parent_webelement, (By.XPATH, "./*"), 1, 5)
+
+              # All non scoring drives will only have 1 webelement.
+              if (len(drive_child_webelements) > 1):
+                is_scoring_drive = 1
+
+              # ['Quarter #', 'Drive # in Quarter', 'is it a scoring drive']
+              drive_data.extend([quarter_number, len(drives), is_scoring_drive])
+
+              drive_button = drive_child_webelements[0]
+
+              self.driver.execute_script("arguments[0].scrollIntoView(); arguments[0].click();", drive_button)
+
+              # Scoring drives have more than 1 'div' webelement
+              if (is_scoring_drive):
+                drive_plays = drive.find_element(By.XPATH, "./div/div/div[2]/div/div/div[2]")
+              else:
+                drive_plays = drive.find_element(By.XPATH, "./div/div/div[2]/div/div/div")
+
+              self.driver.execute_script("arguments[0].style.border='3px solid red'", drive_plays)
+
+              every_play_in_drive = num_child_webelements_check(drive_plays, (By.XPATH, "./div"), 1, 5)
+
+              plays = []
+              for play in every_play_in_drive:
+                
+                play_data = drive_data.copy()
+                is_scoring_play = 0
+                
+                self.driver.execute_script("arguments[0].style.border='3px solid red'", play)
+                plays.append(play)
+
+                # ['Play # in drive']
+                play_data.extend([len(plays)])
+
+                # ['is it a scoring play']
+                if(is_scoring_drive and len(plays) == len(every_play_in_drive)):
+                  is_scoring_play = 1
+                play_data.extend([is_scoring_play])
+                
+                play_outcome_webelement = play.find_element(By.XPATH, "./div/div/div/div/div/div/div[1]/div")
+                play_outcome = play_outcome_webelement.text
+                play_data.append(play_outcome)
+                
+                play_description = play.find_element(By.XPATH, "./div/div/div/div/div/div/div[2]")
+                play_description = play_description.text
+                play_data.append(play_description)
+
+                play_start = play.find_element(By.XPATH, "./div/div/div/div/div/div/div[3]")
+                play_start = play_start.text
+                play_data.append(play_start)
+
+                print(play_data)
 
       except NoSuchElementException:
         print("No Such Element")
