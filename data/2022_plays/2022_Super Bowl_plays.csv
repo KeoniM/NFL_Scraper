@@ -1,0 +1,174 @@
+Season,Week,Day,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayDescription,PlayStart
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,1,PHI,1,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,1,PHI,1,2,0,-1 Yard Run,"(15:00) (Shotgun) M.Sanders up the middle to PHI 26 for 1 yard (T.McDuffie). FUMBLES (T.McDuffie), ball out of bounds at PHI 24.",1st & 10 at PHI 25
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,1,PHI,1,3,0,6 Yard Pass,"(14:26) (Shotgun) J.Hurts pass short left to D.Smith to PHI 30 for 6 yards (T.McDuffie, L.Sneed).",2nd & 11 at PHI 24
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,1,PHI,1,4,0,12 Yard Pass,(13:44) (Shotgun) J.Hurts pass short left to D.Smith pushed ob at PHI 42 for 12 yards (J.Reid).,3rd & 5 at PHI 30
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,1,PHI,1,5,0,Pass Incomplete,"(13:16) (No Huddle, Shotgun) J.Hurts pass incomplete deep left to A.Brown.",1st & 10 at PHI 42
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,1,PHI,1,6,0,11 Yard Run,(13:10) (Shotgun) J.Hurts scrambles left end ran ob at KC 47 for 11 yards (J.Reid; L.Sneed).,2nd & 10 at PHI 42
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,1,PHI,1,7,0,13 Yard Pass,(12:31) (Shotgun) J.Hurts pass short right to D.Goedert to KC 34 for 13 yards (J.Reid).,1st & 10 at KC 47
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,1,PHI,1,8,0,23 Yard Pass,"(12:02) (No Huddle, Shotgun) J.Hurts pass short right to D.Smith to KC 11 for 23 yards (W.Gay).",1st & 10 at KC 34
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,1,PHI,1,9,0,9 Yard Run,"(11:28) (No Huddle, Shotgun) B.Scott up the middle to KC 2 for 9 yards (J.Thornhill; T.McDuffie).",1st & 10 at KC 11
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,1,PHI,1,10,0,-2 Yard Run,"(11:01) (No Huddle, Shotgun) B.Scott up the middle to KC 4 for -2 yards (J.Thornhill).",2nd & 1 at KC 2
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,1,PHI,1,11,0,3 Yard Run,"(10:22) (Shotgun) K.Gainwell up the middle for 4 yards, TOUCHDOWN.
+The Replay Official reviewed the runner broke the plane ruling, and the play was REVERSED.
+(Shotgun) K.Gainwell up the middle to KC 1 for 3 yards (Ja.Watson).",3rd & 3 at KC 4
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,1,PHI,1,12,0,Touchdown Eagles,"(10:13) J.Hurts up the middle for 1 yard, TOUCHDOWN.
+Penalty on KC-C.Jones, Defensive Offside, declined.",1st & 1 at KC 1
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,1,PHI,1,13,1,Extra Point Good,"J.Elliott extra point is GOOD, Center-R.Lovato, Holder-A.Siposs.",XP attempt from KC 15
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,2,KC,1,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.",Kickoff from PHI 35
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,2,KC,1,2,0,3 Yard Run,(10:09) (Shotgun) I.Pacheco up the middle to KC 28 for 3 yards (J.Hargrave).,1st & 10 at KC 25
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,2,KC,1,3,0,20 Yard Pass,(9:33) P.Mahomes pass short middle to T.Kelce to KC 48 for 20 yards (T.Edwards).,2nd & 7 at KC 28
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,2,KC,1,4,0,8 Yard Run,(8:56) (Shotgun) P.Mahomes scrambles right end to PHI 44 for 8 yards (A.Maddox).,1st & 10 at KC 48
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,2,KC,1,5,0,24 Yard Run,(8:21) (Shotgun) I.Pacheco left tackle to PHI 20 for 24 yards (M.Epps).,2nd & 2 at PHI 44
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,2,KC,1,6,0,2 Yard Run,(7:44) I.Pacheco up the middle to PHI 18 for 2 yards (F.Cox).,1st & 10 at PHI 20
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,2,KC,1,7,0,Touchdown Chiefs,"(7:03) (Shotgun) P.Mahomes pass deep right to T.Kelce for 18 yards, TOUCHDOWN.",2nd & 8 at PHI 18
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,2,KC,1,8,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-T.Townsend.",XP attempt from PHI 15
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,3,PHI,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,3,PHI,0,2,0,-10 Yard Penalty,"(6:57) (Shotgun) J.Hurts pass short right to K.Gainwell pushed ob at PHI 31 for 6 yards (T.McDuffie).
+PENALTY on PHI-Z.Pascal, Offensive Pass Interference, 10 yards, enforced at PHI 25 - No Play.",1st & 10 at PHI 25
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,3,PHI,0,3,0,1 Yard Run,(6:30) (Shotgun) K.Gainwell right tackle to PHI 16 for 1 yard (L.Chenal).,1st & 20 at PHI 15
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,3,PHI,0,4,0,5 Yard Pass,(5:47) (Shotgun) J.Hurts pass short left to D.Smith to PHI 21 for 5 yards (L.Sneed).,2nd & 19 at PHI 16
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,3,PHI,0,5,0,Pass Incomplete,(5:07) (Shotgun) J.Hurts pass incomplete short left.,3rd & 14 at PHI 21
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,3,PHI,0,6,0,Punt,"(5:00) A.Siposs punts 57 yards to KC 22, Center-R.Lovato. K.Toney to KC 34 for 12 yards (J.Stoll).",4th & 14 at PHI 21
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,4,KC,0,1,0,6 Yard Pass,(4:46) P.Mahomes pass short right to N.Gray to KC 40 for 6 yards (T.Edwards).,1st & 10 at KC 34
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,4,KC,0,2,0,7 Yard Run,"(4:12) (Shotgun) I.Pacheco up the middle to KC 42 for 2 yards (K.White).
+PENALTY on PHI-N.Suh, Illegal Use of Hands, 5 yards, enforced at KC 42.",2nd & 4 at KC 40
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,4,KC,0,3,0,22 Yard Pass,(3:48) (Shotgun) P.Mahomes pass short middle to T.Kelce to PHI 31 for 22 yards (J.Bradberry).,1st & 10 at KC 47
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,4,KC,0,4,0,Pass Incomplete,(3:12) (Shotgun) P.Mahomes pass incomplete short right [N.Suh].,1st & 10 at PHI 31
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,4,KC,0,5,0,7 Yard Pass,(3:06) (Shotgun) P.Mahomes pass short right to J.McKinnon to PHI 24 for 7 yards (D.Slay).,2nd & 10 at PHI 31
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,4,KC,0,6,0,Pass Incomplete,(2:32) P.Mahomes pass incomplete short right to J.Fortson (T.Edwards) [H.Reddick].,3rd & 3 at PHI 24
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,1ST QUARTER,4,KC,0,7,0,Field Goal No Good,"(2:28) H.Butker 42 yard field goal is No Good, Hit Left Upright, Center-J.Winchester, Holder-T.Townsend.",4th & 3 at PHI 24
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,1,PHI,1,1,0,5 Yard Run,(2:24) (Shotgun) J.Hurts left end to PHI 37 for 5 yards (J.Williams).,1st & 10 at PHI 32
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,1,PHI,1,2,0,1 Yard Run,"(1:55) (No Huddle, Shotgun) J.Hurts left tackle to PHI 38 for 1 yard (N.Bolton, W.Gay).",2nd & 5 at PHI 37
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,1,PHI,1,3,0,5 Yard Penalty,"(1:08) (Shotgun) PENALTY on KC-F.Clark, Defensive Offside, 5 yards, enforced at PHI 38 - No Play.",3rd & 4 at PHI 38
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,1,PHI,1,4,0,5 Yard Pass,(:52) (Shotgun) J.Hurts pass short middle to D.Goedert to PHI 48 for 5 yards (L.Chenal).,1st & 10 at PHI 43
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,1,PHI,1,5,0,7 Yard Pass,(:10) (Shotgun) J.Hurts pass short right to A.Brown to KC 45 for 7 yards (J.Williams).,2nd & 5 at PHI 48
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,1,PHI,1,6,0,Touchdown Eagles,"(15:00) (Shotgun) J.Hurts pass deep left to A.Brown for 45 yards, TOUCHDOWN.",1st & 10 at KC 45
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,1,PHI,1,7,1,Extra Point Good,"J.Elliott extra point is GOOD, Center-R.Lovato, Holder-A.Siposs.",XP attempt from KC 15
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,2,KC,0,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.",Kickoff from PHI 35
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,2,KC,0,2,0,-3 Yard Run,(14:52) I.Pacheco left tackle to KC 22 for -3 yards (J.Hargrave).,1st & 10 at KC 25
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,2,KC,0,3,0,5 Yard Pass,(14:12) (Shotgun) P.Mahomes pass short right to J.Smith-Schuster to KC 27 for 5 yards (M.Epps).,2nd & 13 at KC 22
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,2,KC,0,4,0,Pass Incomplete,(13:35) (Shotgun) P.Mahomes pass incomplete short middle to J.Smith-Schuster [J.Sweat].,3rd & 8 at KC 27
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,2,KC,0,5,0,Punt,"(13:31) T.Townsend punts 48 yards to PHI 25, Center-J.Winchester. B.Covey to PHI 33 for 8 yards (J.Cochrane; M.Burton).",4th & 8 at KC 27
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,3,KC,1,1,0,-1 Yard Run,(13:18) (Shotgun) M.Sanders up the middle to PHI 32 for -1 yards (W.Gay).,1st & 10 at PHI 33
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,3,KC,1,2,0,3 Yard Pass,(12:40) (Shotgun) J.Hurts pass short right to D.Goedert to PHI 35 for 3 yards (Ja.Watson).,2nd & 11 at PHI 32
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,3,KC,1,3,0,9 Yard Pass,(11:58) (Shotgun) J.Hurts pass short left to Z.Pascal ran ob at PHI 44 for 9 yards.,3rd & 8 at PHI 35
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,3,KC,1,4,0,9 Yard Run,(11:15) (Shotgun) K.Gainwell right tackle to KC 47 for 9 yards (K.Saunders; J.Reid).,1st & 10 at PHI 44
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,3,KC,1,5,0,Run for No Gain,"(10:39) (No Huddle, Shotgun) K.Gainwell up the middle to KC 47 for no gain (L.Sneed; L.Chenal).",2nd & 1 at KC 47
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,3,KC,1,6,0,-4 Yard Penalty,"(10:12) PENALTY on PHI-I.Seumalo, False Start, 4 yards, enforced at KC 47 - No Play.",3rd & 1 at KC 47
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,3,KC,1,7,1,Touchdown Chiefs,"(9:48) (Shotgun) J.Hurts up the middle to PHI 45 for -4 yards. FUMBLES, touched at PHI 44, RECOVERED by KC-N.Bolton at PHI 36. N.Bolton for 36 yards, TOUCHDOWN.",3rd & 5 at PHI 49
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,4,PHI,1,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,4,PHI,1,2,0,14 Yard Run,(9:39) (Shotgun) J.Hurts up the middle to PHI 39 for 14 yards (N.Bolton).,1st & 10 at PHI 25
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,4,PHI,1,3,0,Pass Incomplete,(8:54) (Shotgun) J.Hurts pass incomplete deep left to A.Brown (J.Thornhill).,1st & 10 at PHI 39
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,4,PHI,1,4,0,9 Yard Pass,(8:45) (Shotgun) J.Hurts pass short right to B.Scott to PHI 48 for 9 yards (W.Gay).,2nd & 10 at PHI 39
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,4,PHI,1,5,0,3 Yard Run,(7:56) J.Hurts up the middle to KC 49 for 3 yards (J.Reid).,3rd & 1 at PHI 48
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,4,PHI,1,6,0,4 Yard Pass,(7:18) (Shotgun) J.Hurts pass short right to K.Gainwell pushed ob at KC 45 for 4 yards (Ja.Watson).,1st & 10 at KC 49
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,4,PHI,1,7,0,-1 Yard Run,(6:38) (Shotgun) J.Hurts right end pushed ob at KC 46 for -1 yards (W.Gay).,2nd & 6 at KC 45
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,4,PHI,1,8,0,2 Yard Run,(6:02) (Shotgun) K.Gainwell up the middle to KC 44 for 2 yards (M.Danna).,3rd & 7 at KC 46
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,4,PHI,1,9,0,28 Yard Run,"(5:28) (No Huddle, Shotgun) J.Hurts up the middle pushed ob at KC 16 for 28 yards (L.Sneed).",4th & 5 at KC 44
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,4,PHI,1,10,0,3 Yard Run,(4:44) (Shotgun) K.Gainwell up the middle to KC 13 for 3 yards (G.Karlaftis).,1st & 10 at KC 16
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,4,PHI,1,11,0,4 Yard Pass,(4:07) (Shotgun) J.Hurts pass short right to D.Smith to KC 9 for 4 yards (W.Gay).,2nd & 7 at KC 13
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,4,PHI,1,12,0,1 Yard Run,(3:25) (Shotgun) B.Scott up the middle to KC 8 for 1 yard (G.Karlaftis; C.Jones).,3rd & 3 at KC 9
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,4,PHI,1,13,0,4 Yard Penalty,"(2:42) (Run formation) PENALTY on KC-D.Nnadi, Neutral Zone Infraction, 4 yards, enforced at KC 8 - No Play.",4th & 2 at KC 8
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,4,PHI,1,14,0,Touchdown Eagles,"(2:24) (Shotgun) J.Hurts left tackle for 4 yards, TOUCHDOWN.",1st & 4 at KC 4
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,4,PHI,1,15,1,Extra Point Good,"J.Elliott extra point is GOOD, Center-R.Lovato, Holder-A.Siposs.",XP attempt from KC 15
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,5,KC,0,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.",Kickoff from PHI 35
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,5,KC,0,2,0,5 Yard Pass,(2:20) (Shotgun) P.Mahomes pass short left to J.McKinnon to KC 30 for 5 yards (T.Edwards).,1st & 10 at KC 25
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,5,KC,0,3,0,6 Yard Pass,"(2:01) (No Huddle, Shotgun) P.Mahomes pass short right to Ju.Watson to KC 36 for 6 yards (D.Slay).",2nd & 5 at KC 30
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,5,KC,0,4,0,Pass Incomplete,(1:56) (Shotgun) P.Mahomes pass incomplete deep left to M.Valdes-Scantling.,1st & 10 at KC 36
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,5,KC,0,5,0,-5 Yard Penalty,"(1:51) (Shotgun) PENALTY on KC-O.Brown, False Start, 5 yards, enforced at KC 36 - No Play.",2nd & 10 at KC 36
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,5,KC,0,6,0,Pass Incomplete,(1:51) (Shotgun) P.Mahomes pass incomplete short right to J.Smith-Schuster [H.Reddick].,2nd & 15 at KC 31
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,5,KC,0,7,0,Run for No Gain,"(1:44) (Shotgun) P.Mahomes Aborted. C.Humphrey FUMBLES at KC 26, recovered by KC-P.Mahomes at KC 25. P.Mahomes to KC 34 for 9 yards (T.Edwards).",3rd & 15 at KC 31
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,5,KC,0,8,0,Punt,"(1:33) T.Townsend punts 50 yards to PHI 16, Center-J.Winchester. B.Covey to PHI 43 for 27 yards (N.Johnson).",4th & 12 at KC 34
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,6,PHI,1,1,0,9 Yard Pass,(1:22) (Shotgun) J.Hurts pass short right to K.Gainwell to KC 48 for 9 yards (J.Reid).,1st & 10 at PHI 43
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,6,PHI,1,2,0,Pass Incomplete,"(1:00) (No Huddle, Shotgun) J.Hurts pass deep right to D.Smith pushed ob at KC 13 for 35 yards (L.Sneed).
+The Replay Official reviewed the pass completion ruling, and the play was REVERSED.
+(No Huddle, Shotgun) J.Hurts pass incomplete deep right to D.Smith (L.Sneed).",2nd & 1 at KC 48
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,6,PHI,1,3,0,2 Yard Run,(:55) J.Hurts up the middle to KC 46 for 2 yards (C.Jones).,3rd & 1 at KC 48
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,6,PHI,1,4,0,Pass Incomplete,"(:35) (No Huddle, Shotgun) J.Hurts pass incomplete short right.",1st & 10 at KC 46
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,6,PHI,1,5,0,5 Yard Pass,(:28) (Shotgun) J.Hurts pass short right to D.Smith to KC 41 for 5 yards (N.Bolton).,2nd & 10 at KC 46
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,6,PHI,1,6,0,22 Yard Pass,(:23) (Shotgun) J.Hurts pass short right to A.Brown ran ob at KC 19 for 22 yards (J.Thornhill).,3rd & 5 at KC 41
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,6,PHI,1,7,0,2 Yard Pass,(:15) (Shotgun) J.Hurts pass short left to K.Gainwell to KC 17 for 2 yards (T.McDuffie).,1st & 10 at KC 19
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,2ND QUARTER,6,PHI,1,8,1,Field Goal,"(:04) J.Elliott 35 yard field goal is GOOD, Center-R.Lovato, Holder-A.Siposs.",2nd & 8 at KC 17
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,1,KC,1,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.",Kickoff from PHI 35
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,1,KC,1,2,0,7 Yard Run,(15:00) I.Pacheco right tackle pushed ob at KC 32 for 7 yards (M.Epps).,1st & 10 at KC 25
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,1,KC,1,3,0,2 Yard Run,(14:29) (Shotgun) I.Pacheco right end pushed ob at KC 34 for 2 yards (H.Reddick).,2nd & 3 at KC 32
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,1,KC,1,4,0,14 Yard Run,(13:54) J.McKinnon left tackle to KC 48 for 14 yards (C.Gardner-Johnson).,3rd & 1 at KC 34
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,1,KC,1,5,0,11 Yard Pass,(13:20) (Shotgun) P.Mahomes pass short middle to T.Kelce to PHI 41 for 11 yards (A.Maddox) [J.Davis].,1st & 10 at KC 48
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,1,KC,1,6,0,4 Yard Run,(12:42) S.Moore left end to PHI 37 for 4 yards (J.Bradberry).,1st & 10 at PHI 41
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,1,KC,1,7,0,12 Yard Pass,(12:12) (Shotgun) P.Mahomes pass short middle to Ju.Watson to PHI 25 for 12 yards (D.Slay).,2nd & 6 at PHI 37
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,1,KC,1,8,0,7 Yard Run,(11:34) (Shotgun) J.McKinnon up the middle to PHI 18 for 7 yards (M.Williams).,1st & 10 at PHI 25
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,1,KC,1,9,0,14 Yard Run,(10:57) (Shotgun) P.Mahomes scrambles right end to PHI 4 for 14 yards (M.Epps).,2nd & 3 at PHI 18
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,1,KC,1,10,0,3 Yard Pass,(10:13) (Shotgun) P.Mahomes pass short left to J.McKinnon to PHI 1 for 3 yards (A.Maddox).,1st & 4 at PHI 4
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,1,KC,1,11,0,Touchdown Chiefs,"(9:33) (Shotgun) I.Pacheco left tackle for 1 yard, TOUCHDOWN.",2nd & 1 at PHI 1
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,1,KC,1,12,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-T.Townsend.",XP attempt from PHI 15
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,2,PHI,1,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,2,PHI,1,2,0,Pass Incomplete,"(9:30) (Shotgun) J.Hurts pass short right to M.Sanders to PHI 22 for -3 yards (L.Sneed). FUMBLES (L.Sneed), RECOVERED by KC-N.Bolton at PHI 24. N.Bolton for 24 yards, TOUCHDOWN.
+The Replay Official reviewed the pass completion ruling, and the play was REVERSED.
+(Shotgun) J.Hurts pass incomplete short right to M.Sanders (L.Sneed).",1st & 10 at PHI 25
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,2,PHI,1,3,0,4 Yard Pass,(9:27) (Shotgun) J.Hurts pass short left to A.Brown to PHI 29 for 4 yards (W.Gay; J.Williams).,2nd & 10 at PHI 25
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,2,PHI,1,4,0,17 Yard Pass,(8:43) (Shotgun) J.Hurts pass deep left to D.Goedert to PHI 46 for 17 yards (J.Reid).,3rd & 6 at PHI 29
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,2,PHI,1,5,0,8 Yard Pass,"(8:14) (No Huddle, Shotgun) J.Hurts pass short right to Q.Watkins to KC 46 for 8 yards (J.Thornhill; L.Sneed).",1st & 10 at PHI 46
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,2,PHI,1,6,0,Pass Incomplete,"(7:50) (No Huddle, Shotgun) J.Hurts pass incomplete short right.",2nd & 2 at KC 46
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,2,PHI,1,7,0,3 Yard Run,(7:44) (Shotgun) K.Gainwell up the middle to KC 43 for 3 yards (C.Jones).,3rd & 2 at KC 46
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,2,PHI,1,8,0,1 Yard Run,(7:03) (Shotgun) J.Hurts scrambles up the middle to KC 42 for 1 yard (N.Bolton).,1st & 10 at KC 43
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,2,PHI,1,9,0,Pass Incomplete,(6:19) (Shotgun) J.Hurts pass incomplete deep left to Q.Watkins.,2nd & 9 at KC 42
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,2,PHI,1,10,0,-5 Yard Penalty,"(6:13) (Shotgun) PENALTY on PHI, Delay of Game, 5 yards, enforced at KC 42 - No Play.",3rd & 9 at KC 42
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,2,PHI,1,11,0,17 Yard Pass,"(6:13) (Shotgun) J.Hurts pass deep right to D.Goedert pushed ob at KC 30 for 17 yards (B.Cook).
+Kansas City challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",3rd & 14 at KC 47
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,2,PHI,1,12,0,4 Yard Run,(5:55) (Shotgun) M.Sanders right end to KC 26 for 4 yards (N.Bolton).,1st & 10 at KC 30
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,2,PHI,1,13,0,5 Yard Run,(5:14) (Shotgun) M.Sanders up the middle to KC 21 for 5 yards (N.Bolton).,2nd & 6 at KC 26
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,2,PHI,1,14,0,Run for No Gain,(4:35) M.Sanders right end to KC 21 for no gain (N.Bolton; L.Chenal).,3rd & 1 at KC 21
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,2,PHI,1,15,0,2 Yard Run,(4:02) (No Huddle) J.Hurts up the middle to KC 19 for 2 yards (T.McDuffie).,4th & 1 at KC 21
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,2,PHI,1,16,0,-1 Yard Sack,(3:17) (Shotgun) J.Hurts sacked ob at KC 20 for -1 yards (K.Saunders).,1st & 10 at KC 19
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,2,PHI,1,17,0,Pass Incomplete,(2:36) (Shotgun) J.Hurts pass incomplete short middle to D.Goedert.,2nd & 11 at KC 20
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,2,PHI,1,18,0,5 Yard Pass,(2:32) (Shotgun) J.Hurts pass short right to K.Gainwell to KC 15 for 5 yards (N.Bolton).,3rd & 11 at KC 20
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,3RD QUARTER,2,PHI,1,19,1,Field Goal,"(1:48) J.Elliott 33 yard field goal is GOOD, Center-R.Lovato, Holder-A.Siposs.",4th & 6 at KC 15
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,1,KC,1,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.",Kickoff from PHI 35
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,1,KC,1,2,0,3 Yard Pass,(1:45) (Shotgun) P.Mahomes pass short right to T.Kelce to KC 28 for 3 yards (T.Edwards).,1st & 10 at KC 25
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,1,KC,1,3,0,8 Yard Pass,(1:10) (Shotgun) P.Mahomes pass short left to J.Smith-Schuster to KC 36 for 8 yards (A.Maddox).,2nd & 7 at KC 28
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,1,KC,1,4,0,9 Yard Run,(:38) (Shotgun) I.Pacheco right tackle to KC 45 for 9 yards (A.Maddox).,1st & 10 at KC 36
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,1,KC,1,5,0,11 Yard Run,"(:04) I.Pacheco up the middle to PHI 44 for 11 yards (J.Hargrave, C.Gardner-Johnson).",2nd & 1 at KC 45
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,1,KC,1,6,0,14 Yard Pass,(15:00) (Shotgun) P.Mahomes pass short middle to J.Smith-Schuster to PHI 30 for 14 yards (A.Maddox).,1st & 10 at PHI 44
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,1,KC,1,7,0,5 Yard Penalty,"(14:19) (Shotgun) PENALTY on PHI-J.Sweat, Defensive Offside, 5 yards, enforced at PHI 30 - No Play.",1st & 10 at PHI 30
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,1,KC,1,8,0,13 Yard Pass,(14:04) (Shotgun) P.Mahomes pass short left to J.Smith-Schuster pushed ob at PHI 12 for 13 yards (J.Bradberry).,1st & 5 at PHI 25
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,1,KC,1,9,0,3 Yard Pass,(13:29) (Shotgun) P.Mahomes pass short middle to J.Smith-Schuster to PHI 9 for 3 yards (J.Bradberry).,1st & 10 at PHI 12
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,1,KC,1,10,0,4 Yard Run,(12:49) (Shotgun) J.McKinnon left end to PHI 5 for 4 yards (M.Epps; J.Bradberry).,2nd & 7 at PHI 9
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,1,KC,1,11,0,Touchdown Chiefs,"(12:08) (Shotgun) P.Mahomes pass short right to K.Toney for 5 yards, TOUCHDOWN.",3rd & 3 at PHI 5
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,1,KC,1,12,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-T.Townsend.",XP attempt from PHI 15
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,2,PHI,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,2,PHI,0,2,0,5 Yard Pass,(12:04) (Shotgun) J.Hurts pass short right to D.Goedert to PHI 30 for 5 yards (L.Chenal) [C.Dunlap].,1st & 10 at PHI 25
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,2,PHI,0,3,0,2 Yard Pass,(11:22) (Shotgun) J.Hurts pass short left to Z.Pascal to PHI 32 for 2 yards (J.Thornhill).,2nd & 5 at PHI 30
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,2,PHI,0,4,0,Pass Incomplete,(10:40) (Shotgun) J.Hurts pass incomplete deep left to D.Smith [C.Dunlap].,3rd & 3 at PHI 32
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,2,PHI,0,5,0,Punt,"(10:33) A.Siposs punts 38 yards to KC 30, Center-R.Lovato. K.Toney pushed ob at PHI 5 for 65 yards (A.Siposs).",4th & 3 at PHI 32
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,3,KC,1,1,0,1 Yard Run,(10:11) I.Pacheco up the middle to PHI 4 for 1 yard (J.Sweat).,1st & 5 at PHI 5
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,3,KC,1,2,0,Pass Incomplete,(9:31) (Shotgun) A.Wylie reported in as eligible.  P.Mahomes pass incomplete short middle.,2nd & 4 at PHI 4
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,3,KC,1,3,0,Touchdown Chiefs,"(9:26) (Shotgun) P.Mahomes pass short left to S.Moore for 4 yards, TOUCHDOWN.",3rd & 4 at PHI 4
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,3,KC,1,4,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-T.Townsend.",XP attempt from PHI 15
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,4,PHI,1,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,4,PHI,1,2,0,6 Yard Run,(9:22) (Shotgun) M.Sanders up the middle to PHI 31 for 6 yards (F.Clark).,1st & 10 at PHI 25
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,4,PHI,1,3,0,3 Yard Run,(8:39) (Shotgun) M.Sanders left end to PHI 34 for 3 yards (J.Williams).,2nd & 4 at PHI 31
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,4,PHI,1,4,0,2 Yard Run,(8:08) (No Huddle) J.Hurts up the middle to PHI 36 for 2 yards (W.Gay).,3rd & 1 at PHI 34
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,4,PHI,1,5,0,-1 Yard Sack,(7:25) (Shotgun) J.Hurts sacked ob at PHI 35 for -1 yards (L.Chenal).,1st & 10 at PHI 36
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,4,PHI,1,6,0,7 Yard Pass,(6:46) (Shotgun) J.Hurts pass short left to A.Brown to PHI 42 for 7 yards (N.Bolton).,2nd & 11 at PHI 35
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,4,PHI,1,7,0,11 Yard Pass,(6:07) (Shotgun) J.Hurts pass short right to A.Brown to KC 47 for 11 yards (L.Sneed).,3rd & 4 at PHI 42
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,4,PHI,1,8,0,45 Yard Pass,"(5:45) (No Huddle, Shotgun) J.Hurts pass deep left to D.Smith ran ob at KC 2 for 45 yards.",1st & 10 at KC 47
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,4,PHI,1,9,0,Touchdown Eagles,"(5:20) (No Huddle) J.Hurts up the middle for 2 yards, TOUCHDOWN.",1st & 2 at KC 2
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,4,PHI,1,10,1,2PT Conversion Success,TWO-POINT CONVERSION ATTEMPT. J.Hurts rushes left end. ATTEMPT SUCCEEDS.,XP attempt from KC 2
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,5,KC,1,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.",Kickoff from PHI 35
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,5,KC,1,2,0,3 Yard Run,(5:15) (Shotgun) I.Pacheco left tackle to KC 28 for 3 yards (J.Hargrave).,1st & 10 at KC 25
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,5,KC,1,3,0,10 Yard Pass,(4:37) (Shotgun) P.Mahomes pass short right to J.Smith-Schuster ran ob at KC 38 for 10 yards (D.Slay).,2nd & 7 at KC 28
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,5,KC,1,4,0,2 Yard Run,(4:32) I.Pacheco up the middle to KC 40 for 2 yards (C.Gardner-Johnson; J.Hargrave). KC-I.Pacheco was injured during the play.,1st & 10 at KC 38
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,5,KC,1,5,0,7 Yard Pass,(4:11) (Shotgun) P.Mahomes pass short right to T.Kelce to KC 47 for 7 yards (K.White; M.Epps).,2nd & 8 at KC 40
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,5,KC,1,6,0,10 Yard Run,(3:37) I.Pacheco left end to PHI 43 for 10 yards (C.Gardner-Johnson).,3rd & 1 at KC 47
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,5,KC,1,7,0,26 Yard Run,(2:55) (Shotgun) P.Mahomes scrambles up the middle to PHI 17 for 26 yards (K.White).,1st & 10 at PHI 43
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,5,KC,1,8,0,2 Yard Run,(2:07) I.Pacheco up the middle to PHI 15 for 2 yards (K.White).,1st & 10 at PHI 17
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,5,KC,1,9,0,Pass for No Gain,(2:00) (Shotgun) P.Mahomes pass short right to J.Smith-Schuster to PHI 15 for no gain (A.Maddox; T.Edwards).,2nd & 8 at PHI 15
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,5,KC,1,10,0,4 Yard Penalty,"(1:54) (Shotgun) P.Mahomes pass incomplete short left to J.Smith-Schuster [J.Sweat].
+PENALTY on PHI-J.Bradberry, Defensive Holding, 4 yards, enforced at PHI 15 - No Play.",3rd & 8 at PHI 15
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,5,KC,1,11,0,9 Yard Run,(1:48) (Shotgun) J.McKinnon left end to PHI 2 for 9 yards.,1st & 10 at PHI 11
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,5,KC,1,12,0,-5 Yard Run,(1:36) P.Mahomes kneels to PHI 7 for -5 yards.,2nd & 1 at PHI 2
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,5,KC,1,13,0,-2 Yard Run,(:54) P.Mahomes kneels to PHI 9 for -2 yards.,3rd & 6 at PHI 7
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,5,KC,1,14,1,Field Goal,"(:11) H.Butker 27 yard field goal is GOOD, Center-J.Winchester, Holder-T.Townsend.",4th & 8 at PHI 9
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,6,PHI,0,1,0,Kickoff,H.Butker kicks 40 yards from KC 35 to PHI 25. K.Gainwell to PHI 36 for 11 yards (D.Harris).,Kickoff from KC 35
+2022,Super Bowl,SUN,02/12,Chiefs,Eagles,4TH QUARTER,6,PHI,0,2,0,Pass Incomplete,(:06) (Shotgun) J.Hurts pass incomplete deep middle.,1st & 10 at PHI 36

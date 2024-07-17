@@ -1,0 +1,171 @@
+Season,Week,Day,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayDescription,PlayStart
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,1,KC,0,1,0,Kickoff,M.Wishnowsky kicks 68 yards from SF 35 to KC -3. M.Hardman to KC 26 for 29 yards (J.Ward; D.Reed Jr.).,Kickoff from SF 35
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,1,KC,0,2,0,7 Yard Run,(14:54) (Shotgun) Dam.Williams right end to KC 33 for 7 yards (D.Greenlaw).,1st & 10 at KC 26
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,1,KC,0,3,0,Pass Incomplete,(14:12) (Shotgun) P.Mahomes pass incomplete short left to Dam.Williams (N.Bosa).,2nd & 3 at KC 33
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,1,KC,0,4,0,Pass Incomplete,(14:08) (Shotgun) P.Mahomes pass incomplete short right to Dam.Williams.,3rd & 3 at KC 33
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,1,KC,0,5,0,Punt,"(14:05) (Punt formation) D.Colquitt punts 49 yards to SF 18, Center-J.Winchester. R.James Jr. MUFFS catch, and recovers at SF 18. R.James Jr. to SF 18 for no gain (B.Pringle).",4th & 3 at KC 33
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,2,SF,1,1,0,-1 Yard Run,(13:55) T.Coleman right end to SF 17 for -1 yards (D.Nnadi).,1st & 10 at SF 18
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,2,SF,1,2,0,11 Yard Pass,(13:18) J.Garoppolo pass short left to G.Kittle to SF 28 for 11 yards (D.Sorensen).,2nd & 11 at SF 17
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,2,SF,1,3,0,32 Yard Run,(12:33) (Shotgun) D.Samuel right end pushed ob at KC 40 for 32 yards (T.Mathieu).,1st & 10 at SF 28
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,2,SF,1,4,0,7 Yard Run,(11:51) (Shotgun) T.Coleman left end to KC 33 for 7 yards (D.Wilson; C.Ward).,1st & 10 at KC 40
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,2,SF,1,5,0,1 Yard Run,(11:09) T.Coleman left guard to KC 32 for 1 yard (R.Ragland).,2nd & 3 at KC 33
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,2,SF,1,6,0,7 Yard Run,(10:27) (Shotgun) D.Samuel scrambles left guard to KC 25 for 7 yards (A.Hitchens).,3rd & 2 at KC 32
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,2,SF,1,7,0,2 Yard Pass,(9:38) J.Garoppolo pass short middle to R.Mostert to KC 23 for 2 yards (M.Pennel; T.Suggs).,1st & 10 at KC 25
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,2,SF,1,8,0,-2 Yard Pass,"(8:57) (Shotgun) J.Garoppolo pass short right to D.Samuel to KC 25 for -2 yards (B.Breeland, A.Hitchens).",2nd & 8 at KC 23
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,2,SF,1,9,0,5 Yard Penalty,"(8:12) (Shotgun) J.Garoppolo pass incomplete short middle to J.Wilson.
+PENALTY on KC-T.Kpassagnon, Defensive Offside, 5 yards, enforced at KC 25 - No Play.",3rd & 10 at KC 25
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,2,SF,1,10,0,Pass Incomplete,(8:07) (Shotgun) J.Garoppolo pass incomplete short left to G.Kittle.,3rd & 5 at KC 20
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,2,SF,1,11,1,Field Goal,"(8:02) (Field Goal formation) R.Gould 38 yard field goal is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",4th & 5 at KC 20
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,3,KC,1,1,0,Kickoff,"M.Wishnowsky kicks 65 yards from SF 35 to end zone, Touchback.",Kickoff from SF 35
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,3,KC,1,2,0,9 Yard Pass,(7:57) (Shotgun) P.Mahomes pass short right to T.Hill to KC 34 for 9 yards (J.Ward; F.Warner).,1st & 10 at KC 25
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,3,KC,1,3,0,2 Yard Run,(7:18) (Shotgun) Dam.Williams left guard to KC 36 for 2 yards (N.Bosa; D.Buckner).,2nd & 1 at KC 34
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,3,KC,1,4,0,8 Yard Pass,(6:45) (Shotgun) P.Mahomes pass short right to T.Hill to KC 44 for 8 yards (J.Ward; K.Williams).,1st & 10 at KC 36
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,3,KC,1,5,0,Pass Incomplete,"(6:03) (Shotgun) P.Mahomes pass incomplete short right to Dam.Williams.
+Penalty on KC-E.Fisher, Ineligible Downfield Pass, declined.",2nd & 2 at KC 44
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,3,KC,1,6,0,5 Yard Run,(5:57) (Shotgun) Dam.Williams left guard to KC 49 for 5 yards (F.Warner).,3rd & 2 at KC 44
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,3,KC,1,7,0,9 Yard Pass,(5:22) (Shotgun) P.Mahomes pass short middle to T.Kelce to SF 42 for 9 yards (J.Tartt).,1st & 10 at KC 49
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,3,KC,1,8,0,14 Yard Run,(4:48) Dam.Williams right guard to SF 28 for 14 yards (R.Sherman).,2nd & 1 at SF 42
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,3,KC,1,9,0,3 Yard Pass,(4:07) (Shotgun) P.Mahomes pass short middle to T.Hill pushed ob at SF 25 for 3 yards (F.Warner).,1st & 10 at SF 28
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,3,KC,1,10,0,11 Yard Pass,"(3:32) (Shotgun) P.Mahomes pass short middle to T.Kelce to SF 14 for 11 yards (J.Ward).
+Penalty on SF-E.Mitchell, Defensive Offside, declined.",2nd & 7 at SF 25
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,3,KC,1,11,0,Sack,(3:08) (Shotgun) P.Mahomes sacked at SF 15 for -1 yards (sack split by D.Buckner and E.Mitchell).,1st & 10 at SF 14
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,3,KC,1,12,0,Pass Incomplete,(2:27) (Shotgun) P.Mahomes pass incomplete short right to T.Hill.,2nd & 11 at SF 15
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,3,KC,1,13,0,10 Yard Run,"(2:22) (Shotgun) P.Mahomes scrambles right end to SF 3 for 12 yards (J.Ward). FUMBLES (J.Ward), ball out of bounds at SF 5. SF-J.Ward was injured during the play. His return is Questionable.",3rd & 11 at SF 15
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,3,KC,1,14,0,4 Yard Run,(1:57) Direct snap to Dam.Williams.  Dam.Williams up the middle to SF 1 for 4 yards (J.Tartt).,4th & 1 at SF 5
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,3,KC,1,15,0,Run for No Gain,(1:14) (Shotgun) D.Thompson left guard to SF 1 for no gain (A.Armstead).,1st & 1 at SF 1
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,3,KC,1,16,0,Touchdown Chiefs,"(:36) C.Erving reported in as eligible.  P.Mahomes right end for 1 yard, TOUCHDOWN.",2nd & 1 at SF 1
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,1ST QUARTER,3,KC,1,17,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",XP attempt from SF 15
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,1,SF,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,1,SF,0,2,0,18 Yard Pass,(:31) J.Garoppolo pass deep right to E.Sanders to SF 43 for 18 yards (B.Breeland).,1st & 10 at SF 25
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,1,SF,0,3,0,-2 Yard Pass,(15:00) J.Garoppolo pass short right to D.Samuel to SF 41 for -2 yards (B.Breeland).,1st & 10 at SF 43
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,1,SF,0,4,0,Interception,(14:15) (Shotgun) J.Garoppolo pass deep right intended for D.Samuel INTERCEPTED by B.Breeland [M.Pennel] at KC 43. B.Breeland ran ob at KC 44 for 1 yard.,2nd & 12 at SF 41
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,2,KC,1,1,0,28 Yard Pass,(14:08) P.Mahomes pass deep left to S.Watkins to SF 28 for 28 yards (E.Moseley) [N.Bosa].,1st & 10 at KC 44
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,2,KC,1,2,0,-5 Yard Penalty,"(13:26) (Shotgun) PENALTY on KC-L.Duvernay-Tardif, False Start, 5 yards, enforced at SF 28 - No Play.",1st & 10 at SF 28
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,2,KC,1,3,0,5 Yard Penalty,"(13:07) (Shotgun) PENALTY on SF-S.Thomas, Neutral Zone Infraction, 5 yards, enforced at SF 33 - No Play.",1st & 15 at SF 33
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,2,KC,1,4,0,2 Yard Pass,(13:03) (Shotgun) P.Mahomes pass short left to M.Hardman to SF 26 for 2 yards (D.Greenlaw).,1st & 10 at SF 28
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,2,KC,1,5,0,3 Yard Run,(12:30) Dam.Williams up the middle to SF 23 for 3 yards (N.Bosa).,2nd & 8 at SF 26
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,2,KC,1,6,0,4 Yard Pass,(11:49) (Shotgun) P.Mahomes pass short middle to S.Watkins to SF 19 for 4 yards (E.Moseley).,3rd & 5 at SF 23
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,2,KC,1,7,0,3 Yard Run,(11:04) (Shotgun) Dam.Williams right end ran ob at SF 16 for 3 yards (J.Tartt).,4th & 1 at SF 19
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,2,KC,1,8,0,Pass Incomplete,(10:29) (Shotgun) P.Mahomes pass incomplete deep right to Dam.Williams.,1st & 10 at SF 16
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,2,KC,1,9,0,3 Yard Run,(10:23) (Shotgun) Dam.Williams right tackle to SF 13 for 3 yards (D.Buckner).,2nd & 10 at SF 16
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,2,KC,1,10,0,Pass Incomplete,(9:41) (Shotgun) P.Mahomes pass incomplete short middle to D.Thompson (T.Moore).,3rd & 7 at SF 13
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,2,KC,1,11,1,Field Goal,"(9:36) (Field Goal formation) H.Butker 31 yard field goal is GOOD, Center-J.Winchester, Holder-D.Colquitt.",4th & 7 at SF 13
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,3,SF,1,1,0,Kickoff,H.Butker kicks 58 yards from KC 35 to SF 7. R.James Jr. to SF 20 for 13 yards (D.O'Daniel).,Kickoff from KC 35
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,3,SF,1,2,0,1 Yard Run,(9:26) R.Mostert right tackle to SF 21 for 1 yard (A.Hitchens; D.Nnadi).,1st & 10 at SF 20
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,3,SF,1,3,0,9 Yard Run,(8:42) R.Mostert left end pushed ob at SF 30 for 9 yards (A.Hitchens; T.Mathieu).,2nd & 9 at SF 21
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,3,SF,1,4,0,16 Yard Pass,(8:09) (Shotgun) J.Garoppolo pass short middle to D.Samuel to SF 46 for 16 yards (T.Mathieu).,1st & 10 at SF 30
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,3,SF,1,5,0,11 Yard Run,(7:19) (Shotgun) R.Mostert right tackle to KC 43 for 11 yards (B.Breeland).,1st & 10 at SF 46
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,3,SF,1,6,0,17 Yard Run,(6:41) T.Coleman left tackle to KC 26 for 17 yards (T.Mathieu).,1st & 10 at KC 43
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,3,SF,1,7,0,11 Yard Pass,(5:55) (Shotgun) J.Garoppolo pass short middle to D.Samuel to KC 15 for 11 yards (B.Breeland; D.Sorensen).,1st & 10 at KC 26
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,3,SF,1,8,0,Touchdown 49ers,"(5:13) J.Garoppolo pass short right to K.Juszczyk for 15 yards, TOUCHDOWN.",1st & 10 at KC 15
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,3,SF,1,9,1,Extra Point Good,"R.Gould extra point is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",XP attempt from KC 15
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,4,KC,0,1,0,Kickoff,M.Wishnowsky kicks 60 yards from SF 35 to KC 5. M.Hardman to KC 19 for 14 yards (E.Lee).,Kickoff from SF 35
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,4,KC,0,2,0,10 Yard Pass,(4:59) (Shotgun) P.Mahomes pass short right to Dam.Williams ran ob at KC 29 for 10 yards (J.Ward).,1st & 10 at KC 19
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,4,KC,0,3,0,9 Yard Pass,(4:27) (Shotgun) P.Mahomes pass short left to B.Bell to KC 38 for 9 yards (E.Moseley).,1st & 10 at KC 29
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,4,KC,0,4,0,4 Yard Run,(3:49) (Shotgun) Dam.Williams left guard to KC 42 for 4 yards (D.Ford; D.Greenlaw).,2nd & 1 at KC 38
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,4,KC,0,5,0,10 Yard Pass,(3:09) P.Mahomes pass short middle to T.Hill to SF 48 for 10 yards (J.Ward).,1st & 10 at KC 42
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,4,KC,0,6,0,2 Yard Run,(2:27) (Shotgun) Dam.Williams up the middle to SF 46 for 2 yards (K.Williams).,1st & 10 at SF 48
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,4,KC,0,7,0,-6 Yard Run,(2:00) M.Hardman right end ran ob at KC 48 for -6 yards (F.Warner).,2nd & 8 at SF 46
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,4,KC,0,8,0,1 Yard Pass,(1:53) (Shotgun) P.Mahomes pass short right to Dam.Williams to KC 49 for 1 yard (J.Tartt).,3rd & 14 at KC 48
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,4,KC,0,9,0,Punt,"(1:08) (Punt formation) D.Colquitt punts 51 yards to end zone, Center-J.Winchester, Touchback.",4th & 13 at KC 49
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,5,SF,0,1,0,3 Yard Run,(:59) (Shotgun) R.Mostert left tackle to SF 23 for 3 yards (K.Fuller).,1st & 10 at SF 20
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,5,SF,0,2,0,2 Yard Run,(:27) (Shotgun) R.Mostert left guard to SF 25 for 2 yards (T.Kpassagnon; B.Niemann).,2nd & 7 at SF 23
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,5,SF,0,3,0,20 Yard Pass,(:20) (Shotgun) J.Garoppolo pass short middle to J.Wilson to SF 45 for 20 yards (K.Fuller; T.Suggs).,3rd & 5 at SF 25
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,5,SF,0,4,0,-10 Yard Penalty,"(:14) (Shotgun) J.Garoppolo pass deep right to G.Kittle to KC 13 for 42 yards (D.Sorensen).
+PENALTY on SF-G.Kittle, Offensive Pass Interference, 10 yards, enforced at SF 45 - No Play.",1st & 10 at SF 45
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,2ND QUARTER,5,SF,0,5,0,-1 Yard Run,(:06) J.Garoppolo kneels to SF 34 for -1 yards.,1st & 20 at SF 35
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,1,SF,1,1,0,Kickoff,H.Butker kicks 63 yards from KC 35 to SF 2. R.James Jr. to SF 16 for 14 yards (B.Pringle).,Kickoff from KC 35
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,1,SF,1,2,0,5 Yard Pass,(14:56) (Shotgun) J.Garoppolo pass short middle to E.Sanders to SF 21 for 5 yards (D.Wilson).,1st & 10 at SF 16
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,1,SF,1,3,0,15 Yard Pass,(14:18) J.Garoppolo pass short middle to E.Sanders to SF 36 for 15 yards (T.Mathieu).,2nd & 5 at SF 21
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,1,SF,1,4,0,14 Yard Run,(13:37) D.Samuel left end pushed ob at 50 for 14 yards (D.Sorensen). KC-B.Breeland was injured during the play. His return is Questionable.,1st & 10 at SF 36
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,1,SF,1,5,0,4 Yard Run,(13:14) (Shotgun) T.Coleman left end pushed ob at KC 46 for 4 yards (D.Nnadi).,1st & 10 at 50
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,1,SF,1,6,0,14 Yard Pass,(12:36) J.Garoppolo pass short left to K.Juszczyk to KC 32 for 14 yards (C.Ward).,2nd & 6 at KC 46
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,1,SF,1,7,0,5 Yard Pass,(11:59) (Shotgun) J.Garoppolo pass short right to G.Kittle to KC 27 for 5 yards (D.Sorensen).,1st & 10 at KC 32
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,1,SF,1,8,0,Run for No Gain,(11:14) (Shotgun) R.Mostert left end to KC 27 for no gain (D.Wilson).,2nd & 5 at KC 27
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,1,SF,1,9,0,3 Yard Pass,(10:28) (Shotgun) J.Garoppolo pass short middle to T.Coleman to KC 24 for 3 yards (B.Breeland).,3rd & 5 at KC 27
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,1,SF,1,10,1,Field Goal,"(9:34) (Field Goal formation) R.Gould 42 yard field goal is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",4th & 2 at KC 24
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,2,KC,0,1,0,Kickoff,"M.Wishnowsky kicks 62 yards from SF 35 to KC 3. M.Hardman to KC 18 for 15 yards (A.Witherspoon; E.Lee).
+PENALTY on KC-B.Pringle, Offensive Holding, 9 yards, enforced at KC 18.",Kickoff from SF 35
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,2,KC,0,2,0,19 Yard Pass,(9:23) P.Mahomes pass short right to S.Watkins to KC 28 for 19 yards (R.Sherman; D.Buckner).,1st & 10 at KC 9
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,2,KC,0,3,0,4 Yard Pass,(8:40) (Shotgun) P.Mahomes pass short right to T.Kelce to KC 32 for 4 yards (R.Sherman; D.Greenlaw).,1st & 10 at KC 28
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,2,KC,0,4,0,Run for No Gain,(8:07) Dam.Williams right tackle to KC 32 for no gain (S.Day; A.Armstead).,2nd & 6 at KC 32
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,2,KC,0,5,0,9 Yard Pass,(7:30) (Shotgun) P.Mahomes pass short left to S.Watkins ran ob at KC 41 for 9 yards.,3rd & 6 at KC 32
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,2,KC,0,6,0,5 Yard Run,(7:02) (Shotgun) Dam.Williams up the middle to KC 46 for 5 yards (N.Bosa).,1st & 10 at KC 41
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,2,KC,0,7,0,-7 Yard Sack,"(6:22) (Shotgun) P.Mahomes sacked at KC 37 for -9 yards (N.Bosa). FUMBLES (N.Bosa), and recovers at KC 39. P.Mahomes to KC 39 for no gain (D.Ford).",2nd & 5 at KC 46
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,2,KC,0,8,0,Interception,(5:36) (Shotgun) P.Mahomes pass deep right intended for T.Hill INTERCEPTED by F.Warner at SF 42. F.Warner to SF 45 for 3 yards (T.Hill).,3rd & 12 at KC 39
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,3,SF,1,1,0,16 Yard Pass,(5:23) J.Garoppolo pass short middle to D.Samuel to KC 39 for 16 yards (B.Breeland).,1st & 10 at SF 45
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,3,SF,1,2,0,2 Yard Run,(4:42) R.Mostert right guard to KC 37 for 2 yards (K.Saunders).,1st & 10 at KC 39
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,3,SF,1,3,0,Pass Incomplete,(4:03) (Shotgun) J.Garoppolo pass incomplete deep left to E.Sanders.,2nd & 8 at KC 37
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,3,SF,1,4,0,26 Yard Pass,(3:58) (Shotgun) J.Garoppolo pass short middle to K.Bourne to KC 11 for 26 yards (C.Ward).,3rd & 8 at KC 37
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,3,SF,1,5,0,10 Yard Pass,(3:21) J.Garoppolo pass short middle to K.Juszczyk to KC 1 for 10 yards (T.Kpassagnon).,1st & 10 at KC 11
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,3,SF,1,6,0,Touchdown 49ers,"(2:40) R.Mostert right guard for 1 yard, TOUCHDOWN.",1st & 1 at KC 1
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,3RD QUARTER,3,SF,1,7,1,Extra Point Good,"R.Gould extra point is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",XP attempt from KC 15
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,1,KC,0,1,0,Kickoff,"M.Wishnowsky kicks 65 yards from SF 35 to end zone, Touchback.",Kickoff from SF 35
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,1,KC,0,2,0,Pass Incomplete,(2:35) (Shotgun) P.Mahomes pass incomplete short right [D.Ford].,1st & 10 at KC 25
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,1,KC,0,3,0,5 Yard Run,(2:28) (Shotgun) Dam.Williams up the middle to KC 30 for 5 yards (K.Williams).,2nd & 10 at KC 25
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,1,KC,0,4,0,5 Yard Run,(1:47) (Shotgun) P.Mahomes scrambles right end ran ob at KC 35 for 5 yards (D.Buckner).,3rd & 5 at KC 30
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,1,KC,0,5,0,Pass Incomplete,(1:10) (Shotgun) P.Mahomes pass incomplete short middle to S.Watkins.,1st & 10 at KC 35
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,1,KC,0,6,0,9 Yard Pass,(1:06) (Shotgun) P.Mahomes pass short left to T.Kelce to KC 44 for 9 yards (F.Warner).,2nd & 10 at KC 35
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,1,KC,0,7,0,2 Yard Run,(:31) (Shotgun) Direct snap to T.Kelce.  T.Kelce right tackle to KC 46 for 2 yards (F.Warner).,3rd & 1 at KC 44
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,1,KC,0,8,0,Pass Incomplete,(15:00) P.Mahomes pass incomplete short left to T.Hill (K.Alexander).,1st & 10 at KC 46
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,1,KC,0,9,0,14 Yard Pass,(14:53) (Shotgun) P.Mahomes pass short left to T.Hill pushed ob at SF 40 for 14 yards (E.Moseley).,2nd & 10 at KC 46
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,1,KC,0,10,0,13 Yard Pass,(14:25) P.Mahomes pass short left to Dam.Williams to SF 27 for 13 yards (K.Alexander).,1st & 10 at SF 40
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,1,KC,0,11,0,-9 Yard Sack,(13:33) (Shotgun) P.Mahomes sacked at SF 36 for -9 yards (D.Buckner).,1st & 10 at SF 27
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,1,KC,0,12,0,13 Yard Run,(12:51) (Shotgun) P.Mahomes scrambles up the middle to SF 23 for 13 yards (J.Ward).,2nd & 19 at SF 36
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,1,KC,0,13,0,Interception,(12:05) (Shotgun) P.Mahomes pass short middle intended for T.Hill INTERCEPTED by T.Moore at SF 13. T.Moore to SF 20 for 7 yards (S.Watkins).,3rd & 6 at SF 23
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,2,SF,0,1,0,6 Yard Run,(11:57) R.Mostert right tackle to SF 26 for 6 yards (R.Ragland; D.Wilson).,1st & 10 at SF 20
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,2,SF,0,2,0,12 Yard Pass,(11:18) J.Garoppolo pass short middle to G.Kittle to SF 38 for 12 yards (D.Sorensen).,2nd & 4 at SF 26
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,2,SF,0,3,0,1 Yard Run,(10:37) R.Mostert left guard to SF 39 for 1 yard (D.Sorensen; C.Jones).,1st & 10 at SF 38
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,2,SF,0,4,0,Pass Incomplete,(9:52) J.Garoppolo pass incomplete short middle to D.Samuel [A.Hitchens].,2nd & 9 at SF 39
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,2,SF,0,5,0,-5 Yard Penalty,"(9:47) (Shotgun) PENALTY on SF-J.Staley, False Start, 5 yards, enforced at SF 39 - No Play.",3rd & 9 at SF 39
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,2,SF,0,6,0,3 Yard Run,(9:47) (Shotgun) J.Garoppolo scrambles right end pushed ob at SF 37 for 3 yards (R.Fenton).,3rd & 14 at SF 34
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,2,SF,0,7,0,Punt,"(9:01) (Punt formation) M.Wishnowsky punts 46 yards to KC 17, Center-K.Nelson, fair catch by M.Hardman.",4th & 11 at SF 37
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,3,KC,1,1,0,3 Yard Run,"(8:53) (Shotgun) Dam.Williams right end to KC 20 for 3 yards (R.Sherman). FUMBLES (R.Sherman), ball out of bounds at KC 20.",1st & 10 at KC 17
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,3,KC,1,2,0,9 Yard Run,(8:33) (Shotgun) P.Mahomes scrambles left end ran ob at KC 29 for 9 yards (K.Williams).,2nd & 7 at KC 20
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,3,KC,1,3,0,9 Yard Pass,"(8:14) (No Huddle, Shotgun) P.Mahomes pass short left to T.Hill to KC 38 for 9 yards (E.Moseley).",1st & 10 at KC 29
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,3,KC,1,4,0,2 Yard Run,"(7:50) (No Huddle, Shotgun) Dam.Williams up the middle to KC 40 for 2 yards (F.Warner; N.Bosa).",2nd & 1 at KC 38
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,3,KC,1,5,0,-5 Yard Penalty,"(7:25) (No Huddle, Shotgun) PENALTY on KC-L.Duvernay-Tardif, False Start, 5 yards, enforced at KC 40 - No Play.",1st & 10 at KC 40
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,3,KC,1,6,0,Pass Incomplete,(7:23) (Shotgun) P.Mahomes pass incomplete short left to T.Hill (E.Moseley).,1st & 15 at KC 35
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,3,KC,1,7,0,Pass Incomplete,"(7:17) (Shotgun) P.Mahomes pass deep right to T.Hill to SF 49 for 16 yards (J.Tartt).
+San Francisco challenged the pass completion ruling, and the play was REVERSED.
+(Shotgun) P.Mahomes pass incomplete deep right to T.Hill.",2nd & 15 at KC 35
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,3,KC,1,8,0,44 Yard Pass,(7:13) (Shotgun) P.Mahomes pass deep left to T.Hill to SF 21 for 44 yards (J.Ward) [D.Buckner].,3rd & 15 at KC 35
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,3,KC,1,9,0,Pass Incomplete,"(6:35) (No Huddle, Shotgun) P.Mahomes pass incomplete deep left to T.Hill.",1st & 10 at SF 21
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,3,KC,1,10,0,Pass Incomplete,(6:30) (Shotgun) P.Mahomes pass incomplete short right [A.Armstead].,2nd & 10 at SF 21
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,3,KC,1,11,0,20 Yard Penalty,"(6:23) (Shotgun) P.Mahomes pass incomplete deep left to T.Kelce (T.Moore).
+PENALTY on SF-T.Moore, Defensive Pass Interference, 20 yards, enforced at SF 21 - No Play.",3rd & 10 at SF 21
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,3,KC,1,12,0,Touchdown Chiefs,"(6:17) P.Mahomes pass short right to T.Kelce for 1 yard, TOUCHDOWN.",1st & 1 at SF 1
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,3,KC,1,13,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",XP attempt from SF 15
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,4,SF,0,1,0,Kickoff,H.Butker kicks 64 yards from KC 35 to SF 1. R.James Jr. to SF 20 for 19 yards (B.Niemann).,Kickoff from KC 35
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,4,SF,0,2,0,5 Yard Run,(6:06) (Shotgun) R.Mostert left tackle to SF 25 for 5 yards (D.Nnadi).,1st & 10 at SF 20
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,4,SF,0,3,0,Pass Incomplete,(5:27) (Shotgun) J.Garoppolo pass incomplete short right to G.Kittle (C.Jones).,2nd & 5 at SF 25
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,4,SF,0,4,0,Pass Incomplete,(5:23) (Shotgun) J.Garoppolo pass incomplete short right to K.Bourne [B.Niemann].,3rd & 5 at SF 25
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,4,SF,0,5,0,Punt,"(5:18) (Punt formation) M.Wishnowsky punts 40 yards to KC 35, Center-K.Nelson, fair catch by M.Hardman.",4th & 5 at SF 25
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,5,KC,1,1,0,5 Yard Pass,(5:10) (Shotgun) P.Mahomes pass short left to T.Hill to KC 40 for 5 yards (K.Williams).,1st & 10 at KC 35
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,5,KC,1,2,0,9 Yard Pass,"(4:48) (No Huddle, Shotgun) P.Mahomes pass short middle to T.Kelce to KC 49 for 9 yards (J.Ward).",2nd & 5 at KC 40
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,5,KC,1,3,0,3 Yard Pass,"(4:27) (No Huddle, Shotgun) P.Mahomes pass short right to T.Hill to SF 48 for 3 yards (R.Sherman).",1st & 10 at KC 49
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,5,KC,1,4,0,38 Yard Pass,(3:44) (Shotgun) P.Mahomes pass deep right to S.Watkins pushed ob at SF 10 for 38 yards (J.Ward).,2nd & 7 at SF 48
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,5,KC,1,5,0,6 Yard Run,(3:37) (Shotgun) P.Mahomes left end ran ob at SF 4 for 6 yards (K.Williams).,1st & 10 at SF 10
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,5,KC,1,6,0,-1 Yard Sack,(3:30) (Shotgun) P.Mahomes sacked at SF 5 for -1 yards (J.Tartt).,2nd & 4 at SF 4
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,5,KC,1,7,0,Touchdown Chiefs,"(2:50) (Shotgun) P.Mahomes pass short right to Dam.Williams for 5 yards, TOUCHDOWN.
+The Replay Official reviewed the runner broke the plane ruling, and the play was Upheld. The ruling on the field stands.",3rd & 5 at SF 5
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,5,KC,1,8,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",XP attempt from SF 15
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,6,SF,0,1,0,Kickoff,H.Butker kicks 65 yards from KC 35 to SF 0. R.James Jr. to SF 15 for 15 yards (B.Pringle).,Kickoff from KC 35
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,6,SF,0,2,0,17 Yard Run,(2:39) (Shotgun) R.Mostert right tackle to SF 32 for 17 yards (K.Fuller).,1st & 10 at SF 15
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,6,SF,0,3,0,-5 Yard Penalty,"(2:02) (Shotgun) PENALTY on SF-E.Sanders, False Start, 5 yards, enforced at SF 32 - No Play.",1st & 10 at SF 32
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,6,SF,0,4,0,8 Yard Pass,"(2:02) (Shotgun) J.Garoppolo pass short right to G.Kittle pushed ob at SF 35 for 8 yards (K.Fuller, T.Mathieu).",1st & 15 at SF 27
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,6,SF,0,5,0,16 Yard Pass,(1:56) (Shotgun) J.Garoppolo pass short left to K.Bourne pushed ob at KC 49 for 16 yards (C.Ward).,2nd & 7 at SF 35
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,6,SF,0,6,0,Pass Incomplete,(1:49) (Shotgun) J.Garoppolo pass incomplete short right to D.Samuel (C.Jones).,1st & 10 at KC 49
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,6,SF,0,7,0,Pass Incomplete,"(1:44) (Shotgun) J.Garoppolo pass incomplete short middle to K.Bourne (K.Fuller, C.Jones).",2nd & 10 at KC 49
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,6,SF,0,8,0,Pass Incomplete,(1:40) (Shotgun) J.Garoppolo pass incomplete deep middle to E.Sanders [T.Suggs].,3rd & 10 at KC 49
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,6,SF,0,9,0,Turnover on Downs,(1:33) (Shotgun) J.Garoppolo sacked at SF 42 for -9 yards (F.Clark).,4th & 10 at KC 49
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,7,KC,1,1,0,4 Yard Run,(1:25) Dam.Williams up the middle to SF 38 for 4 yards (A.Armstead).,1st & 10 at SF 42
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,7,KC,1,2,0,Touchdown Chiefs,"(1:20) Dam.Williams left end for 38 yards, TOUCHDOWN.",2nd & 6 at SF 38
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,7,KC,1,3,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",XP attempt from SF 15
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,8,SF,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,8,SF,0,2,0,Pass Incomplete,(1:12) (Shotgun) J.Garoppolo pass incomplete short left to G.Kittle [F.Clark].,1st & 10 at SF 25
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,8,SF,0,3,0,Interception,(1:08) (Shotgun) J.Garoppolo pass deep middle intended for D.Samuel INTERCEPTED by K.Fuller at KC 41. K.Fuller to KC 41 for no gain (D.Samuel).,2nd & 10 at SF 25
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,9,KC,0,1,0,-5 Yard Run,(:57) P.Mahomes kneels to KC 36 for -5 yards.,1st & 10 at KC 41
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,9,KC,0,2,0,-3 Yard Run,(:53) P.Mahomes kneels to KC 33 for -3 yards.,2nd & 15 at KC 36
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,9,KC,0,3,0,-7 Yard Run,(:51) P.Mahomes kneels to KC 26 for -7 yards.,3rd & 18 at KC 33
+2019,Super Bowl,SUN,02/02,49ers,Chiefs,4TH QUARTER,9,KC,0,4,0,Turnover on Downs,(:05) (Shotgun) P.Mahomes pass incomplete deep right.,4th & 25 at KC 26

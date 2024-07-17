@@ -1,0 +1,739 @@
+Season,Week,Day,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayDescription,PlayStart
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,1,PHI,0,1,0,Kickoff,M.Bosher kicks 62 yards from ATL 35 to PHI 3. C.Clement to PHI 25 for 22 yards (L.Reynolds; K.Ishmael).,Kickoff from ATL 35
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,1,PHI,0,2,0,42 Yard Penalty,"(14:54) N.Foles pass incomplete deep right to T.Smith.
+PENALTY on ATL-B.Poole, Defensive Pass Interference, 42 yards, enforced at PHI 25 - No Play.",1st & 10 at PHI 25
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,1,PHI,0,3,0,Fumble,"(14:46) (Shotgun) J.Ajayi up the middle to ATL 27 for 6 yards (R.Allen). FUMBLES (R.Allen), RECOVERED by ATL-K.Neal at ATL 26. K.Neal to ATL 26 for no gain (S.Wisniewski).",1st & 10 at ATL 33
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,2,ATL,1,1,0,12 Yard Pass,(14:36) M.Ryan pass short left to L.Toilolo to ATL 38 for 12 yards (R.Darby).,1st & 10 at ATL 26
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,2,ATL,1,2,0,3 Yard Run,(13:59) D.Freeman right end to ATL 41 for 3 yards (F.Cox; V.Curry).,1st & 10 at ATL 38
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,2,ATL,1,3,0,2 Yard Run,(13:20) D.Freeman left end to ATL 43 for 2 yards (V.Curry).,2nd & 7 at ATL 41
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,2,ATL,1,4,0,17 Yard Pass,(12:37) (Shotgun) M.Ryan pass short left to M.Sanu pushed ob at PHI 40 for 17 yards (R.McLeod).,3rd & 5 at ATL 43
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,2,ATL,1,5,0,6 Yard Pass,(12:06) M.Ryan pass short left to Ju.Jones pushed ob at PHI 34 for 6 yards (R.Darby).,1st & 10 at PHI 40
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,2,ATL,1,6,0,5 Yard Run,(11:40) T.Coleman right end ran ob at PHI 29 for 5 yards (R.McLeod).,2nd & 4 at PHI 34
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,2,ATL,1,7,0,12 Yard Run,(11:09) T.Coleman right end pushed ob at PHI 17 for 12 yards (M.Kendricks).,1st & 10 at PHI 29
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,2,ATL,1,8,0,-1 Yard Run,(10:38) D.Freeman right end to PHI 18 for -1 yards (F.Cox).,1st & 10 at PHI 17
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,2,ATL,1,9,0,3 Yard Pass,(9:58) (Shotgun) M.Ryan pass short right to A.Hooper to PHI 15 for 3 yards (M.Jenkins).,2nd & 11 at PHI 18
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,2,ATL,1,10,0,Pass Incomplete,(9:14) (Shotgun) M.Ryan pass incomplete short left to T.Gabriel (N.Bradham).,3rd & 8 at PHI 15
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,2,ATL,1,11,1,Field Goal,"(9:08) M.Bryant 33 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",4th & 8 at PHI 15
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,3,PHI,0,1,0,Kickoff,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback.",Kickoff from ATL 35
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,3,PHI,0,2,0,Run for No Gain,(9:04) (Shotgun) J.Ajayi up the middle to PHI 25 for no gain (T.McKinley).,1st & 10 at PHI 25
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,3,PHI,0,3,0,Pass Incomplete,(8:26) N.Foles pass incomplete short right to Z.Ertz.,2nd & 10 at PHI 25
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,3,PHI,0,4,0,21 Yard Penalty,"(8:23) (Shotgun) N.Foles pass incomplete short right to M.Hollins.
+PENALTY on ATL-D.Trufant, Defensive Pass Interference, 21 yards, enforced at PHI 25 - No Play.",3rd & 10 at PHI 25
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,3,PHI,0,5,0,7 Yard Run,(8:18) (Shotgun) J.Ajayi left end to ATL 47 for 7 yards (D.Campbell).,1st & 10 at PHI 46
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,3,PHI,0,6,0,11 Yard Run,(7:37) J.Ajayi left tackle to ATL 36 for 11 yards (R.Alford; D.Jones).,2nd & 3 at ATL 47
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,3,PHI,0,7,0,Run for No Gain,"(6:54) N.Foles FUMBLES (Aborted) at ATL 41, recovered by PHI-L.Blount at ATL 43. L.Blount to ATL 43 for no gain (D.Campbell).",1st & 10 at ATL 36
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,3,PHI,0,8,0,10 Yard Pass,(6:11) (Shotgun) N.Foles pass short left to Z.Ertz pushed ob at ATL 33 for 10 yards (R.Alford) [B.Reed].,2nd & 17 at ATL 43
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,3,PHI,0,9,0,-8 Yard Sack,"(5:40) (No Huddle, Shotgun) N.Foles sacked at ATL 41 for -8 yards (T.McKinley). ATL-T.McKinley was injured during the play.",3rd & 7 at ATL 33
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,3,PHI,0,10,0,Punt,"(5:15) D.Jones punts 29 yards to ATL 12, Center-R.Lovato, fair catch by A.Roberts.",4th & 15 at ATL 41
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,4,ATL,0,1,0,14 Yard Pass,(5:09) M.Ryan pass short middle to T.Coleman to ATL 26 for 14 yards (M.Jenkins).,1st & 10 at ATL 12
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,4,ATL,0,2,0,21 Yard Pass,(4:29) (No Huddle) M.Ryan pass deep left to Ju.Jones ran ob at ATL 47 for 21 yards (R.Darby).,1st & 10 at ATL 26
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,4,ATL,0,3,0,6 Yard Run,(4:03) T.Coleman up the middle to PHI 47 for 6 yards (D.Ellerbe).,1st & 10 at ATL 47
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,4,ATL,0,4,0,Pass Incomplete,(3:23) M.Ryan pass incomplete short right to N.Williams.,2nd & 4 at PHI 47
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,4,ATL,0,5,0,2 Yard Run,(3:19) (Shotgun) D.Freeman up the middle to PHI 45 for 2 yards (F.Cox).,3rd & 4 at PHI 47
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,4,ATL,0,6,0,-5 Yard Penalty,"(2:31) (Shotgun) PENALTY on ATL-M.Ryan, Delay of Game, 5 yards, enforced at PHI 45 - No Play.",4th & 2 at PHI 45
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,1ST QUARTER,4,ATL,0,7,0,Punt,"(2:18) M.Bosher punts 36 yards to PHI 14, Center-J.Harris, fair catch by K.Barner.",4th & 7 at 50
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,1,PHI,1,1,0,10 Yard Run,(2:12) (Shotgun) J.Ajayi up the middle to PHI 24 for 10 yards (B.Reed).,1st & 10 at PHI 14
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,1,PHI,1,2,0,8 Yard Run,(1:38) (Shotgun) J.Ajayi right tackle to PHI 32 for 8 yards (R.Allen).,1st & 10 at PHI 24
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,1,PHI,1,3,0,7 Yard Run,(1:01) (Shotgun) J.Ajayi left end to PHI 39 for 7 yards (K.Ishmael).,2nd & 2 at PHI 32
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,1,PHI,1,4,0,9 Yard Pass,(:21) N.Foles pass short left to J.Ajayi to PHI 48 for 9 yards (D.Campbell).,1st & 10 at PHI 39
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,1,PHI,1,5,0,8 Yard Run,(15:00) (Shotgun) L.Blount up the middle to ATL 44 for 8 yards (D.Riley).,2nd & 1 at PHI 48
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,1,PHI,1,6,0,6 Yard Pass,(14:18) (Shotgun) N.Foles pass short left to T.Smith ran ob at ATL 38 for 6 yards (R.Alford).,1st & 10 at ATL 44
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,1,PHI,1,7,0,7 Yard Pass,(13:50) (Shotgun) N.Foles pass short left to C.Clement to ATL 31 for 7 yards (R.Alford).,2nd & 4 at ATL 38
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,1,PHI,1,8,0,1 Yard Run,(13:29) (Shotgun) J.Ajayi left end to ATL 30 for 1 yard (G.Jarrett).,1st & 10 at ATL 31
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,1,PHI,1,9,0,6 Yard Pass,(12:46) (Shotgun) N.Foles pass short right to B.Celek pushed ob at ATL 24 for 6 yards (D.Campbell).,2nd & 9 at ATL 30
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,1,PHI,1,10,0,21 Yard Run,(12:13) N.Agholor left end pushed ob at ATL 3 for 21 yards (R.Allen).,3rd & 3 at ATL 24
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,1,PHI,1,11,0,Pass Incomplete,(11:40) (Shotgun) N.Foles pass incomplete short right to Z.Ertz (D.Shelby).,1st & 3 at ATL 3
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,1,PHI,1,12,0,1 Yard Run,(11:36) L.Blount up the middle to ATL 2 for 1 yard (D.Shelby).,2nd & 3 at ATL 3
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,1,PHI,1,13,0,1 Yard Run,"(10:51) N.Foles FUMBLES (Aborted) at ATL 2, touched at ATL 2, and recovers at ATL 1. N.Foles for 1 yard, TOUCHDOWN.
+The Replay Official reviewed the runner broke the plane ruling, and the play was REVERSED.
+N.Foles FUMBLES (Aborted) at ATL 2, touched at ATL 2, and recovers at ATL 1. N.Foles to ATL 1 for no gain (B.Poole).",3rd & 2 at ATL 2
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,1,PHI,1,14,0,Touchdown Eagles,"(10:32) L.Blount right end for 1 yard, TOUCHDOWN.",4th & 1 at ATL 1
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,1,PHI,1,15,1,Extra Point No Good,"J.Elliott extra point is No Good, Hit Left Upright, Center-R.Lovato, Holder-D.Jones.",XP attempt from ATL 15
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,2,ATL,0,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.",Kickoff from PHI 35
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,2,ATL,0,2,0,Run for No Gain,(10:28) D.Freeman up the middle to ATL 25 for no gain (T.Jernigan; C.Long).,1st & 10 at ATL 25
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,2,ATL,0,3,0,24 Yard Pass,(9:47) (Shotgun) M.Ryan pass short left to M.Sanu pushed ob at ATL 49 for 24 yards (M.Kendricks).,2nd & 10 at ATL 25
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,2,ATL,0,4,0,Pass Incomplete,(9:17) M.Ryan pass incomplete deep right to Ju.Jones (J.Mills) [V.Curry].,1st & 10 at ATL 49
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,2,ATL,0,5,0,-3 Yard Pass,(9:09) M.Ryan pass short left to T.Gabriel to ATL 46 for -3 yards (R.Darby).,2nd & 10 at ATL 49
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,2,ATL,0,6,0,6 Yard Pass,(8:24) (Shotgun) M.Ryan pass short middle to Ju.Jones to PHI 48 for 6 yards (M.Jenkins).,3rd & 13 at ATL 46
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,2,ATL,0,7,0,Fumble,"(7:41) M.Bosher punts 30 yards to PHI 18, Center-J.Harris. B.Braman MUFFS catch, RECOVERED by ATL-L.Reynolds at PHI 18. L.Reynolds to PHI 18 for no gain (K.Barner).
+The Replay Official reviewed the kick touched ruling, and the play was Upheld. The ruling on the field was confirmed.",4th & 7 at PHI 48
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,3,ATL,1,1,0,9 Yard Penalty,"(7:31) M.Ryan pass incomplete deep left to M.Sanu.
+PENALTY on PHI-R.McLeod, Unnecessary Roughness, 9 yards, enforced at PHI 18 - No Play.",1st & 10 at PHI 18
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,3,ATL,1,2,0,-4 Yard Run,(7:26) T.Coleman right end to PHI 13 for -4 yards (M.Jenkins).,1st & 9 at PHI 9
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,3,ATL,1,3,0,5 Yard Penalty,"(6:43) (Shotgun) M.Ryan pass incomplete short right to Ju.Jones (J.Mills).
+PENALTY on PHI-J.Mills, Defensive Holding, 5 yards, enforced at PHI 13 - No Play.",2nd & 13 at PHI 13
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,3,ATL,1,4,0,Pass Incomplete,(6:35) M.Ryan pass incomplete short right to L.Toilolo.,1st & 8 at PHI 8
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,3,ATL,1,5,0,2 Yard Run,(6:26) D.Freeman up the middle to PHI 6 for 2 yards (F.Cox).,2nd & 8 at PHI 8
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,3,ATL,1,6,0,Touchdown Falcons,"(5:46) (Shotgun) M.Ryan pass short left to D.Freeman for 6 yards, TOUCHDOWN [F.Cox].",3rd & 6 at PHI 6
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,3,ATL,1,7,1,Extra Point Good,"M.Bryant extra point is GOOD, Center-J.Harris, Holder-M.Bosher.",XP attempt from PHI 15
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,4,PHI,0,1,0,Kickoff,M.Bosher kicks 61 yards from ATL 35 to PHI 4. K.Barner to PHI 30 for 26 yards (K.Ishmael).,Kickoff from ATL 35
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,4,PHI,0,2,0,-4 Yard Run,(5:36) L.Blount left end to PHI 26 for -4 yards (A.Clayborn).,1st & 10 at PHI 30
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,4,PHI,0,3,0,11 Yard Pass,(4:56) (Shotgun) N.Foles pass short left to C.Clement to PHI 37 for 11 yards (R.Alford).,2nd & 14 at PHI 26
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,4,PHI,0,4,0,4 Yard Pass,(4:16) (Shotgun) N.Foles pass short left to C.Clement to PHI 41 for 4 yards (K.Neal).,3rd & 3 at PHI 37
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,4,PHI,0,5,0,-1 Yard Run,(3:37) L.Blount left guard to PHI 40 for -1 yards (K.Neal).,1st & 10 at PHI 41
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,4,PHI,0,6,0,6 Yard Pass,(3:00) (Shotgun) N.Foles pass short right to N.Agholor to PHI 46 for 6 yards (D.Jones).,2nd & 11 at PHI 40
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,4,PHI,0,7,0,Pass Incomplete,(2:20) (Shotgun) N.Foles pass incomplete deep left to T.Burton.,3rd & 5 at PHI 46
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,4,PHI,0,8,0,Punt,"(2:15) D.Jones punts 54 yards to end zone, Center-R.Lovato, Touchback.",4th & 5 at PHI 46
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,5,ATL,0,1,0,23 Yard Run,(2:08) T.Coleman left end ran ob at ATL 43 for 23 yards (M.Jenkins).,1st & 10 at ATL 20
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,5,ATL,0,2,0,10 Yard Pass,(2:00) (Shotgun) M.Ryan pass short left to Ju.Jones to PHI 47 for 10 yards (R.McLeod).,1st & 10 at ATL 43
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,5,ATL,0,3,0,-3 Yard Sack,(1:40) (No Huddle) M.Ryan sacked at 50 for -3 yards (F.Cox).,1st & 10 at PHI 47
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,5,ATL,0,4,0,Pass Incomplete,(1:08) (Shotgun) M.Ryan pass incomplete short left to Ju.Jones.,2nd & 13 at 50
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,5,ATL,0,5,0,Pass for No Gain,(1:04) (Shotgun) M.Ryan pass short left to D.Freeman to 50 for no gain (C.Graham).,3rd & 13 at 50
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,5,ATL,0,6,0,Punt,"(:55) M.Bosher punts 22 yards to PHI 28, Center-J.Harris, downed by ATL-D.Coleman. PENALTY on PHI-50-B.Braman, Running Into the Kicker, 5 yards, enforced at 50 - No Play.
+The Replay Official reviewed the running into the kicker ruling, and the play was REVERSED.
+M.Bosher punts 22 yards to PHI 28, Center-J.Harris, downed by ATL-D.Coleman.",4th & 13 at 50
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,6,PHI,1,1,0,7 Yard Pass,(:46) (Shotgun) N.Foles pass short right to C.Clement to PHI 35 for 7 yards (V.Beasley).,1st & 10 at PHI 28
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,6,PHI,1,2,0,-5 Yard Penalty,"(:22) PENALTY on PHI-H.Vaitai, False Start, 5 yards, enforced at PHI 35 - No Play.",2nd & 3 at PHI 35
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,6,PHI,1,3,0,20 Yard Pass,(:22) (Shotgun) N.Foles pass short middle to T.Smith to 50 for 20 yards (K.Neal) [G.Jarrett].,2nd & 8 at PHI 30
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,6,PHI,1,4,0,Pass Incomplete,(:12) (Shotgun) N.Foles pass incomplete deep right to A.Jeffery.,1st & 10 at 50
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,6,PHI,1,5,0,15 Yard Pass,(:05) (Shotgun) N.Foles pass short right to A.Jeffery ran ob at ATL 35 for 15 yards.,2nd & 10 at 50
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,2ND QUARTER,6,PHI,1,6,1,Field Goal,"(:01) J.Elliott 53 yard field goal is GOOD, Center-R.Lovato, Holder-D.Jones.",1st & 10 at ATL 35
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,1,ATL,0,1,0,Kickoff,J.Elliott kicks 53 yards from PHI 35 to ATL 12. A.Roberts to ATL 20 for 8 yards (C.Graham).,Kickoff from PHI 35
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,1,ATL,0,2,0,2 Yard Run,(14:52) D.Freeman left end to ATL 22 for 2 yards (F.Cox).,1st & 10 at ATL 20
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,1,ATL,0,3,0,2 Yard Pass,(14:17) M.Ryan pass short left to D.Freeman to ATL 24 for 2 yards (N.Bradham) [V.Curry].,2nd & 8 at ATL 22
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,1,ATL,0,4,0,Pass Incomplete,(13:31) (Shotgun) M.Ryan pass incomplete deep left to J.Hardy (J.Mills) [C.Long].,3rd & 6 at ATL 24
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,1,ATL,0,5,0,Punt,"(13:23) M.Bosher punts 36 yards to PHI 40, Center-J.Harris, fair catch by K.Barner.",4th & 6 at ATL 24
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,2,PHI,0,1,0,-2 Yard Run,(13:15) J.Ajayi right end to PHI 38 for -2 yards (K.Ishmael).,1st & 10 at PHI 40
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,2,PHI,0,2,0,8 Yard Pass,(12:36) (Shotgun) N.Foles pass short middle to N.Agholor to PHI 46 for 8 yards (K.Neal).,2nd & 12 at PHI 38
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,2,PHI,0,3,0,2 Yard Run,(11:53) (Shotgun) J.Ajayi up the middle to PHI 48 for 2 yards (V.Beasley).,3rd & 4 at PHI 46
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,2,PHI,0,4,0,Punt,"(11:14) D.Jones punts 40 yards to ATL 12, Center-R.Lovato, fair catch by A.Roberts.",4th & 2 at PHI 48
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,3,ATL,0,1,0,18 Yard Run,(11:08) T.Coleman right end pushed ob at ATL 30 for 18 yards (M.Jenkins).,1st & 10 at ATL 12
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,3,ATL,0,2,0,-1 Yard Run,(10:39) T.Coleman left end to ATL 29 for -1 yards (N.Bradham).,1st & 10 at ATL 30
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,3,ATL,0,3,0,Pass Incomplete,(9:59) (Shotgun) M.Ryan pass incomplete short left to Ju.Jones (M.Kendricks).,2nd & 11 at ATL 29
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,3,ATL,0,4,0,12 Yard Pass,(9:56) (Shotgun) M.Ryan pass short left to Ju.Jones to ATL 41 for 12 yards (R.Darby).,3rd & 11 at ATL 29
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,3,ATL,0,5,0,2 Yard Run,(9:14) D.Freeman left end to ATL 43 for 2 yards (M.Kendricks).,1st & 10 at ATL 41
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,3,ATL,0,6,0,5 Yard Pass,(8:40) M.Ryan pass short middle to D.Freeman to ATL 48 for 5 yards (V.Curry).,2nd & 8 at ATL 43
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,3,ATL,0,7,0,3 Yard Run,(7:55) (Shotgun) T.Coleman up the middle to PHI 49 for 3 yards (R.McLeod).,3rd & 3 at ATL 48
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,3,ATL,0,8,0,Pass Incomplete,(7:22) M.Ryan pass incomplete deep left to Ju.Jones.,1st & 10 at PHI 49
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,3,ATL,0,9,0,5 Yard Penalty,"(7:14) D.Freeman right end to PHI 44 for 5 yards (M.Kendricks).
+PENALTY on PHI-T.Jernigan, Defensive Offside, 5 yards, enforced at PHI 49 - No Play.",2nd & 10 at PHI 49
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,3,ATL,0,10,0,Pass Incomplete,(6:55) M.Ryan pass incomplete deep right to M.Sanu [B.Graham].,2nd & 5 at PHI 44
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,3,ATL,0,11,0,-2 Yard Sack,(6:50) (Shotgun) M.Ryan sacked at PHI 46 for -2 yards (N.Bradham).,3rd & 5 at PHI 44
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,3,ATL,0,12,0,Punt,"(6:03) M.Bosher punts 39 yards to PHI 7, Center-J.Harris, downed by ATL-D.Kazee.",4th & 7 at PHI 46
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,4,PHI,1,1,0,2 Yard Run,(5:53) (Shotgun) J.Ajayi right end to PHI 9 for 2 yards (V.Beasley).,1st & 10 at PHI 7
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,4,PHI,1,2,0,12 Yard Pass,(5:18) (Shotgun) N.Foles pass short right to A.Jeffery to PHI 21 for 12 yards (D.Trufant).,2nd & 8 at PHI 9
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,4,PHI,1,3,0,13 Yard Pass,(4:41) (Shotgun) N.Foles pass short right to A.Jeffery to PHI 34 for 13 yards (D.Trufant).,1st & 10 at PHI 21
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,4,PHI,1,4,0,2 Yard Run,"(4:14) (No Huddle, Shotgun) J.Ajayi up the middle to PHI 36 for 2 yards (G.Jarrett).",1st & 10 at PHI 34
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,4,PHI,1,5,0,Run for No Gain,(3:36) (Shotgun) J.Ajayi left end to PHI 36 for no gain (A.Rubin).,2nd & 8 at PHI 36
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,4,PHI,1,6,0,21 Yard Pass,(2:54) (Shotgun) N.Foles pass short left to A.Jeffery ran ob at ATL 43 for 21 yards (R.Alford).,3rd & 8 at PHI 36
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,4,PHI,1,7,0,11 Yard Pass,(2:21) (Shotgun) N.Foles pass short left to Z.Ertz to ATL 32 for 11 yards (R.Alford).,1st & 10 at ATL 43
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,4,PHI,1,8,0,13 Yard Pass,(1:35) (Shotgun) N.Foles pass short left to T.Smith to ATL 19 for 13 yards (B.Poole).,1st & 10 at ATL 32
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,4,PHI,1,9,0,Run for No Gain,(1:05) (Shotgun) J.Ajayi up the middle to ATL 19 for no gain (D.Poe).,1st & 10 at ATL 19
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,4,PHI,1,10,0,Pass Incomplete,(:23) N.Foles pass incomplete short left to J.Ajayi [A.Clayborn].,2nd & 10 at ATL 19
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,4,PHI,1,11,0,Pass Incomplete,(:19) (Shotgun) N.Foles pass incomplete short right to J.Ajayi.,3rd & 10 at ATL 19
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,3RD QUARTER,4,PHI,1,12,1,Field Goal,"(:15) J.Elliott 37 yard field goal is GOOD, Center-R.Lovato, Holder-D.Jones.",4th & 10 at ATL 19
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,1,ATL,0,1,0,Kickoff,"J.Elliott kicks 48 yards from PHI 35 to ATL 17, out of bounds.",Kickoff from PHI 35
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,1,ATL,0,2,0,-10 Yard Sack,(:11) M.Ryan sacked at ATL 30 for -10 yards (R.McLeod).,1st & 10 at ATL 40
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,1,ATL,0,3,0,Pass Incomplete,(15:00) (Shotgun) M.Ryan pass incomplete deep left to Ju.Jones [B.Graham].,2nd & 20 at ATL 30
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,1,ATL,0,4,0,13 Yard Pass,(14:53) (Shotgun) M.Ryan pass short middle to D.Freeman to ATL 43 for 13 yards (M.Jenkins; N.Bradham).,3rd & 20 at ATL 30
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,1,ATL,0,5,0,Punt,"(14:06) M.Bosher punts 40 yards to PHI 17, Center-J.Harris, fair catch by K.Barner.",4th & 7 at ATL 43
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,2,PHI,1,1,0,Pass Incomplete,(13:59) (Shotgun) N.Foles pass incomplete deep left to T.Smith.,1st & 10 at PHI 17
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,2,PHI,1,2,0,3 Yard Pass,(13:55) (Shotgun) N.Foles pass short left to J.Ajayi to PHI 20 for 3 yards (D.Jones).,2nd & 10 at PHI 17
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,2,PHI,1,3,0,32 Yard Pass,(13:16) (Shotgun) N.Foles pass short left to J.Ajayi to ATL 48 for 32 yards (R.Alford).,3rd & 7 at PHI 20
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,2,PHI,1,4,0,Run for No Gain,"(12:38) (No Huddle, Shotgun) J.Ajayi left tackle to ATL 48 for no gain (B.Reed).",1st & 10 at ATL 48
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,2,PHI,1,5,0,3 Yard Run,(11:59) L.Blount up the middle to ATL 45 for 3 yards (A.Rubin).,2nd & 10 at ATL 48
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,2,PHI,1,6,0,11 Yard Pass,(11:14) (Shotgun) N.Foles pass short left to Z.Ertz to ATL 34 for 11 yards (R.Allen).,3rd & 7 at ATL 45
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,2,PHI,1,7,0,10 Yard Pass,(10:29) (Shotgun) N.Foles pass short right to N.Agholor pushed ob at ATL 24 for 10 yards (B.Poole; K.Neal).,1st & 10 at ATL 34
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,2,PHI,1,8,0,9 Yard Pass,(9:59) (Shotgun) N.Foles pass short right to M.Hollins ran ob at ATL 15 for 9 yards (D.Trufant).,1st & 10 at ATL 24
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,2,PHI,1,9,0,-1 Yard Run,(9:25) N.Agholor left end to ATL 16 for -1 yards (D.Poe).,2nd & 1 at ATL 15
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,2,PHI,1,10,0,4 Yard Run,(8:46) (Shotgun) L.Blount right tackle to ATL 12 for 4 yards (D.Campbell).,3rd & 2 at ATL 16
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,2,PHI,1,11,0,7 Yard Run,(8:04) (Shotgun) L.Blount up the middle to ATL 5 for 7 yards (D.Campbell). ATL-B.Reed was injured during the play.,1st & 10 at ATL 12
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,2,PHI,1,12,0,Run for No Gain,(7:29) (Shotgun) L.Blount up the middle to ATL 5 for no gain (K.Neal).,2nd & 3 at ATL 5
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,2,PHI,1,13,0,2 Yard Pass,(6:50) (Shotgun) N.Foles pass short right to C.Clement to ATL 3 for 2 yards (D.Trufant).,3rd & 3 at ATL 5
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,2,PHI,1,14,1,Field Goal,"(6:05) J.Elliott 21 yard field goal is GOOD, Center-R.Lovato, Holder-D.Jones.",4th & 1 at ATL 3
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,3,ATL,0,1,0,Kickoff,J.Elliott kicks 64 yards from PHI 35 to ATL 1. A.Roberts to ATL 24 for 23 yards (N.Goode).,Kickoff from PHI 35
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,3,ATL,0,2,0,7 Yard Run,(5:57) T.Coleman right end to ATL 31 for 7 yards (D.Ellerbe).,1st & 10 at ATL 24
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,3,ATL,0,3,0,7 Yard Pass,(5:20) M.Ryan pass short left to Ju.Jones to ATL 38 for 7 yards (R.Darby).,2nd & 3 at ATL 31
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,3,ATL,0,4,0,-5 Yard Run,(4:38) D.Freeman right end to ATL 33 for -5 yards (B.Graham).,1st & 10 at ATL 38
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,3,ATL,0,5,0,9 Yard Pass,(4:10) (Shotgun) M.Ryan pass short right to M.Sanu to ATL 42 for 9 yards (M.Kendricks).,2nd & 15 at ATL 33
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,3,ATL,0,6,0,Pass Incomplete,"(3:34) (Shotgun) M.Ryan pass short left to M.Sanu to 50 for 8 yards (R.Darby) [D.Barnett].
+Philadelphia challenged the pass completion ruling, and the play was REVERSED.
+(Shotgun) M.Ryan pass incomplete short left to M.Sanu (R.Darby) [D.Barnett].",3rd & 6 at ATL 42
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,3,ATL,0,7,0,20 Yard Pass,(3:30) (Shotgun) M.Ryan pass deep right to Ju.Jones to PHI 38 for 20 yards (R.McLeod).,4th & 6 at ATL 42
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,3,ATL,0,8,0,Run for No Gain,(2:51) D.Freeman right end to PHI 38 for no gain (B.Graham).,1st & 10 at PHI 38
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,3,ATL,0,9,0,12 Yard Pass,(2:14) M.Ryan pass short right to Ju.Jones to PHI 26 for 12 yards (J.Mills).,2nd & 10 at PHI 38
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,3,ATL,0,10,0,7 Yard Pass,(2:00) (Shotgun) M.Ryan pass short left to T.Gabriel to PHI 19 for 7 yards (F.Cox; M.Jenkins).,1st & 10 at PHI 26
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,3,ATL,0,11,0,10 Yard Run,(1:25) T.Coleman left end to PHI 9 for 10 yards (R.McLeod).,2nd & 3 at PHI 19
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,3,ATL,0,12,0,Pass Incomplete,(1:19) (Shotgun) M.Ryan pass incomplete short left to Ju.Jones [B.Allen].,1st & 9 at PHI 9
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,3,ATL,0,13,0,Pass Incomplete,(1:15) (Shotgun) M.Ryan pass incomplete short left to T.Ward.,2nd & 9 at PHI 9
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,3,ATL,0,14,0,7 Yard Pass,"(1:11) (Shotgun) M.Ryan pass short left to Ju.Jones to PHI 2 for 7 yards (R.Darby).
+The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands.",3rd & 9 at PHI 9
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,3,ATL,0,15,0,Turnover on Downs,(1:05) (Shotgun) M.Ryan pass incomplete short right to Ju.Jones.,4th & 2 at PHI 2
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,4,PHI,0,1,0,5 Yard Penalty,"(:58) PENALTY on ATL-G.Jarrett, Encroachment, 5 yards, enforced at PHI 2 - No Play.",1st & 10 at PHI 2
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,4,PHI,0,2,0,5 Yard Run,(:58) C.Clement up the middle to PHI 12 for 5 yards (B.Reed).,1st & 5 at PHI 7
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,4,PHI,0,3,0,-1 Yard Run,(:53) N.Foles kneels to PHI 11 for -1 yards.,1st & 10 at PHI 12
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,4,PHI,0,4,0,-1 Yard Run,(:52) N.Foles kneels to PHI 10 for -1 yards.,2nd & 11 at PHI 11
+2017,Divisional Playoffs,SAT,01/13,Falcons,Eagles,4TH QUARTER,4,PHI,0,5,0,-1 Yard Run,(:26) N.Foles kneels to PHI 9 for -1 yards.,3rd & 12 at PHI 10
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,1,NE,0,1,0,Kickoff,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback. Patriots 9th consecutive postseason, ties NFL record (Dallas & Indianapolis). Bill Belichick 37th career postseason game, most by head coach in NFL history (Landry & Shula, 36).",Kickoff from TEN 35
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,1,NE,0,2,0,6 Yard Pass,"(15:00) (Shotgun) T.Brady pass short left to D.Amendola pushed ob at NE 31 for 6 yards (L.Ryan). NE 12-Brady 35th career postseason game, extends his NFL record. NE 12-Brady 35th career postseason QB start, extends his NFL record. NE 12-Brady 14th career Divisional Playoff Game, new NFL record (Rice, 13).",1st & 10 at NE 25
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,1,NE,0,3,0,3 Yard Run,(14:28) D.Lewis right guard to NE 34 for 3 yards (J.Casey).,2nd & 4 at NE 31
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,1,NE,0,4,0,14 Yard Pass,(13:53) (Shotgun) T.Brady pass short right to R.Gronkowski to NE 48 for 14 yards (K.Byard).,3rd & 1 at NE 34
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,1,NE,0,5,0,4 Yard Run,"(13:15) D.Lewis left guard to TEN 48 for 4 yards (B.Orakpo, W.Woodyard).",1st & 10 at NE 48
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,1,NE,0,6,0,Pass Incomplete,"(12:53) (No Huddle, Shotgun) T.Brady pass incomplete short left to C.Hogan.",2nd & 6 at TEN 48
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,1,NE,0,7,0,Pass Incomplete,(12:47) (Shotgun) T.Brady pass incomplete short right to B.Cooks.,3rd & 6 at TEN 48
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,1,NE,0,8,0,Punt,"(12:43) R.Allen punts 40 yards to TEN 8, Center-J.Cardona, fair catch by A.Jackson.",4th & 6 at TEN 48
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,2,TEN,0,1,0,3 Yard Run,"(12:37) D.Henry left guard to TEN 11 for 3 yards (E.Roberts, M.Brown).",1st & 10 at TEN 8
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,2,TEN,0,2,0,11 Yard Pass,(12:00) M.Mariota pass short left to C.Davis pushed ob at TEN 22 for 11 yards (M.Butler).,2nd & 7 at TEN 11
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,2,TEN,0,3,0,3 Yard Run,(11:29) D.Kelly reported in as eligible.  D.Henry left tackle to TEN 25 for 3 yards (T.Flowers).,1st & 10 at TEN 22
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,2,TEN,0,4,0,Run for No Gain,(10:49) D.Henry right tackle to TEN 25 for no gain (J.Harrison).,2nd & 7 at TEN 25
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,2,TEN,0,5,0,-4 Yard Sack,(10:03) (Shotgun) M.Mariota sacked at TEN 21 for -4 yards (D.Wise).,3rd & 7 at TEN 25
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,2,TEN,0,6,0,Punt,"(9:24) B.Kern punts 57 yards to NE 22, Center-B.Brinkley. D.Amendola to NE 34 for 12 yards (T.Smith, B.Brinkley).",4th & 11 at TEN 21
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,3,NE,0,1,0,-1 Yard Run,"(9:12) D.Lewis right guard to NE 33 for -1 yards (J.Cyprien, L.Ryan).",1st & 10 at NE 34
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,3,NE,0,2,0,3 Yard Run,(8:34) D.Lewis right tackle to NE 36 for 3 yards (A.Williamson).,2nd & 11 at NE 33
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,3,NE,0,3,0,15 Yard Pass,(8:00) (Shotgun) T.Brady pass short left to D.Amendola to TEN 49 for 15 yards (L.Ryan).,3rd & 8 at NE 36
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,3,NE,0,4,0,3 Yard Run,"(7:22) D.Lewis left guard to TEN 46 for 3 yards (K.Byard, A.Williamson).",1st & 10 at TEN 49
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,3,NE,0,5,0,Pass Incomplete,(6:50) T.Brady pass incomplete short right to B.Cooks.,2nd & 7 at TEN 46
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,3,NE,0,6,0,Pass Incomplete,(6:44) (Shotgun) T.Brady pass incomplete short left to R.Gronkowski.,3rd & 7 at TEN 46
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,3,NE,0,7,0,Punt,"(6:41) R.Allen punts 36 yards to TEN 10, Center-J.Cardona. A.Jackson to TEN 13 for 3 yards (J.Jones).
+PENALTY on TEN-D.Bates, Offensive Holding, 5 yards, enforced at TEN 10.",4th & 7 at TEN 46
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,4,TEN,1,1,0,36 Yard Pass,"(6:31) (Shotgun) M.Mariota pass deep right to D.Walker to TEN 41 for 36 yards (D.McCourty, P.Chung).",1st & 10 at TEN 5
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,4,TEN,1,2,0,3 Yard Run,(5:51) (Shotgun) D.Henry left guard to TEN 44 for 3 yards (E.Lee).,1st & 10 at TEN 41
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,4,TEN,1,3,0,Pass Incomplete,(5:08) M.Mariota pass incomplete short right to C.Davis (S.Gilmore) [T.Flowers].,2nd & 7 at TEN 44
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,4,TEN,1,4,0,11 Yard Run,"(5:03) (Shotgun) M.Mariota scrambles right guard to NE 45 for 11 yards (K.Van Noy, D.McCourty).",3rd & 7 at TEN 44
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,4,TEN,1,5,0,3 Yard Run,(4:21) (Shotgun) D.Henry left end to NE 42 for 3 yards (D.McCourty).,1st & 10 at NE 45
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,4,TEN,1,6,0,4 Yard Run,"(3:42) D.Henry up the middle to NE 38 for 4 yards (L.Guy, M.Brown). TEN-J.Conklin was injured during the play. He is Out.",2nd & 7 at NE 42
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,4,TEN,1,7,0,8 Yard Pass,(3:14) (Shotgun) M.Mariota pass short middle to R.Matthews to NE 30 for 8 yards (E.Rowe) [T.Flowers].,3rd & 3 at NE 38
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,4,TEN,1,8,0,Pass Incomplete,(2:38) (Shotgun) M.Mariota pass incomplete deep right to E.Decker.,1st & 10 at NE 30
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,4,TEN,1,9,0,11 Yard Run,(2:30) (Shotgun) M.Mariota right end ran ob at NE 19 for 11 yards.,2nd & 10 at NE 30
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,4,TEN,1,10,0,4 Yard Run,(2:00) D.Henry right guard to NE 15 for 4 yards (L.Guy).,1st & 10 at NE 19
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,4,TEN,1,11,0,Touchdown Titans,"(1:20) (Shotgun) M.Mariota pass short left to C.Davis for 15 yards, TOUCHDOWN.",2nd & 6 at NE 15
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,1ST QUARTER,4,TEN,1,12,1,Extra Point Good,"R.Succop extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",XP attempt from NE 15
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,1,NE,1,1,0,Kickoff,"R.Succop kicks 65 yards from TEN 35 to NE 0. D.Lewis to NE 27 for 27 yards (D.Searcy, P.Supernaw).",Kickoff from TEN 35
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,1,NE,1,2,0,12 Yard Pass,(1:07) T.Brady pass short left to B.Cooks to NE 39 for 12 yards (L.Ryan).,1st & 10 at NE 27
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,1,NE,1,3,0,5 Yard Pass,(:30) T.Brady pass short middle to D.Lewis to NE 44 for 5 yards (W.Woodyard) [J.Casey].,1st & 10 at NE 39
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,1,NE,1,4,0,6 Yard Run,(:01) D.Lewis left end to 50 for 6 yards (E.Walden).,2nd & 5 at NE 44
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,1,NE,1,5,0,31 Yard Pass,"(15:00) T.Brady pass short right to D.Lewis for 50 yards, TOUCHDOWN.
+The Replay Official reviewed the runner was not down by contact ruling, and the play was REVERSED.
+T.Brady pass short right to D.Lewis to TEN 19 for 31 yards (W.Woodyard).",1st & 10 at 50
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,1,NE,1,6,0,14 Yard Pass,"(14:36) T.Brady pass short middle to D.Lewis to TEN 5 for 14 yards (E.Walden, A.Williamson).",1st & 10 at TEN 19
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,1,NE,1,7,0,Run for No Gain,"(13:57) J.White up the middle to TEN 5 for no gain (K.Byard, A.Williamson).",1st & 5 at TEN 5
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,1,NE,1,8,0,Touchdown Patriots,"(13:24) (Shotgun) T.Brady pass short middle to J.White for 5 yards, TOUCHDOWN. shovel pass",2nd & 5 at TEN 5
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,1,NE,1,9,1,Extra Point Good,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen. NE 3-Gostkowski 23rd consecutive postseason game with a point, 3rd all-time (Akers 24 & Vinatieri 30).",XP attempt from TEN 15
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,2,TEN,0,1,0,Kickoff,S.Gostkowski kicks 68 yards from NE 35 to TEN -3. A.Jackson to TEN 21 for 24 yards (B.King).,Kickoff from NE 35
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,2,TEN,0,2,0,2 Yard Run,(13:13) D.Henry left guard to TEN 23 for 2 yards (E.Roberts).,1st & 10 at TEN 21
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,2,TEN,0,3,0,4 Yard Run,(12:37) D.Henry right guard to TEN 27 for 4 yards (T.Flowers).,2nd & 8 at TEN 23
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,2,TEN,0,4,0,-10 Yard Penalty,"(11:54) (Shotgun) M.Mariota pass short left to E.Decker pushed ob at TEN 40 for 13 yards (M.Butler).
+PENALTY on TEN-E.Decker, Offensive Pass Interference, 10 yards, enforced at TEN 27 - No Play.",3rd & 4 at TEN 27
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,2,TEN,0,5,0,Pass Incomplete,(11:29) (Shotgun) M.Mariota pass incomplete short right to C.Davis (S.Gilmore).,3rd & 14 at TEN 17
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,2,TEN,0,6,0,Punt,"(11:23) B.Kern punts 36 yards to NE 47, Center-B.Brinkley. D.Amendola to TEN 48 for 5 yards (P.Supernaw).",4th & 14 at TEN 17
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,3,NE,1,1,0,13 Yard Pass,(11:16) T.Brady pass short left to B.Cooks pushed ob at TEN 35 for 13 yards (L.Ryan).,1st & 10 at TEN 48
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,3,NE,1,2,0,8 Yard Pass,"(11:01) (No Huddle) T.Brady pass short right to D.Lewis to TEN 27 for 8 yards (T.Smith, L.Ryan).",1st & 10 at TEN 35
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,3,NE,1,3,0,9 Yard Run,(10:36) (No Huddle) D.Lewis left tackle to TEN 18 for 9 yards (W.Woodyard).,2nd & 2 at TEN 27
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,3,NE,1,4,0,5 Yard Run,(10:14) (No Huddle) D.Lewis left end to TEN 13 for 5 yards (K.Byard).,1st & 10 at TEN 18
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,3,NE,1,5,0,7 Yard Pass,(9:41) (Shotgun) T.Brady pass short left to J.White pushed ob at TEN 6 for 7 yards (K.Byard).,2nd & 5 at TEN 13
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,3,NE,1,6,0,Touchdown Patriots,"(9:27) (No Huddle) J.White left end for 6 yards, TOUCHDOWN.
+The Replay Official reviewed the runner was not down by contact ruling, and the play was Upheld. The ruling on the field stands.",1st & 6 at TEN 6
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,3,NE,1,7,1,Extra Point Good,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",XP attempt from TEN 15
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,4,TEN,0,1,0,Kickoff,S.Gostkowski kicks 68 yards from NE 35 to TEN -3. A.Jackson to TEN 22 for 25 yards (P.Chung).,Kickoff from NE 35
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,4,TEN,0,2,0,22 Yard Pass,(9:11) (Shotgun) M.Mariota pass short right to E.Decker to TEN 44 for 22 yards (J.Harrison).,1st & 10 at TEN 22
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,4,TEN,0,3,0,Pass Incomplete,"(8:44) (No Huddle, Shotgun) M.Mariota pass incomplete deep left to R.Matthews.",1st & 10 at TEN 44
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,4,TEN,0,4,0,3 Yard Run,"(8:38) (No Huddle, Shotgun) D.Henry right guard to TEN 47 for 3 yards (J.Harrison).",2nd & 10 at TEN 44
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,4,TEN,0,5,0,5 Yard Pass,(7:56) (Shotgun) M.Mariota pass short left to T.Taylor to NE 48 for 5 yards (E.Rowe).,3rd & 7 at TEN 47
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,4,TEN,0,6,0,Punt,"(7:17) B.Kern punts 31 yards to NE 17, Center-B.Brinkley, fair catch by D.Amendola.
+PENALTY on NE-L.Guy, Offensive Holding, 8 yards, enforced at NE 17.",4th & 2 at NE 48
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,5,NE,1,1,0,5 Yard Pass,(7:10) T.Brady pass short left to D.Amendola pushed ob at NE 14 for 5 yards (L.Ryan).,1st & 10 at NE 9
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,5,NE,1,2,0,Pass Incomplete,(6:41) T.Brady pass incomplete short middle to C.Hogan.,2nd & 5 at NE 14
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,5,NE,1,3,0,Pass Incomplete,(6:35) (Shotgun) T.Brady pass incomplete short middle to J.White.,3rd & 5 at NE 14
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,5,NE,1,4,0,5 Yard Run,(6:32) D.Lewis left end to NE 24 for 5 yards (K.Byard).,1st & 10 at NE 19
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,5,NE,1,5,0,5 Yard Penalty,"(5:50) (Shotgun) T.Brady pass incomplete short middle to R.Gronkowski.
+PENALTY on TEN-J.Cyprien, Illegal Contact, 5 yards, enforced at NE 24 - No Play.",2nd & 5 at NE 24
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,5,NE,1,6,0,Pass Incomplete,(5:46) (Shotgun) T.Brady pass incomplete deep left to B.Cooks.,1st & 10 at NE 29
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,5,NE,1,7,0,8 Yard Pass,"(5:40) (Shotgun) T.Brady pass short middle to D.Lewis to NE 37 for 8 yards (A.Williamson, W.Woodyard).",2nd & 10 at NE 29
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,5,NE,1,8,0,12 Yard Pass,(5:05) (Shotgun) T.Brady pass short middle to D.Amendola to NE 49 for 12 yards (J.Cyprien).,3rd & 2 at NE 37
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,5,NE,1,9,0,6 Yard Pass,"(4:41) (No Huddle, Shotgun) T.Brady pass short left to D.Amendola to TEN 45 for 6 yards (L.Ryan).",1st & 10 at NE 49
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,5,NE,1,10,0,Pass Incomplete,"(4:22) (No Huddle, Shotgun) T.Brady pass incomplete short left to B.Cooks.",2nd & 4 at TEN 45
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,5,NE,1,11,0,7 Yard Pass,(4:18) (Shotgun) T.Brady pass short left to R.Gronkowski to TEN 38 for 7 yards (K.Byard).,3rd & 4 at TEN 45
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,5,NE,1,12,0,5 Yard Run,"(3:50) (No Huddle) J.White left end to TEN 33 for 5 yards (W.Woodyard, A.Jackson).",1st & 10 at TEN 38
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,5,NE,1,13,0,13 Yard Pass,"(3:07) (Shotgun) T.Brady pass short middle to R.Gronkowski to TEN 20 for 13 yards (J.Cyprien, K.Byard).",2nd & 5 at TEN 33
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,5,NE,1,14,0,14 Yard Pass,"(2:41) (No Huddle, Shotgun) T.Brady pass short middle to D.Amendola to TEN 13 for 7 yards (W.Woodyard).
+PENALTY on TEN-E.Walden, Unnecessary Roughness, 7 yards, enforced at TEN 13.",1st & 10 at TEN 20
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,5,NE,1,15,0,2 Yard Run,(2:18) D.Lewis left tackle to TEN 4 for 2 yards (S.Williams).,1st & 6 at TEN 6
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,5,NE,1,16,0,Pass Incomplete,(2:00) (Shotgun) T.Brady pass incomplete short middle to B.Cooks [B.Orakpo].,2nd & 4 at TEN 4
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,5,NE,1,17,0,Touchdown Patriots,"(1:56) (Shotgun) T.Brady pass short left to C.Hogan for 4 yards, TOUCHDOWN. NE 12-Brady 21st career postseason game with 2 pass TD, extends his NFL record (Favre, 15). NE 12-Brady 553rd career TD pass (including postseason), passes Favre for 2nd-most all-time (P. Manning 579).",3rd & 4 at TEN 4
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,5,NE,1,18,1,Extra Point Good,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",XP attempt from TEN 15
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,6,TEN,0,1,0,Kickoff,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",Kickoff from NE 35
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,6,TEN,0,2,0,12 Yard Pass,(1:52) (Shotgun) M.Mariota pass short right to E.Decker ran ob at TEN 37 for 12 yards.,1st & 10 at TEN 25
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,6,TEN,0,3,0,4 Yard Pass,(1:48) (Shotgun) M.Mariota pass short left to D.Walker to TEN 41 for 4 yards (P.Chung). TEN-D.Walker was injured during the play.,1st & 10 at TEN 37
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,6,TEN,0,4,0,-5 Yard Penalty,"(1:23) (No Huddle, Shotgun) PENALTY on TEN-J.Smith, False Start, 5 yards, enforced at TEN 41 - No Play. 10-second runoff",2nd & 6 at TEN 41
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,6,TEN,0,5,0,4 Yard Pass,(1:02) (Shotgun) M.Mariota pass short right to J.Smith to TEN 40 for 4 yards (E.Rowe).,2nd & 11 at TEN 36
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,6,TEN,0,6,0,5 Yard Penalty,"(:50) (Shotgun) M.Mariota pass incomplete deep middle to E.Decker.
+PENALTY on NE-E.Rowe, Illegal Contact, 5 yards, enforced at TEN 40 - No Play.",3rd & 7 at TEN 40
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,6,TEN,0,7,0,Pass Incomplete,(:46) (Shotgun) M.Mariota pass incomplete deep left to T.Taylor.,1st & 10 at TEN 45
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,6,TEN,0,8,0,Pass Incomplete,(:41) (Shotgun) M.Mariota pass incomplete short left to T.Taylor.,2nd & 10 at TEN 45
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,6,TEN,0,9,0,9 Yard Run,(:33) (Shotgun) M.Mariota scrambles left end pushed ob at NE 46 for 9 yards (D.McCourty).,3rd & 10 at TEN 45
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,6,TEN,0,10,0,Turnover on Downs,"(:25) D.Henry left end to TEN 49 for -5 yards (M.Butler, S.Gilmore).",4th & 1 at NE 46
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,7,NE,0,1,0,3 Yard Pass,(:17) (Shotgun) T.Brady pass short left to J.White to TEN 46 for 3 yards (W.Woodyard; J.Cyprien).,1st & 10 at TEN 49
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,7,NE,0,2,0,Pass Incomplete,(:11) (Shotgun) T.Brady pass incomplete short right to J.White [K.Klug].,2nd & 7 at TEN 46
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,7,NE,0,3,0,11 Yard Pass,(:06) (Shotgun) T.Brady pass short left to D.Amendola to TEN 35 for 11 yards (L.Ryan).,3rd & 7 at TEN 46
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,2ND QUARTER,7,NE,0,4,0,Field Goal No Good,"(:01) S.Gostkowski 53 yard field goal is No Good, Wide Left, Center-J.Cardona, Holder-R.Allen.",1st & 10 at TEN 35
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,1,TEN,0,1,0,Kickoff,S.Gostkowski kicks 53 yards from NE 35 to TEN 12. A.Jackson ran ob at TEN 25 for 13 yards.,Kickoff from NE 35
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,1,TEN,0,2,0,7 Yard Pass,(14:56) (Shotgun) M.Mariota pass short right to R.Matthews pushed ob at TEN 32 for 7 yards (K.Van Noy).,1st & 10 at TEN 25
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,1,TEN,0,3,0,-10 Yard Penalty,"(14:25) D.Henry left end ran ob at TEN 36 for 4 yards.
+PENALTY on TEN-J.Smith, Offensive Holding, 10 yards, enforced at TEN 32 - No Play.",2nd & 3 at TEN 32
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,1,TEN,0,4,0,6 Yard Pass,(13:58) (Shotgun) M.Mariota pass short left to E.Decker pushed ob at TEN 28 for 6 yards (M.Butler).,2nd & 13 at TEN 22
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,1,TEN,0,5,0,-5 Yard Sack,(13:24) (Shotgun) M.Mariota sacked at TEN 23 for -5 yards (A.Butler).,3rd & 7 at TEN 28
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,1,TEN,0,6,0,Punt,"(12:41) B.Kern punts 62 yards to NE 15, Center-B.Brinkley. D.Amendola to NE 25 for 10 yards (D.Bates).",4th & 12 at TEN 23
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,2,NE,0,1,0,9 Yard Pass,(12:30) T.Brady pass short left to D.Lewis to NE 34 for 9 yards (A.Williamson) [B.Orakpo].,1st & 10 at NE 25
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,2,NE,0,2,0,10 Yard Run,(11:56) (No Huddle) D.Lewis right guard to NE 44 for 10 yards (L.Ryan).,2nd & 1 at NE 34
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,2,NE,0,3,0,Pass Incomplete,(11:31) (No Huddle) T.Brady pass incomplete short left to D.Amendola.,1st & 10 at NE 44
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,2,NE,0,4,0,-3 Yard Pass,"(11:29) T.Brady pass short middle to D.Lewis to NE 41 for -3 yards (A.Johnson, W.Woodyard). NE-L.Waddle was injured during the play.",2nd & 10 at NE 44
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,2,NE,0,5,0,Pass Incomplete,(10:54) (Shotgun) T.Brady pass incomplete short right to J.White.,3rd & 13 at NE 41
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,2,NE,0,6,0,Punt,"(10:46) R.Allen punts 36 yards to TEN 23, Center-J.Cardona, downed by NE-M.Flowers.",4th & 13 at NE 41
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,3,TEN,0,1,0,-5 Yard Penalty,"(10:36) PENALTY on TEN-E.Decker, False Start, 5 yards, enforced at TEN 23 - No Play.",1st & 10 at TEN 23
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,3,TEN,0,2,0,-8 Yard Sack,(10:36) M.Mariota sacked at TEN 10 for -8 yards (R.Jean Francois).,1st & 15 at TEN 18
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,3,TEN,0,3,0,-8 Yard Sack,(9:58) (Shotgun) M.Mariota sacked at TEN 2 for -8 yards (M.Flowers).,2nd & 23 at TEN 10
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,3,TEN,0,4,0,14 Yard Pass,"(9:13) (Shotgun) M.Mariota pass short middle to D.Henry to TEN 16 for 14 yards (M.Flowers, P.Chung).",3rd & 31 at TEN 2
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,3,TEN,0,5,0,Punt,"(8:34) B.Kern punts 40 yards to NE 44, Center-B.Brinkley, fair catch by D.Amendola.",4th & 17 at TEN 16
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,4,NE,1,1,0,27 Yard Pass,"(8:22) T.Brady pass deep left to R.Gronkowski to TEN 29 for 27 yards (J.Cyprien). NE 87-Gronkowski 815 career postseason rec yds, passes Shannon Sharpe (814) for 3rd all-time by a TE.",1st & 10 at NE 44
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,4,NE,1,2,0,Pass Incomplete,(7:42) T.Brady pass incomplete short middle to D.Lewis.,1st & 10 at TEN 29
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,4,NE,1,3,0,7 Yard Pass,(7:37) (Shotgun) T.Brady pass short middle to B.Cooks to TEN 22 for 7 yards (A.Jackson).,2nd & 10 at TEN 29
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,4,NE,1,4,0,7 Yard Pass,(7:01) (Shotgun) T.Brady pass short middle to D.Amendola to TEN 15 for 7 yards (K.Byard).,3rd & 3 at TEN 22
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,4,NE,1,5,0,3 Yard Run,"(6:18) D.Lewis left tackle to TEN 12 for 3 yards (S.Williams, J.Casey).",1st & 10 at TEN 15
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,4,NE,1,6,0,6 Yard Pass,"(5:34) (Shotgun) T.Brady pass short left to D.Amendola to TEN 6 for 6 yards (L.Ryan, A.Williamson).",2nd & 7 at TEN 12
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,4,NE,1,7,0,4 Yard Run,"(4:53) B.Bolden left end to TEN 2 for 4 yards (W.Woodyard, A.Williamson).",3rd & 1 at TEN 6
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,4,NE,1,8,0,Pass Incomplete,(4:12) (Shotgun) T.Brady pass incomplete short right to D.Amendola.,1st & 2 at TEN 2
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,4,NE,1,9,0,Touchdown Patriots,"(4:04) B.Bolden up the middle for 2 yards, TOUCHDOWN.",2nd & 2 at TEN 2
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,4,NE,1,10,1,Extra Point Good,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",XP attempt from TEN 15
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,5,TEN,0,1,0,Kickoff,"S.Gostkowski kicks 65 yards from NE 35 to TEN 0. A.Jackson to TEN 21 for 21 yards (M.Slater). TEN-J.Smith was injured during the play. He is Out. 
+PENALTY on NE-B.King, Unnecessary Roughness, 15 yards, enforced at TEN 21.",Kickoff from NE 35
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,5,TEN,0,2,0,-5 Yard Penalty,"(3:55) (Shotgun) PENALTY on TEN-T.Taylor, False Start, 5 yards, enforced at TEN 36 - No Play.",1st & 10 at TEN 36
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,5,TEN,0,3,0,-7 Yard Sack,(3:55) (Shotgun) M.Mariota sacked at TEN 24 for -7 yards (T.Flowers).,1st & 15 at TEN 31
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,5,TEN,0,4,0,Pass Incomplete,(3:15) (Shotgun) M.Mariota pass incomplete short right to R.Matthews.,2nd & 22 at TEN 24
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,5,TEN,0,5,0,6 Yard Pass,(3:08) (Shotgun) M.Mariota pass short left to D.Henry to TEN 30 for 6 yards (P.Chung).,3rd & 22 at TEN 24
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,3RD QUARTER,5,TEN,0,6,0,Punt,"(2:27) B.Kern punts 51 yards to NE 19, Center-B.Brinkley, fair catch by D.Amendola.
+PENALTY on NE-N.Grigsby, Offensive Holding, 9 yards, enforced at NE 19.",4th & 16 at TEN 30
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,1,NE,1,1,0,Pass Incomplete,(2:20) (Shotgun) T.Brady pass incomplete short right to R.Gronkowski (A.Johnson).,1st & 10 at NE 10
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,1,NE,1,2,0,5 Yard Run,(2:17) D.Lewis up the middle to NE 15 for 5 yards (A.Williamson).,2nd & 10 at NE 10
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,1,NE,1,3,0,14 Yard Pass,(1:38) (Shotgun) T.Brady pass short middle to J.White to NE 29 for 14 yards (J.Brown).,3rd & 5 at NE 15
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,1,NE,1,4,0,2 Yard Run,(1:00) D.Lewis left guard to NE 31 for 2 yards (S.Williams).,1st & 10 at NE 29
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,1,NE,1,5,0,25 Yard Pass,"(:20) T.Brady pass deep middle to D.Amendola to TEN 44 for 25 yards (A.Jackson).
+Penalty on TEN-K.Byard, Illegal Contact, declined. NE 80-Amendola 1st career postseason 100-yard game.",2nd & 8 at NE 31
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,1,NE,1,6,0,Pass Incomplete,(15:00) T.Brady pass incomplete deep left to R.Gronkowski (A.Williamson).,1st & 10 at TEN 44
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,1,NE,1,7,0,16 Yard Pass,"(14:54) (Shotgun) T.Brady pass short left to R.Gronkowski to TEN 28 for 16 yards (K.Byard). NE 12-Brady 13th career 300-yard postseason game, extends NFL record (Peyton Manning 9).",2nd & 10 at TEN 44
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,1,NE,1,8,0,Run for No Gain,(14:23) (No Huddle) J.White left tackle to TEN 28 for no gain (T.Smith).,1st & 10 at TEN 28
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,1,NE,1,9,0,Pass Incomplete,(13:49) T.Brady pass incomplete short middle to C.Hogan (J.Brown).,2nd & 10 at TEN 28
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,1,NE,1,10,0,12 Yard Pass,(13:45) (Shotgun) T.Brady pass short left to D.Amendola to TEN 16 for 12 yards (L.Ryan).,3rd & 10 at TEN 28
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,1,NE,1,11,0,3 Yard Run,(13:06) D.Lewis right tackle to TEN 13 for 3 yards (J.Casey).,1st & 10 at TEN 16
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,1,NE,1,12,0,6 Yard Pass,(12:24) (Shotgun) T.Brady pass short right to D.Lewis ran ob at TEN 7 for 6 yards (D.Morgan).,2nd & 7 at TEN 13
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,1,NE,1,13,0,2 Yard Run,(12:00) T.Brady up the middle to TEN 5 for 2 yards (A.Johnson).,3rd & 1 at TEN 7
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,1,NE,1,14,0,1 Yard Pass,(11:02) (Shotgun) T.Brady pass short right to D.Lewis to TEN 4 for 1 yard (W.Woodyard).,1st & 5 at TEN 5
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,1,NE,1,15,0,Touchdown Patriots,"(10:26) (Shotgun) T.Brady pass short right to R.Gronkowski for 4 yards, TOUCHDOWN. NE 12-Brady 10th career postseason game with 3 pass TD, most all-time (Montana 9). NE 87-Gronkowski 10th career postseason TD, ties 5 others for 3rd all-time.  Extends his NFL record for postseason TD by a TE and his Patriots record postseason TD. NE 87-Gronkowski 835 career postseason rec yds, passes Keith Jackson (834) for 2nd all-time by a TE.",2nd & 4 at TEN 4
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,1,NE,1,16,1,Extra Point Good,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",XP attempt from TEN 15
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,2,TEN,0,1,0,Kickoff,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",Kickoff from NE 35
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,2,TEN,0,2,0,9 Yard Pass,(10:22) (Shotgun) M.Mariota pass short right to C.Davis pushed ob at TEN 34 for 9 yards (E.Rowe).,1st & 10 at TEN 25
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,2,TEN,0,3,0,Pass Incomplete,"(9:47) (No Huddle, Shotgun) M.Mariota pass incomplete short right to D.Walker.",2nd & 1 at TEN 34
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,2,TEN,0,4,0,4 Yard Run,"(9:42) (No Huddle, Shotgun) D.Henry up the middle to TEN 38 for 4 yards (M.Flowers).",3rd & 1 at TEN 34
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,2,TEN,0,5,0,Pass Incomplete,"(9:21) (No Huddle, Shotgun) M.Mariota pass incomplete deep right to R.Matthews.",1st & 10 at TEN 38
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,2,TEN,0,6,0,-8 Yard Sack,"(9:15) (Shotgun) M.Mariota sacked at TEN 30 for -8 yards (D.Wise).
+Penalty on TEN-Q.Spain, Illegal Use of Hands, declined.",2nd & 10 at TEN 38
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,2,TEN,0,7,0,9 Yard Pass,(8:53) (Shotgun) M.Mariota pass short middle to D.Walker to TEN 39 for 9 yards (E.Rowe; J.Richards).,3rd & 18 at TEN 30
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,2,TEN,0,8,0,10 Yard Pass,"(8:53) (Shotgun) M.Mariota pass short middle to D.Walker to TEN 40 for 10 yards (E.Rowe, J.Richards).",3rd & 18 at TEN 30
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,2,TEN,0,9,0,Punt,"(8:14) B.Kern punts 39 yards to NE 22, Center-B.Brinkley, fair catch by D.Amendola.",4th & 9 at TEN 39
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,3,NE,0,1,0,20 Yard Run,(8:06) B.Bolden right end pushed ob at NE 42 for 20 yards (J.Cyprien).,1st & 10 at NE 22
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,3,NE,0,2,0,1 Yard Run,"(7:28) B.Bolden up the middle to NE 43 for 1 yard (J.Cyprien, S.Williams).",1st & 10 at NE 42
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,3,NE,0,3,0,Pass for No Gain,"(6:49) (Shotgun) T.Brady pass short left to J.Hollister to NE 43 for no gain (S.Williams, B.Orakpo). TEN-K.Klug was injured during the play.",2nd & 9 at NE 43
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,3,NE,0,4,0,Pass Incomplete,(6:06) (Shotgun) T.Brady pass incomplete deep left to B.Cooks (D.Searcy).,3rd & 9 at NE 43
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,3,NE,0,5,0,Punt,"(5:57) R.Allen punts 57 yards to end zone, Center-J.Cardona, Touchback.",4th & 9 at NE 43
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,4,TEN,1,1,0,Pass Incomplete,(5:48) (Shotgun) M.Mariota pass incomplete short left to D.Walker.,1st & 10 at TEN 20
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,4,TEN,1,2,0,6 Yard Run,(5:43) (Shotgun) M.Mariota scrambles left end pushed ob at TEN 26 for 6 yards (M.Flowers).,2nd & 10 at TEN 20
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,4,TEN,1,3,0,12 Yard Pass,"(5:15) (Shotgun) M.Mariota pass short right to E.Decker to TEN 38 for 12 yards (J.Jones).
+Penalty on NE-J.Jones, Defensive Holding, declined.",3rd & 4 at TEN 26
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,4,TEN,1,4,0,Pass Incomplete,(4:54) (Shotgun) M.Mariota pass incomplete deep middle to D.Walker.,1st & 10 at TEN 38
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,4,TEN,1,5,0,12 Yard Pass,"(4:46) (Shotgun) M.Mariota pass short left to R.Matthews pushed ob at 50 for 12 yards (M.Butler).
+Penalty on NE-M.Butler, Defensive Holding, declined.",2nd & 10 at TEN 38
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,4,TEN,1,6,0,Pass Incomplete,(4:40) (Shotgun) M.Mariota pass incomplete short left to C.Davis.,1st & 10 at 50
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,4,TEN,1,7,0,Pass Incomplete,(4:35) (Shotgun) M.Mariota pass incomplete short right to R.Matthews.,2nd & 10 at 50
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,4,TEN,1,8,0,22 Yard Pass,"(4:25) (Shotgun) M.Mariota pass deep left to E.Decker ran ob at NE 28 for 22 yards. NE-J.Jones was injured during the play. 
+New England challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2.)",3rd & 10 at 50
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,4,TEN,1,9,0,-12 Yard Sack,(4:15) (Shotgun) M.Mariota sacked at NE 40 for -12 yards (G.Grissom).,1st & 10 at NE 28
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,4,TEN,1,10,0,11 Yard Pass,(3:30) (Shotgun) M.Mariota pass short left to E.Decker ran ob at NE 29 for 11 yards.,2nd & 22 at NE 40
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,4,TEN,1,11,0,Pass Incomplete,(3:25) (Shotgun) M.Mariota pass incomplete deep right to R.Matthews.,3rd & 11 at NE 29
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,4,TEN,1,12,0,17 Yard Pass,(3:19) (Shotgun) M.Mariota pass deep left to C.Davis ran ob at NE 12 for 17 yards.,4th & 11 at NE 29
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,4,TEN,1,13,0,Pass Incomplete,"(3:13) (No Huddle, Shotgun) M.Mariota pass incomplete short right to D.Henry.",1st & 10 at NE 12
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,4,TEN,1,14,0,Sack,"(3:08) (Shotgun) M.Mariota sacked at NE 12 for 0 yards (G.Grissom). NE 8 sacks, franchise postseason record.",2nd & 10 at NE 12
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,4,TEN,1,15,0,1 Yard Pass,(2:29) (Shotgun) M.Mariota pass short left to D.Henry to NE 11 for 1 yard (N.Grigsby).,3rd & 10 at NE 12
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,4,TEN,1,16,0,Touchdown Titans,"(2:00) (Shotgun) M.Mariota pass short left to C.Davis for 11 yards, TOUCHDOWN.",4th & 9 at NE 11
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,4,TEN,1,17,1,Extra Point Good,"R.Succop extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",XP attempt from NE 15
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,5,NE,0,1,0,Kickoff,"(Onside Kick formation) R.Succop kicks onside 8 yards from TEN 35 to TEN 43. M.Flowers (didn't try to advance) to TEN 43 for no gain.
+PENALTY on TEN-D.Bates, Offside on Free Kick, 5 yards, enforced at TEN 43.",Kickoff from TEN 35
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,5,NE,0,2,0,Run for No Gain,(1:54) NE 2-Hoyer now at QB. B.Hoyer kneels to TEN 38 for no gain.,1st & 10 at TEN 38
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,5,NE,0,3,0,-1 Yard Run,(1:12) B.Hoyer kneels to TEN 39 for -1 yards.,2nd & 10 at TEN 38
+2017,Divisional Playoffs,SAT,01/13,Titans,Patriots,4TH QUARTER,5,NE,0,4,0,Run for No Gain,(:36) B.Hoyer kneels to TEN 39 for no gain.,3rd & 11 at TEN 39
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,1,JAX,1,1,0,Kickoff,"C.Boswell kicks 54 yards from PIT 35 to JAC 11. C.Grant to JAC 34 for 23 yards (F.Toussaint, M.Hilton).",Kickoff from PIT 35
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,1,JAX,1,2,0,5 Yard Run,(14:50) L.Fournette up the middle to JAC 39 for 5 yards (S.Tuitt).,1st & 10 at JAC 34
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,1,JAX,1,3,0,21 Yard Pass,"(14:17) B.Bortles pass short right to B.Koyack to PIT 40 for 21 yards (V.Williams, A.Burns).",2nd & 5 at JAC 39
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,1,JAX,1,4,0,13 Yard Pass,(13:36) B.Bortles pass short middle to M.Lee to PIT 27 for 13 yards (S.Davis) [T.Watt].,1st & 10 at PIT 40
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,1,JAX,1,5,0,19 Yard Pass,"(12:52) B.Bortles pass short right to J.O'Shaughnessy to PIT 8 for 19 yards (J.Haden, V.Williams).",1st & 10 at PIT 27
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,1,JAX,1,6,0,2 Yard Run,(12:13) L.Fournette left guard to PIT 6 for 2 yards (S.Davis).,1st & 8 at PIT 8
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,1,JAX,1,7,0,5 Yard Run,(11:32) L.Fournette up the middle to PIT 1 for 5 yards (V.Williams).,2nd & 6 at PIT 6
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,1,JAX,1,8,0,Pass Incomplete,"(10:51) T.Shatley reported in as eligible.  B.Bortles pass incomplete short right. Pressure by 48-Dupree, 96-Walton; Coverage by 56-Chickillo.",3rd & 1 at PIT 1
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,1,JAX,1,9,0,Touchdown Jaguars,"(10:44) L.Fournette up the middle for 1 yard, TOUCHDOWN.",4th & 1 at PIT 1
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,1,JAX,1,10,1,Extra Point Good,"J.Lambo extra point is GOOD, Center-C.Holba, Holder-B.Nortman.",XP attempt from PIT 15
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,2,PIT,0,1,0,Kickoff,"J.Lambo kicks 65 yards from JAC 35 to end zone, Touchback.",Kickoff from JAC 35
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,2,PIT,0,2,0,Pass Incomplete,(10:40) (Shotgun) B.Roethlisberger pass incomplete short left to A.Brown. Coverage 21-Boute.,1st & 10 at PIT 25
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,2,PIT,0,3,0,2 Yard Pass,"(10:36) (Shotgun) C.Hubbard reported in as eligible.  B.Roethlisberger pass short right to J.Smith-Schuster to PIT 27 for 2 yards (P.Posluszny, T.Smith).",2nd & 10 at PIT 25
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,2,PIT,0,4,0,6 Yard Pass,(9:54) (Shotgun) B.Roethlisberger pass short right to E.Rogers to PIT 33 for 6 yards (T.Smith).,3rd & 8 at PIT 27
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,2,PIT,0,5,0,Punt,"(9:12) (Punt formation) J.Berry punts 40 yards to JAC 27, Center-K.Canaday, downed by PIT-D.Heyward-Bey.",4th & 2 at PIT 33
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,3,JAX,0,1,0,10 Yard Run,(9:00) L.Fournette left guard to JAC 37 for 10 yards (V.Williams; S.Davis).,1st & 10 at JAC 27
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,3,JAX,0,2,0,Pass Incomplete,(8:20) B.Bortles pass incomplete short middle to L.Fournette [S.Spence]. Pressure by 51-Spence.,1st & 10 at JAC 37
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,3,JAX,0,3,0,6 Yard Run,(8:06) L.Fournette right guard to JAC 43 for 6 yards (S.Davis).,2nd & 10 at JAC 37
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,3,JAX,0,4,0,Pass Incomplete,(7:20) (Shotgun) B.Bortles pass incomplete short middle to A.Hurns (A.Burns). Pressure by 98-Williams.,3rd & 4 at JAC 43
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,3,JAX,0,5,0,Punt,"(7:13) (Punt formation) B.Nortman punts 46 yards to PIT 11, Center-C.Holba, downed by JAC-P.Thompson.",4th & 4 at JAC 43
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,4,PIT,0,1,0,1 Yard Run,(7:01) C.Hubbard reported in as eligible.  L.Bell left guard to PIT 12 for 1 yard (C.Campbell).,1st & 10 at PIT 11
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,4,PIT,0,2,0,-2 Yard Run,(6:23) (Shotgun) L.Bell left guard to PIT 10 for -2 yards (M.Jackson).,2nd & 9 at PIT 12
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,4,PIT,0,3,0,Interception,(5:38) (Shotgun) B.Roethlisberger pass short right intended for V.McDonald INTERCEPTED by M.Jack at PIT 18. M.Jack ran ob at PIT 18 for no gain.,3rd & 11 at PIT 10
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,5,JAX,1,1,0,Touchdown Jaguars,"(5:31) L.Fournette right tackle pushed ob at PIT 1 for 17 yards (J.Haden).
+Jacksonville challenged the runner was out of bounds ruling, and the play was REVERSED.
+L.Fournette right tackle for 18 yards, TOUCHDOWN.",1st & 10 at PIT 18
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,5,JAX,1,2,1,Extra Point Good,"J.Lambo extra point is GOOD, Center-C.Holba, Holder-B.Nortman.",XP attempt from PIT 15
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,6,PIT,0,1,0,Kickoff,"J.Lambo kicks 65 yards from JAC 35 to end zone, Touchback.",Kickoff from JAC 35
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,6,PIT,0,2,0,20 Yard Run,(5:26) (Shotgun) L.Bell up the middle to PIT 45 for 20 yards (T.Smith).,1st & 10 at PIT 25
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,6,PIT,0,3,0,1 Yard Run,(4:44) C.Hubbard reported in as eligible.  L.Bell right tackle to PIT 46 for 1 yard (T.Smith).,1st & 10 at PIT 45
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,6,PIT,0,4,0,11 Yard Pass,(4:10) (Shotgun) B.Roethlisberger pass short left to A.Brown to JAC 43 for 11 yards (J.Ramsey).,2nd & 9 at PIT 46
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,6,PIT,0,5,0,13 Yard Pass,(3:28) (Shotgun) B.Roethlisberger pass short middle to E.Rogers to JAC 30 for 13 yards (T.Smith).,1st & 10 at JAC 43
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,6,PIT,0,6,0,Pass Incomplete,(2:44) (Shotgun) B.Roethlisberger pass incomplete short left to L.Bell. Coverage 21-Bouye.,1st & 10 at JAC 30
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,6,PIT,0,7,0,8 Yard Run,"(2:38) (Shotgun) L.Bell left guard to JAC 22 for 8 yards (B.Church, M.Jack).",2nd & 10 at JAC 30
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,6,PIT,0,8,0,1 Yard Run,"(1:57) (Shotgun) L.Bell right tackle to JAC 21 for 1 yard (D.Fowler, A.Colvin).",3rd & 2 at JAC 22
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,1ST QUARTER,6,PIT,0,9,0,Turnover on Downs,(1:12) (Run formation) L.Bell right tackle to JAC 25 for -4 yards (J.Ramsey; M.Jackson). PIT-M.Gilbert was injured during the play.,4th & 1 at JAC 21
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,1,JAX,1,1,0,Pass Incomplete,(1:07) B.Bortles pass incomplete short right to M.Lee.,1st & 10 at JAC 25
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,1,JAX,1,2,0,5 Yard Run,"(1:01) (Shotgun) L.Fournette up the middle to JAC 30 for 5 yards (S.Davis, V.Williams).",2nd & 10 at JAC 25
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,1,JAX,1,3,0,12 Yard Pass,(:24) (Shotgun) B.Bortles pass short right to A.Hurns to JAC 42 for 12 yards (S.Spence).,3rd & 5 at JAC 30
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,1,JAX,1,4,0,9 Yard Run,(15:00) (Shotgun) B.Bortles right end pushed ob at PIT 49 for 9 yards (S.Davis).,1st & 10 at JAC 42
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,1,JAX,1,5,0,21 Yard Run,"(14:35) L.Fournette left tackle to PIT 33 for 16 yards (M.Mitchell).
+PENALTY on PIT-L.Walton, Defensive Holding, 5 yards, enforced at PIT 33.",2nd & 1 at PIT 49
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,1,JAX,1,6,0,11 Yard Run,(14:11) (Shotgun) B.Bortles scrambles left end pushed ob at PIT 17 for 11 yards (J.Hargrave).,1st & 10 at PIT 28
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,1,JAX,1,7,0,Pass Incomplete,(13:39) B.Bortles pass incomplete short left to J.O'Shaughnessy (T.Watt) [T.Watt].,1st & 10 at PIT 17
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,1,JAX,1,8,0,8 Yard Run,"(13:33) L.Fournette left guard to PIT 9 for 8 yards (B.Dupree, M.Mitchell).",2nd & 10 at PIT 17
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,1,JAX,1,9,0,4 Yard Run,(12:48) (Shotgun) L.Fournette up the middle to PIT 5 for 4 yards (V.Williams).,3rd & 2 at PIT 9
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,1,JAX,1,10,0,1 Yard Run,"(12:13) T.Yeldon up the middle to PIT 4 for 1 yard (B.Dupree, S.Tuitt).",1st & 5 at PIT 5
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,1,JAX,1,11,0,Touchdown Jaguars,"(11:36) (Shotgun) T.Yeldon up the middle for 4 yards, TOUCHDOWN. PIT-V.Williams was injured during the play.",2nd & 4 at PIT 4
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,1,JAX,1,12,1,Extra Point Good,"J.Lambo extra point is GOOD, Center-C.Holba, Holder-B.Nortman.",XP attempt from PIT 15
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,2,PIT,1,1,0,Kickoff,J.Lambo kicks 63 yards from JAC 35 to PIT 2. F.Toussaint to PIT 36 for 34 yards (J.Wilson).,Kickoff from JAC 35
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,2,PIT,1,2,0,7 Yard Pass,(11:23) B.Roethlisberger pass short middle to E.Rogers to PIT 43 for 7 yards (T.Smith).,1st & 10 at PIT 36
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,2,PIT,1,3,0,21 Yard Run,(10:48) L.Bell up the middle to JAC 36 for 21 yards (A.Bouye).,2nd & 3 at PIT 43
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,2,PIT,1,4,0,Pass Incomplete,(10:02) B.Roethlisberger pass incomplete deep right to A.Brown (P.Posluszny).,1st & 10 at JAC 36
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,2,PIT,1,5,0,3 Yard Pass,(9:55) (Shotgun) B.Roethlisberger pass short middle to L.Bell to JAC 33 for 3 yards (T.Smith) [M.Jackson].,2nd & 10 at JAC 36
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,2,PIT,1,6,0,10 Yard Pass,(9:12) (Shotgun) B.Roethlisberger pass short middle to E.Rogers to JAC 23 for 10 yards (B.Church; M.Jackson) [Y.Ngakoue].,3rd & 7 at JAC 33
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,2,PIT,1,7,0,Touchdown Steelers,"(8:26) (Shotgun) B.Roethlisberger pass deep left to A.Brown for 23 yards, TOUCHDOWN.",1st & 10 at JAC 23
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,2,PIT,1,8,1,Extra Point Good,"C.Boswell extra point is GOOD, Center-K.Canaday, Holder-J.Berry.",XP attempt from JAC 15
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,3,JAX,0,1,0,Kickoff,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback.",Kickoff from PIT 35
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,3,JAX,0,2,0,2 Yard Run,(8:20) L.Fournette left tackle to JAC 27 for 2 yards (S.Davis).,1st & 10 at JAC 25
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,3,JAX,0,3,0,10 Yard Pass,(7:40) B.Bortles pass short left to L.Fournette to JAC 37 for 10 yards (A.Burns). JAC-L.Fournette was injured during the play. His return is Questionable.,2nd & 8 at JAC 27
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,3,JAX,0,4,0,4 Yard Run,(7:02) (Shotgun) T.Yeldon left guard to JAC 41 for 4 yards (S.Spence).,1st & 10 at JAC 37
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,3,JAX,0,5,0,4 Yard Pass,(6:25) B.Bortles pass short middle to T.Yeldon to JAC 45 for 4 yards (T.Watt).,2nd & 6 at JAC 41
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,3,JAX,0,6,0,4 Yard Pass,(5:42) (Shotgun) B.Bortles pass short left to M.Lee to JAC 49 for 4 yards (A.Burns).,3rd & 2 at JAC 45
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,3,JAX,0,7,0,Pass Incomplete,(5:04) B.Bortles pass incomplete deep middle to M.Lee (J.Haden).,1st & 10 at JAC 49
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,3,JAX,0,8,0,6 Yard Run,"(4:56) T.Yeldon up the middle to PIT 45 for 6 yards (L.Fort, S.Davis).",2nd & 10 at JAC 49
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,3,JAX,0,9,0,Pass Incomplete,(4:11) (Shotgun) B.Bortles pass incomplete short right to K.Cole. Coverage by 22-Gay.,3rd & 4 at PIT 45
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,3,JAX,0,10,0,Punt,"(4:07) (Punt formation) B.Nortman punts 30 yards to PIT 15, Center-C.Holba, out of bounds.
+PENALTY on JAC-B.Brown, Illegal Use of Hands, 10 yards, enforced at PIT 15.",4th & 4 at PIT 45
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,4,JAX,1,1,0,17 Yard Pass,(4:00) B.Roethlisberger pass short right to L.Bell to PIT 42 for 17 yards (M.Jack).,1st & 10 at PIT 25
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,4,JAX,1,2,0,11 Yard Pass,"(3:22) (Shotgun) B.Roethlisberger pass short left to V.McDonald to JAC 47 for 11 yards (M.Jack, T.Gipson).",1st & 10 at PIT 42
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,4,JAX,1,3,0,Pass Incomplete,(2:38) (Shotgun) B.Roethlisberger pass incomplete short left to V.McDonald.,1st & 10 at JAC 47
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,4,JAX,1,4,1,Touchdown Jaguars,"(2:33) (Shotgun) B.Roethlisberger sacked at PIT 48 for -5 yards (Y.Ngakoue). FUMBLES (Y.Ngakoue) [Y.Ngakoue], RECOVERED by JAC-T.Smith at 50. T.Smith for 50 yards, TOUCHDOWN.
+PENALTY on JAC-T.Smith, Taunting, 15 yards, enforced between downs.
+The Replay Official reviewed the fumble ruling, and the play was Upheld. The ruling on the field was confirmed.",2nd & 10 at JAC 47
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,5,PIT,1,1,0,Kickoff,J.Lambo kicks 53 yards from JAC 20 to PIT 27. C.Sutton to PIT 49 for 22 yards (T.Patmon).,Kickoff from JAC 20
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,5,PIT,1,2,0,3 Yard Pass,(2:14) (Shotgun) B.Roethlisberger pass short left to L.Bell to JAC 48 for 3 yards (T.Smith).,1st & 10 at PIT 49
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,5,PIT,1,3,0,Pass Incomplete,(2:00) B.Roethlisberger pass incomplete short right to V.McDonald. Pressure 56-Fowler.,2nd & 7 at JAC 48
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,5,PIT,1,4,0,13 Yard Pass,(1:56) (Shotgun) B.Roethlisberger pass short left to A.Brown to JAC 35 for 13 yards (A.Bouye).,3rd & 7 at JAC 48
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,5,PIT,1,5,0,-1 Yard Pass,"(1:31) (No Huddle, Shotgun) B.Roethlisberger pass short right to J.Smith-Schuster to JAC 36 for -1 yards (M.Jack).",1st & 10 at JAC 35
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,5,PIT,1,6,0,-4 Yard Sack,(1:23) (Shotgun) B.Roethlisberger sacked at JAC 40 for -4 yards (M.Dareus).,2nd & 11 at JAC 36
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,5,PIT,1,7,0,4 Yard Pass,(1:16) (Shotgun) B.Roethlisberger pass short right to A.Brown to JAC 36 for 4 yards (A.Colvin).,3rd & 15 at JAC 40
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,5,PIT,1,8,0,Touchdown Steelers,"(:32) (Shotgun) B.Roethlisberger pass deep right to M.Bryant for 36 yards, TOUCHDOWN.",4th & 11 at JAC 36
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,5,PIT,1,9,1,Extra Point Good,"C.Boswell extra point is GOOD, Center-K.Canaday, Holder-J.Berry.",XP attempt from JAC 15
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,6,JAX,0,1,0,Kickoff,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback.",Kickoff from PIT 35
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,2ND QUARTER,6,JAX,0,2,0,-1 Yard Run,(:25) B.Bortles kneels to JAC 24 for -1 yards.,1st & 10 at JAC 25
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,1,PIT,1,1,0,Kickoff,"J.Lambo kicks 65 yards from JAC 35 to PIT 0. J.Smith-Schuster to PIT 23 for 23 yards (D.Payne, B.Brown).",Kickoff from JAC 35
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,1,PIT,1,2,0,2 Yard Run,(14:53) (Shotgun) L.Bell up the middle to PIT 25 for 2 yards (B.Church).,1st & 10 at PIT 23
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,1,PIT,1,3,0,7 Yard Pass,(14:16) B.Roethlisberger pass short left to L.Bell to PIT 32 for 7 yards (T.Smith).,2nd & 8 at PIT 25
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,1,PIT,1,4,0,2 Yard Pass,"(13:33) (Shotgun) B.Roethlisberger pass short middle to V.McDonald to PIT 34 for 2 yards (A.Jones, Y.Ngakoue).",3rd & 1 at PIT 32
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,1,PIT,1,5,0,19 Yard Pass,"(12:54) (Shotgun) B.Roethlisberger pass short right to L.Bell pushed ob at PIT 38 for 4 yards (T.Smith).
+PENALTY on JAC-J.Ramsey, Unsportsmanlike Conduct, 15 yards, enforced at PIT 38.",1st & 10 at PIT 34
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,1,PIT,1,6,0,Run for No Gain,(12:37) L.Bell left guard to JAC 47 for no gain (P.Posluszny).,1st & 10 at JAC 47
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,1,PIT,1,7,0,15 Yard Pass,(12:00) B.Roethlisberger pass short right to V.McDonald pushed ob at JAC 32 for 15 yards (B.Church).,2nd & 10 at JAC 47
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,1,PIT,1,8,0,12 Yard Pass,(11:20) (Shotgun) B.Roethlisberger pass short right to J.James pushed ob at JAC 20 for 12 yards (J.Ramsey).,1st & 10 at JAC 32
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,1,PIT,1,9,0,2 Yard Run,(10:45) L.Bell up the middle to JAC 18 for 2 yards (T.Smith).,1st & 10 at JAC 20
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,1,PIT,1,10,0,-1 Yard Run,"(10:00) (Shotgun) L.Bell right end to JAC 19 for -1 yards (Y.Ngakoue, A.Jones).",2nd & 8 at JAC 18
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,1,PIT,1,11,0,Touchdown Steelers,"(9:15) (Shotgun) B.Roethlisberger pass deep right to L.Bell for 19 yards, TOUCHDOWN.",3rd & 9 at JAC 19
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,1,PIT,1,12,1,Extra Point Good,"C.Boswell extra point is GOOD, Center-K.Canaday, Holder-J.Berry.",XP attempt from JAC 15
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,2,JAX,0,1,0,Kickoff,C.Boswell kicks 64 yards from PIT 35 to JAC 1. C.Grant to JAC 22 for 21 yards (M.Hilton).,Kickoff from PIT 35
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,2,JAX,0,2,0,4 Yard Run,(9:02) L.Fournette up the middle to JAC 26 for 4 yards (T.Watt; V.Williams).,1st & 10 at JAC 22
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,2,JAX,0,3,0,Run for No Gain,"(8:28) B.Bortles FUMBLES (Aborted) at JAC 24, and recovers at JAC 24. B.Bortles to JAC 24 for no gain (C.Heyward).",2nd & 6 at JAC 26
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,2,JAX,0,4,0,16 Yard Run,(7:44) (Shotgun) B.Bortles scrambles left end ran ob at JAC 40 for 16 yards.,3rd & 8 at JAC 24
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,2,JAX,0,5,0,1 Yard Run,(7:04) L.Fournette right guard to JAC 41 for 1 yard (J.Haden).,1st & 10 at JAC 40
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,2,JAX,0,6,0,Pass Incomplete,"(6:24) B.Bortles pass incomplete short middle to L.Fournette [S.Tuitt]. Coverage by 51-Spence, Pressure by 91-Tuitt, 97-Heyward.",2nd & 9 at JAC 41
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,2,JAX,0,7,0,Pass Incomplete,(6:19) (Shotgun) B.Bortles pass incomplete short left to M.Lewis (L.Fort).,3rd & 9 at JAC 41
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,2,JAX,0,8,0,Punt,"(6:10) (Punt formation) B.Nortman punts 40 yards to PIT 19, Center-C.Holba, fair catch by E.Rogers.",4th & 9 at JAC 41
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,3,PIT,0,1,0,6 Yard Pass,(6:02) (Shotgun) B.Roethlisberger pass short middle to E.Rogers to PIT 25 for 6 yards (T.Smith).,1st & 10 at PIT 19
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,3,PIT,0,2,0,22 Yard Pass,(5:19) B.Roethlisberger pass short right to V.McDonald to PIT 47 for 22 yards (B.Church).,2nd & 4 at PIT 25
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,3,PIT,0,3,0,13 Yard Pass,(4:31) (Shotgun) B.Roethlisberger pass short middle to L.Bell to JAC 40 for 13 yards (T.Smith; P.Posluszny).,1st & 10 at PIT 47
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,3,PIT,0,4,0,1 Yard Run,(3:45) (Shotgun) L.Bell up the middle to JAC 39 for 1 yard (M.Jackson).,1st & 10 at JAC 40
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,3,PIT,0,5,0,Pass for No Gain,(3:07) (Shotgun) B.Roethlisberger pass short right to L.Bell pushed ob at JAC 39 for no gain (T.Smith).,2nd & 9 at JAC 39
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,3,PIT,0,6,0,Pass Incomplete,(2:28) (Shotgun) B.Roethlisberger pass incomplete short middle to V.McDonald (D.Fowler).,3rd & 9 at JAC 39
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,3RD QUARTER,3,PIT,0,7,0,Punt,"(2:22) (Punt formation) J.Berry punts 39 yards to end zone, Center-K.Canaday, Touchback.",4th & 9 at JAC 39
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,1,JAX,0,1,0,Run for No Gain,(2:13) L.Fournette right end pushed ob at JAC 20 for no gain (S.Spence).,1st & 10 at JAC 20
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,1,JAX,0,2,0,Pass for No Gain,(1:43) B.Bortles pass short middle to L.Fournette to JAC 20 for no gain (S.Tuitt).,2nd & 10 at JAC 20
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,1,JAX,0,3,0,13 Yard Pass,(1:01) (Shotgun) B.Bortles pass short left to T.Yeldon pushed ob at JAC 33 for 13 yards (M.Mitchell).,3rd & 10 at JAC 20
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,1,JAX,0,4,0,Pass Incomplete,(:31) B.Bortles pass incomplete short right to D.Westbrook. Coverage by 25-Burns.,1st & 10 at JAC 33
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,1,JAX,0,5,0,Run for No Gain,(:26) L.Fournette up the middle to JAC 33 for no gain (S.Davis).,2nd & 10 at JAC 33
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,1,JAX,0,6,0,Pass Incomplete,(15:00) (Shotgun) B.Bortles pass incomplete deep middle to D.Westbrook (A.Burns).,3rd & 10 at JAC 33
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,1,JAX,0,7,0,Punt,"(14:55) (Punt formation) B.Nortman punts 15 yards to JAC 48, Center-C.Holba, downed by JAC-T.Bohanon. Deflected by 20-Golden.",4th & 10 at JAC 33
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,2,PIT,0,1,0,6 Yard Run,(14:45) L.Bell up the middle to JAC 42 for 6 yards (M.Jackson).,1st & 10 at JAC 48
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,2,PIT,0,2,0,3 Yard Run,(14:11) L.Bell right tackle to JAC 39 for 3 yards (M.Jack).,2nd & 4 at JAC 42
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,2,PIT,0,3,0,Run for No Gain,(13:28) L.Bell up the middle to JAC 39 for no gain (C.Campbell). Official measurement.,3rd & 1 at JAC 39
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,2,PIT,0,4,0,Turnover on Downs,(12:50) B.Roethlisberger pass incomplete deep left to J.Smith-Schuster. Coverage by 21-Bouye.,4th & 1 at JAC 39
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,3,JAX,1,1,0,2 Yard Run,(12:44) L.Fournette up the middle to JAC 41 for 2 yards (V.Williams).,1st & 10 at JAC 39
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,3,JAX,1,2,0,Pass Incomplete,"(12:11) B.Bortles pass incomplete deep middle to M.Lee. Coverage by 23-Mitchell, 21-Haden.",2nd & 8 at JAC 41
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,3,JAX,1,3,0,11 Yard Pass,(12:04) (Shotgun) B.Bortles pass short right to M.Lee to PIT 48 for 11 yards (S.Davis).,3rd & 8 at JAC 41
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,3,JAX,1,4,0,45 Yard Pass,(11:22) B.Bortles pass deep left to K.Cole to PIT 3 for 45 yards (J.Haden).,1st & 10 at PIT 48
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,3,JAX,1,5,0,Touchdown Jaguars,"(10:39) L.Fournette up the middle for 3 yards, TOUCHDOWN.",1st & 3 at PIT 3
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,3,JAX,1,6,0,5 Yard Penalty,"(Kick formation) PENALTY on PIT-B.Dupree, Encroachment, 5 yards, enforced between downs.",
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,3,JAX,1,7,1,Extra Point Good,"J.Lambo extra point is GOOD, Center-C.Holba, Holder-B.Nortman.",XP attempt from PIT 15
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,4,PIT,1,1,0,Kickoff,"J.Lambo kicks 60 yards from JAC 40 to end zone, Touchback.",Kickoff from JAC 40
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,4,PIT,1,2,0,27 Yard Pass,(10:34) B.Roethlisberger pass deep left to A.Brown ran ob at JAC 48 for 27 yards.,1st & 10 at PIT 25
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,4,PIT,1,3,0,5 Yard Pass,"(9:58) (No Huddle, Shotgun) B.Roethlisberger pass short middle to V.McDonald to JAC 43 for 5 yards (T.Smith).",1st & 10 at JAC 48
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,4,PIT,1,4,0,Pass Incomplete,(9:26) (Shotgun) B.Roethlisberger pass incomplete short middle to L.Bell (A.Jones) [D.Smoot].,2nd & 5 at JAC 43
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,4,PIT,1,5,0,Pass Incomplete,(9:20) (Shotgun) B.Roethlisberger pass incomplete short left to L.Bell (Y.Ngakoue).,3rd & 5 at JAC 43
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,4,PIT,1,6,0,Touchdown Steelers,"(9:14) (Shotgun) B.Roethlisberger pass deep left to A.Brown for 43 yards, TOUCHDOWN.
+Penalty on JAC-A.Bouye, Defensive Pass Interference, declined.",4th & 5 at JAC 43
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,4,PIT,1,7,1,Extra Point Good,"C.Boswell extra point is GOOD, Center-K.Canaday, Holder-J.Berry.",XP attempt from JAC 15
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,5,JAX,1,1,0,Kickoff,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback.",Kickoff from PIT 35
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,5,JAX,1,2,0,2 Yard Run,(9:05) L.Fournette right tackle to JAC 27 for 2 yards (J.Haden).,1st & 10 at JAC 25
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,5,JAX,1,3,0,3 Yard Run,"(8:29) L.Fournette up the middle to JAC 30 for 3 yards (V.Williams, S.Davis).",2nd & 8 at JAC 27
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,5,JAX,1,4,0,40 Yard Pass,(7:49) (Shotgun) B.Bortles pass short left to T.Yeldon pushed ob at PIT 30 for 40 yards (M.Mitchell).,3rd & 5 at JAC 30
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,5,JAX,1,5,0,5 Yard Run,(7:14) (Shotgun) T.Yeldon up the middle to PIT 25 for 5 yards (S.Davis).,1st & 10 at PIT 30
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,5,JAX,1,6,0,1 Yard Run,(6:33) L.Fournette left guard to PIT 24 for 1 yard (B.Dupree).,2nd & 5 at PIT 25
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,5,JAX,1,7,0,8 Yard Pass,"(5:47) (Shotgun) B.Bortles pass short middle to D.Westbrook to PIT 16 for 8 yards (V.Williams, S.Spence).",3rd & 4 at PIT 24
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,5,JAX,1,8,0,2 Yard Run,"(5:06) L.Fournette up the middle to PIT 14 for 2 yards (T.Alualu, R.Golden).",1st & 10 at PIT 16
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,5,JAX,1,9,0,Touchdown Jaguars,"(4:24) B.Bortles pass short middle to T.Bohanon for 14 yards, TOUCHDOWN.",2nd & 8 at PIT 14
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,5,JAX,1,10,1,Extra Point Good,"J.Lambo extra point is GOOD, Center-C.Holba, Holder-B.Nortman.",XP attempt from PIT 15
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,6,PIT,1,1,0,Kickoff,J.Lambo kicks 65 yards from JAC 35 to PIT 0. F.Toussaint to PIT 25 for 25 yards (J.Myrick).,Kickoff from JAC 35
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,6,PIT,1,2,0,Pass Incomplete,(4:13) (Shotgun) B.Roethlisberger pass incomplete short middle to A.Brown.,1st & 10 at PIT 25
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,6,PIT,1,3,0,Pass Incomplete,(4:09) (Shotgun) B.Roethlisberger pass incomplete deep right to M.Bryant (J.Wilson).,2nd & 10 at PIT 25
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,6,PIT,1,4,0,15 Yard Pass,(4:00) (Shotgun) B.Roethlisberger pass short middle to V.McDonald to PIT 40 for 15 yards (A.Bouye; B.Church). PIT-E.Rogers was injured during the play.,3rd & 10 at PIT 25
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,6,PIT,1,5,0,Pass Incomplete,(3:40) (Shotgun) B.Roethlisberger pass incomplete short middle to J.Smith-Schuster. Coverage 42-Church.,1st & 10 at PIT 40
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,6,PIT,1,6,0,Pass Incomplete,(3:34) (Shotgun) B.Roethlisberger pass incomplete short middle to V.McDonald. Coverage 44-Jack.,2nd & 10 at PIT 40
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,6,PIT,1,7,0,15 Yard Run,(3:29) (Shotgun) B.Roethlisberger scrambles left guard to JAC 45 for 15 yards (T.Smith).,3rd & 10 at PIT 40
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,6,PIT,1,8,0,Pass Incomplete,(3:20) (Shotgun) B.Roethlisberger pass incomplete deep left to M.Bryant (J.Wilson).,1st & 10 at JAC 45
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,6,PIT,1,9,0,22 Yard Pass,(3:12) (Shotgun) B.Roethlisberger pass short left to L.Bell ran ob at JAC 23 for 22 yards.,2nd & 10 at JAC 45
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,6,PIT,1,10,0,5 Yard Pass,"(3:04) (No Huddle, Shotgun) B.Roethlisberger pass short right to V.McDonald pushed ob at JAC 18 for 5 yards (A.Bouye).",1st & 10 at JAC 23
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,6,PIT,1,11,0,Pass Incomplete,(2:58) (Shotgun) B.Roethlisberger pass incomplete deep left to A.Brown. Coverage 20-Ramsey.,2nd & 5 at JAC 18
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,6,PIT,1,12,0,9 Yard Pass,"(2:53) (No Huddle, Shotgun) B.Roethlisberger pass short left to V.McDonald to JAC 9 for 9 yards (M.Jack).",3rd & 5 at JAC 18
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,6,PIT,1,13,0,Touchdown Steelers,"(2:27) (No Huddle, Shotgun) B.Roethlisberger scrambles up the middle to JAC 8 for 1 yard. Lateral to L.Bell for 8 yards, TOUCHDOWN.",1st & 9 at JAC 9
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,6,PIT,1,14,1,Extra Point Good,"C.Boswell extra point is GOOD, Center-K.Canaday, Holder-J.Berry.",XP attempt from JAC 15
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,7,JAX,1,1,0,Kickoff,"C.Boswell kicks onside 6 yards from PIT 35 to PIT 41, impetus ends at PIT 40. J.O'Shaughnessy (didn't try to advance) to PIT 41 for no gain (A.Chickillo).
+PENALTY on PIT-T.Matakevich, Illegal Touch Kick, 5 yards, enforced at PIT 41.",Kickoff from PIT 35
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,7,JAX,1,2,0,1 Yard Run,(2:18) L.Fournette up the middle to PIT 35 for 1 yard (M.Mitchell).,1st & 10 at PIT 36
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,7,JAX,1,3,0,3 Yard Run,(2:00) L.Fournette right guard to PIT 32 for 3 yards (L.Walton; S.Spence).,2nd & 9 at PIT 35
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,7,JAX,1,4,0,5 Yard Run,(1:56) L.Fournette up the middle to PIT 27 for 5 yards (R.Golden; B.Dupree).,3rd & 6 at PIT 32
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,7,JAX,1,5,1,Field Goal,"(1:50) (Field Goal formation) J.Lambo 45 yard field goal is GOOD, Center-C.Holba, Holder-B.Nortman.",4th & 1 at PIT 27
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,8,PIT,1,1,0,Kickoff,"J.Lambo kicks 65 yards from JAC 35 to end zone, Touchback.",Kickoff from JAC 35
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,8,PIT,1,2,0,Pass Incomplete,(1:45) (Shotgun) B.Roethlisberger pass incomplete short middle to D.Heyward-Bey (T.Smith).,1st & 10 at PIT 25
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,8,PIT,1,3,0,Pass Incomplete,(1:40) (Shotgun) B.Roethlisberger pass incomplete short right to L.Bell [M.Jackson]. Pressure by 97-Jackson.,2nd & 10 at PIT 25
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,8,PIT,1,4,0,Pass Incomplete,(1:35) (Shotgun) B.Roethlisberger pass incomplete short middle to V.McDonald.,3rd & 10 at PIT 25
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,8,PIT,1,5,0,12 Yard Pass,(1:27) (Shotgun) B.Roethlisberger pass short right to V.McDonald to PIT 37 for 12 yards (J.Ramsey).,4th & 10 at PIT 25
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,8,PIT,1,6,0,16 Yard Pass,"(1:04) (No Huddle, Shotgun) B.Roethlisberger pass short left to V.McDonald pushed ob at JAC 47 for 16 yards (A.Bouye).",1st & 10 at PIT 37
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,8,PIT,1,7,0,42 Yard Pass,"(:58) (No Huddle, Shotgun) B.Roethlisberger pass deep right to M.Bryant pushed ob at JAC 5 for 42 yards (B.Church).",1st & 10 at JAC 47
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,8,PIT,1,8,0,Pass Incomplete,"(:47) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short middle [D.Smoot].
+PENALTY on PIT-B.Roethlisberger, Intentional Grounding, 10 yards, enforced at JAC 5.",1st & 5 at JAC 5
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,8,PIT,1,9,0,11 Yard Pass,(:32) (Shotgun) B.Roethlisberger pass short right to A.Brown to JAC 4 for 11 yards (M.Jackson).,2nd & 15 at JAC 15
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,8,PIT,1,10,0,Pass Incomplete,"(:10) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short middle to X.Grimble.",3rd & 4 at JAC 4
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,8,PIT,1,11,0,Touchdown Steelers,"(:04) (No Huddle, Shotgun) B.Roethlisberger pass short middle to J.Smith-Schuster for 4 yards, TOUCHDOWN.",4th & 4 at JAC 4
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,8,PIT,1,12,1,Extra Point Good,"C.Boswell extra point is GOOD, Center-K.Canaday, Holder-J.Berry.",XP attempt from JAC 15
+2017,Divisional Playoffs,SUN,01/14,Jaguars,Steelers,4TH QUARTER,9,JAX,0,1,0,Kickoff,C.Boswell kicks 49 yards from PIT 35 to JAC 16. K.Cole to JAC 19 for 3 yards.,Kickoff from PIT 35
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,1,NO,0,1,0,Kickoff,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback.",Kickoff from MIN 35
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,1,NO,0,2,0,5 Yard Run,(15:00) M.Ingram right end to NO 30 for 5 yards (L.Joseph).,1st & 10 at NO 25
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,1,NO,0,3,0,Pass Incomplete,(14:22) (Shotgun) D.Brees pass incomplete short right to A.Kamara.,2nd & 5 at NO 30
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,1,NO,0,4,0,Pass Incomplete,(14:18) (Shotgun) D.Brees pass incomplete short left to A.Kamara.,3rd & 5 at NO 30
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,1,NO,0,5,0,Punt,"(14:14) (Punt formation) T.Morstead punts 44 yards to MIN 26, Center-Z.Wood. M.Sherels to MIN 45 for 19 yards (T.Morstead).",4th & 5 at NO 30
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,2,MIN,1,1,0,4 Yard Run,(14:00) L.Murray left guard to MIN 49 for 4 yards (T.Davison; C.Robertson).,1st & 10 at MIN 45
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,2,MIN,1,2,0,5 Yard Run,(13:35) (No Huddle) L.Murray left tackle to NO 46 for 5 yards (T.Davison; S.Rankins).,2nd & 6 at MIN 49
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,2,MIN,1,3,0,1 Yard Run,(12:48) A.Collins reported in as eligible.  L.Murray up the middle to NO 45 for 1 yard (W.Hamilton; M.Te'o).,3rd & 1 at NO 46
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,2,MIN,1,4,0,4 Yard Pass,(12:05) (Shotgun) C.Keenum pass short left to L.Murray pushed ob at NO 41 for 4 yards (C.Robertson).,1st & 10 at NO 45
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,2,MIN,1,5,0,3 Yard Run,(11:41) J.McKinnon left tackle to NO 38 for 3 yards (W.Hamilton).,2nd & 6 at NO 41
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,2,MIN,1,6,0,22 Yard Pass,(10:59) (Shotgun) C.Keenum pass deep right to J.Wright pushed ob at NO 16 for 22 yards (M.Williams).,3rd & 3 at NO 38
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,2,MIN,1,7,0,2 Yard Run,"(10:31) (No Huddle, Shotgun) L.Murray right guard to NO 14 for 2 yards (D.Onyemata; T.Hendrickson).",1st & 10 at NO 16
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,2,MIN,1,8,0,Touchdown Vikings,"(9:51) J.McKinnon left end for 14 yards, TOUCHDOWN.",2nd & 8 at NO 14
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,2,MIN,1,9,1,Extra Point Good,"(Kick formation) K.Forbath extra point is GOOD, Center-J.Overbaugh, Holder-R.Quigley.",XP attempt from NO 15
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,3,NO,0,1,0,Kickoff,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback.",Kickoff from MIN 35
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,3,NO,0,2,0,1 Yard Run,(9:45) A.Kamara left end to NO 26 for 1 yard (T.Johnson; E.Kendricks).,1st & 10 at NO 25
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,3,NO,0,3,0,11 Yard Run,(9:07) T.Ginn left end pushed ob at NO 37 for 11 yards (H.Smith).,2nd & 9 at NO 26
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,3,NO,0,4,0,3 Yard Pass,(8:40) D.Brees pass short middle to M.Ingram to NO 40 for 3 yards (E.Kendricks).,1st & 10 at NO 37
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,3,NO,0,5,0,4 Yard Run,(8:02) M.Ingram right end to NO 44 for 4 yards (D.Hunter; E.Kendricks).,2nd & 7 at NO 40
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,3,NO,0,6,0,Pass Incomplete,(7:24) (Shotgun) D.Brees pass incomplete deep middle to J.Hill.,3rd & 3 at NO 44
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,3,NO,0,7,0,Punt,"(7:18) (Punt formation) T.Morstead punts 56 yards to end zone, Center-Z.Wood, Touchback.",4th & 3 at NO 44
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,4,MIN,1,1,0,Pass Incomplete,(7:09) C.Keenum pass incomplete short left to S.Diggs.,1st & 10 at MIN 20
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,4,MIN,1,2,0,3 Yard Run,(7:04) A.Collins reported in as eligible.  L.Murray left end to MIN 23 for 3 yards (T.Hendrickson).,2nd & 10 at MIN 20
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,4,MIN,1,3,0,17 Yard Pass,(6:25) (Shotgun) C.Keenum pass short middle to S.Diggs to MIN 40 for 17 yards (M.Williams; C.Robertson).,3rd & 7 at MIN 23
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,4,MIN,1,4,0,20 Yard Penalty,"(5:48) (No Huddle, Shotgun) C.Keenum pass incomplete deep right to L.Treadwell.
+PENALTY on NO-K.Crawley, Defensive Pass Interference, 20 yards, enforced at MIN 40 - No Play.",1st & 10 at MIN 40
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,4,MIN,1,5,0,34 Yard Penalty,"(5:43) C.Keenum pass incomplete deep right to S.Diggs.
+PENALTY on NO-K.Crawley, Defensive Pass Interference, 34 yards, enforced at NO 40 - No Play.",1st & 10 at NO 40
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,4,MIN,1,6,0,Pass Incomplete,(5:36) (Shotgun) C.Keenum pass incomplete short right to K.Rudolph.,1st & 6 at NO 6
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,4,MIN,1,7,0,5 Yard Run,(5:32) A.Collins reported in as eligible.  L.Murray left guard to NO 1 for 5 yards (P.Williams).,2nd & 6 at NO 6
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,4,MIN,1,8,0,Pass Incomplete,(4:48) (Shotgun) C.Keenum pass incomplete short left to K.Rudolph.,3rd & 1 at NO 1
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,4,MIN,1,9,1,Field Goal,"(4:45) (Field Goal formation) K.Forbath 20 yard field goal is GOOD, Center-J.Overbaugh, Holder-R.Quigley.",4th & 1 at NO 1
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,5,NO,0,1,0,Kickoff,K.Forbath kicks 66 yards from MIN 35 to NO -1. A.Kamara to NO 19 for 20 yards (J.Kearse).,Kickoff from MIN 35
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,5,NO,0,2,0,Pass Incomplete,(4:38) (Shotgun) D.Brees pass incomplete short left to T.Ginn (T.Waynes).,1st & 10 at NO 19
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,5,NO,0,3,0,9 Yard Run,(4:33) M.Ingram up the middle to NO 28 for 9 yards (A.Sendejo).,2nd & 10 at NO 19
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,5,NO,0,4,0,Run for No Gain,(3:57) (Run formation) M.Ingram right tackle to NO 28 for no gain (E.Kendricks).,3rd & 1 at NO 28
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,5,NO,0,5,0,Punt,"(3:22) (Punt formation) T.Morstead punts 38 yards to MIN 34, Center-Z.Wood, fair catch by M.Sherels.",4th & 1 at NO 28
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,6,MIN,0,1,0,1 Yard Pass,(3:15) C.Keenum pass short right to J.McKinnon to MIN 35 for 1 yard (M.Lattimore).,1st & 10 at MIN 34
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,6,MIN,0,2,0,6 Yard Run,(2:39) (Shotgun) J.McKinnon up the middle to MIN 41 for 6 yards (W.Hamilton).,2nd & 9 at MIN 35
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,6,MIN,0,3,0,2 Yard Pass,"(2:07) (No Huddle, Shotgun) C.Keenum pass short right to J.McKinnon to MIN 43 for 2 yards (K.Crawley).",3rd & 3 at MIN 41
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,6,MIN,0,4,0,Punt,"(1:21) (Punt formation) R.Quigley punts 42 yards to NO 15, Center-J.Overbaugh, fair catch by T.Lewis.",4th & 1 at MIN 43
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,1ST QUARTER,7,NO,0,1,0,Interception,(1:14) (Shotgun) D.Brees pass deep middle intended for T.Ginn INTERCEPTED by A.Sendejo at MIN 42. A.Sendejo to MIN 42 for no gain (M.Thomas). MIN-S.Stephen was injured during the play.,1st & 10 at NO 15
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,1,MIN,1,1,0,2 Yard Run,(1:06) L.Murray left tackle to MIN 44 for 2 yards (S.Rankins).,1st & 10 at MIN 42
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,1,MIN,1,2,0,15 Yard Pass,"(:28) (No Huddle, Shotgun) C.Keenum pass short middle to A.Thielen to NO 41 for 15 yards (V.Bell).",2nd & 8 at MIN 44
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,1,MIN,1,3,0,9 Yard Pass,(15:00) A.Collins reported in as eligible.  C.Keenum pass short right to A.Thielen to NO 32 for 9 yards (M.Williams) [D.Onyemata].,1st & 10 at NO 41
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,1,MIN,1,4,0,2 Yard Run,(14:16) L.Murray up the middle to NO 30 for 2 yards (M.Te'o).,2nd & 1 at NO 32
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,1,MIN,1,5,0,2 Yard Run,(13:36) L.Murray up the middle to NO 28 for 2 yards (V.Bell; M.Te'o).,1st & 10 at NO 30
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,1,MIN,1,6,0,Pass Incomplete,(12:51) (Shotgun) C.Keenum pass incomplete short right to S.Diggs.,2nd & 8 at NO 28
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,1,MIN,1,7,0,11 Yard Pass,(12:48) (Shotgun) C.Keenum pass short left to A.Thielen to NO 17 for 11 yards (M.Lattimore) [D.Onyemata].,3rd & 8 at NO 28
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,1,MIN,1,8,0,4 Yard Run,(12:07) L.Murray left end pushed ob at NO 13 for 4 yards (M.Te'o).,1st & 10 at NO 17
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,1,MIN,1,9,0,-10 Yard Penalty,"(11:46) L.Murray left end for 13 yards, TOUCHDOWN NULLIFIED by Penalty.
+PENALTY on MIN-M.Remmers, Offensive Holding, 10 yards, enforced at NO 13 - No Play.",2nd & 6 at NO 13
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,1,MIN,1,10,0,8 Yard Pass,(11:41) (Shotgun) C.Keenum pass short left to K.Rudolph pushed ob at NO 15 for 8 yards (K.Crawley).,2nd & 16 at NO 23
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,1,MIN,1,11,0,11 Yard Pass,(11:07) (Shotgun) C.Keenum pass short middle to S.Diggs to NO 4 for 11 yards (K.Crawley; J.Freeny).,3rd & 8 at NO 15
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,1,MIN,1,12,0,Pass Incomplete,(10:12) (Shotgun) C.Keenum pass incomplete short right to M.Floyd (P.Williams).,1st & 4 at NO 4
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,1,MIN,1,13,0,3 Yard Penalty,"(10:08) C.Keenum pass incomplete short left to S.Diggs.
+PENALTY on NO-M.Williams, Defensive Pass Interference, 3 yards, enforced at NO 4 - No Play.
+Penalty on NO-P.Williams, Defensive Holding, declined.",2nd & 4 at NO 4
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,1,MIN,1,14,0,Touchdown Vikings,"(10:03) (Run formation) A.Collins reported in as eligible.  L.Murray right guard for 1 yard, TOUCHDOWN.",1st & 1 at NO 1
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,1,MIN,1,15,1,Extra Point Good,"(Kick formation) K.Forbath extra point is GOOD, Center-J.Overbaugh, Holder-R.Quigley.",XP attempt from NO 15
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,2,NO,0,1,0,Kickoff,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback.",Kickoff from MIN 35
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,2,NO,0,2,0,11 Yard Pass,(9:58) (Shotgun) D.Brees pass short left to M.Thomas to NO 36 for 11 yards (A.Sendejo).,1st & 10 at NO 25
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,2,NO,0,3,0,10 Yard Run,(9:23) A.Kamara right tackle to NO 46 for 10 yards (H.Smith).,1st & 10 at NO 36
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,2,NO,0,4,0,2 Yard Run,(8:41) M.Ingram right end to NO 48 for 2 yards (L.Joseph).,1st & 10 at NO 46
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,2,NO,0,5,0,22 Yard Pass,(8:09) D.Brees pass short right to J.Hill to MIN 30 for 22 yards (E.Kendricks).,2nd & 8 at NO 48
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,2,NO,0,6,0,1 Yard Run,(7:26) M.Ingram left guard to MIN 29 for 1 yard (B.Robison).,1st & 10 at MIN 30
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,2,NO,0,7,0,-5 Yard Penalty,"(6:55) (Shotgun) D.Brees pass deep left to T.Ginn for 29 yards, TOUCHDOWN NULLIFIED by Penalty.
+PENALTY on NO-T.Ginn, Illegal Shift, 5 yards, enforced at MIN 29 - No Play.",2nd & 9 at MIN 29
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,2,NO,0,8,0,19 Yard Pass,(6:50) (Shotgun) D.Brees pass short right to A.Kamara pushed ob at MIN 15 for 19 yards (A.Sendejo).,2nd & 14 at MIN 34
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,2,NO,0,9,0,1 Yard Run,(6:18) J.LeRibeus reported in as eligible.  M.Ingram right end to MIN 14 for 1 yard (E.Kendricks).,1st & 10 at MIN 15
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,2,NO,0,10,0,Interception,"(5:40) D.Brees pass short left intended for M.Thomas INTERCEPTED by A.Barr (E.Griffen) at MIN 10. A.Barr to MIN 28 for 18 yards (T.Armstead).
+PENALTY on NO-T.Armstead, Horse Collar Tackle, 15 yards, enforced at MIN 28.",2nd & 9 at MIN 14
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,3,MIN,0,1,0,2 Yard Run,(5:32) J.McKinnon left end to MIN 45 for 2 yards (S.Rankins; C.Robertson).,1st & 10 at MIN 43
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,3,MIN,0,2,0,Sack,(5:05) (No Huddle) C.Keenum sacked at MIN 45 for 0 yards (M.Te'o).,2nd & 8 at MIN 45
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,3,MIN,0,3,0,7 Yard Pass,(4:19) (Shotgun) C.Keenum pass short middle to J.Wright to NO 48 for 7 yards (V.Bell).,3rd & 8 at MIN 45
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,3,MIN,0,4,0,-5 Yard Penalty,"(3:31) (Run formation) PENALTY on MIN-C.Keenum, Delay of Game, 5 yards, enforced at NO 48 - No Play.",4th & 1 at NO 48
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,3,MIN,0,5,0,Punt,"(3:16) (Punt formation) R.Quigley punts 44 yards to NO 9, Center-J.Overbaugh, fair catch by T.Lewis.",4th & 6 at MIN 47
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,4,NO,0,1,0,6 Yard Pass,(3:08) (Shotgun) D.Brees pass short right to T.Ginn to NO 15 for 6 yards (H.Smith).,1st & 10 at NO 9
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,4,NO,0,2,0,5 Yard Run,(2:38) (Shotgun) A.Kamara right tackle to NO 20 for 5 yards (A.Barr; T.Johnson).,2nd & 4 at NO 15
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,4,NO,0,3,0,Pass Incomplete,(2:06) (Shotgun) D.Brees pass incomplete short left to T.Ginn (M.Alexander) [D.Hunter].,1st & 10 at NO 20
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,4,NO,0,4,0,13 Yard Pass,(1:59) (Shotgun) D.Brees pass short left to T.Ginn ran ob at NO 33 for 13 yards.,2nd & 10 at NO 20
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,4,NO,0,5,0,-6 Yard Sack,"(1:54) (Shotgun) D.Brees sacked at NO 27 for -6 yards (E.Griffen). FUMBLES (E.Griffen) [E.Griffen], recovered by NO-M.Unger at NO 27. M.Unger to NO 27 for no gain (L.Joseph).",1st & 10 at NO 33
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,4,NO,0,6,0,23 Yard Pass,(1:42) (Shotgun) D.Brees pass short left to A.Kamara to 50 for 23 yards (E.Kendricks).,2nd & 16 at NO 27
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,4,NO,0,7,0,Pass Incomplete,(1:28) (Shotgun) D.Brees pass incomplete short left to J.Hill (A.Sendejo).,1st & 10 at 50
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,4,NO,0,8,0,20 Yard Pass,(1:23) (Shotgun) D.Brees pass short middle to M.Thomas to MIN 30 for 20 yards (E.Lamur).,2nd & 10 at 50
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,4,NO,0,9,0,Pass Incomplete,"(:43) (No Huddle, Shotgun) D.Brees pass incomplete short right to W.Snead.",1st & 10 at MIN 30
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,4,NO,0,10,0,Pass Incomplete,(:39) (Shotgun) D.Brees pass incomplete short right to J.Hill.,2nd & 10 at MIN 30
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,4,NO,0,11,0,-10 Yard Sack,(:36) (Shotgun) D.Brees sacked at MIN 40 for -10 yards (H.Smith).,3rd & 10 at MIN 30
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,4,NO,0,12,0,Field Goal No Good,"(:26) (Field Goal formation) W.Lutz 58 yard field goal is No Good, Wide Left, Center-Z.Wood, Holder-T.Morstead.",4th & 20 at MIN 40
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,5,MIN,0,1,0,15 Yard Penalty,"(:21) (Shotgun) C.Keenum pass incomplete short right to S.Diggs [C.Jordan].
+PENALTY on NO-T.Hendrickson, Roughing the Passer, 15 yards, enforced at MIN 48 - No Play.",1st & 10 at MIN 48
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,5,MIN,0,2,0,6 Yard Pass,(:17) (Shotgun) C.Keenum pass short left to K.Rudolph pushed ob at NO 31 for 6 yards (V.Bell).,1st & 10 at NO 37
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,5,MIN,0,3,0,Pass Incomplete,(:13) (Shotgun) C.Keenum pass incomplete deep middle to A.Thielen [D.Onyemata].,2nd & 4 at NO 31
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,5,MIN,0,4,0,Field Goal No Good,"(:07) (Field Goal formation) K.Forbath 49 yard field goal is No Good, Wide Left, Center-J.Overbaugh, Holder-R.Quigley.",3rd & 4 at NO 31
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,2ND QUARTER,6,NO,0,1,0,-1 Yard Run,(:02) (Run formation) D.Brees kneels to NO 38 for -1 yards.,1st & 10 at NO 39
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,1,MIN,0,1,0,Kickoff,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",Kickoff from NO 35
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,1,MIN,0,2,0,-3 Yard Run,(15:00) L.Murray up the middle to MIN 22 for -3 yards (M.Te'o; V.Bell).,1st & 10 at MIN 25
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,1,MIN,0,3,0,13 Yard Pass,(14:21) (Shotgun) C.Keenum pass short left to L.Murray pushed ob at MIN 35 for 13 yards (K.Crawley).,2nd & 13 at MIN 22
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,1,MIN,0,4,0,9 Yard Pass,(13:45) C.Keenum pass short right to A.Thielen to MIN 44 for 9 yards (M.Lattimore).,1st & 10 at MIN 35
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,1,MIN,0,5,0,Run for No Gain,(12:59) L.Murray right end to MIN 44 for no gain (C.Robertson).,2nd & 1 at MIN 44
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,1,MIN,0,6,0,7 Yard Run,(12:19) C.Ham up the middle to NO 49 for 7 yards (S.Rankins).,3rd & 1 at MIN 44
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,1,MIN,0,7,0,7 Yard Pass,(11:43) (Shotgun) C.Keenum pass short right to S.Diggs to NO 42 for 7 yards (K.Crawley).,1st & 10 at NO 49
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,1,MIN,0,8,0,2 Yard Run,(11:18) J.McKinnon right tackle to NO 40 for 2 yards (V.Bell).,2nd & 3 at NO 42
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,1,MIN,0,9,0,4 Yard Pass,(10:36) C.Keenum pass short right to K.Rudolph to NO 36 for 4 yards (J.Freeny).,3rd & 1 at NO 40
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,1,MIN,0,10,0,7 Yard Run,(10:06) L.Murray left end pushed ob at NO 29 for 7 yards (C.Robertson).,1st & 10 at NO 36
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,1,MIN,0,11,0,-1 Yard Run,(9:31) L.Murray left tackle to NO 30 for -1 yards (T.Hendrickson).,2nd & 3 at NO 29
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,1,MIN,0,12,0,-10 Yard Sack,(8:48) (Shotgun) C.Keenum sacked at NO 40 for -10 yards (S.Rankins).,3rd & 4 at NO 30
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,1,MIN,0,13,0,Punt,"(8:07) R.Quigley punts 40 yards to end zone, Center-J.Overbaugh, Touchback.",4th & 14 at NO 40
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,2,NO,1,1,0,5 Yard Run,(7:58) A.Kamara left end to NO 25 for 5 yards (E.Kendricks).,1st & 10 at NO 20
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,2,NO,1,2,0,9 Yard Pass,(7:22) (Shotgun) D.Brees pass short middle to M.Thomas to NO 34 for 9 yards (X.Rhodes).,2nd & 5 at NO 25
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,2,NO,1,3,0,9 Yard Pass,(6:36) (Shotgun) D.Brees pass short left to T.Ginn to NO 43 for 9 yards (A.Sendejo).,1st & 10 at NO 34
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,2,NO,1,4,0,Run for No Gain,(6:10) J.LeRibeus reported in as eligible.  M.Ingram right guard to NO 43 for no gain (D.Hunter).,2nd & 1 at NO 43
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,2,NO,1,5,0,2 Yard Run,(5:39) J.LeRibeus reported in as eligible.  D.Brees up the middle to NO 45 for 2 yards (T.Johnson; B.Gedeon).,3rd & 1 at NO 43
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,2,NO,1,6,0,4 Yard Run,(4:56) A.Kamara right tackle to NO 49 for 4 yards (L.Joseph; D.Hunter).,1st & 10 at NO 45
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,2,NO,1,7,0,23 Yard Pass,(4:14) D.Brees pass short middle to M.Thomas to MIN 28 for 23 yards (X.Rhodes).,2nd & 6 at NO 49
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,2,NO,1,8,0,5 Yard Run,(3:26) (Shotgun) A.Kamara right guard to MIN 23 for 5 yards (H.Smith; E.Kendricks).,1st & 10 at MIN 28
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,2,NO,1,9,0,4 Yard Run,(2:43) A.Kamara right end to MIN 19 for 4 yards (T.Newman).,2nd & 5 at MIN 23
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,2,NO,1,10,0,5 Yard Pass,(2:06) (Shotgun) D.Brees pass short left to W.Snead to MIN 14 for 5 yards (T.Waynes).,3rd & 1 at MIN 19
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,2,NO,1,11,0,Pass Incomplete,(1:28) D.Brees pass incomplete short left to M.Thomas. MIN-A.Sendejo was injured during the play.,1st & 10 at MIN 14
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,2,NO,1,12,0,Touchdown Saints,"(1:23) D.Brees pass short right to M.Thomas for 14 yards, TOUCHDOWN.",2nd & 10 at MIN 14
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,2,NO,1,13,1,Extra Point Good,"W.Lutz extra point is GOOD, Center-Z.Wood, Holder-T.Morstead.",XP attempt from MIN 15
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,3,MIN,0,1,0,Kickoff,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",Kickoff from NO 35
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,3RD QUARTER,3,MIN,0,2,0,Interception,(1:18) C.Keenum pass deep right intended for S.Diggs INTERCEPTED by M.Williams at MIN 42. M.Williams pushed ob at MIN 30 for 12 yards (J.McKinnon).,1st & 10 at MIN 25
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,1,NO,1,1,0,1 Yard Run,(1:09) M.Ingram up the middle to MIN 29 for 1 yard (T.Johnson).,1st & 10 at MIN 30
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,1,NO,1,2,0,14 Yard Pass,(:24) (Shotgun) D.Brees pass short middle to J.Hill to MIN 15 for 14 yards (A.Harris).,2nd & 9 at MIN 29
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,1,NO,1,3,0,7 Yard Run,(15:00) A.Kamara right end pushed ob at MIN 8 for 7 yards (E.Kendricks).,1st & 10 at MIN 15
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,1,NO,1,4,0,6 Yard Pass,(14:28) (Shotgun) D.Brees pass short left to A.Kamara to MIN 2 for 6 yards (A.Harris). MIN-X.Rhodes was injured during the play.,2nd & 3 at MIN 8
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,1,NO,1,5,0,-1 Yard Run,(13:56) A.Kamara left tackle to MIN 3 for -1 yards (A.Barr).,1st & 2 at MIN 2
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,1,NO,1,6,0,Touchdown Saints,"(13:12) D.Brees pass short middle to M.Thomas for 3 yards, TOUCHDOWN.",2nd & 3 at MIN 3
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,1,NO,1,7,1,Extra Point Good,"(Kick formation) W.Lutz extra point is GOOD, Center-Z.Wood, Holder-T.Morstead.",XP attempt from MIN 15
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,2,MIN,1,1,0,Kickoff,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",Kickoff from NO 35
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,2,MIN,1,2,0,14 Yard Run,(13:09) L.Murray left tackle to MIN 39 for 14 yards (M.Williams).,1st & 10 at MIN 25
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,2,MIN,1,3,0,Run for No Gain,(12:31) L.Murray left tackle to MIN 39 for no gain (M.Te'o).,1st & 10 at MIN 39
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,2,MIN,1,4,0,27 Yard Pass,"(11:53) A.Collins reported in as eligible.  C.Keenum pass deep left to J.Wright to NO 34 for 27 yards (P.Williams).
+New Orleans challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",2nd & 10 at MIN 39
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,2,MIN,1,5,0,3 Yard Pass,(11:22) C.Keenum pass short right to J.McKinnon pushed ob at NO 31 for 3 yards (P.Williams).,1st & 10 at NO 34
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,2,MIN,1,6,0,Run for No Gain,(11:01) (No Huddle) J.McKinnon right tackle to NO 31 for no gain (M.Te'o; T.Davison).,2nd & 7 at NO 31
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,2,MIN,1,7,0,Pass Incomplete,"(10:23) (Shotgun) C.Keenum pass incomplete short right to S.Diggs [C.Jordan].
+New Orleans challenged the runner was not down by contact ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #2.)",3rd & 7 at NO 31
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,2,MIN,1,8,1,Field Goal,"(10:17) (Field Goal formation) K.Forbath 49 yard field goal is GOOD, Center-J.Overbaugh, Holder-R.Quigley.",4th & 7 at NO 31
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,3,NO,0,1,0,Kickoff,K.Forbath kicks 68 yards from MIN 35 to NO -3. A.Kamara to NO 27 for 30 yards (C.Ham).,Kickoff from MIN 35
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,3,NO,0,2,0,4 Yard Run,(10:07) A.Kamara left guard to NO 31 for 4 yards (A.Barr).,1st & 10 at NO 27
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,3,NO,0,3,0,5 Yard Pass,(9:35) (Shotgun) D.Brees pass short right to T.Ginn pushed ob at NO 36 for 5 yards (T.Waynes).,2nd & 6 at NO 31
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,3,NO,0,4,0,Pass Incomplete,(9:12) W.Snead pass incomplete deep right to A.Kamara.,3rd & 1 at NO 36
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,3,NO,0,5,0,Punt,"(9:06) (Punt formation) T.Morstead punts 54 yards to MIN 10, Center-Z.Wood, fair catch by M.Sherels.",4th & 1 at NO 36
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,4,MIN,0,1,0,1 Yard Run,(8:59) L.Murray left guard to MIN 11 for 1 yard (C.Robertson).,1st & 10 at MIN 10
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,4,MIN,0,2,0,5 Yard Penalty,"(8:26) A.Collins reported in as eligible.  C.Keenum pass incomplete deep left [M.Te'o].
+PENALTY on NO-M.Lattimore, Defensive Holding, 5 yards, enforced at MIN 11 - No Play.",2nd & 9 at MIN 11
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,4,MIN,0,3,0,Pass Incomplete,(8:21) (Shotgun) C.Keenum pass incomplete deep middle to J.Wright [T.Hendrickson].,1st & 10 at MIN 16
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,4,MIN,0,4,0,5 Yard Run,(8:18) J.McKinnon left tackle to MIN 21 for 5 yards (C.Robertson; M.Williams).,2nd & 10 at MIN 16
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,4,MIN,0,5,0,22 Yard Pass,(7:45) (Shotgun) C.Keenum pass short right to S.Diggs pushed ob at MIN 43 for 22 yards (R.Bush).,3rd & 5 at MIN 21
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,4,MIN,0,6,0,1 Yard Run,(7:14) L.Murray left tackle to MIN 44 for 1 yard (D.Onyemata).,1st & 10 at MIN 43
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,4,MIN,0,7,0,-10 Yard Penalty,"(6:35) (Shotgun) C.Keenum pass short left to S.Diggs pushed ob at NO 45 for 11 yards (M.Williams).
+PENALTY on MIN-K.Rudolph, Illegal Block Above the Waist, 10 yards, enforced at MIN 44 - No Play.",2nd & 9 at MIN 44
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,4,MIN,0,8,0,6 Yard Pass,(6:14) (Shotgun) C.Keenum pass short middle to A.Thielen to MIN 40 for 6 yards (M.Te'o).,2nd & 19 at MIN 34
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,4,MIN,0,9,0,Pass Incomplete,(5:33) (Shotgun) C.Keenum pass incomplete short left to A.Thielen (M.Lattimore).,3rd & 13 at MIN 40
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,4,MIN,0,10,0,Punt,"(5:28) (Punt formation) R.Quigley punts 1 yard to MIN 41, Center-J.Overbaugh. G.Hodges to MIN 40 for 1 yard (A.Harris; E.Wilson). Kick deflected by NO 90.  Statistically this is not a blocked punt because the ball traveled beyond the line of scrimmage.",4th & 13 at MIN 40
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,5,NO,1,1,0,15 Yard Pass,(5:21) D.Brees pass short right to T.Ginn to MIN 25 for 15 yards (H.Smith).,1st & 10 at MIN 40
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,5,NO,1,2,0,9 Yard Pass,(4:34) (Shotgun) D.Brees pass short left to T.Ginn to MIN 16 for 9 yards (T.Waynes).,1st & 10 at MIN 25
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,5,NO,1,3,0,2 Yard Run,(3:54) J.LeRibeus reported in as eligible.  M.Ingram up the middle to MIN 14 for 2 yards (E.Griffen).,2nd & 1 at MIN 16
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,5,NO,1,4,0,Touchdown Saints,"(3:06) (Shotgun) D.Brees pass short right to A.Kamara for 14 yards, TOUCHDOWN.",1st & 10 at MIN 14
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,5,NO,1,5,1,Extra Point Good,"(Kick formation) W.Lutz extra point is GOOD, Center-Z.Wood, Holder-T.Morstead.",XP attempt from MIN 15
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,6,MIN,1,1,0,Kickoff,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",Kickoff from NO 35
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,6,MIN,1,2,0,5 Yard Pass,(3:01) (Shotgun) C.Keenum pass short middle to K.Rudolph to MIN 30 for 5 yards (V.Bell).,1st & 10 at MIN 25
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,6,MIN,1,3,0,4 Yard Run,"(2:31) (No Huddle, Shotgun) C.Keenum scrambles left end to MIN 34 for 4 yards (M.Te'o).",2nd & 5 at MIN 30
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,6,MIN,1,4,0,2 Yard Run,(2:05) (No Huddle) J.McKinnon left tackle to MIN 36 for 2 yards (V.Bell; C.Jordan).,3rd & 1 at MIN 34
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,6,MIN,1,5,0,Pass Incomplete,(2:00) (Shotgun) C.Keenum pass incomplete short right to J.Wright.,1st & 10 at MIN 36
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,6,MIN,1,6,0,24 Yard Pass,"(1:55) (Shotgun) C.Keenum pass deep right to A.Thielen to NO 40 for 24 yards (M.Lattimore).
+Penalty on NO-M.Lattimore, Defensive Holding, declined.
+Penalty on NO-M.Lattimore, Defensive Pass Interference, declined.",2nd & 10 at MIN 36
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,6,MIN,1,7,0,Pass Incomplete,(1:47) (Shotgun) C.Keenum pass incomplete short right to A.Thielen (M.Lattimore).,1st & 10 at NO 40
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,6,MIN,1,8,0,5 Yard Pass,(1:44) (Shotgun) C.Keenum pass short right to K.Rudolph pushed ob at NO 35 for 5 yards (C.Robertson).,2nd & 10 at NO 40
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,6,MIN,1,9,0,Pass Incomplete,"(1:40) (No Huddle, Shotgun) C.Keenum pass incomplete deep right to K.Rudolph (M.Williams).",3rd & 5 at NO 35
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,6,MIN,1,10,1,Field Goal,"(1:34) (Field Goal formation) K.Forbath 53 yard field goal is GOOD, Center-J.Overbaugh, Holder-R.Quigley.",4th & 5 at NO 35
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,7,NO,1,1,0,Kickoff,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback.",Kickoff from MIN 35
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,7,NO,1,2,0,Pass Incomplete,(1:29) (Shotgun) D.Brees pass incomplete deep left to M.Thomas.,1st & 10 at NO 25
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,7,NO,1,3,0,18 Yard Pass,(1:25) (Shotgun) D.Brees pass short middle to J.Hill to NO 43 for 18 yards (A.Barr).,2nd & 10 at NO 25
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,7,NO,1,4,0,11 Yard Pass,(1:01) (Shotgun) D.Brees pass short right to T.Ginn pushed ob at MIN 46 for 11 yards (T.Waynes).,1st & 10 at NO 43
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,7,NO,1,5,0,Pass Incomplete,(:55) (Shotgun) D.Brees pass incomplete short middle to M.Thomas (X.Rhodes).,1st & 10 at MIN 46
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,7,NO,1,6,0,Pass Incomplete,(:53) (Shotgun) D.Brees pass incomplete short right to M.Thomas.,2nd & 10 at MIN 46
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,7,NO,1,7,0,Pass Incomplete,(:49) (Shotgun) D.Brees pass incomplete short right to M.Thomas (X.Rhodes).,3rd & 10 at MIN 46
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,7,NO,1,8,0,13 Yard Pass,(:45) (Shotgun) D.Brees pass short left to W.Snead pushed ob at MIN 33 for 13 yards (M.Alexander).,4th & 10 at MIN 46
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,7,NO,1,9,0,4 Yard Pass,(:40) (Shotgun) D.Brees pass short right to T.Ginn ran ob at MIN 29 for 4 yards.,1st & 10 at MIN 33
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,7,NO,1,10,0,5 Yard Pass,"(:37) (Shotgun) D.Brees pass short right to M.Thomas to MIN 24 for 5 yards (H.Smith).
+The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands.",2nd & 6 at MIN 29
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,7,NO,1,11,0,-1 Yard Run,(:33) A.Kamara up the middle to MIN 25 for -1 yards (B.Robison; A.Harris).,3rd & 1 at MIN 24
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,7,NO,1,12,1,Field Goal,"(:29) (Field Goal formation) W.Lutz 43 yard field goal is GOOD, Center-Z.Wood, Holder-T.Morstead.",4th & 2 at MIN 25
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,8,MIN,1,1,0,Kickoff,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",Kickoff from NO 35
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,8,MIN,1,2,0,-5 Yard Penalty,"(:25) (Shotgun) PENALTY on MIN-M.Remmers, False Start, 5 yards, enforced at MIN 25 - No Play.",1st & 10 at MIN 25
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,8,MIN,1,3,0,19 Yard Pass,(:25) (Shotgun) C.Keenum pass deep middle to S.Diggs to MIN 39 for 19 yards (P.Williams; K.Crawley).,1st & 15 at MIN 20
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,8,MIN,1,4,0,Pass Incomplete,(:18) (Shotgun) C.Keenum pass incomplete deep right to J.Wright.,1st & 10 at MIN 39
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,8,MIN,1,5,0,Pass Incomplete,(:14) (Shotgun) C.Keenum pass incomplete short left to J.McKinnon [S.Rankins].,2nd & 10 at MIN 39
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,8,MIN,1,6,0,Touchdown Vikings,"(:10) (Shotgun) C.Keenum pass deep right to S.Diggs for 61 yards, TOUCHDOWN.
+The Replay Official reviewed the runner was in bounds ruling, and the play was Upheld. The ruling on the field was confirmed.",3rd & 10 at MIN 39
+2017,Divisional Playoffs,SUN,01/14,Saints,Vikings,4TH QUARTER,8,MIN,1,7,1,2PT Conversion Fails,(Run formation) TWO-POINT CONVERSION ATTEMPT. C.Keenum rushes kneels. ATTEMPT FAILS.,XP attempt from NO 2

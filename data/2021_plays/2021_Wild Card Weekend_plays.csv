@@ -1,0 +1,1037 @@
+Season,Week,Day,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayDescription,PlayStart
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,1,LV,1,1,0,Kickoff,"E.McPherson kicks 65 yards from CIN 35 to end zone, Touchback.",Kickoff from CIN 35
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,1,LV,1,2,0,5 Yard Run,(15:00) J.Jacobs left guard to LV 30 for 5 yards (G.Pratt; M.Hilton).,1st & 10 at LV 25
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,1,LV,1,3,0,3 Yard Run,(14:29) (Shotgun) J.Jacobs left tackle to LV 33 for 3 yards (L.Wilson).,2nd & 5 at LV 30
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,1,LV,1,4,0,17 Yard Pass,(13:51) (Shotgun) D.Carr pass deep right to Z.Jones to 50 for 17 yards (J.Bates III).,3rd & 2 at LV 33
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,1,LV,1,5,0,6 Yard Pass,(13:16) (Shotgun) D.Carr pass short left to H.Renfrow ran ob at CIN 44 for 6 yards (M.Hilton).,1st & 10 at 50
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,1,LV,1,6,0,1 Yard Run,(12:45) J.Jacobs right guard to CIN 43 for 1 yard (D.Reader; G.Pratt).,2nd & 4 at CIN 44
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,1,LV,1,7,0,8 Yard Pass,(11:58) (Shotgun) D.Carr pass short left to D.Waller to CIN 35 for 8 yards (G.Pratt).,3rd & 3 at CIN 43
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,1,LV,1,8,0,9 Yard Pass,"(11:17) D.Carr pass short middle to J.Jacobs to CIN 26 for 9 yards (L.Wilson, G.Pratt).",1st & 10 at CIN 35
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,1,LV,1,9,0,-4 Yard Penalty,"(10:39) PENALTY on LV-D.Waller, False Start, 4 yards, enforced at CIN 26 - No Play.",2nd & 1 at CIN 26
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,1,LV,1,10,0,2 Yard Run,"(10:18) J.Jacobs left guard to CIN 28 for 2 yards (G.Pratt, S.Hubbard).",2nd & 5 at CIN 30
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,1,LV,1,11,0,Pass Incomplete,(9:35) (Shotgun) D.Carr pass incomplete deep right to H.Renfrow (M.Hilton).,3rd & 3 at CIN 28
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,1,LV,1,12,1,Field Goal,"(9:28) D.Carlson 47 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",4th & 3 at CIN 28
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,2,CIN,1,1,0,Kickoff,D.Carlson kicks 54 yards from LV 35 to CIN 11. C.Evans to CIN 25 for 14 yards (N.Hobbs; M.Lee).,Kickoff from LV 35
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,2,CIN,1,2,0,Pass Incomplete,(9:18) (Shotgun) J.Burrow pass incomplete short left to J.Chase.,1st & 10 at CIN 25
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,2,CIN,1,3,0,11 Yard Pass,(9:14) (Shotgun) J.Burrow pass short right to J.Chase to CIN 36 for 11 yards (B.Facyson).,2nd & 10 at CIN 25
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,2,CIN,1,4,0,3 Yard Run,(8:39) J.Mixon right guard to CIN 39 for 3 yards (D.Perryman; D.Deablo).,1st & 10 at CIN 36
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,2,CIN,1,5,0,17 Yard Pass,(8:01) J.Burrow pass deep right to J.Chase ran ob at LV 44 for 17 yards.,2nd & 7 at CIN 39
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,2,CIN,1,6,0,4 Yard Run,(7:22) J.Mixon left end to LV 40 for 4 yards (D.Perryman).,1st & 10 at LV 44
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,2,CIN,1,7,0,9 Yard Pass,(6:41) (Shotgun) J.Burrow pass short left to J.Chase to LV 31 for 9 yards (B.Facyson).,2nd & 6 at LV 40
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,2,CIN,1,8,0,21 Yard Pass,(6:03) J.Burrow pass short left to J.Mixon to LV 10 for 21 yards (T.Moehrig) [C.Ferrell].,1st & 10 at LV 31
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,2,CIN,1,9,0,Pass Incomplete,(5:21) (Shotgun) J.Burrow pass incomplete short right to T.Higgins [C.Ferrell].,1st & 10 at LV 10
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,2,CIN,1,10,0,3 Yard Run,(5:16) J.Mixon right end to LV 7 for 3 yards (D.Deablo; D.Perryman).,2nd & 10 at LV 10
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,2,CIN,1,11,0,Touchdown Bengals,"(4:35) (Shotgun) J.Burrow pass short right to C.Uzomah for 7 yards, TOUCHDOWN.",3rd & 7 at LV 7
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,2,CIN,1,12,1,Extra Point Good,"E.McPherson extra point is GOOD, Center-C.Harris, Holder-K.Huber.",XP attempt from LV 15
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,3,LV,0,1,0,Kickoff,"E.McPherson kicks 65 yards from CIN 35 to end zone, Touchback.",Kickoff from CIN 35
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,3,LV,0,2,0,13 Yard Pass,(4:31) D.Carr pass short left to Z.Jones to LV 38 for 13 yards (C.Awuzie).,1st & 10 at LV 25
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,3,LV,0,3,0,Pass Incomplete,(3:51) (Shotgun) D.Carr pass incomplete short left.,1st & 10 at LV 38
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,3,LV,0,4,0,-5 Yard Penalty,"(3:47) (Shotgun) PENALTY on LV-K.Miller, False Start, 5 yards, enforced at LV 38 - No Play.",2nd & 10 at LV 38
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,3,LV,0,5,0,7 Yard Pass,(3:47) (Shotgun) D.Carr pass short left to H.Renfrow to LV 40 for 7 yards (L.Wilson).,2nd & 15 at LV 33
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,3,LV,0,6,0,Fumble,"(3:09) (Shotgun) D.Carr sacked at LV 31 for -9 yards (T.Hendrickson). FUMBLES (T.Hendrickson) [T.Hendrickson], RECOVERED by CIN-L.Ogunjobi at LV 26. L.Ogunjobi to LV 15 for 11 yards (K.Miller).",3rd & 8 at LV 40
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,4,CIN,1,1,0,5 Yard Run,"(3:01) J.Mixon left guard to LV 10 for 5 yards (D.Deablo, Q.Jefferson).",1st & 10 at LV 15
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,4,CIN,1,2,0,2 Yard Run,(2:24) J.Mixon left end to LV 8 for 2 yards (M.Crosby).,2nd & 5 at LV 10
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,4,CIN,1,3,0,-5 Yard Penalty,"(1:44) (Shotgun) PENALTY on CIN-H.Adeniji, False Start, 5 yards, enforced at LV 8 - No Play.",3rd & 3 at LV 8
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,4,CIN,1,4,0,Pass Incomplete,(1:25) (Shotgun) J.Burrow pass incomplete short right.,3rd & 8 at LV 13
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,1ST QUARTER,4,CIN,1,5,1,Field Goal,"(1:18) E.McPherson 31 yard field goal is GOOD, Center-C.Harris, Holder-K.Huber.",4th & 8 at LV 13
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,1,LV,0,1,0,Kickoff,E.McPherson kicks 63 yards from CIN 35 to LV 2. P.Barber ran ob at LV 2 for no gain.,Kickoff from CIN 35
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,1,LV,0,2,0,2 Yard Run,(1:14) J.Jacobs right guard to LV 4 for 2 yards (L.Wilson; C.Awuzie).,1st & 10 at LV 2
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,1,LV,0,3,0,-2 Yard Penalty,"(:39) PENALTY on LV-B.Parker, False Start, 2 yards, enforced at LV 4 - No Play.",2nd & 8 at LV 4
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,1,LV,0,4,0,6 Yard Pass,(:21) (Shotgun) D.Carr pass short left to D.Waller to LV 8 for 6 yards (G.Pratt).,2nd & 10 at LV 2
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,1,LV,0,5,0,-7 Yard Sack,(15:00) (Shotgun) D.Carr sacked at LV 1 for -7 yards (S.Hubbard).,3rd & 4 at LV 8
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,1,LV,0,6,0,Punt,"(14:24) A.Cole punts 58 yards to CIN 41, Center-T.Sieg. T.Taylor to LV 45 for 14 yards (K.Wilber).",4th & 11 at LV 1
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,2,CIN,1,1,0,5 Yard Run,(14:12) (Shotgun) J.Mixon left guard to LV 40 for 5 yards (C.Nassib; D.Perryman).,1st & 10 at LV 45
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,2,CIN,1,2,0,7 Yard Run,(13:34) J.Chase right end to LV 33 for 7 yards (D.Deablo; N.Hobbs).,2nd & 5 at LV 40
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,2,CIN,1,3,0,-1 Yard Pass,(12:49) (Shotgun) J.Burrow pass short right to J.Mixon pushed ob at LV 34 for -1 yards (D.Trufant).,1st & 10 at LV 33
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,2,CIN,1,4,0,28 Yard Pass,(12:24) (Shotgun) J.Burrow pass deep right to J.Chase ran ob at LV 6 for 28 yards.,2nd & 11 at LV 34
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,2,CIN,1,5,0,Pass Incomplete,(11:56) (Shotgun) J.Burrow pass incomplete short right to J.Mixon.,1st & 6 at LV 6
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,2,CIN,1,6,0,2 Yard Run,(11:49) (Shotgun) J.Mixon up the middle to LV 4 for 2 yards (Q.Jefferson; M.Crosby).,2nd & 6 at LV 6
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,2,CIN,1,7,0,-8 Yard Sack,(11:10) (Shotgun) J.Burrow sacked at LV 12 for -8 yards (Q.Jefferson).,3rd & 4 at LV 4
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,2,CIN,1,8,1,Field Goal,"(10:23) E.McPherson 30 yard field goal is GOOD, Center-C.Harris, Holder-K.Huber.",4th & 12 at LV 12
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,3,LV,1,1,0,Kickoff,E.McPherson kicks 61 yards from CIN 35 to LV 4. T.Johnson to LV 39 for 35 yards (R.Allen).,Kickoff from CIN 35
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,3,LV,1,2,0,14 Yard Run,"(10:13) J.Jacobs left guard to CIN 47 for 14 yards (V.Bell, J.Bates III).",1st & 10 at LV 39
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,3,LV,1,3,0,35 Yard Run,(9:31) J.Jacobs right tackle to CIN 12 for 35 yards (M.Hilton).,1st & 10 at CIN 47
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,3,LV,1,4,0,2 Yard Run,"(8:49) J.Jacobs right tackle to CIN 10 for 2 yards (L.Wilson, J.Bates III).",1st & 10 at CIN 12
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,3,LV,1,5,0,Pass Incomplete,(8:09) (Shotgun) D.Carr pass incomplete short middle to F.Moreau (M.Hilton).,2nd & 8 at CIN 10
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,3,LV,1,6,0,Pass Incomplete,(8:03) (Shotgun) D.Carr pass incomplete short left to D.Jackson.,3rd & 8 at CIN 10
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,3,LV,1,7,1,Field Goal,"(7:58) D.Carlson 28 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",4th & 8 at CIN 10
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,4,CIN,1,1,0,Kickoff,"D.Carlson kicks 63 yards from LV 35 to CIN 2. C.Evans MUFFS catch, and recovers at CIN 4. C.Evans to CIN 18 for 14 yards (N.Hobbs).",Kickoff from LV 35
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,4,CIN,1,2,0,5 Yard Pass,"(7:49) (Shotgun) J.Burrow pass short left to C.Uzomah to CIN 23 for 5 yards (D.Perryman, D.Deablo).",1st & 10 at CIN 18
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,4,CIN,1,3,0,4 Yard Run,(7:12) J.Mixon right end to CIN 27 for 4 yards (N.Hobbs).,2nd & 5 at CIN 23
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,4,CIN,1,4,0,5 Yard Pass,(6:29) (Shotgun) J.Burrow pass short middle to T.Boyd to CIN 32 for 5 yards (R.Teamer).,3rd & 1 at CIN 27
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,4,CIN,1,5,0,-1 Yard Run,(5:45) J.Mixon up the middle to CIN 31 for -1 yards (D.Square).,1st & 10 at CIN 32
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,4,CIN,1,6,0,29 Yard Pass,"(5:10) (Shotgun) J.Burrow pass deep middle to C.Uzomah to LV 40 for 29 yards (D.Deablo, R.Teamer).",2nd & 11 at CIN 31
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,4,CIN,1,7,0,Pass Incomplete,(4:26) (Shotgun) J.Burrow pass incomplete deep left to J.Chase (C.Hayward).,1st & 10 at LV 40
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,4,CIN,1,8,0,9 Yard Run,(4:20) (Shotgun) C.Evans left guard to LV 31 for 9 yards (Y.Ngakoue; D.Leavitt).,2nd & 10 at LV 40
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,4,CIN,1,9,0,Pass Incomplete,(3:36) (Shotgun) J.Burrow pass incomplete short middle to T.Boyd (N.Hobbs).,3rd & 1 at LV 31
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,4,CIN,1,10,0,15 Yard Run,(3:33) J.Chase right end pushed ob at LV 16 for 15 yards (D.Deablo).,4th & 1 at LV 31
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,4,CIN,1,11,0,5 Yard Pass,(2:53) (Shotgun) J.Burrow pass short right to J.Mixon to LV 11 for 5 yards (R.Teamer; D.Deablo). LV-D.Deablo was injured during the play.,1st & 10 at LV 16
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,4,CIN,1,12,0,1 Yard Run,(2:17) J.Mixon right end to LV 10 for 1 yard (J.Hankins; N.Hobbs).,2nd & 5 at LV 11
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,4,CIN,1,13,0,Touchdown Bengals,"(2:00) (Shotgun) J.Burrow pass short right to T.Boyd for 10 yards, TOUCHDOWN.",3rd & 4 at LV 10
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,4,CIN,1,14,1,Extra Point Good,"E.McPherson extra point is GOOD, Center-C.Harris, Holder-K.Huber.",XP attempt from LV 15
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,5,LV,1,1,0,Kickoff,E.McPherson kicks 61 yards from CIN 35 to LV 4. T.Johnson to LV 20 for 16 yards (Mi.Thomas).,Kickoff from CIN 35
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,5,LV,1,2,0,Pass Incomplete,(1:45) (Shotgun) D.Carr pass incomplete short middle to B.Edwards.,1st & 10 at LV 20
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,5,LV,1,3,0,7 Yard Pass,(1:39) (Shotgun) D.Carr pass short middle to H.Renfrow to LV 27 for 7 yards (L.Wilson).,2nd & 10 at LV 20
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,5,LV,1,4,0,19 Yard Pass,"(1:02) (Shotgun) D.Carr pass short middle to B.Edwards pushed ob at LV 46 for 19 yards (V.Bell, T.Flowers).",3rd & 3 at LV 27
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,5,LV,1,5,0,Pass Incomplete,(:55) (Shotgun) D.Carr pass incomplete short middle to Z.Jones.,1st & 10 at LV 46
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,5,LV,1,6,0,Pass Incomplete,(:51) (Shotgun) D.Carr pass incomplete short right.,2nd & 10 at LV 46
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,5,LV,1,7,0,25 Yard Run,"(:46) (Shotgun) D.Carr scrambles left end ran ob at CIN 34 for 20 yards (L.Wilson).
+PENALTY on CIN-E.Apple, Defensive Holding, 5 yards, enforced at CIN 34.",3rd & 10 at LV 46
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,5,LV,1,8,0,4 Yard Pass,(:37) (Shotgun) D.Carr pass short left to J.Richard to CIN 25 for 4 yards (L.Wilson).,1st & 10 at CIN 29
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,5,LV,1,9,0,Pass Incomplete,(:31) (Shotgun) D.Carr pass incomplete short middle to D.Waller.,2nd & 6 at CIN 25
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,5,LV,1,10,0,11 Yard Pass,(:27) (Shotgun) D.Carr pass short left to D.Waller pushed ob at CIN 14 for 11 yards (T.Flowers).,3rd & 6 at CIN 25
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,5,LV,1,11,0,Pass Incomplete,(:23) (Shotgun) D.Carr pass incomplete short middle to J.Richard.,1st & 10 at CIN 14
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,5,LV,1,12,0,Touchdown Raiders,"(:19) (Shotgun) D.Carr pass short middle to Z.Jones for 14 yards, TOUCHDOWN.",2nd & 10 at CIN 14
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,5,LV,1,13,1,Extra Point Good,"D.Carlson extra point is GOOD, Center-T.Sieg, Holder-A.Cole.",XP attempt from CIN 15
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,6,CIN,0,1,0,Kickoff,"D.Carlson kicks 65 yards from LV 35 to end zone, Touchback.",Kickoff from LV 35
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,2ND QUARTER,6,CIN,0,2,0,-1 Yard Run,(:13) J.Burrow kneels to CIN 24 for -1 yards.,1st & 10 at CIN 25
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,3RD QUARTER,1,CIN,1,1,0,Kickoff,D.Carlson kicks 57 yards from LV 35 to CIN 8. C.Evans to CIN 35 for 27 yards (K.Wilber).,Kickoff from LV 35
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,3RD QUARTER,1,CIN,1,2,0,10 Yard Run,(14:53) J.Mixon left tackle pushed ob at CIN 45 for 10 yards (S.Thomas).,1st & 10 at CIN 35
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,3RD QUARTER,1,CIN,1,3,0,5 Yard Pass,(14:19) (Shotgun) J.Burrow pass short middle to J.Chase to 50 for 5 yards (D.Perryman).,1st & 10 at CIN 45
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,3RD QUARTER,1,CIN,1,4,0,9 Yard Pass,(13:44) J.Burrow pass short right to C.Uzomah to LV 41 for 9 yards (N.Hobbs).,2nd & 5 at 50
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,3RD QUARTER,1,CIN,1,5,0,5 Yard Run,(13:06) (Shotgun) J.Mixon left end to LV 36 for 5 yards (D.Perryman).,1st & 10 at LV 41
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,3RD QUARTER,1,CIN,1,6,0,7 Yard Pass,(12:28) (Shotgun) J.Burrow pass short left to J.Chase to LV 29 for 7 yards (C.Littleton). LV-B.Facyson was injured during the play.,2nd & 5 at LV 36
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,3RD QUARTER,1,CIN,1,7,0,-5 Yard Penalty,"(12:03) J.Mixon left tackle to LV 26 for 3 yards (C.Littleton).
+PENALTY on CIN, Illegal Formation, 5 yards, enforced at LV 29 - No Play.",1st & 10 at LV 29
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,3RD QUARTER,1,CIN,1,8,0,Pass Incomplete,(11:55) (Shotgun) J.Burrow pass incomplete short right.,1st & 15 at LV 34
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,3RD QUARTER,1,CIN,1,9,0,Pass Incomplete,(11:50) (Shotgun) J.Burrow pass incomplete deep right to T.Higgins.,2nd & 15 at LV 34
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,3RD QUARTER,1,CIN,1,10,0,9 Yard Pass,(11:44) (Shotgun) J.Burrow pass short middle to J.Chase to LV 25 for 9 yards (D.Leavitt).,3rd & 15 at LV 34
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,3RD QUARTER,1,CIN,1,11,1,Field Goal,"(11:00) E.McPherson 43 yard field goal is GOOD, Center-C.Harris, Holder-K.Huber.",4th & 6 at LV 25
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,3RD QUARTER,2,LV,0,1,0,Kickoff,"E.McPherson kicks 65 yards from CIN 35 to end zone, Touchback.",Kickoff from CIN 35
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,3RD QUARTER,2,LV,0,2,0,-1 Yard Run,"(10:56) J.Jacobs left tackle to LV 24 for -1 yards (G.Pratt, L.Wilson).",1st & 10 at LV 25
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,3RD QUARTER,2,LV,0,3,0,12 Yard Pass,(10:19) D.Carr pass short left to D.Waller to LV 36 for 12 yards (C.Awuzie). CIN-L.Ogunjobi was injured during the play.,2nd & 11 at LV 24
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,3RD QUARTER,2,LV,0,4,0,Run for No Gain,"(9:45) J.Jacobs right tackle to LV 36 for no gain (S.Hubbard, E.Apple).",1st & 10 at LV 36
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,3RD QUARTER,2,LV,0,5,0,6 Yard Pass,(9:07) (Shotgun) D.Carr pass short right to B.Edwards to LV 42 for 6 yards (E.Apple).,2nd & 10 at LV 36
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,3RD QUARTER,2,LV,0,6,0,Pass Incomplete,"(8:37) (Shotgun) D.Carr pass deep left to H.Renfrow to CIN 36 for 22 yards (J.Bates III). FUMBLES (J.Bates III), ball out of bounds at CIN 35.
+Cincinnati challenged the pass completion ruling, and the play was REVERSED.
+(Shotgun) D.Carr pass incomplete deep left to H.Renfrow (J.Bates III).",3rd & 4 at LV 42
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,3RD QUARTER,2,LV,0,7,0,Punt,"(8:32) A.Cole punts 41 yards to CIN 17, Center-T.Sieg. T.Taylor to CIN 29 for 12 yards (K.Nixon; F.Moreau).",4th & 4 at LV 42
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,3RD QUARTER,3,CIN,0,1,0,5 Yard Pass,(8:21) (Shotgun) J.Burrow pass short left to T.Boyd pushed ob at CIN 34 for 5 yards (C.Hayward).,1st & 10 at CIN 29
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,3RD QUARTER,3,CIN,0,2,0,-7 Yard Run,"(7:53) T.Boyd left end to CIN 38 for 4 yards (C.Littleton).
+PENALTY on CIN-J.Williams, Illegal Block Above the Waist, 10 yards, enforced at CIN 37.",2nd & 5 at CIN 34
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,3RD QUARTER,3,CIN,0,3,0,Pass Incomplete,(7:41) (Shotgun) J.Burrow pass incomplete short right to T.Higgins [M.Crosby].,2nd & 12 at CIN 27
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,3RD QUARTER,3,CIN,0,4,0,-11 Yard Sack,(7:35) (Shotgun) J.Burrow sacked at CIN 16 for -11 yards (M.Crosby).,3rd & 12 at CIN 27
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,3RD QUARTER,3,CIN,0,5,0,Punt,"(6:57) K.Huber punts 54 yards to LV 30, Center-C.Harris. H.Renfrow MUFFS catch, and recovers at LV 27. H.Renfrow to LV 27 for no gain (M.Thomas).",4th & 23 at CIN 16
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,1,LV,1,1,0,-10 Yard Penalty,"(6:47) (Shotgun) D.Carr pass deep right to D.Jackson ran ob at CIN 38 for 35 yards (J.Bates III).
+PENALTY on LV-A.Leatherwood, Offensive Holding, 10 yards, enforced at LV 27 - No Play.",1st & 10 at LV 27
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,1,LV,1,2,0,9 Yard Pass,(6:21) (Shotgun) D.Carr pass short left to H.Renfrow to LV 26 for 9 yards (C.Awuzie).,1st & 20 at LV 17
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,1,LV,1,3,0,Pass Incomplete,(5:42) (Shotgun) D.Carr pass incomplete deep right to B.Edwards (E.Apple).,2nd & 11 at LV 26
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,1,LV,1,4,0,16 Yard Pass,(5:36) (Shotgun) D.Carr pass short middle to H.Renfrow to LV 42 for 16 yards (M.Bailey).,3rd & 11 at LV 26
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,1,LV,1,5,0,8 Yard Run,(4:58) J.Jacobs right tackle to 50 for 8 yards (J.Bates III; B.Hill).,1st & 10 at LV 42
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,1,LV,1,6,0,7 Yard Run,(4:21) J.Jacobs left guard to CIN 43 for 7 yards (E.Apple).,2nd & 2 at 50
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,1,LV,1,7,0,5 Yard Run,(3:40) J.Jacobs left tackle to CIN 38 for 5 yards (D.Reader; J.Bates III).,1st & 10 at CIN 43
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,1,LV,1,8,0,-10 Yard Penalty,"(3:04) J.Jacobs left tackle to CIN 33 for 5 yards (B.Hill).
+PENALTY on LV-A.James, Offensive Holding, 10 yards, enforced at CIN 38 - No Play.",2nd & 5 at CIN 38
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,1,LV,1,9,0,7 Yard Pass,(2:47) D.Carr pass short right to J.Jacobs to CIN 41 for 7 yards (L.Wilson; M.Hilton).,2nd & 15 at CIN 48
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,1,LV,1,10,0,5 Yard Pass,"(2:02) (Shotgun) D.Carr pass short left to H.Renfrow to CIN 36 for 5 yards (V.Bell, C.Awuzie). CIN-M.Hilton was injured during the play.",3rd & 8 at CIN 41
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,1,LV,1,11,0,11 Yard Penalty,"(1:21) (Shotgun) D.Carr pass incomplete deep right to F.Moreau.
+PENALTY on CIN-V.Hargreaves, Defensive Pass Interference, 11 yards, enforced at CIN 36 - No Play.",4th & 3 at CIN 36
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,1,LV,1,12,0,16 Yard Pass,(1:16) (Shotgun) D.Carr pass short right to B.Edwards to CIN 9 for 16 yards (J.Bates III).,1st & 10 at CIN 25
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,1,LV,1,13,0,Pass Incomplete,(:36) (Shotgun) D.Carr pass incomplete short right.,1st & 9 at CIN 9
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,1,LV,1,14,0,-10 Yard Penalty,"(:32) (Shotgun) J.Jacobs right guard to CIN 1 for 8 yards (L.Wilson; V.Bell).
+PENALTY on LV-J.Simpson, Offensive Holding, 10 yards, enforced at CIN 9 - No Play.",2nd & 9 at CIN 9
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,1,LV,1,15,0,Pass Incomplete,(:01) (Shotgun) D.Carr pass incomplete short left to D.Waller.,2nd & 19 at CIN 19
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,1,LV,1,16,0,3 Yard Pass,(15:00) (Shotgun) D.Carr pass short right to D.Waller to CIN 16 for 3 yards (G.Pratt).,3rd & 19 at CIN 19
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,1,LV,1,17,1,Field Goal,"(14:20) D.Carlson 34 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",4th & 16 at CIN 16
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,2,CIN,1,1,0,Kickoff,D.Carlson kicks 63 yards from LV 35 to CIN 2. C.Evans to CIN 25 for 23 yards (K.Nixon; N.Hobbs).,Kickoff from LV 35
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,2,CIN,1,2,0,2 Yard Run,(14:12) (Shotgun) J.Mixon up the middle to CIN 27 for 2 yards (D.Square).,1st & 10 at CIN 25
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,2,CIN,1,3,0,7 Yard Pass,"(13:38) (Shotgun) J.Burrow pass short middle to C.Uzomah to CIN 34 for 7 yards (D.Perryman, C.Littleton).",2nd & 8 at CIN 27
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,2,CIN,1,4,0,2 Yard Run,(12:58) J.Mixon right guard to CIN 36 for 2 yards (C.Nassib; D.Trufant).,3rd & 1 at CIN 34
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,2,CIN,1,5,0,Pass Incomplete,(12:18) (Shotgun) J.Burrow pass incomplete short left to J.Chase.,1st & 10 at CIN 36
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,2,CIN,1,6,0,3 Yard Pass,"(12:13) (Shotgun) J.Burrow pass short right to J.Mixon to CIN 39 for 3 yards (R.Teamer, D.Square).",2nd & 10 at CIN 36
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,2,CIN,1,7,0,19 Yard Pass,(11:28) (Shotgun) J.Burrow pass short right to J.Chase pushed ob at LV 42 for 19 yards (D.Trufant).,3rd & 7 at CIN 39
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,2,CIN,1,8,0,11 Yard Pass,(10:51) (Shotgun) J.Burrow pass short middle to J.Chase to LV 31 for 11 yards (D.Trufant).,1st & 10 at LV 42
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,2,CIN,1,9,0,2 Yard Run,(10:13) S.Perine right guard to LV 29 for 2 yards (J.Hankins; M.Crosby).,1st & 10 at LV 31
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,2,CIN,1,10,0,10 Yard Pass,(9:36) (Shotgun) J.Burrow pass short middle to T.Higgins to LV 19 for 10 yards (D.Trufant; C.Littleton).,2nd & 8 at LV 29
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,2,CIN,1,11,0,6 Yard Pass,(8:55) (Shotgun) J.Burrow pass short middle to T.Boyd to LV 13 for 6 yards (R.Teamer).,1st & 10 at LV 19
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,2,CIN,1,12,0,3 Yard Run,(8:11) J.Mixon right tackle to LV 10 for 3 yards (D.Perryman).,2nd & 4 at LV 13
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,2,CIN,1,13,0,Run for No Gain,(7:25) J.Mixon left end to LV 10 for no gain (J.Hankins).,3rd & 1 at LV 10
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,2,CIN,1,14,1,Field Goal,"(6:49) E.McPherson 28 yard field goal is GOOD, Center-C.Harris, Holder-K.Huber.",4th & 1 at LV 10
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,3,LV,1,1,0,Kickoff,E.McPherson kicks 64 yards from CIN 35 to LV 1. T.Johnson pushed ob at LV 23 for 22 yards (T.Flowers).,Kickoff from CIN 35
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,3,LV,1,2,0,3 Yard Pass,(6:41) (Shotgun) D.Carr pass short left to H.Renfrow to LV 26 for 3 yards (C.Awuzie; E.Apple).,1st & 10 at LV 23
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,3,LV,1,3,0,-5 Yard Penalty,"(6:11) (Shotgun) D.Carr pass short middle to J.Jacobs ran ob at LV 45 for 19 yards (V.Bell).
+PENALTY on LV-A.Leatherwood, Ineligible Downfield Pass, 5 yards, enforced at LV 26 - No Play.",2nd & 7 at LV 26
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,3,LV,1,4,0,5 Yard Penalty,"(5:54) (Shotgun) D.Carr pass short right to J.Jacobs to LV 20 for -1 yards (L.Wilson) [S.Hubbard].
+PENALTY on CIN-C.Awuzie, Defensive Holding, 5 yards, enforced at LV 21 - No Play.",2nd & 12 at LV 21
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,3,LV,1,5,0,Pass Incomplete,(5:36) (Shotgun) D.Carr pass incomplete deep left to D.Waller.,1st & 10 at LV 26
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,3,LV,1,6,0,13 Yard Pass,(5:29) (Shotgun) D.Carr pass short middle to D.Waller to LV 39 for 13 yards (L.Wilson).,2nd & 10 at LV 26
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,3,LV,1,7,0,5 Yard Pass,"(5:04) (No Huddle, Shotgun) D.Carr pass short middle to H.Renfrow to LV 44 for 5 yards (L.Wilson).",1st & 10 at LV 39
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,3,LV,1,8,0,Pass Incomplete,(4:38) (Shotgun) D.Carr pass incomplete short right to F.Moreau (J.Bates III).,2nd & 5 at LV 44
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,3,LV,1,9,0,Pass Incomplete,(4:32) (Shotgun) D.Carr pass incomplete deep left to B.Edwards.,3rd & 5 at LV 44
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,3,LV,1,10,0,26 Yard Pass,(4:27) (Shotgun) D.Carr pass deep left to D.Jackson ran ob at CIN 30 for 26 yards (E.Apple).,4th & 5 at LV 44
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,3,LV,1,11,0,13 Yard Pass,(4:19) (Shotgun) D.Carr pass short middle to J.Jacobs to CIN 17 for 13 yards (G.Pratt).,1st & 10 at CIN 30
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,3,LV,1,12,0,7 Yard Pass,(3:51) (Shotgun) D.Carr pass short right to Z.Jones ran ob at CIN 10 for 7 yards (E.Apple).,1st & 10 at CIN 17
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,3,LV,1,13,0,Pass Incomplete,(3:47) (Shotgun) D.Carr pass incomplete short right.,2nd & 3 at CIN 10
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,3,LV,1,14,0,Pass Incomplete,(3:42) (Shotgun) D.Carr pass incomplete short right to D.Waller (S.Hubbard).,3rd & 3 at CIN 10
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,3,LV,1,15,1,Field Goal,"(3:37) D.Carlson 28 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",4th & 3 at CIN 10
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,4,CIN,0,1,0,Kickoff,D.Carlson kicks 64 yards from LV 35 to CIN 1. C.Evans to CIN 26 for 25 yards (C.Littleton).,Kickoff from LV 35
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,4,CIN,0,2,0,-2 Yard Run,"(3:29) J.Mixon left tackle to CIN 24 for -2 yards (M.Crosby, C.Nassib).",1st & 10 at CIN 26
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,4,CIN,0,3,0,1 Yard Run,(2:43) J.Chase right end to CIN 25 for 1 yard (D.Trufant; M.Crosby).,2nd & 12 at CIN 24
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,4,CIN,0,4,0,7 Yard Pass,(2:35) (Shotgun) J.Burrow pass short left to C.Uzomah to CIN 32 for 7 yards (N.Hobbs; K.Wright).,3rd & 11 at CIN 25
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,4,CIN,0,5,0,Punt,"(2:00) K.Huber punts 33 yards to LV 35, Center-C.Harris, downed by CIN-Mi.Thomas.",4th & 4 at CIN 32
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,5,LV,0,1,0,30 Yard Pass,"(1:51) (Shotgun) D.Carr pass short left to J.Jacobs pushed ob at 50 for 15 yards (T.Flowers).
+PENALTY on CIN-K.Kareem, Roughing the Passer, 15 yards, enforced at 50.",1st & 10 at LV 35
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,5,LV,0,2,0,Pass Incomplete,(1:44) (Shotgun) D.Carr pass incomplete short middle to D.Waller.,1st & 10 at CIN 35
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,5,LV,0,3,0,-7 Yard Sack,(1:39) (Shotgun) D.Carr sacked at CIN 42 for -7 yards (B.Hill).,2nd & 10 at CIN 35
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,5,LV,0,4,0,23 Yard Pass,"(1:16) (No Huddle, Shotgun) D.Carr pass deep middle to D.Waller to CIN 19 for 23 yards (T.Flowers).",3rd & 17 at CIN 42
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,5,LV,0,5,0,Pass Incomplete,"(:56) (No Huddle, Shotgun) D.Carr pass incomplete short right to J.Jacobs (L.Wilson).",1st & 10 at CIN 19
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,5,LV,0,6,0,Pass Incomplete,(:50) (Shotgun) D.Carr pass incomplete short right to F.Moreau.,2nd & 10 at CIN 19
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,5,LV,0,7,0,10 Yard Pass,(:45) (Shotgun) D.Carr pass short right to Z.Jones to CIN 9 for 10 yards (V.Bell).,3rd & 10 at CIN 19
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,5,LV,0,8,0,Pass Incomplete,(:30) (No Huddle) D.Carr spiked the ball to stop the clock.,1st & 9 at CIN 9
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,5,LV,0,9,0,Pass Incomplete,(:29) (Shotgun) D.Carr pass incomplete short middle to Z.Jones (J.Bates III).,2nd & 9 at CIN 9
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,5,LV,0,10,0,Pass Incomplete,(:25) (Shotgun) D.Carr pass incomplete short left to H.Renfrow.,3rd & 9 at CIN 9
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,5,LV,0,11,0,Interception,(:17) (Shotgun) D.Carr pass short middle intended for Z.Jones INTERCEPTED by G.Pratt at CIN 2. G.Pratt to CIN 4 for 2 yards (Z.Jones).,4th & 9 at CIN 9
+2021,Wild Card Weekend,SAT,01/15,Raiders,Bengals,4TH QUARTER,6,CIN,0,1,0,-1 Yard Run,(:12) J.Burrow kneels to CIN 3 for -1 yards.,1st & 10 at CIN 4
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,1,BUF,1,1,0,Kickoff,J.Bailey kicks 50 yards from NE 35 to BUF 15. I.McKenzie to BUF 30 for 15 yards (B.King).,Kickoff from NE 35
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,1,BUF,1,2,0,9 Yard Pass,(14:53) (Shotgun) J.Allen pass short middle to S.Diggs to BUF 39 for 9 yards (J.Bentley).,1st & 10 at BUF 30
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,1,BUF,1,3,0,4 Yard Run,"(14:19) (Shotgun) D.Singletary right guard to BUF 43 for 4 yards (L.Guy, D.McCourty).",2nd & 1 at BUF 39
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,1,BUF,1,4,0,Pass for No Gain,(13:29) (Shotgun) J.Allen pass short right to D.Singletary pushed ob at BUF 43 for no gain (J.Jackson).,1st & 10 at BUF 43
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,1,BUF,1,5,0,26 Yard Run,(12:52) (Shotgun) J.Allen scrambles left end ran ob at NE 31 for 26 yards (D.McCourty).,2nd & 10 at BUF 43
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,1,BUF,1,6,0,Pass Incomplete,"(12:07) (Shotgun) J.Allen pass incomplete short middle to E.Sanders. Underthrown, pressure on QB: 93-L.Guy.",1st & 10 at NE 31
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,1,BUF,1,7,0,7 Yard Pass,(12:01) (Shotgun) J.Allen pass short right to I.McKenzie pushed ob at NE 24 for 7 yards (J.Williams).,2nd & 10 at NE 31
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,1,BUF,1,8,0,15 Yard Run,(11:18) (Shotgun) J.Allen right end pushed ob at NE 9 for 15 yards (D.McCourty).,3rd & 3 at NE 24
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,1,BUF,1,9,0,1 Yard Run,"(10:38) (Shotgun) D.Singletary up the middle to NE 8 for 1 yard (M.Judon, L.Guy).",1st & 9 at NE 9
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,1,BUF,1,10,0,Touchdown Bills,"(9:58) (Shotgun) J.Allen pass short right to D.Knox for 8 yards, TOUCHDOWN [M.Judon].",2nd & 8 at NE 8
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,1,BUF,1,11,1,Extra Point Good,"T.Bass extra point is GOOD, Center-R.Ferguson, Holder-M.Haack.",XP attempt from NE 15
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,2,NE,0,1,0,Kickoff,T.Bass kicks 67 yards from BUF 35 to NE -2. G.Olszewski to NE 13 for 15 yards (S.Neal).,Kickoff from BUF 35
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,2,NE,0,2,0,2 Yard Run,"(9:40) (Shotgun) D.Harris right end to NE 15 for 2 yards (D.Jackson, Ta.Johnson).",1st & 10 at NE 13
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,2,NE,0,3,0,9 Yard Pass,(9:05) (Shotgun) M.Jones pass short left to K.Bourne pushed ob at NE 24 for 9 yards (L.Wallace) [T.Edmunds].,2nd & 8 at NE 15
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,2,NE,0,4,0,-5 Yard Penalty,"(8:30) M.Onwenu reported in as eligible.  PENALTY on NE-Jak.Johnson, False Start, 5 yards, enforced at NE 24 - No Play.",1st & 10 at NE 24
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,2,NE,0,5,0,1 Yard Run,"(8:12) D.Harris right end to NE 20 for 1 yard (H.Phillips, A.Klein).",1st & 15 at NE 19
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,2,NE,0,6,0,Pass Incomplete,(7:29) (Shotgun) M.Jones pass incomplete short left to K.Bourne.,2nd & 14 at NE 20
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,2,NE,0,7,0,30 Yard Pass,(7:24) (Shotgun) M.Jones pass deep right to H.Henry pushed ob at 50 for 30 yards (D.Jackson).,3rd & 14 at NE 20
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,2,NE,0,8,0,Pass Incomplete,(6:38) (Shotgun) M.Jones pass incomplete deep right to B.Bolden.,1st & 10 at 50
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,2,NE,0,9,0,Pass Incomplete,(6:32) M.Jones pass incomplete short right to J.Meyers.,2nd & 10 at 50
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,2,NE,0,10,0,16 Yard Run,(6:28) (Shotgun) M.Jones scrambles right tackle ran ob at BUF 34 for 16 yards (E.Oliver).,3rd & 10 at 50
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,2,NE,0,11,0,Interception,(5:48) (Shotgun) M.Jones pass deep left intended for N.Agholor INTERCEPTED by M.Hyde at BUF -2. Touchback.,1st & 10 at BUF 34
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,3,BUF,1,1,0,24 Yard Pass,(5:40) (Shotgun) J.Allen pass deep left to D.Knox to BUF 44 for 24 yards (J.Bentley).,1st & 10 at BUF 20
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,3,BUF,1,2,0,2 Yard Pass,(4:58) (Shotgun) J.Allen pass short right to E.Sanders to BUF 46 for 2 yards (M.Bryant).,1st & 10 at BUF 44
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,3,BUF,1,3,0,7 Yard Run,(4:17) (Shotgun) I.McKenzie left end pushed ob at NE 47 for 7 yards (J.Williams).,2nd & 8 at BUF 46
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,3,BUF,1,4,0,6 Yard Run,(3:41) (Shotgun) T.Doyle reported in as eligible.  D.Singletary right guard to NE 41 for 6 yards (K.Van Noy; D.McCourty).,3rd & 1 at NE 47
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,3,BUF,1,5,0,Pass Incomplete,(3:01) J.Allen pass incomplete short right to D.Singletary (L.Guy). Pass deflected at line.,1st & 10 at NE 41
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,3,BUF,1,6,0,19 Yard Pass,(2:57) J.Allen pass deep left to I.McKenzie to NE 22 for 19 yards (M.Bryant).,2nd & 10 at NE 41
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,3,BUF,1,7,0,Pass Incomplete,(2:10) (Shotgun) J.Allen pass incomplete short right to S.Diggs.,1st & 10 at NE 22
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,3,BUF,1,8,0,6 Yard Pass,(2:07) (Shotgun) J.Allen pass short right to S.Diggs pushed ob at NE 16 for 6 yards (J.Jackson).,2nd & 10 at NE 22
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,3,BUF,1,9,0,5 Yard Run,(1:24) (Shotgun) J.Allen up the middle to NE 11 for 5 yards (C.Barmore).,3rd & 4 at NE 16
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,3,BUF,1,10,0,Touchdown Bills,"(:45) (Shotgun) J.Allen pass short middle to D.Knox for 11 yards, TOUCHDOWN.",1st & 10 at NE 11
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,1ST QUARTER,3,BUF,1,11,1,Extra Point Good,"T.Bass extra point is GOOD, Center-R.Ferguson, Holder-M.Haack.",XP attempt from NE 15
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,1,NE,0,1,0,Kickoff,"T.Bass kicks 65 yards from BUF 35 to end zone, Touchback. 80-G.Olszewski kneels 2 yds into end zone.",Kickoff from BUF 35
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,1,NE,0,2,0,5 Yard Run,"(:40) D.Harris right guard to NE 30 for 5 yards (J.Poyer, T.Edmunds).",1st & 10 at NE 25
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,1,NE,0,3,0,2 Yard Run,(15:00) M.Onwenu reported in as eligible.  D.Harris right end to NE 32 for 2 yards (T.Edmunds).,2nd & 5 at NE 30
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,1,NE,0,4,0,2 Yard Run,(14:19) D.Harris left end pushed ob at NE 34 for 2 yards (M.Addison).,3rd & 3 at NE 32
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,1,NE,0,5,0,Punt,"(13:31) J.Bailey punts 47 yards to BUF 19, Center-J.Cardona, fair catch by M.Hyde.",4th & 1 at NE 34
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,2,BUF,1,1,0,Pass Incomplete,(13:23) (Shotgun) J.Allen pass incomplete short left to G.Davis.,1st & 10 at BUF 19
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,2,BUF,1,2,0,9 Yard Run,(13:19) (Shotgun) D.Singletary left end to BUF 28 for 9 yards (D.Wise).,2nd & 10 at BUF 19
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,2,BUF,1,3,0,3 Yard Run,"(12:37) T.Doyle reported in as eligible.  D.Singletary left end to BUF 31 for 3 yards (J.Williams, A.Phillips).",3rd & 1 at BUF 28
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,2,BUF,1,4,0,5 Yard Penalty,"(11:50) J.Allen pass short middle to D.Singletary to BUF 36 for 5 yards (A.Phillips, K.Van Noy).
+PENALTY on NE-D.Hightower, Illegal Contact, 5 yards, enforced at BUF 31 - No Play.",1st & 10 at BUF 31
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,2,BUF,1,5,0,22 Yard Pass,(11:28) (Shotgun) J.Allen pass deep right to G.Davis to NE 42 for 22 yards (J.Williams).,1st & 10 at BUF 36
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,2,BUF,1,6,0,8 Yard Run,(10:42) J.Allen scrambles left end to NE 34 for 8 yards (D.McCourty).,1st & 10 at NE 42
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,2,BUF,1,7,0,17 Yard Run,"(9:56) D.Singletary right guard to NE 32 for 2 yards (D.Hightower).
+PENALTY on NE-D.Ekuale, Face Mask (15 Yards), 15 yards, enforced at NE 32.",2nd & 2 at NE 34
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,2,BUF,1,8,0,4 Yard Run,(9:23) (Shotgun) D.Singletary right tackle to NE 13 for 4 yards (D.Ross; C.Barmore).,1st & 10 at NE 17
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,2,BUF,1,9,0,9 Yard Run,"(8:47) (Shotgun) D.Singletary right tackle to NE 4 for 9 yards (D.McCourty, K.Dugger).",2nd & 6 at NE 13
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,2,BUF,1,10,0,1 Yard Run,(8:06) (Shotgun) T.Doyle reported in as eligible.  D.Singletary right guard to NE 3 for 1 yard (D.Wise).,1st & 4 at NE 4
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,2,BUF,1,11,0,Touchdown Bills,"(7:24) (Shotgun) D.Singletary left tackle for 3 yards, TOUCHDOWN.
+The Replay Official reviewed the runner broke the plane ruling, and the play was Upheld. The ruling on the field stands.",2nd & 3 at NE 3
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,2,BUF,1,12,1,Extra Point No Good,"T.Bass extra point is Blocked (D.Wise), Center-R.Ferguson, Holder-M.Haack. Kick went back through end zone, no recovery.",XP attempt from NE 15
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,3,NE,0,1,0,Kickoff,"T.Bass kicks 60 yards from BUF 35 to NE 5. G.Olszewski to NE 21 for 16 yards (T.Matakevich, J.Kumerow).",Kickoff from BUF 35
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,3,NE,0,2,0,4 Yard Pass,(7:14) (Shotgun) M.Jones pass short left to R.Stevenson to NE 25 for 4 yards (L.Wallace).,1st & 10 at NE 21
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,3,NE,0,3,0,Pass Incomplete,(6:32) (Shotgun) M.Jones pass incomplete deep left to H.Henry.,2nd & 6 at NE 25
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,3,NE,0,4,0,22 Yard Penalty,"(6:26) (Shotgun) M.Jones pass incomplete deep left to N.Agholor.
+PENALTY on BUF-L.Wallace, Defensive Pass Interference, 22 yards, enforced at NE 25 - No Play.",3rd & 6 at NE 25
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,3,NE,0,5,0,3 Yard Run,(6:20) M.Onwenu reported in as eligible.  R.Stevenson left tackle to 50 for 3 yards (A.Klein).,1st & 10 at NE 47
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,3,NE,0,6,0,-8 Yard Sack,(5:38) (Shotgun) M.Jones sacked at NE 42 for -8 yards (S.Lotulelei).,2nd & 7 at 50
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,3,NE,0,7,0,-5 Yard Penalty,"(4:49) (Shotgun) PENALTY on NE, Delay of Game, 5 yards, enforced at NE 42 - No Play.",3rd & 15 at NE 42
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,3,NE,0,8,0,12 Yard Pass,(4:32) (Shotgun) M.Jones pass short middle to B.Bolden to NE 49 for 12 yards (Ta.Johnson).,3rd & 20 at NE 37
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,3,NE,0,9,0,Punt,"(3:53) J.Bailey punts 42 yards to BUF 9, Center-J.Cardona. M.Hyde pushed ob at BUF 11 for 2 yards (M.Slater).",4th & 8 at NE 49
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,4,BUF,1,1,0,19 Yard Pass,(3:44) (Shotgun) J.Allen pass short right to I.McKenzie pushed ob at BUF 30 for 19 yards (J.Jackson).,1st & 10 at BUF 11
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,4,BUF,1,2,0,45 Yard Pass,(3:08) (Shotgun) J.Allen pass deep right to S.Diggs pushed ob at NE 25 for 45 yards (J.Jackson).,1st & 10 at BUF 30
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,4,BUF,1,3,0,9 Yard Run,(2:24) J.Allen scrambles left end to NE 16 for 9 yards (J.Collins).,1st & 10 at NE 25
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,4,BUF,1,4,0,Touchdown Bills,"(2:00) D.Singletary right tackle for 16 yards, TOUCHDOWN. Key blocks: R.Gilliam, I.McKenzie.",2nd & 1 at NE 16
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,4,BUF,1,5,1,Extra Point Good,"T.Bass extra point is GOOD, Center-R.Ferguson, Holder-M.Haack.",XP attempt from NE 15
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,5,NE,1,1,0,Kickoff,"T.Bass kicks 65 yards from BUF 35 to end zone, Touchback. Kick stops 8 yds into end zone.",Kickoff from BUF 35
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,5,NE,1,2,0,10 Yard Pass,(1:53) (Shotgun) M.Jones pass short left to K.Bourne ran ob at NE 35 for 10 yards.,1st & 10 at NE 25
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,5,NE,1,3,0,2 Yard Pass,"(1:47) (No Huddle, Shotgun) M.Jones pass short left to B.Bolden to NE 37 for 2 yards (M.Milano).",1st & 10 at NE 35
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,5,NE,1,4,0,5 Yard Pass,"(1:27) (No Huddle, Shotgun) M.Jones pass short right to B.Bolden to NE 42 for 5 yards (Ta.Johnson, M.Hyde).",2nd & 8 at NE 37
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,5,NE,1,5,0,8 Yard Pass,"(1:04) (No Huddle, Shotgun) M.Jones pass short right to B.Bolden pushed ob at 50 for 8 yards (T.Edmunds).",3rd & 3 at NE 42
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,5,NE,1,6,0,2 Yard Run,"(:57) (No Huddle, Shotgun) M.Jones scrambles left guard to BUF 48 for 2 yards (T.Edmunds).",1st & 10 at 50
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,5,NE,1,7,0,-4 Yard Sack,(:38) (No Huddle) M.Jones sacked at NE 48 for -4 yards (J.Hughes).,2nd & 8 at BUF 48
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,5,NE,1,8,0,7 Yard Pass,(:30) (Shotgun) M.Jones pass short middle to J.Meyers to BUF 45 for 7 yards (T.Edmunds).,3rd & 12 at NE 48
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,5,NE,1,9,0,19 Yard Pass,(:22) (Shotgun) M.Jones pass deep right to J.Meyers to BUF 26 for 19 yards (Ta.Johnson).,4th & 5 at BUF 45
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,5,NE,1,10,0,Pass Incomplete,(:07) (No Huddle) M.Jones spiked the ball to stop the clock.,1st & 10 at BUF 26
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,5,NE,1,11,1,Field Goal,"(:06) N.Folk 44 yard field goal is GOOD, Center-J.Cardona, Holder-J.Bailey.",2nd & 10 at BUF 26
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,2ND QUARTER,6,BUF,0,1,0,Kickoff,N.Folk kicks 58 yards from NE 35 to BUF 7. I.McKenzie to BUF 12 for 5 yards.,Kickoff from NE 35
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,1,NE,0,1,0,Kickoff,"T.Bass kicks 62 yards from BUF 35 to NE 3. G.Olszewski to NE 24 for 21 yards (T.Dodson, Jaq.Johnson).",Kickoff from BUF 35
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,1,NE,0,2,0,3 Yard Run,(14:54) (Shotgun) D.Harris right guard to NE 27 for 3 yards (M.Milano).,1st & 10 at NE 24
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,1,NE,0,3,0,10 Yard Pass,(14:14) M.Jones pass short middle to R.Stevenson to NE 37 for 10 yards (T.Edmunds) [M.Milano].,2nd & 7 at NE 27
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,1,NE,0,4,0,14 Yard Run,(13:37) (Shotgun) D.Harris left guard to BUF 49 for 14 yards (M.Milano).,1st & 10 at NE 37
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,1,NE,0,5,0,Interception,(12:58) M.Jones pass short left intended for H.Henry INTERCEPTED by L.Wallace (M.Milano) at BUF 42. L.Wallace to BUF 42 for no gain.,1st & 10 at BUF 49
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,2,BUF,1,1,0,2 Yard Run,"(12:53) T.Doyle reported in as eligible.  D.Singletary right guard to BUF 44 for 2 yards (D.Godchaux, L.Guy).",1st & 10 at BUF 42
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,2,BUF,1,2,0,4 Yard Pass,"(12:12) (Shotgun) J.Allen pass short left to R.Gilliam to BUF 48 for 4 yards (K.Dugger, A.Phillips).",2nd & 8 at BUF 44
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,2,BUF,1,3,0,9 Yard Pass,"(11:29) (Shotgun) J.Allen pass short left to D.Singletary to NE 43 for 9 yards (J.Williams, K.Van Noy).",3rd & 4 at BUF 48
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,2,BUF,1,4,0,4 Yard Pass,(10:44) (Shotgun) J.Allen pass short left to D.Singletary to NE 39 for 4 yards (D.McCourty).,1st & 10 at NE 43
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,2,BUF,1,5,0,15 Yard Run,(10:04) (Shotgun) I.McKenzie right end pushed ob at NE 24 for 15 yards (D.McCourty).,2nd & 6 at NE 39
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,2,BUF,1,6,0,-10 Yard Penalty,"(9:19) (Shotgun) J.Allen pass short left to C.Beasley to NE 17 for 7 yards (D.Hightower).
+PENALTY on BUF-D.Knox, Offensive Pass Interference, 10 yards, enforced at NE 24 - No Play.",1st & 10 at NE 24
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,2,BUF,1,7,0,Touchdown Bills,"(8:56) (Shotgun) J.Allen pass deep left to E.Sanders for 34 yards, TOUCHDOWN.",1st & 20 at NE 34
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,2,BUF,1,8,1,Extra Point No Good,"T.Bass extra point is Blocked (L.Guy), Center-R.Ferguson, Holder-M.Haack. Kick traveled wide left after block.",XP attempt from NE 15
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,3,NE,1,1,0,Kickoff,"T.Bass kicks 65 yards from BUF 35 to end zone, Touchback. Kick through end zone.",Kickoff from BUF 35
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,3,NE,1,2,0,7 Yard Pass,(8:48) M.Jones pass short middle to D.Harris to NE 32 for 7 yards (T.Edmunds).,1st & 10 at NE 25
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,3,NE,1,3,0,1 Yard Pass,(8:15) (Shotgun) M.Jones pass short left to J.Meyers to NE 33 for 1 yard (Ta.Johnson).,2nd & 3 at NE 32
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,3,NE,1,4,0,-4 Yard Penalty,"(7:51) PENALTY on NE, Offensive Too Many Men on Field, 4 yards, enforced at NE 33 - No Play.",3rd & 2 at NE 33
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,3,NE,1,5,0,43 Yard Pass,(7:36) (Shotgun) M.Jones pass deep right to K.Bourne to BUF 28 for 43 yards (J.Poyer).,3rd & 6 at NE 29
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,3,NE,1,6,0,14 Yard Run,"(6:54) (Shotgun) K.Bourne left end to BUF 14 for 14 yards (M.Hyde; L.Wallace). BUF-M.Addison was injured during the play. His return is Questionable.  Reverse, handoff from B.Bolden after orginal handoff from M.Jones. M.Addison walks off.",1st & 10 at BUF 28
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,3,NE,1,7,0,Pass Incomplete,(6:30) (Shotgun) M.Jones pass incomplete short left to B.Bolden (A.Epenesa).,1st & 10 at BUF 14
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,3,NE,1,8,0,4 Yard Pass,(6:25) (Shotgun) M.Jones pass short left to R.Stevenson to BUF 10 for 4 yards (M.Milano).,2nd & 10 at BUF 14
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,3,NE,1,9,0,7 Yard Pass,"(5:41) (Shotgun) M.Jones pass short left to J.Meyers pushed ob at BUF 3 for 7 yards (L.Wallace, M.Milano).",3rd & 6 at BUF 10
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,3,NE,1,10,0,Run for No Gain,(5:05) M.Onwenu reported in as eligible.  D.Harris right end to BUF 3 for no gain (G.Rousseau; A.Klein).,1st & 3 at BUF 3
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,3,NE,1,11,0,Pass Incomplete,"(4:27) M.Jones pass incomplete short middle. Thrown away, under pressure from 49-T.Edmunds.",2nd & 3 at BUF 3
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,3,NE,1,12,0,Pass Incomplete,(4:21) (Shotgun) M.Jones pass incomplete short middle to J.Meyers.,3rd & 3 at BUF 3
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,3,NE,1,13,0,Touchdown Patriots,"(4:16) (Shotgun) M.Jones pass short left to K.Bourne for 3 yards, TOUCHDOWN.",4th & 3 at BUF 3
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,3RD QUARTER,3,NE,1,14,1,Extra Point Good,"N.Folk extra point is GOOD, Center-J.Cardona, Holder-J.Bailey.",XP attempt from BUF 15
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,1,BUF,1,1,0,Kickoff,J.Bailey kicks 57 yards from NE 35 to BUF 8. I.McKenzie to BUF 23 for 15 yards (G.Olszewski).,Kickoff from NE 35
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,1,BUF,1,2,0,10 Yard Run,(4:05) (Shotgun) D.Singletary up the middle to BUF 33 for 10 yards (D.Hightower).,1st & 10 at BUF 23
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,1,BUF,1,3,0,8 Yard Pass,(3:25) (Shotgun) J.Allen pass short right to D.Knox to BUF 41 for 8 yards (A.Phillips).,1st & 10 at BUF 33
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,1,BUF,1,4,0,1 Yard Run,(2:40) D.Singletary right tackle to BUF 42 for 1 yard (A.Phillips).,2nd & 2 at BUF 41
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,1,BUF,1,5,0,3 Yard Run,(1:53) T.Doyle reported in as eligible.  J.Allen up the middle to BUF 45 for 3 yards (K.Van Noy).,3rd & 1 at BUF 42
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,1,BUF,1,6,0,19 Yard Pass,(1:14) (Shotgun) J.Allen pass short middle to C.Beasley to NE 36 for 19 yards (K.Dugger). Thrown under pressure from M.Bryant.,1st & 10 at BUF 45
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,1,BUF,1,7,0,7 Yard Run,(:30) (Shotgun) I.McKenzie right end ran ob at NE 29 for 7 yards (A.Phillips; J.Jackson). Backward pass.,1st & 10 at NE 36
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,1,BUF,1,8,0,6 Yard Run,(15:00) D.Singletary left end to NE 23 for 6 yards (A.Phillips).,2nd & 3 at NE 29
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,1,BUF,1,9,0,4 Yard Run,(14:14) (Shotgun) D.Singletary left tackle to NE 19 for 4 yards (D.Ekuale; L.Guy).,1st & 10 at NE 23
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,1,BUF,1,10,0,Touchdown Bills,"(13:27) (Shotgun) J.Allen pass deep middle to G.Davis for 19 yards, TOUCHDOWN.",2nd & 6 at NE 19
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,1,BUF,1,11,1,Extra Point Good,"T.Bass extra point is GOOD, Center-R.Ferguson, Holder-M.Haack.",XP attempt from NE 15
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,2,NE,0,1,0,Kickoff,T.Bass kicks 66 yards from BUF 35 to NE -1. G.Olszewski to NE 24 for 25 yards (Jaq.Johnson; T.Dodson).,Kickoff from BUF 35
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,2,NE,0,2,0,Run for No Gain,(13:15) M.Onwenu reported in as eligible.  R.Stevenson right tackle to NE 24 for no gain (G.Rousseau).,1st & 10 at NE 24
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,2,NE,0,3,0,15 Yard Pass,(12:40) (Shotgun) M.Jones pass short left to R.Stevenson to NE 39 for 15 yards (H.Phillips).,2nd & 10 at NE 24
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,2,NE,0,4,0,Pass Incomplete,(12:03) M.Jones pass incomplete short right to Jak.Johnson. Pressure on QB: G.Rousseau.,1st & 10 at NE 39
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,2,NE,0,5,0,3 Yard Pass,"(11:56) (Shotgun) M.Jones pass short left to J.Meyers to NE 42 for 3 yards (L.Wallace, T.Edmunds).",2nd & 10 at NE 39
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,2,NE,0,6,0,-4 Yard Sack,(11:13) (Shotgun) M.Jones sacked at NE 38 for -4 yards (C.Basham).,3rd & 7 at NE 42
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,2,NE,0,7,0,Punt,"(10:32) J.Bailey punts 53 yards to BUF 9, Center-J.Cardona. M.Hyde to NE 39 for 52 yards (M.Slater).",4th & 11 at NE 38
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,3,BUF,1,1,0,38 Yard Pass,(10:13) J.Allen pass deep right to D.Knox to NE 1 for 38 yards (J.Jackson).,1st & 10 at NE 39
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,3,BUF,1,2,0,Run for No Gain,"(9:23) T.Doyle and J.Feliciano reported in as eligible.  Z.Moss up the middle to NE 1 for no gain (K.Dugger, D.Hightower).",1st & 1 at NE 1
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,3,BUF,1,3,0,Touchdown Bills,"(8:41) T.Doyle reported in as eligible.  J.Allen pass short left to T.Doyle for 1 yard, TOUCHDOWN.",2nd & 1 at NE 1
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,3,BUF,1,4,1,Extra Point Good,"T.Bass extra point is GOOD, Center-R.Ferguson, Holder-M.Haack. Kick hits left upright before going through.",XP attempt from NE 15
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,4,NE,1,1,0,Kickoff,T.Bass kicks 64 yards from BUF 35 to NE 1. G.Olszewski to NE 27 for 26 yards (T.Jones).,Kickoff from BUF 35
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,4,NE,1,2,0,1 Yard Run,(8:31) D.Harris up the middle to NE 28 for 1 yard (C.Basham).,1st & 10 at NE 27
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,4,NE,1,3,0,8 Yard Run,(7:58) R.Stevenson left end pushed ob at NE 36 for 8 yards (D.Jackson).,2nd & 9 at NE 28
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,4,NE,1,4,0,2 Yard Run,"(7:20) (Shotgun) R.Stevenson up the middle to NE 38 for 2 yards (Jaq.Johnson, C.Lewis).",3rd & 1 at NE 36
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,4,NE,1,5,0,Pass Incomplete,(6:47) M.Jones pass incomplete short middle.,1st & 10 at NE 38
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,4,NE,1,6,0,6 Yard Pass,"(6:42) (Shotgun) M.Jones pass short left to K.Bourne to NE 44 for 6 yards (T.Matakevich, Jaq.Johnson).",2nd & 10 at NE 38
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,4,NE,1,7,0,2 Yard Pass,(6:02) (Shotgun) M.Jones pass short left to K.Bourne to NE 46 for 2 yards (S.Neal).,3rd & 4 at NE 44
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,4,NE,1,8,0,18 Yard Pass,"(5:19) (Shotgun) M.Jones pass short right to J.Meyers to NE 49 for 3 yards (Jaq.Johnson, C.Lewis).
+PENALTY on BUF-A.Epenesa, Roughing the Passer, 15 yards, enforced at NE 49.",4th & 2 at NE 46
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,4,NE,1,9,0,7 Yard Run,(4:44) (Shotgun) R.Stevenson left tackle to BUF 29 for 7 yards (C.Lewis; A.Klein).,1st & 10 at BUF 36
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,4,NE,1,10,0,1 Yard Run,(4:11) (Shotgun) R.Stevenson up the middle to BUF 28 for 1 yard (E.Oliver).,2nd & 3 at BUF 29
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,4,NE,1,11,0,5 Yard Run,"(3:32) M.Onwenu reported in as eligible.  R.Stevenson left end to BUF 23 for 5 yards (H.Phillips, S.Neal).",3rd & 2 at BUF 28
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,4,NE,1,12,0,18 Yard Pass,"(2:51) M.Jones pass short left to N.Agholor to BUF 5 for 18 yards (Jaq.Johnson, C.Basham).",1st & 10 at BUF 23
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,4,NE,1,13,0,1 Yard Run,"(2:11) R.Stevenson right guard to BUF 4 for 1 yard (D.Hamlin, T.Matakevich).",1st & 5 at BUF 5
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,4,NE,1,14,0,Pass Incomplete,(2:00) M.Jones pass incomplete short left to J.Meyers.,2nd & 4 at BUF 4
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,4,NE,1,15,0,Pass Incomplete,(1:55) (Shotgun) M.Jones pass incomplete short left to H.Henry.,3rd & 4 at BUF 4
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,4,NE,1,16,0,Touchdown Patriots,"(1:49) (Shotgun) M.Jones pass short left to K.Bourne for 4 yards, TOUCHDOWN.",4th & 4 at BUF 4
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,4,NE,1,17,1,Extra Point Good,"N.Folk extra point is GOOD, Center-J.Cardona, Holder-J.Bailey.",XP attempt from BUF 15
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,5,BUF,0,1,0,Kickoff,N.Folk kicks 42 yards from NE 35 to BUF 23. I.McKenzie (didn't try to advance) to BUF 23 for no gain.,Kickoff from NE 35
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,5,BUF,0,2,0,Run for No Gain,(1:42) 10-M.Trubisky in at QB. T.Doyle and C.Ford reported in as eligible.  M.Trubisky kneels to BUF 23 for no gain.,1st & 10 at BUF 23
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,5,BUF,0,3,0,-1 Yard Run,(1:02) M.Trubisky kneels to BUF 22 for -1 yards.,2nd & 10 at BUF 23
+2021,Wild Card Weekend,SAT,01/15,Patriots,Bills,4TH QUARTER,5,BUF,0,4,0,-1 Yard Run,(:31) M.Trubisky kneels to BUF 21 for -1 yards.,3rd & 11 at BUF 22
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,1,TB,1,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.",Kickoff from PHI 35
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,1,TB,1,2,0,17 Yard Run,(15:00) K.Vaughn up the middle to TB 42 for 17 yards (A.Singleton; A.Harris).,1st & 10 at TB 25
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,1,TB,1,3,0,Pass Incomplete,"(14:32) (No Huddle, Shotgun) T.Brady pass incomplete short left to G.Bernard.",1st & 10 at TB 42
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,1,TB,1,4,0,15 Yard Penalty,"(14:28) (No Huddle, Shotgun) T.Brady pass incomplete short right to B.Perriman.
+PENALTY on PHI-D.Barnett, Roughing the Passer, 15 yards, enforced at TB 42 - No Play.",2nd & 10 at TB 42
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,1,TB,1,5,0,3 Yard Run,(14:24) (Shotgun) K.Vaughn left guard to PHI 40 for 3 yards (J.Hargrave; A.Singleton).,1st & 10 at PHI 43
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,1,TB,1,6,0,Pass Incomplete,"(14:00) (No Huddle, Shotgun) T.Brady pass incomplete short right to B.Perriman. TB-T.Wirfs was injured during the play.",2nd & 7 at PHI 40
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,1,TB,1,7,0,8 Yard Pass,(13:56) (Shotgun) T.Brady pass short right to M.Evans to PHI 32 for 8 yards (T.Edwards).,3rd & 7 at PHI 40
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,1,TB,1,8,0,2 Yard Pass,"(13:28) (No Huddle, Shotgun) T.Brady pass short left to M.Evans to PHI 30 for 2 yards (A.Maddox).",1st & 10 at PHI 32
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,1,TB,1,9,0,6 Yard Pass,"(13:06) (No Huddle, Shotgun) T.Brady pass short middle to G.Bernard to PHI 24 for 6 yards (A.Singleton).",2nd & 8 at PHI 30
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,1,TB,1,10,0,9 Yard Pass,"(12:46) (No Huddle, Shotgun) T.Brady pass short left to G.Bernard pushed ob at PHI 15 for 9 yards (D.Slay).",3rd & 2 at PHI 24
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,1,TB,1,11,0,3 Yard Pass,(12:09) (Shotgun) T.Brady pass short middle to O.Howard to PHI 12 for 3 yards (T.Edwards).,1st & 10 at PHI 15
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,1,TB,1,12,0,8 Yard Pass,(11:33) (Shotgun) T.Brady pass short left to C.Brate to PHI 4 for 8 yards (A.Harris).,2nd & 7 at PHI 12
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,1,TB,1,13,0,2 Yard Run,(10:49) K.Vaughn right guard to PHI 2 for 2 yards (M.Williams; G.Avery).,1st & 4 at PHI 4
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,1,TB,1,14,0,Touchdown Buccaneers,"(10:05) G.Bernard right guard for 2 yards, TOUCHDOWN.",2nd & 2 at PHI 2
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,1,TB,1,15,1,Extra Point Good,"R.Succop extra point is GOOD, Center-Z.Triner, Holder-B.Pinion.",XP attempt from PHI 15
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,2,PHI,0,1,0,Kickoff,"B.Pinion kicks 65 yards from TB 35 to end zone, Touchback.",Kickoff from TB 35
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,2,PHI,0,2,0,7 Yard Run,(10:00) M.Sanders right end to PHI 32 for 7 yards (M.Edwards).,1st & 10 at PHI 25
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,2,PHI,0,3,0,1 Yard Pass,(9:21) (Shotgun) J.Hurts pass short left to B.Scott to PHI 33 for 1 yard (D.White).,2nd & 3 at PHI 32
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,2,PHI,0,4,0,-3 Yard Run,"(8:40) (Shotgun) J.Hurts left end to PHI 30 for -3 yards (J.Whitehead, D.White).",3rd & 2 at PHI 33
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,2,PHI,0,5,0,Punt,"(8:07) A.Siposs punts 27 yards to TB 43, Center-R.Lovato, out of bounds.",4th & 5 at PHI 30
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,3,TB,0,1,0,2 Yard Run,(8:00) (Shotgun) K.Vaughn left guard to TB 45 for 2 yards (A.Singleton; D.Barnett).,1st & 10 at TB 43
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,3,TB,0,2,0,5 Yard Pass,"(7:36) (No Huddle, Shotgun) T.Brady pass short right to B.Perriman to 50 for 5 yards (T.Edwards).",2nd & 8 at TB 45
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,3,TB,0,3,0,Pass Incomplete,"(7:09) (No Huddle, Shotgun) T.Brady pass incomplete short middle to T.Johnson.",3rd & 3 at 50
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,3,TB,0,4,0,Punt,"(7:06) B.Pinion punts 31 yards to PHI 19, Center-Z.Triner, fair catch by J.Reagor.",4th & 3 at 50
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,4,PHI,0,1,0,9 Yard Run,(6:59) (Shotgun) J.Hurts right end to PHI 28 for 9 yards (J.Whitehead).,1st & 10 at PHI 19
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,4,PHI,0,2,0,5 Yard Penalty,"(6:11) J.Hurts pass incomplete short left.
+PENALTY on TB-J.Pierre-Paul, Defensive Offside, 5 yards, enforced at PHI 28 - No Play.",2nd & 1 at PHI 28
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,4,PHI,0,3,0,-5 Yard Run,(6:06) (Shotgun) M.Sanders right end to PHI 28 for -5 yards (J.Whitehead).,1st & 10 at PHI 33
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,4,PHI,0,4,0,6 Yard Pass,(5:23) (Shotgun) J.Hurts pass short right to M.Sanders pushed ob at PHI 34 for 6 yards (C.Davis).,2nd & 15 at PHI 28
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,4,PHI,0,5,0,Pass Incomplete,(4:41) (Shotgun) J.Hurts pass incomplete short left to J.Reagor (J.Tryon).,3rd & 9 at PHI 34
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,4,PHI,0,6,0,Punt,"(4:34) A.Siposs punts 36 yards to TB 30, Center-R.Lovato. J.Darden to TB 30 for no gain (J.Scott).",4th & 9 at PHI 34
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,5,TB,1,1,0,2 Yard Run,(4:25) K.Vaughn left guard to TB 32 for 2 yards (M.Williams).,1st & 10 at TB 30
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,5,TB,1,2,0,13 Yard Pass,"(4:01) (No Huddle, Shotgun) T.Brady pass short middle to R.Gronkowski to TB 45 for 13 yards (A.Harris).",2nd & 8 at TB 32
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,5,TB,1,3,0,8 Yard Pass,"(3:34) (No Huddle, Shotgun) T.Brady pass short middle to R.Gronkowski to PHI 47 for 8 yards (R.McLeod).",1st & 10 at TB 45
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,5,TB,1,4,0,17 Yard Pass,"(3:08) (No Huddle, Shotgun) T.Brady pass short right to T.Johnson to PHI 30 for 17 yards (R.McLeod, S.Nelson).",2nd & 2 at PHI 47
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,5,TB,1,5,0,Pass Incomplete,"(2:36) (No Huddle, Shotgun) T.Brady pass incomplete deep middle to R.Gronkowski.",1st & 10 at PHI 30
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,5,TB,1,6,0,16 Yard Pass,(2:32) (Shotgun) T.Brady pass short right to M.Evans pushed ob at PHI 14 for 16 yards (A.Maddox; T.Edwards).,2nd & 10 at PHI 30
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,5,TB,1,7,0,8 Yard Pass,"(1:51) (No Huddle, Shotgun) T.Brady pass short left to M.Evans to PHI 6 for 8 yards (A.Maddox, D.Slay).",1st & 10 at PHI 14
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,5,TB,1,8,0,3 Yard Run,"(1:27) (No Huddle) K.Vaughn up the middle to PHI 3 for 3 yards (F.Cox; H.Ridgeway).
+Penalty on PHI, Defensive Too Many Men on Field, declined.
+Penalty on PHI-M.Williams, Defensive Offside, declined.",2nd & 2 at PHI 6
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,5,TB,1,9,0,2 Yard Run,"(1:10) (Shotgun) A.Stinnie reported in as eligible.  K.Vaughn up the middle to PHI 1 for 2 yards (A.Harris, T.Edwards).",1st & 3 at PHI 3
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,5,TB,1,10,0,Touchdown Buccaneers,"(:28) A.Stinnie reported in as eligible.  K.Vaughn left guard for 1 yard, TOUCHDOWN. TB-R.Jensen was injured during the play. His return is Questionable.",2nd & 1 at PHI 1
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,1ST QUARTER,5,TB,1,11,1,Extra Point Good,"R.Succop extra point is GOOD, Center-Z.Triner, Holder-B.Pinion.",XP attempt from PHI 15
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,1,PHI,0,1,0,Kickoff,B.Pinion kicks 55 yards from TB 35 to PHI 10. K.Gainwell to PHI 27 for 17 yards (J.Dean).,Kickoff from TB 35
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,1,PHI,0,2,0,2 Yard Run,(:20) M.Sanders left tackle to PHI 29 for 2 yards (N.Suh; V.Vea).,1st & 10 at PHI 27
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,1,PHI,0,3,0,Pass Incomplete,(15:00) (Shotgun) J.Hurts pass incomplete deep left to D.Goedert.,2nd & 8 at PHI 29
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,1,PHI,0,4,0,-5 Yard Sack,(14:56) (Shotgun) J.Hurts sacked at PHI 24 for -5 yards (A.Winfield).,3rd & 8 at PHI 29
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,1,PHI,0,5,0,Punt,"(14:20) A.Siposs punts 46 yards to TB 30, Center-R.Lovato. J.Darden to TB 31 for 1 yard (P.Johnson).",4th & 13 at PHI 24
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,2,TB,1,1,0,18 Yard Pass,(14:08) T.Brady pass short right to M.Evans pushed ob at TB 49 for 18 yards (D.Slay).,1st & 10 at TB 31
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,2,TB,1,2,0,9 Yard Pass,"(13:39) (No Huddle, Shotgun) T.Brady pass short right to M.Evans to PHI 42 for 9 yards (D.Slay).",1st & 10 at TB 49
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,2,TB,1,3,0,5 Yard Run,"(13:14) (No Huddle, Shotgun) K.Vaughn up the middle to PHI 37 for 5 yards (Ta.Jackson).",2nd & 1 at PHI 42
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,2,TB,1,4,0,8 Yard Pass,"(12:49) (No Huddle, Shotgun) T.Brady pass short left to S.Miller to PHI 29 for 8 yards (S.Nelson).",1st & 10 at PHI 37
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,2,TB,1,5,0,6 Yard Run,"(12:19) (No Huddle, Shotgun) K.Vaughn right tackle to PHI 23 for 6 yards (M.Epps).",2nd & 2 at PHI 29
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,2,TB,1,6,0,5 Yard Pass,"(11:45) (No Huddle, Shotgun) T.Brady pass short left to K.Vaughn to PHI 18 for 5 yards (T.Edwards).",1st & 10 at PHI 23
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,2,TB,1,7,0,13 Yard Pass,"(11:21) (No Huddle, Shotgun) T.Brady pass short middle to T.Johnson to PHI 5 for 13 yards (M.Epps; A.Maddox).",2nd & 5 at PHI 18
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,2,TB,1,8,0,Pass Incomplete,"(10:46) (No Huddle, Shotgun) T.Brady pass incomplete short left to M.Evans (D.Slay).",1st & 5 at PHI 5
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,2,TB,1,9,0,-4 Yard Pass,(10:43) (Shotgun) T.Brady pass short middle to G.Bernard to PHI 9 for -4 yards (R.Kerrigan).,2nd & 5 at PHI 5
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,2,TB,1,10,0,Sack,(10:05) (Shotgun) T.Brady sacked at PHI 16 for -7 yards (sack split by D.Barnett and J.Hargrave).,3rd & 9 at PHI 9
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,2,TB,1,11,1,Field Goal,"(9:20) R.Succop 34 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",4th & 16 at PHI 16
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,3,PHI,0,1,0,Kickoff,B.Pinion kicks 64 yards from TB 35 to PHI 1. K.Gainwell to PHI 17 for 16 yards (G.Stuard; R.Cockrell). PHI-P.Johnson was injured during the play. His return is Questionable.,Kickoff from TB 35
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,3,PHI,0,2,0,11 Yard Run,(9:12) (Shotgun) J.Hurts right end ran ob at PHI 28 for 11 yards (A.Winfield).,1st & 10 at PHI 17
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,3,PHI,0,3,0,Pass for No Gain,(8:35) (Shotgun) J.Hurts pass short left to Q.Watkins to PHI 28 for no gain (J.Dean).,1st & 10 at PHI 28
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,3,PHI,0,4,0,3 Yard Pass,(7:55) (Shotgun) J.Hurts pass short right to K.Gainwell to PHI 31 for 3 yards (C.Davis).,2nd & 10 at PHI 28
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,3,PHI,0,5,0,16 Yard Pass,(7:12) (Shotgun) J.Hurts pass short middle to D.Goedert to PHI 47 for 16 yards (D.White).,3rd & 7 at PHI 31
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,3,PHI,0,6,0,6 Yard Run,"(6:42) (No Huddle, Shotgun) J.Hurts left end ran ob at TB 47 for 6 yards (J.Dean).",1st & 10 at PHI 47
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,3,PHI,0,7,0,Pass Incomplete,"(6:19) (No Huddle, Shotgun) J.Hurts pass incomplete short right to D.Goedert.",2nd & 4 at TB 47
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,3,PHI,0,8,0,Pass Incomplete,(6:15) (Shotgun) J.Hurts pass incomplete deep left to D.Goedert.,3rd & 4 at TB 47
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,3,PHI,0,9,0,10 Yard Pass,(6:09) (Shotgun) J.Hurts pass short left to D.Goedert to TB 37 for 10 yards (L.David).,4th & 4 at TB 47
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,3,PHI,0,10,0,Pass Incomplete,"(5:32) (No Huddle, Shotgun) J.Hurts pass incomplete short left to D.Goedert [A.Nelson].",1st & 10 at TB 37
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,3,PHI,0,11,0,-1 Yard Run,(5:26) (Shotgun) M.Sanders right end to TB 38 for -1 yards (D.White).,2nd & 10 at TB 37
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,3,PHI,0,12,0,1 Yard Pass,(4:40) (Shotgun) J.Hurts pass short left to M.Sanders to TB 37 for 1 yard (A.Winfield; D.White).,3rd & 11 at TB 38
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,3,PHI,0,13,0,Turnover on Downs,"(3:55) (Shotgun) J.Hurts pass incomplete short right to J.Reagor (C.Davis).
+PENALTY on TB-C.Davis, Unsportsmanlike Conduct, 15 yards, enforced between downs.",4th & 10 at TB 37
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,4,TB,0,1,0,-1 Yard Run,"(3:49) (Shotgun) K.Vaughn left guard to TB 21 for -1 yards (F.Cox, A.Harris).",1st & 10 at TB 22
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,4,TB,0,2,0,4 Yard Pass,(3:17) (Shotgun) T.Brady pass short left to K.Vaughn to TB 25 for 4 yards (A.Singleton).,2nd & 11 at TB 21
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,4,TB,0,3,0,Sack,(2:36) (Shotgun) T.Brady sacked at TB 16 for -9 yards (sack split by R.Kerrigan and J.Hargrave).,3rd & 7 at TB 25
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,4,TB,0,4,0,Punt,"(2:31) B.Pinion punts 50 yards to PHI 34, Center-Z.Triner. J.Reagor ran ob at PHI 39 for 5 yards (G.Stuard).",4th & 16 at TB 16
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,5,PHI,0,1,0,0 Yard Pass,"(2:23) (Shotgun) J.Hurts pass short left to D.Goedert pushed ob at TB 29 for 32 yards (J.Dean).
+PENALTY on PHI-J.Kelce, Offensive Holding, 10 yards, enforced at PHI 49.",1st & 10 at PHI 39
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,5,PHI,0,2,0,-10 Yard Penalty,"(2:00) (Shotgun) J.Hurts pass short right to D.Smith to PHI 48 for 9 yards (D.White; A.Winfield).
+PENALTY on PHI-Q.Watkins, Offensive Pass Interference, 10 yards, enforced at PHI 39 - No Play.",1st & 10 at PHI 39
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,5,PHI,0,3,0,Pass Incomplete,(1:54) (Shotgun) J.Hurts pass incomplete deep left to D.Goedert.,1st & 20 at PHI 29
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,5,PHI,0,4,0,9 Yard Run,(1:48) (Shotgun) J.Hurts left end pushed ob at PHI 38 for 9 yards (J.Whitehead).,2nd & 20 at PHI 29
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,5,PHI,0,5,0,35 Yard Pass,(1:43) (Shotgun) J.Hurts pass deep left to Q.Watkins to TB 27 for 35 yards (J.Whitehead) [J.Pierre-Paul].,3rd & 11 at PHI 38
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,5,PHI,0,6,0,6 Yard Pass,"(1:13) (No Huddle, Shotgun) J.Hurts pass short left to D.Smith to TB 21 for 6 yards (J.Dean).",1st & 10 at TB 27
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,5,PHI,0,7,0,Interception,"(:50) (No Huddle, Shotgun) J.Hurts pass deep left intended for D.Smith INTERCEPTED by M.Edwards [D.White] at TB 0. Touchback.",2nd & 4 at TB 21
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,6,TB,0,1,0,5 Yard Run,"(:43) (Shotgun) G.Bernard up the middle to TB 25 for 5 yards (D.Barnett, R.McLeod).",1st & 10 at TB 20
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,6,TB,0,2,0,3 Yard Pass,(:37) (Shotgun) T.Brady pass short right to R.Gronkowski pushed ob at TB 28 for 3 yards (S.Nelson).,2nd & 5 at TB 25
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,6,TB,0,3,0,-8 Yard Sack,(:31) (Shotgun) T.Brady sacked at TB 20 for -8 yards (R.Kerrigan).,3rd & 2 at TB 28
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,6,TB,0,4,0,Punt,"(:27) B.Pinion punts 61 yards to PHI 19, Center-Z.Triner, downed by TB-K.Britt.",4th & 10 at TB 20
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,2ND QUARTER,7,PHI,0,1,0,Pass for No Gain,(:15) (Shotgun) J.Hurts pass short left to K.Gainwell to PHI 19 for no gain (J.Dean).,1st & 10 at PHI 19
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,1,PHI,0,1,0,Kickoff,"B.Pinion kicks 65 yards from TB 35 to end zone, Touchback.",Kickoff from TB 35
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,1,PHI,0,2,0,2 Yard Run,(15:00) (Shotgun) M.Sanders right tackle to PHI 27 for 2 yards (N.Suh).,1st & 10 at PHI 25
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,1,PHI,0,3,0,-10 Yard Penalty,"(14:19) (Shotgun) J.Hurts scrambles up the middle to PHI 36 for 9 yards (L.David).
+PENALTY on PHI-J.Kelce, Offensive Holding, 10 yards, enforced at PHI 27 - No Play.",2nd & 8 at PHI 27
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,1,PHI,0,4,0,10 Yard Pass,(13:52) (Shotgun) J.Hurts pass short middle to K.Gainwell to PHI 27 for 10 yards (J.Whitehead).,2nd & 18 at PHI 17
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,1,PHI,0,5,0,28 Yard Pass,(13:08) (Shotgun) J.Hurts pass deep left to D.Goedert to TB 45 for 28 yards (M.Edwards) [D.White].,3rd & 8 at PHI 27
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,1,PHI,0,6,0,Pass Incomplete,"(12:28) (No Huddle, Shotgun) J.Hurts pass incomplete deep middle to Q.Watkins [R.Nunez-Roches].",1st & 10 at TB 45
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,1,PHI,0,7,0,Pass Incomplete,(12:22) (Shotgun) J.Hurts pass incomplete short left to D.Goedert.,2nd & 10 at TB 45
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,1,PHI,0,8,0,Pass Incomplete,(12:18) (Shotgun) J.Hurts pass incomplete short left to D.Smith (A.Adams).,3rd & 10 at TB 45
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,1,PHI,0,9,0,Punt,"(12:13) A.Siposs punts 36 yards to TB 9, Center-R.Lovato, fair catch by J.Darden.",4th & 10 at TB 45
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,2,TB,0,1,0,7 Yard Run,(12:07) K.Vaughn right tackle to TB 16 for 7 yards (R.McLeod; A.Harris).,1st & 10 at TB 9
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,2,TB,0,2,0,-2 Yard Run,"(11:32) K.Vaughn up the middle to TB 14 for -2 yards (A.Singleton, A.Harris).",2nd & 3 at TB 16
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,2,TB,0,3,0,Pass Incomplete,(10:50) (Shotgun) T.Brady pass incomplete short left to B.Perriman (S.Nelson).,3rd & 5 at TB 14
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,2,TB,0,4,0,Fumble,"(10:46) B.Pinion punts 39 yards to PHI 47, Center-Z.Triner. J.Reagor MUFFS catch, RECOVERED by TB-R.Cockrell at PHI 48.",4th & 5 at TB 14
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,3,TB,1,1,0,22 Yard Pass,(10:35) T.Brady pass short left to G.Bernard to PHI 26 for 22 yards (M.Epps; A.Harris).,1st & 10 at PHI 48
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,3,TB,1,2,0,2 Yard Run,(9:46) A.Stinnie reported in as eligible.  G.Bernard right guard to PHI 24 for 2 yards (A.Singleton; D.Barnett).,1st & 10 at PHI 26
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,3,TB,1,3,0,5 Yard Pass,(9:06) (Shotgun) T.Brady pass short middle to C.Brate to PHI 19 for 5 yards (A.Singleton).,2nd & 8 at PHI 24
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,3,TB,1,4,0,17 Yard Pass,(8:24) (Shotgun) T.Brady pass deep left to M.Evans to PHI 2 for 17 yards (A.Maddox).,3rd & 3 at PHI 19
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,3,TB,1,5,0,Touchdown Buccaneers,"(7:42) A.Stinnie reported in as eligible.  T.Brady pass short middle to R.Gronkowski for 2 yards, TOUCHDOWN.",1st & 2 at PHI 2
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,3,TB,1,6,1,Extra Point Good,"R.Succop extra point is GOOD, Center-Z.Triner, Holder-B.Pinion.",XP attempt from PHI 15
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,4,PHI,0,1,0,Kickoff,"B.Pinion kicks 65 yards from TB 35 to end zone, Touchback.",Kickoff from TB 35
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,4,PHI,0,2,0,14 Yard Run,(7:38) (Shotgun) M.Sanders left end to PHI 39 for 14 yards (M.Edwards).,1st & 10 at PHI 25
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,4,PHI,0,3,0,2 Yard Pass,(6:59) (Shotgun) J.Hurts pass short right to J.Reagor to PHI 41 for 2 yards (C.Davis; A.Winfield).,1st & 10 at PHI 39
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,4,PHI,0,4,0,5 Yard Pass,(6:23) (Shotgun) J.Hurts pass short right to M.Sanders ran ob at PHI 46 for 5 yards (C.Davis).,2nd & 8 at PHI 41
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,4,PHI,0,5,0,Pass Incomplete,(5:44) (Shotgun) J.Hurts pass incomplete short middle to Q.Watkins (J.Dean).,3rd & 3 at PHI 46
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,4,PHI,0,6,0,Interception,(5:39) (Shotgun) J.Hurts pass short right intended for D.Smith INTERCEPTED by S.Barrett at TB 47. S.Barrett to PHI 36 for 17 yards (J.Mailata).,4th & 3 at PHI 46
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,5,TB,1,1,0,Touchdown Buccaneers,"(5:25) T.Brady pass deep left to M.Evans for 36 yards, TOUCHDOWN.",1st & 10 at PHI 36
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,5,TB,1,2,1,Extra Point Good,"R.Succop extra point is GOOD, Center-Z.Triner, Holder-B.Pinion.",XP attempt from PHI 15
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,6,PHI,0,1,0,Kickoff,B.Pinion kicks 61 yards from TB 35 to PHI 4. K.Gainwell to PHI 28 for 24 yards (K.Minter).,Kickoff from TB 35
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,6,PHI,0,2,0,-4 Yard Run,(5:12) (Shotgun) J.Hurts right end to PHI 24 for -4 yards (J.Tryon).,1st & 10 at PHI 28
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,6,PHI,0,3,0,Pass Incomplete,"(4:33) (No Huddle, Shotgun) J.Hurts pass incomplete short left to D.Smith.",2nd & 14 at PHI 24
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,6,PHI,0,4,0,7 Yard Pass,(4:30) (Shotgun) J.Hurts pass short right to J.Howard pushed ob at PHI 31 for 7 yards (C.Davis).,3rd & 14 at PHI 24
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,6,PHI,0,5,0,Punt,"(4:01) A.Siposs punts 58 yards to TB 11, Center-R.Lovato. J.Darden to TB 19 for 8 yards (J.Scott).",4th & 7 at PHI 31
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,7,TB,0,1,0,8 Yard Run,(3:50) (Shotgun) G.Bernard right end pushed ob at TB 27 for 8 yards (A.Singleton).,1st & 10 at TB 19
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,7,TB,0,2,0,7 Yard Run,(3:15) G.Bernard up the middle to TB 34 for 7 yards (R.McLeod; S.Nelson).,2nd & 2 at TB 27
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,7,TB,0,3,0,-2 Yard Run,(2:34) G.Bernard right end to TB 32 for -2 yards (A.Singleton).,1st & 10 at TB 34
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,7,TB,0,4,0,Pass Incomplete,(1:55) (Shotgun) T.Brady pass incomplete short left.,2nd & 12 at TB 32
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,7,TB,0,5,0,-5 Yard Penalty,"(1:51) (Shotgun) PENALTY on TB-R.Jensen, False Start, 5 yards, enforced at TB 32 - No Play.",3rd & 12 at TB 32
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,7,TB,0,6,0,7 Yard Run,(1:51) (Shotgun) G.Bernard up the middle to TB 34 for 7 yards (J.Hargrave; F.Cox).,3rd & 17 at TB 27
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,7,TB,0,7,0,Punt,"(1:11) B.Pinion punts 45 yards to PHI 21, Center-Z.Triner. J.Reagor to PHI 20 for -1 yards (D.Delaney).",4th & 10 at TB 34
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,8,PHI,0,1,0,-3 Yard Run,(1:03) M.Sanders left end to PHI 17 for -3 yards (M.Edwards).,1st & 10 at PHI 20
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,8,PHI,0,2,0,Pass Incomplete,(:18) (Shotgun) J.Hurts pass incomplete deep left to Q.Watkins.,2nd & 13 at PHI 17
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,8,PHI,0,3,0,Pass Incomplete,(:11) (Shotgun) J.Hurts pass incomplete short middle to D.Smith (D.White) [D.White].,3rd & 13 at PHI 17
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,3RD QUARTER,8,PHI,0,4,0,Punt,"(:06) A.Siposs punts 49 yards to TB 34, Center-R.Lovato. J.Darden to TB 38 for 4 yards (J.Stoll).",4th & 13 at PHI 17
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,1,TB,0,1,0,-5 Yard Run,(15:00) (Shotgun) K.Vaughn left end to TB 33 for -5 yards (M.Williams).,1st & 10 at TB 38
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,1,TB,0,2,0,6 Yard Run,(14:27) (Shotgun) K.Vaughn up the middle to TB 39 for 6 yards (A.Singleton; R.McLeod).,2nd & 15 at TB 33
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,1,TB,0,3,0,-4 Yard Sack,(13:44) (Shotgun) T.Brady sacked at TB 35 for -4 yards (A.Singleton).,3rd & 9 at TB 39
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,1,TB,0,4,0,Punt,"(13:04) B.Pinion punts 61 yards to PHI 4, Center-Z.Triner. J.Reagor ran ob at PHI 35 for 31 yards (K.Britt).",4th & 13 at TB 35
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,2,PHI,1,1,0,31 Yard Pass,(12:48) (Shotgun) J.Hurts pass short left to D.Smith to TB 34 for 31 yards (J.Dean).,1st & 10 at PHI 35
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,2,PHI,1,2,0,Touchdown Eagles,"(12:15) (No Huddle, Shotgun) B.Scott left guard for 34 yards, TOUCHDOWN.",1st & 10 at TB 34
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,2,PHI,1,3,1,Extra Point Good,"J.Elliott extra point is GOOD, Center-R.Lovato, Holder-A.Siposs.",XP attempt from TB 15
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,3,TB,0,1,0,Kickoff,"J.Elliott kicks 61 yards from PHI 35 to TB 4. J.Darden to TB 22 for 18 yards (M.Epps).
+PENALTY on TB-R.Gronkowski, Offensive Holding, 10 yards, enforced at TB 20.",Kickoff from PHI 35
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,3,TB,0,2,0,5 Yard Run,(12:01) A.Stinnie reported in as eligible.  G.Bernard up the middle to TB 15 for 5 yards (S.Bradley).,1st & 10 at TB 10
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,3,TB,0,3,0,16 Yard Pass,(11:23) A.Stinnie reported in as eligible.  T.Brady pass short left to C.Brate pushed ob at TB 31 for 16 yards (A.Singleton).,2nd & 5 at TB 15
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,3,TB,0,4,0,3 Yard Pass,(10:41) T.Brady pass short right to M.Evans to TB 34 for 3 yards (D.Slay).,1st & 10 at TB 31
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,3,TB,0,5,0,5 Yard Pass,"(10:02) (Shotgun) T.Brady pass short left to R.Gronkowski to TB 39 for 5 yards (A.Singleton, A.Maddox).",2nd & 7 at TB 34
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,3,TB,0,6,0,Pass Incomplete,(9:20) (Shotgun) T.Brady pass incomplete short left to G.Bernard.,3rd & 2 at TB 39
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,3,TB,0,7,0,Punt,"(9:17) B.Pinion punts 48 yards to PHI 13, Center-Z.Triner. J.Reagor MUFFS catch, and recovers at PHI 7. J.Reagor to PHI 7 for no gain (C.Gill).",4th & 2 at TB 39
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,4,PHI,1,1,0,6 Yard Run,(9:01) (Shotgun) K.Gainwell right tackle to PHI 13 for 6 yards (M.Edwards).,1st & 10 at PHI 7
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,4,PHI,1,2,0,19 Yard Pass,"(8:25) (No Huddle, Shotgun) J.Hurts pass short right to D.Smith to PHI 32 for 19 yards (M.Edwards) [A.Winfield].",2nd & 4 at PHI 13
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,4,PHI,1,3,0,5 Yard Run,"(7:50) (No Huddle, Shotgun) J.Hurts up the middle to PHI 37 for 5 yards (M.Edwards).",1st & 10 at PHI 32
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,4,PHI,1,4,0,17 Yard Pass,"(7:20) (No Huddle, Shotgun) J.Hurts pass short middle to D.Goedert to TB 46 for 17 yards (M.Edwards).",2nd & 5 at PHI 37
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,4,PHI,1,5,0,Pass Incomplete,"(6:48) (No Huddle, Shotgun) J.Hurts pass incomplete deep left to Q.Watkins.",1st & 10 at TB 46
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,4,PHI,1,6,0,4 Yard Pass,(6:41) (Shotgun) J.Hurts pass short right to D.Smith to TB 42 for 4 yards (A.Winfield).,2nd & 10 at TB 46
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,4,PHI,1,7,0,20 Yard Pass,(6:00) (Shotgun) J.Hurts pass short middle to K.Gainwell to TB 22 for 20 yards (M.Edwards) [A.Nelson].,3rd & 6 at TB 42
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,4,PHI,1,8,0,6 Yard Run,"(5:25) (No Huddle, Shotgun) J.Hurts scrambles up the middle to TB 16 for 6 yards (L.David).",1st & 10 at TB 22
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,4,PHI,1,9,0,Pass Incomplete,"(4:56) (No Huddle, Shotgun) J.Hurts pass incomplete deep left to D.Smith.",2nd & 4 at TB 16
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,4,PHI,1,10,0,Touchdown Eagles,"(4:51) (Shotgun) J.Hurts pass short middle to K.Gainwell for 16 yards, TOUCHDOWN.",3rd & 4 at TB 16
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,4,PHI,1,11,1,2PT Conversion Success,TWO-POINT CONVERSION ATTEMPT. J.Hurts pass to D.Smith is complete. ATTEMPT SUCCEEDS.,XP attempt from TB 2
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,5,TB,0,1,0,Kickoff,J.Elliott kicks onside 11 yards from PHI 35 to PHI 46. G.Bernard (didn't try to advance) to PHI 46 for no gain.,Kickoff from PHI 35
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,5,TB,0,2,0,2 Yard Run,"(4:44) A.Stinnie reported in as eligible.  K.Vaughn left tackle to PHI 44 for 2 yards (S.Bradley, C.Malveaux).",1st & 10 at PHI 46
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,5,TB,0,3,0,9 Yard Run,(4:01) S.Miller right end to PHI 35 for 9 yards (S.Bradley).,2nd & 8 at PHI 44
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,5,TB,0,4,0,3 Yard Run,(3:52) K.Vaughn left end to PHI 32 for 3 yards (A.Singleton; A.Harris).,1st & 10 at PHI 35
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,5,TB,0,5,0,3 Yard Run,(3:45) G.Bernard right end to PHI 29 for 3 yards (A.Harris).,2nd & 7 at PHI 32
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,5,TB,0,6,0,6 Yard Pass,(3:40) (Shotgun) T.Brady pass short right to G.Bernard to PHI 23 for 6 yards (A.Harris).,3rd & 4 at PHI 29
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,5,TB,0,7,0,3 Yard Run,(2:59) G.Bernard up the middle to PHI 20 for 3 yards (M.Williams).,1st & 10 at PHI 23
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,5,TB,0,8,0,5 Yard Run,(2:17) G.Bernard left end to PHI 15 for 5 yards (A.Harris).,2nd & 7 at PHI 20
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,5,TB,0,9,0,1 Yard Run,(2:00) G.Bernard up the middle to PHI 14 for 1 yard (A.Harris).,3rd & 2 at PHI 15
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,5,TB,0,10,0,Turnover on Downs,(1:16) G.Bernard right end to PHI 16 for -2 yards (A.Singleton).,4th & 1 at PHI 14
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,6,PHI,0,1,0,Pass Incomplete,(1:11) (Shotgun) J.Hurts pass incomplete deep left to Q.Watkins.,1st & 10 at PHI 16
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,6,PHI,0,2,0,11 Yard Pass,(1:04) (Shotgun) J.Hurts pass short left to D.Goedert to PHI 27 for 11 yards (J.Dean; K.Minter).,2nd & 10 at PHI 16
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,6,PHI,0,3,0,-9 Yard Sack,"(:42) (No Huddle, Shotgun) J.Hurts sacked at PHI 18 for -9 yards (S.McLendon). FUMBLES (S.McLendon), recovered by PHI-K.Gainwell at PHI 18.",1st & 10 at PHI 27
+2021,Wild Card Weekend,SUN,01/16,Eagles,Buccaneers,4TH QUARTER,6,PHI,0,4,0,Pass Incomplete,"(:04) (No Huddle, Shotgun) J.Hurts pass incomplete deep left to D.Smith [R.Nunez-Roches].",2nd & 19 at PHI 18
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,1,SF,1,1,0,Kickoff,"G.Zuerlein kicks 65 yards from DAL 35 to end zone, Touchback.",Kickoff from DAL 35
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,1,SF,1,2,0,5 Yard Penalty,"(15:00) PENALTY on DAL-R.Gregory, Neutral Zone Infraction, 5 yards, enforced at SF 25 - No Play.",1st & 10 at SF 25
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,1,SF,1,3,0,9 Yard Run,(15:00) D.Samuel up the middle to SF 39 for 9 yards (J.Kearse).,1st & 5 at SF 30
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,1,SF,1,4,0,1 Yard Run,(14:21) (Shotgun) D.Samuel up the middle to SF 40 for 1 yard (R.Gregory).,1st & 10 at SF 39
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,1,SF,1,5,0,17 Yard Pass,(13:43) J.Garoppolo pass short left to T.Benjamin pushed ob at DAL 43 for 17 yards (A.Brown).,2nd & 9 at SF 40
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,1,SF,1,6,0,11 Yard Pass,"(13:04) J.Garoppolo pass short middle to B.Aiyuk to DAL 32 for 11 yards (A.Brown, L.Vander Esch).",1st & 10 at DAL 43
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,1,SF,1,7,0,13 Yard Run,(12:25) E.Mitchell right guard to DAL 19 for 13 yards (D.Kazee; L.Vander Esch).,1st & 10 at DAL 32
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,1,SF,1,8,0,15 Yard Pass,"(11:42) (Shotgun) J.Garoppolo pass short left to D.Samuel to DAL 4 for 15 yards (D.Kazee, O.Odighizuwa).",1st & 10 at DAL 19
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,1,SF,1,9,0,Touchdown 49ers,"(10:59) E.Mitchell right end for 4 yards, TOUCHDOWN.",1st & 4 at DAL 4
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,1,SF,1,10,1,Extra Point Good,"R.Gould extra point is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.",XP attempt from DAL 15
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,2,DAL,0,1,0,Kickoff,"R.Gould kicks 65 yards from SF 35 to end zone, Touchback.",Kickoff from SF 35
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,2,DAL,0,2,0,Pass Incomplete,(10:54) (Shotgun) D.Prescott pass incomplete short right [A.Al-Shaair].,1st & 10 at DAL 25
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,2,DAL,0,3,0,-3 Yard Run,(10:50) E.Elliott up the middle to DAL 22 for -3 yards (D.Greenlaw).,2nd & 10 at DAL 25
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,2,DAL,0,4,0,Sack,(10:15) (Shotgun) D.Prescott sacked at DAL 12 for -10 yards (sack split by N.Bosa and S.Ebukam).,3rd & 13 at DAL 22
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,2,DAL,0,5,0,Punt,"(9:39) B.Anger punts 57 yards to SF 31, Center-J.McQuaide. T.Benjamin to SF 42 for 11 yards (D.Armstrong).",4th & 23 at DAL 12
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,3,SF,1,1,0,Pass Incomplete,(9:27) (Shotgun) J.Garoppolo pass incomplete short left to E.Mitchell (C.Watkins). DAL-M.Parsons was injured during the play. His return is Questionable.,1st & 10 at SF 42
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,3,SF,1,2,0,Pass Incomplete,(9:23) (Shotgun) J.Garoppolo pass incomplete short middle to J.Jennings.,2nd & 10 at SF 42
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,3,SF,1,3,0,11 Yard Pass,(9:19) (Shotgun) J.Garoppolo pass short left to J.Jennings pushed ob at DAL 47 for 11 yards (J.Lewis).,3rd & 10 at SF 42
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,3,SF,1,4,0,4 Yard Run,(8:48) E.Mitchell right end to DAL 43 for 4 yards (D.Wilson).,1st & 10 at DAL 47
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,3,SF,1,5,0,9 Yard Run,(8:09) E.Mitchell left guard to DAL 34 for 9 yards (J.Kearse; M.Hooker).,2nd & 6 at DAL 43
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,3,SF,1,6,0,5 Yard Run,(7:29) E.Mitchell right tackle to DAL 29 for 5 yards (D.Wilson).,1st & 10 at DAL 34
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,3,SF,1,7,0,-11 Yard Pass,(6:52) J.Garoppolo pass short right to E.Mitchell to DAL 40 for -11 yards (D.Armstrong).,2nd & 5 at DAL 29
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,3,SF,1,8,0,-5 Yard Penalty,"(6:01) (Shotgun) PENALTY on SF, Delay of Game, 5 yards, enforced at DAL 40 - No Play.",3rd & 16 at DAL 40
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,3,SF,1,9,0,10 Yard Pass,(5:39) (Shotgun) J.Garoppolo pass short right to K.Juszczyk to DAL 35 for 10 yards (A.Brown) [R.Gregory].,3rd & 21 at DAL 45
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,3,SF,1,10,1,Field Goal,"(4:58) R.Gould 53 yard field goal is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.",4th & 11 at DAL 35
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,4,DAL,0,1,0,Kickoff,"R.Gould kicks 65 yards from SF 35 to DAL 0. T.Pollard pushed ob at DAL 41 for 41 yards (D.Flannigan-Fowles).
+PENALTY on DAL-L.Gifford, Offensive Holding, 9 yards, enforced at DAL 18.",Kickoff from SF 35
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,4,DAL,0,2,0,Pass Incomplete,(4:47) D.Prescott pass incomplete short right to A.Cooper (A.Thomas).,1st & 10 at DAL 9
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,4,DAL,0,3,0,10 Yard Pass,(4:42) D.Prescott pass short left to A.Cooper to DAL 19 for 10 yards (E.Moseley).,2nd & 10 at DAL 9
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,4,DAL,0,4,0,4 Yard Run,(4:10) E.Elliott left tackle to DAL 23 for 4 yards (S.Ebukam).,1st & 10 at DAL 19
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,4,DAL,0,5,0,Pass Incomplete,(3:40) (Shotgun) D.Prescott pass incomplete short right to E.Elliott.,2nd & 6 at DAL 23
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,4,DAL,0,6,0,-10 Yard Penalty,"(3:35) (Shotgun) D.Prescott pass deep middle to C.Lamb to SF 45 for 32 yards (D.Greenlaw).
+PENALTY on DAL-C.Williams, Offensive Holding, 10 yards, enforced at DAL 23 - No Play.",3rd & 6 at DAL 23
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,4,DAL,0,7,0,6 Yard Pass,"(3:14) (Shotgun) D.Prescott pass short middle to C.Wilson to DAL 20 for 7 yards. FUMBLES, ball out of bounds at DAL 19.",3rd & 16 at DAL 13
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,1ST QUARTER,4,DAL,0,8,0,Punt,"(2:45) B.Anger punts 59 yards to SF 22, Center-J.McQuaide, fair catch by T.Benjamin.",4th & 10 at DAL 19
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,1,SF,1,1,0,-1 Yard Run,(2:38) E.Mitchell right tackle to SF 21 for -1 yards (T.Hill; D.Lawrence).,1st & 10 at SF 22
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,1,SF,1,2,0,6 Yard Run,(1:55) (Shotgun) E.Mitchell right tackle to SF 27 for 6 yards (L.Vander Esch; J.Kearse).,2nd & 11 at SF 21
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,1,SF,1,3,0,5 Yard Penalty,"(1:13) (Shotgun) PENALTY on DAL-R.Gregory, Neutral Zone Infraction, 5 yards, enforced at SF 27 - No Play.",3rd & 5 at SF 27
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,1,SF,1,4,0,9 Yard Pass,(:56) (Shotgun) J.Garoppolo pass short middle to B.Aiyuk pushed ob at SF 41 for 9 yards (L.Vander Esch).,1st & 10 at SF 32
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,1,SF,1,5,0,-2 Yard Run,(:16) E.Mitchell right end to SF 39 for -2 yards (M.Parsons; L.Vander Esch).,2nd & 1 at SF 41
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,1,SF,1,6,0,19 Yard Pass,(15:00) (Shotgun) J.Garoppolo pass short middle to D.Samuel to DAL 42 for 19 yards (D.Kazee).,3rd & 3 at SF 39
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,1,SF,1,7,0,Run for No Gain,(14:17) E.Mitchell left tackle to DAL 42 for no gain (M.Parsons; N.Gallimore).,1st & 10 at DAL 42
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,1,SF,1,8,0,1 Yard Run,(13:28) (Shotgun) D.Samuel right end pushed ob at DAL 41 for 1 yard (M.Parsons; D.Kazee).,2nd & 10 at DAL 42
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,1,SF,1,9,0,10 Yard Pass,(12:47) (Shotgun) J.Garoppolo pass short right to B.Aiyuk to DAL 31 for 10 yards (A.Brown).,3rd & 9 at DAL 41
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,1,SF,1,10,0,5 Yard Run,(11:57) E.Mitchell left tackle to DAL 26 for 5 yards (N.Gallimore; M.Parsons).,1st & 10 at DAL 31
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,1,SF,1,11,0,2 Yard Run,"(11:15) E.Mitchell up the middle to DAL 24 for 2 yards (J.Kearse, L.Vander Esch).",2nd & 5 at DAL 26
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,1,SF,1,12,0,2 Yard Run,(10:28) (Shotgun) D.Samuel right guard to DAL 22 for 2 yards (D.Kazee; T.Hill).,3rd & 3 at DAL 24
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,1,SF,1,13,1,Field Goal,"(9:44) R.Gould 40 yard field goal is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.",4th & 1 at DAL 22
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,2,DAL,1,1,0,Kickoff,R.Gould kicks 64 yards from SF 35 to DAL 1. T.Pollard to DAL 33 for 32 yards (D.Flannigan-Fowles).,Kickoff from SF 35
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,2,DAL,1,2,0,5 Yard Run,(9:34) E.Elliott right end to DAL 38 for 5 yards (A.Thomas).,1st & 10 at DAL 33
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,2,DAL,1,3,0,5 Yard Run,(9:03) E.Elliott right guard to DAL 43 for 5 yards (A.Armstead; N.Bosa).,2nd & 5 at DAL 38
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,2,DAL,1,4,0,8 Yard Run,(8:29) T.Pollard right end to SF 49 for 8 yards (A.Thomas).,1st & 10 at DAL 43
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,2,DAL,1,5,0,5 Yard Run,(8:01) (No Huddle) C.Lamb left end to SF 44 for 5 yards (E.Moseley).,2nd & 2 at SF 49
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,2,DAL,1,6,0,1 Yard Run,(7:26) (Shotgun) T.Pollard right guard to SF 43 for 1 yard (F.Warner; K.Givens).,1st & 10 at SF 44
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,2,DAL,1,7,0,18 Yard Pass,(7:03) (No Huddle) D.Prescott pass short left to C.Wilson to SF 25 for 18 yards (K.Williams).,2nd & 9 at SF 43
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,2,DAL,1,8,0,5 Yard Run,"(6:26) (No Huddle, Shotgun) T.Pollard left guard to SF 20 for 5 yards (F.Warner; D.Greenlaw).",1st & 10 at SF 25
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,2,DAL,1,9,0,Run for No Gain,"(6:02) (No Huddle, Shotgun) T.Pollard left guard to SF 20 for no gain (K.Givens; D.Greenlaw).",2nd & 5 at SF 20
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,2,DAL,1,10,0,Touchdown Cowboys,"(5:24) (Shotgun) D.Prescott pass deep right to A.Cooper for 20 yards, TOUCHDOWN [A.Armstead].",3rd & 5 at SF 20
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,2,DAL,1,11,1,Extra Point Good,"G.Zuerlein extra point is GOOD, Center-J.McQuaide, Holder-B.Anger.",XP attempt from SF 15
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,3,SF,1,1,0,Kickoff,"G.Zuerlein kicks 65 yards from DAL 35 to end zone, Touchback.",Kickoff from DAL 35
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,3,SF,1,2,0,37 Yard Pass,(5:19) J.Garoppolo pass deep right to B.Aiyuk to DAL 38 for 37 yards (D.Kazee).,1st & 10 at SF 25
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,3,SF,1,3,0,-1 Yard Run,"(4:39) E.Mitchell right end to DAL 39 for -1 yards (M.Parsons, M.Hooker).",1st & 10 at DAL 38
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,3,SF,1,4,0,5 Yard Pass,"(3:56) (Shotgun) J.Garoppolo pass short middle to K.Juszczyk to DAL 34 for 5 yards (L.Vander Esch, M.Hooker) [D.Armstrong].",2nd & 11 at DAL 39
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,3,SF,1,5,0,Pass Incomplete,(3:12) (Shotgun) J.Garoppolo pass incomplete short left to G.Kittle (D.Armstrong) [R.Gregory]. 92-D.Armstrong deflected the pass at the line of scrimmage.,3rd & 6 at DAL 34
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,3,SF,1,6,1,Field Goal,"(3:08) R.Gould 52 yard field goal is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.",4th & 6 at DAL 34
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,4,DAL,0,1,0,Kickoff,"R.Gould kicks 65 yards from SF 35 to end zone, Touchback.",Kickoff from SF 35
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,4,DAL,0,2,0,9 Yard Pass,(3:03) (Shotgun) D.Prescott pass short middle to A.Cooper to DAL 34 for 9 yards (E.Moseley).,1st & 10 at DAL 25
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,4,DAL,0,3,0,Run for No Gain,"(2:42) (No Huddle, Shotgun) E.Elliott up the middle to DAL 34 for no gain (A.Armstead; A.Al-Shaair). SF-J.Willis was injured during the play. His return is Questionable.",2nd & 1 at DAL 34
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,4,DAL,0,4,0,1 Yard Run,(2:21) E.Elliott left end to DAL 35 for 1 yard (N.Bosa).,3rd & 1 at DAL 34
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,4,DAL,0,5,0,Pass Incomplete,(2:00) (Shotgun) D.Prescott pass incomplete short right to C.Wilson.,1st & 10 at DAL 35
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,4,DAL,0,6,0,Pass Incomplete,(1:56) (Shotgun) D.Prescott pass incomplete short left to E.Elliott.,2nd & 10 at DAL 35
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,4,DAL,0,7,0,12 Yard Pass,(1:51) (Shotgun) D.Prescott pass short left to D.Schultz pushed ob at DAL 47 for 12 yards (E.Moseley).,3rd & 10 at DAL 35
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,4,DAL,0,8,0,8 Yard Pass,(1:45) (Shotgun) D.Prescott pass short left to A.Cooper to SF 45 for 8 yards (E.Moseley; A.Al-Shaair).,1st & 10 at DAL 47
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,4,DAL,0,9,0,6 Yard Pass,"(1:24) (No Huddle, Shotgun) D.Prescott pass short left to D.Schultz pushed ob at SF 39 for 6 yards (E.Moseley).",2nd & 2 at SF 45
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,4,DAL,0,10,0,-10 Yard Penalty,"(1:19) (Shotgun) D.Prescott pass incomplete short middle to T.Pollard (F.Warner). SF-N.Bosa was injured during the play. His return is Questionable. 
+PENALTY on DAL-L.Collins, Offensive Holding, 10 yards, enforced at SF 39 - No Play. Injury update: Jordan Willis has an ankle injury; his return status is questionable.",1st & 10 at SF 39
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,4,DAL,0,11,0,Pass Incomplete,(1:15) (Shotgun) D.Prescott pass incomplete short right to B.Jarwin.,1st & 20 at SF 49
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,4,DAL,0,12,0,Pass for No Gain,(1:09) (Shotgun) D.Prescott pass short right to E.Elliott to SF 49 for no gain (K.Street) [K.Williams].,2nd & 20 at SF 49
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,4,DAL,0,13,0,Pass Incomplete,"(:38) (No Huddle, Shotgun) D.Prescott pass incomplete short middle to C.Wilson.",3rd & 20 at SF 49
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,4,DAL,0,14,0,Punt,"(:35) B.Anger punts 46 yards to SF 3, Center-J.McQuaide, downed by DAL-S.McKeon.",4th & 20 at SF 49
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,5,SF,0,1,0,7 Yard Run,(:22) E.Mitchell up the middle to SF 10 for 7 yards (L.Vander Esch; D.Kazee).,1st & 10 at SF 3
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,5,SF,0,2,0,1 Yard Run,"(:16) E.Mitchell up the middle to SF 11 for 1 yard (J.Kearse, O.Odighizuwa).",2nd & 3 at SF 10
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,2ND QUARTER,5,SF,0,3,0,5 Yard Run,(:13) E.Mitchell left tackle to SF 16 for 5 yards (M.Parsons).,3rd & 2 at SF 11
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,1,DAL,0,1,0,Kickoff,"R.Gould kicks 65 yards from SF 35 to end zone, Touchback.",Kickoff from SF 35
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,1,DAL,0,2,0,1 Yard Run,(15:00) E.Elliott right tackle to DAL 26 for 1 yard (D.Greenlaw).,1st & 10 at DAL 25
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,1,DAL,0,3,0,5 Yard Pass,(14:20) (Shotgun) D.Prescott pass short right to D.Schultz to DAL 31 for 5 yards (A.Al-Shaair).,2nd & 9 at DAL 26
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,1,DAL,0,4,0,-5 Yard Penalty,"(13:44) (Shotgun) PENALTY on DAL-C.Williams, False Start, 5 yards, enforced at DAL 31 - No Play.",3rd & 4 at DAL 31
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,1,DAL,0,5,0,-5 Yard Penalty,"(13:27) (Shotgun) PENALTY on DAL-L.Collins, False Start, 5 yards, enforced at DAL 26 - No Play.",3rd & 9 at DAL 26
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,1,DAL,0,6,0,-6 Yard Sack,(13:08) (Shotgun) D.Prescott sacked at DAL 15 for -6 yards (A.Armstead).,3rd & 14 at DAL 21
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,1,DAL,0,7,0,9 Yard Run,(12:22) E.Elliott left end to DAL 39 for 9 yards (J.Ward). Injury update: Nick Bosa is being evaluated for a head injury; his return status is questionable.,1st & 10 at DAL 30
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,1,DAL,0,8,0,3 Yard Run,"(11:49) (No Huddle, Shotgun) E.Elliott left guard to DAL 42 for 3 yards (E.Moseley).",2nd & 1 at DAL 39
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,1,DAL,0,9,0,3 Yard Run,(11:28) (No Huddle) D.Prescott scrambles right end to DAL 45 for 3 yards (K.Williams).,1st & 10 at DAL 42
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,1,DAL,0,10,0,Pass Incomplete,(10:47) D.Prescott pass incomplete deep right to C.Wilson.,2nd & 7 at DAL 45
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,1,DAL,0,11,0,Pass Incomplete,(10:40) (Shotgun) D.Prescott pass incomplete short left to C.Lamb [J.Willis].,3rd & 7 at DAL 45
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,1,DAL,0,12,0,Punt,"(10:35) B.Anger punts 48 yards to SF 7, Center-J.McQuaide, fair catch by T.Benjamin. Injury update: Nick Bosa has a concussion and will not return to the game.",4th & 7 at DAL 45
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,2,SF,0,1,0,-3 Yard Run,"(10:28) (Shotgun) E.Mitchell up the middle to SF 18 for 11 yards (J.Kearse; D.Wilson).
+PENALTY on SF-L.Tomlinson, Offensive Holding, 4 yards, enforced at SF 8.",1st & 10 at SF 7
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,2,SF,0,2,0,3 Yard Run,(10:12) E.Mitchell left guard to SF 7 for 3 yards (J.Kearse; D.Wilson).,1st & 13 at SF 4
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,2,SF,0,3,0,5 Yard Penalty,"(9:33) (Shotgun) PENALTY on DAL-M.Parsons, Neutral Zone Infraction, 5 yards, enforced at SF 7 - No Play.",2nd & 10 at SF 7
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,2,SF,0,4,0,Pass Incomplete,(9:15) J.Garoppolo pass incomplete short right to K.Juszczyk.,2nd & 5 at SF 12
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,2,SF,0,5,0,13 Yard Pass,(9:09) (Shotgun) J.Garoppolo pass short right to J.Jennings pushed ob at SF 25 for 13 yards (A.Brown).,3rd & 5 at SF 12
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,2,SF,0,6,0,Pass Incomplete,(8:39) J.Garoppolo pass incomplete short right to T.Sherfield (J.Kearse).,1st & 10 at SF 25
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,2,SF,0,7,0,9 Yard Run,(8:33) D.Samuel up the middle to SF 34 for 9 yards (D.Wilson; J.Kearse).,2nd & 10 at SF 25
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,2,SF,0,8,0,Pass Incomplete,(7:48) (Shotgun) J.Garoppolo pass incomplete short left to J.Jennings.,3rd & 1 at SF 34
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,2,SF,0,9,0,Punt,"(7:44) M.Wishnowsky punts 43 yards to DAL 23, Center-T.Pepper, fair catch by C.Lamb.",4th & 1 at SF 34
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,3,DAL,0,1,0,Pass Incomplete,(7:37) D.Prescott pass incomplete deep left to C.Lamb.,1st & 10 at DAL 23
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,3,DAL,0,2,0,14 Yard Pass,(7:32) (Shotgun) D.Prescott pass short right to D.Schultz to DAL 37 for 14 yards (A.Thomas).,2nd & 10 at DAL 23
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,3,DAL,0,3,0,-5 Yard Pass,"(7:03) (No Huddle, Shotgun) D.Prescott pass short left to D.Schultz to DAL 45 for 8 yards (J.Tartt).
+PENALTY on DAL-C.Wilson, Illegal Block Above the Waist, 10 yards, enforced at DAL 42.",1st & 10 at DAL 37
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,3,DAL,0,4,0,-13 Yard Sack,(6:40) (Shotgun) D.Prescott sacked at DAL 19 for -13 yards (D.Jones).,1st & 15 at DAL 32
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,3,DAL,0,5,0,Interception,(6:03) (Shotgun) D.Prescott pass short left intended for C.Wilson INTERCEPTED by K.Williams at DAL 26. K.Williams to DAL 26 for no gain (C.Wilson).,2nd & 28 at DAL 19
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,4,SF,1,1,0,Touchdown 49ers,"(5:58) (Shotgun) D.Samuel right end for 26 yards, TOUCHDOWN.",1st & 10 at DAL 26
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,4,SF,1,2,1,Extra Point Good,"R.Gould extra point is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.",XP attempt from DAL 15
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,5,DAL,0,1,0,Kickoff,"R.Gould kicks 65 yards from SF 35 to end zone, Touchback.",Kickoff from SF 35
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,5,DAL,0,2,0,6 Yard Pass,(5:50) (Shotgun) D.Prescott pass short right to A.Cooper to DAL 31 for 6 yards (D.Greenlaw).,1st & 10 at DAL 25
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,5,DAL,0,3,0,Pass Incomplete,"(5:28) (No Huddle, Shotgun) D.Prescott pass incomplete short left to C.Lamb.",2nd & 4 at DAL 31
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,5,DAL,0,4,0,2 Yard Run,(5:23) (Shotgun) D.Prescott scrambles left end to DAL 33 for 2 yards (A.Key).,3rd & 4 at DAL 31
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,5,DAL,0,5,0,Punt,"(4:38) B.Anger punts 58 yards to SF 9, Center-J.McQuaide, fair catch by T.Benjamin.",4th & 2 at DAL 33
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,6,SF,0,1,0,-1 Yard Run,(4:32) E.Mitchell left tackle to SF 8 for -1 yards (D.Lawrence).,1st & 10 at SF 9
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,6,SF,0,2,0,16 Yard Run,"(3:49) (Shotgun) E.Mitchell left tackle to SF 24 for 16 yards (T.Diggs, D.Kazee).",2nd & 11 at SF 8
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,6,SF,0,3,0,1 Yard Run,(3:14) (Shotgun) E.Mitchell up the middle to SF 25 for 1 yard (D.Lawrence).,1st & 10 at SF 24
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,6,SF,0,4,0,-1 Yard Pass,(2:31) (Shotgun) J.Garoppolo pass short right to B.Aiyuk to SF 24 for -1 yards (D.Lawrence; J.Lewis).,2nd & 9 at SF 25
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,6,SF,0,5,0,Pass Incomplete,(1:47) (Shotgun) J.Garoppolo pass incomplete deep left to B.Aiyuk.,3rd & 10 at SF 24
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,3RD QUARTER,6,SF,0,6,0,Punt,"(1:41) M.Wishnowsky punts 46 yards to DAL 30, Center-T.Pepper, fair catch by C.Lamb.",4th & 10 at SF 24
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,1,DAL,1,1,0,-10 Yard Sack,"(1:34) (Shotgun) D.Prescott sacked at DAL 22 for -8 yards (C.Omenihu). FUMBLES (C.Omenihu) [C.Omenihu], and recovers at DAL 20.",1st & 10 at DAL 30
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,1,DAL,1,2,0,-5 Yard Penalty,"(1:02) (Shotgun) D.Prescott pass short left to C.Lamb pushed ob at DAL 38 for 18 yards (D.Greenlaw). SF-S.Ebukam was injured during the play. His return is Questionable. 
+PENALTY on DAL-C.Lamb, Illegal Shift, 5 yards, enforced at DAL 20 - No Play.",2nd & 20 at DAL 20
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,1,DAL,1,3,0,24 Yard Pass,(:49) (Shotgun) D.Prescott pass deep middle to C.Wilson to DAL 39 for 24 yards (J.Tartt).,2nd & 25 at DAL 15
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,1,DAL,1,4,0,4 Yard Run,"(:22) (No Huddle, Shotgun) E.Elliott up the middle to DAL 43 for 4 yards (K.Givens).",3rd & 1 at DAL 39
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,1,DAL,1,5,0,5 Yard Pass,(15:00) (Shotgun) D.Prescott pass short middle to C.Wilson to DAL 48 for 5 yards (F.Warner) [C.Omenihu].,1st & 10 at DAL 43
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,1,DAL,1,6,0,Run for No Gain,"(14:34) (No Huddle, Shotgun) E.Elliott up the middle to DAL 48 for no gain (J.Ward).",2nd & 5 at DAL 48
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,1,DAL,1,7,0,Pass Incomplete,"(14:05) (No Huddle, Shotgun) D.Prescott pass incomplete short right to A.Cooper.",3rd & 5 at DAL 48
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,1,DAL,1,8,0,-5 Yard Penalty,"(13:26) (Shotgun) PENALTY on DAL, Delay of Game, 5 yards, enforced at SF 36 - No Play.",1st & 10 at SF 36
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,1,DAL,1,9,0,Pass Incomplete,(13:26) (Shotgun) D.Prescott pass incomplete short left to A.Cooper.,1st & 15 at SF 41
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,1,DAL,1,10,0,6 Yard Pass,(13:20) (Shotgun) D.Prescott pass short left to M.Turner to SF 35 for 6 yards (E.Moseley; F.Warner).,2nd & 15 at SF 41
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,1,DAL,1,11,0,2 Yard Pass,(12:43) (Shotgun) D.Prescott pass short left to T.Pollard to SF 33 for 2 yards (E.Moseley).,3rd & 9 at SF 35
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,1,DAL,1,12,1,Field Goal,"(11:58) G.Zuerlein 51 yard field goal is GOOD, Center-J.McQuaide, Holder-B.Anger.",4th & 7 at SF 33
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,2,SF,0,1,0,Kickoff,"G.Zuerlein kicks 55 yards from DAL 35 to SF 10. J.Hasty to SF 26 for 16 yards (L.Gifford, F.Bernard).",Kickoff from DAL 35
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,2,SF,0,2,0,18 Yard Pass,(11:49) (Shotgun) J.Garoppolo pass short middle to G.Kittle to SF 44 for 18 yards (T.Diggs) [O.Odighizuwa].,1st & 10 at SF 26
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,2,SF,0,3,0,-5 Yard Run,"(11:03) D.Samuel left end pushed ob at DAL 43 for 13 yards (T.Diggs).
+PENALTY on SF-B.Aiyuk, Offensive Holding, 10 yards, enforced at SF 49.",1st & 10 at SF 44
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,2,SF,0,4,0,5 Yard Run,(10:34) (Shotgun) D.Samuel left tackle to SF 44 for 5 yards (R.Gregory; M.Parsons).,1st & 15 at SF 39
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,2,SF,0,5,0,Interception,"(9:48) (Shotgun) J.Garoppolo pass short right intended for T.Sherfield INTERCEPTED by A.Brown at DAL 49. A.Brown to SF 28 for 23 yards (D.Brunskill).
+Penalty on SF-T.Compton, Offensive Holding, declined.",2nd & 10 at SF 44
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,3,DAL,1,1,0,11 Yard Pass,(9:37) (Shotgun) D.Prescott pass short left to A.Cooper to SF 17 for 11 yards (E.Moseley).,1st & 10 at SF 28
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,3,DAL,1,2,0,10 Yard Pass,"(9:07) (No Huddle, Shotgun) D.Prescott pass short right to C.Lamb to SF 7 for 10 yards (F.Warner).",1st & 10 at SF 17
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,3,DAL,1,3,0,Pass Incomplete,"(8:42) (No Huddle, Shotgun) D.Prescott pass incomplete short left to A.Cooper. SF-F.Warner was injured during the play. His return is Questionable.",1st & 7 at SF 7
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,3,DAL,1,4,0,2 Yard Run,(8:36) (Shotgun) E.Elliott up the middle to SF 5 for 2 yards (A.Armstead; C.Omenihu).,2nd & 7 at SF 7
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,3,DAL,1,5,0,Touchdown Cowboys,"(8:08) (No Huddle, Shotgun) D.Prescott scrambles left end for 5 yards, TOUCHDOWN.",3rd & 5 at SF 5
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,3,DAL,1,6,1,Extra Point Good,"G.Zuerlein extra point is GOOD, Center-J.McQuaide, Holder-B.Anger.",XP attempt from SF 15
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,4,SF,0,1,0,Kickoff,G.Zuerlein kicks 60 yards from DAL 35 to SF 5. J.Hasty to SF 18 for 13 yards (C.Goodwin).,Kickoff from DAL 35
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,4,SF,0,2,0,1 Yard Run,"(7:57) (Shotgun) J.Garoppolo scrambles up the middle to SF 19 for 1 yard (N.Gallimore, M.Parsons).",1st & 10 at SF 18
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,4,SF,0,3,0,5 Yard Run,(7:12) (Shotgun) E.Mitchell up the middle to SF 24 for 5 yards (L.Vander Esch).,2nd & 9 at SF 19
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,4,SF,0,4,0,5 Yard Pass,(6:29) (Shotgun) J.Garoppolo pass short right to J.Jennings to SF 29 for 5 yards (D.Armstrong).,3rd & 4 at SF 24
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,4,SF,0,5,0,10 Yard Run,"(5:51) E.Mitchell right tackle to SF 34 for 5 yards (D.Armstrong; L.Vander Esch).
+PENALTY on DAL-O.Odighizuwa, Defensive Holding, 5 yards, enforced at SF 34.",1st & 10 at SF 29
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,4,SF,0,6,0,3 Yard Run,(5:24) E.Mitchell up the middle to SF 42 for 3 yards (L.Vander Esch; R.Gregory).,1st & 10 at SF 39
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,4,SF,0,7,0,Pass Incomplete,(4:39) J.Garoppolo pass incomplete short left to G.Kittle.,2nd & 7 at SF 42
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,4,SF,0,8,0,-5 Yard Penalty,"(4:36) (Shotgun) PENALTY on SF-L.Tomlinson, False Start, 5 yards, enforced at SF 42 - No Play.",3rd & 7 at SF 42
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,4,SF,0,9,0,5 Yard Penalty,"(4:36) (Shotgun) J.Garoppolo pass incomplete short middle to D.Samuel (T.Diggs).
+PENALTY on DAL-N.Gallimore, Illegal Use of Hands, 5 yards, enforced at SF 37 - No Play.",3rd & 12 at SF 37
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,4,SF,0,10,0,Run for No Gain,(4:31) E.Mitchell left tackle to SF 42 for no gain (O.Odighizuwa).,1st & 10 at SF 42
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,4,SF,0,11,0,5 Yard Run,(3:46) (Shotgun) D.Samuel right end pushed ob at SF 47 for 5 yards (M.Parsons).,2nd & 10 at SF 42
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,4,SF,0,12,0,4 Yard Pass,(3:40) (Shotgun) J.Garoppolo pass short middle to D.Samuel to DAL 49 for 4 yards (L.Vander Esch).,3rd & 5 at SF 47
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,4,SF,0,13,0,-5 Yard Penalty,"(2:51) (Shotgun) PENALTY on SF, Delay of Game, 5 yards, enforced at DAL 49 - No Play.",4th & 1 at DAL 49
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,4,SF,0,14,0,Punt,"(2:51) M.Wishnowsky punts 48 yards to DAL 11, Center-T.Pepper. C.Lamb to DAL 16 for 5 yards (T.Sherfield).",4th & 11 at SF 41
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,5,DAL,0,1,0,Pass Incomplete,(2:42) (Shotgun) D.Prescott pass incomplete short left to D.Schultz (K.Givens). 90-K.Givens deflected pass in the backfield.,1st & 10 at DAL 16
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,5,DAL,0,2,0,38 Yard Pass,(2:38) (Shotgun) D.Prescott pass deep right to D.Schultz pushed ob at SF 46 for 38 yards (J.Ward).,2nd & 10 at DAL 16
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,5,DAL,0,3,0,Sack,(2:29) (Shotgun) D.Prescott sacked at SF 47 for -1 yards (sack split by K.Givens and C.Omenihu).,1st & 10 at SF 46
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,5,DAL,0,4,0,Pass Incomplete,"(2:01) (No Huddle, Shotgun) D.Prescott pass incomplete short right to C.Lamb.",2nd & 11 at SF 47
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,5,DAL,0,5,0,Pass Incomplete,"(1:56) (Shotgun) D.Prescott pass incomplete short right to E.Elliott [A.Armstead].
+Penalty on DAL-T.Smith, Offensive Holding, declined.",3rd & 11 at SF 47
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,5,DAL,0,6,0,Turnover on Downs,(1:49) (Shotgun) D.Prescott pass incomplete deep right to C.Wilson [J.Ward].,4th & 11 at SF 47
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,6,SF,0,1,0,1 Yard Run,(1:42) E.Mitchell left guard to SF 48 for 1 yard (O.Odighizuwa).,1st & 10 at SF 47
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,6,SF,0,2,0,5 Yard Penalty,"(1:38) (Shotgun) D.Samuel left end to SF 48 for no gain (J.Kearse).
+PENALTY on DAL-R.Gregory, Defensive Holding, 5 yards, enforced at SF 48 - No Play.",2nd & 9 at SF 48
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,6,SF,0,3,0,-5 Yard Penalty,"(1:31) PENALTY on SF-T.Williams, False Start, 5 yards, enforced at DAL 47 - No Play.",1st & 10 at DAL 47
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,6,SF,0,4,0,2 Yard Run,(1:31) E.Mitchell left tackle to 50 for 2 yards (O.Odighizuwa).,1st & 15 at SF 48
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,6,SF,0,5,0,3 Yard Run,"(1:27) (Shotgun) E.Mitchell up the middle to DAL 47 for 3 yards (L.Vander Esch, D.Wilson).",2nd & 13 at 50
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,6,SF,0,6,0,9 Yard Run,"(1:21) (Shotgun) D.Samuel right end to DAL 37 for 10 yards (T.Diggs, R.Gregory).
+The Replay Official reviewed the first down ruling, and the play was REVERSED.
+(Shotgun) D.Samuel right end to DAL 38 for 9 yards (T.Diggs, R.Gregory).",3rd & 10 at DAL 47
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,6,SF,0,7,0,-4 Yard Penalty,"(:40) (Run formation) PENALTY on SF-T.Williams, False Start, 4 yards, enforced at DAL 38 - No Play.",4th & 1 at DAL 38
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,6,SF,0,8,0,Punt,"(:40) M.Wishnowsky punts 42 yards to end zone, Center-T.Pepper, Touchback.",4th & 5 at DAL 42
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,7,DAL,0,1,0,20 Yard Pass,(:32) (Shotgun) D.Prescott pass short left to C.Wilson to DAL 29 for 9 yards. Lateral to C.Lamb pushed ob at DAL 40 for 11 yards (E.Moseley).,1st & 10 at DAL 20
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,7,DAL,0,2,0,10 Yard Pass,(:24) (Shotgun) D.Prescott pass short left to T.Pollard pushed ob at 50 for 10 yards (E.Moseley).,1st & 10 at DAL 40
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,7,DAL,0,3,0,9 Yard Pass,(:18) (Shotgun) D.Prescott pass short left to D.Schultz pushed ob at SF 41 for 9 yards (A.Al-Shaair).,1st & 10 at 50
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,7,DAL,0,4,0,17 Yard Run,(:14) (Shotgun) D.Prescott up the middle to SF 24 for 17 yards (A.Al-Shaair).,2nd & 1 at SF 41
+2021,Wild Card Weekend,SUN,01/16,49ers,Cowboys,4TH QUARTER,7,DAL,0,5,0,Pass Incomplete,(:01) (No Huddle) D.Prescott spiked the ball to stop the clock.,1st & 10 at SF 24
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,1,PIT,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,1,PIT,0,2,0,2 Yard Run,(15:00) (Shotgun) N.Harris right end to PIT 27 for 2 yards (J.Thornhill).,1st & 10 at PIT 25
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,1,PIT,0,3,0,-2 Yard Run,(14:22) N.Harris right end to PIT 25 for -2 yards (A.Hitchens).,2nd & 8 at PIT 27
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,1,PIT,0,4,0,Pass Incomplete,"(13:36) (No Huddle, Shotgun) B.Roethlisberger pass incomplete deep right to D.Johnson.",3rd & 10 at PIT 25
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,1,PIT,0,5,0,Punt,"(13:32) P.Harvin punts 54 yards to KC 21, Center-C.Kuntz. M.Hardman to KC 42 for 21 yards (M.Killebrew; M.Allen).",4th & 10 at PIT 25
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,2,KC,0,1,0,6 Yard Run,(13:17) (Shotgun) J.McKinnon up the middle to KC 48 for 6 yards (C.Heyward).,1st & 10 at KC 42
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,2,KC,0,2,0,-4 Yard Pass,(12:48) (Shotgun) P.Mahomes pass short left to M.Hardman to KC 44 for -4 yards (C.Sutton).,2nd & 4 at KC 48
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,2,KC,0,3,0,Pass Incomplete,(12:12) (Shotgun) P.Mahomes pass incomplete short middle to T.Kelce (T.Norwood).,3rd & 8 at KC 44
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,2,KC,0,4,0,Punt,"(12:07) T.Townsend punts 41 yards to PIT 15, Center-J.Winchester. R.McCloud to PIT 23 for 8 yards (N.Bolton).",4th & 8 at KC 44
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,3,PIT,0,1,0,Pass Incomplete,(11:57) (Shotgun) B.Roethlisberger pass incomplete short left to D.Watt [W.Gay].,1st & 10 at PIT 23
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,3,PIT,0,2,0,2 Yard Run,"(11:54) (Shotgun) N.Harris up the middle to PIT 25 for 2 yards (A.Hitchens, J.Reed).",2nd & 10 at PIT 23
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,3,PIT,0,3,0,Pass Incomplete,"(11:10) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short right to P.Freiermuth.",3rd & 8 at PIT 25
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,3,PIT,0,4,0,Punt,"(11:05) P.Harvin punts 56 yards to KC 19, Center-C.Kuntz. M.Hardman to KC 20 for 1 yard (D.Tuszka; A.Maulet).",4th & 8 at PIT 25
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,4,KC,0,1,0,20 Yard Pass,(10:51) P.Mahomes pass short left to J.McKinnon to KC 40 for 20 yards (Te.Edmunds).,1st & 10 at KC 20
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,4,KC,0,2,0,4 Yard Run,(10:10) J.McKinnon up the middle to KC 44 for 4 yards (C.Wormley).,1st & 10 at KC 40
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,4,KC,0,3,0,Pass Incomplete,(9:38) P.Mahomes pass incomplete short middle to T.Kelce [C.Wormley].,2nd & 6 at KC 44
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,4,KC,0,4,0,5 Yard Pass,(9:34) (Shotgun) P.Mahomes pass short middle to B.Pringle to KC 49 for 5 yards (M.Fitzpatrick).,3rd & 6 at KC 44
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,4,KC,0,5,0,Punt,"(8:53) T.Townsend punts 33 yards to PIT 18, Center-J.Winchester, fair catch by R.McCloud.",4th & 1 at KC 49
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,5,PIT,0,1,0,5 Yard Run,(8:45) (Shotgun) K.Ballage up the middle to PIT 23 for 5 yards (A.Hitchens; L.Sneed).,1st & 10 at PIT 18
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,5,PIT,0,2,0,3 Yard Pass,(8:02) (Shotgun) B.Roethlisberger pass short left to P.Freiermuth to PIT 26 for 3 yards (W.Gay).,2nd & 5 at PIT 23
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,5,PIT,0,3,0,-11 Yard Sack,(7:19) (Shotgun) B.Roethlisberger sacked at PIT 15 for -11 yards (T.Wharton).,3rd & 2 at PIT 26
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,5,PIT,0,4,0,Punt,"(6:46) P.Harvin punts 55 yards to KC 30, Center-C.Kuntz. M.Hardman pushed ob at PIT 22 for 48 yards (D.Watt).",4th & 13 at PIT 15
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,6,KC,0,1,0,Interception,(6:30) (Shotgun) P.Mahomes pass short right intended for D.Robinson INTERCEPTED by D.Bush (T.Watt) at PIT 20. D.Bush to PIT 30 for 10 yards (T.Smith).,1st & 10 at PIT 22
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,7,PIT,0,1,0,4 Yard Pass,(6:22) (Shotgun) B.Roethlisberger pass short middle to D.Johnson to PIT 34 for 4 yards (N.Bolton).,1st & 10 at PIT 30
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,7,PIT,0,2,0,7 Yard Pass,(5:39) (Shotgun) B.Roethlisberger pass short right to J.Smith-Schuster pushed ob at PIT 41 for 7 yards (L.Sneed).,2nd & 6 at PIT 34
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,7,PIT,0,3,0,2 Yard Run,"(4:59) (Shotgun) N.Harris right tackle to PIT 43 for 2 yards (M.Ingram, J.Reed).",1st & 10 at PIT 41
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,7,PIT,0,4,0,Pass Incomplete,(4:17) (Shotgun) B.Roethlisberger pass incomplete short right to D.Johnson.,2nd & 8 at PIT 43
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,7,PIT,0,5,0,-5 Yard Penalty,"(4:15) (Shotgun) PENALTY on PIT-D.Johnson, False Start, 5 yards, enforced at PIT 43 - No Play.",3rd & 8 at PIT 43
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,7,PIT,0,6,0,Pass Incomplete,(4:15) (Shotgun) B.Roethlisberger pass incomplete deep middle to J.Smith-Schuster.,3rd & 13 at PIT 38
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,7,PIT,0,7,0,Punt,"(4:12) P.Harvin punts 42 yards to KC 20, Center-C.Kuntz, downed by PIT-C.Kuntz.",4th & 13 at PIT 38
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,8,KC,0,1,0,5 Yard Pass,(3:58) (Shotgun) P.Mahomes pass short right to D.Robinson to KC 25 for 5 yards (J.Haden).,1st & 10 at KC 20
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,8,KC,0,2,0,4 Yard Run,(3:22) (Shotgun) Da.Williams up the middle to KC 29 for 4 yards (I.Loudermilk; J.Haden).,2nd & 5 at KC 25
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,8,KC,0,3,0,4 Yard Pass,(2:46) P.Mahomes pass short right to M.Hardman pushed ob at KC 33 for 4 yards (C.Sutton).,3rd & 1 at KC 29
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,8,KC,0,4,0,4 Yard Run,(2:21) J.McKinnon left end to KC 37 for 4 yards (M.Adams).,1st & 10 at KC 33
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,8,KC,0,5,0,Pass Incomplete,(1:48) (Shotgun) P.Mahomes pass incomplete short left.,2nd & 6 at KC 37
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,8,KC,0,6,0,-5 Yard Penalty,"(1:38) (Shotgun) PENALTY on KC-T.Smith, False Start, 5 yards, enforced at KC 37 - No Play.",3rd & 6 at KC 37
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,8,KC,0,7,0,15 Yard Pass,(1:38) (Shotgun) P.Mahomes pass short right to D.Robinson to KC 47 for 15 yards (M.Allen; T.Norwood).,3rd & 11 at KC 32
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,8,KC,0,8,0,Pass Incomplete,(1:01) (Shotgun) P.Mahomes pass incomplete short right to N.Gray.,1st & 10 at KC 47
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,8,KC,0,9,0,2 Yard Run,(:57) (Shotgun) P.Mahomes scrambles up the middle to KC 49 for 2 yards (T.Charlton).,2nd & 10 at KC 47
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,8,KC,0,10,0,Pass Incomplete,(:17) (Shotgun) P.Mahomes pass incomplete deep left to B.Pringle (T.Norwood).,3rd & 8 at KC 49
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,1ST QUARTER,8,KC,0,11,0,Punt,"(:07) T.Townsend punts 32 yards to PIT 19, Center-J.Winchester, fair catch by R.McCloud.",4th & 8 at KC 49
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,1,PIT,0,1,0,4 Yard Run,(15:00) (Shotgun) N.Harris right tackle to PIT 23 for 4 yards (N.Bolton; D.Nnadi).,1st & 10 at PIT 19
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,1,PIT,0,2,0,3 Yard Run,(14:16) (Shotgun) N.Harris right tackle to PIT 26 for 3 yards (D.Nnadi).,2nd & 6 at PIT 23
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,1,PIT,0,3,0,5 Yard Pass,(13:34) (Shotgun) B.Roethlisberger pass short left to D.Johnson to PIT 31 for 5 yards (M.Hughes).,3rd & 3 at PIT 26
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,1,PIT,0,4,0,4 Yard Run,(12:52) N.Harris left end to PIT 35 for 4 yards (N.Bolton; A.Hitchens).,1st & 10 at PIT 31
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,1,PIT,0,5,0,4 Yard Run,(12:07) (Shotgun) N.Harris up the middle to PIT 39 for 4 yards (M.Hughes).,2nd & 6 at PIT 35
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,1,PIT,0,6,0,Pass Incomplete,(11:27) (Shotgun) B.Roethlisberger pass incomplete deep left to D.Johnson.,3rd & 2 at PIT 39
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,1,PIT,0,7,0,Punt,"(11:22) P.Harvin punts 47 yards to KC 14, Center-C.Kuntz, out of bounds.",4th & 2 at PIT 39
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,2,PIT,1,1,0,17 Yard Run,"(11:13) D.Gore right end to KC 16 for 2 yards (R.Spillane).
+PENALTY on PIT-T.Watt, Face Mask (15 Yards), 15 yards, enforced at KC 16.",1st & 10 at KC 14
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,2,PIT,1,2,1,Touchdown Steelers,"(10:51) (Shotgun) Direct snap to M.Hardman.  M.Hardman FUMBLES (Aborted) at KC 28, recovered by KC-Da.Williams at KC 29. Da.Williams to KC 28 for -1 yards (C.Heyward; J.Schobert). FUMBLES (C.Heyward), RECOVERED by PIT-T.Watt at KC 26. T.Watt for 26 yards, TOUCHDOWN.",1st & 10 at KC 31
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,3,KC,1,1,0,Kickoff,C.Boswell kicks 64 yards from PIT 35 to KC 1. B.Pringle to KC 24 for 23 yards (J.Layne).,Kickoff from PIT 35
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,3,KC,1,2,0,20 Yard Pass,(10:35) P.Mahomes pass deep left to T.Hill pushed ob at KC 44 for 20 yards (C.Sutton) [T.Charlton].,1st & 10 at KC 24
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,3,KC,1,3,0,2 Yard Pass,(10:01) (Shotgun) P.Mahomes pass short left to T.Hill to KC 46 for 2 yards (A.Witherspoon).,1st & 10 at KC 44
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,3,KC,1,4,0,14 Yard Pass,(9:22) (Shotgun) P.Mahomes pass short left to J.McKinnon to PIT 40 for 14 yards (C.Heyward).,2nd & 8 at KC 46
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,3,KC,1,5,0,-5 Yard Penalty,"(8:42) (Shotgun) PENALTY on KC-B.Bell, False Start, 5 yards, enforced at PIT 40 - No Play.",1st & 10 at PIT 40
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,3,KC,1,6,0,23 Yard Run,(8:20) (Shotgun) P.Mahomes scrambles left end ran ob at PIT 22 for 23 yards (Te.Edmunds).,1st & 15 at PIT 45
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,3,KC,1,7,0,-2 Yard Run,(7:46) J.McKinnon left tackle to PIT 24 for -2 yards (T.Watt).,1st & 10 at PIT 22
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,3,KC,1,8,0,15 Yard Pass,(7:10) (Shotgun) P.Mahomes pass short right to T.Kelce to PIT 9 for 15 yards (C.Sutton).,2nd & 12 at PIT 24
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,3,KC,1,9,0,5 Yard Pass,(6:29) P.Mahomes pass short right to J.McKinnon pushed ob at PIT 4 for 5 yards (R.Spillane).,1st & 9 at PIT 9
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,3,KC,1,10,0,Touchdown Chiefs,"(5:50) (Shotgun) P.Mahomes pass short middle to J.McKinnon for 4 yards, TOUCHDOWN.",2nd & 4 at PIT 4
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,3,KC,1,11,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-T.Townsend.",XP attempt from PIT 15
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,4,PIT,0,1,0,Kickoff,H.Butker kicks 63 yards from KC 35 to PIT 2. R.McCloud to PIT 25 for 23 yards (N.Gray).,Kickoff from KC 35
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,4,PIT,0,2,0,Pass Incomplete,(5:40) (Shotgun) B.Roethlisberger pass incomplete deep middle to C.Claypool (C.Ward).,1st & 10 at PIT 25
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,4,PIT,0,3,0,8 Yard Run,(5:33) N.Harris right tackle to PIT 33 for 8 yards (F.Clark).,2nd & 10 at PIT 25
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,4,PIT,0,4,0,Pass Incomplete,"(4:51) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short left to D.Johnson.",3rd & 2 at PIT 33
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,4,PIT,0,5,0,Punt,"(4:46) P.Harvin punts 41 yards to KC 26, Center-C.Kuntz, fair catch by M.Hughes.",4th & 2 at PIT 33
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,5,KC,1,1,0,Pass Incomplete,(4:38) (Shotgun) P.Mahomes pass incomplete short right to B.Pringle [T.Watt].,1st & 10 at KC 26
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,5,KC,1,2,0,31 Yard Pass,(4:34) (Shotgun) P.Mahomes pass short middle to T.Kelce pushed ob at PIT 43 for 31 yards (J.Haden).,2nd & 10 at KC 26
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,5,KC,1,3,0,15 Yard Run,(4:04) (Shotgun) J.McKinnon up the middle to PIT 28 for 15 yards (M.Fitzpatrick).,1st & 10 at PIT 43
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,5,KC,1,4,0,13 Yard Run,(3:18) (Shotgun) J.McKinnon right tackle to PIT 15 for 13 yards (A.Highsmith).,1st & 10 at PIT 28
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,5,KC,1,5,0,Pass for No Gain,(2:41) (Shotgun) P.Mahomes pass short right to T.Hill pushed ob at PIT 15 for no gain (J.Haden).,1st & 10 at PIT 15
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,5,KC,1,6,0,3 Yard Pass,(2:12) P.Mahomes pass short right to B.Bell to PIT 12 for 3 yards (R.Spillane).,2nd & 10 at PIT 15
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,5,KC,1,7,0,Touchdown Chiefs,"(2:00) (Shotgun) P.Mahomes pass short right to B.Pringle for 12 yards, TOUCHDOWN.
+PENALTY on PIT-A.Highsmith, Roughing the Passer, 15 yards, enforced between downs.",3rd & 7 at PIT 12
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,5,KC,1,8,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-T.Townsend.",XP attempt from PIT 15
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,6,PIT,0,1,0,Kickoff,H.Butker kicks 50 yards from 50 to PIT 0. R.McCloud to PIT 14 for 14 yards (Z.Anderson).,Kickoff from 50
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,6,PIT,0,2,0,Run for No Gain,(1:51) (Shotgun) N.Harris up the middle to PIT 14 for no gain (C.Jones; F.Clark).,1st & 10 at PIT 14
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,6,PIT,0,3,0,5 Yard Pass,(1:17) (Shotgun) B.Roethlisberger pass short left to P.Freiermuth pushed ob at PIT 19 for 5 yards (C.Ward).,2nd & 10 at PIT 14
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,6,PIT,0,4,0,Pass Incomplete,(1:12) (Shotgun) B.Roethlisberger pass incomplete deep right to C.Claypool.,3rd & 5 at PIT 19
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,6,PIT,0,5,0,Punt,"(1:06) P.Harvin punts 53 yards to KC 28, Center-C.Kuntz. T.Hill to KC 20 for -8 yards (M.Killebrew).",4th & 5 at PIT 19
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,7,KC,1,1,0,Pass Incomplete,(:52) (Shotgun) P.Mahomes pass incomplete short left.,1st & 10 at KC 20
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,7,KC,1,2,0,15 Yard Pass,(:48) (Shotgun) P.Mahomes pass short left to J.McKinnon pushed ob at KC 35 for 15 yards (A.Witherspoon).,2nd & 10 at KC 20
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,7,KC,1,3,0,27 Yard Pass,(:41) (Shotgun) P.Mahomes pass deep right to D.Robinson pushed ob at PIT 38 for 27 yards (M.Fitzpatrick).,1st & 10 at KC 35
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,7,KC,1,4,0,-10 Yard Sack,(:35) (Shotgun) P.Mahomes sacked at PIT 48 for -10 yards (A.Highsmith).,1st & 10 at PIT 38
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,7,KC,1,5,0,Pass Incomplete,(:29) (Shotgun) P.Mahomes pass incomplete short middle to N.Gray.,2nd & 20 at PIT 48
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,7,KC,1,6,0,Touchdown Chiefs,"(:22) (Shotgun) P.Mahomes pass deep right to T.Kelce for 48 yards, TOUCHDOWN.",3rd & 20 at PIT 48
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,7,KC,1,7,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-T.Townsend.",XP attempt from PIT 15
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,8,PIT,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,2ND QUARTER,8,PIT,0,2,0,-1 Yard Run,(:13) B.Roethlisberger kneels to PIT 24 for -1 yards.,1st & 10 at PIT 25
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,1,KC,1,1,0,Kickoff,C.Boswell kicks 60 yards from PIT 35 to KC 5. B.Pringle to KC 32 for 27 yards (D.Watt).,Kickoff from PIT 35
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,1,KC,1,2,0,12 Yard Run,(14:53) (Shotgun) J.McKinnon left end pushed ob at KC 44 for 12 yards (D.Bush).,1st & 10 at KC 32
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,1,KC,1,3,0,1 Yard Run,(14:20) (Shotgun) J.McKinnon up the middle to KC 45 for 1 yard (Te.Edmunds).,1st & 10 at KC 44
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,1,KC,1,4,0,29 Yard Pass,(13:38) (Shotgun) P.Mahomes pass short left to D.Robinson to PIT 26 for 29 yards (M.Fitzpatrick).,2nd & 9 at KC 45
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,1,KC,1,5,0,-10 Yard Sack,"(12:54) (Shotgun) P.Mahomes sacked at PIT 36 for -10 yards (M.Adams).
+Penalty on KC-A.Wylie, Offensive Holding, declined.",1st & 10 at PIT 26
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,1,KC,1,6,0,8 Yard Pass,(12:32) (Shotgun) P.Mahomes pass short left to T.Kelce to PIT 28 for 8 yards (C.Heyward; A.Highsmith).,2nd & 20 at PIT 36
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,1,KC,1,7,0,23 Yard Pass,(11:51) (Shotgun) P.Mahomes pass short right to J.McKinnon to PIT 5 for 23 yards (Te.Edmunds) [T.Watt].,3rd & 12 at PIT 28
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,1,KC,1,8,0,Run for No Gain,(11:12) (Shotgun) J.McKinnon right end to PIT 5 for no gain (H.Mondeaux; I.Loudermilk).,1st & 5 at PIT 5
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,1,KC,1,9,0,4 Yard Pass,"(10:32) (Shotgun) P.Mahomes pass short middle to T.Hill for 5 yards, TOUCHDOWN.
+The Replay Official reviewed the runner broke the plane ruling, and the play was REVERSED.
+(Shotgun) P.Mahomes pass short middle to T.Hill to PIT 1 for 4 yards (C.Sutton).",2nd & 5 at PIT 5
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,1,KC,1,10,0,Touchdown Chiefs,"(10:18) N.Allegretti reported in as eligible.  P.Mahomes pass short right to N.Allegretti for 1 yard, TOUCHDOWN.",3rd & 1 at PIT 1
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,1,KC,1,11,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-T.Townsend.",XP attempt from PIT 15
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,2,PIT,0,1,0,Kickoff,H.Butker kicks 64 yards from KC 35 to PIT 1. R.McCloud pushed ob at PIT 30 for 29 yards (M.Kemp).,Kickoff from KC 35
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,2,PIT,0,2,0,Fumble,"(10:07) (Shotgun) B.Roethlisberger pass short right to N.Harris to PIT 30 for no gain (W.Gay). FUMBLES (W.Gay), RECOVERED by KC-F.Clark at PIT 29.",1st & 10 at PIT 30
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,3,KC,1,1,0,-2 Yard Run,(9:56) (Shotgun) J.McKinnon left end to PIT 31 for -2 yards (J.Schobert).,1st & 10 at PIT 29
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,3,KC,1,2,0,Touchdown Chiefs,"(9:20) (Shotgun) P.Mahomes pass deep right to T.Hill for 31 yards, TOUCHDOWN.",2nd & 12 at PIT 31
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,3,KC,1,3,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-T.Townsend.",XP attempt from PIT 15
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,4,PIT,1,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,4,PIT,1,2,0,-2 Yard Run,"(9:14) (Shotgun) N.Harris left end to PIT 23 for -2 yards (C.Jones, F.Clark).",1st & 10 at PIT 25
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,4,PIT,1,3,0,16 Yard Pass,(8:46) (Shotgun) B.Roethlisberger pass short left to C.Claypool to PIT 39 for 16 yards (C.Ward).,2nd & 12 at PIT 23
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,4,PIT,1,4,0,Pass for No Gain,"(8:14) (No Huddle, Shotgun) B.Roethlisberger pass short left to N.Harris pushed ob at PIT 39 for no gain (C.Ward).",1st & 10 at PIT 39
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,4,PIT,1,5,0,6 Yard Pass,"(7:48) (No Huddle, Shotgun) B.Roethlisberger pass short middle to J.Smith-Schuster to PIT 45 for 6 yards (L.Sneed).",2nd & 10 at PIT 39
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,4,PIT,1,6,0,8 Yard Pass,"(7:08) (No Huddle, Shotgun) B.Roethlisberger pass short left to P.Freiermuth to KC 47 for 8 yards (N.Bolton).",3rd & 4 at PIT 45
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,4,PIT,1,7,0,5 Yard Pass,"(6:32) (No Huddle, Shotgun) B.Roethlisberger pass short left to C.Claypool to KC 42 for 5 yards (D.Nnadi).",1st & 10 at KC 47
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,4,PIT,1,8,0,2 Yard Run,"(6:01) (No Huddle, Shotgun) K.Ballage up the middle to KC 40 for 2 yards (A.Okafor, A.Hitchens).",2nd & 5 at KC 42
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,4,PIT,1,9,0,5 Yard Pass,(5:24) (Shotgun) B.Roethlisberger pass short left to J.Smith-Schuster pushed ob at KC 35 for 5 yards (L.Sneed).,3rd & 3 at KC 40
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,4,PIT,1,10,0,22 Yard Pass,"(4:51) (No Huddle, Shotgun) B.Roethlisberger pass deep left to J.Washington to KC 13 for 22 yards (C.Ward).",1st & 10 at KC 35
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,4,PIT,1,11,0,Touchdown Steelers,"(4:15) (No Huddle, Shotgun) B.Roethlisberger pass short right to D.Johnson for 13 yards, TOUCHDOWN.",1st & 10 at KC 13
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,3RD QUARTER,4,PIT,1,12,1,Extra Point Good,"C.Boswell extra point is GOOD, Center-C.Kuntz, Holder-P.Harvin.",XP attempt from KC 15
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,1,KC,1,1,0,Kickoff,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback.",Kickoff from PIT 35
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,1,KC,1,2,0,-4 Yard Run,(4:10) D.Gore left end to KC 21 for -4 yards (D.Tuszka).,1st & 10 at KC 25
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,1,KC,1,3,0,6 Yard Pass,(3:32) (Shotgun) P.Mahomes pass short right to T.Kelce to KC 27 for 6 yards (Te.Edmunds).,2nd & 14 at KC 21
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,1,KC,1,4,0,15 Yard Pass,(2:49) (Shotgun) P.Mahomes pass short right to B.Pringle pushed ob at KC 42 for 15 yards (J.Haden; T.Norwood).,3rd & 8 at KC 27
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,1,KC,1,5,0,3 Yard Pass,(2:14) P.Mahomes pass short right to B.Pringle to KC 45 for 3 yards (J.Haden).,1st & 10 at KC 42
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,1,KC,1,6,0,41 Yard Pass,(1:30) (Shotgun) P.Mahomes pass short left to M.Hardman pushed ob at PIT 14 for 41 yards (R.Spillane).,2nd & 7 at KC 45
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,1,KC,1,7,0,5 Yard Run,(:48) (Shotgun) D.Gore up the middle to PIT 9 for 5 yards (I.Loudermilk).,1st & 10 at PIT 14
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,1,KC,1,8,0,4 Yard Run,(:07) (Shotgun) P.Mahomes scrambles right end to PIT 5 for 4 yards (R.Spillane).,2nd & 5 at PIT 9
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,1,KC,1,9,0,3 Yard Run,(15:00) M.Burton up the middle to PIT 2 for 3 yards (M.Fitzpatrick; M.Killebrew).,3rd & 1 at PIT 5
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,1,KC,1,10,0,Touchdown Chiefs,"(14:18) (Shotgun) Direct snap to T.Kelce.  T.Kelce pass short middle to B.Pringle for 2 yards, TOUCHDOWN.",1st & 2 at PIT 2
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,1,KC,1,11,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-T.Townsend.",XP attempt from PIT 15
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,2,PIT,1,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,2,PIT,1,2,0,4 Yard Run,(14:13) (Shotgun) N.Harris up the middle to PIT 29 for 4 yards (L.Sneed).,1st & 10 at PIT 25
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,2,PIT,1,3,0,1 Yard Pass,(13:42) (Shotgun) B.Roethlisberger pass short right to J.Smith-Schuster to PIT 30 for 1 yard (N.Bolton).,2nd & 6 at PIT 29
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,2,PIT,1,4,0,4 Yard Pass,"(13:05) (No Huddle, Shotgun) B.Roethlisberger pass short right to C.Claypool to PIT 34 for 4 yards (D.Sorensen; C.Ward).",3rd & 5 at PIT 30
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,2,PIT,1,5,0,8 Yard Run,"(12:17) B.Snell right end to PIT 42 for 8 yards (D.Sorensen, J.Thornhill).",4th & 1 at PIT 34
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,2,PIT,1,6,0,-10 Yard Penalty,"(11:37) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short middle to J.Washington (J.Reed) [F.Clark].
+PENALTY on PIT-D.Moore, Offensive Holding, 10 yards, enforced at PIT 42 - No Play.",1st & 10 at PIT 42
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,2,PIT,1,7,0,Pass Incomplete,(11:33) (Shotgun) B.Roethlisberger pass incomplete deep right to J.Washington.,1st & 20 at PIT 32
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,2,PIT,1,8,0,15 Yard Penalty,"(11:28) (Shotgun) B.Roethlisberger pass short left intended for R.McCloud INTERCEPTED by L.Sneed at PIT 44. L.Sneed to PIT 44 for no gain (R.McCloud).
+PENALTY on KC-A.Okafor, Roughing the Passer, 15 yards, enforced at PIT 32 - No Play.",2nd & 20 at PIT 32
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,2,PIT,1,9,0,7 Yard Run,(11:22) (Shotgun) B.Snell right end to KC 46 for 7 yards (L.Sneed).,1st & 10 at PIT 47
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,2,PIT,1,10,0,7 Yard Pass,(10:46) (Shotgun) B.Roethlisberger pass short right to J.Smith-Schuster pushed ob at KC 39 for 7 yards (C.Ward).,2nd & 3 at KC 46
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,2,PIT,1,11,0,9 Yard Pass,(10:11) (Shotgun) B.Roethlisberger pass short middle to P.Freiermuth to KC 30 for 9 yards (L.Sneed).,1st & 10 at KC 39
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,2,PIT,1,12,0,Pass Incomplete,(9:26) (Shotgun) B.Roethlisberger pass incomplete short left to C.Claypool (T.Wharton).,2nd & 1 at KC 30
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,2,PIT,1,13,0,2 Yard Run,(9:21) (Shotgun) K.Ballage up the middle to KC 28 for 2 yards (F.Clark).,3rd & 1 at KC 30
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,2,PIT,1,14,0,Pass Incomplete,"(8:50) (No Huddle, Shotgun) B.Roethlisberger pass incomplete deep right to D.Johnson.",1st & 10 at KC 28
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,2,PIT,1,15,0,8 Yard Pass,(8:45) (Shotgun) B.Roethlisberger pass short middle to R.McCloud to KC 20 for 8 yards (N.Bolton).,2nd & 10 at KC 28
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,2,PIT,1,16,0,Pass Incomplete,"(8:15) (No Huddle, Shotgun) B.Roethlisberger pass incomplete deep left to C.Claypool.",3rd & 2 at KC 20
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,2,PIT,1,17,0,5 Yard Pass,(8:10) (Shotgun) B.Roethlisberger pass short right to D.Johnson to KC 15 for 5 yards (N.Bolton).,4th & 2 at KC 20
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,2,PIT,1,18,0,Touchdown Steelers,"(7:41) (No Huddle, Shotgun) B.Roethlisberger pass short left to J.Washington for 15 yards, TOUCHDOWN.",1st & 10 at KC 15
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,2,PIT,1,19,1,Extra Point Good,"C.Boswell extra point is GOOD, Center-C.Kuntz, Holder-P.Harvin.",XP attempt from KC 15
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,3,KC,0,1,0,Kickoff,C.Boswell kicks onside 15 yards from PIT 35 to 50. D.Robinson (didn't try to advance) to 50 for no gain.,Kickoff from PIT 35
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,3,KC,0,2,0,6 Yard Run,(7:35) M.Hardman left end to PIT 44 for 6 yards (Te.Edmunds).,1st & 10 at 50
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,3,KC,0,3,0,11 Yard Run,(6:51) J.McKinnon right end pushed ob at PIT 33 for 11 yards (M.Fitzpatrick).,2nd & 4 at PIT 44
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,3,KC,0,4,0,-1 Yard Run,(6:12) (Shotgun) J.McKinnon left end to PIT 34 for -1 yards (C.Wormley).,1st & 10 at PIT 33
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,3,KC,0,5,0,2 Yard Pass,(5:27) P.Mahomes pass short right to M.Hardman to PIT 32 for 2 yards (T.Watt).,2nd & 11 at PIT 34
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,3,KC,0,6,0,-14 Yard Sack,(4:41) (Shotgun) P.Mahomes sacked at PIT 46 for -14 yards (T.Watt).,3rd & 9 at PIT 32
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,3,KC,0,7,0,Punt,"(4:35) T.Townsend punts 32 yards to PIT 14, Center-J.Winchester. R.McCloud to PIT 19 for 5 yards (N.Gray).",4th & 23 at PIT 46
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,4,PIT,0,1,0,Run for No Gain,"(4:24) (Shotgun) B.Roethlisberger FUMBLES (Aborted) at PIT 15, recovered by PIT-B.Snell at PIT 15. B.Snell to PIT 28 for 13 yards (A.Watts).",1st & 10 at PIT 19
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,4,PIT,0,2,0,5 Yard Pass,"(3:50) (No Huddle, Shotgun) B.Roethlisberger pass short left to B.Snell to PIT 33 for 5 yards (A.Watts).",2nd & 1 at PIT 28
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,4,PIT,0,3,0,Pass Incomplete,"(3:15) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short middle to J.Smith-Schuster [M.Danna].",1st & 10 at PIT 33
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,4,PIT,0,4,0,5 Yard Pass,(3:11) (Shotgun) B.Roethlisberger pass short middle to Z.Gentry to PIT 38 for 5 yards (A.Watts).,2nd & 10 at PIT 33
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,4,PIT,0,5,0,7 Yard Pass,"(2:41) (No Huddle, Shotgun) B.Roethlisberger pass short right to D.Johnson to PIT 45 for 7 yards (L.Sneed; J.Thornhill).",3rd & 5 at PIT 38
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,4,PIT,0,6,0,7 Yard Pass,"(2:09) (No Huddle, Shotgun) B.Roethlisberger pass short middle to Z.Gentry to KC 48 for 7 yards (B.Niemann).",1st & 10 at PIT 45
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,4,PIT,0,7,0,Pass Incomplete,(2:00) (Shotgun) B.Roethlisberger pass incomplete short right to J.Smith-Schuster.,2nd & 3 at KC 48
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,4,PIT,0,8,0,4 Yard Run,"(1:56) (No Huddle, Shotgun) K.Ballage right end to KC 44 for 4 yards (D.Sorensen; A.Okafor).",3rd & 3 at KC 48
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,4,PIT,0,9,0,-3 Yard Sack,"(1:24) (No Huddle, Shotgun) B.Roethlisberger sacked at KC 47 for -3 yards (M.Danna).",1st & 10 at KC 44
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,4,PIT,0,10,0,10 Yard Pass,"(:49) (No Huddle, Shotgun) B.Roethlisberger pass short right to Z.Gentry to KC 37 for 10 yards (B.Niemann).",2nd & 13 at KC 47
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,4,PIT,0,11,0,12 Yard Pass,(:41) (Shotgun) B.Roethlisberger pass short right to R.McCloud to KC 25 for 12 yards (J.Thornhill).,3rd & 3 at KC 37
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,4,PIT,0,12,0,11 Yard Pass,"(:19) (No Huddle, Shotgun) B.Roethlisberger pass short middle to B.Snell to KC 14 for 11 yards (D.Sorensen, A.Watts).",1st & 10 at KC 25
+2021,Wild Card Weekend,SUN,01/16,Steelers,Chiefs,4TH QUARTER,4,PIT,0,13,0,11 Yard Pass,(:11) (Shotgun) B.Roethlisberger pass short right to Z.Gentry to KC 3 for 11 yards (B.Niemann; J.Thornhill).,1st & 10 at KC 14
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,1,ARI,0,1,0,Kickoff,"M.Gay kicks 65 yards from LA 35 to end zone, Touchback.",Kickoff from LA 35
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,1,ARI,0,2,0,2 Yard Run,(15:00) (Shotgun) C.Edmonds up the middle to ARI 27 for 2 yards (A.Robinson).,1st & 10 at ARI 25
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,1,ARI,0,3,0,2 Yard Pass,(14:37) (No Huddle) K.Murray pass short left to D.Daniels to ARI 29 for 2 yards (L.Floyd).,2nd & 8 at ARI 27
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,1,ARI,0,4,0,Pass Incomplete,(13:58) (Shotgun) K.Murray pass incomplete deep right to A.Green.,3rd & 6 at ARI 29
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,1,ARI,0,5,0,Punt,"(13:52) A.Lee punts 51 yards to LA 20, Center-A.Brewer, fair catch by B.Powell.",4th & 6 at ARI 29
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,2,LA,0,1,0,35 Yard Run,(13:44) S.Michel left tackle to ARI 45 for 35 yards (J.Thompson). LA-A.Whitworth was injured during the play.,1st & 10 at LA 20
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,2,LA,0,2,0,5 Yard Pass,(13:12) M.Stafford pass short right to C.Kupp ran ob at ARI 40 for 5 yards (B.Murphy).,1st & 10 at ARI 45
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,2,LA,0,3,0,-5 Yard Penalty,"(12:29) PENALTY on LA-T.Higbee, False Start, 5 yards, enforced at ARI 40 - No Play.",2nd & 5 at ARI 40
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,2,LA,0,4,0,Run for No Gain,(12:04) (Shotgun) S.Michel up the middle to ARI 45 for no gain (J.Hicks; C.Jones).,2nd & 10 at ARI 45
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,2,LA,0,5,0,-7 Yard Sack,"(11:39) (No Huddle, Shotgun) M.Stafford sacked at LA 48 for -7 yards (M.Golden).",3rd & 10 at ARI 45
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,2,LA,0,6,0,Punt,"(11:05) J.Hekker punts 43 yards to ARI 9, Center-M.Orzech, downed by LA-J.Gervase.",4th & 17 at LA 48
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,3,ARI,0,1,0,-1 Yard Run,(10:54) (Shotgun) K.Murray up the middle to ARI 8 for -1 yards (V.Miller).,1st & 10 at ARI 9
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,3,ARI,0,2,0,Pass Incomplete,(10:17) (Shotgun) K.Murray pass incomplete short middle to C.Kirk.,2nd & 11 at ARI 8
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,3,ARI,0,3,0,Pass Incomplete,(10:13) (Shotgun) K.Murray pass incomplete deep right to C.Kirk.,3rd & 11 at ARI 8
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,3,ARI,0,4,0,Punt,"(10:06) A.Lee punts 52 yards to LA 40, Center-A.Brewer. B.Powell to LA 48 for 8 yards (T.Vallejo, A.Brewer).",4th & 11 at ARI 8
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,4,LA,1,1,0,17 Yard Pass,(9:55) M.Stafford pass short middle to O.Beckham to ARI 35 for 17 yards (C.Jones).,1st & 10 at LA 48
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,4,LA,1,2,0,7 Yard Run,(9:14) C.Akers left tackle to ARI 28 for 7 yards (Z.Allen; Z.Collins).,1st & 10 at ARI 35
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,4,LA,1,3,0,2 Yard Run,(8:28) (Shotgun) C.Akers up the middle to ARI 26 for 2 yards (C.Jones).,2nd & 3 at ARI 28
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,4,LA,1,4,0,1 Yard Run,(7:47) J.Noteboom reported in as eligible.  M.Stafford up the middle to ARI 25 for 1 yard (D.Thompson; T.Vallejo).,3rd & 1 at ARI 26
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,4,LA,1,5,0,-9 Yard Run,"(7:02) C.Akers left tackle to ARI 8 for 17 yards (J.Hicks; J.Thompson).
+PENALTY on LA-D.Edwards, Offensive Holding, 10 yards, enforced at ARI 24.",1st & 10 at ARI 25
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,4,LA,1,6,0,6 Yard Run,(6:32) C.Akers left tackle to ARI 28 for 6 yards (J.Thompson; C.Jones).,1st & 19 at ARI 34
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,4,LA,1,7,0,22 Yard Pass,(5:45) (Shotgun) M.Stafford pass short middle to T.Higbee to ARI 6 for 22 yards (I.Simmons).,2nd & 13 at ARI 28
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,4,LA,1,8,0,1 Yard Run,(5:18) (No Huddle) S.Michel right end to ARI 5 for 1 yard (K.Peterson).,1st & 6 at ARI 6
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,4,LA,1,9,0,1 Yard Run,"(4:33) (Shotgun) C.Akers up the middle to ARI 4 for 1 yard (D.Kennard, J.Hicks).",2nd & 5 at ARI 5
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,4,LA,1,10,0,Touchdown Rams,"(3:55) (Shotgun) M.Stafford pass short left to O.Beckham for 4 yards, TOUCHDOWN.",3rd & 4 at ARI 4
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,4,LA,1,11,1,Extra Point Good,"M.Gay extra point is GOOD, Center-M.Orzech, Holder-J.Hekker.",XP attempt from ARI 15
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,5,ARI,0,1,0,Kickoff,"M.Gay kicks 65 yards from LA 35 to end zone, Touchback.",Kickoff from LA 35
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,5,ARI,0,2,0,2 Yard Run,(3:50) (Shotgun) C.Edmonds up the middle to ARI 27 for 2 yards (A.Robinson; T.Reeder).,1st & 10 at ARI 25
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,5,ARI,0,3,0,-8 Yard Sack,"(3:20) (No Huddle, Shotgun) K.Murray sacked at ARI 19 for -8 yards (V.Miller).",2nd & 8 at ARI 27
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,5,ARI,0,4,0,Pass for No Gain,"(2:39) (Shotgun) K.Murray pass short left to C.Kirk to ARI 15 for -4 yards. C.Kirk pass short right to J.Conner to ARI 37 for 22 yards (T.Howard).
+PENALTY on ARI-C.Kirk, Illegal Forward Pass, 5 yards, enforced at ARI 19.",3rd & 16 at ARI 19
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,1ST QUARTER,5,ARI,0,5,0,Punt,"(2:22) A.Lee punts 54 yards to LA 32, Center-A.Brewer, fair catch by B.Powell.",4th & 21 at ARI 14
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,1,LA,1,1,0,-2 Yard Run,(2:15) C.Akers up the middle to LA 30 for -2 yards (C.Peters).,1st & 10 at LA 32
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,1,LA,1,2,0,15 Yard Run,(1:30) C.Akers right tackle to LA 45 for 15 yards (M.Golden; B.Murphy).,2nd & 12 at LA 30
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,1,LA,1,3,0,14 Yard Pass,(:41) (Shotgun) M.Stafford pass short middle to T.Higbee to ARI 41 for 14 yards (J.Hicks).,1st & 10 at LA 45
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,1,LA,1,4,0,5 Yard Run,(15:00) C.Akers right tackle to ARI 36 for 5 yards (C.Jones).,1st & 10 at ARI 41
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,1,LA,1,5,0,3 Yard Run,"(14:19) (Shotgun) C.Akers up the middle to ARI 33 for 3 yards (J.Hicks, T.Vallejo).",2nd & 5 at ARI 36
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,1,LA,1,6,0,31 Yard Pass,(13:33) (Shotgun) M.Stafford pass deep left to O.Beckham pushed ob at ARI 2 for 31 yards (J.Thompson).,3rd & 2 at ARI 33
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,1,LA,1,7,0,1 Yard Run,"(12:59) S.Michel up the middle for 2 yards, TOUCHDOWN.
+The Replay Official reviewed the runner broke the plane ruling, and the play was REVERSED.
+S.Michel up the middle to ARI 1 for 1 yard (J.Watt; K.Peterson).",1st & 2 at ARI 2
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,1,LA,1,8,0,Run for No Gain,(12:42) J.Noteboom reported in as eligible.  M.Stafford up the middle to ARI 1 for no gain (T.Vallejo; Z.Allen).,2nd & 1 at ARI 1
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,1,LA,1,9,0,Touchdown Rams,"(12:01) M.Stafford up the middle to ARI 1 for no gain (Z.Allen; M.Golden).
+Los Angeles Rams challenged the short of the goal line ruling, and the play was REVERSED.
+M.Stafford up the middle for 1 yard, TOUCHDOWN.",3rd & 1 at ARI 1
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,1,LA,1,10,1,Extra Point Good,"M.Gay extra point is GOOD, Center-M.Orzech, Holder-J.Hekker.",XP attempt from ARI 15
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,2,ARI,0,1,0,Kickoff,"M.Gay kicks 65 yards from LA 35 to end zone, Touchback.",Kickoff from LA 35
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,2,ARI,0,2,0,Sack,(11:58) (Shotgun) K.Murray sacked at ARI 18 for -7 yards (sack split by G.Gaines and A.Donald).,1st & 10 at ARI 25
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,2,ARI,0,3,0,Pass Incomplete,(11:19) (Shotgun) K.Murray pass incomplete short right to C.Kirk.,2nd & 17 at ARI 18
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,2,ARI,0,4,0,6 Yard Pass,(11:14) (Shotgun) K.Murray pass short left to R.Moore pushed ob at ARI 24 for 6 yards (T.Howard).,3rd & 17 at ARI 18
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,2,ARI,0,5,0,Punt,"(10:40) A.Lee punts 37 yards to LA 39, Center-A.Brewer. B.Powell to 50 for 11 yards (A.Hamilton).",4th & 11 at ARI 24
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,3,LA,0,1,0,4 Yard Run,(10:30) (Shotgun) M.Stafford scrambles up the middle to ARI 46 for 4 yards (T.Vallejo).,1st & 10 at 50
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,3,LA,0,2,0,2 Yard Run,(9:43) (Shotgun) S.Michel up the middle to ARI 44 for 2 yards (M.Golden).,2nd & 6 at ARI 46
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,3,LA,0,3,0,Pass Incomplete,(9:00) (Shotgun) M.Stafford pass incomplete deep right to C.Akers.,3rd & 4 at ARI 44
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,3,LA,0,4,0,Punt,"(8:55) J.Hekker punts 43 yards to ARI 1, Center-M.Orzech, downed by LA-B.Skowronek.",4th & 4 at ARI 44
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,4,LA,1,1,0,3 Yard Run,(8:45) J.Conner up the middle to ARI 4 for 3 yards (L.Floyd; D.Williams).,1st & 10 at ARI 1
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,4,LA,1,2,0,Pass Incomplete,"(8:13) (Shotgun) K.Murray pass deep right to A.Green to ARI 26 for 22 yards (N.Scott). FUMBLES (N.Scott), ball out of bounds at ARI 24.
+Los Angeles Rams challenged the pass completion ruling, and the play was REVERSED.
+(Shotgun) K.Murray pass incomplete deep right to A.Green (N.Scott). ARI-A.Green was injured during the play.",2nd & 7 at ARI 4
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,4,LA,1,3,1,Touchdown Rams,"(8:07) (Shotgun) K.Murray pass short right intended for R.Moore INTERCEPTED by D.Long [T.Reeder] at ARI 3. D.Long for 3 yards, TOUCHDOWN.",3rd & 7 at ARI 4
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,5,ARI,0,1,0,Kickoff,M.Gay kicks 67 yards from LA 35 to ARI -2. R.Moore to ARI 13 for 15 yards (A.Brooks; J.Funk).,Kickoff from LA 35
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,5,ARI,0,2,0,5 Yard Pass,(7:54) (Shotgun) K.Murray pass short middle to Z.Ertz to ARI 18 for 5 yards (T.Burgess).,1st & 10 at ARI 13
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,5,ARI,0,3,0,11 Yard Run,"(7:17) (No Huddle, Shotgun) J.Conner up the middle to ARI 29 for 11 yards (T.Burgess).",2nd & 5 at ARI 18
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,5,ARI,0,4,0,Pass Incomplete,"(6:45) (No Huddle, Shotgun) K.Murray pass incomplete deep left to C.Edmonds.",1st & 10 at ARI 29
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,5,ARI,0,5,0,11 Yard Pass,(6:38) (Shotgun) K.Murray pass short left to R.Moore to ARI 40 for 11 yards (D.Long).,2nd & 10 at ARI 29
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,5,ARI,0,6,0,10 Yard Run,"(6:12) (No Huddle, Shotgun) Direct snap to C.Edmonds.  C.Edmonds right end to 50 for 10 yards (J.Ramsey).",1st & 10 at ARI 40
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,5,ARI,0,7,0,-2 Yard Pass,"(5:35) (No Huddle, Shotgun) K.Murray pass short left to R.Moore to ARI 48 for -2 yards (V.Miller).",1st & 10 at 50
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,5,ARI,0,8,0,Interception,(4:53) K.Murray pass short middle intended for J.Conner INTERCEPTED by M.Copeland at LA 49. M.Copeland to LA 49 for no gain (D.Daniels).,2nd & 12 at ARI 48
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,6,LA,0,1,0,Pass Incomplete,(4:46) M.Stafford pass incomplete deep left to C.Kupp [C.Peters].,1st & 10 at LA 49
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,6,LA,0,2,0,-10 Yard Penalty,"(4:41) (Shotgun) M.Stafford pass short middle to O.Beckham to ARI 27 for 24 yards (M.Wilson).
+PENALTY on LA-A.Whitworth, Offensive Holding, 10 yards, enforced at LA 49 - No Play.",2nd & 10 at LA 49
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,6,LA,0,3,0,-2 Yard Run,(4:08) C.Akers right tackle to LA 37 for -2 yards (T.Vallejo).,2nd & 20 at LA 39
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,6,LA,0,4,0,8 Yard Run,(3:23) (Shotgun) J.Funk left guard to LA 45 for 8 yards (C.Jones; B.Baker).,3rd & 22 at LA 37
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,6,LA,0,5,0,Punt,"(2:53) J.Hekker punts 45 yards to ARI 10, Center-M.Orzech, fair catch by C.Kirk.",4th & 14 at LA 45
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,7,ARI,0,1,0,-5 Yard Penalty,"(2:46) (Shotgun) PENALTY on ARI-K.Beachum, False Start, 5 yards, enforced at ARI 10 - No Play.",1st & 10 at ARI 10
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,7,ARI,0,2,0,Pass Incomplete,(2:46) (Shotgun) K.Murray pass incomplete short right to D.Daniels.,1st & 15 at ARI 5
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,7,ARI,0,3,0,Pass Incomplete,(2:39) (Shotgun) K.Murray pass incomplete short middle to Z.Ertz.,2nd & 15 at ARI 5
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,7,ARI,0,4,0,6 Yard Pass,(2:35) (Shotgun) K.Murray pass short left to R.Moore to ARI 11 for 6 yards (V.Miller). LA-D.Long was injured during the play.,3rd & 15 at ARI 5
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,7,ARI,0,5,0,Punt,"(2:00) A.Lee punts 47 yards to LA 42, Center-A.Brewer, fair catch by B.Powell.",4th & 9 at ARI 11
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,8,LA,0,1,0,8 Yard Run,(1:53) (Shotgun) S.Michel right guard to 50 for 8 yards (J.Thompson).,1st & 10 at LA 42
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,8,LA,0,2,0,-3 Yard Run,"(1:30) (No Huddle, Shotgun) S.Michel left tackle to LA 47 for -3 yards (C.Jones).",2nd & 2 at 50
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,8,LA,0,3,0,Pass Incomplete,(:46) (Shotgun) M.Stafford pass incomplete short left to T.Higbee.,3rd & 5 at LA 47
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,8,LA,0,4,0,Punt,"(:42) J.Hekker punts 40 yards to ARI 13, Center-M.Orzech. C.Kirk MUFFS catch, and recovers at ARI 14.",4th & 5 at LA 47
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,2ND QUARTER,9,ARI,0,1,0,Run for No Gain,(:35) (Shotgun) E.Benjamin up the middle to ARI 14 for no gain (V.Miller).,1st & 10 at ARI 14
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,1,LA,1,1,0,Kickoff,"M.Prater kicks 65 yards from ARI 35 to end zone, Touchback.",Kickoff from ARI 35
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,1,LA,1,2,0,3 Yard Run,(15:00) S.Michel left guard to LA 28 for 3 yards (J.Hicks; J.Watt).,1st & 10 at LA 25
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,1,LA,1,3,0,4 Yard Run,(14:23) S.Michel right tackle to LA 32 for 4 yards (J.Hicks; J.Thompson).,2nd & 7 at LA 28
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,1,LA,1,4,0,10 Yard Pass,(13:37) (Shotgun) M.Stafford pass short left to T.Higbee to LA 42 for 10 yards (B.Murphy).,3rd & 3 at LA 32
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,1,LA,1,5,0,Pass Incomplete,(12:51) (Shotgun) M.Stafford pass incomplete short right to C.Kupp.,1st & 10 at LA 42
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,1,LA,1,6,0,2 Yard Pass,(12:47) (Shotgun) M.Stafford pass short right to O.Beckham to LA 44 for 2 yards (B.Murphy).,2nd & 10 at LA 42
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,1,LA,1,7,0,5 Yard Penalty,"(12:20) (No Huddle, Shotgun) M.Stafford pass incomplete deep left to C.Kupp (B.Murphy) [D.Gardeck].
+PENALTY on ARI-B.Murphy, Defensive Holding, 5 yards, enforced at LA 44 - No Play.",3rd & 8 at LA 44
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,1,LA,1,8,0,40 Yard Pass,(12:12) O.Beckham pass deep right to C.Akers to ARI 11 for 40 yards (J.Thompson; J.Hicks) [L.Fotu].,1st & 10 at LA 49
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,1,LA,1,9,0,4 Yard Pass,(11:21) (Shotgun) M.Stafford pass short right to C.Kupp to ARI 7 for 4 yards (K.Peterson).,1st & 10 at ARI 11
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,1,LA,1,10,0,Touchdown Rams,"(10:40) (No Huddle, Shotgun) M.Stafford pass short right to C.Kupp for 7 yards, TOUCHDOWN.",2nd & 6 at ARI 7
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,1,LA,1,11,1,Extra Point Good,"M.Gay extra point is GOOD, Center-M.Orzech, Holder-J.Hekker.",XP attempt from ARI 15
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,2,ARI,1,1,0,Kickoff,"M.Gay kicks 65 yards from LA 35 to end zone, Touchback.",Kickoff from LA 35
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,2,ARI,1,2,0,2 Yard Run,(10:36) (Shotgun) C.Edmonds right guard to ARI 27 for 2 yards (G.Gaines).,1st & 10 at ARI 25
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,2,ARI,1,3,0,11 Yard Pass,(9:54) (Shotgun) K.Murray pass short right to R.Moore to ARI 38 for 11 yards (V.Miller).,2nd & 8 at ARI 27
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,2,ARI,1,4,0,2 Yard Run,(9:11) (Shotgun) C.Edmonds left tackle to ARI 40 for 2 yards (A.Robinson; G.Gaines).,1st & 10 at ARI 38
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,2,ARI,1,5,0,Pass for No Gain,"(8:37) (No Huddle, Shotgun) K.Murray pass short left to D.Daniels to ARI 40 for no gain (A.Robinson).",2nd & 8 at ARI 40
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,2,ARI,1,6,0,4 Yard Run,"(7:50) (No Huddle, Shotgun) C.Edmonds up the middle to ARI 44 for 4 yards (L.Floyd).",3rd & 8 at ARI 40
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,2,ARI,1,7,0,7 Yard Run,"(7:24) (No Huddle, Shotgun) K.Murray scrambles right end to LA 49 for 7 yards (J.Ramsey).",4th & 4 at ARI 44
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,2,ARI,1,8,0,7 Yard Pass,"(6:48) (No Huddle, Shotgun) K.Murray pass short left to C.Kirk to LA 42 for 7 yards (J.Ramsey) [J.Hollins].",1st & 10 at LA 49
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,2,ARI,1,9,0,3 Yard Run,"(6:13) (No Huddle, Shotgun) J.Conner right tackle to LA 39 for 3 yards (T.Reeder; A.Robinson).",2nd & 3 at LA 42
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,2,ARI,1,10,0,2 Yard Run,(5:30) C.Edmonds up the middle to LA 37 for 2 yards (T.Burgess).,1st & 10 at LA 39
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,2,ARI,1,11,0,30 Yard Pass,"(5:07) (No Huddle, Shotgun) K.Murray pass deep middle to C.Kirk to LA 14 for 23 yards (T.Burgess).
+PENALTY on LA-A.Donald, Unnecessary Roughness, 7 yards, enforced at LA 14.",2nd & 8 at LA 37
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,2,ARI,1,12,0,5 Yard Pass,"(4:53) (Shotgun) K.Murray pass short left to J.Conner to LA 2 for 5 yards (D.Deayon, D.Williams).",1st & 7 at LA 7
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,2,ARI,1,13,0,Touchdown Cardinals,"(4:15) (Shotgun) J.Conner up the middle for 2 yards, TOUCHDOWN.",2nd & 2 at LA 2
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,3RD QUARTER,2,ARI,1,14,1,-15 Yard Penalty,"(Pass formation) TWO-POINT CONVERSION ATTEMPT. K.Murray pass to A.Wesley is complete. ATTEMPT SUCCEEDS.
+PENALTY on ARI-K.Beachum, Unnecessary Roughness, 15 yards, enforced between downs.",
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,1,LA,1,1,0,Kickoff,M.Prater kicks 70 yards from ARI 20 to LA 10. B.Powell to LA 31 for 21 yards (D.Gardeck).,Kickoff from ARI 20
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,1,LA,1,2,0,4 Yard Run,"(4:07) C.Akers up the middle to LA 35 for 4 yards (B.Baker, T.Vallejo).",1st & 10 at LA 31
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,1,LA,1,3,0,41 Yard Pass,(3:25) C.Shelton reported in as eligible.  M.Stafford pass deep right to V.Jefferson to ARI 24 for 41 yards (M.Wilson; J.Thompson).,2nd & 6 at LA 35
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,1,LA,1,4,0,8 Yard Run,(2:34) (Shotgun) C.Akers right guard to ARI 16 for 8 yards (J.Thompson; B.Baker).,1st & 10 at ARI 24
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,1,LA,1,5,0,-9 Yard Run,"(1:51) C.Akers left end to ARI 5 for 11 yards (B.Baker). ARI-B.Baker was injured during the play. He is Out. 
+PENALTY on LA-D.Edwards, Offensive Holding, 10 yards, enforced at ARI 15.",2nd & 2 at ARI 16
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,1,LA,1,6,0,10 Yard Run,(1:25) (Shotgun) M.Stafford scrambles left end ran ob at ARI 15 for 10 yards (Z.Allen).,2nd & 11 at ARI 25
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,1,LA,1,7,0,-4 Yard Run,(:43) C.Shelton reported in as eligible.  C.Akers up the middle to ARI 19 for -4 yards (J.Watt).,3rd & 1 at ARI 15
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,1,LA,1,8,1,Field Goal,"(15:00) M.Gay 37 yard field goal is GOOD, Center-M.Orzech, Holder-J.Hekker.",4th & 5 at ARI 19
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,2,ARI,1,1,0,Kickoff,"M.Gay kicks 65 yards from LA 35 to end zone, Touchback.",Kickoff from LA 35
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,2,ARI,1,2,0,7 Yard Pass,(14:55) (Shotgun) K.Murray pass short left to C.Kirk to ARI 32 for 7 yards (J.Ramsey).,1st & 10 at ARI 25
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,2,ARI,1,3,0,4 Yard Pass,"(14:25) (No Huddle, Shotgun) K.Murray pass short right to Z.Ertz to ARI 36 for 4 yards (D.Williams).",2nd & 3 at ARI 32
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,2,ARI,1,4,0,8 Yard Pass,"(13:45) (No Huddle, Shotgun) K.Murray pass short middle to C.Kirk to ARI 44 for 8 yards (T.Reeder).",1st & 10 at ARI 36
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,2,ARI,1,5,0,4 Yard Run,"(13:24) (No Huddle, Shotgun) C.Edmonds up the middle to ARI 48 for 4 yards (A.Robinson).",2nd & 2 at ARI 44
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,2,ARI,1,6,0,13 Yard Pass,"(12:48) (No Huddle, Shotgun) K.Murray pass short left to E.Benjamin to LA 39 for 13 yards (D.Williams).",1st & 10 at ARI 48
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,2,ARI,1,7,0,12 Yard Pass,"(12:10) (No Huddle, Shotgun) K.Murray pass short middle to Z.Ertz to LA 27 for 12 yards (N.Scott).",1st & 10 at LA 39
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,2,ARI,1,8,0,Run for No Gain,"(11:29) (No Huddle, Shotgun) E.Benjamin up the middle to LA 27 for no gain (G.Gaines; A.Robinson).",1st & 10 at LA 27
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,2,ARI,1,9,0,Pass Incomplete,"(10:52) (No Huddle, Shotgun) K.Murray pass incomplete short left to C.Kirk (T.Howard).",2nd & 10 at LA 27
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,2,ARI,1,10,0,Pass Incomplete,(10:48) (Shotgun) K.Murray pass incomplete deep left to A.Wesley (D.Deayon). ARI-D.Humphries was injured during the play.,3rd & 10 at LA 27
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,2,ARI,1,11,0,-10 Yard Penalty,"(10:42) (Shotgun) K.Murray pass deep right to C.Kirk ran ob at LA 11 for 16 yards.
+PENALTY on ARI-K.Beachum, Offensive Holding, 10 yards, enforced at LA 27 - No Play.
+Penalty on ARI-R.Hudson, Offensive Holding, declined.",4th & 10 at LA 27
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,2,ARI,1,12,1,Field Goal,"(10:17) M.Prater 55 yard field goal is GOOD, Center-A.Brewer, Holder-A.Lee.",4th & 20 at LA 37
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,3,LA,1,1,0,Kickoff,M.Prater kicks 61 yards from ARI 35 to LA 4. B.Powell to LA 11 for 7 yards (Z.Collins).,Kickoff from ARI 35
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,3,LA,1,2,0,1 Yard Run,(10:10) C.Shelton reported in as eligible.  C.Akers up the middle to LA 12 for 1 yard (R.Lawrence).,1st & 10 at LA 11
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,3,LA,1,3,0,-6 Yard Penalty,"(9:27) M.Stafford pass short left to C.Akers ran ob at LA 26 for 14 yards (J.Thompson).
+PENALTY on LA-A.Corbett, Offensive Holding, 6 yards, enforced at LA 12 - No Play.",2nd & 9 at LA 12
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,3,LA,1,4,0,7 Yard Run,(8:52) (Shotgun) C.Akers left tackle to LA 13 for 7 yards (D.Thompson).,2nd & 15 at LA 6
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,3,LA,1,5,0,5 Yard Penalty,"(8:06) (Shotgun) PENALTY on ARI-C.Jones, Neutral Zone Infraction, 5 yards, enforced at LA 13 - No Play.",3rd & 8 at LA 13
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,3,LA,1,6,0,29 Yard Pass,"(7:51) (Shotgun) M.Stafford pass short middle to C.Kupp to LA 47 for 29 yards (J.Thompson, I.Simmons).",3rd & 3 at LA 18
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,3,LA,1,7,0,2 Yard Run,(7:01) C.Shelton reported in as eligible.  C.Akers left tackle to LA 49 for 2 yards (J.Thompson).,1st & 10 at LA 47
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,3,LA,1,8,0,16 Yard Pass,(6:17) (Shotgun) M.Stafford pass short right to C.Kupp to ARI 35 for 16 yards (B.Murphy).,2nd & 8 at LA 49
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,3,LA,1,9,0,3 Yard Run,(5:25) C.Shelton reported in as eligible.  S.Michel right tackle to ARI 32 for 3 yards (J.Thompson).,1st & 10 at ARI 35
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,3,LA,1,10,0,-2 Yard Run,"(4:40) S.Michel left tackle to ARI 34 for -2 yards (T.Vallejo, Z.Allen).",2nd & 7 at ARI 32
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,3,LA,1,11,0,6 Yard Run,(4:34) (Shotgun) M.Stafford scrambles left end to ARI 28 for 6 yards (D.Thompson).,3rd & 9 at ARI 34
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,3,LA,1,12,1,Field Goal,"(4:25) M.Gay 46 yard field goal is GOOD, Center-M.Orzech, Holder-J.Hekker.",4th & 3 at ARI 28
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,4,ARI,0,1,0,Kickoff,"M.Gay kicks 65 yards from LA 35 to end zone, Touchback.",Kickoff from LA 35
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,4,ARI,0,2,0,13 Yard Pass,"(4:21) (Shotgun) K.Murray pass short left to E.Benjamin to ARI 38 for 13 yards (D.Williams, T.Burgess).",1st & 10 at ARI 25
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,4,ARI,0,3,0,Pass Incomplete,"(3:50) (No Huddle, Shotgun) K.Murray pass incomplete deep middle to C.Kirk (T.Howard).",1st & 10 at ARI 38
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,4,ARI,0,4,0,Pass Incomplete,(3:45) (Shotgun) K.Murray pass incomplete short right to A.Green.,2nd & 10 at ARI 38
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,4,ARI,0,5,0,-5 Yard Penalty,"(3:38) (Shotgun) PENALTY on ARI-K.Beachum, False Start, 5 yards, enforced at ARI 38 - No Play.",3rd & 10 at ARI 38
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,4,ARI,0,6,0,6 Yard Pass,(3:38) (Shotgun) K.Murray pass short right to C.Kirk to ARI 39 for 6 yards (D.Deayon).,3rd & 15 at ARI 33
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,4,ARI,0,7,0,Turnover on Downs,"(3:09) (No Huddle, Shotgun) K.Murray pass incomplete deep left to A.Wesley.",4th & 9 at ARI 39
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,5,LA,0,1,0,3 Yard Run,(3:04) C.Shelton reported in as eligible.  S.Michel up the middle to ARI 36 for 3 yards (C.Jones).,1st & 10 at ARI 39
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,5,LA,0,2,0,3 Yard Run,"(2:21) S.Michel left tackle to ARI 33 for 3 yards (C.Peters, L.Fotu).",2nd & 7 at ARI 36
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,5,LA,0,3,0,-3 Yard Run,(2:00) (Shotgun) J.Funk right tackle to ARI 36 for -3 yards (C.Jones).,3rd & 4 at ARI 33
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,5,LA,0,4,0,Punt,"(1:13) J.Hekker punts 27 yards to ARI 9, Center-M.Orzech, downed by LA-J.Gervase.",4th & 7 at ARI 36
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,6,ARI,0,1,0,3 Yard Run,(1:05) (Shotgun) E.Benjamin up the middle to ARI 12 for 3 yards (M.Hoecht; T.Howard).,1st & 10 at ARI 9
+2021,Wild Card Weekend,MON,01/17,Cardinals,Rams,4TH QUARTER,6,ARI,0,2,0,5 Yard Run,(:35) (Shotgun) E.Benjamin right tackle to ARI 17 for 5 yards (M.Hoecht).,2nd & 7 at ARI 12

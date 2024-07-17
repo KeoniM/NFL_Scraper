@@ -1,0 +1,1063 @@
+Season,Week,Day,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayDescription,PlayStart
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,1,IND,0,1,0,Kickoff,"T.Bass kicks 65 yards from BUF 35 to end zone, Touchback. Kick through end zone.",Kickoff from BUF 35
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,1,IND,0,2,0,9 Yard Pass,(15:00) (Shotgun) P.Rivers pass short left to T.Hilton to IND 34 for 9 yards (T.White).,1st & 10 at IND 25
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,1,IND,0,3,0,3 Yard Run,(14:29) (Shotgun) J.Taylor left guard to IND 37 for 3 yards (M.Addison).,2nd & 1 at IND 34
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,1,IND,0,4,0,2 Yard Run,(14:01) J.Taylor left guard to IND 39 for 2 yards (T.Edmunds).,1st & 10 at IND 37
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,1,IND,0,5,0,6 Yard Pass,(13:29) (Shotgun) P.Rivers pass short right to M.Pittman to IND 45 for 6 yards (L.Wallace).,2nd & 8 at IND 39
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,1,IND,0,6,0,4 Yard Run,(12:51) (Shotgun) J.Taylor up the middle to IND 49 for 4 yards (T.White).,3rd & 2 at IND 45
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,1,IND,0,7,0,12 Yard Run,(12:14) (Shotgun) J.Taylor up the middle to BUF 39 for 12 yards (J.Hughes).,1st & 10 at IND 49
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,1,IND,0,8,0,-1 Yard Run,"(11:34) (Shotgun) J.Taylor left guard to BUF 40 for -1 yards (M.Addison, M.Milano).",1st & 10 at BUF 39
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,1,IND,0,9,0,Pass Incomplete,(10:56) (Shotgun) P.Rivers pass incomplete short left to M.Pittman (M.Milano). Pass tipped at line.,2nd & 11 at BUF 40
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,1,IND,0,10,0,Pass Incomplete,(10:53) (Shotgun) P.Rivers pass incomplete deep left to T.Hilton (M.Hyde).,3rd & 11 at BUF 40
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,1,IND,0,11,0,Punt,"(10:48) R.Sanchez punts 37 yards to BUF 3, Center-L.Rhodes, downed by IND-A.Dulin.",4th & 11 at BUF 40
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,2,BUF,0,1,0,3 Yard Run,(10:38) Z.Moss up the middle to BUF 6 for 3 yards (D.Leonard; D.Autry).,1st & 10 at BUF 3
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,2,BUF,0,2,0,4 Yard Pass,(10:04) (Shotgun) J.Allen pass short left to C.Beasley to BUF 10 for 4 yards (K.Moore).,2nd & 7 at BUF 6
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,2,BUF,0,3,0,Pass Incomplete,(9:24) (Shotgun) J.Allen pass incomplete deep right to J.Brown. Pressure on QB: J.Houston.,3rd & 3 at BUF 10
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,2,BUF,0,4,0,Punt,"(9:17) C.Bojorquez punts 54 yards to IND 36, Center-R.Ferguson, fair catch by N.Hines.",4th & 3 at BUF 10
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,3,IND,1,1,0,4 Yard Run,"(9:08) (Shotgun) N.Hines up the middle to IND 40 for 4 yards (A.Epenesa, H.Phillips).",1st & 10 at IND 36
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,3,IND,1,2,0,Pass Incomplete,(8:32) (Shotgun) P.Rivers pass incomplete short left to N.Hines.,2nd & 6 at IND 40
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,3,IND,1,3,0,23 Yard Pass,"(8:29) (Shotgun) P.Rivers pass deep middle to T.Hilton to BUF 37 for 23 yards (L.Wallace).
+Penalty on BUF-M.Milano, Defensive Offside, declined.",3rd & 6 at IND 40
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,3,IND,1,4,0,22 Yard Pass,(8:15) P.Rivers pass deep left to M.Pittman to BUF 15 for 22 yards (T.White).,1st & 10 at BUF 37
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,3,IND,1,5,0,2 Yard Run,(7:28) (Shotgun) J.Taylor right guard to BUF 13 for 2 yards (T.Edmunds).,1st & 10 at BUF 15
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,3,IND,1,6,0,1 Yard Run,(6:53) J.Taylor right guard to BUF 12 for 1 yard (M.Hyde).,2nd & 8 at BUF 13
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,3,IND,1,7,0,Pass for No Gain,(6:13) (Shotgun) P.Rivers pass short right to J.Taylor to BUF 12 for no gain (M.Milano).,3rd & 7 at BUF 12
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,3,IND,1,8,1,Field Goal,"(5:33) R.Blankenship 30 yard field goal is GOOD, Center-L.Rhodes, Holder-R.Sanchez.",4th & 7 at BUF 12
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,4,BUF,1,1,0,Kickoff,R.Blankenship kicks 50 yards from IND 35 to BUF 15. A.Roberts to BUF 15 for no gain (T.Wilson).,Kickoff from IND 35
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,4,BUF,1,2,0,Pass Incomplete,(5:28) (Shotgun) J.Allen pass incomplete short right to S.Diggs [A.Muhammad].,1st & 10 at BUF 15
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,4,BUF,1,3,0,12 Yard Run,(5:24) (Shotgun) J.Allen scrambles right end pushed ob at BUF 27 for 12 yards (D.Leonard).,2nd & 10 at BUF 15
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,4,BUF,1,4,0,36 Yard Pass,(4:53) (Shotgun) J.Allen pass deep middle to S.Diggs to IND 37 for 36 yards (K.Willis).,1st & 10 at BUF 27
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,4,BUF,1,5,0,16 Yard Pass,"(4:28) (No Huddle, Shotgun) J.Allen pass deep right to G.Davis ran ob at IND 21 for 16 yards.",1st & 10 at IND 37
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,4,BUF,1,6,0,5 Yard Pass,"(3:54) (Shotgun) J.Allen pass short right to D.Singletary to IND 16 for 5 yards (D.Leonard, T.Carrie).",1st & 10 at IND 21
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,4,BUF,1,7,0,6 Yard Run,"(3:15) (Shotgun) D.Singletary left tackle to IND 10 for 6 yards (B.Okereke, T.Stallworth).",2nd & 5 at IND 16
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,4,BUF,1,8,0,7 Yard Pass,(2:30) J.Allen pass short right to Z.Moss ran ob at IND 3 for 7 yards (K.Moore).,1st & 10 at IND 10
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,4,BUF,1,9,0,Touchdown Bills,"(1:56) (Shotgun) J.Allen pass short right to D.Knox for 3 yards, TOUCHDOWN [T.Lewis].",2nd & 3 at IND 3
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,4,BUF,1,10,1,Extra Point Good,"T.Bass extra point is GOOD, Center-R.Ferguson, Holder-C.Bojorquez.",XP attempt from IND 15
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,5,IND,0,1,0,Kickoff,T.Bass kicks 61 yards from BUF 35 to IND 4. I.Rodgers to IND 42 for 38 yards (T.Bass).,Kickoff from BUF 35
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,5,IND,0,2,0,11 Yard Run,"(1:42) M.Pittman left end pushed ob at BUF 47 for 11 yards (J.Norman, J.Poyer). End-around.",1st & 10 at IND 42
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,5,IND,0,3,0,5 Yard Run,(1:09) (Shotgun) J.Taylor left end pushed ob at BUF 42 for 5 yards (T.Edmunds).,1st & 10 at BUF 47
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,5,IND,0,4,0,Pass Incomplete,(:31) P.Rivers pass incomplete short middle to J.Taylor. Pressure on QB: V.Butler.,2nd & 5 at BUF 42
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,5,IND,0,5,0,Pass Incomplete,(:26) (Shotgun) P.Rivers pass incomplete deep right to T.Hilton (M.Hyde).,3rd & 5 at BUF 42
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,5,IND,0,6,0,-5 Yard Penalty,"(:19) (Shotgun) PENALTY on IND, Delay of Game, 5 yards, enforced at BUF 42 - No Play.",4th & 5 at BUF 42
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,1ST QUARTER,5,IND,0,7,0,Punt,"(:19) R.Sanchez punts 36 yards to BUF 11, Center-L.Rhodes, fair catch by A.Roberts.",4th & 10 at BUF 47
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,1,BUF,0,1,0,2 Yard Pass,(:12) (Shotgun) J.Allen pass short right to Z.Moss to BUF 13 for 2 yards (K.Willis; D.Leonard).,1st & 10 at BUF 11
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,1,BUF,0,2,0,-2 Yard Run,"(15:00) (Shotgun) J.Allen right end pushed ob at BUF 11 for -2 yards (D.Autry, D.Leonard).",2nd & 8 at BUF 13
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,1,BUF,0,3,0,7 Yard Run,(14:26) (Shotgun) J.Allen scrambles up the middle to BUF 18 for 7 yards (D.Leonard).,3rd & 10 at BUF 11
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,1,BUF,0,4,0,Punt,"(13:41) C.Bojorquez punts 47 yards to IND 35, Center-R.Ferguson, out of bounds.",4th & 3 at BUF 18
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,2,IND,1,1,0,10 Yard Run,(13:34) (Shotgun) J.Taylor right tackle to IND 45 for 10 yards (M.Milano).,1st & 10 at IND 35
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,2,IND,1,2,0,8 Yard Run,"(12:53) J.Taylor up the middle to BUF 47 for 8 yards (T.Edmunds, J.Norman).",1st & 10 at IND 45
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,2,IND,1,3,0,-2 Yard Run,(12:15) J.Taylor up the middle to BUF 49 for -2 yards (J.Hughes).,2nd & 2 at BUF 47
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,2,IND,1,4,0,6 Yard Pass,(11:29) (Shotgun) P.Rivers pass short right to J.Taylor to BUF 43 for 6 yards (E.Oliver) [V.Butler].,3rd & 4 at BUF 49
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,2,IND,1,5,0,32 Yard Pass,(10:43) (Shotgun) P.Rivers pass deep left to M.Pittman to BUF 11 for 32 yards (M.Hyde).,1st & 10 at BUF 43
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,2,IND,1,6,0,2 Yard Pass,(10:16) (Shotgun) P.Rivers pass short left to J.Doyle to BUF 9 for 2 yards (T.White).,1st & 10 at BUF 11
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,2,IND,1,7,0,8 Yard Pass,"(9:33) (Shotgun) P.Rivers pass short right to N.Hines to BUF 1 for 8 yards (M.Hyde, T.Edmunds).",2nd & 8 at BUF 9
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,2,IND,1,8,0,Run for No Gain,"(8:58) J.Brissett in at QB. J.Brissett up the middle to BUF 1 for no gain (H.Phillips, Q.Jefferson).",1st & 1 at BUF 1
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,2,IND,1,9,0,Touchdown Colts,"(8:10) P.Rivers returns at QB. J.Taylor up the middle for 1 yard, TOUCHDOWN.",2nd & 1 at BUF 1
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,2,IND,1,10,1,Extra Point Good,"R.Blankenship extra point is GOOD, Center-L.Rhodes, Holder-R.Sanchez.",XP attempt from BUF 15
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,3,BUF,0,1,0,Kickoff,"R.Blankenship kicks 68 yards from IND 35 to BUF -3. A.Roberts to BUF 12 for 15 yards (D.Harris, Z.Franklin).
+PENALTY on BUF-J.Johnson, Offensive Holding, 6 yards, enforced at BUF 12.",Kickoff from IND 35
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,3,BUF,0,2,0,8 Yard Run,(8:01) (Shotgun) Z.Moss left guard to BUF 14 for 8 yards (B.Okereke).,1st & 10 at BUF 6
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,3,BUF,0,3,0,1 Yard Run,(7:27) Z.Moss left guard to BUF 15 for 1 yard (D.Leonard).,2nd & 2 at BUF 14
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,3,BUF,0,4,0,Run for No Gain,(6:55) (No Huddle) Z.Moss left tackle to BUF 15 for no gain (D.Buckner).,3rd & 1 at BUF 15
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,3,BUF,0,5,0,Punt,"(6:21) C.Bojorquez punts 58 yards to IND 27, Center-R.Ferguson. N.Hines to IND 41 for 14 yards (J.Johnson; D.Johnson).",4th & 1 at BUF 15
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,4,IND,0,1,0,31 Yard Pass,(6:08) (Shotgun) P.Rivers pass short left to M.Pittman pushed ob at BUF 28 for 31 yards (T.Johnson).,1st & 10 at IND 41
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,4,IND,0,2,0,-2 Yard Run,(5:33) J.Taylor up the middle to BUF 30 for -2 yards (J.Poyer).,1st & 10 at BUF 28
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,4,IND,0,3,0,10 Yard Pass,(4:47) (Shotgun) P.Rivers pass short middle to J.Doyle to BUF 20 for 10 yards (J.Poyer).,2nd & 12 at BUF 30
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,4,IND,0,4,0,16 Yard Pass,"(4:02) (Shotgun) P.Rivers pass short middle to M.Alie-Cox to BUF 4 for 16 yards (M.Hyde, J.Poyer).",3rd & 2 at BUF 20
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,4,IND,0,5,0,2 Yard Pass,(3:15) (Shotgun) P.Rivers pass short middle to T.Burton to BUF 2 for 2 yards (M.Milano; Q.Jefferson).,1st & 4 at BUF 4
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,4,IND,0,6,0,1 Yard Run,"(2:36) P.Rivers at WR. (Shotgun) Direct snap to N.Hines.  N.Hines up the middle to BUF 1 for 1 yard (M.Milano, T.Edmunds).",2nd & 2 at BUF 2
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,4,IND,0,7,0,-3 Yard Run,"(2:00) J.Taylor left tackle to BUF 4 for -3 yards (T.Johnson, T.White).",3rd & 1 at BUF 1
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,4,IND,0,8,0,Turnover on Downs,"(1:53) (Shotgun) P.Rivers pass incomplete short left to M.Pittman. Pressure on QB: V.Butler, M.Addison.",4th & 4 at BUF 4
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,5,BUF,1,1,0,Pass Incomplete,(1:46) (Shotgun) J.Allen pass incomplete deep middle to S.Diggs.,1st & 10 at BUF 4
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,5,BUF,1,2,0,37 Yard Pass,"(1:41) (Shotgun) J.Allen pass deep right to G.Davis ran ob at BUF 41 for 37 yards.
+The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands.",2nd & 10 at BUF 4
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,5,BUF,1,3,0,7 Yard Pass,(1:33) (Shotgun) J.Allen pass short left to C.Beasley to BUF 48 for 7 yards (K.Moore).,1st & 10 at BUF 41
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,5,BUF,1,4,0,19 Yard Pass,"(1:08) (No Huddle, Shotgun) J.Allen pass deep left to G.Davis ran ob at IND 33 for 19 yards. Pressure on QB: D.Buckner.
+The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands.",2nd & 3 at BUF 48
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,5,BUF,1,5,0,5 Yard Run,(:59) (Shotgun) J.Allen scrambles right end pushed ob at IND 28 for 5 yards (D.Leonard).,1st & 10 at IND 33
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,5,BUF,1,6,0,Pass Incomplete,(:53) (Shotgun) J.Allen pass incomplete short right [D.Buckner]. Thrown away under pressure.,2nd & 5 at IND 28
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,5,BUF,1,7,0,2 Yard Pass,(:45) (Shotgun) J.Allen pass short right to D.Knox pushed ob at IND 26 for 2 yards (X.Rhodes).,3rd & 5 at IND 28
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,5,BUF,1,8,0,5 Yard Penalty,"(:37) (Shotgun) J.Allen pass deep right intended for J.Brown INTERCEPTED by I.Rodgers at IND 5. I.Rodgers ran ob at IND 5 for no gain.
+PENALTY on IND-K.Turay, Defensive Offside, 5 yards, enforced at IND 26 - No Play.",4th & 3 at IND 26
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,5,BUF,1,9,0,Interception,"(:32) (Shotgun) J.Allen pass deep right intended for J.Brown INTERCEPTED by I.Rodgers at IND -4. Touchback.
+The Replay Official reviewed the interception ruling, and the play was REVERSED.
+(Shotgun) J.Allen pass incomplete deep right to J.Brown (I.Rodgers).",1st & 10 at IND 21
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,5,BUF,1,10,0,16 Yard Run,(:27) (Shotgun) J.Allen up the middle to IND 5 for 16 yards (K.Willis).,2nd & 10 at IND 21
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,5,BUF,1,11,0,Touchdown Bills,"(:20) (Shotgun) J.Allen right tackle for 5 yards, TOUCHDOWN.",1st & 5 at IND 5
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,5,BUF,1,12,1,Extra Point Good,"T.Bass extra point is GOOD, Center-R.Ferguson, Holder-C.Bojorquez.",XP attempt from IND 15
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,6,IND,0,1,0,Kickoff,T.Bass kicks 43 yards from BUF 35 to IND 22. Z.Pascal to IND 35 for 13 yards (T.Jones; J.Johnson).,Kickoff from BUF 35
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,2ND QUARTER,6,IND,0,2,0,-1 Yard Run,(:08) P.Rivers kneels to IND 34 for -1 yards.,1st & 10 at IND 35
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,1,BUF,1,1,0,Kickoff,R.Blankenship kicks 66 yards from IND 35 to BUF -1. A.Roberts to BUF 28 for 29 yards (G.Odum; M.Adams).,Kickoff from IND 35
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,1,BUF,1,2,0,2 Yard Run,(14:53) (Shotgun) D.Singletary left end to BUF 30 for 2 yards (G.Stewart).,1st & 10 at BUF 28
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,1,BUF,1,3,0,Pass Incomplete,"(14:26) (No Huddle, Shotgun) J.Allen pass incomplete deep right to J.Brown.",2nd & 8 at BUF 30
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,1,BUF,1,4,0,10 Yard Pass,(14:21) (Shotgun) J.Allen pass short right to C.Beasley to BUF 40 for 10 yards (B.Okereke).,3rd & 8 at BUF 30
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,1,BUF,1,5,0,13 Yard Pass,"(13:53) (No Huddle, Shotgun) J.Allen pass short middle to C.Beasley to IND 47 for 13 yards (J.Blackmon).",1st & 10 at BUF 40
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,1,BUF,1,6,0,16 Yard Pass,"(13:12) (No Huddle, Shotgun) J.Allen pass deep middle to S.Diggs to IND 31 for 16 yards (T.Carrie). IND-T.Carrie was injured during the play.  T.Carrie walks off.",1st & 10 at IND 47
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,1,BUF,1,7,0,3 Yard Run,(12:44) (Shotgun) Z.Moss right end to IND 28 for 3 yards (K.Willis).,1st & 10 at IND 31
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,1,BUF,1,8,0,5 Yard Run,"(12:19) (No Huddle, Shotgun) J.Allen left end to IND 23 for 5 yards (K.Moore).",2nd & 7 at IND 28
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,1,BUF,1,9,0,-5 Yard Run,"(11:51) (No Huddle, Shotgun) J.Allen left end to IND 28 for -5 yards (A.Muhammad).",3rd & 2 at IND 23
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,1,BUF,1,10,1,Field Goal,"(11:10) T.Bass 46 yard field goal is GOOD, Center-R.Ferguson, Holder-C.Bojorquez.",4th & 7 at IND 28
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,2,IND,0,1,0,Kickoff,"T.Bass kicks 65 yards from BUF 35 to end zone, Touchback. Kick through end zone.",Kickoff from BUF 35
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,2,IND,0,2,0,3 Yard Run,(11:05) J.Taylor up the middle to IND 28 for 3 yards (M.Hyde).,1st & 10 at IND 25
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,2,IND,0,3,0,Pass Incomplete,(10:24) (Shotgun) P.Rivers pass incomplete short right to Z.Pascal.,2nd & 7 at IND 28
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,2,IND,0,4,0,7 Yard Pass,(10:20) (Shotgun) P.Rivers pass short left to J.Doyle to IND 35 for 7 yards (T.White).,3rd & 7 at IND 28
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,2,IND,0,5,0,12 Yard Pass,(9:32) P.Rivers pass short middle to J.Doyle to IND 47 for 12 yards (T.Johnson).,1st & 10 at IND 35
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,2,IND,0,6,0,3 Yard Run,(8:49) J.Taylor right tackle to 50 for 3 yards (T.Johnson; M.Milano).,1st & 10 at IND 47
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,2,IND,0,7,0,2 Yard Run,"(8:09) (Shotgun) J.Taylor up the middle to BUF 48 for 2 yards (H.Phillips, T.Edmunds).",2nd & 7 at 50
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,2,IND,0,8,0,6 Yard Pass,(7:23) (Shotgun) P.Rivers pass short right to M.Alie-Cox to BUF 42 for 6 yards (T.Johnson).,3rd & 5 at BUF 48
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,2,IND,0,9,0,4 Yard Run,(6:37) (Shotgun) J.Taylor up the middle to BUF 38 for 4 yards (Q.Jefferson; M.Milano).,1st & 10 at BUF 42
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,2,IND,0,10,0,1 Yard Pass,(5:55) (Shotgun) P.Rivers pass short left to J.Doyle to BUF 37 for 1 yard (M.Milano).,2nd & 6 at BUF 38
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,2,IND,0,11,0,19 Yard Pass,(5:10) (Shotgun) P.Rivers pass deep right to T.Burton to BUF 18 for 19 yards (T.Edmunds).,3rd & 5 at BUF 37
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,2,IND,0,12,0,3 Yard Run,(4:24) (Shotgun) J.Taylor right guard to BUF 15 for 3 yards (J.Poyer).,1st & 10 at BUF 18
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,2,IND,0,13,0,Pass Incomplete,(3:44) (Shotgun) P.Rivers pass incomplete short left to J.Taylor.,2nd & 7 at BUF 15
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,2,IND,0,14,0,Pass Incomplete,(3:40) (Shotgun) P.Rivers pass incomplete short middle to M.Pittman.,3rd & 7 at BUF 15
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,3RD QUARTER,2,IND,0,15,0,Field Goal No Good,"(3:36) R.Blankenship 33 yard field goal is No Good, Hit Right Upright, Center-L.Rhodes, Holder-R.Sanchez. Ball hit right upright, then left upright.",4th & 7 at BUF 15
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,1,BUF,1,1,0,9 Yard Run,(3:32) (Shotgun) J.Allen up the middle to BUF 32 for 9 yards (T.Lewis).,1st & 10 at BUF 23
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,1,BUF,1,2,0,Run for No Gain,(3:04) (No Huddle) Z.Moss left end to BUF 32 for no gain (T.Lewis).,2nd & 1 at BUF 32
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,1,BUF,1,3,0,4 Yard Pass,"(2:38) (No Huddle, Shotgun) J.Allen pass short right to S.Diggs to BUF 36 for 4 yards (X.Rhodes).",3rd & 1 at BUF 32
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,1,BUF,1,4,0,2 Yard Run,"(2:01) (Shotgun) J.Allen left guard to BUF 38 for 2 yards (D.Buckner, K.Turay).",1st & 10 at BUF 36
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,1,BUF,1,5,0,10 Yard Pass,"(1:22) (Shotgun) J.Allen pass short left to Z.Moss to BUF 48 for 10 yards (D.Leonard, X.Rhodes).",2nd & 8 at BUF 38
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,1,BUF,1,6,0,4 Yard Pass,(:47) (Shotgun) J.Allen pass short right to C.Beasley to IND 48 for 4 yards (K.Moore; B.Okereke).,1st & 10 at BUF 48
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,1,BUF,1,7,0,7 Yard Pass,(15:00) (Shotgun) J.Allen pass short right to Z.Moss to IND 41 for 7 yards (T.Lewis).,2nd & 6 at IND 48
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,1,BUF,1,8,0,6 Yard Run,"(14:24) (No Huddle) Z.Moss right end to IND 35 for 6 yards (D.Leonard, T.Carrie). BUF-Z.Moss was injured during the play. His return is Doubtful.  Z.Moss taken off field on cart.
+Indianapolis challenged the runner was down by contact ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2.)",1st & 10 at IND 41
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,1,BUF,1,9,0,Touchdown Bills,"(14:17) (Shotgun) J.Allen pass deep right to S.Diggs for 35 yards, TOUCHDOWN.",2nd & 4 at IND 35
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,1,BUF,1,10,1,Extra Point Good,"T.Bass extra point is GOOD, Center-R.Ferguson, Holder-C.Bojorquez.",XP attempt from IND 15
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,2,IND,1,1,0,Kickoff,"T.Bass kicks 65 yards from BUF 35 to end zone, Touchback. Kick through end zone.",Kickoff from BUF 35
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,2,IND,1,2,0,Pass Incomplete,(14:10) (Shotgun) P.Rivers pass incomplete short left. QB: Pressure on QB: A.Epenesa.,1st & 10 at IND 25
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,2,IND,1,3,0,29 Yard Run,(14:06) (Shotgun) N.Hines left guard pushed ob at BUF 46 for 29 yards (T.Johnson).,2nd & 10 at IND 25
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,2,IND,1,4,0,20 Yard Run,"(13:27) (No Huddle, Shotgun) J.Taylor left end pushed ob at BUF 26 for 20 yards (M.Milano).",1st & 10 at BUF 46
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,2,IND,1,5,0,11 Yard Pass,(12:47) (Shotgun) P.Rivers pass short left to Z.Pascal to BUF 15 for 11 yards (J.Poyer).,1st & 10 at BUF 26
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,2,IND,1,6,0,Pass Incomplete,(12:05) (Shotgun) P.Rivers pass incomplete short right to M.Pittman. Pressure on QB: M.Addison.,1st & 10 at BUF 15
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,2,IND,1,7,0,6 Yard Pass,(12:01) (Shotgun) P.Rivers pass short left to M.Alie-Cox to BUF 9 for 6 yards (T.Edmunds).,2nd & 10 at BUF 15
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,2,IND,1,8,0,Touchdown Colts,"(11:36) (Shotgun) P.Rivers pass short left to Z.Pascal for 9 yards, TOUCHDOWN.",3rd & 4 at BUF 9
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,2,IND,1,9,0,1 Yard Penalty,"(Kick formation) PENALTY on BUF-Q.Jefferson, Neutral Zone Infraction, 1 yard, enforced at BUF 15 - No Play.",
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,2,IND,1,10,1,2PT Conversion Fails,TWO-POINT CONVERSION ATTEMPT. J.Taylor rushes up the middle. ATTEMPT FAILS. M.Milano with stop at BUF 2. Ran from Shotgun.,XP attempt from BUF 1
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,3,BUF,1,1,0,Kickoff,"R.Blankenship kicks 65 yards from IND 35 to end zone, Touchback. A.Roberts kneels 9 yds. into end zone.",Kickoff from IND 35
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,3,BUF,1,2,0,3 Yard Pass,(11:32) (Shotgun) J.Allen pass short left to C.Beasley pushed ob at BUF 28 for 3 yards (D.Leonard).,1st & 10 at BUF 25
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,3,BUF,1,3,0,16 Yard Pass,(11:01) (Shotgun) J.Allen pass short right to S.Diggs to BUF 44 for 16 yards (J.Blackmon).,2nd & 7 at BUF 28
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,3,BUF,1,4,0,16 Yard Pass,(10:19) (Shotgun) J.Allen pass short middle to C.Beasley to IND 40 for 16 yards (J.Blackmon).,1st & 10 at BUF 44
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,3,BUF,1,5,0,Run for No Gain,(9:38) (Shotgun) J.Allen up the middle to IND 40 for no gain (G.Stewart).,1st & 10 at IND 40
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,3,BUF,1,6,0,4 Yard Pass,(8:52) (Shotgun) J.Allen pass short right to D.Singletary pushed ob at IND 36 for 4 yards (T.Carrie).,2nd & 10 at IND 40
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,3,BUF,1,7,0,Pass Incomplete,(8:18) (Shotgun) J.Allen pass incomplete short middle to J.Brown (X.Rhodes).,3rd & 6 at IND 36
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,3,BUF,1,8,1,Field Goal,"(8:13) T.Bass 54 yard field goal is GOOD, Center-R.Ferguson, Holder-C.Bojorquez.",4th & 6 at IND 36
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,4,IND,1,1,0,Kickoff,"T.Bass kicks 65 yards from BUF 35 to IND 0. I.Rodgers MUFFS catch, and recovers at IND 3. I.Rodgers to IND 24 for 21 yards (J.Johnson).",Kickoff from BUF 35
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,4,IND,1,2,0,3 Yard Run,(8:01) (Shotgun) N.Hines left guard to IND 27 for 3 yards (E.Oliver).,1st & 10 at IND 24
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,4,IND,1,3,0,Pass Incomplete,(7:34) (Shotgun) P.Rivers pass incomplete short middle to J.Doyle (T.Edmunds).,2nd & 7 at IND 27
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,4,IND,1,4,0,13 Yard Pass,(7:30) (Shotgun) P.Rivers pass short left to T.Burton to IND 40 for 13 yards (J.Poyer).,3rd & 7 at IND 27
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,4,IND,1,5,0,33 Yard Run,(7:03) (Shotgun) N.Hines left end to BUF 27 for 33 yards (M.Hyde).,1st & 10 at IND 40
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,4,IND,1,6,0,Touchdown Colts,"(6:20) (No Huddle, Shotgun) P.Rivers pass deep left to J.Doyle for 27 yards, TOUCHDOWN.",1st & 10 at BUF 27
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,4,IND,1,7,1,2PT Conversion Success,"TWO-POINT CONVERSION ATTEMPT. P.Rivers pass to J.Doyle is complete. ATTEMPT SUCCEEDS. Pass caught 8 yds. into end zone, over middle.",XP attempt from BUF 2
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,5,BUF,0,1,0,Kickoff,R.Blankenship kicks 66 yards from IND 35 to BUF -1. A.Roberts to BUF 24 for 25 yards (E.Speed).,Kickoff from IND 35
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,5,BUF,0,2,0,13 Yard Pass,(6:07) (Shotgun) J.Allen pass short middle to G.Davis to BUF 37 for 13 yards (J.Blackmon).,1st & 10 at BUF 24
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,5,BUF,0,3,0,Sack,(5:30) (Shotgun) J.Allen sacked at BUF 32 for -5 yards (sack split by D.Autry and J.Houston).,1st & 10 at BUF 37
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,5,BUF,0,4,0,21 Yard Pass,(4:47) (Shotgun) J.Allen pass deep left to S.Diggs pushed ob at IND 47 for 21 yards (J.Blackmon).,2nd & 15 at BUF 32
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,5,BUF,0,5,0,Pass Incomplete,(4:39) J.Allen pass incomplete short left to D.Knox. Pressure on QB: A.Muhammad.,1st & 10 at IND 47
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,5,BUF,0,6,0,13 Yard Run,(4:35) (Shotgun) D.Singletary left tackle to IND 34 for 13 yards (K.Willis).,2nd & 10 at IND 47
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,5,BUF,0,7,0,-18 Yard Sack,"(3:50) (Shotgun) J.Allen sacked at BUF 49 for -17 yards (D.Autry). FUMBLES (D.Autry) [D.Autry], touched at BUF 48, recovered by BUF-Da.Williams at BUF 43.",1st & 10 at IND 34
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,5,BUF,0,8,0,Pass Incomplete,(2:58) (Shotgun) J.Allen pass incomplete deep right to S.Diggs.,2nd & 33 at BUF 43
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,5,BUF,0,9,0,14 Yard Pass,(2:52) (Shotgun) J.Allen pass short right to D.Singletary to IND 43 for 14 yards (D.Leonard).,3rd & 33 at BUF 43
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,5,BUF,0,10,0,Punt,"(2:38) C.Bojorquez punts 29 yards to IND 14, Center-R.Ferguson, fair catch by N.Hines.",4th & 19 at IND 43
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,6,IND,0,1,0,11 Yard Pass,(2:30) (Shotgun) P.Rivers pass short middle to J.Doyle to IND 25 for 11 yards (J.Poyer).,1st & 10 at IND 14
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,6,IND,0,2,0,Pass Incomplete,"(2:09) (No Huddle, Shotgun) P.Rivers pass incomplete short middle to Z.Pascal (T.Edmunds).",1st & 10 at IND 25
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,6,IND,0,3,0,5 Yard Run,(2:04) (Shotgun) N.Hines up the middle to IND 30 for 5 yards (M.Addison; T.White).,2nd & 10 at IND 25
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,6,IND,0,4,0,4 Yard Pass,(1:59) (Shotgun) P.Rivers pass short right to M.Alie-Cox to IND 34 for 4 yards (M.Milano).,3rd & 5 at IND 30
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,6,IND,0,5,0,3 Yard Run,"(1:32) (No Huddle, Shotgun) J.Taylor right guard to IND 37 for 3 yards (M.Milano).",4th & 1 at IND 34
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,6,IND,0,6,0,Pass Incomplete,"(1:05) (No Huddle, Shotgun) P.Rivers pass incomplete short right to J.Doyle.",1st & 10 at IND 37
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,6,IND,0,7,0,Pass Incomplete,(1:00) (Shotgun) P.Rivers pass incomplete short right to N.Hines.,2nd & 10 at IND 37
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,6,IND,0,8,0,Pass Incomplete,(:55) (Shotgun) P.Rivers pass incomplete short right to T.Hilton (T.White).,3rd & 10 at IND 37
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,6,IND,0,9,0,17 Yard Pass,"(:50) (Shotgun) P.Rivers pass deep right to Z.Pascal to BUF 46 for 17 yards (J.Poyer).
+The Replay Official reviewed the runner was down by contact ruling, and the play was Upheld. The ruling on the field stands.",4th & 10 at IND 37
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,6,IND,0,10,0,-1 Yard Pass,"(:26) (Shotgun) P.Rivers pass short left to M.Pittman to BUF 45 for 1 yard (L.Wallace, M.Hyde). FUMBLES (L.Wallace), ball out of bounds at BUF 47.",1st & 10 at BUF 46
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,6,IND,0,11,0,Pass Incomplete,(:14) (Shotgun) P.Rivers pass incomplete deep left.,2nd & 11 at BUF 47
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,6,IND,0,12,0,Pass Incomplete,(:08) (Shotgun) P.Rivers pass incomplete short left to M.Pittman.,3rd & 11 at BUF 47
+2020,Wild Card Weekend,SAT,01/09,Colts,Bills,4TH QUARTER,6,IND,0,13,0,Turnover on Downs,(:04) (Shotgun) P.Rivers pass incomplete deep right (M.Hyde).,4th & 11 at BUF 47
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,1,LA,0,1,0,Kickoff,J.Myers kicks 63 yards from SEA 35 to LA 2. N.Webster pushed ob at LA 28 for 26 yards (T.Flowers).,Kickoff from SEA 35
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,1,LA,0,2,0,4 Yard Run,"(14:55) C.Akers right guard to LA 32 for 4 yards (P.Ford, J.Brooks).",1st & 10 at LAR 28
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,1,LA,0,3,0,5 Yard Run,(14:14) C.Akers right end to LA 37 for 5 yards (J.Brooks).,2nd & 6 at LAR 32
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,1,LA,0,4,0,2 Yard Run,(13:26) C.Akers right guard to LA 39 for 2 yards (B.Wagner).,3rd & 1 at LAR 37
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,1,LA,0,5,0,Pass Incomplete,"(12:56) (No Huddle, Shotgun) J.Wolford pass incomplete short middle to C.Kupp (J.Adams).",1st & 10 at LAR 39
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,1,LA,0,6,0,1 Yard Pass,(12:48) (Shotgun) J.Wolford pass short right to C.Akers to LA 40 for 1 yard (B.Wagner).,2nd & 10 at LAR 39
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,1,LA,0,7,0,Pass Incomplete,(12:03) (Shotgun) J.Wolford pass incomplete short middle to G.Everett [C.Dunlap].,3rd & 9 at LAR 40
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,1,LA,0,8,0,Punt,"(12:00) J.Hekker punts 40 yards to SEA 20, Center-J.McQuaide, out of bounds.",4th & 9 at LAR 40
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,2,SEA,0,1,0,2 Yard Run,(11:52) C.Carson left end pushed ob at SEA 22 for 2 yards (J.Fuller).,1st & 10 at SEA 20
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,2,SEA,0,2,0,1 Yard Pass,(11:20) (Shotgun) R.Wilson pass short left to D.Moore to SEA 23 for 1 yard (D.Williams).,2nd & 8 at SEA 22
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,2,SEA,0,3,0,Pass Incomplete,(10:36) (Shotgun) R.Wilson pass incomplete short middle to J.Hollister.,3rd & 7 at SEA 23
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,2,SEA,0,4,0,Punt,"(10:33) M.Dickson punts 47 yards to LA 30, Center-T.Ott, downed by SEA-Da.Moore.
+PENALTY on LA-D.Long, Offensive Holding, 10 yards, enforced at LA 30.",4th & 7 at SEA 23
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,3,LA,1,1,0,9 Yard Run,(10:20) C.Akers right guard to LA 29 for 9 yards (D.Reed). SEA-D.Reed was injured during the play.,1st & 10 at LAR 20
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,3,LA,1,2,0,Sack,(9:51) (Shotgun) J.Wolford sacked at LA 29 for 0 yards (B.Wagner).,2nd & 1 at LAR 29
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,3,LA,1,3,0,8 Yard Run,(9:07) (Shotgun) C.Akers left guard to LA 37 for 8 yards (B.Wagner; B.Mone).,3rd & 1 at LAR 29
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,3,LA,1,4,0,15 Yard Pass,(8:34) J.Wolford pass short middle to C.Kupp to SEA 48 for 15 yards (J.Adams).,1st & 10 at LAR 37
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,3,LA,1,5,0,Pass Incomplete,(7:50) J.Wolford pass incomplete short right to R.Woods.,1st & 10 at SEA 48
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,3,LA,1,6,0,13 Yard Pass,(7:45) (Shotgun) J.Wolford pass short left to C.Kupp ran ob at SEA 35 for 13 yards.,2nd & 10 at SEA 48
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,3,LA,1,7,0,7 Yard Run,(6:59) (Shotgun) C.Akers right guard to SEA 28 for 7 yards (B.Wagner).,1st & 10 at SEA 35
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,3,LA,1,8,0,8 Yard Run,(6:17) C.Akers right tackle to SEA 20 for 8 yards (J.Brooks).,2nd & 3 at SEA 28
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,3,LA,1,9,0,2 Yard Run,(5:40) (Shotgun) J.Wolford right tackle to SEA 18 for 2 yards (J.Adams). LA-J.Wolford was injured during the play. His return is Questionable.,1st & 10 at SEA 20
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,3,LA,1,10,0,3 Yard Run,(5:19) #16 Goff in at QB. C.Akers right guard to SEA 15 for 3 yards (L.Collier).,2nd & 8 at SEA 18
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,3,LA,1,11,0,-7 Yard Sack,(4:35) (Shotgun) J.Goff sacked at SEA 22 for -7 yards (J.Reed).,3rd & 5 at SEA 15
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,3,LA,1,12,1,Field Goal,"(3:56) M.Gay 40 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",4th & 12 at SEA 22
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,4,SEA,0,1,0,Kickoff,"M.Gay kicks 65 yards from LA 35 to end zone, Touchback.",Kickoff from LAR 35
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,4,SEA,0,2,0,-10 Yard Penalty,"(3:52) C.Carson left tackle pushed ob at SEA 27 for 2 yards (J.Fuller).
+PENALTY on SEA-M.Iupati, Offensive Holding, 10 yards, enforced at SEA 25 - No Play.",1st & 10 at SEA 25
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,4,SEA,0,3,0,-5 Yard Penalty,"(3:28) (Shotgun) PENALTY on SEA-W.Dissly, False Start, 5 yards, enforced at SEA 15 - No Play.",1st & 20 at SEA 15
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,4,SEA,0,4,0,-9 Yard Sack,(3:06) (Shotgun) R.Wilson sacked at SEA 1 for -9 yards (A.Donald).,1st & 25 at SEA 10
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,4,SEA,0,5,0,14 Yard Run,(2:21) (Shotgun) C.Carson left tackle ran ob at SEA 15 for 14 yards (J.Fuller).,2nd & 34 at SEA 1
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,4,SEA,0,6,0,-9 Yard Sack,(1:40) (Shotgun) R.Wilson sacked at SEA 6 for -9 yards (A.Donald).,3rd & 20 at SEA 15
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,4,SEA,0,7,0,Punt,"(1:06) M.Dickson punts 53 yards to LA 41, Center-T.Ott, downed by SEA-C.Barton.",4th & 29 at SEA 6
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,5,LA,0,1,0,Pass Incomplete,(:55) J.Goff pass incomplete short right to T.Higbee.,1st & 10 at LAR 41
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,5,LA,0,2,0,Run for No Gain,(:50) C.Akers right guard to LA 41 for no gain (B.Wagner).,2nd & 10 at LAR 41
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,5,LA,0,3,0,Pass Incomplete,(:32) (Shotgun) J.Goff pass incomplete short right to R.Woods (C.Dunlap).,3rd & 10 at LAR 41
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,1ST QUARTER,5,LA,0,4,0,Punt,"(:27) J.Hekker punts 49 yards to SEA 10, Center-J.McQuaide. D.Reed pushed ob at SEA 20 for 10 yards (V.Jefferson).",4th & 10 at LAR 41
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,1,SEA,0,1,0,24 Yard Pass,"(:17) (Shotgun) R.Wilson pass deep left to T.Lockett pushed ob at SEA 44 for 24 yards (D.Williams).
+Penalty on LA-D.Williams, Defensive Pass Interference, declined.",1st & 10 at SEA 20
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,1,SEA,0,2,0,6 Yard Run,(15:00) C.Carson right tackle to 50 for 6 yards (A.Robinson).,1st & 10 at SEA 44
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,1,SEA,0,3,0,-3 Yard Sack,(14:26) R.Wilson sacked at SEA 47 for -3 yards (L.Floyd).,2nd & 4 at 50
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,1,SEA,0,4,0,Pass Incomplete,(13:39) (Shotgun) R.Wilson pass incomplete short middle to D.Metcalf (J.Johnson III).,3rd & 7 at SEA 47
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,1,SEA,0,5,0,Punt,"(13:33) M.Dickson punts 48 yards to LA 5, Center-T.Ott, downed by SEA-U.Amadi.",4th & 7 at SEA 47
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,2,LA,0,1,0,2 Yard Run,(13:23) C.Akers right tackle to LA 7 for 2 yards (K.Wright; C.Lattimore).,1st & 10 at LAR 5
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,2,LA,0,2,0,Pass Incomplete,(12:38) (Shotgun) J.Goff pass incomplete short right to R.Woods (J.Adams) [L.Collier].,2nd & 8 at LAR 7
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,2,LA,0,3,0,Pass Incomplete,(12:33) (Shotgun) J.Goff pass incomplete deep right to C.Kupp [J.Reed].,3rd & 8 at LAR 7
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,2,LA,0,4,0,Punt,"(12:27) J.Hekker punts 44 yards to SEA 49, Center-J.McQuaide, fair catch by D.Reed.",4th & 8 at LAR 7
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,3,SEA,1,1,0,10 Yard Run,(12:19) (Shotgun) C.Carson right end to LA 41 for 10 yards (D.Williams).,1st & 10 at SEA 49
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,3,SEA,1,2,0,4 Yard Run,"(11:57) (No Huddle, Shotgun) C.Carson left guard to LA 37 for 4 yards (A.Donald).",1st & 10 at LAR 41
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,3,SEA,1,3,0,Pass Incomplete,(11:21) (Shotgun) R.Wilson pass incomplete short left to T.Lockett [L.Floyd].,2nd & 6 at LAR 37
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,3,SEA,1,4,0,5 Yard Run,(11:17) (Shotgun) R.Wilson scrambles right tackle to LA 32 for 5 yards (T.Hill).,3rd & 6 at LAR 37
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,3,SEA,1,5,1,Field Goal,"(10:34) J.Myers 50 yard field goal is GOOD, Center-T.Ott, Holder-M.Dickson.",4th & 1 at LAR 32
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,4,LA,1,1,0,Kickoff,"J.Myers kicks 65 yards from SEA 35 to end zone, Touchback.",Kickoff from SEA 35
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,4,LA,1,2,0,3 Yard Run,(10:29) C.Akers right tackle to LA 28 for 3 yards (B.Wagner).,1st & 10 at LAR 25
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,4,LA,1,3,0,44 Yard Pass,"(10:06) (No Huddle, Shotgun) J.Goff pass deep right to C.Kupp to SEA 28 for 44 yards (Q.Diggs). LA-D.Edwards was injured during the play.",2nd & 7 at LAR 28
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,4,LA,1,4,0,2 Yard Run,(9:19) C.Akers left guard to SEA 26 for 2 yards (P.Ford; R.Green).,1st & 10 at SEA 28
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,4,LA,1,5,0,6 Yard Pass,"(8:58) (No Huddle, Shotgun) J.Goff pass short left to C.Kupp to SEA 20 for 6 yards (J.Adams; K.Wright).",2nd & 8 at SEA 26
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,4,LA,1,6,0,-1 Yard Run,"(8:35) (No Huddle, Shotgun) C.Akers left guard to SEA 21 for -1 yards (B.Wagner).",3rd & 2 at SEA 20
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,4,LA,1,7,1,Field Goal,"(7:54) M.Gay 39 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",4th & 3 at SEA 21
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,5,LA,1,1,0,Kickoff,"M.Gay kicks 65 yards from LA 35 to end zone, Touchback.",Kickoff from LAR 35
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,5,LA,1,2,0,19 Yard Pass,(7:51) R.Wilson pass short left to T.Lockett ran ob at SEA 44 for 19 yards (K.Young).,1st & 10 at SEA 25
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,5,LA,1,3,0,3 Yard Run,"(7:26) (No Huddle) C.Carson right guard to SEA 47 for 3 yards (T.Reeder, K.Young).",1st & 10 at SEA 44
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,5,LA,1,4,1,Touchdown Rams,"(6:46) (Shotgun) R.Wilson pass short left intended for D.Metcalf INTERCEPTED by D.Williams at SEA 42. D.Williams for 42 yards, TOUCHDOWN.",2nd & 7 at SEA 47
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,6,SEA,1,1,0,Kickoff,M.Gay kicks 66 yards from LA 35 to SEA -1. F.Swain to SEA 26 for 27 yards (J.Reed).,Kickoff from LAR 35
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,6,SEA,1,2,0,4 Yard Run,(6:35) D.Moore left end to SEA 30 for 4 yards (T.Reeder).,1st & 10 at SEA 26
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,6,SEA,1,3,0,6 Yard Run,(6:03) (Shotgun) C.Carson left guard to SEA 36 for 6 yards (J.Hollins).,2nd & 6 at SEA 30
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,6,SEA,1,4,0,17 Yard Run,(5:23) (Shotgun) R.Wilson scrambles right end ran ob at LA 47 for 17 yards (J.Johnson III).,1st & 10 at SEA 36
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,6,SEA,1,5,0,1 Yard Run,(4:44) (Shotgun) C.Hyde right end to LA 46 for 1 yard (S.Joseph; D.Williams).,1st & 10 at LAR 47
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,6,SEA,1,6,0,-5 Yard Penalty,"(4:14) (Shotgun) PENALTY on SEA-T.Lockett, False Start, 5 yards, enforced at LA 46 - No Play.",2nd & 9 at LAR 46
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,6,SEA,1,7,0,Touchdown Seahawks,"(3:53) (Shotgun) R.Wilson pass deep left to D.Metcalf for 51 yards, TOUCHDOWN.",2nd & 14 at SEA 49
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,6,SEA,1,8,1,Extra Point Good,"J.Myers extra point is GOOD, Center-T.Ott, Holder-M.Dickson.",XP attempt from LAR 15
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,7,LA,1,1,0,Kickoff,"J.Myers kicks 65 yards from SEA 35 to end zone, Touchback.",Kickoff from SEA 35
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,7,LA,1,2,0,-3 Yard Run,(3:43) R.Woods right end to LA 22 for -3 yards (A.Robinson).,1st & 10 at LAR 25
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,7,LA,1,3,0,4 Yard Pass,"(3:19) (No Huddle, Shotgun) J.Goff pass short right to T.Higbee to LA 26 for 4 yards (Sq.Griffin).",2nd & 13 at LAR 22
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,7,LA,1,4,0,44 Yard Pass,"(2:55) (No Huddle, Shotgun) J.Goff pass short right to C.Akers to SEA 30 for 44 yards (Q.Diggs).
+Seattle challenged the legal forward pass ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",3rd & 9 at LAR 26
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,7,LA,1,5,0,20 Yard Run,(2:25) C.Akers left guard to SEA 10 for 20 yards (K.Wright).,1st & 10 at SEA 30
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,7,LA,1,6,0,5 Yard Penalty,"(2:01) (No Huddle) PENALTY on SEA-P.Ford, Encroachment, 5 yards, enforced at SEA 10 - No Play.",1st & 10 at SEA 10
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,7,LA,1,7,0,Touchdown Rams,"(2:00) C.Akers left guard for 5 yards, TOUCHDOWN.",1st & 5 at SEA 5
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,7,LA,1,8,1,Extra Point Good,"M.Gay extra point is GOOD, Center-J.McQuaide, Holder-J.Hekker.",XP attempt from SEA 15
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,8,SEA,0,1,0,Kickoff,"M.Gay kicks 65 yards from LA 35 to end zone, Touchback.",Kickoff from LAR 35
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,8,SEA,0,2,0,Pass Incomplete,(1:57) (Shotgun) R.Wilson pass incomplete short middle to J.Hollister.,1st & 10 at SEA 25
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,8,SEA,0,3,0,9 Yard Pass,(1:54) (Shotgun) R.Wilson pass short left to D.Metcalf to SEA 34 for 9 yards (J.Ramsey).,2nd & 10 at SEA 25
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,8,SEA,0,4,0,Run for No Gain,"(1:32) (No Huddle, Shotgun) C.Hyde right guard to SEA 34 for no gain (O.Okoronkwo).",3rd & 1 at SEA 34
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,8,SEA,0,5,0,Punt,"(1:29) M.Dickson punts 59 yards to LA 7, Center-T.Ott, out of bounds.",4th & 1 at SEA 34
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,9,LA,0,1,0,-3 Yard Run,(1:21) C.Akers left guard to LA 4 for -3 yards (J.Reed).,1st & 10 at LAR 7
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,9,LA,0,2,0,15 Yard Run,(1:18) (Shotgun) C.Akers right end to LA 19 for 15 yards (J.Reed).,2nd & 13 at LAR 4
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,9,LA,0,3,0,Pass Incomplete,"(:57) (No Huddle, Shotgun) J.Goff pass incomplete short left to C.Kupp.",1st & 10 at LAR 19
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,9,LA,0,4,0,5 Yard Run,"(:54) (Shotgun) C.Akers right guard to LA 24 for 5 yards (B.Wagner, Q.Diggs).",2nd & 10 at LAR 19
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,9,LA,0,5,0,3 Yard Run,"(:46) (Shotgun) C.Akers right guard to LA 27 for 3 yards (C.Dunlap). FUMBLES (C.Dunlap), RECOVERED by SEA-R.Neal at LA 26.
+The Replay Official reviewed the fumble ruling, and the play was REVERSED.
+(Shotgun) C.Akers right guard to LA 27 for 3 yards (C.Dunlap). SEA-B.Wagner was injured during the play.  SEA injury causes timeout",3rd & 5 at LAR 24
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,2ND QUARTER,9,LA,0,6,0,Turnover on Downs,(:05) J.Goff pass incomplete deep right.,4th & 2 at LAR 27
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,1,SEA,1,1,0,Kickoff,M.Gay kicks 64 yards from LA 35 to SEA 1. D.Reed to LA 41 for 58 yards (N.Webster).,Kickoff from LAR 35
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,1,SEA,1,2,0,Pass Incomplete,(14:50) R.Wilson pass incomplete deep right to J.Hollister.,1st & 10 at LAR 41
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,1,SEA,1,3,0,7 Yard Run,(14:44) (Shotgun) C.Carson right guard to LA 34 for 7 yards (J.Fuller; T.Reeder).,2nd & 10 at LAR 41
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,1,SEA,1,4,0,Pass Incomplete,(14:00) (Shotgun) R.Wilson pass incomplete deep right to C.Carson [O.Okoronkwo].,3rd & 3 at LAR 34
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,1,SEA,1,5,1,Field Goal,"(13:50) J.Myers 52 yard field goal is GOOD, Center-T.Ott, Holder-M.Dickson.",4th & 3 at LAR 34
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,2,LA,0,1,0,Kickoff,J.Myers kicks 60 yards from SEA 35 to LA 5. N.Webster to LA 41 for 36 yards (J.Myers).,Kickoff from SEA 35
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,2,LA,0,2,0,4 Yard Run,(13:38) C.Akers right guard to LA 45 for 4 yards (P.Ford).,1st & 10 at LAR 41
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,2,LA,0,3,0,Pass Incomplete,"(13:09) (No Huddle, Shotgun) J.Goff pass incomplete short middle to C.Kupp (J.Adams).",2nd & 6 at LAR 45
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,2,LA,0,4,0,-8 Yard Sack,(13:03) (Shotgun) J.Goff sacked at LA 37 for -8 yards (J.Reed).,3rd & 6 at LAR 45
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,2,LA,0,5,0,Punt,"(12:25) J.Hekker punts 45 yards to SEA 18, Center-J.McQuaide. D.Reed to SEA 26 for 8 yards (D.Rivers).",4th & 14 at LAR 37
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,3,SEA,0,1,0,2 Yard Run,(12:16) C.Carson right guard to SEA 28 for 2 yards (S.Joseph; T.Reeder).,1st & 10 at SEA 26
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,3,SEA,0,2,0,10 Yard Run,(11:44) C.Carson right end pushed ob at SEA 38 for 10 yards (J.Johnson III).,2nd & 8 at SEA 28
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,3,SEA,0,3,0,5 Yard Pass,(11:06) (Shotgun) R.Wilson pass short left to C.Carson pushed ob at SEA 43 for 5 yards (T.Hill).,1st & 10 at SEA 38
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,3,SEA,0,4,0,1 Yard Run,(10:30) C.Hyde right guard to SEA 44 for 1 yard (M.Brockers).,2nd & 5 at SEA 43
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,3,SEA,0,5,0,Pass Incomplete,"(10:04) (No Huddle, Shotgun) R.Wilson pass incomplete deep middle to D.Metcalf [A.Donald]. LA-A.Donald was injured during the play. His return is Questionable.",3rd & 4 at SEA 44
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,3,SEA,0,6,0,Punt,"(9:58) M.Dickson punts 56 yards to end zone, Center-T.Ott, Touchback.",4th & 4 at SEA 44
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,4,LA,0,1,0,-5 Yard Penalty,"(9:51) PENALTY on LA-B.Evans, False Start, 5 yards, enforced at LA 20 - No Play.",1st & 10 at LAR 20
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,4,LA,0,2,0,Pass Incomplete,(9:51) J.Goff pass incomplete deep middle to C.Kupp.,1st & 15 at LAR 15
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,4,LA,0,3,0,2 Yard Run,(9:47) C.Akers right tackle to LA 17 for 2 yards (P.Ford).,2nd & 15 at LAR 15
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,4,LA,0,4,0,2 Yard Run,(9:08) M.Brown left guard to LA 19 for 2 yards (B.Wagner; J.Reed).,3rd & 13 at LAR 17
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,4,LA,0,5,0,Punt,"(8:31) J.Hekker punts 46 yards to SEA 35, Center-J.McQuaide, out of bounds.",4th & 11 at LAR 19
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,5,SEA,0,1,0,1 Yard Pass,(8:25) (Shotgun) R.Wilson pass short left to W.Dissly to SEA 36 for 1 yard (J.Fuller) [J.Hollins].,1st & 10 at SEA 35
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,5,SEA,0,2,0,Pass Incomplete,(7:41) (Shotgun) R.Wilson pass incomplete short middle to W.Dissly.,2nd & 9 at SEA 36
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,5,SEA,0,3,0,Pass Incomplete,(7:37) (Shotgun) R.Wilson pass incomplete deep left to D.Metcalf (J.Ramsey).,3rd & 9 at SEA 36
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,5,SEA,0,4,0,Punt,"(7:30) M.Dickson punts 57 yards to LA 7, Center-T.Ott, fair catch by N.Webster.",4th & 9 at SEA 36
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,6,LA,0,1,0,6 Yard Run,(7:23) C.Akers left end to LA 13 for 6 yards (Q.Diggs).,1st & 10 at LAR 7
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,6,LA,0,2,0,6 Yard Run,(6:38) J.Goff scrambles right end ran ob at LA 19 for 6 yards (C.Lattimore).,2nd & 4 at LAR 13
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,6,LA,0,3,0,1 Yard Run,(6:07) C.Akers left tackle to LA 20 for 1 yard (D.Reed).,1st & 10 at LAR 19
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,6,LA,0,4,0,Pass Incomplete,(5:42) (Shotgun) J.Goff pass incomplete short left to T.Higbee (D.Reed).,2nd & 9 at LAR 20
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,6,LA,0,5,0,Pass Incomplete,(5:39) (Shotgun) J.Goff pass incomplete short middle to R.Woods (C.Dunlap).,3rd & 9 at LAR 20
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,6,LA,0,6,0,Punt,"(5:34) J.Hekker punts 49 yards to SEA 31, Center-J.McQuaide, downed by LA-M.Kiser.",4th & 9 at LAR 20
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,7,SEA,0,1,0,3 Yard Run,(5:21) C.Carson left guard to SEA 34 for 3 yards (J.Hollins).,1st & 10 at SEA 31
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,7,SEA,0,2,0,6 Yard Run,(4:39) (Shotgun) C.Carson right guard to SEA 40 for 6 yards (A.Robinson; J.Fuller).,2nd & 7 at SEA 34
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,7,SEA,0,3,0,3 Yard Run,(3:58) (Shotgun) C.Hyde right guard to SEA 43 for 3 yards (T.Reeder).,3rd & 1 at SEA 40
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,7,SEA,0,4,0,-5 Yard Penalty,"(3:18) R.Wilson pass incomplete short middle to W.Dissly [S.Joseph].
+PENALTY on SEA-B.Shell, Ineligible Downfield Pass, 5 yards, enforced at SEA 43 - No Play.",1st & 10 at SEA 43
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,7,SEA,0,5,0,-10 Yard Penalty,"(3:09) (Shotgun) R.Wilson scrambles right tackle to LA 46 for 16 yards (L.Floyd).
+PENALTY on SEA-E.Pocic, Offensive Holding, 10 yards, enforced at SEA 38 - No Play.",1st & 15 at SEA 38
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,7,SEA,0,6,0,1 Yard Run,(2:41) (Shotgun) C.Carson left guard to SEA 29 for 1 yard (G.Gaines; T.Reeder).,1st & 25 at SEA 28
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,7,SEA,0,7,0,Pass Incomplete,(1:58) (Shotgun) R.Wilson pass incomplete short right.,2nd & 24 at SEA 29
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,7,SEA,0,8,0,Pass Incomplete,"(1:53) (Shotgun) R.Wilson pass incomplete short middle to J.Hollister.
+Los Angeles Rams challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",3rd & 24 at SEA 29
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,3RD QUARTER,7,SEA,0,9,0,Punt,"(1:50) M.Dickson punts 55 yards to LA 16, Center-T.Ott. N.Webster to LA 25 for 9 yards (C.Barton).
+PENALTY on SEA-D.Randall, Player Out of Bounds on Kick, 5 yards, enforced at LA 25.",4th & 24 at SEA 29
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,1,LA,1,1,0,20 Yard Pass,(1:40) J.Goff pass short middle to R.Woods to 50 for 20 yards (D.Reed).,1st & 10 at LAR 30
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,1,LA,1,2,0,8 Yard Run,(:59) C.Akers right tackle to SEA 42 for 8 yards (B.Wagner; J.Brooks).,1st & 10 at 50
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,1,LA,1,3,0,4 Yard Run,(:18) C.Akers left tackle to SEA 38 for 4 yards (C.Lattimore).,2nd & 2 at SEA 42
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,1,LA,1,4,0,5 Yard Run,(15:00) C.Akers right end to SEA 33 for 5 yards (B.Wagner).,1st & 10 at SEA 38
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,1,LA,1,5,0,6 Yard Pass,(14:22) (Shotgun) J.Goff pass short right to R.Woods ran ob at SEA 27 for 6 yards.,2nd & 5 at SEA 33
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,1,LA,1,6,0,1 Yard Run,(13:50) C.Akers right tackle to SEA 26 for 1 yard (K.Wright).,1st & 10 at SEA 27
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,1,LA,1,7,0,7 Yard Pass,(13:12) (Shotgun) J.Goff pass short middle to R.Woods to SEA 19 for 7 yards (J.Brooks) [K.Wright].,2nd & 9 at SEA 26
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,1,LA,1,8,0,1 Yard Run,(12:22) M.Brown left guard to SEA 18 for 1 yard (J.Brooks).,3rd & 2 at SEA 19
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,1,LA,1,9,1,Field Goal,"(11:37) M.Gay 36 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",4th & 1 at SEA 18
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,2,SEA,0,1,0,Kickoff,"M.Gay kicks 65 yards from LA 35 to end zone, Touchback.",Kickoff from LAR 35
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,2,SEA,0,2,0,-10 Yard Penalty,"(11:33) (Shotgun) R.Wilson sacked at SEA 25 for 0 yards (L.Floyd).
+PENALTY on SEA-E.Pocic, Offensive Holding, 10 yards, enforced at SEA 25 - No Play.",1st & 10 at SEA 25
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,2,SEA,0,3,0,15 Yard Pass,(11:12) (Shotgun) R.Wilson pass short left to D.Metcalf to SEA 30 for 15 yards (J.Ramsey).,1st & 20 at SEA 15
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,2,SEA,0,4,0,4 Yard Run,"(10:45) (No Huddle, Shotgun) C.Carson left guard to SEA 34 for 4 yards (A.Robinson, J.Fuller).",2nd & 5 at SEA 30
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,2,SEA,0,5,0,Run for No Gain,(10:16) (Shotgun) C.Carson left guard to SEA 34 for no gain (A.Robinson). SEA-D.Lewis was injured during the play.,3rd & 1 at SEA 34
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,2,SEA,0,6,0,-5 Yard Penalty,"(9:32) (Shotgun) PENALTY on SEA-J.Simmons, False Start, 5 yards, enforced at SEA 34 - No Play.",4th & 1 at SEA 34
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,2,SEA,0,7,0,Punt,"(9:32) M.Dickson punts 71 yards to end zone, Center-T.Ott, Touchback.",4th & 6 at SEA 29
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,3,LA,0,1,0,3 Yard Run,(9:21) C.Akers left guard to LA 23 for 3 yards (J.Brooks; B.Mayowa).,1st & 10 at LAR 20
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,3,LA,0,2,0,6 Yard Run,(8:39) M.Brown left guard to LA 29 for 6 yards (B.Mayowa).,2nd & 7 at LAR 23
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,3,LA,0,3,0,Run for No Gain,(7:55) M.Brown right guard to LA 29 for no gain (C.Lattimore).,3rd & 1 at LAR 29
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,3,LA,0,4,0,Fumble,"(7:11) J.Hekker punts 44 yards to SEA 27, Center-J.McQuaide. D.Reed to SEA 35 for 8 yards (N.Scott, S.Ebukam). FUMBLES (S.Ebukam), RECOVERED by LA-M.Kiser at SEA 36.",4th & 1 at LAR 29
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,4,LA,1,1,0,9 Yard Pass,(7:02) J.Goff pass short right to M.Brown pushed ob at SEA 27 for 9 yards (B.Wagner).,1st & 10 at SEA 36
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,4,LA,1,2,0,6 Yard Run,(6:22) M.Brown right guard to SEA 21 for 6 yards (B.Wagner).,2nd & 1 at SEA 27
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,4,LA,1,3,0,6 Yard Run,(5:36) M.Brown right tackle to SEA 15 for 6 yards (K.Wright; J.Adams).,1st & 10 at SEA 21
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,4,LA,1,4,0,Touchdown Rams,"(4:52) J.Goff pass short left to R.Woods for 15 yards, TOUCHDOWN.",2nd & 4 at SEA 15
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,4,LA,1,5,1,Extra Point Good,"M.Gay extra point is GOOD, Center-J.McQuaide, Holder-J.Hekker.",XP attempt from SEA 15
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,5,SEA,1,1,0,Kickoff,M.Gay kicks 65 yards from LA 35 to SEA 0. D.Reed to SEA 24 for 24 yards (J.Hughes; J.Reed).,Kickoff from LAR 35
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,5,SEA,1,2,0,Pass Incomplete,(4:40) (Shotgun) R.Wilson pass incomplete short middle to J.Hollister.,1st & 10 at SEA 24
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,5,SEA,1,3,0,5 Yard Run,(4:35) (Shotgun) R.Wilson scrambles up the middle to SEA 29 for 5 yards (J.Johnson III).,2nd & 10 at SEA 24
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,5,SEA,1,4,0,-1 Yard Run,"(4:11) (No Huddle, Shotgun) C.Carson right tackle to SEA 28 for -1 yards (M.Fox, T.Reeder).",3rd & 5 at SEA 29
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,5,SEA,1,5,0,23 Yard Run,(3:35) (Shotgun) R.Wilson scrambles right end to LA 49 for 23 yards (J.Fuller).,4th & 6 at SEA 28
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,5,SEA,1,6,0,Pass Incomplete,"(3:07) (No Huddle, Shotgun) R.Wilson pass incomplete deep right to D.Metcalf.",1st & 10 at LAR 49
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,5,SEA,1,7,0,9 Yard Pass,(3:01) (Shotgun) R.Wilson pass short right to D.Metcalf to LA 40 for 9 yards (J.Ramsey).,2nd & 10 at LAR 49
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,5,SEA,1,8,0,28 Yard Pass,"(2:39) (No Huddle, Shotgun) R.Wilson pass deep left to F.Swain ran ob at LA 12 for 28 yards [T.Reeder].
+Los Angeles Rams challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #3.)",3rd & 1 at LAR 40
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,5,SEA,1,9,0,Touchdown Seahawks,"(2:34) (Shotgun) R.Wilson pass short middle to D.Metcalf for 12 yards, TOUCHDOWN.",1st & 10 at LAR 12
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,5,SEA,1,10,1,Extra Point Good,"J.Myers extra point is GOOD, Center-T.Ott, Holder-M.Dickson.",XP attempt from LAR 15
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,6,LA,0,1,0,Kickoff,M.Dickson kicks onside 14 yards from SEA 35 to SEA 49. R.Woods (didn't try to advance) to SEA 49 for no gain.,Kickoff from SEA 35
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,6,LA,0,2,0,5 Yard Run,(2:27) M.Brown left tackle to SEA 44 for 5 yards (C.Lattimore; B.Wagner).,1st & 10 at SEA 49
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,6,LA,0,3,0,1 Yard Run,(2:23) M.Brown right tackle to SEA 43 for 1 yard (J.Brooks).,2nd & 5 at SEA 44
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,6,LA,0,4,0,3 Yard Run,"(2:18) M.Brown left guard to SEA 39 for 4 yards (Q.Diggs, C.Lattimore).
+Seattle challenged the first down ruling, and the play was REVERSED.
+M.Brown left guard to SEA 40 for 3 yards (Q.Diggs, C.Lattimore).",3rd & 4 at SEA 43
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,6,LA,0,5,0,Turnover on Downs,(2:00) J.Goff up the middle to SEA 40 for no gain (B.Wagner; C.Dunlap).,4th & 1 at SEA 40
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,7,SEA,0,1,0,-5 Yard Sack,(1:55) (Shotgun) R.Wilson sacked at SEA 35 for -5 yards (L.Floyd).,1st & 10 at SEA 40
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,7,SEA,0,2,0,Pass Incomplete,(1:45) (Shotgun) R.Wilson pass incomplete deep right to D.Metcalf.,2nd & 15 at SEA 35
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,7,SEA,0,3,0,Pass Incomplete,(1:40) (Shotgun) R.Wilson pass incomplete deep right to T.Lockett (N.Scott).,3rd & 15 at SEA 35
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,7,SEA,0,4,0,Turnover on Downs,(1:31) (Shotgun) R.Wilson sacked at SEA 29 for -6 yards (M.Fox).,4th & 15 at SEA 35
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,8,LA,0,1,0,-1 Yard Run,(1:24) J.Goff kneels to SEA 30 for -1 yards.,1st & 10 at SEA 29
+2020,Wild Card Weekend,SAT,01/09,Rams,Seahawks,4TH QUARTER,8,LA,0,2,0,-1 Yard Run,(:42) J.Goff kneels to SEA 31 for -1 yards.,2nd & 11 at SEA 30
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,1,TB,1,1,0,Kickoff,D.Hopkins kicks 64 yards from WAS 35 to TB 1. J.Mickens to TB 19 for 18 yards (K.Hudson; K.Pierre-Louis).,Kickoff from WAS 35
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,1,TB,1,2,0,Pass Incomplete,(14:55) T.Brady pass incomplete short right to C.Godwin.,1st & 10 at TB 19
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,1,TB,1,3,0,30 Yard Pass,"(14:50) (Shotgun) T.Brady pass short left to M.Evans to TB 34 for 15 yards (K.Fuller).
+PENALTY on WAS-K.Fuller, Face Mask (15 Yards), 15 yards, enforced at TB 34.",2nd & 10 at TB 19
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,1,TB,1,4,0,9 Yard Run,(14:28) L.Fournette left guard to WAS 42 for 9 yards (K.Curl).,1st & 10 at TB 49
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,1,TB,1,5,0,7 Yard Run,(13:55) J.Haeg reported in as eligible.  L.Fournette up the middle to WAS 35 for 7 yards (M.Sweat; D.Payne).,2nd & 1 at WAS 42
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,1,TB,1,6,0,17 Yard Pass,(13:22) (Shotgun) T.Brady pass deep middle to C.Godwin to WAS 18 for 17 yards (R.Darby).,1st & 10 at WAS 35
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,1,TB,1,7,0,Pass Incomplete,(12:44) T.Brady pass incomplete deep left [J.Allen].,1st & 10 at WAS 18
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,1,TB,1,8,0,7 Yard Run,(12:39) L.Fournette right tackle to WAS 11 for 7 yards (J.Reaves).,2nd & 10 at WAS 18
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,1,TB,1,9,0,Pass Incomplete,(11:58) (Shotgun) T.Brady pass incomplete short middle [D.Payne].,3rd & 3 at WAS 11
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,1,TB,1,10,1,Field Goal,"(11:52) R.Succop 29 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",4th & 3 at WAS 11
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,2,WAS,0,1,0,Kickoff,"B.Pinion kicks 65 yards from TB 35 to end zone, Touchback.",Kickoff from TB 35
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,2,WAS,0,2,0,-4 Yard Run,(11:49) (Shotgun) A.Gibson right end to WAS 21 for -4 yards (S.Barrett).,1st & 10 at WAS 25
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,2,WAS,0,3,0,Pass Incomplete,(11:09) (Shotgun) T.Heinicke pass incomplete deep middle to C.Sims.,2nd & 14 at WAS 21
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,2,WAS,0,4,0,5 Yard Pass,(11:03) (Shotgun) T.Heinicke pass short middle to T.McLaurin to WAS 26 for 5 yards (M.Edwards).,3rd & 14 at WAS 21
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,2,WAS,0,5,0,Punt,"(10:21) T.Way punts 50 yards to TB 24, Center-N.Sundberg. J.Mickens to TB 31 for 7 yards (J.Smith-Williams).",4th & 9 at WAS 26
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,3,TB,0,1,0,-2 Yard Run,(10:11) J.Haeg reported in as eligible.  L.Fournette right tackle to TB 29 for -2 yards (M.Sweat).,1st & 10 at TB 31
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,3,TB,0,2,0,12 Yard Pass,(9:30) (Shotgun) T.Brady pass short middle to C.Godwin to TB 41 for 12 yards (R.Darby; J.Bostic).,2nd & 12 at TB 29
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,3,TB,0,3,0,6 Yard Run,(8:52) L.Fournette right guard to TB 47 for 6 yards (C.Young).,1st & 10 at TB 41
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,3,TB,0,4,0,Run for No Gain,(8:20) J.Haeg reported in as eligible.  L.Fournette left tackle to TB 47 for no gain (C.Young; M.Kendricks).,2nd & 4 at TB 47
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,3,TB,0,5,0,-5 Yard Penalty,"(7:32) (Shotgun) PENALTY on TB, Delay of Game, 5 yards, enforced at TB 47 - No Play.",3rd & 4 at TB 47
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,3,TB,0,6,0,Pass Incomplete,(7:25) (Shotgun) T.Brady pass incomplete short left to M.Evans (K.Fuller).,3rd & 9 at TB 42
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,3,TB,0,7,0,Punt,"(7:20) B.Pinion punts 44 yards to WAS 14, Center-Z.Triner, fair catch by S.Sims.",4th & 9 at TB 42
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,4,WAS,0,1,0,Pass Incomplete,(7:14) (Shotgun) T.Heinicke pass incomplete short right.,1st & 10 at WAS 14
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,4,WAS,0,2,0,4 Yard Run,(7:08) (Shotgun) A.Gibson left guard to WAS 18 for 4 yards (K.Minter; S.Barrett).,2nd & 10 at WAS 14
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,4,WAS,0,3,0,36 Yard Pass,(6:26) (Shotgun) T.Heinicke pass deep right to C.Sims to TB 46 for 36 yards (M.Edwards).,3rd & 6 at WAS 18
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,4,WAS,0,4,0,-1 Yard Run,(5:43) A.Gibson right end to TB 47 for -1 yards (A.Winfield).,1st & 10 at TB 46
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,4,WAS,0,5,0,Interception,(5:02) (Shotgun) T.Heinicke pass short left intended for T.McLaurin INTERCEPTED by S.Murphy-Bunting (K.Minter) at TB 42. S.Murphy-Bunting to TB 42 for no gain (T.McLaurin).,2nd & 11 at TB 47
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,5,TB,1,1,0,Pass Incomplete,(4:57) T.Brady pass incomplete short left to K.Vaughn.,1st & 10 at TB 42
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,5,TB,1,2,0,Pass Incomplete,(4:53) (Shotgun) T.Brady pass incomplete deep left to C.Godwin.,2nd & 10 at TB 42
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,5,TB,1,3,0,15 Yard Pass,(4:49) (Shotgun) T.Brady pass short right to S.Miller to WAS 43 for 15 yards (R.Darby).,3rd & 10 at TB 42
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,5,TB,1,4,0,4 Yard Run,(4:11) K.Vaughn up the middle to WAS 39 for 4 yards (J.Bostic).,1st & 10 at WAS 43
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,5,TB,1,5,0,3 Yard Run,(3:36) K.Vaughn left tackle to WAS 36 for 3 yards (M.Kendricks; K.Curl).,2nd & 6 at WAS 39
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,5,TB,1,6,0,Touchdown Buccaneers,"(2:58) T.Brady pass deep right to A.Brown for 36 yards, TOUCHDOWN.",3rd & 3 at WAS 36
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,1ST QUARTER,5,TB,1,7,1,Extra Point No Good,"R.Succop extra point is Blocked (J.Reaves), Center-Z.Triner, Holder-B.Pinion.",XP attempt from WAS 15
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,1,WAS,1,1,0,Kickoff,"B.Pinion kicks 65 yards from TB 35 to end zone, Touchback.",Kickoff from TB 35
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,1,WAS,1,2,0,24 Yard Pass,(2:51) (Shotgun) T.Heinicke pass short right to L.Thomas pushed ob at WAS 49 for 24 yards (C.Davis).,1st & 10 at WAS 25
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,1,WAS,1,3,0,18 Yard Pass,(2:16) (Shotgun) T.Heinicke pass deep middle to T.McLaurin to TB 33 for 18 yards (C.Davis).,1st & 10 at WAS 49
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,1,WAS,1,4,0,2 Yard Run,(1:40) (Shotgun) A.Gibson right guard to TB 31 for 2 yards (K.Minter).,1st & 10 at TB 33
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,1,WAS,1,5,0,10 Yard Run,(1:01) (Shotgun) T.Heinicke scrambles right end ran ob at TB 21 for 10 yards (A.Winfield).,2nd & 8 at TB 31
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,1,WAS,1,6,0,2 Yard Run,(:29) (Shotgun) A.Gibson up the middle to TB 19 for 2 yards (K.Minter; J.Pierre-Paul).,1st & 10 at TB 21
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,1,WAS,1,7,0,Pass Incomplete,(15:00) (Shotgun) T.Heinicke pass incomplete short right.,2nd & 8 at TB 19
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,1,WAS,1,8,0,10 Yard Pass,(14:56) (Shotgun) T.Heinicke pass short left to S.Sims ran ob at TB 9 for 10 yards [N.Suh].,3rd & 8 at TB 19
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,1,WAS,1,9,0,2 Yard Run,(14:22) (Shotgun) T.Heinicke scrambles right end to TB 7 for 2 yards (K.Minter).,1st & 9 at TB 9
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,1,WAS,1,10,0,5 Yard Run,(13:45) (Shotgun) A.Gibson up the middle to TB 2 for 5 yards (N.Suh; R.Nunez-Roches).,2nd & 7 at TB 7
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,1,WAS,1,11,0,Touchdown Commanders,"(13:02) (Shotgun) J.McKissic right tackle for 2 yards, TOUCHDOWN.",3rd & 2 at TB 2
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,1,WAS,1,12,1,Extra Point Good,"D.Hopkins extra point is GOOD, Center-N.Sundberg, Holder-T.Way.",XP attempt from TB 15
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,2,TB,1,1,0,Kickoff,D.Hopkins kicks onside 26 yards from WAS 35 to TB 39. A.Nelson (didn't try to advance) to TB 39 for no gain.,Kickoff from WAS 35
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,2,TB,1,2,0,22 Yard Run,(12:58) A.Brown left end to WAS 39 for 22 yards (C.Holcomb).,1st & 10 at TB 39
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,2,TB,1,3,0,3 Yard Run,(12:14) J.Haeg reported in as eligible.  L.Fournette right tackle to WAS 36 for 3 yards (J.Bostic; J.Reaves).,1st & 10 at WAS 39
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,2,TB,1,4,0,4 Yard Pass,(11:37) (Shotgun) T.Brady pass short left to L.Fournette to WAS 32 for 4 yards (J.Bostic).,2nd & 7 at WAS 36
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,2,TB,1,5,0,5 Yard Pass,(10:51) (Shotgun) T.Brady pass short left to L.Fournette to WAS 27 for 5 yards (K.Curl).,3rd & 3 at WAS 32
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,2,TB,1,6,0,Touchdown Buccaneers,"(10:09) J.Haeg reported in as eligible.  T.Brady pass deep left to C.Godwin for 27 yards, TOUCHDOWN.",1st & 10 at WAS 27
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,2,TB,1,7,1,2PT Conversion Fails,TWO-POINT CONVERSION ATTEMPT. L.Fournette rushes left end. ATTEMPT FAILS.,XP attempt from WAS 2
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,3,WAS,0,1,0,Kickoff,"B.Pinion kicks 65 yards from TB 35 to end zone, Touchback.",Kickoff from TB 35
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,3,WAS,0,2,0,5 Yard Pass,(10:03) (Shotgun) T.Heinicke pass short right to C.Sims to WAS 30 for 5 yards (C.Davis).,1st & 10 at WAS 25
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,3,WAS,0,3,0,Pass Incomplete,(9:28) (Shotgun) T.Heinicke pass incomplete short right to C.Sims.,2nd & 5 at WAS 30
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,3,WAS,0,4,0,5 Yard Pass,(9:23) (Shotgun) T.Heinicke pass short middle to C.Sims to WAS 35 for 5 yards (J.Dean).,3rd & 5 at WAS 30
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,3,WAS,0,5,0,11 Yard Run,(8:42) (Shotgun) A.Gibson left end pushed ob at WAS 46 for 11 yards (A.Winfield).,1st & 10 at WAS 35
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,3,WAS,0,6,0,4 Yard Run,(8:15) S.Sims left end pushed ob at 50 for 4 yards (J.Dean). End around,1st & 10 at WAS 46
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,3,WAS,0,7,0,8 Yard Pass,(7:46) (Shotgun) T.Heinicke pass short right to T.McLaurin to TB 42 for 8 yards (C.Davis).,2nd & 6 at 50
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,3,WAS,0,8,0,Pass Incomplete,(7:10) (Shotgun) T.Heinicke pass incomplete short left to I.Wright.,1st & 10 at TB 42
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,3,WAS,0,9,0,1 Yard Run,(7:04) (Shotgun) A.Gibson right guard to TB 41 for 1 yard (N.Suh; R.Nunez-Roches).,2nd & 10 at TB 42
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,3,WAS,0,10,0,Pass Incomplete,(6:21) (Shotgun) T.Heinicke pass incomplete short middle to C.Sims (C.Davis).,3rd & 9 at TB 41
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,3,WAS,0,11,0,Punt,"(6:17) T.Way punts 28 yards to TB 13, Center-N.Sundberg, fair catch by J.Mickens.",4th & 9 at TB 41
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,4,TB,1,1,0,8 Yard Run,(6:10) J.Haeg reported in as eligible.  L.Fournette up the middle to TB 21 for 8 yards (J.Bostic; K.Curl).,1st & 10 at TB 13
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,4,TB,1,2,0,4 Yard Run,(5:36) J.Haeg reported in as eligible.  L.Fournette right guard to TB 25 for 4 yards (M.Kendricks; D.Payne).,2nd & 2 at TB 21
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,4,TB,1,3,0,22 Yard Pass,(4:58) T.Brady pass short left to L.Fournette to TB 47 for 22 yards (J.Reaves).,1st & 10 at TB 25
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,4,TB,1,4,0,19 Yard Pass,(4:13) T.Brady pass deep right to C.Brate to WAS 34 for 19 yards (C.Holcomb).,1st & 10 at TB 47
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,4,TB,1,5,0,3 Yard Run,(3:36) L.Fournette right tackle to WAS 31 for 3 yards (J.Bostic).,1st & 10 at WAS 34
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,4,TB,1,6,0,24 Yard Pass,(2:56) T.Brady pass short middle to C.Brate to WAS 7 for 24 yards (K.Fuller).,2nd & 7 at WAS 31
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,4,TB,1,7,0,2 Yard Run,(2:06) L.Fournette right end to WAS 5 for 2 yards (M.Sweat; M.Kendricks).,1st & 7 at WAS 7
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,4,TB,1,8,0,Pass Incomplete,(2:00) (Shotgun) T.Brady pass incomplete short middle to C.Godwin (R.Darby).,2nd & 5 at WAS 5
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,4,TB,1,9,0,Pass Incomplete,(1:57) (Shotgun) T.Brady pass incomplete short middle to R.Gronkowski (J.Bostic).,3rd & 5 at WAS 5
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,4,TB,1,10,1,Field Goal,"(1:53) R.Succop 23 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",4th & 5 at WAS 5
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,5,WAS,0,1,0,Kickoff,"B.Pinion kicks 65 yards from TB 35 to end zone, Touchback.",Kickoff from TB 35
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,5,WAS,0,2,0,-6 Yard Sack,"(1:50) (Shotgun) T.Heinicke sacked at WAS 19 for -6 yards (A.Nelson).
+The Replay Official reviewed the runner was down by contact ruling, and the play was Upheld. The ruling on the field stands.",1st & 10 at WAS 25
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,5,WAS,0,3,0,Pass Incomplete,(1:43) (Shotgun) T.Heinicke pass incomplete short right to S.Sims.,2nd & 16 at WAS 19
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,5,WAS,0,4,0,12 Yard Pass,(1:40) (Shotgun) T.Heinicke pass short right to S.Sims to WAS 31 for 12 yards (M.Edwards).,3rd & 16 at WAS 19
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,5,WAS,0,5,0,Punt,"(1:34) T.Way punts 52 yards to TB 17, Center-N.Sundberg. J.Mickens to TB 26 for 9 yards (K.Hudson).",4th & 4 at WAS 31
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,6,TB,0,1,0,Pass Incomplete,(1:22) (Shotgun) T.Brady pass incomplete short right to M.Evans.,1st & 10 at TB 26
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,6,TB,0,2,0,13 Yard Pass,(1:18) (Shotgun) T.Brady pass short left to A.Brown to TB 39 for 13 yards (J.Reaves).,2nd & 10 at TB 26
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,6,TB,0,3,0,Pass Incomplete,"(:59) (No Huddle, Shotgun) T.Brady pass incomplete short middle to C.Godwin.",1st & 10 at TB 39
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,6,TB,0,4,0,Pass Incomplete,(:54) (Shotgun) T.Brady pass incomplete short right to C.Brate.,2nd & 10 at TB 39
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,6,TB,0,5,0,-2 Yard Sack,(:50) (Shotgun) T.Brady sacked at TB 37 for -2 yards (M.Sweat).,3rd & 10 at TB 39
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,6,TB,0,6,0,Punt,"(:42) B.Pinion punts 53 yards to WAS 10, Center-Z.Triner, downed by TB-M.Edwards.",4th & 12 at TB 37
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,7,WAS,0,1,0,7 Yard Pass,(:30) (Shotgun) T.Heinicke pass short right to J.McKissic to WAS 17 for 7 yards (L.David).,1st & 10 at WAS 10
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,7,WAS,0,2,0,10 Yard Run,"(:10) (No Huddle, Shotgun) T.Heinicke scrambles right end pushed ob at WAS 27 for 10 yards (L.David).",2nd & 3 at WAS 17
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,2ND QUARTER,7,WAS,0,3,0,3 Yard Run,(:03) (Shotgun) J.McKissic left end to WAS 30 for 3 yards (J.Pierre-Paul).,1st & 10 at WAS 27
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,1,WAS,1,1,0,Kickoff,B.Pinion kicks 66 yards from TB 35 to WAS -1. D.Johnson to WAS 30 for 31 yards (R.Smith).,Kickoff from TB 35
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,1,WAS,1,2,0,Pass Incomplete,(14:55) (Shotgun) T.Heinicke pass incomplete short left to A.Gibson.,1st & 10 at WAS 30
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,1,WAS,1,3,0,12 Yard Pass,(14:47) (Shotgun) T.Heinicke pass short left to T.McLaurin to WAS 42 for 12 yards (J.Dean).,2nd & 10 at WAS 30
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,1,WAS,1,4,0,5 Yard Penalty,"(14:15) (Shotgun) T.Heinicke pass short middle to T.McLaurin to WAS 45 for 3 yards (J.Whitehead).
+PENALTY on TB-J.Pierre-Paul, Defensive Offside, 5 yards, enforced at WAS 42 - No Play.",1st & 10 at WAS 42
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,1,WAS,1,5,0,29 Yard Pass,(13:51) T.Heinicke pass deep left to L.Thomas to TB 24 for 29 yards (L.David).,1st & 5 at WAS 47
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,1,WAS,1,6,0,3 Yard Run,(13:07) T.Heinicke scrambles right tackle to TB 21 for 3 yards (K.Minter).,1st & 10 at TB 24
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,1,WAS,1,7,0,3 Yard Run,(12:32) (Shotgun) A.Gibson up the middle to TB 18 for 3 yards (N.Suh).,2nd & 7 at TB 21
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,1,WAS,1,8,0,Pass Incomplete,(11:54) (Shotgun) T.Heinicke pass incomplete short middle to L.Thomas.,3rd & 4 at TB 18
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,1,WAS,1,9,1,Field Goal,"(11:50) D.Hopkins 36 yard field goal is GOOD, Center-N.Sundberg, Holder-T.Way.",4th & 4 at TB 18
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,2,TB,0,1,0,Kickoff,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback.",Kickoff from WAS 35
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,2,TB,0,2,0,3 Yard Run,(11:46) L.Fournette right tackle to TB 28 for 3 yards (R.Darby; K.Curl).,1st & 10 at TB 25
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,2,TB,0,3,0,Pass Incomplete,(11:09) (Shotgun) T.Brady pass incomplete deep right to M.Evans [M.Sweat].,2nd & 7 at TB 28
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,2,TB,0,4,0,Pass Incomplete,(11:05) (Shotgun) T.Brady pass incomplete short left to C.Godwin.,3rd & 7 at TB 28
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,2,TB,0,5,0,Punt,"(11:02) B.Pinion punts 30 yards to WAS 42, Center-Z.Triner, out of bounds.",4th & 7 at TB 28
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,3,WAS,0,1,0,3 Yard Run,(10:53) (Shotgun) A.Gibson left tackle to WAS 45 for 3 yards (L.David).,1st & 10 at WAS 42
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,3,WAS,0,2,0,Pass Incomplete,(10:11) (Shotgun) T.Heinicke pass incomplete short left to C.Sims (J.Pierre-Paul).,2nd & 7 at WAS 45
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,3,WAS,0,3,0,-10 Yard Penalty,"(10:07) (Shotgun) T.Heinicke scrambles left end ran ob at TB 40 for 15 yards (K.Minter).
+PENALTY on WAS-B.Scherff, Offensive Holding, 10 yards, enforced at WAS 45 - No Play.",3rd & 7 at WAS 45
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,3,WAS,0,4,0,12 Yard Pass,(9:45) (Shotgun) T.Heinicke pass short right to L.Thomas to WAS 47 for 12 yards (M.Edwards; C.Davis).,3rd & 17 at WAS 35
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,3,WAS,0,5,0,Punt,"(9:02) T.Way punts 53 yards to end zone, impetus ends at TB 7, Center-N.Sundberg, Touchback.",4th & 5 at WAS 47
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,4,TB,0,1,0,3 Yard Run,(8:53) J.Haeg reported in as eligible.  K.Vaughn left tackle to TB 23 for 3 yards (J.Allen; C.Young).,1st & 10 at TB 20
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,4,TB,0,2,0,Pass Incomplete,(8:08) (Shotgun) T.Brady pass incomplete short left to C.Godwin.,2nd & 7 at TB 23
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,4,TB,0,3,0,13 Yard Pass,(8:04) (Shotgun) T.Brady pass short right to M.Evans to TB 36 for 13 yards (J.Moreland).,3rd & 7 at TB 23
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,4,TB,0,4,0,6 Yard Run,(7:24) (Shotgun) K.Vaughn left tackle to TB 42 for 6 yards (J.Moreland).,1st & 10 at TB 36
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,4,TB,0,5,0,Pass Incomplete,(6:50) (Shotgun) T.Brady pass incomplete deep left to M.Evans.,2nd & 4 at TB 42
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,4,TB,0,6,0,14 Yard Pass,"(6:44) (Shotgun) T.Brady pass short middle to C.Brate to WAS 45 for 13 yards (J.Reaves). FUMBLES (J.Reaves), and recovers at WAS 44.",3rd & 4 at TB 42
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,4,TB,0,7,0,Fumble,"(6:03) K.Vaughn left guard to WAS 38 for 6 yards (K.Curl, D.Payne). FUMBLES (D.Payne), RECOVERED by WAS-J.Bostic at WAS 39.",1st & 10 at WAS 44
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,5,WAS,1,1,0,19 Yard Pass,(5:53) (Shotgun) T.Heinicke pass deep left to C.Sims pushed ob at TB 42 for 19 yards (J.Dean).,1st & 10 at WAS 39
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,5,WAS,1,2,0,-1 Yard Run,"(5:32) (No Huddle, Shotgun) A.Gibson up the middle to TB 43 for -1 yards (J.Pierre-Paul, S.Murphy-Bunting).",1st & 10 at TB 42
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,5,WAS,1,3,0,13 Yard Run,(4:53) (Shotgun) T.Heinicke scrambles up the middle to TB 30 for 13 yards (A.Winfield).,2nd & 11 at TB 43
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,5,WAS,1,4,0,17 Yard Run,"(4:13) (Shotgun) A.Gibson left end pushed ob at TB 27 for 3 yards (S.Murphy-Bunting).
+PENALTY on TB-S.Murphy-Bunting, Horse Collar Tackle, 14 yards, enforced at TB 27.",1st & 10 at TB 30
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,5,WAS,1,5,0,6 Yard Pass,(3:51) (Shotgun) T.Heinicke pass short left to C.Sims pushed ob at TB 7 for 6 yards (A.Winfield).,1st & 10 at TB 13
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,5,WAS,1,6,0,-1 Yard Run,(3:06) A.Gibson right guard to TB 8 for -1 yards (A.Winfield).,2nd & 4 at TB 7
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,5,WAS,1,7,0,Touchdown Commanders,"(2:26) (Shotgun) T.Heinicke scrambles left end for 8 yards, TOUCHDOWN.",3rd & 5 at TB 8
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,3RD QUARTER,5,WAS,1,8,1,2PT Conversion Fails,TWO-POINT CONVERSION ATTEMPT. T.Heinicke pass to L.Thomas is complete. ATTEMPT FAILS.,XP attempt from TB 2
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,1,TB,1,1,0,Kickoff,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback.",Kickoff from WAS 35
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,1,TB,1,2,0,Pass Incomplete,(2:14) T.Brady pass incomplete deep left to C.Godwin.,1st & 10 at TB 25
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,1,TB,1,3,0,7 Yard Pass,(2:08) (Shotgun) T.Brady pass short middle to C.Godwin to TB 32 for 7 yards (J.Moreland).,2nd & 10 at TB 25
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,1,TB,1,4,0,23 Yard Pass,(1:22) (Shotgun) T.Brady pass short middle to C.Brate to WAS 45 for 23 yards (J.Reaves).,3rd & 3 at TB 32
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,1,TB,1,5,0,5 Yard Run,(:44) J.Haeg reported in as eligible.  L.Fournette up the middle to WAS 40 for 5 yards (J.Reaves).,1st & 10 at WAS 45
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,1,TB,1,6,0,17 Yard Pass,(:01) (Shotgun) T.Brady pass deep middle to M.Evans to WAS 23 for 17 yards (J.Reaves).,2nd & 5 at WAS 40
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,1,TB,1,7,0,8 Yard Pass,(15:00) (Shotgun) T.Brady pass short middle to L.Fournette to WAS 15 for 8 yards (J.Bostic).,1st & 10 at WAS 23
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,1,TB,1,8,0,-5 Yard Sack,(14:18) (Shotgun) T.Brady sacked at WAS 20 for -5 yards (D.Payne).,2nd & 2 at WAS 15
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,1,TB,1,9,0,Pass Incomplete,(13:38) (Shotgun) T.Brady pass incomplete short right to A.Brown.,3rd & 7 at WAS 20
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,1,TB,1,10,1,Field Goal,"(13:35) R.Succop 38 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",4th & 7 at WAS 20
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,2,WAS,0,1,0,Kickoff,"B.Pinion kicks 65 yards from TB 35 to end zone, Touchback.",Kickoff from TB 35
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,2,WAS,0,2,0,Pass Incomplete,(13:32) (Shotgun) T.Heinicke pass incomplete short right [R.Nunez-Roches].,1st & 10 at WAS 25
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,2,WAS,0,3,0,1 Yard Pass,(13:27) (Shotgun) T.Heinicke pass short right to A.Gibson to WAS 26 for 1 yard (L.David).,2nd & 10 at WAS 25
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,2,WAS,0,4,0,Pass Incomplete,(12:49) (Shotgun) T.Heinicke pass incomplete short right to L.Thomas (J.Whitehead) [J.Pierre-Paul]. WAS-T.Heinicke was injured during the play. His return is Questionable.  4 - Heinicke shoulder injury,3rd & 9 at WAS 26
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,2,WAS,0,5,0,Punt,"(12:44) T.Way punts 43 yards to TB 31, Center-N.Sundberg, downed by WAS-J.Sprinkle.",4th & 9 at WAS 26
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,3,TB,1,1,0,20 Yard Pass,(12:33) T.Brady pass deep right to M.Evans to WAS 49 for 20 yards (C.Holcomb).,1st & 10 at TB 31
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,3,TB,1,2,0,17 Yard Run,(11:53) J.Haeg reported in as eligible.  L.Fournette up the middle to WAS 32 for 17 yards (J.Reaves).,1st & 10 at WAS 49
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,3,TB,1,3,0,8 Yard Run,(11:14) S.Miller right end pushed ob at WAS 24 for 8 yards (J.Reaves).,1st & 10 at WAS 32
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,3,TB,1,4,0,2 Yard Run,(10:44) L.Fournette left tackle to WAS 22 for 2 yards (M.Kendricks; C.Holcomb).,2nd & 2 at WAS 24
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,3,TB,1,5,0,19 Yard Pass,(10:04) J.Haeg reported in as eligible.  T.Brady pass deep right to M.Evans to WAS 3 for 19 yards (R.Darby; C.Holcomb).,1st & 10 at WAS 22
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,3,TB,1,6,0,Pass Incomplete,"(9:17) T.Brady pass short right to C.Brate for 3 yards, TOUCHDOWN.
+The Replay Official reviewed the pass completion ruling, and the play was REVERSED.
+T.Brady pass incomplete short right to C.Brate.",1st & 3 at WAS 3
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,3,TB,1,7,0,Touchdown Buccaneers,"(9:14) L.Fournette left guard for 3 yards, TOUCHDOWN.",2nd & 3 at WAS 3
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,3,TB,1,8,1,Extra Point Good,"R.Succop extra point is GOOD, Center-Z.Triner, Holder-B.Pinion.",XP attempt from WAS 15
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,4,WAS,1,1,0,Kickoff,"B.Pinion kicks 65 yards from TB 35 to end zone, Touchback.",Kickoff from TB 35
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,4,WAS,1,2,0,8 Yard Pass,(9:11) (Shotgun) T.Heinicke pass short left to J.Sprinkle to WAS 33 for 8 yards (J.Dean).,1st & 10 at WAS 25
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,4,WAS,1,3,0,4 Yard Run,(8:35) (Shotgun) A.Gibson left end pushed ob at WAS 37 for 4 yards (J.Dean).,2nd & 2 at WAS 33
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,4,WAS,1,4,0,23 Yard Pass,(7:59) (Shotgun) T.Heinicke pass deep right to C.Sims to TB 40 for 23 yards (C.Davis).,1st & 10 at WAS 37
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,4,WAS,1,5,0,4 Yard Pass,(7:24) (Shotgun) T.Heinicke pass short right to L.Thomas pushed ob at TB 36 for 4 yards (L.David).,1st & 10 at TB 40
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,4,WAS,1,6,0,3 Yard Pass,(6:59) (Shotgun) T.Heinicke pass short right to A.Gibson pushed ob at TB 33 for 3 yards (C.Davis).,2nd & 6 at TB 36
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,4,WAS,1,7,0,5 Yard Pass,(6:32) (Shotgun) T.Heinicke pass short middle to L.Thomas to TB 28 for 5 yards (L.David).,3rd & 3 at TB 33
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,4,WAS,1,8,0,1 Yard Pass,"(6:08) (No Huddle, Shotgun) T.Heinicke pass short middle to J.McKissic to TB 27 for 1 yard (L.David; K.Minter).",1st & 10 at TB 28
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,4,WAS,1,9,0,16 Yard Pass,(5:32) (Shotgun) T.Heinicke pass deep middle to T.McLaurin to TB 11 for 16 yards (C.Davis).,2nd & 9 at TB 27
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,4,WAS,1,10,0,Pass Incomplete,"(5:06) (No Huddle, Shotgun) T.Heinicke pass incomplete short right to L.Thomas.",1st & 10 at TB 11
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,4,WAS,1,11,0,Pass Incomplete,(5:02) (Shotgun) T.Heinicke pass incomplete short middle to C.Sims (L.David).,2nd & 10 at TB 11
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,4,WAS,1,12,0,Touchdown Commanders,"(4:57) (Shotgun) T.Heinicke pass short left to S.Sims for 11 yards, TOUCHDOWN.
+The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands.",3rd & 10 at TB 11
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,4,WAS,1,13,1,Extra Point Good,"D.Hopkins extra point is GOOD, Center-N.Sundberg, Holder-T.Way.",XP attempt from TB 15
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,5,TB,1,1,0,Kickoff,D.Hopkins kicks 50 yards from WAS 35 to TB 15. J.Mickens pushed ob at TB 23 for 8 yards (P.Barber).,Kickoff from WAS 35
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,5,TB,1,2,0,2 Yard Run,(4:48) J.Haeg reported in as eligible.  L.Fournette left guard to TB 25 for 2 yards (C.Holcomb).,1st & 10 at TB 23
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,5,TB,1,3,0,35 Yard Pass,(4:06) (Shotgun) T.Brady pass deep left to M.Evans pushed ob at WAS 40 for 35 yards (K.Fuller) [J.Allen].,2nd & 8 at TB 25
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,5,TB,1,4,0,13 Yard Run,(4:00) J.Haeg reported in as eligible.  L.Fournette right end to WAS 27 for 13 yards (M.Kendricks).,1st & 10 at WAS 40
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,5,TB,1,5,0,1 Yard Run,(3:50) J.Haeg reported in as eligible.  L.Fournette left tackle to WAS 26 for 1 yard (C.Holcomb).,1st & 10 at WAS 27
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,5,TB,1,6,0,-9 Yard Sack,(3:46) T.Brady sacked at WAS 35 for -9 yards (D.Payne).,2nd & 9 at WAS 26
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,5,TB,1,7,0,16 Yard Pass,(3:40) (Shotgun) T.Brady pass short middle to C.Godwin to WAS 19 for 16 yards (K.Curl).,3rd & 18 at WAS 35
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,5,TB,1,8,1,Field Goal,"(2:54) R.Succop 37 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",4th & 2 at WAS 19
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,6,WAS,0,1,0,Kickoff,"B.Pinion kicks 65 yards from TB 35 to end zone, Touchback.",Kickoff from TB 35
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,6,WAS,0,2,0,16 Yard Pass,"(2:49) (Shotgun) T.Heinicke pass deep middle to T.McLaurin to WAS 41 for 16 yards (J.Dean).
+Penalty on TB-R.Cockrell, Defensive Holding, declined.",1st & 10 at WAS 25
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,6,WAS,0,3,0,10 Yard Pass,"(2:41) (Shotgun) T.Heinicke pass short right to C.Sims to TB 49 for 10 yards (C.Davis).
+Penalty on TB-J.Dean, Defensive Holding, declined.",1st & 10 at WAS 41
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,6,WAS,0,4,0,Pass Incomplete,(2:31) (Shotgun) T.Heinicke pass incomplete short middle to C.Sims.,1st & 10 at TB 49
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,6,WAS,0,5,0,Pass Incomplete,(2:27) (Shotgun) T.Heinicke pass incomplete short left to J.McKissic (M.Edwards).,2nd & 10 at TB 49
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,6,WAS,0,6,0,-11 Yard Sack,(2:22) (Shotgun) T.Heinicke sacked at WAS 40 for -11 yards (L.David).,3rd & 10 at TB 49
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,6,WAS,0,7,0,Turnover on Downs,(2:00) (Shotgun) T.Heinicke pass incomplete deep right to L.Thomas (C.Davis) [W.Gholston].,4th & 21 at WAS 40
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,7,TB,0,1,0,-1 Yard Run,(1:51) T.Brady kneels to WAS 41 for -1 yards.,1st & 10 at WAS 40
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,7,TB,0,2,0,Run for No Gain,(1:10) T.Brady kneels to WAS 41 for no gain.,2nd & 11 at WAS 41
+2020,Wild Card Weekend,SAT,01/09,Buccaneers,Football Team,4TH QUARTER,7,TB,0,3,0,-1 Yard Run,(:35) T.Brady kneels to WAS 42 for -1 yards.,3rd & 11 at WAS 41
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,1,TEN,0,1,0,Kickoff,"J.Tucker kicks 65 yards from BAL 35 to end zone, Touchback.",Kickoff from BAL 35
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,1,TEN,0,2,0,4 Yard Run,(15:00) R.Tannehill scrambles right end pushed ob at TEN 29 for 4 yards (M.Judon).,1st & 10 at TEN 25
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,1,TEN,0,3,0,2 Yard Run,(14:27) D.Henry left tackle to TEN 31 for 2 yards (P.McPhee).,2nd & 6 at TEN 29
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,1,TEN,0,4,0,Pass Incomplete,(13:41) (Shotgun) R.Tannehill pass incomplete deep right to A.Brown [C.Campbell].,3rd & 4 at TEN 31
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,1,TEN,0,5,0,Punt,"(13:36) B.Kern punts 51 yards to BAL 18, Center-M.Overton, fair catch by D.Duvernay.",4th & 4 at TEN 31
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,2,BAL,0,1,0,3 Yard Run,"(13:30) (Shotgun) J.Dobbins right end to BAL 21 for 3 yards (M.Butler, R.Evans).",1st & 10 at BAL 18
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,2,BAL,0,2,0,2 Yard Run,"(12:50) (Shotgun) L.Jackson left end to BAL 23 for 2 yards (D.King, K.Vaccaro).",2nd & 7 at BAL 21
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,2,BAL,0,3,0,Pass Incomplete,(12:04) (Shotgun) L.Jackson pass incomplete short left to M.Andrews (K.Byard).,3rd & 5 at BAL 23
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,2,BAL,0,4,0,Punt,"(12:00) S.Koch punts 53 yards to TEN 24, Center-M.Cox. K.Raymond to TEN 30 for 6 yards (A.Levine, M.Harrison).",4th & 5 at BAL 23
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,3,TEN,1,1,0,6 Yard Run,(11:50) D.Henry left tackle to TEN 36 for 6 yards (M.Humphrey).,1st & 10 at TEN 30
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,3,TEN,1,2,0,1 Yard Run,(11:17) D.Henry right tackle to TEN 37 for 1 yard (P.McPhee).,2nd & 4 at TEN 36
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,3,TEN,1,3,0,28 Yard Pass,(10:38) (Shotgun) R.Tannehill pass deep left to A.Brown pushed ob at BAL 35 for 28 yards (M.Humphrey).,3rd & 3 at TEN 37
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,3,TEN,1,4,0,4 Yard Pass,(10:02) R.Tannehill pass short left to J.Smith pushed ob at BAL 31 for 4 yards (C.Clark).,1st & 10 at BAL 35
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,3,TEN,1,5,0,-5 Yard Penalty,"(9:28) PENALTY on TEN-N.Westbrook-Ikhine, False Start, 5 yards, enforced at BAL 31 - No Play.",2nd & 6 at BAL 31
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,3,TEN,1,6,0,14 Yard Pass,"(9:09) (Shotgun) R.Tannehill pass short middle to A.Brown to BAL 22 for 14 yards (M.Humphrey, D.Elliott).",2nd & 11 at BAL 36
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,3,TEN,1,7,0,1 Yard Run,(8:26) (Shotgun) D.Henry right guard to BAL 21 for 1 yard (P.McPhee).,1st & 10 at BAL 22
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,3,TEN,1,8,0,5 Yard Pass,(7:47) R.Tannehill pass short right to J.Smith to BAL 16 for 5 yards (C.Clark).,2nd & 9 at BAL 21
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,3,TEN,1,9,0,9 Yard Pass,(7:03) (Shotgun) R.Tannehill pass short middle to A.Firkser to BAL 7 for 9 yards (C.Board).,3rd & 4 at BAL 16
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,3,TEN,1,10,0,-3 Yard Run,(6:25) D.Henry right tackle to BAL 10 for -3 yards (M.Judon).,1st & 7 at BAL 7
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,3,TEN,1,11,0,Touchdown Titans,"(5:44) (Shotgun) R.Tannehill pass short left to A.Brown for 10 yards, TOUCHDOWN.",2nd & 10 at BAL 10
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,3,TEN,1,12,1,Extra Point Good,"S.Gostkowski extra point is GOOD, Center-M.Overton, Holder-B.Kern.",XP attempt from BAL 15
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,4,BAL,0,1,0,Kickoff,"S.Gostkowski kicks 65 yards from TEN 35 to end zone, Touchback.",Kickoff from TEN 35
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,4,BAL,0,2,0,7 Yard Pass,(5:39) (Shotgun) L.Jackson pass short left to M.Brown pushed ob at BAL 32 for 7 yards (A.Jackson).,1st & 10 at BAL 25
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,4,BAL,0,3,0,4 Yard Run,(5:07) (Shotgun) G.Edwards left tackle to BAL 36 for 4 yards (H.Landry III).,2nd & 3 at BAL 32
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,4,BAL,0,4,0,Interception,(4:28) (Shotgun) L.Jackson pass deep right intended for M.Boykin INTERCEPTED by M.Butler at TEN 28. M.Butler to TEN 28 for no gain (M.Boykin).,1st & 10 at BAL 36
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,5,TEN,1,1,0,5 Yard Run,(4:20) D.Henry left guard to TEN 33 for 5 yards (J.Ellis).,1st & 10 at TEN 28
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,5,TEN,1,2,0,4 Yard Run,"(3:56) (No Huddle) D.Henry left tackle to TEN 37 for 4 yards (D.Wolfe, M.Harrison).",2nd & 5 at TEN 33
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,5,TEN,1,3,0,35 Yard Pass,(3:15) (Shotgun) R.Tannehill pass short middle to A.Firkser to BAL 28 for 35 yards (M.Humphrey).,3rd & 1 at TEN 37
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,5,TEN,1,4,0,1 Yard Run,(2:30) D.Henry left guard to BAL 27 for 1 yard (J.Madubuike).,1st & 10 at BAL 28
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,5,TEN,1,5,0,Pass Incomplete,(1:50) R.Tannehill pass incomplete short middle to A.Brown (J.Madubuike).,2nd & 9 at BAL 27
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,5,TEN,1,6,0,Pass Incomplete,(1:47) (Shotgun) R.Tannehill pass incomplete short right to C.Davis [M.Judon].,3rd & 9 at BAL 27
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,1ST QUARTER,5,TEN,1,7,1,Field Goal,"(1:43) S.Gostkowski 45 yard field goal is GOOD, Center-M.Overton, Holder-B.Kern.",4th & 9 at BAL 27
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,1,BAL,1,1,0,Kickoff,"S.Gostkowski kicks 65 yards from TEN 35 to end zone, Touchback.",Kickoff from TEN 35
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,1,BAL,1,2,0,Run for No Gain,(1:38) (Shotgun) L.Jackson left end to BAL 25 for no gain (D.King).,1st & 10 at BAL 25
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,1,BAL,1,3,0,3 Yard Run,"(:56) (Shotgun) J.Dobbins right tackle to BAL 28 for 3 yards (R.Evans, D.Jones).",2nd & 10 at BAL 25
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,1,BAL,1,4,0,17 Yard Pass,(:14) (Shotgun) L.Jackson pass deep right to M.Andrews to BAL 45 for 17 yards (K.Vaccaro) [H.Landry III].,3rd & 7 at BAL 28
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,1,BAL,1,5,0,3 Yard Run,(15:00) (Shotgun) L.Jackson right end pushed ob at BAL 48 for 3 yards (K.Byard).,1st & 10 at BAL 45
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,1,BAL,1,6,0,5 Yard Pass,(14:21) (Shotgun) L.Jackson pass short left to W.Snead to TEN 47 for 5 yards (M.Butler).,2nd & 7 at BAL 48
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,1,BAL,1,7,0,5 Yard Run,(13:39) (Shotgun) G.Edwards left end to TEN 42 for 5 yards (K.Vaccaro).,3rd & 2 at TEN 47
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,1,BAL,1,8,0,Run for No Gain,"(13:00) (Shotgun) J.Dobbins left tackle to TEN 42 for no gain (D.Long, H.Landry III).",1st & 10 at TEN 42
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,1,BAL,1,9,0,28 Yard Pass,(12:18) (Shotgun) L.Jackson pass deep right to M.Brown to TEN 14 for 28 yards (A.Jackson).,2nd & 10 at TEN 42
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,1,BAL,1,10,0,Pass Incomplete,(11:32) (Shotgun) L.Jackson pass incomplete short right to M.Andrews (M.Butler).,1st & 10 at TEN 14
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,1,BAL,1,11,0,4 Yard Run,(11:27) (Shotgun) L.Jackson left end to TEN 10 for 4 yards (D.King; R.Evans).,2nd & 10 at TEN 14
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,1,BAL,1,12,0,-5 Yard Sack,(10:41) (Shotgun) L.Jackson sacked at TEN 15 for -5 yards (B.Reed).,3rd & 6 at TEN 10
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,1,BAL,1,13,1,Field Goal,"(10:02) J.Tucker 33 yard field goal is GOOD, Center-M.Cox, Holder-S.Koch.",4th & 11 at TEN 15
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,2,TEN,0,1,0,Kickoff,"J.Tucker kicks 65 yards from BAL 35 to end zone, Touchback.",Kickoff from BAL 35
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,2,TEN,0,2,0,1 Yard Run,"(9:59) D.Henry left tackle to TEN 26 for 1 yard (D.Wolfe, B.Williams).",1st & 10 at TEN 25
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,2,TEN,0,3,0,5 Yard Penalty,"(9:16) (Shotgun) R.Tannehill pass short left to M.Pruitt to TEN 30 for 4 yards (C.Clark).
+PENALTY on BAL-J.Smith, Illegal Use of Hands, 5 yards, enforced at TEN 26 - No Play.",2nd & 9 at TEN 26
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,2,TEN,0,4,0,Run for No Gain,(8:57) D.Henry right tackle to TEN 31 for no gain (P.McPhee; M.Harrison).,1st & 10 at TEN 31
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,2,TEN,0,5,0,5 Yard Pass,(8:17) R.Tannehill pass short right to G.Swaim to TEN 36 for 5 yards (D.Elliott).,2nd & 10 at TEN 31
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,2,TEN,0,6,0,-7 Yard Sack,(7:27) (Shotgun) R.Tannehill sacked at TEN 29 for -7 yards (D.Wolfe).,3rd & 5 at TEN 36
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,2,TEN,0,7,0,Punt,"(6:43) B.Kern punts 53 yards to BAL 18, Center-M.Overton, out of bounds.",4th & 12 at TEN 29
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,3,BAL,1,1,0,9 Yard Pass,(6:35) (Shotgun) L.Jackson pass short left to M.Brown pushed ob at BAL 27 for 9 yards (A.Jackson).,1st & 10 at BAL 18
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,3,BAL,1,2,0,8 Yard Run,(6:11) G.Edwards left tackle to BAL 35 for 8 yards (M.Butler; K.Byard).,2nd & 1 at BAL 27
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,3,BAL,1,3,0,1 Yard Run,(5:30) (Shotgun) L.Jackson right guard to BAL 36 for 1 yard (N.Dzubnar).,1st & 10 at BAL 35
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,3,BAL,1,4,0,15 Yard Run,"(4:43) (Shotgun) M.Brown left end pushed ob at TEN 49 for 15 yards (H.Landry III).
+Penalty on TEN-W.Ray, Defensive Offside, declined.",2nd & 9 at BAL 36
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,3,BAL,1,5,0,-1 Yard Sack,(4:18) (Shotgun) L.Jackson sacked at 50 for -1 yards (M.Dickerson).,1st & 10 at TEN 49
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,3,BAL,1,6,0,2 Yard Run,(3:32) (Shotgun) J.Dobbins right tackle to TEN 48 for 2 yards (H.Landry III).,2nd & 11 at 50
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,3,BAL,1,7,0,Touchdown Ravens,"(2:45) (Shotgun) L.Jackson scrambles up the middle for 48 yards, TOUCHDOWN.",3rd & 9 at TEN 48
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,3,BAL,1,8,1,Extra Point Good,"J.Tucker extra point is GOOD, Center-M.Cox, Holder-S.Koch.",XP attempt from TEN 15
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,4,TEN,0,1,0,Kickoff,"J.Tucker kicks 65 yards from BAL 35 to end zone, Touchback.",Kickoff from BAL 35
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,4,TEN,0,2,0,-10 Yard Pass,(2:32) (Shotgun) R.Tannehill pass short middle to R.Tannehill to TEN 15 for -10 yards (J.Ward). Pass was batted by BAL- 53 Ward,1st & 10 at TEN 25
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,4,TEN,0,3,0,Pass Incomplete,(2:00) (Shotgun) R.Tannehill pass incomplete short right to A.Brown.,2nd & 20 at TEN 15
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,4,TEN,0,4,0,4 Yard Run,(1:55) (Shotgun) J.McNichols up the middle to TEN 19 for 4 yards (P.McPhee).,3rd & 20 at TEN 15
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,4,TEN,0,5,0,Punt,"(1:51) B.Kern punts 50 yards to BAL 31, Center-M.Overton, out of bounds.",4th & 16 at TEN 19
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,5,BAL,0,1,0,Pass Incomplete,(1:44) (Shotgun) L.Jackson pass incomplete short left to D.Bryant.,1st & 10 at BAL 31
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,5,BAL,0,2,0,Sack,(1:41) (Shotgun) L.Jackson sacked at BAL 31 for 0 yards (H.Landry III).,2nd & 10 at BAL 31
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,5,BAL,0,3,0,19 Yard Pass,(:58) (Shotgun) L.Jackson pass short right to M.Brown to 50 for 19 yards (D.Long).,3rd & 10 at BAL 31
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,5,BAL,0,4,0,-6 Yard Pass,"(:37) (No Huddle, Shotgun) L.Jackson pass short left to J.Dobbins to BAL 44 for -6 yards (R.Evans).",1st & 10 at 50
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,5,BAL,0,5,0,-8 Yard Sack,(:29) (Shotgun) L.Jackson sacked at BAL 36 for -8 yards (D.Jones).,2nd & 16 at BAL 44
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,5,BAL,0,6,0,-7 Yard Run,"(:19) (Shotgun) J.Dobbins right tackle to BAL 44 for 8 yards (J.Simmons).
+PENALTY on BAL-D.Bryant, Unnecessary Roughness, 15 yards, enforced at BAL 44.",3rd & 24 at BAL 36
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,2ND QUARTER,5,BAL,0,7,0,-1 Yard Run,(:05) L.Jackson kneels to BAL 33 for -1 yards.,1st & 10 at BAL 34
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,3RD QUARTER,1,BAL,1,1,0,Kickoff,S.Gostkowski kicks 62 yards from TEN 35 to BAL 3. D.Duvernay to BAL 23 for 20 yards (N.Westbrook-Ikhine).,Kickoff from TEN 35
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,3RD QUARTER,1,BAL,1,2,0,11 Yard Pass,(14:55) (Shotgun) L.Jackson pass short right to P.Ricard pushed ob at BAL 34 for 11 yards (A.Jackson).,1st & 10 at BAL 23
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,3RD QUARTER,1,BAL,1,3,0,4 Yard Pass,(14:21) (Shotgun) L.Jackson pass short left to M.Andrews to BAL 38 for 4 yards (A.Jackson).,1st & 10 at BAL 34
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,3RD QUARTER,1,BAL,1,4,0,10 Yard Run,"(13:46) (Shotgun) L.Jackson left end to BAL 48 for 10 yards (R.Evans, K.Vaccaro).",2nd & 6 at BAL 38
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,3RD QUARTER,1,BAL,1,5,0,-1 Yard Run,(12:59) (Shotgun) L.Jackson up the middle to BAL 47 for -1 yards (J.Simmons).,1st & 10 at BAL 48
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,3RD QUARTER,1,BAL,1,6,0,9 Yard Run,"(12:25) (Shotgun) J.Dobbins left end to TEN 44 for 9 yards (D.King, K.Byard).",2nd & 11 at BAL 47
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,3RD QUARTER,1,BAL,1,7,0,23 Yard Run,(11:46) (Shotgun) L.Jackson right end pushed ob at TEN 21 for 23 yards (A.Jackson).,3rd & 2 at TEN 44
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,3RD QUARTER,1,BAL,1,8,0,6 Yard Pass,(11:07) (Shotgun) L.Jackson pass short left to P.Ricard to TEN 15 for 6 yards (M.Butler).,1st & 10 at TEN 21
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,3RD QUARTER,1,BAL,1,9,0,2 Yard Run,(10:27) (Shotgun) L.Jackson up the middle to TEN 13 for 2 yards (D.Jones).,2nd & 4 at TEN 15
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,3RD QUARTER,1,BAL,1,10,0,9 Yard Pass,(9:46) (Shotgun) L.Jackson pass short right to P.Ricard to TEN 4 for 9 yards (H.Landry III).,3rd & 2 at TEN 13
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,3RD QUARTER,1,BAL,1,11,0,Touchdown Ravens,"(9:05) (Shotgun) J.Dobbins left tackle for 4 yards, TOUCHDOWN.",1st & 4 at TEN 4
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,3RD QUARTER,1,BAL,1,12,1,Extra Point Good,"J.Tucker extra point is GOOD, Center-M.Cox, Holder-S.Koch.",XP attempt from TEN 15
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,3RD QUARTER,2,TEN,0,1,0,Kickoff,J.Tucker kicks 66 yards from BAL 35 to TEN -1. D.Evans to TEN 24 for 25 yards (J.Richards).,Kickoff from BAL 35
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,3RD QUARTER,2,TEN,0,2,0,2 Yard Run,(8:55) D.Henry left end to TEN 26 for 2 yards (P.McPhee).,1st & 10 at TEN 24
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,3RD QUARTER,2,TEN,0,3,0,4 Yard Run,(8:11) D.Henry up the middle to TEN 30 for 4 yards (P.Queen).,2nd & 8 at TEN 26
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,3RD QUARTER,2,TEN,0,4,0,6 Yard Pass,(7:24) (Shotgun) R.Tannehill pass short right to C.Batson to TEN 36 for 6 yards (M.Peters).,3rd & 4 at TEN 30
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,3RD QUARTER,2,TEN,0,5,0,7 Yard Pass,(6:42) R.Tannehill pass short left to D.Henry to TEN 43 for 7 yards (D.Elliott).,1st & 10 at TEN 36
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,3RD QUARTER,2,TEN,0,6,0,1 Yard Run,(6:07) (No Huddle) D.Evans left tackle to TEN 44 for 1 yard (J.Madubuike).,2nd & 3 at TEN 43
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,3RD QUARTER,2,TEN,0,7,0,Pass Incomplete,(5:24) (Shotgun) R.Tannehill pass incomplete short right to C.Davis (M.Humphrey).,3rd & 2 at TEN 44
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,3RD QUARTER,2,TEN,0,8,0,Punt,"(5:16) B.Kern punts 49 yards to BAL 7, Center-M.Overton, fair catch by D.Duvernay.",4th & 2 at TEN 44
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,3RD QUARTER,3,BAL,0,1,0,4 Yard Run,(5:09) (Shotgun) M.Brown left end pushed ob at BAL 11 for 4 yards (M.Butler).,1st & 10 at BAL 7
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,3RD QUARTER,3,BAL,0,2,0,3 Yard Pass,(4:36) (Shotgun) L.Jackson pass short right to M.Andrews to BAL 14 for 3 yards (D.King).,2nd & 6 at BAL 11
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,3RD QUARTER,3,BAL,0,3,0,-2 Yard Run,"(3:55) (Shotgun) L.Jackson up the middle to BAL 12 for -2 yards (H.Landry III, J.Simmons).",3rd & 3 at BAL 14
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,3RD QUARTER,3,BAL,0,4,0,Punt,"(3:21) S.Koch punts 48 yards to TEN 40, Center-M.Cox. K.Raymond to TEN 42 for 2 yards (T.Bowser, D.Duvernay).",4th & 5 at BAL 12
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,1,TEN,1,1,0,33 Yard Pass,"(3:11) R.Tannehill pass deep right to A.Brown to BAL 40 for 18 yards (M.Peters) [D.Wolfe].
+PENALTY on BAL-D.Wolfe, Roughing the Passer, 15 yards, enforced at BAL 40.",1st & 10 at TEN 42
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,1,TEN,1,2,0,3 Yard Run,"(2:50) D.Henry right tackle to BAL 22 for 3 yards (C.Campbell, T.Bowser).",1st & 10 at BAL 25
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,1,TEN,1,3,0,12 Yard Pass,"(2:13) (No Huddle) R.Tannehill pass short left to N.Westbrook-Ikhine to BAL 10 for 12 yards (D.Elliott, M.Humphrey).",2nd & 7 at BAL 22
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,1,TEN,1,4,0,2 Yard Run,"(1:37) (No Huddle) D.Henry up the middle to BAL 8 for 2 yards (B.Williams, D.Wolfe).",1st & 10 at BAL 10
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,1,TEN,1,5,0,3 Yard Pass,(:56) (Shotgun) R.Tannehill pass short middle to A.Brown to BAL 5 for 3 yards (P.Queen).,2nd & 8 at BAL 8
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,1,TEN,1,6,0,-2 Yard Pass,(:11) (Shotgun) R.Tannehill pass short right to D.Henry to BAL 7 for -2 yards (L.Fort) [P.Queen].,3rd & 5 at BAL 5
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,1,TEN,1,7,1,Field Goal,"(15:00) S.Gostkowski 25 yard field goal is GOOD, Center-M.Overton, Holder-B.Kern.",4th & 7 at BAL 7
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,2,BAL,0,1,0,Kickoff,"S.Gostkowski kicks 65 yards from TEN 35 to end zone, Touchback.",Kickoff from TEN 35
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,2,BAL,0,2,0,17 Yard Pass,(14:56) (Shotgun) L.Jackson pass deep left to M.Brown pushed ob at BAL 42 for 17 yards (A.Jackson).,1st & 10 at BAL 25
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,2,BAL,0,3,0,1 Yard Run,(14:17) (Shotgun) L.Jackson left end pushed ob at BAL 43 for 1 yard (H.Landry III).,1st & 10 at BAL 42
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,2,BAL,0,4,0,20 Yard Pass,(13:39) (Shotgun) L.Jackson pass short left to M.Brown pushed ob at TEN 37 for 20 yards (K.Vaccaro).,2nd & 9 at BAL 43
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,2,BAL,0,5,0,3 Yard Run,(13:05) (Shotgun) G.Edwards right guard to TEN 34 for 3 yards (R.Evans).,1st & 10 at TEN 37
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,2,BAL,0,6,0,Pass Incomplete,(12:24) (Shotgun) L.Jackson pass incomplete short right to P.Ricard.,2nd & 7 at TEN 34
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,2,BAL,0,7,0,Pass Incomplete,(12:21) (Shotgun) L.Jackson pass incomplete deep right to M.Brown [D.Long].,3rd & 7 at TEN 34
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,2,BAL,0,8,0,Field Goal No Good,"(12:16) J.Tucker 52 yard field goal is No Good, Wide Right, Center-M.Cox, Holder-S.Koch.",4th & 7 at TEN 34
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,3,TEN,0,1,0,Run for No Gain,(12:11) D.Henry right guard to TEN 42 for no gain (M.Judon).,1st & 10 at TEN 42
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,3,TEN,0,2,0,10 Yard Pass,(11:33) (Shotgun) R.Tannehill pass short right to A.Brown to BAL 48 for 10 yards (M.Peters).,2nd & 10 at TEN 42
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,3,TEN,0,3,0,8 Yard Run,(10:52) D.Henry left tackle to BAL 40 for 8 yards (D.Wolfe).,1st & 10 at BAL 48
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,3,TEN,0,4,0,Pass Incomplete,"(10:13) (No Huddle, Shotgun) R.Tannehill pass incomplete deep left to A.Brown.",2nd & 2 at BAL 40
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,3,TEN,0,5,0,Pass Incomplete,(10:10) (Shotgun) R.Tannehill pass incomplete short left to J.Smith (D.Elliott).,3rd & 2 at BAL 40
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,3,TEN,0,6,0,Punt,"(10:06) B.Kern punts 25 yards to BAL 15, Center-M.Overton, fair catch by D.Duvernay.",4th & 2 at BAL 40
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,4,BAL,1,1,0,12 Yard Run,(10:00) (Shotgun) J.Dobbins right end pushed ob at BAL 27 for 12 yards (A.Jackson).,1st & 10 at BAL 15
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,4,BAL,1,2,0,9 Yard Pass,(9:29) (Shotgun) L.Jackson pass short left to M.Brown to BAL 36 for 9 yards (D.Long).,1st & 10 at BAL 27
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,4,BAL,1,3,0,2 Yard Run,"(8:51) (Shotgun) J.Dobbins up the middle to BAL 38 for 2 yards (D.Long, R.Evans).",2nd & 1 at BAL 36
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,4,BAL,1,4,0,17 Yard Pass,(8:08) (Shotgun) L.Jackson pass short left to M.Andrews to TEN 45 for 17 yards (K.Vaccaro; H.Landry III).,1st & 10 at BAL 38
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,4,BAL,1,5,0,14 Yard Run,(7:20) (Shotgun) L.Jackson up the middle to TEN 31 for 14 yards (K.Vaccaro).,1st & 10 at TEN 45
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,4,BAL,1,6,0,Sack,(6:42) (Shotgun) L.Jackson sacked ob at TEN 31 for 0 yards (H.Landry III).,1st & 10 at TEN 31
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,4,BAL,1,7,0,4 Yard Run,"(6:02) (Shotgun) G.Edwards right guard to TEN 27 for 4 yards (R.Evans, D.Long).",2nd & 10 at TEN 31
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,4,BAL,1,8,0,4 Yard Pass,(5:16) (Shotgun) L.Jackson pass short left to W.Snead to TEN 23 for 4 yards (D.King).,3rd & 6 at TEN 27
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,4,BAL,1,9,0,-10 Yard Penalty,"(4:28) (Shotgun) L.Jackson pass short right to J.Dobbins to TEN 20 for 3 yards (R.Evans).
+PENALTY on BAL-W.Snead, Offensive Pass Interference, 10 yards, enforced at TEN 23 - No Play.",4th & 2 at TEN 23
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,4,BAL,1,10,1,Field Goal,"(4:23) J.Tucker 51 yard field goal is GOOD, Center-M.Cox, Holder-S.Koch.",4th & 12 at TEN 33
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,5,TEN,0,1,0,Kickoff,J.Tucker kicks 65 yards from BAL 35 to TEN 0. D.Evans to TEN 21 for 21 yards (A.Averett).,Kickoff from BAL 35
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,5,TEN,0,2,0,6 Yard Pass,(4:13) R.Tannehill pass short middle to D.Henry to TEN 27 for 6 yards (T.Bowser).,1st & 10 at TEN 21
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,5,TEN,0,3,0,3 Yard Run,"(3:50) (No Huddle, Shotgun) D.Henry up the middle to TEN 30 for 3 yards (D.Wolfe; C.Campbell).",2nd & 4 at TEN 27
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,5,TEN,0,4,0,Run for No Gain,"(3:11) (Shotgun) D.Henry up the middle to TEN 30 for no gain (J.Ward, C.Clark).",3rd & 1 at TEN 30
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,5,TEN,0,5,0,2 Yard Run,(2:41) R.Tannehill up the middle to TEN 32 for 2 yards (J.Ward).,4th & 1 at TEN 30
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,5,TEN,0,6,0,5 Yard Pass,(2:10) (Shotgun) R.Tannehill pass short right to N.Westbrook-Ikhine to TEN 37 for 5 yards (M.Peters).,1st & 10 at TEN 32
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,5,TEN,0,7,0,Interception,"(2:00) (Shotgun) R.Tannehill pass deep right intended for K.Raymond INTERCEPTED by M.Peters at BAL 40. M.Peters to TEN 47 for 13 yards (K.Raymond).
+PENALTY on BAL, Taunting, 15 yards, enforced at TEN 47.",2nd & 5 at TEN 37
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,6,BAL,0,1,0,Pass Incomplete,(1:50) (Shotgun) L.Jackson pass incomplete deep right to M.Brown.,1st & 10 at BAL 38
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,6,BAL,0,2,0,33 Yard Run,(1:45) (Shotgun) L.Jackson right tackle to TEN 29 for 33 yards (K.Byard).,2nd & 10 at BAL 38
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,6,BAL,0,3,0,5 Yard Run,(1:37) (Shotgun) G.Edwards up the middle to TEN 24 for 5 yards (K.Vaccaro).,1st & 10 at TEN 29
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,6,BAL,0,4,0,4 Yard Run,"(1:32) (Shotgun) G.Edwards right tackle to TEN 20 for 4 yards (K.Vaccaro, R.Evans).",2nd & 5 at TEN 24
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,6,BAL,0,5,0,5 Yard Run,(1:25) (Shotgun) G.Edwards right guard to TEN 15 for 5 yards (L.Murchison; K.Byard).,3rd & 1 at TEN 20
+2020,Wild Card Weekend,SUN,01/10,Ravens,Titans,4TH QUARTER,6,BAL,0,6,0,-1 Yard Run,(:39) L.Jackson kneels to TEN 16 for -1 yards.,1st & 10 at TEN 15
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,1,NO,0,1,0,Kickoff,"C.Santos kicks 65 yards from CHI 35 to end zone, Touchback.",Kickoff from CHI 35
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,1,NO,0,2,0,5 Yard Pass,"(15:00) (Shotgun) D.Brees pass short right to M.Thomas to NO 30 for 5 yards (K.Vildor). Pass 5, YAC 0",1st & 10 at NO 25
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,1,NO,0,3,0,Pass Incomplete,(14:30) (Shotgun) D.Brees pass incomplete short right to A.Trautman [A.Hicks].,2nd & 5 at NO 30
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,1,NO,0,4,0,13 Yard Pass,"(14:26) (Shotgun) D.Brees pass short right to M.Thomas to NO 43 for 13 yards (K.Vildor). Pass 7, YAC 6",3rd & 5 at NO 30
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,1,NO,0,5,0,8 Yard Run,(13:49) A.Kamara right tackle to CHI 49 for 8 yards (M.Te'o).,1st & 10 at NO 43
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,1,NO,0,6,0,1 Yard Pass,"(13:14) (Shotgun) D.Brees pass short left to D.Harris to CHI 48 for 1 yard (K.Vildor). Pass -3, YAC 4",2nd & 2 at CHI 49
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,1,NO,0,7,0,4 Yard Run,(12:34) T.Hill left guard to CHI 44 for 4 yards (D.Trevathan).,3rd & 1 at CHI 48
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,1,NO,0,8,0,4 Yard Pass,"(11:59) D.Brees pass short right to A.Trautman to CHI 40 for 4 yards (M.Te'o; B.Mingo). Pass 1, YAC 3",1st & 10 at CHI 44
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,1,NO,0,9,0,2 Yard Run,(11:32) A.Kamara left guard to CHI 38 for 2 yards (M.Edwards).,2nd & 6 at CHI 40
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,1,NO,0,10,0,Pass Incomplete,(10:55) (Shotgun) D.Brees pass incomplete short right [M.Edwards].,3rd & 4 at CHI 38
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,1,NO,0,11,0,Punt,"(10:48) T.Morstead punts 30 yards to CHI 8, Center-Z.Wood, fair catch by D.Carter.",4th & 4 at CHI 38
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,2,CHI,0,1,0,2 Yard Run,(10:42) (Shotgun) A.Miller left end pushed ob at CHI 10 for 2 yards (C.Gardner-Johnson).,1st & 10 at CHI 8
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,2,CHI,0,2,0,3 Yard Run,(10:16) D.Montgomery left tackle to CHI 13 for 3 yards (C.Jordan).,2nd & 8 at CHI 10
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,2,CHI,0,3,0,Pass Incomplete,(9:42) (Shotgun) M.Trubisky pass incomplete short middle to A.Robinson (J.Jenkins) [M.Jenkins].,3rd & 5 at CHI 13
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,2,CHI,0,4,0,Punt,"(9:36) P.O'Donnell punts 49 yards to NO 38, Center-P.Scales. D.Harris to NO 45 for 7 yards (B.Mingo; D.Harris).",4th & 5 at CHI 13
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,3,NO,1,1,0,9 Yard Pass,"(9:26) (Shotgun) J.Hurst reported in as eligible.  D.Brees pass short left to D.Harris to CHI 46 for 9 yards (K.Fuller). Pass -5, YAC 14",1st & 10 at NO 45
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,3,NO,1,2,0,5 Yard Run,(8:48) A.Kamara left guard to CHI 41 for 5 yards (Ta.Gipson).,2nd & 1 at CHI 46
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,3,NO,1,3,0,2 Yard Run,(8:09) L.Murray left guard to CHI 39 for 2 yards (B.Nichols).,1st & 10 at CHI 41
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,3,NO,1,4,0,Pass for No Gain,"(7:35) (Shotgun) D.Brees pass short right to T.Hill to CHI 39 for no gain (R.Quinn). Pass 1, YAC -1",2nd & 8 at CHI 39
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,3,NO,1,5,0,17 Yard Pass,"(6:46) (Shotgun) D.Brees pass short middle to D.Harris to CHI 22 for 17 yards (K.Vildor). Pass 10, YAC 7",3rd & 8 at CHI 39
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,3,NO,1,6,0,5 Yard Penalty,"(6:08) (Shotgun) PENALTY on CHI-A.Hicks, Neutral Zone Infraction, 5 yards, enforced at CHI 22 - No Play.",1st & 10 at CHI 22
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,3,NO,1,7,0,Pass Incomplete,(5:54) (Shotgun) D.Brees pass incomplete deep middle to E.Sanders.,1st & 5 at CHI 17
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,3,NO,1,8,0,6 Yard Run,(5:49) A.Kamara right tackle to CHI 11 for 6 yards (E.Jackson).,2nd & 5 at CHI 17
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,3,NO,1,9,0,Touchdown Saints,"(5:14) D.Brees pass short middle to M.Thomas for 11 yards, TOUCHDOWN. Pass 6, YAC 5",1st & 10 at CHI 11
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,3,NO,1,10,1,Extra Point Good,"W.Lutz extra point is GOOD, Center-Z.Wood, Holder-T.Morstead.",XP attempt from CHI 15
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,4,CHI,0,1,0,Kickoff,W.Lutz kicks 71 yards from NO 35 to CHI -6. C.Patterson to CHI 20 for 26 yards (C.Hansen).,Kickoff from NO 35
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,4,CHI,0,2,0,9 Yard Pass,"(5:03) M.Trubisky pass short left to C.Kmet pushed ob at CHI 29 for 9 yards (D.Davis). Pass -2, YAC 11",1st & 10 at CHI 20
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,4,CHI,0,3,0,3 Yard Run,(4:34) D.Montgomery left guard to CHI 32 for 3 yards (C.Gardner-Johnson).,2nd & 1 at CHI 29
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,4,CHI,0,4,0,28 Yard Pass,"(3:58) (Shotgun) M.Trubisky pass incomplete deep right to J.Wims.
+Chicago challenged the incomplete pass ruling, and the play was REVERSED.
+(Shotgun) M.Trubisky pass deep right to J.Wims pushed ob at NO 40 for 28 yards (J.Jenkins). Pass 26, YAC 2",1st & 10 at CHI 32
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,4,CHI,0,5,0,Pass Incomplete,"(3:42) (Shotgun) M.Trubisky pass incomplete deep middle to J.Wims. CHI 32-D.Montgomery was in the wildcat, lateraled to 84-C.Patterson, who pitched backwards to 10-M.Trubisky, who threw deep.",1st & 10 at NO 40
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,4,CHI,0,6,0,Run for No Gain,(3:34) (Shotgun) D.Montgomery right guard to NO 40 for no gain (M.Brown).,2nd & 10 at NO 40
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,4,CHI,0,7,0,6 Yard Pass,"(2:56) (Shotgun) M.Trubisky pass short middle to C.Kmet to NO 34 for 6 yards (M.Lattimore). Pass 5, YAC 1",3rd & 10 at NO 40
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,1ST QUARTER,4,CHI,0,8,0,Turnover on Downs,(2:12) (Shotgun) M.Trubisky scrambles right end ran ob at NO 32 for 2 yards (C.Gardner-Johnson).,4th & 4 at NO 34
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,1,NO,0,1,0,10 Yard Run,(2:05) #7 T.Hill at quarterback. (Shotgun) J.Hurst reported in as eligible.  T.Hill left end ran ob at NO 42 for 10 yards (Ta.Gipson).,1st & 10 at NO 32
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,1,NO,0,2,0,6 Yard Pass,"(1:38) D.Brees pass short left to M.Burton to NO 48 for 6 yards (D.Trevathan). Pass 1, YAC 5",1st & 10 at NO 42
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,1,NO,0,3,0,Pass Incomplete,(:56) (Shotgun) D.Brees pass incomplete short right.,2nd & 4 at NO 48
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,1,NO,0,4,0,-5 Yard Penalty,"(:52) (Shotgun) PENALTY on NO-C.Ruiz, False Start, 5 yards, enforced at NO 48 - No Play.",3rd & 4 at NO 48
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,1,NO,0,5,0,17 Yard Pass,"(:52) (Shotgun) D.Brees pass short left to D.Harris to CHI 40 for 17 yards (E.Jackson). Pass 14, YAC 3",3rd & 9 at NO 43
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,1,NO,0,6,0,-1 Yard Run,(:13) (Shotgun) A.Kamara left guard to CHI 41 for -1 yards (M.Edwards).,1st & 10 at CHI 40
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,1,NO,0,7,0,Interception,"(15:00) (Shotgun) D.Brees pass short middle intended for J.Cook INTERCEPTED by D.Shelley at CHI 26. D.Shelley pushed ob at CHI 42 for 16 yards (L.Humphrey).
+The Replay Official reviewed the interception ruling, and the play was REVERSED.
+(Shotgun) D.Brees pass incomplete short middle to J.Cook.",2nd & 11 at CHI 41
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,1,NO,0,8,0,9 Yard Run,(14:56) (Shotgun) A.Kamara right guard to CHI 32 for 9 yards (D.Trevathan).,3rd & 11 at CHI 41
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,1,NO,0,9,0,Field Goal No Good,"(14:14) W.Lutz 50 yard field goal is No Good, Wide Right, Center-Z.Wood, Holder-T.Morstead.",4th & 2 at CHI 32
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,2,CHI,0,1,0,Pass Incomplete,(14:07) M.Trubisky pass incomplete short right.,1st & 10 at CHI 40
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,2,CHI,0,2,0,2 Yard Run,(14:00) (Shotgun) D.Montgomery left tackle to CHI 42 for 2 yards (C.Jordan).,2nd & 10 at CHI 40
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,2,CHI,0,3,0,Pass Incomplete,(13:16) (Shotgun) M.Trubisky pass incomplete short right to A.Miller.,3rd & 8 at CHI 42
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,2,CHI,0,4,0,Punt,"(13:10) P.O'Donnell punts 42 yards to NO 16, Center-P.Scales, fair catch by D.Harris.",4th & 8 at CHI 42
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,3,NO,0,1,0,4 Yard Run,(13:03) L.Murray left tackle to NO 20 for 4 yards (B.Urban).,1st & 10 at NO 16
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,3,NO,0,2,0,7 Yard Run,(12:20) A.Kamara left guard to NO 27 for 7 yards (R.Quinn).,2nd & 6 at NO 20
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,3,NO,0,3,0,Fumble,"(11:38) #7 T.Hill at quarterback. (Shotgun) J.Hurst reported in as eligible.  T.Hill sacked at NO 20 for -7 yards (Ta.Gipson). FUMBLES (Ta.Gipson) [D.Trevathan], RECOVERED by CHI-J.Jenkins at NO 24.",1st & 10 at NO 27
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,4,CHI,1,1,0,4 Yard Run,(11:30) D.Montgomery left tackle to NO 20 for 4 yards (M.Davenport).,1st & 10 at NO 24
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,4,CHI,1,2,0,6 Yard Run,(11:06) D.Montgomery right guard to NO 14 for 6 yards (C.Gardner-Johnson; M.Jenkins).,2nd & 6 at NO 20
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,4,CHI,1,3,0,4 Yard Run,(10:25) D.Montgomery left guard to NO 10 for 4 yards (M.Davenport; D.Onyemata).,1st & 10 at NO 14
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,4,CHI,1,4,0,-14 Yard Pass,"(9:40) M.Trubisky pass short left to C.Kmet to NO 9 for 1 yard (M.Jenkins).
+PENALTY on CHI-C.Kmet, Unsportsmanlike Conduct, 15 yards, enforced at NO 9. Pass -2, YAC 3",2nd & 6 at NO 10
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,4,CHI,1,5,0,11 Yard Pass,"(9:07) (Shotgun) M.Trubisky pass short middle to A.Miller to NO 13 for 11 yards (C.Gardner-Johnson; D.Davis). Pass 11, YAC 0",3rd & 20 at NO 24
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,4,CHI,1,6,1,Field Goal,"(8:11) C.Santos 36 yard field goal is GOOD, Center-P.Scales, Holder-P.O'Donnell.",4th & 14 at NO 18
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,5,NO,0,1,0,Kickoff,"C.Santos kicks 65 yards from CHI 35 to end zone, Touchback.",Kickoff from CHI 35
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,5,NO,0,2,0,7 Yard Pass,"(8:06) (Shotgun) D.Brees pass short right to J.Cook to NO 32 for 7 yards (D.Trevathan). Pass 6, YAC 1",1st & 10 at NO 25
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,5,NO,0,3,0,5 Yard Penalty,"(7:27) (Shotgun) PENALTY on CHI-R.Quinn, Neutral Zone Infraction, 5 yards, enforced at NO 32 - No Play.",2nd & 3 at NO 32
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,5,NO,0,4,0,Pass Incomplete,(7:05) (Shotgun) D.Brees pass incomplete short right to M.Thomas (Ta.Gipson).,1st & 10 at NO 37
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,5,NO,0,5,0,-2 Yard Run,(7:01) D.Harris right end to NO 35 for -2 yards (M.Edwards).,2nd & 10 at NO 37
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,5,NO,0,6,0,Pass Incomplete,(6:27) (Shotgun) D.Brees pass incomplete short right [R.Quinn].,3rd & 12 at NO 35
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,5,NO,0,7,0,Punt,"(6:22) T.Morstead punts 45 yards to CHI 20, Center-Z.Wood, fair catch by D.Carter.",4th & 12 at NO 35
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,6,CHI,0,1,0,11 Yard Pass,"(6:15) (Shotgun) M.Trubisky pass short middle to A.Miller to CHI 31 for 11 yards (C.Gardner-Johnson) [S.Rankins]. Pass 10, YAC 1",1st & 10 at CHI 20
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,6,CHI,0,2,0,1 Yard Run,(5:35) D.Montgomery right guard to CHI 32 for 1 yard (A.Anzalone; S.Tuttle).,1st & 10 at CHI 31
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,6,CHI,0,3,0,2 Yard Pass,"(4:51) M.Trubisky pass short left to A.Robinson to CHI 34 for 2 yards (J.Jenkins). Pass 1, YAC 1",2nd & 9 at CHI 32
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,6,CHI,0,4,0,Pass Incomplete,"(4:26) (Shotgun) M.Trubisky pass incomplete short middle to D.Montgomery (P.Williams).
+New Orleans challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2.)",3rd & 7 at CHI 34
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,6,CHI,0,5,0,Punt,"(4:21) P.O'Donnell punts 47 yards to NO 19, Center-P.Scales. D.Harris pushed ob at NO 23 for 4 yards (Ta.Gipson).",4th & 7 at CHI 34
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,7,NO,0,1,0,3 Yard Run,(4:11) A.Kamara right guard to NO 26 for 3 yards (M.Te'o).,1st & 10 at NO 23
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,7,NO,0,2,0,Pass Incomplete,(3:32) D.Brees pass incomplete short right to A.Trautman (K.Mack).,2nd & 7 at NO 26
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,7,NO,0,3,0,24 Yard Pass,"(3:28) (Shotgun) D.Brees pass short left to D.Harris to 50 for 24 yards (E.Jackson). Pass 6, YAC 18",3rd & 7 at NO 26
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,7,NO,0,4,0,Pass for No Gain,"(2:45) D.Brees pass short right to E.Sanders to 50 for no gain (E.Jackson). Pass -4, YAC 4",1st & 10 at 50
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,7,NO,0,5,0,6 Yard Pass,"(2:12) (Shotgun) D.Brees pass short right to M.Thomas to CHI 44 for 6 yards (K.Vildor). Pass 4, YAC 2",2nd & 10 at 50
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,7,NO,0,6,0,Pass Incomplete,(2:00) (Shotgun) D.Brees pass incomplete short middle to M.Thomas (K.Fuller).,3rd & 4 at CHI 44
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,7,NO,0,7,0,Punt,"(1:55) T.Morstead punts 31 yards to CHI 18, Center-Z.Wood, fair catch by D.Carter.",4th & 9 at CHI 49
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,8,CHI,0,1,0,5 Yard Run,(1:49) D.Montgomery left tackle to CHI 23 for 5 yards (A.Anzalone).,1st & 10 at CHI 18
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,8,CHI,0,2,0,3 Yard Run,(1:42) D.Montgomery left tackle to CHI 26 for 3 yards (D.Davis).,2nd & 5 at CHI 23
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,8,CHI,0,3,0,Run for No Gain,(1:00) (Shotgun) R.Nall right guard to CHI 26 for no gain (D.Onyemata; M.Brown).,3rd & 2 at CHI 26
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,8,CHI,0,4,0,Penalty,"(:14) P.O'Donnell punts 46 yards to NO 28, Center-P.Scales. D.Harris ran ob at NO 35 for 7 yards (J.Woods).
+Penalty on NO-J.Hardee, Running Into the Kicker, offsetting, enforced at CHI 26 - No Play.
+Penalty on CHI-C.Patterson, Unsportsmanlike Conduct, offsetting.",4th & 2 at CHI 26
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,2ND QUARTER,8,CHI,0,5,0,Punt,"(:06) P.O'Donnell punts 31 yards to NO 43, Center-P.Scales, out of bounds.",4th & 2 at CHI 26
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,1,CHI,0,1,0,Kickoff,"W.Lutz kicks 73 yards from NO 35 to CHI -8. C.Patterson pushed ob at CHI 34 for 42 yards (P.Williams).
+INJURY UPDATE: CHI 27-S.McManis, hamstring, OUT; CHI 36-D.Houston-Carson, concussion, OUT.",Kickoff from NO 35
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,1,CHI,0,2,0,-5 Yard Penalty,"(14:54) PENALTY on CHI-C.Kmet, False Start, 5 yards, enforced at CHI 34 - No Play.",1st & 10 at CHI 34
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,1,CHI,0,3,0,Run for No Gain,(14:54) D.Montgomery right tackle to CHI 29 for no gain (C.Jordan).,1st & 15 at CHI 29
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,1,CHI,0,4,0,21 Yard Pass,"(14:21) M.Trubisky pass deep left to A.Robinson to 50 for 21 yards (J.Jenkins). Pass 21, YAC 0",2nd & 15 at CHI 29
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,1,CHI,0,5,0,Pass Incomplete,(13:41) M.Trubisky pass incomplete short right.,1st & 10 at 50
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,1,CHI,0,6,0,15 Yard Pass,"(13:36) (Shotgun) M.Trubisky pass short right to A.Robinson to NO 35 for 15 yards (M.Jenkins).
+Penalty on NO-M.Lattimore, Defensive Holding, declined. Pass 15, YAC 0",2nd & 10 at 50
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,1,CHI,0,7,0,3 Yard Run,(13:14) D.Carter right end to NO 32 for 3 yards (C.Jordan).,1st & 10 at NO 35
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,1,CHI,0,8,0,-8 Yard Sack,(12:32) (Shotgun) M.Trubisky sacked at NO 40 for -8 yards (S.Rankins).,2nd & 7 at NO 32
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,1,CHI,0,9,0,Pass Incomplete,"(11:49) (Shotgun) M.Trubisky pass incomplete short right to J.Wims.
+Penalty on CHI-A.Miller, Disqualification, offsetting.
+Penalty on NO-C.Gardner-Johnson, Unsportsmanlike Conduct, offsetting. CHI 17-A.Miller was disqualified.",3rd & 15 at NO 40
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,1,CHI,0,10,0,Punt,"(11:44) P.O'Donnell punts 25 yards to NO 15, Center-P.Scales, fair catch by D.Harris.",4th & 15 at NO 40
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,2,NO,1,1,0,6 Yard Run,(11:37) A.Kamara right guard to NO 21 for 6 yards (R.Quinn).,1st & 10 at NO 15
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,2,NO,1,2,0,Run for No Gain,"(10:58) (Shotgun) D.Brees FUMBLES (Aborted) at NO 16, recovered by NO-A.Kamara at NO 21. A.Kamara to NO 21 for no gain (A.Hicks).",2nd & 4 at NO 21
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,2,NO,1,3,0,38 Yard Pass,"(10:17) (Shotgun) J.Hurst reported in as eligible.  D.Brees pass deep left to M.Thomas to CHI 41 for 38 yards (K.Fuller). Pass 26, YAC 12",3rd & 4 at NO 21
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,2,NO,1,4,0,10 Yard Pass,"(9:32) (Shotgun) D.Brees pass short right to J.Cook to CHI 31 for 10 yards (D.Trevathan). Pass 5, YAC 5",1st & 10 at CHI 41
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,2,NO,1,5,0,7 Yard Pass,"(8:40) (Shotgun) D.Brees pass short right to A.Kamara to CHI 24 for 7 yards (Ta.Gipson). Pass 4, YAC 3",1st & 10 at CHI 31
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,2,NO,1,6,0,1 Yard Run,(7:55) A.Kamara left tackle to CHI 23 for 1 yard (B.Nichols).,2nd & 3 at CHI 24
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,2,NO,1,7,0,3 Yard Pass,"(7:14) (Shotgun) D.Brees pass short right to E.Sanders to CHI 20 for 3 yards (D.Shelley). Pass 3, YAC 0",3rd & 2 at CHI 23
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,2,NO,1,8,0,1 Yard Run,(6:39) L.Murray right tackle to CHI 19 for 1 yard (J.Jenkins).,1st & 10 at CHI 20
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,2,NO,1,9,0,Pass Incomplete,(5:55) (Shotgun) D.Brees pass incomplete deep middle to J.Cook (D.Shelley) [A.Hicks].,2nd & 9 at CHI 19
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,2,NO,1,10,0,-5 Yard Penalty,"(5:50) (Shotgun) PENALTY on NO, Delay of Game, 5 yards, enforced at CHI 19 - No Play.",3rd & 9 at CHI 19
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,2,NO,1,11,0,11 Yard Pass,"(5:50) (Shotgun) D.Brees pass short right to J.Cook to CHI 13 for 11 yards (Ta.Gipson). Pass 11, YAC 0",3rd & 14 at CHI 24
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,2,NO,1,12,0,5 Yard Penalty,"(5:09) (Shotgun) J.Hurst reported in as eligible.  PENALTY on CHI-E.Jackson, Neutral Zone Infraction, 5 yards, enforced at CHI 13 - No Play.",4th & 3 at CHI 13
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,2,NO,1,13,0,2 Yard Run,(4:57) J.Hurst reported in as eligible.  L.Murray left guard to CHI 6 for 2 yards (M.Te'o).,1st & 8 at CHI 8
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,2,NO,1,14,0,Touchdown Saints,"(4:18) D.Brees pass short right to L.Murray for 6 yards, TOUCHDOWN. Pass -8, YAC 14",2nd & 6 at CHI 6
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,2,NO,1,15,1,Extra Point Good,"W.Lutz extra point is GOOD, Center-Z.Wood, Holder-T.Morstead.",XP attempt from CHI 15
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,3,CHI,0,1,0,Kickoff,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",Kickoff from NO 35
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,3,CHI,0,2,0,2 Yard Run,(4:08) C.Patterson left guard to CHI 27 for 2 yards (S.Rankins).,1st & 10 at CHI 25
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,3,CHI,0,3,0,Pass Incomplete,(3:36) M.Trubisky pass incomplete deep left to J.Wims (M.Lattimore).,2nd & 8 at CHI 27
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,3,CHI,0,4,0,3 Yard Pass,"(3:28) (Shotgun) M.Trubisky pass short left to D.Carter pushed ob at CHI 30 for 3 yards (J.Jenkins). Pass 0, YAC 3",3rd & 8 at CHI 27
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,3RD QUARTER,3,CHI,0,5,0,Punt,"(2:52) P.O'Donnell punts 45 yards to NO 25, Center-P.Scales. D.Harris to NO 36 for 11 yards (P.Scales).",4th & 5 at CHI 30
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,1,NO,1,1,0,5 Yard Pass,"(2:41) J.Hurst reported in as eligible.  D.Brees pass short left to L.Murray pushed ob at NO 41 for 5 yards (K.Fuller). Pass -3, YAC 8",1st & 10 at NO 36
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,1,NO,1,2,0,-1 Yard Run,(2:09) A.Kamara right tackle to NO 40 for -1 yards (K.Mack).,2nd & 5 at NO 41
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,1,NO,1,3,0,10 Yard Pass,"(1:31) (Shotgun) D.Brees pass short left to A.Kamara ran ob at 50 for 10 yards (Ta.Gipson). Pass 5, YAC 5",3rd & 6 at NO 40
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,1,NO,1,4,0,5 Yard Pass,"(1:03) D.Brees pass short right to T.Hill to CHI 45 for 5 yards (B.Mingo). Pass 0, YAC 5",1st & 10 at 50
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,1,NO,1,5,0,1 Yard Run,(:22) #7 T.Hill at quarterback. (Shotgun) T.Hill right tackle to CHI 44 for 1 yard (B.Nichols; D.Trevathan).,2nd & 5 at CHI 45
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,1,NO,1,6,0,5 Yard Pass,"(15:00) (Shotgun) D.Brees pass short right to D.Harris pushed ob at CHI 39 for 5 yards (K.Vildor). Pass 5, YAC 0",3rd & 4 at CHI 44
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,1,NO,1,7,0,4 Yard Run,(14:19) J.Hurst reported in as eligible.  A.Kamara right guard to CHI 35 for 4 yards (B.Urban; A.Hicks).,1st & 10 at CHI 39
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,1,NO,1,8,0,Pass Incomplete,(13:38) (Shotgun) D.Brees pass incomplete short left to J.Cook.,2nd & 6 at CHI 35
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,1,NO,1,9,0,-5 Yard Penalty,"(13:34) (Shotgun) PENALTY on NO-E.McCoy, False Start, 5 yards, enforced at CHI 35 - No Play.",3rd & 6 at CHI 35
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,1,NO,1,10,0,14 Yard Pass,"(13:34) (Shotgun) D.Brees pass short left to L.Humphrey to CHI 26 for 14 yards (M.Edwards). Pass 3, YAC 11",3rd & 11 at CHI 40
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,1,NO,1,11,0,5 Yard Run,(12:50) (Shotgun) A.Kamara right guard to CHI 21 for 5 yards (K.Vildor).,1st & 10 at CHI 26
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,1,NO,1,12,0,12 Yard Pass,"(12:12) (Shotgun) D.Brees pass short middle to J.Cook to CHI 9 for 12 yards (D.Trevathan). Pass 5, YAC 7",2nd & 5 at CHI 21
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,1,NO,1,13,0,4 Yard Run,(11:32) A.Kamara left guard to CHI 5 for 4 yards (A.Hicks; B.Nichols).,1st & 9 at CHI 9
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,1,NO,1,14,0,3 Yard Penalty,"(10:46) D.Brees sacked at CHI 19 for -14 yards (K.Mack).
+PENALTY on CHI-K.Vildor, Defensive Holding, 3 yards, enforced at CHI 5 - No Play.",2nd & 5 at CHI 5
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,1,NO,1,15,0,Run for No Gain,(10:17) T.Hill right end pushed ob at CHI 2 for no gain (E.Jackson).,1st & 2 at CHI 2
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,1,NO,1,16,0,1 Yard Penalty,"(9:43) (Shotgun) J.Hurst reported in as eligible.  T.Hill pass incomplete short right to J.Hill.
+PENALTY on CHI-D.Trevathan, Defensive Pass Interference, 1 yard, enforced at CHI 2 - No Play.",2nd & 2 at CHI 2
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,1,NO,1,17,0,-2 Yard Run,(9:39) A.Kamara left guard to CHI 3 for -2 yards (J.Iyiegbuniwe).,1st & 1 at CHI 1
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,1,NO,1,18,0,Touchdown Saints,"(8:53) (Shotgun) A.Kamara up the middle for 3 yards, TOUCHDOWN.",2nd & 3 at CHI 3
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,1,NO,1,19,1,Extra Point Good,"W.Lutz extra point is GOOD, Center-Z.Wood, Holder-T.Morstead.",XP attempt from CHI 15
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,2,CHI,0,1,0,Kickoff,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",Kickoff from NO 35
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,2,CHI,0,2,0,Run for No Gain,(8:50) (Shotgun) D.Montgomery up the middle to CHI 25 for no gain (M.Brown).,1st & 10 at CHI 25
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,2,CHI,0,3,0,1 Yard Run,(8:24) (Shotgun) M.Trubisky scrambles left end ran ob at CHI 26 for 1 yard (C.Jordan).,2nd & 10 at CHI 25
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,2,CHI,0,4,0,Pass Incomplete,(7:50) (Shotgun) M.Trubisky pass incomplete short right to D.Carter.,3rd & 9 at CHI 26
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,2,CHI,0,5,0,Punt,"(7:45) P.O'Donnell punts 42 yards to NO 32, Center-P.Scales, fair catch by D.Harris.
+INJURY UPDATE: New Orleans 21-P.Robinson, thigh, QUESTIONABLE to return.  New Orleans 28-L.Murray, thigh, QUESTIONABLE to return.",4th & 9 at CHI 26
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,3,NO,0,1,0,10 Yard Pass,"(7:38) (Shotgun) D.Brees pass short right to D.Harris pushed ob at NO 42 for 10 yards (D.Trevathan). Pass -3, YAC 13",1st & 10 at NO 32
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,3,NO,0,2,0,Run for No Gain,(7:04) A.Kamara left tackle to NO 42 for no gain (A.Hicks).,1st & 10 at NO 42
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,3,NO,0,3,0,9 Yard Pass,"(6:24) D.Brees pass short middle to M.Burton to CHI 49 for 9 yards (D.Trevathan). Pass 3, YAC 6",2nd & 10 at NO 42
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,3,NO,0,4,0,2 Yard Run,(5:39) J.Hurst reported in as eligible.  D.Brees up the middle to CHI 47 for 2 yards (A.Hicks).,3rd & 1 at CHI 49
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,3,NO,0,5,0,25 Yard Run,(5:01) A.Kamara right end to CHI 22 for 25 yards (E.Jackson).,1st & 10 at CHI 47
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,3,NO,0,6,0,8 Yard Run,(4:12) A.Kamara right end to CHI 14 for 8 yards (B.Nichols).,1st & 10 at CHI 22
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,3,NO,0,7,0,1 Yard Run,(3:26) (Shotgun) A.Kamara up the middle to CHI 13 for 1 yard (M.Te'o; B.Nichols).,2nd & 2 at CHI 14
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,3,NO,0,8,0,6 Yard Penalty,"(3:16) J.Hurst reported in as eligible.  PENALTY on CHI-B.Urban, Neutral Zone Infraction, 6 yards, enforced at CHI 13 - No Play.",3rd & 1 at CHI 13
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,3,NO,0,9,0,5 Yard Run,(3:16) A.Kamara right end pushed ob at CHI 2 for 5 yards (D.Trevathan).,1st & 7 at CHI 7
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,3,NO,0,10,0,1 Yard Run,(3:09) (Shotgun) A.Kamara right guard to CHI 1 for 1 yard (K.Mack; A.Hicks).,2nd & 2 at CHI 2
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,3,NO,0,11,0,Run for No Gain,(2:29) A.Kamara left guard to CHI 1 for no gain (Ta.Gipson; B.Nichols).,3rd & 1 at CHI 1
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,3,NO,0,12,0,Turnover on Downs,"(2:22) J.Hurst reported in as eligible.  D.Brees up the middle for 1 yard, TOUCHDOWN.
+The Replay Official reviewed the runner broke the plane ruling, and the play was REVERSED.
+J.Hurst and J.Hurst reported in as eligible.  D.Brees up the middle to CHI 1 for no gain (M.Te'o).",4th & 1 at CHI 1
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,4,CHI,1,1,0,Pass Incomplete,(2:19) (Shotgun) M.Trubisky pass incomplete short middle to C.Kmet (M.Lattimore).,1st & 10 at CHI 1
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,4,CHI,1,2,0,8 Yard Pass,"(2:16) (Shotgun) M.Trubisky pass short right to D.Carter to CHI 9 for 8 yards (M.Williams). Pass 6, YAC 2",2nd & 10 at CHI 1
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,4,CHI,1,3,0,18 Yard Pass,"(2:00) (Shotgun) M.Trubisky pass short left to R.Ridley pushed ob at CHI 27 for 18 yards (M.Williams). Pass 4, YAC 14",3rd & 2 at CHI 9
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,4,CHI,1,4,0,5 Yard Pass,"(1:53) (Shotgun) M.Trubisky pass short middle to A.Robinson to CHI 32 for 5 yards (M.Lattimore). Pass 3, YAC 2",1st & 10 at CHI 27
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,4,CHI,1,5,0,7 Yard Run,"(1:30) (No Huddle, Shotgun) M.Trubisky scrambles right end ran ob at CHI 39 for 7 yards (C.Gardner-Johnson).",2nd & 5 at CHI 32
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,4,CHI,1,6,0,5 Yard Pass,"(1:20) (Shotgun) M.Trubisky pass short left to A.Robinson to CHI 44 for 5 yards (J.Jenkins). Pass 3, YAC 2",1st & 10 at CHI 39
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,4,CHI,1,7,0,18 Yard Pass,"(:57) (No Huddle, Shotgun) M.Trubisky pass short right to R.Ridley to NO 38 for 18 yards (D.Davis). Pass 14, YAC 4",2nd & 5 at CHI 44
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,4,CHI,1,8,0,7 Yard Pass,"(:33) (No Huddle, Shotgun) M.Trubisky pass short left to A.Robinson ran ob at NO 31 for 7 yards (D.Davis). Pass -1, YAC 8",1st & 10 at NO 38
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,4,CHI,1,9,0,6 Yard Pass,"(:27) (Shotgun) M.Trubisky pass short right to D.Carter pushed ob at NO 25 for 6 yards (C.Gardner-Johnson). Pass 6, YAC 0",2nd & 3 at NO 31
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,4,CHI,1,10,0,6 Yard Pass,"(:21) (Shotgun) M.Trubisky pass short middle to J.Graham to NO 19 for 6 yards (M.Williams). Pass 3, YAC 3",1st & 10 at NO 25
+2020,Wild Card Weekend,SUN,01/10,Bears,Saints,4TH QUARTER,4,CHI,1,11,1,Touchdown Bears,"(:03) (No Huddle, Shotgun) M.Trubisky pass deep middle to J.Graham for 19 yards, TOUCHDOWN. Pass 18, YAC 1",2nd & 4 at NO 19
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,1,CLE,1,1,0,Kickoff,C.Parkey kicks 64 yards from CLE 35 to PIT 1. R.McCloud to PIT 22 for 21 yards (D.Johnson).,Kickoff from CLE 35
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,1,CLE,1,2,1,Touchdown Browns,"(14:54) (Shotgun) B.Roethlisberger Aborted. M.Pouncey FUMBLES at PIT 22, touched at PIT 2, RECOVERED by CLE-K.Joseph at PIT -2. TOUCHDOWN.",1st & 10 at PIT 22
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,2,PIT,0,1,0,Kickoff,C.Parkey kicks 62 yards from CLE 35 to PIT 3. R.McCloud to PIT 25 for 22 yards (T.Davis; S.Redwine).,Kickoff from CLE 35
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,2,PIT,0,2,0,3 Yard Run,(14:40) (Shotgun) J.Conner left tackle to PIT 28 for 3 yards (K.Joseph).,1st & 10 at PIT 25
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,2,PIT,0,3,0,4 Yard Pass,(14:04) (Shotgun) B.Roethlisberger pass short left to E.Ebron to PIT 32 for 4 yards (R.Jackson).,2nd & 7 at PIT 28
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,2,PIT,0,4,0,5 Yard Pass,(13:26) (Shotgun) B.Roethlisberger pass short middle to J.Conner to PIT 37 for 5 yards (B.Goodson).,3rd & 3 at PIT 32
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,2,PIT,0,5,0,9 Yard Run,(12:51) (Shotgun) J.Conner up the middle to PIT 46 for 9 yards (B.Goodson).,1st & 10 at PIT 37
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,2,PIT,0,6,0,Run for No Gain,(12:12) (Shotgun) J.Conner left guard to PIT 46 for no gain (S.Takitaki; B.Goodson).,2nd & 1 at PIT 46
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,2,PIT,0,7,0,2 Yard Run,(11:30) J.Hawkins reported in as eligible.  D.Watt up the middle to PIT 48 for 2 yards (J.Elliott).,3rd & 1 at PIT 46
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,2,PIT,0,8,0,Interception,(10:53) B.Roethlisberger pass short middle intended for B.Snell INTERCEPTED by M.Stewart Jr. [K.Joseph] at PIT 49. M.Stewart Jr. to PIT 46 for 3 yards (M.Pouncey).,1st & 10 at PIT 48
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,3,CLE,1,1,0,Pass Incomplete,(10:44) B.Mayfield pass incomplete deep right to A.Hooper. Pressure by 97-Heyward.,1st & 10 at PIT 46
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,3,CLE,1,2,0,6 Yard Pass,(10:37) (Shotgun) B.Mayfield pass short middle to A.Hooper to PIT 40 for 6 yards (V.Williams).,2nd & 10 at PIT 46
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,3,CLE,1,3,0,Touchdown Browns,"(9:55) (Shotgun) B.Mayfield pass short middle to J.Landry for 40 yards, TOUCHDOWN.",3rd & 4 at PIT 40
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,3,CLE,1,4,1,Extra Point Good,"C.Parkey extra point is GOOD, Center-C.Hughlett, Holder-J.Gillan.",XP attempt from PIT 15
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,4,PIT,0,1,0,Kickoff,C.Parkey kicks 67 yards from CLE 35 to PIT -2. R.McCloud to PIT 26 for 28 yards (T.Thomas).,Kickoff from CLE 35
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,4,PIT,0,2,0,6 Yard Run,(9:41) (Shotgun) J.Conner up the middle to PIT 32 for 6 yards (B.Goodson).,1st & 10 at PIT 26
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,4,PIT,0,3,0,3 Yard Run,(9:08) (Shotgun) J.Conner left guard to PIT 35 for 3 yards (S.Richardson; L.Ogunjobi).,2nd & 4 at PIT 32
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,4,PIT,0,4,0,Run for No Gain,(8:27) J.Hawkins reported in as eligible.  D.Watt right guard to PIT 35 for no gain (R.Harrison).,3rd & 1 at PIT 35
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,4,PIT,0,5,0,Punt,"(7:48) J.Berry punts 38 yards to CLE 27, Center-K.Canaday. D.Peoples-Jones to CLE 35 for 8 yards (J.Pierre).",4th & 1 at PIT 35
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,5,CLE,1,1,0,17 Yard Run,(7:40) N.Chubb left tackle pushed ob at PIT 48 for 17 yards (M.Fitzpatrick).,1st & 10 at CLE 35
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,5,CLE,1,2,0,20 Yard Run,(7:07) (Shotgun) N.Chubb up the middle to PIT 28 for 20 yards (S.Nelson).,1st & 10 at PIT 48
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,5,CLE,1,3,0,1 Yard Run,(6:34) N.Chubb right guard to PIT 27 for 1 yard (V.Williams).,1st & 10 at PIT 28
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,5,CLE,1,4,0,4 Yard Pass,"(5:58) (Shotgun) B.Mayfield pass short left to J.Landry to PIT 23 for 4 yards (R.Spillane, A.Highsmith).",2nd & 9 at PIT 27
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,5,CLE,1,5,0,12 Yard Pass,(5:12) (Shotgun) B.Mayfield pass short left to R.Higgins to PIT 11 for 12 yards (S.Nelson).,3rd & 5 at PIT 23
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,5,CLE,1,6,0,Touchdown Browns,"(4:47) K.Hunt left tackle for 11 yards, TOUCHDOWN.",1st & 10 at PIT 11
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,5,CLE,1,7,1,Extra Point Good,"C.Parkey extra point is GOOD, Center-C.Hughlett, Holder-J.Gillan.",XP attempt from PIT 15
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,6,PIT,0,1,0,Kickoff,"C.Parkey kicks 65 yards from CLE 35 to end zone, Touchback.",Kickoff from CLE 35
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,6,PIT,0,2,0,11 Yard Pass,(4:40) (Shotgun) B.Roethlisberger pass short middle to Di.Johnson to PIT 36 for 11 yards (M.Stewart Jr.).,1st & 10 at PIT 25
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,6,PIT,0,3,0,-10 Yard Penalty,"(4:04) (No Huddle, Shotgun) B.Roethlisberger pass short left to C.Claypool to PIT 44 for 8 yards (M.Stewart Jr., J.Phillips).
+PENALTY on PIT-M.Feiler, Offensive Holding, 10 yards, enforced at PIT 36 - No Play.",1st & 10 at PIT 36
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,6,PIT,0,4,0,Pass Incomplete,(3:37) (Shotgun) B.Roethlisberger pass incomplete short middle to J.Smith-Schuster.,1st & 20 at PIT 26
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,6,PIT,0,5,0,Interception,(3:33) (Shotgun) B.Roethlisberger pass deep middle intended for Di.Johnson INTERCEPTED by S.Redwine at PIT 45. S.Redwine ran ob at PIT 15 for 30 yards (M.Feiler; M.Pouncey).,2nd & 20 at PIT 26
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,7,CLE,1,1,0,Run for No Gain,(3:18) N.Chubb left guard to PIT 15 for no gain (T.Alualu).,1st & 10 at PIT 15
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,7,CLE,1,2,0,7 Yard Pass,(2:38) (Shotgun) B.Mayfield pass short left to N.Chubb pushed ob at PIT 8 for 7 yards (V.Williams).,2nd & 10 at PIT 15
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,7,CLE,1,3,0,Touchdown Browns,"(2:01) (Shotgun) K.Hunt left end for 8 yards, TOUCHDOWN.",3rd & 3 at PIT 8
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,1ST QUARTER,7,CLE,1,4,1,Extra Point Good,"C.Parkey extra point is GOOD, Center-C.Hughlett, Holder-J.Gillan.",XP attempt from PIT 15
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,1,PIT,0,1,0,Kickoff,"C.Parkey kicks 65 yards from CLE 35 to end zone, Touchback.",Kickoff from CLE 35
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,1,PIT,0,2,0,-5 Yard Penalty,"(1:56) (Shotgun) B.Roethlisberger pass short left to Di.Johnson to PIT 43 for 18 yards (A.Sendejo).
+PENALTY on PIT-M.Feiler, Ineligible Downfield Pass, 5 yards, enforced at PIT 25 - No Play.",1st & 10 at PIT 25
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,1,PIT,0,3,0,5 Yard Run,"(1:30) (Shotgun) J.Conner left end to PIT 25 for 5 yards (S.Takitaki, A.Sendejo).",1st & 15 at PIT 20
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,1,PIT,0,4,0,Pass Incomplete,(:51) (Shotgun) B.Roethlisberger pass incomplete short right to E.Ebron.,2nd & 10 at PIT 25
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,1,PIT,0,5,0,11 Yard Pass,(:48) (Shotgun) B.Roethlisberger pass short middle to E.Ebron pushed ob at PIT 36 for 11 yards (J.Phillips).,3rd & 10 at PIT 25
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,1,PIT,0,6,0,1 Yard Run,(:21) (Shotgun) J.Conner right end to PIT 37 for 1 yard (S.Richardson).,1st & 10 at PIT 36
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,1,PIT,0,7,0,-5 Yard Penalty,"(15:00) (Shotgun) PENALTY on PIT-A.Villanueva, False Start, 5 yards, enforced at PIT 37 - No Play.",2nd & 9 at PIT 37
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,1,PIT,0,8,0,9 Yard Pass,(15:00) (Shotgun) B.Roethlisberger pass short left to J.Smith-Schuster pushed ob at PIT 41 for 9 yards (M.Stewart Jr.).,2nd & 14 at PIT 32
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,1,PIT,0,9,0,6 Yard Pass,(14:33) (Shotgun) B.Roethlisberger pass short middle to E.Ebron to PIT 47 for 6 yards (S.Richardson).,3rd & 5 at PIT 41
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,1,PIT,0,10,0,Pass Incomplete,"(13:58) (No Huddle, Shotgun) B.Roethlisberger pass incomplete deep right to Di.Johnson. Coverage 39-Mitchell.",1st & 10 at PIT 47
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,1,PIT,0,11,0,14 Yard Pass,(13:52) (Shotgun) B.Roethlisberger pass short left to J.Washington to CLE 39 for 14 yards (A.Sendejo).,2nd & 10 at PIT 47
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,1,PIT,0,12,0,1 Yard Pass,(13:15) (Shotgun) B.Roethlisberger pass short right to C.Claypool to CLE 38 for 1 yard (T.Mitchell).,1st & 10 at CLE 39
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,1,PIT,0,13,0,Pass Incomplete,"(12:35) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short middle to E.Ebron.",2nd & 9 at CLE 38
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,1,PIT,0,14,0,Pass Incomplete,(12:31) (Shotgun) B.Roethlisberger pass incomplete deep left to J.Washington.,3rd & 9 at CLE 38
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,1,PIT,0,15,0,Punt,"(12:25) J.Berry punts 28 yards to CLE 10, Center-K.Canaday, out of bounds.",4th & 9 at CLE 38
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,2,CLE,0,1,0,Run for No Gain,"(12:19) N.Chubb up the middle to CLE 10 for no gain (A.Highsmith, V.Williams).",1st & 10 at CLE 10
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,2,CLE,0,2,0,Pass Incomplete,(11:35) (Shotgun) B.Mayfield pass incomplete short right to R.Higgins. Coverage by 34-Te. Edmunds.,2nd & 10 at CLE 10
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,2,CLE,0,3,0,Pass Incomplete,(11:31) (Shotgun) B.Mayfield pass incomplete deep right to R.Higgins (J.Pierre).,3rd & 10 at CLE 10
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,2,CLE,0,4,0,Punt,"(11:26) J.Gillan punts 44 yards to PIT 46, Center-C.Hughlett, fair catch by R.McCloud.",4th & 10 at CLE 10
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,3,PIT,0,1,0,5 Yard Pass,(11:20) (Shotgun) B.Roethlisberger pass short right to Di.Johnson pushed ob at CLE 49 for 5 yards (M.Stewart Jr.).,1st & 10 at PIT 46
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,3,PIT,0,2,0,3 Yard Run,"(10:58) (No Huddle, Shotgun) J.Conner left guard to CLE 46 for 3 yards (V.Taylor; J.Elliott).",2nd & 5 at CLE 49
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,3,PIT,0,3,0,Interception,"(10:18) (No Huddle, Shotgun) B.Roethlisberger pass short middle intended for V.McDonald INTERCEPTED by P.Gustin (V.Taylor) at CLE 47. P.Gustin to CLE 47 for no gain (V.McDonald).",3rd & 2 at CLE 46
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,4,CLE,0,1,0,12 Yard Run,"(10:11) N.Chubb right tackle to PIT 41 for 12 yards (S.Tuitt, R.Spillane).",1st & 10 at CLE 47
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,4,CLE,0,2,0,-1 Yard Run,(9:27) N.Chubb left tackle to PIT 42 for -1 yards (T.Watt). CLE-J.Conklin was injured during the play.,1st & 10 at PIT 41
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,4,CLE,0,3,0,-10 Yard Penalty,"(8:53) (Shotgun) B.Mayfield pass short left to A.Hooper to PIT 26 for 16 yards (R.Spillane) [V.Williams].
+PENALTY on CLE-K.Lamm, Offensive Holding, 10 yards, enforced at PIT 42 - No Play.",2nd & 11 at PIT 42
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,4,CLE,0,4,0,Pass Incomplete,(8:20) (Shotgun) B.Mayfield pass incomplete deep middle to A.Hooper. Coverage by 49-C.Marsh.,2nd & 21 at CLE 48
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,4,CLE,0,5,0,13 Yard Run,(8:16) (Shotgun) K.Hunt left tackle to PIT 39 for 13 yards (Te.Edmunds; M.Fitzpatrick).,3rd & 21 at CLE 48
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,4,CLE,0,6,0,Punt,"(7:26) J.Gillan punts 28 yards to PIT 11, Center-C.Hughlett, fair catch by R.McCloud.",4th & 8 at PIT 39
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,5,PIT,1,1,0,4 Yard Pass,(7:20) (Shotgun) B.Roethlisberger pass short right to B.Snell to PIT 15 for 4 yards (B.Goodson).,1st & 10 at PIT 11
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,5,PIT,1,2,0,5 Yard Pass,(6:48) (Shotgun) B.Roethlisberger pass short left to J.Smith-Schuster to PIT 20 for 5 yards (T.Mitchell).,2nd & 6 at PIT 15
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,5,PIT,1,3,0,2 Yard Run,(6:20) B.Snell up the middle to PIT 22 for 2 yards (B.Goodson; R.Harrison).,3rd & 1 at PIT 20
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,5,PIT,1,4,0,17 Yard Pass,"(5:44) (No Huddle, Shotgun) B.Roethlisberger pass short right to J.Washington to PIT 39 for 17 yards (T.Mitchell).",1st & 10 at PIT 22
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,5,PIT,1,5,0,10 Yard Pass,"(5:09) (No Huddle, Shotgun) B.Roethlisberger pass short right to J.Washington to PIT 49 for 10 yards (M.Smith).",1st & 10 at PIT 39
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,5,PIT,1,6,0,27 Yard Pass,"(4:36) (No Huddle, Shotgun) B.Roethlisberger pass deep right to J.Washington pushed ob at CLE 24 for 27 yards (R.Harrison; R.Jackson).",1st & 10 at PIT 49
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,5,PIT,1,7,0,7 Yard Pass,"(4:01) (No Huddle, Shotgun) B.Roethlisberger pass short left to J.Conner to CLE 17 for 7 yards (B.Goodson).",1st & 10 at CLE 24
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,5,PIT,1,8,0,6 Yard Pass,"(3:29) (No Huddle, Shotgun) B.Roethlisberger pass short left to Di.Johnson pushed ob at CLE 11 for 6 yards (R.Jackson).",2nd & 3 at CLE 17
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,5,PIT,1,9,0,4 Yard Pass,"(3:00) (No Huddle, Shotgun) B.Roethlisberger pass short right to J.Washington to CLE 7 for 4 yards (T.Mitchell).",1st & 10 at CLE 11
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,5,PIT,1,10,0,5 Yard Pass,"(2:22) (Shotgun) B.Roethlisberger pass short middle to E.Ebron to CLE 2 for 5 yards (B.Goodson, A.Sendejo).",2nd & 6 at CLE 7
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,5,PIT,1,11,0,Pass Incomplete,"(2:01) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short left to J.Smith-Schuster. Coverage 36-Stewart.",3rd & 1 at CLE 2
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,5,PIT,1,12,0,1 Yard Run,"(1:58) (Shotgun) J.Conner up the middle to CLE 1 for 1 yard (A.Sendejo, L.Ogunjobi).",4th & 1 at CLE 2
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,5,PIT,1,13,0,Touchdown Steelers,"(1:47) (No Huddle, Shotgun) J.Conner right end for 1 yard, TOUCHDOWN.",1st & 1 at CLE 1
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,5,PIT,1,14,1,Extra Point Good,"C.Boswell extra point is GOOD, Center-K.Canaday, Holder-J.Berry.",XP attempt from CLE 15
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,6,CLE,1,1,0,Kickoff,C.Boswell kicks 62 yards from PIT 35 to CLE 3. D.Johnson to CLE 36 for 33 yards (J.Pierre).,Kickoff from PIT 35
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,6,CLE,1,2,0,4 Yard Run,"(1:38) (Shotgun) N.Chubb left guard to CLE 40 for 4 yards (S.Tuitt, R.Spillane).",1st & 10 at CLE 36
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,6,CLE,1,3,0,Pass Incomplete,(1:32) (Shotgun) B.Mayfield pass incomplete short left to R.Higgins.,2nd & 6 at CLE 40
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,6,CLE,1,4,0,6 Yard Run,(1:28) (Shotgun) B.Mayfield scrambles left end pushed ob at CLE 46 for 6 yards (M.Fitzpatrick; Te.Edmunds).,3rd & 6 at CLE 40
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,6,CLE,1,5,0,1 Yard Pass,(1:21) (Shotgun) B.Mayfield pass short left to N.Chubb pushed ob at CLE 47 for 1 yard (S.Nelson).,1st & 10 at CLE 46
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,6,CLE,1,6,0,21 Yard Pass,(1:17) (Shotgun) B.Mayfield pass short left to N.Chubb pushed ob at PIT 32 for 21 yards (S.Nelson).,2nd & 9 at CLE 47
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,6,CLE,1,7,0,8 Yard Pass,(1:09) (Shotgun) B.Mayfield pass short middle to A.Hooper to PIT 24 for 8 yards (R.Spillane).,1st & 10 at PIT 32
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,6,CLE,1,8,0,12 Yard Run,"(:49) (No Huddle, Shotgun) K.Hunt left tackle to PIT 12 for 12 yards (M.Fitzpatrick, R.Spillane).",2nd & 2 at PIT 24
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,6,CLE,1,9,0,5 Yard Pass,(:42) (Shotgun) B.Mayfield pass short right to A.Hooper to PIT 7 for 5 yards (R.Spillane).,1st & 10 at PIT 12
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,6,CLE,1,10,0,Touchdown Browns,"(:37) (Shotgun) B.Mayfield pass short right to A.Hooper for 7 yards, TOUCHDOWN.",2nd & 5 at PIT 7
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,6,CLE,1,11,1,Extra Point Good,"C.Parkey extra point is GOOD, Center-C.Hughlett, Holder-J.Gillan.",XP attempt from PIT 15
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,7,PIT,1,1,0,Kickoff,"C.Parkey kicks 63 yards from CLE 35 to PIT 2. R.McCloud to PIT 27 for 25 yards (D.Johnson).
+PENALTY on CLE-T.Davis, Illegal Formation, 5 yards, enforced at PIT 27.",Kickoff from CLE 35
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,7,PIT,1,2,0,11 Yard Run,(:28) (Shotgun) B.Snell right end to PIT 43 for 11 yards (M.Stewart Jr.).,1st & 10 at PIT 32
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,7,PIT,1,3,0,Pass Incomplete,(:20) (Shotgun) B.Roethlisberger pass incomplete short right to Di.Johnson.,1st & 10 at PIT 43
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,7,PIT,1,4,0,11 Yard Pass,(:16) (Shotgun) B.Roethlisberger pass short right to Di.Johnson to CLE 46 for 11 yards (S.Takitaki).,2nd & 10 at PIT 43
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,7,PIT,1,5,0,15 Yard Pass,(:10) (Shotgun) B.Roethlisberger pass short left to C.Claypool pushed ob at CLE 31 for 15 yards (T.Mitchell).,1st & 10 at CLE 46
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,2ND QUARTER,7,PIT,1,6,1,Field Goal,"(:05) C.Boswell 49 yard field goal is GOOD, Center-K.Canaday, Holder-J.Berry.",1st & 10 at CLE 31
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,1,CLE,0,1,0,Kickoff,C.Boswell kicks 61 yards from PIT 35 to CLE 4. D.Johnson to CLE 24 for 20 yards (O.Adeniyi).,Kickoff from PIT 35
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,1,CLE,0,2,0,6 Yard Run,(14:56) N.Chubb left guard to CLE 30 for 6 yards (S.Tuitt).,1st & 10 at CLE 24
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,1,CLE,0,3,0,7 Yard Pass,(14:17) (Shotgun) B.Mayfield pass short left to A.Hooper to CLE 37 for 7 yards (R.Spillane).,2nd & 4 at CLE 30
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,1,CLE,0,4,0,1 Yard Run,"(13:39) N.Chubb right guard to CLE 38 for 1 yard (C.Heyward, S.Tuitt).",1st & 10 at CLE 37
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,1,CLE,0,5,0,16 Yard Pass,"(12:57) (Shotgun) B.Mayfield pass short middle to R.Higgins to PIT 46 for 16 yards (M.Hilton).
+Penalty on PIT-C.Marsh, Defensive Offside, declined.",2nd & 9 at CLE 38
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,1,CLE,0,6,0,Pass Incomplete,(12:30) B.Mayfield pass incomplete short right to A.Hooper (T.Watt).,1st & 10 at PIT 46
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,1,CLE,0,7,0,-5 Yard Penalty,"(12:27) (Shotgun) B.Mayfield pass short middle to J.Landry to PIT 39 for 7 yards (Te.Edmunds; R.Spillane).
+PENALTY on CLE, Illegal Formation, 5 yards, enforced at PIT 46 - No Play.",2nd & 10 at PIT 46
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,1,CLE,0,8,0,2 Yard Run,(12:00) (Shotgun) B.Mayfield scrambles left end ran ob at PIT 49 for 2 yards (V.Williams).,2nd & 15 at CLE 49
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,1,CLE,0,9,0,Pass Incomplete,(11:22) (Shotgun) B.Mayfield pass incomplete short middle to R.Higgins. Pressure by 39-M.Fitzpatrick.,3rd & 13 at PIT 49
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,1,CLE,0,10,0,Punt,"(11:18) J.Gillan punts 44 yards to PIT 5, Center-C.Hughlett. R.McCloud to PIT 16 for 11 yards (C.Hughlett; T.Thomas).",4th & 13 at PIT 49
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,2,PIT,1,1,0,7 Yard Pass,(11:07) (Shotgun) B.Roethlisberger pass short left to C.Claypool to PIT 23 for 7 yards (M.Stewart Jr.).,1st & 10 at PIT 16
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,2,PIT,1,2,0,9 Yard Pass,"(10:37) (No Huddle, Shotgun) B.Roethlisberger pass short right to E.Ebron to PIT 32 for 9 yards (J.Phillips).",2nd & 3 at PIT 23
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,2,PIT,1,3,0,10 Yard Pass,"(10:07) (No Huddle, Shotgun) B.Roethlisberger pass short left to J.Smith-Schuster to PIT 42 for 10 yards (S.Redwine).",1st & 10 at PIT 32
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,2,PIT,1,4,0,12 Yard Pass,"(9:33) (No Huddle, Shotgun) B.Roethlisberger pass short left to Di.Johnson to CLE 46 for 12 yards (R.Jackson).",1st & 10 at PIT 42
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,2,PIT,1,5,0,4 Yard Pass,"(9:08) (No Huddle, Shotgun) B.Roethlisberger pass short middle to J.Conner to CLE 42 for 4 yards (M.Stewart Jr.).",1st & 10 at CLE 46
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,2,PIT,1,6,0,10 Yard Pass,"(8:31) (No Huddle, Shotgun) B.Roethlisberger pass short right to E.Ebron pushed ob at CLE 32 for 10 yards (M.Garrett).",2nd & 6 at CLE 42
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,2,PIT,1,7,0,15 Yard Pass,(8:02) (Shotgun) B.Roethlisberger pass short left to Di.Johnson to CLE 17 for 15 yards (T.Mitchell).,1st & 10 at CLE 32
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,2,PIT,1,8,0,Touchdown Steelers,"(7:28) (Shotgun) B.Roethlisberger pass deep right to E.Ebron for 17 yards, TOUCHDOWN.",1st & 10 at CLE 17
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,2,PIT,1,9,1,2PT Conversion Fails,TWO-POINT CONVERSION ATTEMPT. B.Roethlisberger pass to J.Conner is incomplete. ATTEMPT FAILS.,XP attempt from CLE 2
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,3,CLE,0,1,0,Kickoff,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback.",Kickoff from PIT 35
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,3,CLE,0,2,0,Pass Incomplete,(7:22) B.Mayfield pass incomplete short left to J.Landry. Coverage by 22-S.Nelson.,1st & 10 at CLE 25
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,3,CLE,0,3,0,2 Yard Run,"(7:19) N.Chubb left tackle to CLE 27 for 2 yards (V.Williams, S.Tuitt).",2nd & 10 at CLE 25
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,3,CLE,0,4,0,Pass Incomplete,(6:36) (Shotgun) B.Mayfield pass incomplete short middle to J.Landry (C.Sutton).,3rd & 8 at CLE 27
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,3,CLE,0,5,0,Punt,"(6:32) J.Gillan punts 46 yards to PIT 27, Center-C.Hughlett. R.McCloud to PIT 32 for 5 yards (T.Thomas; T.Davis).",4th & 8 at CLE 27
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,4,PIT,1,1,0,1 Yard Pass,(6:22) (Shotgun) B.Roethlisberger pass short middle to Di.Johnson to PIT 33 for 1 yard (B.Goodson).,1st & 10 at PIT 32
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,4,PIT,1,2,0,Pass Incomplete,"(5:46) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short right to J.Smith-Schuster (T.Mitchell).",2nd & 9 at PIT 33
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,4,PIT,1,3,0,15 Yard Pass,(5:42) (Shotgun) B.Roethlisberger pass short left to Di.Johnson pushed ob at PIT 48 for 15 yards (R.Jackson).,3rd & 9 at PIT 33
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,4,PIT,1,4,0,5 Yard Run,(5:14) (Shotgun) J.Conner left guard to CLE 47 for 5 yards (M.Smith; L.Ogunjobi).,1st & 10 at PIT 48
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,4,PIT,1,5,0,27 Yard Pass,"(4:35) (No Huddle, Shotgun) B.Roethlisberger pass short right to J.Smith-Schuster to CLE 20 for 27 yards (B.Goodson) [S.Richardson].",2nd & 5 at CLE 47
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,4,PIT,1,6,0,Pass Incomplete,"(3:55) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short right to C.Claypool.",1st & 10 at CLE 20
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,4,PIT,1,7,0,Pass Incomplete,(3:52) (Shotgun) B.Roethlisberger pass incomplete short right to C.Claypool. Coverage by 34-R.Jackson and 42-K.Joseph.,2nd & 10 at CLE 20
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,4,PIT,1,8,0,15 Yard Pass,(3:48) (Shotgun) B.Roethlisberger pass short left to J.Smith-Schuster to CLE 5 for 15 yards (M.Stewart Jr.).,3rd & 10 at CLE 20
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,4,PIT,1,9,0,Pass Incomplete,"(3:10) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short middle to V.McDonald.",1st & 5 at CLE 5
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,4,PIT,1,10,0,Pass Incomplete,(3:07) (Shotgun) B.Roethlisberger pass incomplete short left to Di.Johnson.,2nd & 5 at CLE 5
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,4,PIT,1,11,0,Pass Incomplete,(3:04) (Shotgun) B.Roethlisberger pass incomplete short left to E.Ebron.,3rd & 5 at CLE 5
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,4,PIT,1,12,0,Touchdown Steelers,"(3:01) (Shotgun) B.Roethlisberger pass short left to J.Smith-Schuster for 5 yards, TOUCHDOWN.",4th & 5 at CLE 5
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,4,PIT,1,13,1,Extra Point Good,"C.Boswell extra point is GOOD, Center-K.Canaday, Holder-J.Berry.",XP attempt from CLE 15
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,5,CLE,0,1,0,Kickoff,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback.",Kickoff from PIT 35
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,5,CLE,0,2,0,2 Yard Run,(2:57) N.Chubb left guard to CLE 27 for 2 yards (Te.Edmunds; C.Marsh).,1st & 10 at CLE 25
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,5,CLE,0,3,0,Run for No Gain,(2:21) N.Chubb left tackle to CLE 27 for no gain (T.Watt).,2nd & 8 at CLE 27
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,5,CLE,0,4,0,Pass Incomplete,(1:44) (Shotgun) B.Mayfield pass incomplete short left to D.Peoples-Jones.,3rd & 8 at CLE 27
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,3RD QUARTER,5,CLE,0,5,0,Punt,"(1:40) J.Gillan punts 36 yards to PIT 37, Center-C.Hughlett, downed by CLE-T.Thomas.",4th & 8 at CLE 27
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,1,PIT,0,1,0,4 Yard Pass,(1:30) (Shotgun) B.Roethlisberger pass short left to J.Smith-Schuster to PIT 41 for 4 yards (M.Stewart Jr.).,1st & 10 at PIT 37
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,1,PIT,0,2,0,-2 Yard Pass,"(:58) (No Huddle, Shotgun) B.Roethlisberger pass short right to J.Smith-Schuster to PIT 39 for -2 yards (M.Stewart Jr.).",2nd & 6 at PIT 41
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,1,PIT,0,3,0,7 Yard Pass,(:20) (Shotgun) B.Roethlisberger pass short middle to J.Smith-Schuster to PIT 46 for 7 yards (R.Harrison).,3rd & 8 at PIT 39
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,1,PIT,0,4,0,Punt,"(15:00) J.Berry punts 59 yards to end zone, Center-K.Canaday, Touchback.",4th & 6 at PIT 41
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,2,CLE,1,1,0,8 Yard Pass,(14:52) B.Mayfield pass short left to D.Peoples-Jones to CLE 28 for 8 yards (S.Nelson).,1st & 10 at CLE 20
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,2,CLE,1,2,0,Pass Incomplete,"(14:27) (No Huddle, Shotgun) B.Mayfield pass incomplete short middle to R.Higgins (C.Heyward).",2nd & 2 at CLE 28
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,2,CLE,1,3,0,17 Yard Pass,(14:24) (Shotgun) B.Mayfield pass short right to J.Landry ran ob at CLE 45 for 17 yards.,3rd & 2 at CLE 28
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,2,CLE,1,4,0,14 Yard Pass,(13:47) B.Mayfield pass short middle to J.Landry to PIT 41 for 14 yards (C.Sutton).,1st & 10 at CLE 45
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,2,CLE,1,5,0,1 Yard Run,(13:16) N.Chubb up the middle to PIT 40 for 1 yard (V.Williams; T.Watt).,1st & 10 at PIT 41
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,2,CLE,1,6,0,Touchdown Browns,"(12:41) (Shotgun) B.Mayfield pass short middle to N.Chubb for 40 yards, TOUCHDOWN.",2nd & 9 at PIT 40
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,2,CLE,1,7,1,Extra Point Good,"C.Parkey extra point is GOOD, Center-C.Hughlett, Holder-J.Gillan.",XP attempt from PIT 15
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,3,PIT,1,1,0,Kickoff,C.Parkey kicks 65 yards from CLE 35 to PIT 0. R.McCloud to PIT 24 for 24 yards (M.Stewart Jr.).,Kickoff from CLE 35
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,3,PIT,1,2,0,7 Yard Pass,(12:27) (Shotgun) B.Roethlisberger pass short right to Di.Johnson to PIT 31 for 7 yards (R.Jackson).,1st & 10 at PIT 24
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,3,PIT,1,3,0,15 Yard Pass,"(11:59) (No Huddle, Shotgun) B.Roethlisberger pass short middle to Di.Johnson to PIT 46 for 15 yards (R.Jackson).
+Cleveland challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",2nd & 3 at PIT 31
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,3,PIT,1,4,0,25 Yard Pass,(11:45) (Shotgun) B.Roethlisberger pass deep middle to J.Smith-Schuster to CLE 29 for 25 yards (R.Jackson).,1st & 10 at PIT 46
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,3,PIT,1,5,0,Touchdown Steelers,"(11:13) (No Huddle, Shotgun) B.Roethlisberger pass deep middle to C.Claypool for 29 yards, TOUCHDOWN.",1st & 10 at CLE 29
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,3,PIT,1,6,1,2PT Conversion Fails,TWO-POINT CONVERSION ATTEMPT. B.Roethlisberger pass to J.Smith-Schuster is incomplete. ATTEMPT FAILS.,XP attempt from CLE 2
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,4,CLE,1,1,0,Kickoff,C.Boswell kicks 60 yards from PIT 35 to CLE 5. D.Johnson to CLE 35 for 30 yards (D.Watt).,Kickoff from PIT 35
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,4,CLE,1,2,0,9 Yard Run,(11:03) N.Chubb left end pushed ob at CLE 44 for 9 yards (M.Fitzpatrick).,1st & 10 at CLE 35
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,4,CLE,1,3,0,1 Yard Run,(10:34) N.Chubb left tackle to CLE 45 for 1 yard (T.Alualu).,2nd & 1 at CLE 44
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,4,CLE,1,4,0,Pass Incomplete,(9:51) (Shotgun) B.Mayfield pass incomplete short right to J.Landry (O.Adeniyi).,1st & 10 at CLE 45
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,4,CLE,1,5,0,13 Yard Pass,(9:47) B.Mayfield pass short right to K.Hunt pushed ob at PIT 42 for 13 yards (C.Sutton). CLE-M.Dunn was injured during the play.,2nd & 10 at CLE 45
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,4,CLE,1,6,0,1 Yard Run,(9:19) (Shotgun) K.Hunt left guard to PIT 41 for 1 yard (R.Spillane).,1st & 10 at PIT 42
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,4,CLE,1,7,0,17 Yard Pass,(8:37) (Shotgun) B.Mayfield pass short middle to J.Landry to PIT 24 for 17 yards (R.Spillane).,2nd & 9 at PIT 41
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,4,CLE,1,8,0,Run for No Gain,(7:51) K.Hunt left guard to PIT 24 for no gain (M.Hilton).,1st & 10 at PIT 24
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,4,CLE,1,9,0,7 Yard Pass,(7:12) B.Mayfield pass short middle to D.Njoku to PIT 17 for 7 yards (C.Marsh).,2nd & 10 at PIT 24
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,4,CLE,1,10,0,8 Yard Pass,(6:34) B.Mayfield pass short right to A.Hooper to PIT 9 for 8 yards (M.Fitzpatrick).,3rd & 3 at PIT 17
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,4,CLE,1,11,0,3 Yard Run,(5:59) K.Hunt right end to PIT 6 for 3 yards (Te.Edmunds).,1st & 9 at PIT 9
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,4,CLE,1,12,0,Run for No Gain,(5:17) K.Hunt right end to PIT 6 for no gain (S.Tuitt).,2nd & 6 at PIT 6
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,4,CLE,1,13,0,Pass Incomplete,(4:35) (Shotgun) B.Mayfield pass incomplete short left to A.Hooper (Te.Edmunds).,3rd & 6 at PIT 6
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,4,CLE,1,14,1,Field Goal,"(4:31) C.Parkey 24 yard field goal is GOOD, Center-C.Hughlett, Holder-J.Gillan.",4th & 6 at PIT 6
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,5,PIT,0,1,0,Kickoff,"C.Parkey kicks 65 yards from CLE 35 to end zone, Touchback.",Kickoff from CLE 35
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,5,PIT,0,2,0,1 Yard Pass,(4:28) (Shotgun) B.Roethlisberger pass short middle to J.Smith-Schuster to PIT 26 for 1 yard (M.Smith).,1st & 10 at PIT 25
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,5,PIT,0,3,0,5 Yard Pass,"(4:02) (No Huddle, Shotgun) B.Roethlisberger pass short middle to J.Conner to PIT 31 for 5 yards (T.Thomas) [S.Richardson].",2nd & 9 at PIT 26
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,5,PIT,0,4,0,9 Yard Pass,"(3:32) (No Huddle, Shotgun) B.Roethlisberger pass short left to J.Conner ran ob at PIT 40 for 9 yards (M.Smith).",3rd & 4 at PIT 31
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,5,PIT,0,5,0,Interception,"(3:25) (No Huddle, Shotgun) B.Roethlisberger pass short middle intended for E.Ebron INTERCEPTED by S.Takitaki at PIT 48. S.Takitaki pushed ob at PIT 25 for 23 yards (A.Villanueva).",1st & 10 at PIT 40
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,6,CLE,1,1,0,-1 Yard Run,(3:16) N.Chubb left end pushed ob at PIT 26 for -1 yards (Te.Edmunds).,1st & 10 at PIT 25
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,6,CLE,1,2,0,5 Yard Pass,(3:06) B.Mayfield pass short left to A.Hooper to PIT 21 for 5 yards (Te.Edmunds).,2nd & 11 at PIT 26
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,6,CLE,1,3,0,2 Yard Run,(3:00) N.Chubb left guard to PIT 19 for 2 yards (T.Alualu; S.Nelson).,3rd & 6 at PIT 21
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,6,CLE,1,4,1,Field Goal,"(2:55) C.Parkey 37 yard field goal is GOOD, Center-C.Hughlett, Holder-J.Gillan.",4th & 4 at PIT 19
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,7,PIT,1,1,0,Kickoff,C.Parkey kicks 68 yards from CLE 35 to PIT -3. R.McCloud to PIT 23 for 26 yards (D.Johnson).,Kickoff from CLE 35
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,7,PIT,1,2,0,19 Yard Pass,(2:46) (Shotgun) B.Roethlisberger pass deep middle to Di.Johnson to PIT 42 for 19 yards (A.Sendejo).,1st & 10 at PIT 23
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,7,PIT,1,3,0,Pass Incomplete,"(2:15) (No Huddle, Shotgun) B.Roethlisberger pass incomplete deep middle to J.Smith-Schuster.",1st & 10 at PIT 42
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,7,PIT,1,4,0,18 Yard Pass,"(2:10) (No Huddle, Shotgun) B.Roethlisberger pass short middle to J.Smith-Schuster to CLE 40 for 18 yards (J.Phillips).",2nd & 10 at PIT 42
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,7,PIT,1,5,0,Pass Incomplete,(2:00) (Shotgun) B.Roethlisberger pass incomplete short middle to J.Smith-Schuster [A.Clayborn].,1st & 10 at CLE 40
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,7,PIT,1,6,0,Pass Incomplete,(1:57) (Shotgun) B.Roethlisberger pass incomplete deep right to Di.Johnson. Coverage 42-Joseph.,2nd & 10 at CLE 40
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,7,PIT,1,7,0,Pass Incomplete,(1:52) (Shotgun) B.Roethlisberger pass incomplete deep middle to J.Smith-Schuster (A.Sendejo).,3rd & 10 at CLE 40
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,7,PIT,1,8,0,33 Yard Pass,(1:44) (Shotgun) B.Roethlisberger pass deep middle to J.Smith-Schuster to CLE 7 for 33 yards (S.Redwine).,4th & 10 at CLE 40
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,7,PIT,1,9,0,Touchdown Steelers,"(1:13) (No Huddle, Shotgun) B.Roethlisberger pass short left to C.Claypool for 7 yards, TOUCHDOWN.",1st & 7 at CLE 7
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,7,PIT,1,10,1,2PT Conversion Success,TWO-POINT CONVERSION ATTEMPT. B.Roethlisberger pass to J.Conner is complete. ATTEMPT SUCCEEDS.,XP attempt from CLE 2
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,8,CLE,0,1,0,Kickoff,C.Boswell kicks onside 12 yards from PIT 35 to PIT 47. S.Carlson (didn't try to advance) to PIT 46 for 1 yard.,Kickoff from PIT 35
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,8,CLE,0,2,0,-2 Yard Run,(1:08) B.Mayfield kneels to PIT 48 for -2 yards.,1st & 10 at PIT 46
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,8,CLE,0,3,0,-1 Yard Run,(1:06) B.Mayfield kneels to PIT 49 for -1 yards.,2nd & 12 at PIT 48
+2020,Wild Card Weekend,SUN,01/10,Browns,Steelers,4TH QUARTER,8,CLE,0,4,0,-2 Yard Run,(:34) B.Mayfield kneels to CLE 49 for -2 yards.,3rd & 13 at PIT 49

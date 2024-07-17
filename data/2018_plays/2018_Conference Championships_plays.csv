@@ -1,0 +1,371 @@
+Season,Week,Day,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayDescription,PlayStart
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,1,NO,1,1,0,Kickoff,"G.Zuerlein kicks 65 yards from LAR 35 to end zone, Touchback.",Kickoff from LAR 35
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,1,NO,1,2,0,Pass Incomplete,(15:00) (Shotgun) D.Brees pass incomplete short right.,1st & 10 at NO 25
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,1,NO,1,3,0,2 Yard Run,(14:56) A.Kamara right guard to NO 27 for 2 yards (N.Suh).,2nd & 10 at NO 25
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,1,NO,1,4,0,9 Yard Pass,"(14:16) (Shotgun) D.Brees pass short left to T.Ginn to NO 36 for 9 yards (M.Peters). Pass 9, YAC 0",3rd & 8 at NO 27
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,1,NO,1,5,0,9 Yard Run,"(13:44) (Shotgun) M.Ingram right guard to NO 45 for 9 yards (J.Johnson, M.Barron).",1st & 10 at NO 36
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,1,NO,1,6,0,-2 Yard Run,"(13:09) M.Ingram right guard to NO 43 for -2 yards (D.Fowler, M.Peters).",2nd & 1 at NO 45
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,1,NO,1,7,0,21 Yard Pass,"(12:31) (Shotgun) D.Brees pass short right to A.Kamara ran ob at LAR 36 for 21 yards (J.Franklin). Pass 13, YAC 8",3rd & 3 at NO 43
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,1,NO,1,8,0,14 Yard Pass,"(11:53) (Shotgun) D.Brees pass short middle to A.Kamara to LAR 22 for 14 yards (M.Barron). Pass 8, YAC 6",1st & 10 at LAR 36
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,1,NO,1,9,0,Pass Incomplete,(11:08) (Shotgun) D.Brees pass incomplete short left.,1st & 10 at LAR 22
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,1,NO,1,10,0,3 Yard Pass,"(11:02) (Shotgun) D.Brees pass short right to M.Thomas to LAR 19 for 3 yards (A.Talib). Pass 2, YAC 1",2nd & 10 at LAR 22
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,1,NO,1,11,0,Pass Incomplete,(10:12) (Shotgun) D.Brees pass incomplete deep middle to D.Arnold.,3rd & 7 at LAR 19
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,1,NO,1,12,1,Field Goal,"(10:07) W.Lutz 37 yard field goal is GOOD, Center-Z.Wood, Holder-T.Morstead.",4th & 7 at LAR 19
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,2,LA,0,1,0,Kickoff,"W.Lutz kicks 62 yards from NO 35 to LAR 3. J.Natson to LAR 20 for 17 yards (V.Bell).
+PENALTY on LAR-M.Christian, Illegal Block Above the Waist, 10 yards, enforced at LAR 20.",Kickoff from NO 35
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,2,LA,0,2,0,7 Yard Pass,"(9:58) J.Goff pass short right to R.Woods pushed ob at LAR 17 for 7 yards (P.Williams). Pass 4, YAC 3",1st & 10 at LAR 10
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,2,LA,0,3,0,-4 Yard Run,(9:26) T.Gurley left tackle to LAR 13 for -4 yards (D.Davis).,2nd & 3 at LAR 17
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,2,LA,0,4,0,Interception,(8:42) (Shotgun) J.Goff pass short middle intended for T.Gurley INTERCEPTED by D.Davis at LAR 17. D.Davis to LAR 16 for 1 yard (T.Gurley).,3rd & 7 at LAR 13
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,3,NO,1,1,0,1 Yard Run,(8:35) M.Ingram left tackle to LAR 15 for 1 yard (C.Littleton).,1st & 10 at LAR 16
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,3,NO,1,2,0,Pass Incomplete,(7:55) (Shotgun) D.Brees pass incomplete short right to T.Smith.,2nd & 9 at LAR 15
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,3,NO,1,3,0,5 Yard Pass,"(7:50) (Shotgun) D.Brees pass short right to A.Kamara to LAR 10 for 5 yards (C.Littleton). Pass -3, YAC 8",3rd & 9 at LAR 15
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,3,NO,1,4,1,Field Goal,"(7:10) W.Lutz 29 yard field goal is GOOD, Center-Z.Wood, Holder-T.Morstead.",4th & 4 at LAR 10
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,4,LA,0,1,0,Kickoff,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",Kickoff from NO 35
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,4,LA,0,2,0,Pass for No Gain,"(7:06) J.Goff pass short left to R.Woods to LAR 25 for no gain (A.Klein). Pass -2, YAC 2",1st & 10 at LAR 25
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,4,LA,0,3,0,2 Yard Run,(6:22) (Shotgun) T.Gurley left guard to LAR 27 for 2 yards (T.Davison).,2nd & 10 at LAR 25
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,4,LA,0,4,0,Pass Incomplete,(5:39) (Shotgun) J.Goff pass incomplete deep middle to R.Woods.,3rd & 8 at LAR 27
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,4,LA,0,5,0,Punt,"(5:35) J.Hekker punts 41 yards to NO 32, Center-J.McQuaide, out of bounds.",4th & 8 at LAR 27
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,5,NO,1,1,0,24 Yard Pass,"(5:26) D.Brees pass short right to J.Hill to LAR 44 for 24 yards (C.Littleton). Pass -1, YAC 25",1st & 10 at NO 32
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,5,NO,1,2,0,2 Yard Run,(5:05) A.Kamara right tackle to LAR 42 for 2 yards (M.Barron).,1st & 10 at LAR 44
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,5,NO,1,3,0,5 Yard Pass,"(4:29) D.Brees pass short left to M.Thomas to LAR 37 for 5 yards (C.Littleton) [A.Donald]. Pass 5, YAC 0",2nd & 8 at LAR 42
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,5,NO,1,4,0,19 Yard Pass,"(3:46) (Shotgun) D.Brees pass short middle to M.Thomas ran ob at LAR 18 for 19 yards (M.Peters). Pass 5, YAC 14",3rd & 3 at LAR 37
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,5,NO,1,5,0,Pass Incomplete,(3:08) (Shotgun) D.Brees pass incomplete short left to T.Ginn.,1st & 10 at LAR 18
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,5,NO,1,6,0,6 Yard Pass,"(3:05) (Shotgun) D.Brees pass short right to A.Kamara pushed ob at LAR 12 for 6 yards (M.Barron). Pass 5, YAC 1",2nd & 10 at LAR 18
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,5,NO,1,7,0,2 Yard Run,(2:33) (Shotgun) A.Kamara left guard to LAR 10 for 2 yards (J.Franklin; D.Fowler). #7 T.Hill at QB,3rd & 4 at LAR 12
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,5,NO,1,8,0,5 Yard Penalty,"(1:46) (Run formation) PENALTY on LAR-M.Brockers, Encroachment, 5 yards, enforced at LAR 10 - No Play.",4th & 2 at LAR 10
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,5,NO,1,9,0,Touchdown Saints,"(1:40) D.Brees pass short right to G.Griffin for 5 yards, TOUCHDOWN. Pass 5, YAC 0",1st & 5 at LAR 5
+2018,Conference Championships,SUN,01/20,Rams,Saints,1ST QUARTER,5,NO,1,10,1,Extra Point Good,"W.Lutz extra point is GOOD, Center-Z.Wood, Holder-T.Morstead.",XP attempt from LAR 15
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,1,LA,1,1,0,Kickoff,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",Kickoff from NO 35
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,1,LA,1,2,0,5 Yard Run,(1:35) C.Anderson left guard to LAR 30 for 5 yards (M.Davenport).,1st & 10 at LAR 25
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,1,LA,1,3,0,-5 Yard Penalty,"(:54) PENALTY on LAR-R.Saffold, False Start, 5 yards, enforced at LAR 30 - No Play.",2nd & 5 at LAR 30
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,1,LA,1,4,0,5 Yard Pass,"(:32) (Shotgun) J.Goff pass short left to C.Anderson to LAR 30 for 5 yards (M.Williams, M.Lattimore). Pass 4, YAC 1",2nd & 10 at LAR 25
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,1,LA,1,5,0,Pass for No Gain,"(15:00) (Shotgun) J.Goff pass short right to R.Woods to LAR 30 for no gain (P.Williams; A.Anzalone). Pass -3, YAC 3",3rd & 5 at LAR 30
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,1,LA,1,6,0,6 Yard Pass,"(13:54) J.Goff pass short left to T.Higbee pushed ob at LAR 48 for 6 yards (P.Williams) [A.Okafor]. Pass -3, YAC 9",1st & 10 at LAR 42
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,1,LA,1,7,0,7 Yard Run,(13:31) J.Goff scrambles right end to NO 45 for 7 yards (A.Klein).,2nd & 4 at LAR 48
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,1,LA,1,8,0,Pass Incomplete,(12:55) J.Goff pass incomplete short right.,1st & 10 at NO 45
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,1,LA,1,9,0,11 Yard Pass,"(12:49) (Shotgun) J.Goff pass short middle to G.Everett to NO 34 for 11 yards (A.Klein, D.Davis). Pass 7, YAC 4",2nd & 10 at NO 45
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,1,LA,1,10,0,8 Yard Run,(12:09) C.Anderson left guard to NO 26 for 8 yards (T.Davison; D.Davis). NO-A.Klein was injured during the play.,1st & 10 at NO 34
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,1,LA,1,11,0,4 Yard Run,"(11:47) C.Anderson left guard to NO 22 for 4 yards (D.Davis, T.Stallworth).",2nd & 2 at NO 26
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,1,LA,1,12,0,4 Yard Pass,"(11:13) J.Goff pass short right to B.Cooks to NO 18 for 4 yards (E.Apple). Pass 3, YAC 1",1st & 10 at NO 22
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,1,LA,1,13,0,Run for No Gain,(10:35) C.Anderson left tackle to NO 18 for no gain (V.Bell).,2nd & 6 at NO 18
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,1,LA,1,14,0,Pass Incomplete,(9:53) (Shotgun) J.Goff pass incomplete short right to T.Gurley.,3rd & 6 at NO 18
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,1,LA,1,15,1,Field Goal,"(9:49) G.Zuerlein 36 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",4th & 6 at NO 18
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,2,NO,0,1,0,Kickoff,"G.Zuerlein kicks 65 yards from LAR 35 to end zone, Touchback.",Kickoff from LAR 35
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,2,NO,0,2,0,-2 Yard Run,(9:45) (Shotgun) A.Kamara right tackle to NO 23 for -2 yards (D.Fowler; M.Brockers).,1st & 10 at NO 25
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,2,NO,0,3,0,7 Yard Pass,"(9:02) (Shotgun) D.Brees pass short right to G.Griffin pushed ob at NO 30 for 7 yards (M.Brockers) [A.Donald]. Pass -5, YAC 12",2nd & 12 at NO 23
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,2,NO,0,4,0,Pass Incomplete,(8:20) (Shotgun) D.Brees pass incomplete short left to A.Kamara.,3rd & 5 at NO 30
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,2,NO,0,5,0,Punt,"(8:15) T.Morstead punts 48 yards to LAR 22, Center-Z.Wood, fair catch by J.Natson.",4th & 5 at NO 30
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,3,LA,0,1,0,3 Yard Run,(8:08) C.Anderson right tackle to LAR 25 for 3 yards (D.Davis; C.Jordan).,1st & 10 at LAR 22
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,3,LA,0,2,0,6 Yard Pass,"(7:24) J.Goff pass short right to R.Woods to LAR 31 for 6 yards (E.Apple). Pass 5, YAC 1",2nd & 7 at LAR 25
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,3,LA,0,3,0,3 Yard Run,"(6:46) C.Anderson left tackle to LAR 34 for 3 yards (D.Davis, A.Okafor).",3rd & 1 at LAR 31
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,3,LA,0,4,0,Pass Incomplete,(6:18) J.Goff pass incomplete short left to R.Woods.,1st & 10 at LAR 34
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,3,LA,0,5,0,6 Yard Run,(6:12) C.Anderson left guard to LAR 40 for 6 yards (D.Davis).,2nd & 10 at LAR 34
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,3,LA,0,6,0,Pass Incomplete,(5:31) (Shotgun) J.Goff pass incomplete short right to J.Reynolds (P.Williams).,3rd & 4 at LAR 40
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,3,LA,0,7,0,Punt,"(5:26) J.Hekker punts 43 yards to NO 17, Center-J.McQuaide, fair catch by T.Lewis.",4th & 4 at LAR 40
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,4,NO,0,1,0,2 Yard Run,(5:20) J.Bushrod reported in as eligible.  A.Kamara right guard to NO 19 for 2 yards (M.Brockers; S.Ebukam).,1st & 10 at NO 17
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,4,NO,0,2,0,6 Yard Pass,"(4:42) D.Brees pass short right to T.Ginn to NO 25 for 6 yards (S.Ebukam). FUMBLES (S.Ebukam), ball out of bounds at NO 25. Pass -1, YAC 7",2nd & 8 at NO 19
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,4,NO,0,3,0,5 Yard Pass,"(4:11) (Shotgun) D.Brees pass short right to A.Kamara pushed ob at NO 30 for 5 yards (J.Johnson). Pass 4, YAC 1",3rd & 2 at NO 25
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,4,NO,0,4,0,-6 Yard Sack,(3:39) (Shotgun) D.Brees sacked at NO 24 for -6 yards (N.Suh).,1st & 10 at NO 30
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,4,NO,0,5,0,Sack,(2:54) (Shotgun) D.Brees sacked at NO 23 for -1 yards (sack split by N.Suh and D.Fowler).,2nd & 16 at NO 24
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,4,NO,0,6,0,3 Yard Pass,"(2:06) (Shotgun) D.Brees pass short right to A.Kamara ran ob at NO 26 for 3 yards (C.Littleton). Pass -5, YAC 8",3rd & 17 at NO 23
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,4,NO,0,7,0,Punt,"(2:00) T.Morstead punts 45 yards to LAR 29, Center-Z.Wood. J.Natson to LAR 29 for no gain (J.Hardee).
+PENALTY on LAR-M.Christian, Offensive Holding, 10 yards, enforced at LAR 29.",4th & 14 at NO 26
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,5,LA,1,1,0,9 Yard Pass,"(1:52) (Shotgun) J.Goff pass short middle to J.Reynolds to LAR 28 for 9 yards (D.Davis). Pass 6, YAC 3",1st & 10 at LAR 19
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,5,LA,1,2,0,13 Yard Pass,"(1:27) (No Huddle, Shotgun) J.Goff pass short right to J.Reynolds to LAR 41 for 13 yards (D.Davis; M.Williams). Pass 7, YAC 6",2nd & 1 at LAR 28
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,5,LA,1,3,0,Pass Incomplete,"(1:03) (No Huddle, Shotgun) J.Goff pass incomplete short right to G.Everett [E.Apple].",1st & 10 at LAR 41
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,5,LA,1,4,0,Pass Incomplete,(:57) (Shotgun) J.Goff pass incomplete short middle to J.Reynolds.,2nd & 10 at LAR 41
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,5,LA,1,5,0,17 Yard Pass,(:53) (Shotgun) J.Goff pass deep right to B.Cooks to NO 42 for 17 yards (E.Apple).,3rd & 10 at LAR 41
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,5,LA,1,6,0,36 Yard Pass,"(:48) (Shotgun) J.Goff pass deep left to B.Cooks to NO 6 for 36 yards (P.Williams). Pass 31, YAC 5",1st & 10 at NO 42
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,5,LA,1,7,0,Touchdown Rams,"(:28) T.Gurley left guard for 6 yards, TOUCHDOWN.",1st & 6 at NO 6
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,5,LA,1,8,1,Extra Point Good,"G.Zuerlein extra point is GOOD, Center-J.McQuaide, Holder-J.Hekker.",XP attempt from NO 15
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,6,NO,0,1,0,Kickoff,G.Zuerlein kicks 72 yards from LAR 35 to NO -7. A.Kamara to NO 20 for 27 yards (M.Kiser).,Kickoff from LAR 35
+2018,Conference Championships,SUN,01/20,Rams,Saints,2ND QUARTER,6,NO,0,2,0,-1 Yard Run,(:19) D.Brees kneels to NO 19 for -1 yards.,1st & 10 at NO 20
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,1,LA,0,1,0,Kickoff,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",Kickoff from NO 35
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,1,LA,0,2,0,-4 Yard Run,(15:00) R.Woods left end to LAR 21 for -4 yards (A.Okafor).,1st & 10 at LAR 25
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,1,LA,0,3,0,Pass Incomplete,(14:24) (Shotgun) J.Goff pass incomplete short right to R.Woods.,2nd & 14 at LAR 21
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,1,LA,0,4,0,Pass Incomplete,(14:21) (Shotgun) J.Goff pass incomplete short left to R.Woods.,3rd & 14 at LAR 21
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,1,LA,0,5,0,Punt,"(14:16) J.Hekker punts 50 yards to NO 29, Center-J.McQuaide, downed by LAR-S.Shields.",4th & 14 at LAR 21
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,2,NO,1,1,0,6 Yard Run,(14:05) M.Ingram left guard to NO 35 for 6 yards (S.Ebukam).,1st & 10 at NO 29
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,2,NO,1,2,0,8 Yard Pass,"(13:31) (Shotgun) D.Brees pass short right to A.Kamara ran ob at NO 43 for 8 yards (C.Littleton). Pass 3, YAC 5",2nd & 4 at NO 35
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,2,NO,1,3,0,9 Yard Pass,"(13:03) (Shotgun) D.Brees pass short right to A.Kamara ran ob at LAR 48 for 9 yards (M.Barron). Pass 2, YAC 7",1st & 10 at NO 43
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,2,NO,1,4,0,6 Yard Run,(12:32) A.Kamara right end pushed ob at LAR 42 for 6 yards (C.Littleton).,2nd & 1 at LAR 48
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,2,NO,1,5,0,16 Yard Run,(11:55) M.Ingram right guard to LAR 26 for 16 yards (L.Joyner).,1st & 10 at LAR 42
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,2,NO,1,6,0,8 Yard Pass,"(11:08) (Shotgun) D.Brees pass short left to A.Kamara ran ob at LAR 18 for 8 yards (C.Littleton). Pass 5, YAC 3",1st & 10 at LAR 26
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,2,NO,1,7,0,4 Yard Run,(10:36) Z.Line left guard to LAR 14 for 4 yards (D.Fowler).,2nd & 2 at LAR 18
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,2,NO,1,8,0,9 Yard Pass,"(10:01) (Shotgun) D.Brees pass short right to A.Kamara pushed ob at LAR 5 for 9 yards (C.Littleton). Pass 1, YAC 8",1st & 10 at LAR 14
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,2,NO,1,9,0,3 Yard Run,(9:31) J.Bushrod reported in as eligible.  M.Ingram right guard to LAR 2 for 3 yards (M.Brockers).,2nd & 1 at LAR 5
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,2,NO,1,10,0,Pass Incomplete,(8:45) (Shotgun) D.Brees pass incomplete short left to M.Thomas (N.Robey).,1st & 2 at LAR 2
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,2,NO,1,11,0,Pass Incomplete,(8:41) (Shotgun) T.Hill pass incomplete short right to A.Kamara.,2nd & 2 at LAR 2
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,2,NO,1,12,0,Touchdown Saints,"(8:37) D.Brees pass short right to T.Hill for 2 yards, TOUCHDOWN. Pass -3, YAC 5",3rd & 2 at LAR 2
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,2,NO,1,13,1,Extra Point Good,"W.Lutz extra point is GOOD, Center-Z.Wood, Holder-T.Morstead.",XP attempt from LAR 15
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,3,LA,1,1,0,Kickoff,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",Kickoff from NO 35
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,3,LA,1,2,0,4 Yard Pass,"(8:34) (Shotgun) J.Goff pass short left to R.Woods pushed ob at LAR 29 for 4 yards (P.Williams). Pass 4, YAC 0",1st & 10 at LAR 25
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,3,LA,1,3,0,4 Yard Run,"(8:04) C.Anderson left guard to LAR 33 for 4 yards (D.Davis, M.Williams).",2nd & 6 at LAR 29
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,3,LA,1,4,0,4 Yard Pass,"(7:25) (Shotgun) J.Goff pass short right to B.Cooks to LAR 37 for 4 yards (E.Apple). Pass 4, YAC 0",3rd & 2 at LAR 33
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,3,LA,1,5,0,14 Yard Pass,"(6:46) (No Huddle) J.Goff pass short left to B.Cooks ran ob at NO 49 for 14 yards (M.Lattimore). Pass 14, YAC 0",1st & 10 at LAR 37
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,3,LA,1,6,0,2 Yard Run,(6:19) (No Huddle) C.Anderson left tackle to NO 47 for 2 yards (P.Williams).,1st & 10 at NO 49
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,3,LA,1,7,0,5 Yard Penalty,"(5:39) (Shotgun) J.Goff pass short left to G.Everett to NO 43 for 4 yards (D.Davis).
+PENALTY on NO-V.Bell, Defensive Offside, 5 yards, enforced at NO 47 - No Play.",2nd & 8 at NO 47
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,3,LA,1,8,0,25 Yard Pass,"(5:15) J.Goff pass short left to B.Cooks pushed ob at NO 17 for 25 yards (V.Bell). NO-V.Bell was injured during the play.  Pass 1, YAC 24",2nd & 3 at NO 42
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,3,LA,1,9,0,16 Yard Run,"(4:55) J.Reynolds left end to NO 1 for 16 yards (M.Lattimore, M.Williams).",1st & 10 at NO 17
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,3,LA,1,10,0,Run for No Gain,"(4:30) (No Huddle) J.Goff FUMBLES (Aborted) at NO 3, and recovers at NO 3. J.Goff to NO 3 for no gain (A.Klein).",1st & 1 at NO 1
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,3,LA,1,11,0,2 Yard Run,(3:49) C.Anderson right guard to NO 1 for 2 yards (C.Jordan; A.Klein).,2nd & 3 at NO 3
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,3,LA,1,12,0,Touchdown Rams,"(3:09) J.Goff pass short right to T.Higbee for 1 yard, TOUCHDOWN. Pass 1, YAC 0",3rd & 1 at NO 1
+2018,Conference Championships,SUN,01/20,Rams,Saints,3RD QUARTER,3,LA,1,13,1,Extra Point Good,"G.Zuerlein extra point is GOOD, Center-J.McQuaide, Holder-J.Hekker.",XP attempt from NO 15
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,1,NO,0,1,0,Kickoff,"G.Zuerlein kicks 65 yards from LAR 35 to end zone, Touchback.",Kickoff from LAR 35
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,1,NO,0,2,0,10 Yard Pass,"(3:06) D.Brees pass short right to T.Smith ran ob at NO 35 for 10 yards (A.Talib). Pass 10, YAC 0",1st & 10 at NO 25
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,1,NO,0,3,0,9 Yard Pass,"(2:33) (Shotgun) D.Brees pass short middle to M.Thomas to NO 44 for 9 yards (N.Robey). Pass 9, YAC 0",1st & 10 at NO 35
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,1,NO,0,4,0,6 Yard Run,"(1:57) (Shotgun) M.Ingram right guard to 50 for 6 yards (M.Barron, J.Johnson).",2nd & 1 at NO 44
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,1,NO,0,5,0,Run for No Gain,"(1:14) (Shotgun) T.Hill FUMBLES (Aborted) at NO 47, recovered by NO-A.Kamara at 50. A.Kamara to 50 for no gain (C.Littleton). 7-T.Hill at QB",1st & 10 at 50
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,1,NO,0,6,0,3 Yard Pass,"(:39) D.Brees pass short middle to M.Ingram to LAR 47 for 3 yards (M.Barron) [A.Donald]. Pass 3, YAC 0",2nd & 10 at 50
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,1,NO,0,7,0,Pass Incomplete,(15:00) (Shotgun) D.Brees pass incomplete short left to T.Ginn (N.Robey).,3rd & 7 at LAR 47
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,1,NO,0,8,0,Punt,"(14:56) T.Morstead punts 34 yards to LAR 13, Center-Z.Wood, fair catch by J.Natson.",4th & 7 at LAR 47
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,2,LA,0,1,0,3 Yard Run,(14:49) C.Anderson right guard to LAR 16 for 3 yards (T.Stallworth; M.Davenport).,1st & 10 at LAR 13
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,2,LA,0,2,0,-8 Yard Sack,(14:08) J.Goff sacked at LAR 8 for -8 yards (C.Jordan).,2nd & 7 at LAR 16
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,2,LA,0,3,0,-1 Yard Run,"(13:26) C.Anderson right guard to LAR 7 for -1 yards (M.Davenport, D.Davis).",3rd & 15 at LAR 8
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,2,LA,0,4,0,Punt,"(12:29) J.Hekker punts 49 yards to NO 39, Center-J.McQuaide, fair catch by T.Lewis.
+PENALTY on LAR-B.Countess, Chop Block, 15 yards, enforced at NO 39.",4th & 11 at LAR 12
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,3,NO,0,1,0,-10 Yard Penalty,"(12:22) M.Ingram left guard to LAR 42 for 4 yards (M.Barron).
+PENALTY on NO-T.Armstead, Offensive Holding, 10 yards, enforced at LAR 46 - No Play.",1st & 10 at LAR 46
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,3,NO,0,2,0,Pass Incomplete,(11:56) (Shotgun) D.Brees pass incomplete deep right to D.Arnold.,1st & 20 at NO 44
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,3,NO,0,3,0,3 Yard Run,(11:51) (Shotgun) A.Kamara left guard to NO 47 for 3 yards (M.Barron; N.Suh).,2nd & 20 at NO 44
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,3,NO,0,4,0,Pass Incomplete,(11:09) (Shotgun) D.Brees pass incomplete deep middle to T.Ginn.,3rd & 17 at NO 47
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,3,NO,0,5,0,Punt,"(11:04) T.Morstead punts 44 yards to LAR 9, Center-Z.Wood, out of bounds.",4th & 17 at NO 47
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,4,LA,1,1,0,6 Yard Run,(10:55) T.Gurley right guard to LAR 15 for 6 yards (A.Okafor).,1st & 10 at LAR 9
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,4,LA,1,2,0,1 Yard Run,(10:20) R.Woods left end pushed ob at LAR 16 for 1 yard (M.Lattimore).,2nd & 4 at LAR 15
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,4,LA,1,3,0,39 Yard Pass,"(9:41) (Shotgun) J.Goff pass deep right to G.Everett to NO 45 for 39 yards (M.Lattimore). Pass 18, YAC 21",3rd & 3 at LAR 16
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,4,LA,1,4,0,5 Yard Run,"(8:50) C.Anderson left guard to NO 40 for 5 yards (D.Davis, A.Klein).",1st & 10 at NO 45
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,4,LA,1,5,0,33 Yard Pass,"(8:08) J.Goff pass deep left to J.Reynolds to NO 7 for 33 yards (D.Davis) [T.Stallworth]. Pass 24, YAC 9",2nd & 5 at NO 40
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,4,LA,1,6,0,2 Yard Run,(7:23) C.Anderson right guard to NO 5 for 2 yards (T.Davison; M.Williams).,1st & 7 at NO 7
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,4,LA,1,7,0,3 Yard Run,(6:49) J.Goff scrambles left end to NO 2 for 3 yards (A.Okafor).,2nd & 5 at NO 5
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,4,LA,1,8,0,1 Yard Run,"(6:04) C.Anderson left guard to NO 1 for 1 yard (T.Davison, D.Onyemata).",3rd & 2 at NO 2
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,4,LA,1,9,1,Field Goal,"(5:06) G.Zuerlein 24 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",4th & 6 at NO 6
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,5,NO,1,1,0,Kickoff,"G.Zuerlein kicks 65 yards from LAR 35 to NO 0. A.Kamara to NO 30 for 30 yards (K.Hodge, B.Hager).",Kickoff from LAR 35
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,5,NO,1,2,0,5 Yard Pass,"(4:57) (Shotgun) D.Brees pass short middle to A.Carr to NO 35 for 5 yards (C.Littleton). Pass 5, YAC 0",1st & 10 at NO 30
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,5,NO,1,3,0,3 Yard Pass,"(4:22) (Shotgun) D.Brees pass short right to M.Ingram to NO 38 for 3 yards (J.Johnson). Pass 1, YAC 2",2nd & 5 at NO 35
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,5,NO,1,4,0,8 Yard Pass,"(3:37) (Shotgun) D.Brees pass short left to A.Kamara to NO 46 for 8 yards (L.Joyner; C.Littleton). Pass -6, YAC 14",3rd & 2 at NO 38
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,5,NO,1,5,0,-2 Yard Run,(2:51) M.Ingram right guard to NO 44 for -2 yards (A.Donald).,1st & 10 at NO 46
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,5,NO,1,6,0,43 Yard Pass,"(2:07) (Shotgun) D.Brees pass deep right to T.Ginn to LAR 13 for 43 yards (L.Joyner). Pass 42, YAC 1",2nd & 12 at NO 44
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,5,NO,1,7,0,Pass Incomplete,(1:58) (Shotgun) D.Brees pass incomplete short left to M.Thomas.,1st & 10 at LAR 13
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,5,NO,1,8,0,Run for No Gain,(1:55) A.Kamara right end to LAR 13 for no gain (M.Barron).,2nd & 10 at LAR 13
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,5,NO,1,9,0,Pass Incomplete,(1:49) (Shotgun) D.Brees pass incomplete short right to T.Lewis.,3rd & 10 at LAR 13
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,5,NO,1,10,1,Field Goal,"(1:45) W.Lutz 31 yard field goal is GOOD, Center-Z.Wood, Holder-T.Morstead.",4th & 10 at LAR 13
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,6,LA,1,1,0,Kickoff,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",Kickoff from NO 35
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,6,LA,1,2,0,Pass Incomplete,(1:41) (Shotgun) J.Goff pass incomplete short left to J.Reynolds.,1st & 10 at LAR 25
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,6,LA,1,3,0,19 Yard Pass,"(1:37) (Shotgun) J.Goff pass short right to J.Reynolds to LAR 44 for 19 yards (M.Lattimore). Pass 14, YAC 5",2nd & 10 at LAR 25
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,6,LA,1,4,0,Pass Incomplete,"(1:16) (No Huddle, Shotgun) J.Goff pass incomplete deep right to G.Everett.",1st & 10 at LAR 44
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,6,LA,1,5,0,7 Yard Pass,"(1:12) (Shotgun) J.Goff pass short middle to B.Cooks to NO 49 for 7 yards (D.Davis). Pass 7, YAC 0",2nd & 10 at LAR 44
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,6,LA,1,6,0,16 Yard Pass,"(:53) (Shotgun) J.Goff pass short middle to R.Woods to NO 33 for 16 yards (P.Williams). Pass 8, YAC 8",3rd & 3 at NO 49
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,6,LA,1,7,0,3 Yard Pass,"(:45) (Shotgun) J.Goff pass short middle to T.Gurley to NO 30 for 3 yards (A.Anzalone). Pass -1, YAC 4",1st & 10 at NO 33
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,6,LA,1,8,0,Pass Incomplete,"(:27) (No Huddle, Shotgun) J.Goff pass incomplete short right.",2nd & 7 at NO 30
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,6,LA,1,9,0,Pass Incomplete,(:22) (Shotgun) J.Goff pass incomplete short left to R.Woods.,3rd & 7 at NO 30
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,6,LA,1,10,1,Field Goal,"(:19) G.Zuerlein 48 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",4th & 7 at NO 30
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,7,NO,0,1,0,Kickoff,G.Zuerlein kicks 70 yards from LAR 35 to NO -5. A.Kamara to NO 29 for 34 yards (M.Kiser; B.Hager).,Kickoff from LAR 35
+2018,Conference Championships,SUN,01/20,Rams,Saints,4TH QUARTER,7,NO,0,2,0,-1 Yard Run,(:08) D.Brees kneels to NO 28 for -1 yards.,1st & 10 at NO 29
+2018,Conference Championships,SUN,01/20,Rams,Saints,OVERTIME,1,NO,0,1,0,Kickoff,G.Zuerlein kicks 67 yards from LAR 35 to NO -2. A.Kamara ran ob at NO 26 for 28 yards (B.Hager).,Kickoff from LAR 35
+2018,Conference Championships,SUN,01/20,Rams,Saints,OVERTIME,1,NO,0,2,0,Pass Incomplete,(14:56) (Shotgun) D.Brees pass incomplete short middle to M.Thomas (M.Brockers).,1st & 10 at NO 26
+2018,Conference Championships,SUN,01/20,Rams,Saints,OVERTIME,1,NO,0,3,0,14 Yard Penalty,"(14:53) (Shotgun) D.Brees pass incomplete deep middle to D.Arnold.
+PENALTY on LAR-M.Barron, Defensive Pass Interference, 14 yards, enforced at NO 26 - No Play.",2nd & 10 at NO 26
+2018,Conference Championships,SUN,01/20,Rams,Saints,OVERTIME,1,NO,0,4,0,-6 Yard Run,(14:48) (Shotgun) M.Ingram left guard to NO 34 for -6 yards (A.Donald).,1st & 10 at NO 40
+2018,Conference Championships,SUN,01/20,Rams,Saints,OVERTIME,1,NO,0,5,0,Interception,(14:03) (Shotgun) D.Brees pass deep left intended for T.Smith INTERCEPTED by J.Johnson [D.Fowler] at LAR 46. J.Johnson to LAR 46 for no gain (M.Thomas).,2nd & 16 at NO 34
+2018,Conference Championships,SUN,01/20,Rams,Saints,OVERTIME,2,LA,1,1,0,12 Yard Pass,"(13:55) J.Goff pass short left to T.Higbee to NO 42 for 12 yards (V.Bell) [A.Okafor]. Pass 4, YAC 8",1st & 10 at LAR 46
+2018,Conference Championships,SUN,01/20,Rams,Saints,OVERTIME,2,LA,1,2,0,-3 Yard Run,(13:17) C.Anderson left guard to NO 45 for -3 yards (A.Klein).,1st & 10 at NO 42
+2018,Conference Championships,SUN,01/20,Rams,Saints,OVERTIME,2,LA,1,3,0,6 Yard Pass,"(12:37) J.Goff pass short right to T.Higbee to NO 39 for 6 yards (P.Williams) [V.Bell]. Pass 1, YAC 5",2nd & 13 at NO 45
+2018,Conference Championships,SUN,01/20,Rams,Saints,OVERTIME,2,LA,1,4,0,Pass Incomplete,(11:53) (Shotgun) J.Goff pass incomplete short left to B.Cooks.,3rd & 7 at NO 39
+2018,Conference Championships,SUN,01/20,Rams,Saints,OVERTIME,2,LA,1,5,1,Field Goal,"(11:47) G.Zuerlein 57 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",4th & 7 at NO 39
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,1,NE,1,1,0,Kickoff,H.Butker kicks 70 yards from KC 35 to NE -5. C.Patterson to NE 20 for 25 yards (G.Dieter; B.Niemann).,Kickoff from KC 35
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,1,NE,1,2,0,11 Yard Run,(14:55) S.Michel up the middle to NE 31 for 11 yards (E.Berry).,1st & 10 at NE 20
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,1,NE,1,3,0,1 Yard Run,(14:18) S.Michel up the middle to NE 32 for 1 yard (A.Bailey).,1st & 10 at NE 31
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,1,NE,1,4,0,13 Yard Pass,(13:40) T.Brady pass short middle to R.Gronkowski to NE 45 for 13 yards (D.Sorensen).,2nd & 9 at NE 32
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,1,NE,1,5,0,Run for No Gain,(13:05) S.Michel right guard to NE 45 for no gain (R.Ragland).,1st & 10 at NE 45
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,1,NE,1,6,0,6 Yard Pass,(12:28) T.Brady pass short right to R.Gronkowski to KC 49 for 6 yards (C.Ward).,2nd & 10 at NE 45
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,1,NE,1,7,0,5 Yard Run,(11:53) (Shotgun) J.White right tackle to KC 44 for 5 yards (A.Hitchens; J.Lucas).,3rd & 4 at KC 49
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,1,NE,1,8,0,4 Yard Run,(11:17) S.Michel up the middle to KC 40 for 4 yards (R.Ragland).,1st & 10 at KC 44
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,1,NE,1,9,0,5 Yard Pass,(10:40) T.Brady pass short right to R.Burkhead to KC 35 for 5 yards (A.Hitchens).,2nd & 6 at KC 40
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,1,NE,1,10,0,2 Yard Run,(9:59) (Shotgun) J.White up the middle to KC 33 for 2 yards (A.Hitchens; C.Ward).,3rd & 1 at KC 35
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,1,NE,1,11,0,3 Yard Run,(9:21) R.Burkhead left guard to KC 30 for 3 yards (A.Hitchens; R.Ragland).,1st & 10 at KC 33
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,1,NE,1,12,0,Pass Incomplete,(8:46) (Shotgun) T.Brady pass incomplete short left to J.White.,2nd & 7 at KC 30
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,1,NE,1,13,0,14 Yard Pass,(8:43) (Shotgun) T.Brady pass short middle to J.Edelman to KC 16 for 14 yards (D.Sorensen).,3rd & 7 at KC 30
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,1,NE,1,14,0,11 Yard Run,(7:59) S.Michel right guard to KC 5 for 11 yards (D.Sorensen).,1st & 10 at KC 16
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,1,NE,1,15,0,4 Yard Run,(7:25) S.Michel right tackle to KC 1 for 4 yards (C.Ward). KC-X.Williams was injured during the play.,1st & 5 at KC 5
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,1,NE,1,16,0,Touchdown Patriots,"(6:58) S.Michel left guard for 1 yard, TOUCHDOWN.",2nd & 1 at KC 1
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,1,NE,1,17,1,Extra Point Good,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",XP attempt from KC 15
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,2,KC,0,1,0,Kickoff,S.Gostkowski kicks 68 yards from NE 35 to KC -3. Tr. Smith to KC 16 for 19 yards (K.Crossen).,Kickoff from NE 35
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,2,KC,0,2,0,5 Yard Run,(6:50) (Shotgun) Dam. Williams right tackle to KC 21 for 5 yards (K.Van Noy).,1st & 10 at KC 16
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,2,KC,0,3,0,-2 Yard Run,(6:17) (Shotgun) Dam. Williams up the middle to KC 19 for -2 yards (E.Roberts).,2nd & 5 at KC 21
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,2,KC,0,4,0,5 Yard Penalty,"(5:39) (Shotgun) P.Mahomes pass incomplete short middle to S.Watkins.
+PENALTY on NE-J.Jones, Defensive Holding, 5 yards, enforced at KC 19 - No Play.",3rd & 7 at KC 19
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,2,KC,0,5,0,Pass Incomplete,(5:34) (Shotgun) P.Mahomes pass incomplete deep right to S.Watkins.,1st & 10 at KC 24
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,2,KC,0,6,0,Pass Incomplete,(5:28) (Shotgun) P.Mahomes pass incomplete short left to S.Watkins.,2nd & 10 at KC 24
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,2,KC,0,7,0,-14 Yard Sack,(5:25) (Shotgun) P.Mahomes sacked at KC 10 for -14 yards (K.Van Noy).,3rd & 10 at KC 24
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,1ST QUARTER,2,KC,0,8,0,Punt,"(4:43) D.Colquitt punts 45 yards to NE 45, Center-J.Winchester. J.Edelman ran ob at KC 44 for 11 yards.",4th & 24 at KC 10
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,1,NE,0,1,0,Pass Incomplete,(4:33) T.Brady pass incomplete short right to J.Edelman.,1st & 10 at KC 44
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,1,NE,0,2,0,6 Yard Pass,(4:31) T.Brady pass short left to R.Burkhead pushed ob at KC 38 for 6 yards (A.Hitchens).,2nd & 10 at KC 44
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,1,NE,0,3,0,4 Yard Run,(3:50) (Shotgun) J.White right tackle to KC 34 for 4 yards (E.Murray).,3rd & 4 at KC 38
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,1,NE,0,4,0,1 Yard Run,(3:05) R.Burkhead up the middle to KC 33 for 1 yard (X.Williams; A.Bailey).,1st & 10 at KC 34
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,1,NE,0,5,0,15 Yard Pass,(2:25) (Shotgun) T.Brady pass short middle to C.Patterson to KC 18 for 15 yards (D.Sorensen; C.Ward).,2nd & 9 at KC 33
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,1,NE,0,6,0,4 Yard Run,(1:52) S.Michel up the middle to KC 14 for 4 yards (D.Sorensen).,1st & 10 at KC 18
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,1,NE,0,7,0,4 Yard Run,(1:14) S.Michel right guard to KC 10 for 4 yards (E.Berry; D.Nnadi).,2nd & 6 at KC 14
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,1,NE,0,8,0,5 Yard Pass,(:32) (Shotgun) T.Brady pass short right to J.Edelman to KC 5 for 5 yards (C.Ward).,3rd & 2 at KC 10
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,1,NE,0,9,0,4 Yard Run,(15:00) S.Michel left guard to KC 1 for 4 yards (R.Ragland).,1st & 5 at KC 5
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,1,NE,0,10,0,Run for No Gain,(14:22) S.Michel left guard to KC 1 for no gain (D.Nnadi; R.Ragland).,2nd & 1 at KC 1
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,1,NE,0,11,0,Interception,(13:45) T.Brady pass short middle intended for R.Gronkowski INTERCEPTED by R.Ragland at KC -5. Touchback.,3rd & 1 at KC 1
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,2,KC,0,1,0,Pass Incomplete,(13:37) (Shotgun) P.Mahomes pass incomplete short right to T.Kelce.,1st & 10 at KC 20
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,2,KC,0,2,0,9 Yard Pass,(13:31) (Shotgun) P.Mahomes pass short right to T.Kelce to KC 29 for 9 yards (J.Jones).,2nd & 10 at KC 20
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,2,KC,0,3,0,Run for No Gain,(12:54) Dam. Williams up the middle to KC 29 for no gain (M.Brown; K.Van Noy).,3rd & 1 at KC 29
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,2,KC,0,4,0,Punt,"(12:08) D.Colquitt punts 59 yards to NE 12, Center-J.Winchester. J.Edelman pushed ob at NE 26 for 14 yards (E.Murray).",4th & 1 at KC 29
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,3,NE,0,1,0,3 Yard Run,(11:57) S.Michel up the middle to NE 29 for 3 yards (X.Williams; D.Nnadi).,1st & 10 at NE 26
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,3,NE,0,2,0,Pass Incomplete,(11:21) T.Brady pass incomplete short left to R.Gronkowski.,2nd & 7 at NE 29
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,3,NE,0,3,0,9 Yard Pass,(11:15) (Shotgun) T.Brady pass short left to J.White to NE 38 for 9 yards (E.Murray).,3rd & 7 at NE 29
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,3,NE,0,4,0,9 Yard Pass,(10:32) T.Brady pass short middle to R.Gronkowski to NE 47 for 9 yards (K.Fuller).,1st & 10 at NE 38
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,3,NE,0,5,0,2 Yard Run,(9:49) S.Michel up the middle to NE 49 for 2 yards (X.Williams).,2nd & 1 at NE 47
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,3,NE,0,6,0,Pass Incomplete,(9:11) T.Brady pass incomplete short middle to J.White.,1st & 10 at NE 49
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,3,NE,0,7,0,9 Yard Run,(9:07) S.Michel up the middle to KC 42 for 9 yards (R.Ragland; C.Ward).,2nd & 10 at NE 49
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,3,NE,0,8,0,Run for No Gain,(8:34) S.Michel left tackle to KC 42 for no gain (J.Hamilton; A.Hitchens).,3rd & 1 at KC 42
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,3,NE,0,9,0,Punt,"(7:39) R.Allen punts 32 yards to KC 15, Center-J.Cardona, fair catch by T.Hill.",4th & 6 at KC 47
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,4,KC,0,1,0,6 Yard Run,(7:32) (Shotgun) Dam. Williams right tackle to KC 21 for 6 yards (L.Guy).,1st & 10 at KC 15
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,4,KC,0,2,0,2 Yard Pass,(6:55) (Shotgun) P.Mahomes pass short middle to T.Kelce to KC 23 for 2 yards (K.Van Noy).,2nd & 4 at KC 21
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,4,KC,0,3,0,12 Yard Pass,(6:12) (Shotgun) P.Mahomes pass short left to S.Watkins to KC 35 for 12 yards (D.McCourty).,3rd & 2 at KC 23
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,4,KC,0,4,0,42 Yard Pass,(5:29) (Shotgun) P.Mahomes pass deep right to T.Hill to NE 23 for 42 yards (K.Crossen).,1st & 10 at KC 35
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,4,KC,0,5,0,Pass Incomplete,(4:42) (Shotgun) P.Mahomes pass incomplete deep right to Dam. Williams.,1st & 10 at NE 23
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,4,KC,0,6,0,1 Yard Run,(4:37) (Shotgun) Dam. Williams right tackle to NE 22 for 1 yard (P.Chung; L.Guy).,2nd & 10 at NE 23
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,4,KC,0,7,0,-14 Yard Sack,(3:57) (Shotgun) P.Mahomes sacked at NE 36 for -14 yards (T.Flowers).,3rd & 9 at NE 22
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,4,KC,0,8,0,Punt,"(3:14) D.Colquitt punts 26 yards to NE 10, Center-J.Winchester, fair catch by J.Edelman.",4th & 23 at NE 36
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,5,NE,1,1,0,2 Yard Run,(3:08) S.Michel up the middle to NE 12 for 2 yards (A.Hitchens).,1st & 10 at NE 10
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,5,NE,1,2,0,9 Yard Run,(2:32) S.Michel left guard to NE 21 for 9 yards (E.Berry).,2nd & 8 at NE 12
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,5,NE,1,3,0,1 Yard Run,(2:00) S.Michel left end to NE 22 for 1 yard (E.Berry).,1st & 10 at NE 21
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,5,NE,1,4,0,5 Yard Run,(1:19) S.Michel up the middle to NE 27 for 5 yards (X.Williams; D.Sorensen).,2nd & 9 at NE 22
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,5,NE,1,5,0,5 Yard Pass,(1:13) (Shotgun) T.Brady pass short right to J.White to NE 32 for 5 yards (D.Sorensen).,3rd & 4 at NE 27
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,5,NE,1,6,0,30 Yard Pass,"(:50) (No Huddle, Shotgun) T.Brady pass short right to J.White to KC 38 for 30 yards (K.Fuller).",1st & 10 at NE 32
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,5,NE,1,7,0,9 Yard Run,(:41) (Shotgun) J.White left tackle to KC 29 for 9 yards (A.Hitchens).,1st & 10 at KC 38
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,5,NE,1,8,0,Touchdown Patriots,"(:33) (Shotgun) T.Brady pass deep left to P.Dorsett for 29 yards, TOUCHDOWN.",2nd & 1 at KC 29
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,5,NE,1,9,1,Extra Point Good,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",XP attempt from KC 15
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,6,KC,0,1,0,Kickoff,S.Gostkowski kicks 40 yards from NE 35 to KC 25. D.Harris ran ob at KC 42 for 17 yards.,Kickoff from NE 35
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,2ND QUARTER,6,KC,0,2,0,-15 Yard Sack,"(:21) (Shotgun) P.Mahomes sacked at KC 32 for -10 yards (K.Van Noy). FUMBLES (K.Van Noy), and recovers at KC 27. P.Mahomes to KC 27 for no gain (D.Hightower).",1st & 10 at KC 42
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,1,KC,1,1,0,Kickoff,S.Gostkowski kicks 64 yards from NE 35 to KC 1. Tr. Smith to KC 26 for 25 yards (N.Ebner).,Kickoff from NE 35
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,1,KC,1,2,0,5 Yard Pass,(14:55) (Shotgun) P.Mahomes pass short left to Dam. Williams pushed ob at KC 31 for 5 yards (K.Van Noy).,1st & 10 at KC 26
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,1,KC,1,3,0,3 Yard Run,(14:27) Dam. Williams up the middle to KC 34 for 3 yards (T.Flowers).,2nd & 5 at KC 31
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,1,KC,1,4,0,54 Yard Pass,(13:50) (Shotgun) P.Mahomes pass deep middle to S.Watkins to NE 12 for 54 yards (S.Gilmore).,3rd & 2 at KC 34
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,1,KC,1,5,0,Touchdown Chiefs,"(13:00) (Shotgun) P.Mahomes pass short middle to T.Kelce for 12 yards, TOUCHDOWN.",1st & 10 at NE 12
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,1,KC,1,6,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",XP attempt from NE 15
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,2,NE,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,2,NE,0,2,0,6 Yard Pass,(12:56) T.Brady pass short right to R.Burkhead pushed ob at NE 31 for 6 yards (R.Ragland).,1st & 10 at NE 25
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,2,NE,0,3,0,3 Yard Pass,(12:23) T.Brady pass short right to J.Edelman pushed ob at NE 34 for 3 yards (K.Fuller).,2nd & 4 at NE 31
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,2,NE,0,4,0,1 Yard Run,(11:57) R.Burkhead up the middle to NE 35 for 1 yard (R.Ragland).,3rd & 1 at NE 34
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,2,NE,0,5,0,Pass Incomplete,(11:17) T.Brady pass incomplete short middle to R.Gronkowski.,1st & 10 at NE 35
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,2,NE,0,6,0,4 Yard Run,(11:13) S.Michel right end to NE 39 for 4 yards (J.Houston).,2nd & 10 at NE 35
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,2,NE,0,7,0,Pass Incomplete,(10:33) (Shotgun) T.Brady pass incomplete short left to R.Gronkowski (C.Jones).,3rd & 6 at NE 39
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,2,NE,0,8,0,Punt,"(10:30) R.Allen punts 43 yards to KC 18, Center-J.Cardona. T.Hill to KC 7 for -11 yards (R.Humber).
+PENALTY on KC-F.Zombo, Illegal Block Above the Waist, 3 yards, enforced at KC 7.",4th & 6 at NE 39
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,3,KC,0,1,0,2 Yard Pass,(10:19) (Shotgun) P.Mahomes pass short left to D.Harris pushed ob at KC 6 for 2 yards (K.Van Noy).,1st & 10 at KC 4
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,3,KC,0,2,0,10 Yard Run,(9:46) (Shotgun) Dam. Williams up the middle to KC 16 for 10 yards (K.Van Noy).,2nd & 8 at KC 6
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,3,KC,0,3,0,-5 Yard Penalty,"(9:06) (Shotgun) PENALTY on KC-C.Erving, False Start, 5 yards, enforced at KC 16 - No Play.",1st & 10 at KC 16
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,3,KC,0,4,0,Pass Incomplete,(8:43) (Shotgun) P.Mahomes pass incomplete short right to T.Kelce.,1st & 15 at KC 11
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,3,KC,0,5,0,Sack,(8:40) (Shotgun) P.Mahomes sacked at KC 8 for -3 yards (sack split by J.Simon and L.Guy).,2nd & 15 at KC 11
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,3,KC,0,6,0,Pass Incomplete,(7:53) (Shotgun) P.Mahomes pass incomplete deep middle to C.Conley (J.McCourty) [T.Flowers].,3rd & 18 at KC 8
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,3,KC,0,7,0,Punt,"(7:48) D.Colquitt punts 42 yards to 50, Center-J.Winchester. J.Edelman to KC 37 for 13 yards (C.West).",4th & 18 at KC 8
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,4,NE,1,1,0,2 Yard Run,(7:38) (Shotgun) S.Michel up the middle to KC 35 for 2 yards (B.Speaks; X.Williams).,1st & 10 at KC 37
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,4,NE,1,2,0,11 Yard Pass,(7:04) T.Brady pass short left to C.Hogan pushed ob at KC 24 for 11 yards (S.Nelson).,2nd & 8 at KC 35
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,4,NE,1,3,0,1 Yard Run,"(6:28) S.Michel up the middle to KC 23 for 1 yard (X.Williams, A.Hitchens).",1st & 10 at KC 24
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,4,NE,1,4,0,-10 Yard Penalty,"(5:45) (Shotgun) T.Brady pass short right to J.White to KC 18 for 5 yards (J.Lucas).
+PENALTY on NE-P.Dorsett, Offensive Pass Interference, 10 yards, enforced at KC 23 - No Play.",2nd & 9 at KC 23
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,4,NE,1,5,0,2 Yard Pass,(5:20) T.Brady pass short left to C.Hogan to KC 31 for 2 yards (K.Fuller).,2nd & 19 at KC 33
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,4,NE,1,6,0,2 Yard Run,(4:43) (Shotgun) J.White up the middle to KC 29 for 2 yards (J.Houston).,3rd & 17 at KC 31
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,3RD QUARTER,4,NE,1,7,1,Field Goal,"(4:07) S.Gostkowski 47 yard field goal is GOOD, Center-J.Cardona, Holder-R.Allen.",4th & 15 at KC 29
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,1,KC,1,1,0,Kickoff,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",Kickoff from NE 35
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,1,KC,1,2,0,Pass Incomplete,(4:02) P.Mahomes pass incomplete short right.,1st & 10 at KC 25
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,1,KC,1,3,0,9 Yard Run,(3:56) (Shotgun) P.Mahomes scrambles up the middle to KC 34 for 9 yards (P.Chung).,2nd & 10 at KC 25
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,1,KC,1,4,0,2 Yard Run,(3:13) P.Mahomes up the middle to KC 36 for 2 yards (M.Brown).,3rd & 1 at KC 34
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,1,KC,1,5,0,4 Yard Pass,(2:43) (Shotgun) P.Mahomes pass short middle to Dam. Williams to KC 40 for 4 yards (E.Roberts).,1st & 10 at KC 36
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,1,KC,1,6,0,3 Yard Run,"(2:05) (Shotgun) Dam. Williams up the middle to KC 43 for 3 yards (E.Roberts, D.Hightower).",2nd & 6 at KC 40
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,1,KC,1,7,0,10 Yard Pass,(1:22) (Shotgun) P.Mahomes pass short left to S.Watkins to NE 47 for 10 yards (J.Jones) [A.Clayborn]. NE-J.Jones was injured during the play.,3rd & 3 at KC 43
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,1,KC,1,8,0,33 Yard Pass,(:44) (Shotgun) P.Mahomes pass short right to Dam. Williams to NE 14 for 33 yards (D.McCourty).,1st & 10 at NE 47
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,1,KC,1,9,0,Pass Incomplete,(:04) (Shotgun) P.Mahomes pass incomplete short right to Dam. Williams.,1st & 10 at NE 14
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,1,KC,1,10,0,13 Yard Penalty,"(15:00) (Shotgun) P.Mahomes pass incomplete short left to T.Kelce.
+PENALTY on NE-J.Jackson, Defensive Pass Interference, 13 yards, enforced at NE 14 - No Play.",2nd & 10 at NE 14
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,1,KC,1,11,0,Touchdown Chiefs,"(14:56) P.Mahomes pass short right to Dam. Williams for 1 yard, TOUCHDOWN.",1st & 1 at NE 1
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,1,KC,1,12,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",XP attempt from NE 15
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,2,NE,0,1,0,Kickoff,H.Butker kicks 58 yards from KC 35 to NE 7. C.Patterson to NE 24 for 17 yards (B.Niemann).,Kickoff from KC 35
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,2,NE,0,2,0,19 Yard Pass,(14:43) T.Brady pass short middle to J.Edelman to NE 43 for 19 yards (D.Sorensen).,1st & 10 at NE 24
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,2,NE,0,3,0,1 Yard Run,(14:03) S.Michel up the middle to NE 44 for 1 yard (A.Hitchens).,1st & 10 at NE 43
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,2,NE,0,4,0,10 Yard Run,(13:27) (Shotgun) S.Michel up the middle to KC 46 for 10 yards (D.Sorensen; A.Hitchens).,2nd & 9 at NE 44
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,2,NE,0,5,0,3 Yard Run,(12:49) S.Michel right tackle to KC 43 for 3 yards (X.Williams).,1st & 10 at KC 46
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,2,NE,0,6,0,9 Yard Pass,(12:11) T.Brady pass short left to J.Develin to KC 34 for 9 yards (R.Ragland).,2nd & 7 at KC 43
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,2,NE,0,7,0,3 Yard Run,(11:28) S.Michel up the middle to KC 31 for 3 yards (A.Bailey; D.Nnadi).,1st & 10 at KC 34
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,2,NE,0,8,0,5 Yard Pass,(10:45) (Shotgun) T.Brady pass short right to J.White to KC 26 for 5 yards (K.Fuller; A.Hitchens).,2nd & 7 at KC 31
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,2,NE,0,9,0,1 Yard Run,(10:04) (Shotgun) J.White right tackle to KC 25 for 1 yard (A.Hitchens).,3rd & 2 at KC 26
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,2,NE,0,10,0,Turnover on Downs,(9:38) R.Burkhead up the middle to KC 25 for no gain (D.Sorensen).,4th & 1 at KC 25
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,3,KC,0,1,0,2 Yard Run,(9:33) (Shotgun) Dam. Williams up the middle to KC 27 for 2 yards (J.Simon; K.Van Noy).,1st & 10 at KC 25
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,3,KC,0,2,0,Pass Incomplete,(8:56) (Shotgun) P.Mahomes pass incomplete deep right to Dam. Williams.,2nd & 8 at KC 27
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,3,KC,0,3,0,Pass Incomplete,(8:51) (Shotgun) P.Mahomes pass incomplete deep right to T.Hill [D.McCourty].,3rd & 8 at KC 27
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,3,KC,0,4,0,Punt,"(8:47) D.Colquitt punts 42 yards to NE 31, Center-J.Winchester. J.Edelman MUFFS catch, touched at NE 31, RECOVERED by KC-G.Dieter at NE 26.
+The Replay Official reviewed the kick touched ruling, and the play was REVERSED.
+D.Colquitt punts 45 yards to NE 28, Center-J.Winchester, downed by KC-G.Dieter.",4th & 8 at KC 27
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,4,NE,0,1,0,2 Yard Run,(8:39) S.Michel up the middle to NE 30 for 2 yards (K.Fuller; D.Nnadi).,1st & 10 at NE 28
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,4,NE,0,2,0,Interception,(8:06) T.Brady pass deep left intended for J.Edelman INTERCEPTED by D.Sorensen at NE 47. D.Sorensen to NE 23 for 24 yards (S.Michel).,2nd & 8 at NE 30
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,5,KC,1,1,0,Pass Incomplete,"(7:55) (Shotgun) P.Mahomes pass short middle to S.Watkins to NE 16 for 7 yards (E.Roberts).
+New England challenged the pass completion ruling, and the play was REVERSED.
+(Shotgun) P.Mahomes pass incomplete short middle to S.Watkins.",1st & 10 at NE 23
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,5,KC,1,2,0,Touchdown Chiefs,"(7:52) (Shotgun) P.Mahomes pass short left to Dam. Williams for 23 yards, TOUCHDOWN.",2nd & 10 at NE 23
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,5,KC,1,3,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",XP attempt from NE 15
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,6,NE,1,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,6,NE,1,2,0,3 Yard Pass,(7:45) (Shotgun) T.Brady pass short right to C.Patterson pushed ob at NE 28 for 3 yards (A.Hitchens).,1st & 10 at NE 25
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,6,NE,1,3,0,15 Yard Penalty,"(7:10) (Shotgun) T.Brady pass incomplete short right to J.Edelman.
+PENALTY on KC-C.Jones, Roughing the Passer, 15 yards, enforced at NE 28 - No Play.",2nd & 7 at NE 28
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,6,NE,1,4,0,2 Yard Run,(7:05) S.Michel up the middle to NE 45 for 2 yards (R.Ragland; A.Bailey).,1st & 10 at NE 43
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,6,NE,1,5,0,Pass Incomplete,(6:29) (Shotgun) T.Brady pass incomplete deep right to R.Gronkowski.,2nd & 8 at NE 45
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,6,NE,1,6,0,11 Yard Pass,"(6:25) (Shotgun) T.Brady pass short right to C.Hogan to KC 44 for 11 yards (S.Nelson).
+Kansas City challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",3rd & 8 at NE 45
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,6,NE,1,7,0,14 Yard Run,(6:05) R.Burkhead left tackle to KC 30 for 14 yards (D.Sorensen).,1st & 10 at KC 44
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,6,NE,1,8,0,11 Yard Pass,(5:28) T.Brady pass short left to R.Gronkowski pushed ob at KC 19 for 11 yards (D.Sorensen).,1st & 10 at KC 30
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,6,NE,1,9,0,3 Yard Run,(4:53) R.Burkhead left tackle to KC 16 for 3 yards (R.Ragland; A.Bailey).,1st & 10 at KC 19
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,6,NE,1,10,0,6 Yard Pass,(4:10) T.Brady pass short left to R.Burkhead pushed ob at KC 10 for 6 yards (R.Ragland).,2nd & 7 at KC 16
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,6,NE,1,11,0,Run for No Gain,(4:05) R.Burkhead left tackle to KC 10 for no gain (B.Speaks; D.Nnadi).,3rd & 1 at KC 10
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,6,NE,1,12,0,Touchdown Patriots,"(3:35) S.Michel up the middle for 10 yards, TOUCHDOWN.",4th & 1 at KC 10
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,6,NE,1,13,1,Extra Point Good,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",XP attempt from KC 15
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,7,KC,1,1,0,Kickoff,S.Gostkowski kicks 62 yards from NE 35 to KC 3. Tr. Smith to KC 32 for 29 yards (O.Melifonwu).,Kickoff from NE 35
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,7,KC,1,2,0,Pass Incomplete,(3:26) (Shotgun) P.Mahomes pass incomplete deep right to S.Watkins.,1st & 10 at KC 32
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,7,KC,1,3,0,5 Yard Penalty,"(3:21) (Shotgun) P.Mahomes pass short middle to T.Kelce to KC 33 for 1 yard (S.Gilmore). FUMBLES (S.Gilmore), RECOVERED by NE-D.Hightower at KC 28. D.Hightower pushed ob at KC 20 for 8 yards (A.Wylie).
+PENALTY on NE-J.Jackson, Defensive Holding, 5 yards, enforced at KC 32 - No Play.",2nd & 10 at KC 32
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,7,KC,1,4,0,Pass Incomplete,(3:11) (Shotgun) P.Mahomes pass incomplete short left to T.Kelce.,1st & 10 at KC 37
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,7,KC,1,5,0,23 Yard Penalty,"(3:07) (Shotgun) P.Mahomes pass incomplete deep right to S.Watkins [K.Van Noy].
+PENALTY on NE-J.Jackson, Defensive Pass Interference, 23 yards, enforced at KC 37 - No Play.
+Penalty on NE-K.Van Noy, Roughing the Passer, declined.",2nd & 10 at KC 37
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,7,KC,1,6,0,Pass Incomplete,(3:02) (Shotgun) P.Mahomes pass incomplete deep left to T.Hill (J.Jones) [A.Butler].,1st & 10 at NE 40
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,7,KC,1,7,0,38 Yard Pass,(2:54) (Shotgun) P.Mahomes pass short left to S.Watkins to NE 2 for 38 yards (D.McCourty).,2nd & 10 at NE 40
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,7,KC,1,8,0,Touchdown Chiefs,"(2:06) (Shotgun) Dam. Williams up the middle for 2 yards, TOUCHDOWN.",1st & 2 at NE 2
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,7,KC,1,9,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",XP attempt from NE 15
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,8,NE,1,1,0,Kickoff,H.Butker kicks 68 yards from KC 35 to NE -3. C.Patterson pushed ob at NE 35 for 38 yards (Dar.Williams).,Kickoff from KC 35
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,8,NE,1,2,0,20 Yard Pass,(1:57) (Shotgun) T.Brady pass deep middle to J.Edelman to KC 45 for 20 yards (J.Lucas; K.Fuller).,1st & 10 at NE 35
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,8,NE,1,3,0,11 Yard Pass,(1:30) (Shotgun) T.Brady pass short left to C.Hogan to KC 34 for 11 yards (S.Nelson).,1st & 10 at KC 45
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,8,NE,1,4,0,Pass Incomplete,"(1:08) (No Huddle, Shotgun) T.Brady pass incomplete deep middle to P.Dorsett.",1st & 10 at KC 34
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,8,NE,1,5,0,Pass Incomplete,"(1:05) (Shotgun) T.Brady pass short left to C.Hogan to KC 21 for 13 yards (S.Nelson).
+The Replay Official reviewed the pass completion ruling, and the play was REVERSED.
+(Shotgun) T.Brady pass incomplete short left to C.Hogan.",2nd & 10 at KC 34
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,8,NE,1,6,0,5 Yard Penalty,"(1:01) (Shotgun) T.Brady pass short right intended for R.Gronkowski INTERCEPTED by C.Ward at KC 30. C.Ward to KC 36 for 6 yards (R.Gronkowski). FUMBLES (R.Gronkowski), ball out of bounds at KC 40.
+PENALTY on KC-D.Ford, Defensive Offside, 5 yards, enforced at KC 34 - No Play.",3rd & 10 at KC 34
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,8,NE,1,7,0,25 Yard Pass,(:54) (Shotgun) T.Brady pass deep left to R.Gronkowski to KC 4 for 25 yards (E.Berry).,3rd & 5 at KC 29
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,8,NE,1,8,0,Touchdown Patriots,"(:42) R.Burkhead left tackle for 4 yards, TOUCHDOWN.",1st & 4 at KC 4
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,8,NE,1,9,1,Extra Point Good,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",XP attempt from KC 15
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,9,KC,1,1,0,Kickoff,S.Gostkowski kicks 60 yards from NE 35 to KC 5. Tr. Smith to KC 31 for 26 yards (B.King).,Kickoff from NE 35
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,9,KC,1,2,0,21 Yard Pass,(:32) (Shotgun) P.Mahomes pass deep right to S.Ware to NE 48 for 21 yards (K.Van Noy).,1st & 10 at KC 31
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,9,KC,1,3,0,27 Yard Pass,"(:23) (Shotgun) P.Mahomes pass deep left to D.Robinson to NE 21 for 27 yards (J.Jackson) [D.Hightower].
+Penalty on NE-T.Flowers, Defensive Offside, declined.",1st & 10 at NE 48
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,9,KC,1,4,0,Pass Incomplete,(:16) (Shotgun) P.Mahomes pass incomplete deep right.,1st & 10 at NE 21
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,9,KC,1,5,1,Field Goal,"(:11) H.Butker 39 yard field goal is GOOD, Center-J.Winchester, Holder-D.Colquitt.",2nd & 10 at NE 21
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,10,NE,0,1,0,Kickoff,H.Butker kicks 48 yards from KC 35 to NE 17. J.Develin to NE 19 for 2 yards.,Kickoff from KC 35
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,4TH QUARTER,10,NE,0,2,0,-1 Yard Run,(:06) T.Brady kneels to NE 18 for -1 yards.,1st & 10 at NE 19
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,OVERTIME,1,NE,1,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,OVERTIME,1,NE,1,2,0,10 Yard Pass,(15:00) T.Brady pass short left to C.Hogan pushed ob at NE 35 for 10 yards (K.Fuller) [D.Nnadi].,1st & 10 at NE 25
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,OVERTIME,1,NE,1,3,0,Run for No Gain,(14:24) R.Burkhead up the middle to NE 35 for no gain (K.Fuller).,1st & 10 at NE 35
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,OVERTIME,1,NE,1,4,0,Pass Incomplete,(13:45) T.Brady pass incomplete short right to J.Edelman.,2nd & 10 at NE 35
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,OVERTIME,1,NE,1,5,0,20 Yard Pass,(13:40) (Shotgun) T.Brady pass short middle to J.Edelman to KC 45 for 20 yards (D.Sorensen).,3rd & 10 at NE 35
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,OVERTIME,1,NE,1,6,0,Pass Incomplete,(12:59) T.Brady pass incomplete deep left to P.Dorsett.,1st & 10 at KC 45
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,OVERTIME,1,NE,1,7,0,Pass Incomplete,(12:54) (Shotgun) T.Brady pass incomplete short left to C.Patterson.,2nd & 10 at KC 45
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,OVERTIME,1,NE,1,8,0,15 Yard Pass,(12:51) (Shotgun) T.Brady pass short middle to J.Edelman to KC 30 for 15 yards (C.Ward).,3rd & 10 at KC 45
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,OVERTIME,1,NE,1,9,0,Pass Incomplete,(12:10) T.Brady pass incomplete deep right to C.Hogan.,1st & 10 at KC 30
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,OVERTIME,1,NE,1,10,0,Pass Incomplete,(12:03) (Shotgun) T.Brady pass incomplete deep middle to C.Patterson (S.Nelson).,2nd & 10 at KC 30
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,OVERTIME,1,NE,1,11,0,15 Yard Pass,(11:57) (Shotgun) T.Brady pass short left to R.Gronkowski to KC 15 for 15 yards (E.Berry).,3rd & 10 at KC 30
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,OVERTIME,1,NE,1,12,0,10 Yard Run,(11:18) R.Burkhead up the middle to KC 5 for 10 yards (K.Fuller).,1st & 10 at KC 15
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,OVERTIME,1,NE,1,13,0,3 Yard Run,(10:48) R.Burkhead up the middle to KC 2 for 3 yards (D.Sorensen).,1st & 5 at KC 5
+2018,Conference Championships,SUN,01/20,Patriots,Chiefs,OVERTIME,1,NE,1,14,1,Touchdown Patriots,"(10:10) R.Burkhead up the middle for 2 yards, TOUCHDOWN.",2nd & 2 at KC 2

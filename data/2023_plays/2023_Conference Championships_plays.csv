@@ -1,0 +1,346 @@
+Season,Week,Day,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayDescription,PlayStart
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,1,BAL,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,1,BAL,0,2,0,1 Yard Run,(15:00) J.Hill right end to BAL 26 for 1 yard (L.Chenal).,1st & 10 at BAL 25
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,1,BAL,0,3,0,2 Yard Run,(14:19) (Shotgun) L.Jackson scrambles right end to BAL 28 for 2 yards (D.Tranquill).,2nd & 9 at BAL 26
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,1,BAL,0,4,0,Pass Incomplete,(13:40) (Shotgun) L.Jackson pass incomplete short middle to N.Agholor.,3rd & 7 at BAL 28
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,1,BAL,0,5,0,Punt,"(13:36) J.Stout punts 66 yards to KC 6, Center-T.Ott. R.James pushed ob at KC 14 for 8 yards (D.Chisena).",4th & 7 at BAL 28
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,2,KC,1,1,0,4 Yard Pass,(13:26) (Shotgun) P.Mahomes pass short right to T.Kelce to KC 18 for 4 yards (K.Hamilton).,1st & 10 at KC 14
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,2,KC,1,2,0,10 Yard Pass,(12:53) (Shotgun) P.Mahomes pass short left to I.Pacheco to KC 28 for 10 yards (B.Stephens; R.Smith).,2nd & 6 at KC 18
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,2,KC,1,3,0,11 Yard Pass,(12:21) (Shotgun) P.Mahomes pass short right to R.Rice to KC 39 for 11 yards (K.Hamilton).,1st & 10 at KC 28
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,2,KC,1,4,0,12 Yard Run,(11:51) I.Pacheco left tackle to BAL 49 for 12 yards (R.Darby; K.Hamilton).,1st & 10 at KC 39
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,2,KC,1,5,0,1 Yard Run,(11:09) (Shotgun) C.Edwards-Helaire left tackle to BAL 48 for 1 yard (P.Queen; J.Madubuike).,1st & 10 at BAL 49
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,2,KC,1,6,0,7 Yard Run,(10:33) (Shotgun) I.Pacheco left tackle to BAL 41 for 7 yards (P.Queen).,2nd & 9 at BAL 48
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,2,KC,1,7,0,Run for No Gain,(9:52) (Shotgun) I.Pacheco up the middle to BAL 41 for no gain (R.Smith; B.Washington).,3rd & 2 at BAL 41
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,2,KC,1,8,0,13 Yard Pass,(9:11) (Shotgun) P.Mahomes pass short middle to T.Kelce to BAL 28 for 13 yards (B.Stephens).,4th & 2 at BAL 41
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,2,KC,1,9,0,4 Yard Run,"(8:31) (Shotgun) I.Pacheco up the middle to BAL 24 for 4 yards (R.Smith, M.Harrison).",1st & 10 at BAL 28
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,2,KC,1,10,0,5 Yard Penalty,"(7:51) (Shotgun) P.Mahomes pass incomplete deep left to R.James.
+PENALTY on BAL-A.Maulet, Defensive Holding, 5 yards, enforced at BAL 24 - No Play.",2nd & 6 at BAL 24
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,2,KC,1,11,0,Touchdown Chiefs,"(7:46) (Shotgun) P.Mahomes pass deep right to T.Kelce for 19 yards, TOUCHDOWN.",1st & 10 at BAL 19
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,2,KC,1,12,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-T.Townsend.",XP attempt from BAL 15
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,3,BAL,1,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,3,BAL,1,2,0,Pass Incomplete,(7:41) (Shotgun) L.Jackson pass incomplete short right.,1st & 10 at BAL 25
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,3,BAL,1,3,0,9 Yard Pass,(7:33) (Shotgun) L.Jackson pass short middle to M.Andrews to BAL 34 for 9 yards (N.Bolton).,2nd & 10 at BAL 25
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,3,BAL,1,4,0,Run for No Gain,"(7:08) (No Huddle, Shotgun) J.Hill up the middle to BAL 34 for no gain (D.Tranquill).",3rd & 1 at BAL 34
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,3,BAL,1,5,0,21 Yard Run,(6:38) (Shotgun) B.Cleveland reported in as eligible.  L.Jackson right guard to KC 45 for 21 yards (L.Sneed).,4th & 1 at BAL 34
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,3,BAL,1,6,0,15 Yard Run,(5:46) G.Edwards right guard to KC 30 for 15 yards (J.Reid).,1st & 10 at KC 45
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,3,BAL,1,7,0,Touchdown Ravens,"(5:09) (Shotgun) L.Jackson pass deep right to Z.Flowers for 30 yards, TOUCHDOWN.",1st & 10 at KC 30
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,1ST QUARTER,3,BAL,1,8,1,Extra Point Good,"J.Tucker extra point is GOOD, Center-T.Ott, Holder-J.Stout.",XP attempt from KC 15
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,1,KC,1,1,0,Kickoff,"J.Tucker kicks 65 yards from BAL 35 to end zone, Touchback.",Kickoff from BAL 35
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,1,KC,1,2,0,3 Yard Pass,(4:58) P.Mahomes pass short right to I.Pacheco pushed ob at KC 28 for 3 yards (M.Humphrey).,1st & 10 at KC 25
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,1,KC,1,3,0,10 Yard Pass,(4:22) (Shotgun) P.Mahomes pass short middle to R.Rice to KC 38 for 10 yards (R.Smith).,2nd & 7 at KC 28
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,1,KC,1,4,0,-2 Yard Run,(3:44) I.Pacheco right guard to KC 36 for -2 yards (K.Hamilton).,1st & 10 at KC 38
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,1,KC,1,5,0,11 Yard Run,(3:06) (Shotgun) P.Mahomes scrambles right end to KC 47 for 11 yards (R.Smith).,2nd & 12 at KC 36
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,1,KC,1,6,0,6 Yard Pass,(2:23) P.Mahomes pass short left to T.Kelce to BAL 47 for 6 yards (K.Hamilton).,3rd & 1 at KC 47
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,1,KC,1,7,0,5 Yard Run,(1:40) I.Pacheco right guard to BAL 42 for 5 yards (T.Jones; G.Stone).,1st & 10 at BAL 47
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,1,KC,1,8,0,1 Yard Pass,(1:03) (Shotgun) P.Mahomes pass short left to C.Edwards-Helaire to BAL 41 for 1 yard (B.Stephens).,2nd & 5 at BAL 42
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,1,KC,1,9,0,9 Yard Pass,(:18) (Shotgun) P.Mahomes pass short right to R.Rice to BAL 32 for 9 yards (B.Stephens).,3rd & 4 at BAL 41
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,1,KC,1,10,0,5 Yard Pass,(15:00) P.Mahomes pass short right to R.Rice to BAL 27 for 5 yards (R.Smith; J.Madubuike).,1st & 10 at BAL 32
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,1,KC,1,11,0,Pass Incomplete,(14:16) (Shotgun) P.Mahomes pass incomplete short left to R.James.,2nd & 5 at BAL 27
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,1,KC,1,12,0,10 Yard Pass,(14:13) (Shotgun) P.Mahomes pass short middle to T.Kelce to BAL 17 for 10 yards (B.Stephens) [K.Van Noy].,3rd & 5 at BAL 27
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,1,KC,1,13,0,5 Yard Pass,(13:26) (Shotgun) P.Mahomes pass short right to N.Gray to BAL 12 for 5 yards (M.Harrison; R.Smith).,1st & 10 at BAL 17
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,1,KC,1,14,0,2 Yard Run,(12:47) (Shotgun) I.Pacheco up the middle to BAL 10 for 2 yards (T.Jones; B.Urban). BAL-T.Jones was injured during the play.,2nd & 5 at BAL 12
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,1,KC,1,15,0,4 Yard Run,(12:16) (Shotgun) P.Mahomes scrambles left end to BAL 6 for 4 yards (P.Queen).,3rd & 3 at BAL 10
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,1,KC,1,16,0,4 Yard Run,"(11:37) I.Pacheco up the middle to BAL 2 for 4 yards (J.Madubuike, B.Stephens).",1st & 6 at BAL 6
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,1,KC,1,17,0,Touchdown Chiefs,"(10:59) I.Pacheco left guard for 2 yards, TOUCHDOWN.",2nd & 2 at BAL 2
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,1,KC,1,18,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-T.Townsend.",XP attempt from BAL 15
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,2,BAL,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,2,BAL,0,2,0,9 Yard Pass,(10:56) (Shotgun) L.Jackson pass short left to Z.Flowers to BAL 34 for 9 yards (D.Tranquill).,1st & 10 at BAL 25
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,2,BAL,0,3,0,Pass Incomplete,(10:16) (Shotgun) L.Jackson pass incomplete short right to Z.Flowers.,2nd & 1 at BAL 34
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,2,BAL,0,4,0,2 Yard Run,(10:12) (Shotgun) J.Hill right tackle to BAL 36 for 2 yards (J.Reid; G.Karlaftis).,3rd & 1 at BAL 34
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,2,BAL,0,5,0,Fumble,"(9:33) (Shotgun) L.Jackson sacked at BAL 29 for -7 yards (C.Omenihu). FUMBLES (C.Omenihu) [C.Omenihu], RECOVERED by KC-G.Karlaftis at BAL 33.",1st & 10 at BAL 36
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,3,KC,0,1,0,3 Yard Run,(9:26) I.Pacheco left guard to BAL 30 for 3 yards (B.Urban; R.Smith).,1st & 10 at BAL 33
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,3,KC,0,2,0,6 Yard Pass,(8:49) (Shotgun) P.Mahomes pass short right to T.Kelce to BAL 24 for 6 yards (K.Hamilton).,2nd & 7 at BAL 30
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,3,KC,0,3,0,2 Yard Run,(8:10) I.Pacheco up the middle to BAL 22 for 2 yards (T.Jones; R.Smith). BAL-A.Maulet was injured during the play.,3rd & 1 at BAL 24
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,3,KC,0,4,0,1 Yard Run,(7:48) (Shotgun) Direct snap to I.Pacheco.  I.Pacheco right end to BAL 21 for 1 yard (J.Madubuike; O.Oweh).,1st & 10 at BAL 22
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,3,KC,0,5,0,Pass Incomplete,(7:08) (Shotgun) P.Mahomes pass incomplete short right.,2nd & 9 at BAL 21
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,3,KC,0,6,0,8 Yard Pass,(7:01) (Shotgun) P.Mahomes pass short left to T.Kelce to BAL 13 for 8 yards (A.Washington; R.Smith).,3rd & 9 at BAL 21
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,3,KC,0,7,0,Turnover on Downs,(6:23) I.Pacheco up the middle to BAL 13 for no gain (K.Hamilton).,4th & 1 at BAL 13
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,4,BAL,0,1,0,5 Yard Run,(6:18) (Shotgun) L.Jackson left end to BAL 18 for 5 yards (G.Karlaftis).,1st & 10 at BAL 13
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,4,BAL,0,2,0,13 Yard Pass,(5:38) (Shotgun) L.Jackson pass short left to L.Jackson to BAL 31 for 13 yards (D.Tranquill).,2nd & 5 at BAL 18
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,4,BAL,0,3,0,1 Yard Run,(4:53) (Shotgun) Z.Flowers left end to BAL 32 for 1 yard (M.Danna).,1st & 10 at BAL 31
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,4,BAL,0,4,0,Pass Incomplete,(4:09) (Shotgun) L.Jackson pass incomplete short middle to J.Hill (T.McDuffie) [C.Jones].,2nd & 9 at BAL 32
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,4,BAL,0,5,0,Pass Incomplete,(4:03) (Shotgun) L.Jackson pass incomplete short right to Z.Flowers (C.Jones).,3rd & 9 at BAL 32
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,4,BAL,0,6,0,Punt,"(4:00) J.Stout punts 49 yards to KC 19, Center-T.Ott. R.James to KC 29 for 10 yards (D.Chisena; T.Simpson).",4th & 9 at BAL 32
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,5,KC,0,1,0,Pass Incomplete,(3:49) P.Mahomes pass incomplete deep middle to R.Rice.,1st & 10 at KC 29
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,5,KC,0,2,0,Pass for No Gain,(3:42) (Shotgun) P.Mahomes pass short right to R.Rice to KC 29 for no gain (K.Hamilton).,2nd & 10 at KC 29
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,5,KC,0,3,0,Pass Incomplete,(3:01) (Shotgun) P.Mahomes pass incomplete short right [K.Hamilton].,3rd & 10 at KC 29
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,5,KC,0,4,0,Punt,"(2:56) T.Townsend punts 30 yards to BAL 41, Center-J.Winchester, downed by KC-L.Perine.",4th & 10 at KC 29
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,6,BAL,0,1,0,6 Yard Pass,"(2:47) (Shotgun) L.Jackson pass short right to I.Likely to BAL 47 for 6 yards (L.Sneed, N.Bolton).",1st & 10 at BAL 41
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,6,BAL,0,2,0,Pass Incomplete,(2:00) (Shotgun) L.Jackson pass incomplete deep left to N.Agholor.,2nd & 4 at BAL 47
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,6,BAL,0,3,0,Pass Incomplete,(1:56) (Shotgun) L.Jackson pass incomplete short right to J.Hill.,3rd & 4 at BAL 47
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,6,BAL,0,4,0,Punt,"(1:52) J.Stout punts 42 yards to KC 11, Center-T.Ott, fair catch by R.James.",4th & 4 at BAL 47
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,7,KC,1,1,0,16 Yard Run,"(1:46) (Shotgun) I.Pacheco right end to KC 12 for 1 yard (P.Queen, J.Clowney).
+PENALTY on BAL-K.Van Noy, Unnecessary Roughness, 15 yards, enforced at KC 12.",1st & 10 at KC 11
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,7,KC,1,2,0,5 Yard Pass,(1:27) (Shotgun) P.Mahomes pass short right to I.Pacheco to KC 32 for 5 yards (K.Hamilton).,1st & 10 at KC 27
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,7,KC,1,3,0,15 Yard Penalty,"(:56) (Shotgun) P.Mahomes pass incomplete short middle to R.Rice.
+PENALTY on BAL-T.Jones, Roughing the Passer, 15 yards, enforced at KC 32 - No Play.",2nd & 5 at KC 32
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,7,KC,1,4,0,3 Yard Run,(:51) (Shotgun) P.Mahomes scrambles left end pushed ob at 50 for 3 yards (A.Maulet; R.Smith).,1st & 10 at KC 47
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,7,KC,1,5,0,21 Yard Pass,(:43) (Shotgun) P.Mahomes pass deep right to T.Kelce to BAL 29 for 21 yards (R.Darby).,2nd & 7 at 50
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,7,KC,1,6,0,6 Yard Pass,(:36) (Shotgun) P.Mahomes pass short right to R.Rice pushed ob at BAL 23 for 6 yards (P.Queen).,1st & 10 at BAL 29
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,7,KC,1,7,0,Pass Incomplete,(:31) (Shotgun) P.Mahomes pass incomplete deep right to N.Gray [O.Oweh].,2nd & 4 at BAL 23
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,7,KC,1,8,0,-10 Yard Penalty,"(:26) (Shotgun) P.Mahomes scrambles right guard pushed ob at BAL 14 for 9 yards (G.Stone).
+PENALTY on KC-T.Smith, Offensive Holding, 10 yards, enforced at BAL 23 - No Play.",3rd & 4 at BAL 23
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,7,KC,1,9,0,-10 Yard Penalty,"(:20) (Shotgun) P.Mahomes pass short left to R.Rice for 33 yards, TOUCHDOWN NULLIFIED by Penalty.
+PENALTY on KC-T.Smith, Offensive Holding, 10 yards, enforced at BAL 33 - No Play.",3rd & 14 at BAL 33
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,7,KC,1,10,0,9 Yard Pass,(:12) (Shotgun) P.Mahomes pass short left to T.Kelce to BAL 34 for 9 yards (M.Williams) [P.Queen].,3rd & 24 at BAL 43
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,7,KC,1,11,1,Field Goal,"(:08) H.Butker 52 yard field goal is GOOD, Center-J.Winchester, Holder-T.Townsend.",4th & 15 at BAL 34
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,8,BAL,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,2ND QUARTER,8,BAL,0,2,0,-1 Yard Run,(:04) L.Jackson kneels to BAL 24 for -1 yards.,1st & 10 at BAL 25
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,1,KC,0,1,0,Kickoff,"J.Tucker kicks 65 yards from BAL 35 to end zone, Touchback.",Kickoff from BAL 35
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,1,KC,0,2,0,1 Yard Run,"(15:00) (Shotgun) I.Pacheco right tackle to KC 26 for 1 yard (J.Madubuike, K.Van Noy).",1st & 10 at KC 25
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,1,KC,0,3,0,6 Yard Pass,(14:26) (Shotgun) P.Mahomes pass short left to T.Kelce to KC 32 for 6 yards (R.Smith).,2nd & 9 at KC 26
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,1,KC,0,4,0,Pass Incomplete,(13:47) (Shotgun) P.Mahomes pass incomplete short left to Ju.Watson (M.Williams).,3rd & 3 at KC 32
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,1,KC,0,5,0,Punt,"(13:42) T.Townsend punts 46 yards to BAL 22, Center-J.Winchester, out of bounds.",4th & 3 at KC 32
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,2,BAL,0,1,0,1 Yard Run,(13:35) (Shotgun) G.Edwards left end to BAL 23 for 1 yard (J.Reid).,1st & 10 at BAL 22
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,2,BAL,0,2,0,3 Yard Run,(12:52) (Shotgun) Z.Flowers right end to BAL 26 for 3 yards (T.McDuffie).,2nd & 9 at BAL 23
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,2,BAL,0,3,0,Pass Incomplete,"(12:27) (No Huddle, Shotgun) L.Jackson pass incomplete deep left to Z.Flowers (N.Bolton).",3rd & 6 at BAL 26
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,2,BAL,0,4,0,Punt,"(12:21) J.Stout punts 52 yards to KC 22, Center-T.Ott, fair catch by R.James.",4th & 6 at BAL 26
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,3,KC,0,1,0,-1 Yard Pass,"(12:13) (Shotgun) P.Mahomes pass short left to R.Rice to KC 21 for -1 yards (R.Darby). FUMBLES (R.Darby), ball out of bounds at KC 21.",1st & 10 at KC 22
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,3,KC,0,2,0,6 Yard Run,(11:38) (Shotgun) I.Pacheco left end to KC 27 for 6 yards (P.Queen).,2nd & 11 at KC 21
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,3,KC,0,3,0,16 Yard Pass,(10:58) (Shotgun) P.Mahomes pass short middle to Ju.Watson to KC 43 for 16 yards (R.Darby).,3rd & 5 at KC 27
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,3,KC,0,4,0,6 Yard Pass,"(10:19) (Shotgun) C.Humphrey to KC 39 for -4 yards. FUMBLES, recovered by KC-P.Mahomes at KC 39. P.Mahomes pass short left to M.Valdes-Scantling pushed ob at KC 49 for 6 yards (B.Stephens).",1st & 10 at KC 43
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,3,KC,0,5,0,5 Yard Run,(9:50) (Shotgun) T.Kelce left end to BAL 46 for 5 yards (M.Williams).,2nd & 4 at KC 49
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,3,KC,0,6,0,3 Yard Pass,(9:12) (Shotgun) P.Mahomes pass short left to N.Gray to BAL 43 for 3 yards (R.Smith).,1st & 10 at BAL 46
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,3,KC,0,7,0,-10 Yard Penalty,"(8:34) (Shotgun) P.Mahomes pass incomplete short left to N.Gray [J.Clowney].
+PENALTY on KC-J.Taylor, Offensive Holding, 10 yards, enforced at BAL 43 - No Play.",2nd & 7 at BAL 43
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,3,KC,0,8,0,2 Yard Pass,(8:28) (Shotgun) P.Mahomes pass short right to C.Edwards-Helaire to KC 49 for 2 yards (K.Hamilton).,2nd & 17 at KC 47
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,3,KC,0,9,0,-4 Yard Pass,(7:45) (Shotgun) P.Mahomes pass short right to I.Pacheco to KC 45 for -4 yards (K.Van Noy).,3rd & 15 at KC 49
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,3,KC,0,10,0,Punt,"(7:12) T.Townsend punts 55 yards to end zone, Center-J.Winchester, Touchback.",4th & 19 at KC 45
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,4,BAL,0,1,0,16 Yard Pass,(7:05) (Shotgun) L.Jackson pass short left to G.Edwards pushed ob at BAL 36 for 16 yards (N.Bolton).,1st & 10 at BAL 20
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,4,BAL,0,2,0,11 Yard Run,(6:25) (Shotgun) L.Jackson scrambles right guard to BAL 47 for 11 yards (D.Tranquill).,1st & 10 at BAL 36
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,4,BAL,0,3,0,Pass Incomplete,(5:36) (Shotgun) L.Jackson pass incomplete short right [M.Danna].,1st & 10 at BAL 47
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,4,BAL,0,4,0,11 Yard Pass,(5:29) (Shotgun) L.Jackson pass short left to J.Hill pushed ob at KC 42 for 11 yards (J.Williams).,2nd & 10 at BAL 47
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,4,BAL,0,5,0,5 Yard Pass,(4:53) L.Jackson pass short left to J.Hill pushed ob at KC 37 for 5 yards (L.Chenal) [M.Danna].,1st & 10 at KC 42
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,4,BAL,0,6,0,-10 Yard Penalty,"(4:11) (Shotgun) L.Jackson pass incomplete short right to M.Andrews.
+PENALTY on BAL-J.Simpson, Offensive Holding, 10 yards, enforced at KC 37 - No Play.",2nd & 5 at KC 37
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,4,BAL,0,7,0,6 Yard Pass,(4:06) (Shotgun) L.Jackson pass short left to M.Andrews to KC 41 for 6 yards (J.Williams).,2nd & 15 at KC 47
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,4,BAL,0,8,0,-8 Yard Sack,(3:25) (Shotgun) L.Jackson sacked at KC 49 for -8 yards (J.Reid).,3rd & 9 at KC 41
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,4,BAL,0,9,0,Punt,"(2:42) J.Stout punts 42 yards to KC 7, Center-T.Ott, downed by BAL-G.Stone.",4th & 17 at KC 49
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,5,KC,0,1,0,3 Yard Run,(2:31) I.Pacheco left tackle to KC 10 for 3 yards (P.Queen).,1st & 10 at KC 7
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,5,KC,0,2,0,1 Yard Run,(1:47) (Shotgun) I.Pacheco right end to KC 11 for 1 yard (B.Urban).,2nd & 7 at KC 10
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,5,KC,0,3,0,Pass Incomplete,(1:05) (Shotgun) P.Mahomes pass incomplete short right.,3rd & 6 at KC 11
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,3RD QUARTER,5,KC,0,4,0,Punt,"(1:01) T.Townsend punts 53 yards to BAL 36, Center-J.Winchester. D.Duvernay to BAL 36 for no gain (J.Williams, N.Jones).",4th & 6 at KC 11
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,1,BAL,0,1,0,39 Yard Pass,"(:49) (Shotgun) L.Jackson pass deep left to Z.Flowers to KC 10 for 54 yards (L.Sneed).
+PENALTY on BAL-Z.Flowers, Taunting, 15 yards, enforced at KC 10.",1st & 10 at BAL 36
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,1,BAL,0,2,0,Pass Incomplete,(:32) (Shotgun) L.Jackson pass incomplete short left to J.Hill.,1st & 10 at KC 25
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,1,BAL,0,3,0,14 Yard Pass,(:26) (Shotgun) L.Jackson pass short left to Z.Flowers pushed ob at KC 11 for 14 yards (N.Bolton).,2nd & 10 at KC 25
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,1,BAL,0,4,0,2 Yard Pass,"(:02) (No Huddle, Shotgun) L.Jackson pass short left to R.Bateman to KC 9 for 2 yards (T.Wharton; M.Danna).",1st & 10 at KC 11
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,1,BAL,0,5,0,Fumble,"(15:00) (Shotgun) L.Jackson pass short middle to Z.Flowers to KC 1 for 8 yards (L.Sneed). FUMBLES (L.Sneed), RECOVERED by KC-T.McDuffie at KC -1. Touchback.",2nd & 8 at KC 9
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,2,KC,0,1,0,3 Yard Run,(14:52) I.Pacheco up the middle to KC 23 for 3 yards (M.Harrison; R.Smith).,1st & 10 at KC 20
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,2,KC,0,2,0,Pass Incomplete,(14:09) (Shotgun) P.Mahomes pass incomplete short right to N.Gray [R.Smith].,2nd & 7 at KC 23
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,2,KC,0,3,0,14 Yard Pass,(14:03) (Shotgun) P.Mahomes pass short left to T.Kelce pushed ob at KC 37 for 14 yards (B.Stephens).,3rd & 7 at KC 23
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,2,KC,0,4,0,3 Yard Run,(13:24) I.Pacheco up the middle to KC 40 for 3 yards (R.Smith; B.Stephens).,1st & 10 at KC 37
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,2,KC,0,5,0,15 Yard Penalty,"(12:42) (Shotgun) P.Mahomes pass short right to Ju.Watson to KC 37 for -3 yards (B.Stephens).
+PENALTY on BAL-J.Clowney, Roughing the Passer, 15 yards, enforced at KC 40 - No Play.",2nd & 7 at KC 40
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,2,KC,0,6,0,-9 Yard Sack,(12:24) P.Mahomes sacked at KC 46 for -9 yards (J.Clowney).,1st & 10 at BAL 45
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,2,KC,0,7,0,6 Yard Pass,(11:34) (Shotgun) P.Mahomes pass short right to R.Rice to BAL 48 for 6 yards (R.Smith; K.Hamilton).,2nd & 19 at KC 46
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,2,KC,0,8,0,Pass Incomplete,(10:48) (Shotgun) P.Mahomes pass incomplete short left to N.Gray.,3rd & 13 at BAL 48
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,2,KC,0,9,0,Punt,"(10:44) T.Townsend punts 47 yards to BAL 1, Center-J.Winchester, downed by KC-Ju.Watson.",4th & 13 at BAL 48
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,3,BAL,0,1,0,Pass Incomplete,(10:35) (Shotgun) L.Jackson pass incomplete deep left to R.Bateman.,1st & 10 at BAL 1
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,3,BAL,0,2,0,10 Yard Pass,(10:30) (Shotgun) L.Jackson pass short left to I.Likely pushed ob at BAL 11 for 10 yards (D.Tranquill).,2nd & 10 at BAL 1
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,3,BAL,0,3,0,Pass Incomplete,(10:21) (Shotgun) L.Jackson pass incomplete deep left to O.Beckham.,1st & 10 at BAL 11
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,3,BAL,0,4,0,9 Yard Run,(10:15) (Shotgun) L.Jackson scrambles left end to BAL 20 for 9 yards (G.Karlaftis).,2nd & 10 at BAL 11
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,3,BAL,0,5,0,-2 Yard Sack,"(9:40) (No Huddle, Shotgun) L.Jackson sacked at BAL 18 for -2 yards (T.Wharton).",3rd & 1 at BAL 20
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,3,BAL,0,6,0,6 Yard Pass,(8:47) (Shotgun) L.Jackson pass short right to O.Beckham to BAL 24 for 6 yards (M.Edwards).,4th & 3 at BAL 18
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,3,BAL,0,7,0,Pass Incomplete,"(8:24) (No Huddle, Shotgun) L.Jackson pass incomplete deep right to R.Bateman.",1st & 10 at BAL 24
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,3,BAL,0,8,0,8 Yard Pass,(8:17) (Shotgun) L.Jackson pass short left to O.Beckham to BAL 32 for 8 yards (Ja.Watson).,2nd & 10 at BAL 24
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,3,BAL,0,9,0,4 Yard Run,"(7:52) (No Huddle, Shotgun) G.Edwards right guard to BAL 36 for 4 yards (T.Wharton; M.Edwards). KC-M.Edwards was injured during the play.",3rd & 2 at BAL 32
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,3,BAL,0,10,0,39 Yard Pass,(7:21) (Shotgun) L.Jackson pass deep left to N.Agholor pushed ob at KC 25 for 39 yards (Ja.Watson).,1st & 10 at BAL 36
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,3,BAL,0,11,0,Pass Incomplete,"(6:59) (No Huddle, Shotgun) L.Jackson pass incomplete deep left to O.Beckham.",1st & 10 at KC 25
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,3,BAL,0,12,0,Interception,(6:54) (Shotgun) L.Jackson pass deep middle intended for I.Likely INTERCEPTED by D.Bush at KC -5. Touchback.,2nd & 10 at KC 25
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,4,KC,0,1,0,4 Yard Run,(6:45) I.Pacheco right guard to KC 24 for 4 yards (K.Van Noy).,1st & 10 at KC 20
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,4,KC,0,2,0,Sack,(6:02) (Shotgun) P.Mahomes sacked at KC 22 for -2 yards (sack split by M.Pierce and J.Madubuike).,2nd & 6 at KC 24
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,4,KC,0,3,0,5 Yard Run,(5:55) (Shotgun) I.Pacheco left end to KC 27 for 5 yards (P.Queen).,3rd & 8 at KC 22
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,4,KC,0,4,0,Punt,"(5:13) T.Townsend punts 48 yards to BAL 25, Center-J.Winchester. D.Duvernay pushed ob at BAL 46 for 21 yards (C.Conner).",4th & 3 at KC 27
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,5,BAL,1,1,0,-4 Yard Sack,(5:00) (Shotgun) L.Jackson sacked at BAL 42 for -4 yards (G.Karlaftis).,1st & 10 at BAL 46
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,5,BAL,1,2,0,8 Yard Pass,"(4:38) (No Huddle, Shotgun) L.Jackson pass short left to O.Beckham ran ob at 50 for 8 yards (L.Sneed).",2nd & 14 at BAL 42
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,5,BAL,1,3,0,7 Yard Pass,(4:31) (Shotgun) L.Jackson pass short middle to J.Hill to KC 43 for 7 yards (D.Tranquill).,3rd & 6 at 50
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,5,BAL,1,4,0,2 Yard Run,"(4:02) (No Huddle, Shotgun) L.Jackson scrambles up the middle to KC 41 for 2 yards (D.Tranquill).",1st & 10 at KC 43
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,5,BAL,1,5,0,11 Yard Pass,"(3:33) (No Huddle, Shotgun) L.Jackson pass short middle to J.Hill to KC 30 for 11 yards (M.Edwards). KC-T.Wharton was injured during the play.",2nd & 8 at KC 41
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,5,BAL,1,6,0,5 Yard Run,(3:16) (Shotgun) L.Jackson scrambles right end to KC 25 for 5 yards (C.Conner).,1st & 10 at KC 30
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,5,BAL,1,7,0,Pass Incomplete,"(2:49) (No Huddle, Shotgun) L.Jackson pass incomplete short middle to O.Beckham (T.McDuffie).",2nd & 5 at KC 25
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,5,BAL,1,8,0,Pass Incomplete,(2:45) (Shotgun) L.Jackson pass incomplete deep right.,3rd & 5 at KC 25
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,5,BAL,1,9,1,Field Goal,"(2:38) J.Tucker 43 yard field goal is GOOD, Center-T.Ott, Holder-J.Stout.",4th & 5 at KC 25
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,6,KC,0,1,0,Kickoff,"J.Tucker kicks 65 yards from BAL 35 to end zone, Touchback.",Kickoff from BAL 35
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,6,KC,0,2,0,5 Yard Penalty,"(2:34) I.Pacheco up the middle to KC 32 for 7 yards (R.Darby).
+PENALTY on BAL, Defensive Too Many Men on Field, 5 yards, enforced at KC 25 - No Play.",1st & 10 at KC 25
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,6,KC,0,3,0,15 Yard Penalty,"(2:28) PENALTY on BAL-R.Smith, Unnecessary Roughness, 15 yards, enforced at KC 30 - No Play.",1st & 5 at KC 30
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,6,KC,0,4,0,-1 Yard Run,(2:28) I.Pacheco up the middle to KC 44 for -1 yards (M.Pierce).,1st & 10 at KC 45
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,6,KC,0,5,0,2 Yard Run,(2:24) I.Pacheco right tackle to KC 46 for 2 yards (M.Williams).,2nd & 11 at KC 44
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,6,KC,0,6,0,32 Yard Pass,(2:19) (Shotgun) P.Mahomes pass deep middle to M.Valdes-Scantling to BAL 22 for 32 yards (A.Maulet).,3rd & 9 at KC 46
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,6,KC,0,7,0,-1 Yard Run,(2:00) P.Mahomes kneels to BAL 23 for -1 yards.,1st & 10 at BAL 22
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,6,KC,0,8,0,-1 Yard Run,(1:19) P.Mahomes kneels to BAL 24 for -1 yards.,2nd & 11 at BAL 23
+2023,Conference Championships,SUN,01/28,Chiefs,Ravens,4TH QUARTER,6,KC,0,9,0,-1 Yard Run,(:39) P.Mahomes kneels to BAL 25 for -1 yards.,3rd & 12 at BAL 24
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,1,DET,1,1,0,Kickoff,"J.Moody kicks 65 yards from SF 35 to end zone, Touchback.",Kickoff from SF 35
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,1,DET,1,2,0,4 Yard Run,(15:00) D.Montgomery right end ran ob at DET 29 for 4 yards (F.Warner).,1st & 10 at DET 25
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,1,DET,1,3,0,15 Yard Run,(14:31) D.Montgomery up the middle to DET 44 for 15 yards (J.Brown).,2nd & 6 at DET 29
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,1,DET,1,4,0,14 Yard Pass,(13:57) J.Goff pass short left to S.LaPorta pushed ob at SF 42 for 14 yards (A.Thomas).,1st & 10 at DET 44
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,1,DET,1,5,0,Touchdown Lions,"(13:27) (Shotgun) J.Williams right end for 42 yards, TOUCHDOWN.",1st & 10 at SF 42
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,1,DET,1,6,1,Extra Point Good,"M.Badgley extra point is GOOD, Center-J.McQuaide, Holder-J.Fox.",XP attempt from SF 15
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,2,SF,0,1,0,Kickoff,"J.Fox kicks 65 yards from DET 35 to end zone, Touchback.",Kickoff from DET 35
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,2,SF,0,2,0,1 Yard Run,(13:18) C.McCaffrey right guard to SF 26 for 1 yard (A.Anzalone).,1st & 10 at SF 25
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,2,SF,0,3,0,Pass Incomplete,(12:43) (Shotgun) B.Purdy pass incomplete short left to K.Juszczyk (A.Hutchinson).,2nd & 9 at SF 26
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,2,SF,0,4,0,11 Yard Pass,(12:39) (Shotgun) B.Purdy pass short left to B.Aiyuk ran ob at SF 37 for 11 yards.,3rd & 9 at SF 26
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,2,SF,0,5,0,Pass Incomplete,(12:06) (Shotgun) B.Purdy pass incomplete deep left to B.Aiyuk (C.Sutton).,1st & 10 at SF 37
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,2,SF,0,6,0,15 Yard Pass,(12:00) B.Purdy pass short left to D.Samuel to DET 48 for 15 yards (K.Vildor) [A.McNeill].,2nd & 10 at SF 37
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,2,SF,0,7,0,2 Yard Run,(11:12) C.McCaffrey left end pushed ob at DET 46 for 2 yards (J.Campbell).,1st & 10 at DET 48
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,2,SF,0,8,0,5 Yard Run,(10:35) (Shotgun) C.McCaffrey left end to DET 41 for 5 yards (R.Okwara). DET-D.Barnes was injured during the play.,2nd & 8 at DET 46
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,2,SF,0,9,0,7 Yard Run,(10:10) (Shotgun) C.McCaffrey up the middle to DET 34 for 7 yards (A.Anzalone).,3rd & 3 at DET 41
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,2,SF,0,10,0,-1 Yard Run,(9:28) (Shotgun) C.McCaffrey right tackle to DET 35 for -1 yards (M.Rodriguez).,1st & 10 at DET 34
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,2,SF,0,11,0,Pass Incomplete,(8:46) B.Purdy pass incomplete short left to B.Aiyuk (A.Hutchinson).,2nd & 11 at DET 35
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,2,SF,0,12,0,5 Yard Pass,(8:43) (Shotgun) B.Purdy pass short middle to C.McCaffrey to DET 30 for 5 yards (M.Rodriguez).,3rd & 11 at DET 35
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,2,SF,0,13,0,Field Goal No Good,"(7:58) J.Moody 48 yard field goal is No Good, Wide Right, Center-T.Pepper, Holder-M.Wishnowsky.",4th & 6 at DET 30
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,3,DET,1,1,0,6 Yard Pass,(7:54) J.Goff pass short middle to S.LaPorta to DET 44 for 6 yards (T.Gipson).,1st & 10 at DET 38
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,3,DET,1,2,0,7 Yard Run,(7:19) J.Gibbs left end to SF 49 for 7 yards (T.Gipson; F.Warner).,2nd & 4 at DET 44
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,3,DET,1,3,0,4 Yard Pass,(6:43) (Shotgun) J.Goff pass short right to J.Gibbs pushed ob at SF 45 for 4 yards (F.Warner).,1st & 10 at SF 49
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,3,DET,1,4,0,14 Yard Pass,(6:04) J.Goff pass short left to D.Montgomery to SF 31 for 14 yards (O.Burks; D.Lenoir).,2nd & 6 at SF 45
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,3,DET,1,5,0,Pass Incomplete,(5:25) (Shotgun) J.Goff pass incomplete short left to J.Gibbs.,1st & 10 at SF 31
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,3,DET,1,6,0,1 Yard Run,(5:22) (Shotgun) J.Gibbs up the middle to SF 30 for 1 yard (F.Warner).,2nd & 10 at SF 31
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,3,DET,1,7,0,13 Yard Pass,(4:42) (Shotgun) J.Goff pass short right to A.St. Brown to SF 17 for 13 yards (J.Brown).,3rd & 9 at SF 30
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,3,DET,1,8,0,Pass Incomplete,(4:04) (Shotgun) J.Goff pass incomplete short left to A.St. Brown.,1st & 10 at SF 17
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,3,DET,1,9,0,10 Yard Run,(3:59) (Shotgun) J.Gibbs right end pushed ob at SF 7 for 10 yards (J.Brown).,2nd & 10 at SF 17
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,3,DET,1,10,0,6 Yard Run,"(3:17) D.Montgomery right guard to SF 1 for 6 yards (F.Warner, J.Brown).",1st & 7 at SF 7
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,3,DET,1,11,0,Touchdown Lions,"(2:37) D.Montgomery up the middle for 1 yard, TOUCHDOWN.",2nd & 1 at SF 1
+2023,Conference Championships,SUN,01/28,Lions,49ers,1ST QUARTER,3,DET,1,12,1,Extra Point Good,"M.Badgley extra point is GOOD, Center-J.McQuaide, Holder-J.Fox.",XP attempt from SF 15
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,1,SF,1,1,0,Kickoff,"J.Fox kicks 65 yards from DET 35 to end zone, Touchback.",Kickoff from DET 35
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,1,SF,1,2,0,6 Yard Pass,(2:34) (Shotgun) B.Purdy pass short middle to D.Samuel pushed ob at SF 31 for 6 yards (C.Sutton).,1st & 10 at SF 25
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,1,SF,1,3,0,23 Yard Pass,(2:05) B.Purdy pass deep right to K.Juszczyk to DET 46 for 23 yards (C.Gardner-Johnson; K.Vildor).,2nd & 4 at SF 31
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,1,SF,1,4,0,4 Yard Run,"(1:29) C.McCaffrey right tackle to DET 42 for 4 yards (A.Anzalone, C.Gardner-Johnson).",1st & 10 at DET 46
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,1,SF,1,5,0,4 Yard Run,(:48) C.McCaffrey right tackle to DET 38 for 4 yards (M.Rodriguez; C.Gardner-Johnson).,2nd & 6 at DET 42
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,1,SF,1,6,0,5 Yard Run,(:09) (Shotgun) C.McCaffrey up the middle to DET 33 for 5 yards (A.Anzalone).,3rd & 2 at DET 38
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,1,SF,1,7,0,28 Yard Pass,"(15:00) (Shotgun) B.Purdy pass short left to C.McCaffrey pushed ob at DET 5 for 28 yards (K.Joseph, B.Branch).",1st & 10 at DET 33
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,1,SF,1,8,0,3 Yard Run,(14:30) K.Juszczyk up the middle to DET 2 for 3 yards (M.Rodriguez).,1st & 5 at DET 5
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,1,SF,1,9,0,Touchdown 49ers,"(13:52) C.McCaffrey up the middle for 2 yards, TOUCHDOWN.",2nd & 2 at DET 2
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,1,SF,1,10,1,Extra Point Good,"J.Moody extra point is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.",XP attempt from DET 15
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,2,DET,0,1,0,Kickoff,"J.Moody kicks 65 yards from SF 35 to end zone, Touchback.",Kickoff from SF 35
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,2,DET,0,2,0,14 Yard Run,(13:49) D.Montgomery right tackle to DET 39 for 14 yards (J.Brown).,1st & 10 at DET 25
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,2,DET,0,3,0,Pass Incomplete,(13:13) D.Skipper reported in as eligible.  J.Goff pass incomplete deep middle to J.Reynolds [N.Bosa].,1st & 10 at DET 39
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,2,DET,0,4,0,Pass Incomplete,(13:06) (Shotgun) J.Goff pass incomplete short middle to A.St. Brown (F.Warner).,2nd & 10 at DET 39
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,2,DET,0,5,0,11 Yard Pass,(13:01) (Shotgun) J.Goff pass short left to A.St. Brown to 50 for 11 yards (D.Lenoir; J.Brown).,3rd & 10 at DET 39
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,2,DET,0,6,0,Run for No Gain,(12:23) D.Montgomery right tackle to 50 for no gain (T.Gipson).,1st & 10 at 50
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,2,DET,0,7,0,-5 Yard Sack,(11:47) (Shotgun) J.Goff sacked at DET 45 for -5 yards (N.Bosa).,2nd & 10 at 50
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,2,DET,0,8,0,9 Yard Pass,(11:07) (Shotgun) J.Goff pass short middle to S.LaPorta to SF 46 for 9 yards (D.Greenlaw). SF-D.Greenlaw was injured during the play.,3rd & 15 at DET 45
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,2,DET,0,9,0,Punt,"(10:23) J.Fox punts 34 yards to SF 12, Center-J.McQuaide, fair catch by R.McCloud.",4th & 6 at SF 46
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,3,SF,0,1,0,5 Yard Pass,(10:17) (Shotgun) B.Purdy pass short right to C.McCaffrey to SF 17 for 5 yards (K.Vildor).,1st & 10 at SF 12
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,3,SF,0,2,0,7 Yard Run,(9:38) D.Samuel left end to SF 24 for 7 yards (A.Anzalone).,2nd & 5 at SF 17
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,3,SF,0,3,0,Pass Incomplete,(8:55) (Shotgun) B.Purdy pass incomplete deep left to B.Aiyuk.,1st & 10 at SF 24
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,3,SF,0,4,0,Pass Incomplete,(8:51) B.Purdy pass incomplete short right to B.Aiyuk [J.Cominsky].,2nd & 10 at SF 24
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,3,SF,0,5,0,Interception,"(8:47) (Shotgun) B.Purdy pass deep middle intended for D.Samuel INTERCEPTED by M.Rodriguez (J.Paschal) at SF 40. M.Rodriguez pushed ob at SF 21 for 19 yards (J.Jennings).
+PENALTY on DET-C.Gardner-Johnson, Illegal Blindside Block, 15 yards, enforced at SF 31.",3rd & 10 at SF 24
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,4,DET,1,1,0,-5 Yard Run,(8:37) (Shotgun) J.Gibbs right end to DET 49 for -5 yards (F.Warner).,1st & 10 at SF 46
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,4,DET,1,2,0,16 Yard Pass,(7:57) (Shotgun) J.Goff pass short middle to S.LaPorta to SF 35 for 16 yards (D.Greenlaw; A.Thomas).,2nd & 15 at DET 49
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,4,DET,1,3,0,3 Yard Run,"(7:15) D.Skipper reported in as eligible.  J.Gibbs up the middle to SF 32 for 3 yards (F.Warner, D.Greenlaw).",1st & 10 at SF 35
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,4,DET,1,4,0,17 Yard Pass,(6:39) (Shotgun) J.Goff pass short left to A.St. Brown to SF 15 for 17 yards (A.Thomas).,2nd & 7 at SF 32
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,4,DET,1,5,0,Touchdown Lions,"(6:01) J.Gibbs right end for 15 yards, TOUCHDOWN.",1st & 10 at SF 15
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,4,DET,1,6,1,Extra Point Good,"M.Badgley extra point is GOOD, Center-J.McQuaide, Holder-J.Fox.",XP attempt from SF 15
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,5,SF,0,1,0,Kickoff,"J.Fox kicks 65 yards from DET 35 to end zone, Touchback.",Kickoff from DET 35
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,5,SF,0,2,0,Pass Incomplete,(5:54) (Shotgun) B.Purdy pass incomplete short left to C.McCaffrey.,1st & 10 at SF 25
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,5,SF,0,3,0,Run for No Gain,(5:50) (Shotgun) C.McCaffrey left tackle to SF 25 for no gain (J.Campbell).,2nd & 10 at SF 25
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,5,SF,0,4,0,Pass Incomplete,(5:17) (Shotgun) B.Purdy pass incomplete deep left to G.Kittle.,3rd & 10 at SF 25
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,5,SF,0,5,0,Punt,"(5:09) M.Wishnowsky punts 56 yards to DET 19, Center-T.Pepper. D.Peoples-Jones ran ob at DET 29 for 10 yards (C.Woerner).",4th & 10 at SF 25
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,6,DET,1,1,0,5 Yard Run,(4:59) P.Sewell reported in as eligible.  D.Montgomery up the middle to DET 34 for 5 yards (J.Hargrave; F.Warner).,1st & 10 at DET 29
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,6,DET,1,2,0,6 Yard Run,(4:21) P.Sewell reported in as eligible.  D.Montgomery left guard to DET 40 for 6 yards (N.Bosa).,2nd & 5 at DET 34
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,6,DET,1,3,0,9 Yard Run,(3:46) D.Montgomery right guard to DET 49 for 9 yards (D.Greenlaw; J.Brown).,1st & 10 at DET 40
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,6,DET,1,4,0,6 Yard Pass,"(3:10) J.Goff pass short middle to D.Montgomery to SF 45 for 6 yards (F.Warner, R.Gregory).",2nd & 1 at DET 49
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,6,DET,1,5,0,-2 Yard Run,(2:30) P.Sewell reported in as eligible.  J.Gibbs right end to SF 47 for -2 yards (C.Young).,1st & 10 at SF 45
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,6,DET,1,6,0,Pass Incomplete,(2:00) (Shotgun) J.Goff pass incomplete deep left to S.LaPorta [A.Armstead].,2nd & 12 at SF 47
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,6,DET,1,7,0,13 Yard Run,(1:55) (Shotgun) J.Gibbs left end ran ob at SF 34 for 13 yards (A.Thomas).,3rd & 12 at SF 47
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,6,DET,1,8,0,-8 Yard Sack,(1:50) D.Skipper reported in as eligible.  J.Goff sacked at SF 42 for -8 yards (N.Bosa).,1st & 10 at SF 34
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,6,DET,1,9,0,Run for No Gain,(1:44) (Shotgun) J.Gibbs left tackle to SF 42 for no gain (J.Hargrave; A.Armstead).,2nd & 18 at SF 42
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,6,DET,1,10,0,23 Yard Pass,(1:38) (Shotgun) J.Goff pass short middle to A.St. Brown to SF 19 for 23 yards (A.Thomas).,3rd & 18 at SF 42
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,6,DET,1,11,0,3 Yard Run,"(1:00) J.Gibbs up the middle to SF 15 for 4 yards (R.Gregory).
+The Replay Official reviewed the runner was not down by contact ruling, and the play was REVERSED.
+J.Gibbs up the middle to SF 16 for 3 yards (R.Gregory).",1st & 10 at SF 19
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,6,DET,1,12,0,Pass Incomplete,(:38) (Shotgun) J.Goff pass incomplete deep middle to J.Gibbs.,2nd & 7 at SF 16
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,6,DET,1,13,0,9 Yard Pass,(:33) (Shotgun) J.Goff pass short right to A.St. Brown pushed ob at SF 7 for 9 yards (D.Lenoir).,3rd & 7 at SF 16
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,6,DET,1,14,0,Pass Incomplete,(:28) (Shotgun) J.Goff pass incomplete short right to S.LaPorta.,1st & 7 at SF 7
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,6,DET,1,15,0,1 Yard Run,(:24) (Shotgun) J.Gibbs up the middle to SF 6 for 1 yard (J.Hargrave; D.Lenoir).,2nd & 7 at SF 7
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,6,DET,1,16,0,3 Yard Pass,(:17) (Shotgun) J.Goff pass short left to J.Gibbs to SF 3 for 3 yards (J.Hargrave).,3rd & 6 at SF 6
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,6,DET,1,17,1,Field Goal,"(:10) M.Badgley 21 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Fox.",4th & 3 at SF 3
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,7,SF,0,1,0,Kickoff,"J.Fox kicks 69 yards from DET 35 to SF -4. R.McCloud to SF 31 for 35 yards (I.Melifonwu).
+PENALTY on SF-G.Odum, Offensive Holding, 10 yards, enforced at SF 24.",Kickoff from DET 35
+2023,Conference Championships,SUN,01/28,Lions,49ers,2ND QUARTER,7,SF,0,2,0,-1 Yard Run,(:02) B.Purdy kneels to SF 13 for -1 yards.,1st & 10 at SF 14
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,1,SF,1,1,0,Kickoff,"J.Fox kicks 65 yards from DET 35 to end zone, Touchback.",Kickoff from DET 35
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,1,SF,1,2,0,8 Yard Run,(15:00) C.McCaffrey right end to SF 33 for 8 yards (T.Alualu).,1st & 10 at SF 25
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,1,SF,1,3,0,26 Yard Pass,(14:35) (No Huddle) B.Purdy pass deep middle to D.Samuel to DET 41 for 26 yards (J.Campbell).,2nd & 2 at SF 33
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,1,SF,1,4,0,9 Yard Pass,(13:57) (Shotgun) B.Purdy pass short left to D.Samuel pushed ob at DET 32 for 9 yards (J.Campbell; C.Gardner-Johnson).,1st & 10 at DET 41
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,1,SF,1,5,0,-3 Yard Run,(13:18) D.Samuel right tackle to DET 35 for -3 yards (J.Paschal).,2nd & 1 at DET 32
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,1,SF,1,6,0,8 Yard Pass,(12:37) (Shotgun) B.Purdy pass short middle to J.Jennings to DET 27 for 8 yards (J.Campbell) [A.Anzalone].,3rd & 4 at DET 35
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,1,SF,1,7,0,2 Yard Run,(11:53) (Shotgun) C.McCaffrey right tackle to DET 25 for 2 yards (J.Cominsky; J.Campbell).,1st & 10 at DET 27
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,1,SF,1,8,0,Pass Incomplete,(11:15) (Shotgun) B.Purdy pass incomplete short left.,2nd & 8 at DET 25
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,1,SF,1,9,0,Pass Incomplete,(11:11) (Shotgun) B.Purdy pass incomplete deep middle to J.Jennings.,3rd & 8 at DET 25
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,1,SF,1,10,1,Field Goal,"(11:06) J.Moody 43 yard field goal is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.",4th & 8 at DET 25
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,2,DET,0,1,0,Kickoff,"J.Moody kicks 65 yards from SF 35 to end zone, Touchback.",Kickoff from SF 35
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,2,DET,0,2,0,16 Yard Pass,(11:02) J.Goff pass short left to S.LaPorta pushed ob at DET 41 for 16 yards (T.Gipson).,1st & 10 at DET 25
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,2,DET,0,3,0,6 Yard Run,(10:27) (Shotgun) D.Montgomery right end pushed ob at DET 47 for 6 yards (D.Lenoir).,1st & 10 at DET 41
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,2,DET,0,4,0,5 Yard Penalty,"(9:53) PENALTY on SF-J.Hargrave, Neutral Zone Infraction, 5 yards, enforced at DET 47 - No Play.",2nd & 4 at DET 47
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,2,DET,0,5,0,7 Yard Run,(9:40) D.Montgomery up the middle to SF 41 for 7 yards (C.Young).,1st & 10 at SF 48
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,2,DET,0,6,0,5 Yard Run,(9:03) D.Skipper reported in as eligible.  D.Montgomery left guard to SF 36 for 5 yards (F.Warner).,2nd & 3 at SF 41
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,2,DET,0,7,0,Pass Incomplete,(8:29) J.Goff pass incomplete deep right to S.LaPorta.,1st & 10 at SF 36
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,2,DET,0,8,0,6 Yard Pass,(8:24) (Shotgun) J.Goff pass short left to S.LaPorta to SF 30 for 6 yards (D.Greenlaw).,2nd & 10 at SF 36
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,2,DET,0,9,0,2 Yard Run,"(7:46) (Shotgun) A.St. Brown up the middle to SF 28 for 2 yards (J.Kinlaw, F.Warner).",3rd & 4 at SF 30
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,2,DET,0,10,0,Turnover on Downs,(7:03) (Shotgun) J.Goff pass incomplete short left to J.Reynolds.,4th & 2 at SF 28
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,3,SF,1,1,0,17 Yard Pass,(6:58) (Shotgun) B.Purdy pass short left to D.Samuel to SF 45 for 17 yards (I.Melifonwu). DET-K.Joseph was injured during the play.,1st & 10 at SF 28
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,3,SF,1,2,0,51 Yard Pass,(6:29) (Shotgun) B.Purdy pass deep middle to B.Aiyuk to DET 4 for 51 yards (K.Vildor).,1st & 10 at SF 45
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,3,SF,1,3,0,-2 Yard Run,"(6:01) C.McCaffrey up the middle to DET 6 for -2 yards (B.Branch, A.McNeill).",1st & 4 at DET 4
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,3,SF,1,4,0,Pass Incomplete,(5:25) (Shotgun) B.Purdy pass incomplete short left to B.Aiyuk.,2nd & 6 at DET 6
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,3,SF,1,5,0,Touchdown 49ers,"(5:22) (Shotgun) B.Purdy pass short left to B.Aiyuk for 6 yards, TOUCHDOWN.",3rd & 6 at DET 6
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,3,SF,1,6,1,Extra Point Good,"J.Moody extra point is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.",XP attempt from DET 15
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,4,DET,0,1,0,Kickoff,"J.Moody kicks 65 yards from SF 35 to end zone, Touchback.",Kickoff from SF 35
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,4,DET,0,2,0,Fumble,"(5:15) J.Gibbs up the middle to DET 25 for no gain (T.Gipson). FUMBLES (T.Gipson), RECOVERED by SF-A.Armstead at DET 24.",1st & 10 at DET 25
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,5,SF,1,1,0,-1 Yard Pass,(5:09) (Shotgun) B.Purdy pass short left to G.Kittle to DET 25 for -1 yards (C.Sutton).,1st & 10 at DET 24
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,5,SF,1,2,0,21 Yard Run,(4:29) (Shotgun) B.Purdy scrambles up the middle to DET 4 for 21 yards (A.Anzalone).,2nd & 11 at DET 25
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,5,SF,1,3,0,3 Yard Run,(3:41) D.Samuel left end to DET 1 for 3 yards (A.Anzalone; R.Okwara).,1st & 4 at DET 4
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,5,SF,1,4,0,Touchdown 49ers,"(3:04) C.McCaffrey up the middle for 1 yard, TOUCHDOWN.",2nd & 1 at DET 1
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,5,SF,1,5,1,Extra Point Good,"J.Moody extra point is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.",XP attempt from DET 15
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,6,DET,0,1,0,Kickoff,"J.Moody kicks 65 yards from SF 35 to end zone, Touchback.",Kickoff from SF 35
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,6,DET,0,2,0,1 Yard Run,(3:02) D.Montgomery right guard to DET 26 for 1 yard (C.Young).,1st & 10 at DET 25
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,6,DET,0,3,0,Pass Incomplete,(2:23) (Shotgun) J.Goff pass incomplete short middle to S.LaPorta (T.Gipson).,2nd & 9 at DET 26
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,6,DET,0,4,0,Pass Incomplete,(2:17) (Shotgun) J.Goff pass incomplete short middle to J.Reynolds.,3rd & 9 at DET 26
+2023,Conference Championships,SUN,01/28,Lions,49ers,3RD QUARTER,6,DET,0,5,0,Punt,"(2:13) J.Fox punts 74 yards to end zone, Center-J.McQuaide, Touchback.",4th & 9 at DET 26
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,1,SF,1,1,0,10 Yard Pass,(2:01) (Shotgun) B.Purdy pass short left to K.Juszczyk ran ob at SF 30 for 10 yards.,1st & 10 at SF 20
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,1,SF,1,2,0,8 Yard Run,(1:24) C.McCaffrey right tackle to SF 38 for 8 yards (K.Joseph; K.Vildor).,1st & 10 at SF 30
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,1,SF,1,3,0,6 Yard Run,(:44) C.McCaffrey left guard to SF 44 for 6 yards (M.Rodriguez).,2nd & 2 at SF 38
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,1,SF,1,4,0,1 Yard Pass,(15:00) (Shotgun) B.Purdy pass short right to D.Samuel to SF 45 for 1 yard (K.Vildor).,1st & 10 at SF 44
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,1,SF,1,5,0,28 Yard Pass,"(14:19) (Shotgun) B.Purdy pass deep left to G.Kittle pushed ob at DET 27 for 28 yards (I.Melifonwu, K.Joseph).",2nd & 9 at SF 45
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,1,SF,1,6,0,4 Yard Run,(13:39) C.McCaffrey left tackle to DET 23 for 4 yards (J.Campbell; L.Onwuzurike).,1st & 10 at DET 27
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,1,SF,1,7,0,10 Yard Run,(12:57) (Shotgun) B.Purdy scrambles up the middle to DET 13 for 10 yards (B.Branch).,2nd & 6 at DET 23
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,1,SF,1,8,0,Sack,(12:10) B.Purdy sacked at DET 20 for -7 yards (sack split by T.Alualu and I.Melifonwu).,1st & 10 at DET 13
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,1,SF,1,9,0,-2 Yard Sack,(11:24) (Shotgun) B.Purdy sacked at DET 22 for -2 yards (A.McNeill).,2nd & 17 at DET 20
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,1,SF,1,10,0,7 Yard Pass,(10:41) (Shotgun) B.Purdy pass short middle to D.Samuel to DET 15 for 7 yards (M.Rodriguez).,3rd & 19 at DET 22
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,1,SF,1,11,1,Field Goal,"(9:56) J.Moody 33 yard field goal is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.",4th & 12 at DET 15
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,2,DET,0,1,0,Kickoff,"J.Moody kicks 65 yards from SF 35 to end zone, Touchback.",Kickoff from SF 35
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,2,DET,0,2,0,22 Yard Pass,(9:52) J.Goff pass deep right to J.Williams to DET 47 for 22 yards (A.Thomas).,1st & 10 at DET 25
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,2,DET,0,3,0,16 Yard Run,(9:15) D.Montgomery left end to SF 37 for 16 yards (J.Brown; A.Armstead).,1st & 10 at DET 47
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,2,DET,0,4,0,Pass Incomplete,(8:36) (Shotgun) J.Goff pass incomplete deep left to J.Williams. SF-A.Thomas was injured during the play.,1st & 10 at SF 37
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,2,DET,0,5,0,Pass Incomplete,(8:28) (Shotgun) J.Goff pass incomplete short left to J.Gibbs.,2nd & 10 at SF 37
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,2,DET,0,6,0,7 Yard Pass,"(8:24) (Shotgun) J.Goff pass short right to A.St. Brown to SF 30 for 7 yards (C.Ward, L.Ryan).",3rd & 10 at SF 37
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,2,DET,0,7,0,Turnover on Downs,(7:38) (Shotgun) J.Goff pass incomplete deep right to A.St. Brown.,4th & 3 at SF 30
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,3,SF,1,1,0,7 Yard Run,(7:32) C.McCaffrey up the middle to SF 37 for 7 yards (A.Anzalone).,1st & 10 at SF 30
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,3,SF,1,2,0,8 Yard Pass,(6:53) B.Purdy pass short left to D.Samuel to SF 45 for 8 yards (C.Sutton).,2nd & 3 at SF 37
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,3,SF,1,3,0,2 Yard Run,(6:11) C.McCaffrey right end to SF 47 for 2 yards (K.Joseph).,1st & 10 at SF 45
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,3,SF,1,4,0,4 Yard Pass,(5:27) (Shotgun) B.Purdy pass short left to C.McCaffrey to DET 49 for 4 yards (B.Branch).,2nd & 8 at SF 47
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,3,SF,1,5,0,21 Yard Run,(4:42) (Shotgun) B.Purdy scrambles right end to DET 28 for 21 yards (K.Joseph).,3rd & 4 at DET 49
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,3,SF,1,6,0,25 Yard Run,(3:52) C.McCaffrey right end to DET 3 for 25 yards (K.Joseph).,1st & 10 at DET 28
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,3,SF,1,7,0,Touchdown 49ers,"(3:06) E.Mitchell up the middle for 3 yards, TOUCHDOWN.",1st & 3 at DET 3
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,3,SF,1,8,1,Extra Point Good,"J.Moody extra point is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.",XP attempt from DET 15
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,4,DET,1,1,0,Kickoff,"J.Moody kicks 65 yards from SF 35 to end zone, Touchback.",Kickoff from SF 35
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,4,DET,1,2,0,Pass Incomplete,(3:02) (Shotgun) J.Goff pass incomplete short right to A.St. Brown.,1st & 10 at DET 25
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,4,DET,1,3,0,4 Yard Pass,(2:57) (Shotgun) J.Goff pass short left to J.Gibbs to DET 29 for 4 yards (D.Greenlaw).,2nd & 10 at DET 25
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,4,DET,1,4,0,9 Yard Pass,"(2:35) (No Huddle, Shotgun) J.Goff pass short left to S.LaPorta to DET 38 for 9 yards (J.Brown; D.Greenlaw).",3rd & 6 at DET 29
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,4,DET,1,5,0,13 Yard Pass,"(2:11) (No Huddle, Shotgun) J.Goff pass short middle to S.LaPorta to SF 49 for 13 yards (F.Warner).",1st & 10 at DET 38
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,4,DET,1,6,0,25 Yard Pass,(2:00) (Shotgun) J.Goff pass deep right to J.Reynolds to SF 24 for 25 yards (T.Gipson).,1st & 10 at SF 49
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,4,DET,1,7,0,8 Yard Pass,"(1:39) (No Huddle, Shotgun) J.Goff pass short right to S.LaPorta ran ob at SF 16 for 8 yards [N.Bosa].",1st & 10 at SF 24
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,4,DET,1,8,0,7 Yard Pass,(1:37) (Shotgun) J.Goff pass short left to A.St. Brown to SF 9 for 7 yards (L.Ryan).,2nd & 2 at SF 16
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,4,DET,1,9,0,8 Yard Pass,"(1:16) (No Huddle, Shotgun) J.Goff pass short left to A.Firkser ran ob at SF 1 for 8 yards (J.Brown).",1st & 9 at SF 9
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,4,DET,1,10,0,Pass Incomplete,(1:10) (Shotgun) J.Goff pass incomplete short right.,2nd & 1 at SF 1
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,4,DET,1,11,0,-2 Yard Run,"(1:05) D.Montgomery right guard to SF 3 for -2 yards (J.Kinlaw, F.Warner).",3rd & 1 at SF 1
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,4,DET,1,12,0,Touchdown Lions,"(1:00) (Shotgun) J.Goff pass short middle to J.Williams for 3 yards, TOUCHDOWN.",4th & 3 at SF 3
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,4,DET,1,13,1,Extra Point Good,"M.Badgley extra point is GOOD, Center-J.McQuaide, Holder-J.Fox.",XP attempt from SF 15
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,5,SF,0,1,0,Kickoff,"M.Badgley kicks onside 9 yards from DET 35 to DET 44, downed by DET-C.Reynolds.
+PENALTY on DET-C.Reynolds, Illegal Touch Kick, 0 yards, enforced at DET 44.",Kickoff from DET 35
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,5,SF,0,2,0,2 Yard Run,(:55) E.Mitchell up the middle to DET 42 for 2 yards (T.Alualu).,1st & 10 at DET 44
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,5,SF,0,3,0,2 Yard Run,(:51) E.Mitchell left guard to DET 40 for 2 yards (J.Paschal; T.Alualu).,2nd & 8 at DET 42
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,5,SF,0,4,0,Run for No Gain,"(:47) E.Mitchell left tackle to DET 40 for no gain (A.Anzalone, J.Cominsky).",3rd & 6 at DET 40
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,5,SF,0,5,0,-5 Yard Penalty,"(:01) (Run formation) PENALTY on SF, Delay of Game, 5 yards, enforced at DET 40 - No Play.",4th & 6 at DET 40
+2023,Conference Championships,SUN,01/28,Lions,49ers,4TH QUARTER,5,SF,0,6,0,Turnover on Downs,(:01) B.Purdy kneels to DET 48 for -3 yards.,4th & 11 at DET 45

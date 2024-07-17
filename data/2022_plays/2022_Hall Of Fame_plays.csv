@@ -1,0 +1,178 @@
+Season,Week,Day,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayDescription,PlayStart
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,1,LV,1,1,0,Kickoff,"R.Santoso kicks 65 yards from JAX 35 to end zone, Touchback.",Kickoff from JAX 35
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,1,LV,1,2,0,46 Yard Pass,"(15:00) (Shotgun) J.Stidham pass deep left to K.Cole pushed ob at JAX 44 for 31 yards (T.Campbell).
+PENALTY on JAX-T.Walker, Roughing the Passer, 15 yards, enforced at JAX 44.",1st & 10 at LV 25
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,1,LV,1,3,0,12 Yard Run,(14:26) J.Jacobs right guard to JAX 17 for 12 yards (A.Cisco).,1st & 10 at JAX 29
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,1,LV,1,4,0,Pass for No Gain,(13:52) (Shotgun) J.Stidham pass short left to J.Jacobs to JAX 17 for no gain (T.Herndon).,1st & 10 at JAX 17
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,1,LV,1,5,0,3 Yard Run,(13:16) J.Jacobs left tackle pushed ob at JAX 14 for 3 yards (C.Muma).,2nd & 10 at JAX 17
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,1,LV,1,6,0,Pass Incomplete,(12:43) (Shotgun) J.Stidham pass incomplete short left to T.Johnson.,3rd & 7 at JAX 14
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,1,LV,1,7,1,Field Goal,"(12:39) D.Carlson 32 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",4th & 7 at JAX 14
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,2,JAX,0,1,0,Kickoff,"D.Carlson kicks 65 yards from LV 35 to end zone, Touchback.",Kickoff from LV 35
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,2,JAX,0,2,0,3 Yard Run,"(12:35) S.Conner right guard to JAX 28 for 3 yards (K.Vickers, K.Peko).",1st & 10 at JAX 25
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,2,JAX,0,3,0,Pass Incomplete,(11:54) (Shotgun) J.Luton pass incomplete short right.,2nd & 7 at JAX 28
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,2,JAX,0,4,0,Pass Incomplete,(11:47) (Shotgun) J.Luton pass incomplete short right to L.Treadwell.,3rd & 7 at JAX 28
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,2,JAX,0,5,0,Punt,"(11:43) L.Cooke punts 57 yards to LV 15, Center-R.Matiscik. D.Phillips pushed ob at LV 16 for 1 yard (R.Ford).",4th & 7 at JAX 28
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,3,LV,1,1,0,Pass Incomplete,(11:35) J.Stidham pass incomplete deep right to T.Johnson.,1st & 10 at LV 16
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,3,LV,1,2,0,9 Yard Run,(11:28) (Shotgun) J.Jacobs left guard to LV 25 for 9 yards (T.Campbell; D.Smoot).,2nd & 10 at LV 16
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,3,LV,1,3,0,4 Yard Run,(10:50) J.Jacobs right guard to LV 29 for 4 yards (A.Gotsis; C.Muma).,3rd & 1 at LV 25
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,3,LV,1,4,0,10 Yard Pass,"(10:12) J.Stidham pass short left to F.Moreau to LV 39 for 10 yards (S.Quarterman, T.Campbell). JAX-T.Campbell was injured during the play. His return is Questionable.",1st & 10 at LV 29
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,3,LV,1,5,0,2 Yard Run,(9:50) J.Jacobs left guard to LV 41 for 2 yards (R.Jenkins).,1st & 10 at LV 39
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,3,LV,1,6,0,14 Yard Pass,(9:08) J.Stidham pass short left to J.Jacobs to JAX 45 for 14 yards (A.Gotsis).,2nd & 8 at LV 41
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,3,LV,1,7,0,6 Yard Pass,(8:27) (Shotgun) J.Stidham pass short middle to A.Abdullah to JAX 39 for 6 yards (S.Quarterman).,1st & 10 at JAX 45
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,3,LV,1,8,0,14 Yard Run,(7:43) Z.White left guard to JAX 25 for 14 yards (A.Cisco).,2nd & 4 at JAX 39
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,3,LV,1,9,0,3 Yard Run,(7:10) Z.White left end to JAX 22 for 3 yards (S.Quarterman).,1st & 10 at JAX 25
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,3,LV,1,10,0,-3 Yard Sack,(6:28) J.Stidham sacked at JAX 25 for -3 yards (T.Walker).,2nd & 7 at JAX 22
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,3,LV,1,11,0,-12 Yard Sack,(5:48) (Shotgun) J.Stidham sacked at JAX 37 for -12 yards (A.Key).,3rd & 10 at JAX 25
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,3,LV,1,12,1,Field Goal,"(4:59) D.Carlson 55 yard field goal is GOOD, Center-T.Sieg, Holder-A.Cole.",4th & 22 at JAX 37
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,4,JAX,0,1,0,Kickoff,D.Carlson kicks 60 yards from LV 35 to JAX 5. S.Conner to JAX 25 for 20 yards (M.Koonce).,Kickoff from LV 35
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,4,JAX,0,2,0,2 Yard Run,(4:49) S.Conner right guard to JAX 27 for 2 yards (D.Deablo).,1st & 10 at JAX 25
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,4,JAX,0,3,0,3 Yard Pass,(4:11) (Shotgun) J.Luton pass short middle to L.Treadwell to JAX 30 for 3 yards (D.Phillips).,2nd & 8 at JAX 27
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,4,JAX,0,4,0,6 Yard Pass,(3:42) (Shotgun) J.Luton pass short left to S.Conner to JAX 36 for 6 yards (J.Brown).,3rd & 5 at JAX 30
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,4,JAX,0,5,0,17 Yard Pass,(2:56) (Shotgun) J.Luton pass short left to M.Hall to LV 47 for 17 yards (D.Deablo; J.Abram).,1st & 10 at JAX 36
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,4,JAX,0,6,0,4 Yard Run,(2:19) S.Conner left guard to LV 43 for 4 yards (J.Brown).,1st & 10 at LV 47
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,4,JAX,0,7,0,1 Yard Run,(1:41) S.Conner right tackle to LV 42 for 1 yard (D.Deablo).,2nd & 6 at LV 43
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,4,JAX,0,8,0,Pass Incomplete,(:57) (Shotgun) J.Luton pass incomplete deep right to T.Jones.,3rd & 5 at LV 42
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,1ST QUARTER,4,JAX,0,9,0,Field Goal No Good,"(:52) R.Santoso 60 yard field goal is No Good, Wide Right, Center-R.Matiscik, Holder-L.Cooke.",4th & 5 at LV 42
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,1,LV,1,1,0,Run for No Gain,"(:47) N.Mullens FUMBLES (Aborted) at 50, and recovers at LV 49.",1st & 10 at 50
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,1,LV,1,2,0,17 Yard Pass,(:09) (Shotgun) N.Mullens pass short right to A.Abdullah pushed ob at JAX 34 for 17 yards (D.Thomas) [J.Jones].,2nd & 11 at LV 49
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,1,LV,1,3,0,1 Yard Run,(15:00) K.Drake left guard to JAX 33 for 1 yard (J.Ledbetter).,1st & 10 at JAX 34
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,1,LV,1,4,0,25 Yard Pass,(14:19) (Shotgun) N.Mullens pass deep middle to T.Johnson to JAX 8 for 25 yards (C.Muma; S.Quarterman).,2nd & 9 at JAX 33
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,1,LV,1,5,0,Touchdown Raiders,"(13:40) A.Abdullah right end for 8 yards, TOUCHDOWN.",1st & 8 at JAX 8
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,1,LV,1,6,1,Extra Point Good,"D.Carlson extra point is GOOD, Center-T.Sieg, Holder-A.Cole.",XP attempt from JAX 15
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,2,JAX,0,1,0,Kickoff,D.Carlson kicks 62 yards from LV 35 to JAX 3. N.Cottrell to JAX 20 for 17 yards (Z.White; D.Butler).,Kickoff from LV 35
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,2,JAX,0,2,0,2 Yard Run,(13:30) (Shotgun) R.Armstead right guard to JAX 22 for 2 yards (D.Phillips).,1st & 10 at JAX 20
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,2,JAX,0,3,0,4 Yard Pass,(12:51) (Shotgun) J.Luton pass short right to T.Jones to JAX 26 for 4 yards (D.Phillips).,2nd & 8 at JAX 22
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,2,JAX,0,4,0,11 Yard Pass,(12:11) (Shotgun) J.Luton pass short left to L.Farrell to JAX 37 for 11 yards (L.Masterson; K.Young).,3rd & 4 at JAX 26
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,2,JAX,0,5,0,Pass Incomplete,(11:35) (Shotgun) J.Luton pass incomplete short left to L.Farrell (M.Koonce).,1st & 10 at JAX 37
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,2,JAX,0,6,0,Fumble,"(11:31) (Shotgun) J.Luton pass short right to M.Hall to 50 for 13 yards (T.Gillespie, D.Phillips). FUMBLES (T.Gillespie), RECOVERED by LV-D.Harmon at LV 45.",2nd & 10 at JAX 37
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,3,LV,0,1,0,7 Yard Pass,(11:21) N.Mullens pass short left to J.Hollister to JAX 48 for 7 yards (S.Quarterman; A.Wingard).,1st & 10 at LV 45
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,3,LV,0,2,0,2 Yard Run,(10:44) K.Drake left end to JAX 46 for 2 yards (C.Muma).,2nd & 3 at JAX 48
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,3,LV,0,3,0,Run for No Gain,(10:11) Z.White left guard to JAX 46 for no gain (A.Wingard). LV-J.Eluemunor was injured during the play. His return is Questionable.,3rd & 1 at JAX 46
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,3,LV,0,4,0,2 Yard Run,(9:42) Z.White left guard to JAX 44 for 2 yards (T.Herndon).,4th & 1 at JAX 46
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,3,LV,0,5,0,19 Yard Pass,(9:05) (Shotgun) N.Mullens pass short right to Z.White to JAX 25 for 19 yards (X.Crawford).,1st & 10 at JAX 44
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,3,LV,0,6,0,-5 Yard Penalty,"(8:25) N.Mullens pass short right to J.Hollister to JAX 21 for 4 yards (A.Wingard).
+PENALTY on LV, Illegal Formation, 5 yards, enforced at JAX 25 - No Play.",1st & 10 at JAX 25
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,3,LV,0,7,0,-1 Yard Pass,(8:03) (Shotgun) N.Mullens pass short left to M.Hollins to JAX 31 for -1 yards (T.Herndon).,1st & 15 at JAX 30
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,3,LV,0,8,0,Pass Incomplete,(7:29) (Shotgun) N.Mullens pass incomplete short left to K.Cole.,2nd & 16 at JAX 31
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,3,LV,0,9,0,-9 Yard Sack,(7:23) (Shotgun) N.Mullens sacked at JAX 40 for -9 yards (A.Key).,3rd & 16 at JAX 31
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,3,LV,0,10,0,Punt,"(6:40) A.Cole punts 40 yards to end zone, Center-T.Sieg, Touchback.",4th & 25 at JAX 40
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,4,JAX,0,1,0,Pass Incomplete,(6:33) J.Luton pass incomplete deep left to J.Cotton.,1st & 10 at JAX 20
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,4,JAX,0,2,0,5 Yard Pass,(6:27) (Shotgun) J.Luton pass short left to L.Farrell to JAX 25 for 5 yards (L.Masterson).,2nd & 10 at JAX 20
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,4,JAX,0,3,0,Pass Incomplete,(5:49) (Shotgun) J.Luton pass incomplete short left to T.Jones.,3rd & 5 at JAX 25
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,4,JAX,0,4,0,Punt,"(5:44) L.Cooke punts 57 yards to LV 18, Center-R.Matiscik. A.Abdullah pushed ob at LV 31 for 13 yards (R.Matiscik).",4th & 5 at JAX 25
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,5,LV,1,1,0,-1 Yard Run,(5:32) A.Abdullah left tackle to LV 30 for -1 yards (I.Antwine).,1st & 10 at LV 31
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,5,LV,1,2,0,Pass Incomplete,(4:52) (Shotgun) J.Stidham pass incomplete deep right to K.Cole.,2nd & 11 at LV 30
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,5,LV,1,3,0,14 Yard Pass,"(4:46) (Shotgun) J.Stidham pass incomplete short left to T.Johnson.
+Las Vegas challenged the incomplete pass ruling, and the play was REVERSED.
+(Shotgun) J.Stidham pass short left to T.Johnson ran ob at LV 44 for 14 yards.",3rd & 11 at LV 30
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,5,LV,1,4,0,1 Yard Run,(4:35) Z.White left guard to LV 45 for 1 yard (J.Ledbetter).,1st & 10 at LV 44
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,5,LV,1,5,0,8 Yard Pass,"(4:01) (Shotgun) J.Stidham pass short left to Z.White to JAX 47 for 8 yards (C.Russell, D.Thomas).",2nd & 9 at LV 45
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,5,LV,1,6,0,5 Yard Run,(3:24) Z.White left end pushed ob at JAX 42 for 5 yards (C.Russell).,3rd & 1 at JAX 47
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,5,LV,1,7,0,Pass Incomplete,(2:54) (Shotgun) J.Stidham pass incomplete deep left to T.Johnson [R.Ford].,1st & 10 at JAX 42
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,5,LV,1,8,0,12 Yard Run,(2:47) K.Cole left end to JAX 30 for 12 yards (X.Crawford). LV-K.Cole was injured during the play. His return is Questionable.,2nd & 10 at JAX 42
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,5,LV,1,9,0,Pass Incomplete,(2:22) (Shotgun) J.Stidham pass incomplete short left.,1st & 10 at JAX 30
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,5,LV,1,10,0,3 Yard Run,(2:17) K.Drake left guard to JAX 27 for 3 yards (C.Russell).,2nd & 10 at JAX 30
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,5,LV,1,11,0,13 Yard Pass,(2:00) (Shotgun) J.Stidham pass short left to D.Robinson to JAX 14 for 13 yards (Mo.Brown).,3rd & 7 at JAX 27
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,5,LV,1,12,0,2 Yard Run,(1:50) (Shotgun) K.Drake left guard to JAX 12 for 2 yards (C.Russell).,1st & 10 at JAX 14
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,5,LV,1,13,0,Pass Incomplete,(1:46) (Shotgun) J.Stidham pass incomplete short right to D.Turner.,2nd & 8 at JAX 12
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,5,LV,1,14,0,Touchdown Raiders,"(1:42) (Shotgun) J.Stidham scrambles right end for 12 yards, TOUCHDOWN.",3rd & 8 at JAX 12
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,5,LV,1,15,1,Extra Point Good,"D.Carlson extra point is GOOD, Center-T.Sieg, Holder-A.Cole.",XP attempt from JAX 15
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,6,JAX,0,1,0,Kickoff,D.Carlson kicks 61 yards from LV 35 to JAX 4. N.Cottrell to JAX 26 for 22 yards (M.Farley).,Kickoff from LV 35
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,6,JAX,0,2,0,27 Yard Pass,(1:29) (Shotgun) J.Luton pass deep right to L.Farrell to LV 47 for 27 yards (S.Webb).,1st & 10 at JAX 26
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,6,JAX,0,3,0,6 Yard Pass,"(1:04) (No Huddle, Shotgun) J.Luton pass short right to R.Armstead to LV 41 for 6 yards (K.Young).",1st & 10 at LV 47
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,6,JAX,0,4,0,2 Yard Pass,"(:39) (No Huddle, Shotgun) J.Luton pass short right to R.Armstead to LV 39 for 2 yards (S.Webb).",2nd & 4 at LV 41
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,6,JAX,0,5,0,-10 Yard Penalty,"(:36) (Shotgun) J.Luton pass short right to J.Cotton to LV 16 for 23 yards (T.Gillespie). LV-L.Masterson was injured during the play. His return is Questionable. 
+PENALTY on JAX-W.Richardson, Offensive Holding, 10 yards, enforced at LV 39 - No Play.",3rd & 2 at LV 39
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,6,JAX,0,6,0,Pass Incomplete,(:29) (Shotgun) J.Luton pass incomplete deep middle to M.Hall.,3rd & 12 at LV 49
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,6,JAX,0,7,0,Punt,"(:23) L.Cooke punts 42 yards to LV 7, Center-R.Matiscik, downed by JAX-D.Thomas.",4th & 12 at LV 49
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,2ND QUARTER,7,LV,0,1,0,1 Yard Run,(:15) K.Drake left guard to LV 8 for 1 yard (R.Williams).,1st & 10 at LV 7
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,1,JAX,0,1,0,Kickoff,D.Carlson kicks 60 yards from LV 35 to JAX 5. W.Johnson ran ob at JAX 23 for 18 yards (I.Brown).,Kickoff from LV 35
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,1,JAX,0,2,0,2 Yard Run,(14:56) M.Sargent right tackle to JAX 25 for 2 yards (M.Butler; L.Masterson).,1st & 10 at JAX 23
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,1,JAX,0,3,0,11 Yard Pass,(14:15) (Shotgun) K.Sloter pass short right to M.Sargent to JAX 36 for 11 yards (I.Pola-Mao).,2nd & 8 at JAX 25
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,1,JAX,0,4,0,1 Yard Run,(13:39) (Shotgun) M.Sargent left guard to JAX 37 for 1 yard (V.Butler).,1st & 10 at JAX 36
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,1,JAX,0,5,0,6 Yard Pass,(13:06) (Shotgun) K.Sloter pass short right to G.Prince to JAX 43 for 6 yards (B.Cosby).,2nd & 9 at JAX 37
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,1,JAX,0,6,0,Pass Incomplete,(12:33) (Shotgun) K.Sloter pass incomplete short left to G.Prince (B.Cosby).,3rd & 3 at JAX 43
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,1,JAX,0,7,0,Punt,"(12:29) L.Cooke punts 57 yards to end zone, Center-R.Matiscik, Touchback.",4th & 3 at JAX 43
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,2,LV,0,1,0,3 Yard Run,(12:22) (Shotgun) Z.White right guard to LV 23 for 3 yards (Mo.Brown; T.Adams).,1st & 10 at LV 20
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,2,LV,0,2,0,Pass Incomplete,(11:49) (Shotgun) J.Stidham pass incomplete short left to Z.White.,2nd & 7 at LV 23
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,2,LV,0,3,0,-10 Yard Sack,(11:45) (Shotgun) J.Stidham sacked at LV 13 for -10 yards (I.Antwine).,3rd & 7 at LV 23
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,2,LV,0,4,0,Punt,"(11:04) A.Cole punts 39 yards to JAX 48, Center-T.Sieg, fair catch by W.Johnson.",4th & 17 at LV 13
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,3,JAX,0,1,0,3 Yard Pass,"(10:57) K.Sloter pass short left to M.Sargent to LV 49 for 3 yards (N.Farrell, D.Butler).",1st & 10 at JAX 48
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,3,JAX,0,2,0,11 Yard Run,(10:18) M.Sargent left guard to LV 38 for 11 yards (Q.Cole).,2nd & 7 at LV 49
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,3,JAX,0,3,0,6 Yard Pass,(9:37) (Shotgun) K.Sloter pass short right to M.Sargent to LV 32 for 6 yards (Cr.Jones).,1st & 10 at LV 38
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,3,JAX,0,4,0,Pass Incomplete,(9:00) (Shotgun) K.Sloter pass incomplete short right to R.Armstead.,2nd & 4 at LV 32
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,3,JAX,0,5,0,-7 Yard Sack,(8:57) (Shotgun) K.Sloter sacked at LV 39 for -7 yards (K.Vickers).,3rd & 4 at LV 32
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,3,JAX,0,6,0,Punt,"(8:04) L.Cooke punts 35 yards to LV 4, Center-R.Matiscik, downed by JAX-J.Thompson.",4th & 11 at LV 39
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,4,LV,0,1,0,2 Yard Run,(7:56) Z.White left guard to LV 6 for 2 yards (R.Ford; J.Ledbetter).,1st & 10 at LV 4
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,4,LV,0,2,0,4 Yard Pass,(7:16) (Shotgun) N.Mullens pass short right to D.Robinson to LV 10 for 4 yards (R.Ford).,2nd & 8 at LV 6
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,4,LV,0,3,0,-3 Yard Run,(6:40) (Shotgun) Z.White right guard to LV 7 for -3 yards (C.Russell).,3rd & 4 at LV 10
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,4,LV,0,4,0,Punt,"(5:45) A.Cole punts 45 yards to LV 49, Center-T.Sieg. W.Johnson to LV 46 for 3 yards (T.Bower).",4th & 10 at LV 4
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,5,JAX,1,1,0,8 Yard Run,(5:36) W.Johnson right end to LV 38 for 8 yards (T.Gillespie).,1st & 10 at LV 46
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,5,JAX,1,2,0,3 Yard Run,(5:02) M.Sargent left guard to LV 35 for 3 yards (L.Masterson; N.Farrell).,2nd & 2 at LV 38
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,5,JAX,1,3,0,Pass Incomplete,(4:30) (Shotgun) K.Sloter pass incomplete short left to J.Cotton.,1st & 10 at LV 35
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,5,JAX,1,4,0,12 Yard Pass,(4:26) (Shotgun) K.Sloter pass short right to M.Sargent to LV 23 for 12 yards (D.Butler; Q.Cole).,2nd & 10 at LV 35
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,5,JAX,1,5,0,-15 Yard Penalty,"(3:47) M.Sargent right guard to LV 14 for 9 yards (M.Butler; L.Masterson).
+PENALTY on JAX-N.Ford, Chop Block, 15 yards, enforced at LV 23 - No Play.",1st & 10 at LV 23
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,5,JAX,1,6,0,5 Yard Pass,(3:17) (Shotgun) K.Sloter pass short middle to M.Sargent to LV 33 for 5 yards (B.Cosby).,1st & 25 at LV 38
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,5,JAX,1,7,0,Pass Incomplete,(2:41) (Shotgun) K.Sloter pass incomplete short right to J.Cotton.,2nd & 20 at LV 33
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,5,JAX,1,8,0,5 Yard Run,(2:37) (Shotgun) M.Sargent left guard to LV 28 for 5 yards (M.Tagovailoa-Amosa). LV-K.Vickers was injured during the play. His return is Questionable.,3rd & 20 at LV 33
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,5,JAX,1,9,1,Field Goal,"(2:15) E.Fry 46 yard field goal is GOOD, Center-R.Matiscik, Holder-L.Cooke.",4th & 15 at LV 28
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,6,LV,0,1,0,Kickoff,"E.Fry kicks 65 yards from JAX 35 to end zone, Touchback.",Kickoff from JAX 35
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,6,LV,0,2,0,5 Yard Pass,(2:10) N.Mullens pass short middle to D.Turner to LV 30 for 5 yards (C.Russell).,1st & 10 at LV 25
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,6,LV,0,3,0,13 Yard Run,(1:29) Z.White right tackle to LV 43 for 13 yards (J.Thompson).,2nd & 5 at LV 30
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,6,LV,0,4,0,-4 Yard Pass,(:57) (Shotgun) N.Mullens pass short left to Z.White to LV 39 for -4 yards (R.Berry).,1st & 10 at LV 43
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,6,LV,0,5,0,Pass Incomplete,(:18) (Shotgun) N.Mullens pass incomplete short right to C.Fotheringham.,2nd & 14 at LV 39
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,6,LV,0,6,0,Pass Incomplete,(:13) (Shotgun) N.Mullens pass incomplete deep left to J.Veasy (J.Thompson).,3rd & 14 at LV 39
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,3RD QUARTER,6,LV,0,7,0,Punt,"(:07) A.Cole punts 49 yards to JAX 12, Center-T.Sieg. W.Johnson for 88 yards, TOUCHDOWN NULLIFIED by Penalty.
+PENALTY on JAX-A.Oyelola, Offensive Holding, 10 yards, enforced at JAX 22.",4th & 14 at LV 39
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,1,JAX,0,1,0,17 Yard Pass,"(15:00) (Shotgun) K.Sloter pass short left to N.Cottrell to JAX 14 for 2 yards (M.Farley).
+PENALTY on LV-M.Farley, Lowering the Head to Make Forcible Contact, 15 yards, enforced at JAX 14.",1st & 10 at JAX 12
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,1,JAX,0,2,0,4 Yard Run,(14:42) (Shotgun) K.Sloter scrambles right guard to JAX 33 for 4 yards (D.Butler).,1st & 10 at JAX 29
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,1,JAX,0,3,0,5 Yard Run,(14:05) (Shotgun) N.Cottrell right guard to JAX 38 for 5 yards (L.Masterson).,2nd & 6 at JAX 33
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,1,JAX,0,4,0,1 Yard Penalty,"(13:26) (Shotgun) K.Sloter pass incomplete short right to W.Johnson.
+PENALTY on LV-B.Cosby, Defensive Pass Interference, 1 yard, enforced at JAX 38 - No Play.",3rd & 1 at JAX 38
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,1,JAX,0,5,0,1 Yard Run,"(13:22) N.Cottrell left tackle to JAX 40 for 1 yard (Z.VanValkenburg, I.Pola-Mao).",1st & 10 at JAX 39
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,1,JAX,0,6,0,Pass Incomplete,(12:38) (Shotgun) K.Sloter pass incomplete short middle to L.Winningham (Cr.Jones).,2nd & 9 at JAX 40
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,1,JAX,0,7,0,8 Yard Pass,(12:31) (Shotgun) K.Sloter pass short left to L.Winningham to JAX 48 for 8 yards (I.Brown; M.Farley).,3rd & 9 at JAX 40
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,1,JAX,0,8,0,Turnover on Downs,"(11:53) K.Sloter FUMBLES (Aborted) at JAX 48, recovered by JAX-N.Cottrell at JAX 45. N.Cottrell to JAX 42 for -3 yards (T.Bower).",4th & 1 at JAX 48
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,2,LV,1,1,0,-5 Yard Penalty,"(11:49) (Shotgun) C.Garbers pass deep right to J.Veasy to JAX 23 for 19 yards (G.Morgan; B.Franklin).
+PENALTY on LV, Illegal Formation, 5 yards, enforced at JAX 42 - No Play.",1st & 10 at JAX 42
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,2,LV,1,2,0,Pass Incomplete,(11:25) (Shotgun) C.Garbers pass incomplete short left to J.Veasy (R.Williams).,1st & 15 at JAX 47
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,2,LV,1,3,0,6 Yard Pass,(11:20) C.Garbers pass short right to J.Veasy to JAX 41 for 6 yards.,2nd & 15 at JAX 47
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,2,LV,1,4,0,10 Yard Pass,(10:50) C.Garbers pass short middle to J.Veasy to JAX 31 for 10 yards (B.Rusnak).,3rd & 9 at JAX 41
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,2,LV,1,5,0,5 Yard Run,(10:19) A.Walter right tackle to JAX 26 for 5 yards (C.Russell).,1st & 10 at JAX 31
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,2,LV,1,6,0,-1 Yard Run,(9:49) A.Walter left tackle to JAX 27 for -1 yards (G.Morgan; W.Ray).,2nd & 5 at JAX 26
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,2,LV,1,7,0,3 Yard Pass,(9:16) (Shotgun) C.Garbers pass short left to A.Walter to JAX 24 for 3 yards (Mo.Brown).,3rd & 6 at JAX 27
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,2,LV,1,8,0,16 Yard Pass,(8:37) (Shotgun) C.Garbers pass short right to J.Horsted to JAX 8 for 16 yards (C.Russell; G.Junior).,4th & 3 at JAX 24
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,2,LV,1,9,0,Touchdown Raiders,"(8:00) A.Walter right end for 8 yards, TOUCHDOWN.",1st & 8 at JAX 8
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,2,LV,1,10,1,Extra Point Good,"D.Carlson extra point is GOOD, Center-T.Sieg, Holder-A.Cole.",XP attempt from JAX 15
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,3,JAX,0,1,0,Kickoff,"D.Carlson kicks 65 yards from LV 35 to end zone, Touchback.",Kickoff from LV 35
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,3,JAX,0,2,0,Pass Incomplete,(7:53) (Shotgun) K.Sloter pass incomplete short middle to R.McDaniel.,1st & 10 at JAX 25
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,3,JAX,0,3,0,Pass Incomplete,(7:49) (Shotgun) K.Sloter pass incomplete short right to K.Austin.,2nd & 10 at JAX 25
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,3,JAX,0,4,0,Pass Incomplete,(7:43) (Shotgun) K.Sloter pass incomplete short middle to R.McDaniel.,3rd & 10 at JAX 25
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,3,JAX,0,5,0,Punt,"(7:38) L.Cooke punts 49 yards to LV 26, Center-R.Matiscik, fair catch by J.Hall.
+PENALTY on JAX-B.Rusnak, Ineligible Downfield Kick, 5 yards, enforced at LV 26.",4th & 10 at JAX 25
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,4,LV,0,1,0,8 Yard Run,(7:30) A.Walter left guard to LV 39 for 8 yards (R.Williams).,1st & 10 at LV 31
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,4,LV,0,2,0,1 Yard Run,(6:55) A.Walter left guard to LV 40 for 1 yard (S.Davis).,2nd & 2 at LV 39
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,4,LV,0,3,0,Pass Incomplete,(6:12) C.Garbers pass incomplete short middle to J.Veasy.,3rd & 1 at LV 40
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,4,LV,0,4,0,Punt,"(6:09) A.Cole punts 46 yards to JAX 14, Center-T.Sieg, fair catch by W.Johnson.",4th & 1 at LV 40
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,5,JAX,1,1,0,27 Yard Pass,(6:01) (Shotgun) K.Sloter pass short right to N.Cottrell pushed ob at JAX 41 for 27 yards (I.Pola-Mao).,1st & 10 at JAX 14
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,5,JAX,1,2,0,Pass Incomplete,(5:21) (Shotgun) K.Sloter pass incomplete short right to R.Armstead.,1st & 10 at JAX 41
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,5,JAX,1,3,0,24 Yard Pass,(5:16) (Shotgun) K.Sloter pass short middle to W.Johnson to LV 35 for 24 yards (B.Cosby).,2nd & 10 at JAX 41
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,5,JAX,1,4,0,-5 Yard Penalty,"(4:48) (Shotgun) PENALTY on JAX-N.Ford, False Start, 5 yards, enforced at LV 35 - No Play.",1st & 10 at LV 35
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,5,JAX,1,5,0,Pass Incomplete,(4:45) (Shotgun) K.Sloter pass incomplete short right to N.Cottrell (M.Tagovailoa-Amosa).,1st & 15 at LV 40
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,5,JAX,1,6,0,17 Yard Pass,(4:42) (Shotgun) K.Sloter pass short middle to W.Johnson to LV 23 for 17 yards (D.Butler).,2nd & 15 at LV 40
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,5,JAX,1,7,0,Pass Incomplete,"(4:11) (No Huddle, Shotgun) K.Sloter pass incomplete short left to W.Johnson.",1st & 10 at LV 23
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,5,JAX,1,8,0,17 Yard Penalty,"(4:08) (Shotgun) K.Sloter pass incomplete deep left to L.Winningham.
+PENALTY on LV-I.Brown, Defensive Pass Interference, 17 yards, enforced at LV 23 - No Play.",2nd & 10 at LV 23
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,5,JAX,1,9,0,1 Yard Pass,(4:03) (Shotgun) K.Sloter pass short left to N.Cottrell to LV 5 for 1 yard (C.Bolton).,1st & 6 at LV 6
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,5,JAX,1,10,0,Pass Incomplete,"(3:35) (No Huddle, Shotgun) K.Sloter pass incomplete short right to R.McDaniel.",2nd & 5 at LV 5
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,5,JAX,1,11,0,Touchdown Jaguars,"(3:32) (Shotgun) K.Sloter pass short left to N.Cottrell for 5 yards, TOUCHDOWN.",3rd & 5 at LV 5
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,5,JAX,1,12,1,2PT Conversion Success,TWO-POINT CONVERSION ATTEMPT. N.Cottrell rushes up the middle. ATTEMPT SUCCEEDS.,XP attempt from LV 2
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,6,LV,0,1,0,Kickoff,R.Santoso kicks 67 yards from JAX 35 to LV -2. J.Hall to LV 17 for 19 yards (G.Morgan; G.Junior).,Kickoff from JAX 35
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,6,LV,0,2,0,22 Yard Run,(3:23) A.Walter left guard to LV 39 for 22 yards (S.Davis).,1st & 10 at LV 17
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,6,LV,0,3,0,3 Yard Run,(2:43) A.Walter right guard to LV 42 for 3 yards (J.Tufele).,1st & 10 at LV 39
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,6,LV,0,4,0,3 Yard Run,(2:00) A.Walter right guard to LV 45 for 3 yards (J.Tufele).,2nd & 7 at LV 42
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,6,LV,0,5,0,-7 Yard Sack,(1:22) (Shotgun) C.Garbers sacked at LV 38 for -7 yards (G.Morgan).,3rd & 4 at LV 45
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,6,LV,0,6,0,Punt,"(:37) A.Cole punts 48 yards to JAX 14, Center-T.Sieg, fair catch by W.Johnson.",4th & 11 at LV 38
+2022,Hall Of Fame,THU,08/04,Jaguars,Raiders,4TH QUARTER,7,JAX,0,1,0,7 Yard Run,(:30) (Shotgun) N.Cottrell right guard to JAX 21 for 7 yards (D.Butler).,1st & 10 at JAX 14
