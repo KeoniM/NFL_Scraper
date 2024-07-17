@@ -3,7 +3,7 @@ from selenium.common.exceptions import NoSuchElementException
 
 # For METHODS FOR DROPDOWN MENUS
 from selenium.webdriver.support.ui import Select
- 
+
 
 ##############################################################
 # EVERY OBJECT IN THIS MODULE IS A CUSTOM "CONDITION OBJECT" #
@@ -49,7 +49,7 @@ class enough_elements_present(object):
                 return elements
             else:
                 return False
-        except [StaleElementReferenceException, NoSuchElementException]:
+        except (StaleElementReferenceException, NoSuchElementException):
             return False
 
 
@@ -61,6 +61,29 @@ class enough_elements_present(object):
     ###########################################################################################################################
     ###########################################################################################################################
 
+
+"""
+PURPOSE:
+    - An attempt to adjust to dynamic dropdown webelements.
+        - This custom wait will only return true if the dropdown element is found and its options have been returned
+INPUT PARAMETERS:
+                    locator -  tuple  - How to find an element on a webpage. typically formatted
+                                        as (By.'locator strategy', 'identifier').
+RETURN:
+    - list of dropdown options
+"""
+class get_dropdown_options(object):
+
+    def __init__(self, locator):
+        self.locator = locator
+
+    def __call__(self, driver):
+        try:
+            element = driver.find_element(*self.locator)
+            dropdown_webelement = Select(element)
+            return [option.text for option in dropdown_webelement.options]
+        except (StaleElementReferenceException, NoSuchElementException):
+            return False        
 
 """
 PURPOSE:
@@ -117,18 +140,18 @@ class child_element_to_be_present:
     def __call__(self, driver):
         try:
             return self.parent_webelement.find_element(*self.child_locator)
-        except [StaleElementReferenceException, NoSuchElementException]:
+        except (StaleElementReferenceException, NoSuchElementException):
             return False    
 
 """
 PURPOSE
     - Will only pass if a specified amount (or more) of like child Webelements are found.
 INPUT PARAMETERS:
-               parent_webelement - webelement - parent element to desired child webelements
-               locator -  tuple  - How to find an element on a webpage. typically formatted
-                                   as (By.'locator strategy', 'identifier').
-    num_elements_check -   int   - Desired number of like Webelements that need to be found 
-                                   in the DOM order to pass.
+     parent_webelement - webelement - parent element to desired child webelements
+               locator -   tuple    - How to find an element on a webpage. typically formatted
+                                      as (By.'locator strategy', 'identifier').
+    num_elements_check -    int     - Desired number of like Webelements that need to be found 
+                                      in the DOM order to pass.
 RETURN:
     elements -  list   - List of all elements found with given locator at that time.
                                   - The reason why I say "at that time" is because not all 
@@ -151,5 +174,39 @@ class enough_child_elements_present(object):
                 return elements
             else:
                 return False
-        except [StaleElementReferenceException, NoSuchElementException]:
+        except (StaleElementReferenceException, NoSuchElementException):
             return False
+
+
+"""
+PURPOSE
+    - A webelement can either be one of 2 different things.
+        - This was needed while going through a list of like webelements. Depending on which
+          webelement the scraper was observing, there were different parts of the webelement that needed to be checked.
+INPUT PARAMETERS:
+     parent_webelement  - webelement - parent element to desired child webelements
+               locator1 -   tuple    - How to find an element on a webpage. typically formatted
+                                       as (By.'locator strategy', 'identifier').
+               locator2 -   tuple    - How to find an element on a webpage. typically formatted
+                                       as (By.'locator strategy', 'identifier').
+RETURN:
+    - List that contains webelement that has been found and an indication of which webelement was found
+    - Will return False if neither webelement was found.
+NEXT ITERATION:
+    - Can probably make this more flexable by creating a list of locators instead of limiting it to 2
+"""
+class one_or_the_other(object):
+
+    def __init__(self, parent_webelement, locator1, locator2):
+        self.parent_webelement = parent_webelement
+        self.locator1 = locator1
+        self.locator2 = locator2
+
+    def __call__(self, driver):
+        try:
+            return [self.parent_webelement.find_element(*self.locator1), 1]
+        except:
+            try:
+                return [self.parent_webelement.find_element(*self.locator2), 2]
+            except:
+                return False
