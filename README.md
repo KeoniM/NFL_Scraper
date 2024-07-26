@@ -13,7 +13,7 @@ The primary aim of this project is to provide users with the tools needed to acc
 
 ## Project Status
 
-**Development Stage:** This project is currently in its initial development phase. Functionality such as retrieving game scores is operational, but additional features and optimizations are planned. Future updates will focus on improving data extraction techniques and expanding the types of data available.
+As of July 18, 2024, the project has been completed and all goals have been achieved. The functionality for retrieving game scores and play-by-play details is fully operational. Future adjustments may be made to address any bugs not identified during development or to enhance efficiency.
 
 ## Use Cases
 
