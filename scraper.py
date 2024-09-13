@@ -87,12 +87,15 @@ class NflScraper:
       try:
         wait.until(dropdown_search_and_select((By.ID, "Season"), chosen_year))
         # Make sure the year has rendered before the week is searched. Without this, the DOM will mix weeks.
-        wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div/div/div/div[2]/div/div[3]")))
+        # - The webelement targeted here is the first game. If that webelement fully loads, then the year selected has rendered.
+        # wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div/div/div/div[2]/div/div[3]"))) # NFL_Scraper 1.0
+        wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[4]/main/div/div/div/div[2]/div/div/div[2]/div/div[4]"))) # NFL_Scraper 1.1
         wait.until(dropdown_search_and_select((By.ID, "Week"), chosen_week))
 
         # grabbing webelement containing text of which week the page is on
         week_check = wait.until(
-          EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div/div/div/div/div/div/div"))
+          # EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div/div/div/div/div/div/div")) # NFL_Scraper 1.0
+          EC.presence_of_element_located((By.XPATH, "/html/body/div[4]/main/div/div/div/div[2]/div/div/div/div/div/div")) # NFL_Scraper 1.1
         )
 
         # double check to be sure that the users "chosen_week" matches the page
@@ -194,8 +197,11 @@ class NflScraper:
     wait = WebDriverWait(self.driver, 5)
 
     # webelement that shares a classname with all webelements that contain desired data (Titles/Scores/Byes/Upcoming).
+    # - Should be webelement container stating which week the page is on (e.g. 'Games - Week 2')
     shared_classname_webelement = wait.until(
-        EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div/div/div/div"))
+        # /html/body/div[4]/main/div/div/div/div[2]/div/div/div
+        # EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div/div/div/div")) # NFL_Scraper 1.0
+        EC.presence_of_element_located((By.XPATH, "/html/body/div[4]/main/div/div/div/div[2]/div/div/div")) # NFL_Scraper 1.1
     )
 
     # the shared classname for all desired webelements
@@ -332,7 +338,7 @@ class NflScraper:
     df_week_scores = pd.DataFrame(columns=["Season", "Week", "GameStatus", "Day", "Date", 
                                     "AwayTeam", "AwayRecord", "AwayScore", "AwayWin",
                                     "HomeTeam", "HomeRecord", "HomeScore", "HomeWin",
-                                    "AwaySeeding", "HomeSeeding", "PostSeason?"])
+                                    "AwaySeeding", "HomeSeeding", "PostSeason"])
     
     """
     PURPOSE:
@@ -362,6 +368,9 @@ class NflScraper:
       scores_webelement - webelement - contains scores data of game
     RETURN:
       organized_game_data - list - contains organized data that breaks down the game contained in webelement.
+    NOTE:
+      - This method will fail if some games have been played and some have not been played yet. 
+        - (e.g. Thursday game has finished but none of the games on Sunday have been played yet.)
     """
     def get_score_data(scores_webelement):
 
