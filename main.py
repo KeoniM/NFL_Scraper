@@ -8,11 +8,18 @@ import pandas as pd
 import time
 import random
 
+####################
+# GLOBAL VARIABLES #
+####################
+
 """
-GLOBAL VARIABLES:
 path_to_webdriver - string - absolute path to webdriver on personal machine.
 """
 relative_path_to_webdriver = 'bin/chromedriver'
+
+##################
+# HELPER METHODS #
+##################
 
 """
 PURPOSE:
@@ -84,18 +91,20 @@ def main():
     #########################################
 
 
-    # # Example 1 (get_scores_given_seasons_and_weeks)
-    # # - Grabbing specified scores given a list of seasons, weeks, and file names for csv files
-    # example_seasons = ['2020', '2021', '2022', '2023']
-    # example_weeks = [['Week 1'], ['Week 1', 'Week 2'], ['Super Bowl'], ['Super Bowl']]
-    # example_file_names = ['2020_week_1', '2021_week_1_2', '2022_SB', '2023_SB']
-    # get_scores_given_seasons_and_weeks(scraper, 
-    #                                    example_seasons, 
-    #                                    example_weeks, 
-    #                                    example_file_names)
+    # Example 1 (get_scores_given_seasons_and_weeks)
+    # - Get scores from a given list of seasons and their associated weeks
+    #   - Provide a list of file names for csv files, if 'None' then default will be used
+    example_seasons = ['2024']
+    # example_weeks = [['Hall Of Fame', 'Preseason Week 1', 'Preseason Week 2', 'Preseason Week 3', 'Week 1']]
+    example_weeks = [all_available_weeks_for_associated_seasons[all_available_seasons.index("2024")]]
+    example_file_names = None
+    get_scores_given_seasons_and_weeks(scraper, 
+                                       example_seasons, 
+                                       example_weeks, 
+                                       example_file_names)
     
     # # Example 2 (get_scores_given_seasons_and_weeks)
-    # # - Grabbing all available scores from every week in every season
+    # # - Get all available scores from every week in every season
     # get_scores_given_seasons_and_weeks(scraper, 
     #                                    all_available_seasons, 
     #                                    all_available_weeks_for_associated_seasons)
@@ -106,21 +115,22 @@ def main():
     ######################################
 
 
-    # # Example 1 (get_plays_given_seasons_and_weeks)
-    # # - Grabbing plays from specified list of seasons and weeks
-    # example_seasons = ['2017', '2023']
-    # example_weeks = [['Week 1', 'Week 2'], ['Super Bowl']]
-    # example_file_names = ['2017_week1_week2_plays', ['2023_SB_plays']]
-    # get_plays_given_seasons_and_weeks(scraper, example_seasons, example_weeks, example_file_names)
+    # Example 1 (get_plays_given_seasons_and_weeks)
+    # - Grabbing plays from specified list of seasons and weeks
+    example_seasons = ['2024']
+    example_weeks = [['Week 6']]
+    # example_file_names = ['2024_week 3_plays']
+    example_file_names = None
+    get_plays_given_seasons_and_weeks(scraper, example_seasons, example_weeks, example_file_names)
 
-    # Example 2 (get_plays_given_seasons_and_weeks)
-    # - Grabbing all plays from a specified season and starting at desired week
-    index_of_desired_season = all_available_seasons.index("2019")
-    example_season = [all_available_seasons[index_of_desired_season]] # Needs to be a list of lists
-    example_weeks = all_available_weeks_for_associated_seasons[index_of_desired_season]
-    example_start_week = example_weeks.index("Week 1")
-    example_week_start = [example_weeks[example_start_week::]] # Needs to be a list of lists
-    get_plays_given_seasons_and_weeks(scraper, example_season, example_week_start)
+    # # Example 2 (get_plays_given_seasons_and_weeks)
+    # # - Grabbing all plays from a specified season and starting at desired week
+    # index_of_desired_season = all_available_seasons.index("2024")
+    # example_season = [all_available_seasons[index_of_desired_season]] # Needs to be a list of lists
+    # example_weeks = all_available_weeks_for_associated_seasons[index_of_desired_season]
+    # example_start_week = example_weeks.index("Week 1")
+    # example_week_start = [example_weeks[example_start_week::]] # Needs to be a list of lists
+    # get_plays_given_seasons_and_weeks(scraper, example_season, example_week_start)
 
     # # Example 3 (get_plays_given_seasons_and_weeks)
     # # - Grabbing all plays from every season available 
