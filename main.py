@@ -118,7 +118,7 @@ def main():
     # Example 1 (get_plays_given_seasons_and_weeks)
     # - Grabbing plays from specified list of seasons and weeks
     example_seasons = ['2024']
-    example_weeks = [['Week 17']]
+    example_weeks = [['Week 18']]
     # example_file_names = ['2024_week 3_plays']
     example_file_names = None
     get_plays_given_seasons_and_weeks(scraper, example_seasons, example_weeks, example_file_names)

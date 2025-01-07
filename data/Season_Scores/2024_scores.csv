@@ -336,19 +336,25 @@ Season,Week,GameStatus,Day,Date,AwayTeam,AwayRecord,AwayScore,AwayWin,HomeTeam,H
 2024,Week 17,FINAL,SUN,12/29,Packers,11-5,25,0.0,Vikings,14-2,27,1.0,,,0
 2024,Week 17,FINAL,SUN,12/29,Falcons,8-8,24,0.0,Commanders,11-5,30,1.0,,,0
 2024,Week 17,FINAL,MON,12/30,Lions,14-2,40,1.0,49ers,6-10,34,0.0,,,0
-2024,Week 18,UPCOMING,SAT,01/04,Browns,3-13,0,0.0,Ravens,11-5,0,0.0,,,0
-2024,Week 18,UPCOMING,SAT,01/04,Bengals,8-8,0,0.0,Steelers,10-6,0,0.0,,,0
-2024,Week 18,UPCOMING,SUN,01/05,Panthers,4-12,0,0.0,Falcons,8-8,0,0.0,,,0
-2024,Week 18,UPCOMING,SUN,01/05,Commanders,11-5,0,0.0,Cowboys,7-9,0,0.0,,,0
-2024,Week 18,UPCOMING,SUN,01/05,Bears,4-12,0,0.0,Packers,11-5,0,0.0,,,0
-2024,Week 18,UPCOMING,SUN,01/05,Jaguars,4-12,0,0.0,Colts,7-9,0,0.0,,,0
-2024,Week 18,UPCOMING,SUN,01/05,Bills,13-3,0,0.0,Patriots,3-13,0,0.0,,,0
-2024,Week 18,UPCOMING,SUN,01/05,Giants,3-13,0,0.0,Eagles,13-3,0,0.0,,,0
-2024,Week 18,UPCOMING,SUN,01/05,Saints,5-11,0,0.0,Buccaneers,9-7,0,0.0,,,0
-2024,Week 18,UPCOMING,SUN,01/05,Texans,9-7,0,0.0,Titans,3-13,0,0.0,,,0
-2024,Week 18,UPCOMING,SUN,01/05,49ers,6-10,0,0.0,Cardinals,7-9,0,0.0,,,0
-2024,Week 18,UPCOMING,SUN,01/05,Chiefs,15-1,0,0.0,Broncos,9-7,0,0.0,,,0
-2024,Week 18,UPCOMING,SUN,01/05,Seahawks,9-7,0,0.0,Rams,10-6,0,0.0,,,0
-2024,Week 18,UPCOMING,SUN,01/05,Chargers,10-6,0,0.0,Raiders,4-12,0,0.0,,,0
-2024,Week 18,UPCOMING,SUN,01/05,Dolphins,8-8,0,0.0,Jets,4-12,0,0.0,,,0
-2024,Week 18,UPCOMING,SUN,01/05,Vikings,14-2,0,0.0,Lions,14-2,0,0.0,,,0
+2024,Week 18,FINAL,SAT,01/04,Browns,3-14,10,0.0,Ravens,12-5,35,1.0,,,0
+2024,Week 18,FINAL,SAT,01/04,Bengals,9-8,19,1.0,Steelers,10-7,17,0.0,,,0
+2024,Week 18,FINAL,SUN,01/05,Panthers,5-12,44,1.0,Falcons,8-9,38,0.0,,,0
+2024,Week 18,FINAL,SUN,01/05,Commanders,12-5,23,1.0,Cowboys,7-10,19,0.0,,,0
+2024,Week 18,FINAL,SUN,01/05,Bears,5-12,24,1.0,Packers,11-6,22,0.0,,,0
+2024,Week 18,FINAL,SUN,01/05,Jaguars,4-13,23,0.0,Colts,8-9,26,1.0,,,0
+2024,Week 18,FINAL,SUN,01/05,Bills,13-4,16,0.0,Patriots,4-13,23,1.0,,,0
+2024,Week 18,FINAL,SUN,01/05,Giants,3-14,13,0.0,Eagles,14-3,20,1.0,,,0
+2024,Week 18,FINAL,SUN,01/05,Saints,5-12,19,0.0,Buccaneers,10-7,27,1.0,,,0
+2024,Week 18,FINAL,SUN,01/05,Texans,10-7,23,1.0,Titans,3-14,14,0.0,,,0
+2024,Week 18,FINAL,SUN,01/05,49ers,6-11,24,0.0,Cardinals,8-9,47,1.0,,,0
+2024,Week 18,FINAL,SUN,01/05,Chiefs,15-2,0,0.0,Broncos,10-7,38,1.0,,,0
+2024,Week 18,FINAL,SUN,01/05,Seahawks,10-7,30,1.0,Rams,10-7,25,0.0,,,0
+2024,Week 18,FINAL,SUN,01/05,Chargers,11-6,34,1.0,Raiders,4-13,20,0.0,,,0
+2024,Week 18,FINAL,SUN,01/05,Dolphins,8-9,20,0.0,Jets,5-12,32,1.0,,,0
+2024,Week 18,FINAL,SUN,01/05,Vikings,14-3,9,0.0,Lions,15-2,31,1.0,,,0
+2024,Wild Card Weekend,UPCOMING,SAT,01/11,Chargers,11-6,0,0.0,Texans,10-7,0,0.0,5,4,1
+2024,Wild Card Weekend,UPCOMING,SAT,01/11,Steelers,10-7,0,0.0,Ravens,12-5,0,0.0,6,3,1
+2024,Wild Card Weekend,UPCOMING,SUN,01/12,Broncos,10-7,0,0.0,Bills,13-4,0,0.0,7,2,1
+2024,Wild Card Weekend,UPCOMING,SUN,01/12,Packers,11-6,0,0.0,Eagles,14-3,0,0.0,7,2,1
+2024,Wild Card Weekend,UPCOMING,SUN,01/12,Commanders,12-5,0,0.0,Buccaneers,10-7,0,0.0,6,3,1
+2024,Wild Card Weekend,UPCOMING,MON,01/13,Vikings,14-3,0,0.0,Rams,10-7,0,0.0,5,4,1
