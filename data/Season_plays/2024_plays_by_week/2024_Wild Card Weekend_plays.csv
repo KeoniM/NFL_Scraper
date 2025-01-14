@@ -1,0 +1,968 @@
+Season,Week,Day,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayDescription,PlayStart
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,1,LAC,1,1,0,Kickoff,K.Fairbairn kicks 66 yards from HOU 35 to LAC -1. D.Davis to LAC 27 for 28 yards (D.Phillips; M.Stewart).,Kickoff from HOU 35
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,1,LAC,1,2,0,2 Yard Run,(14:55) (Shotgun) J.Dobbins left tackle to LAC 29 for 2 yards (C.Harris).,1st & 10 at LAC 27
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,1,LAC,1,3,0,8 Yard Run,(14:20) S.Mustipher reported in as eligible.  J.Dobbins left tackle to LAC 37 for 8 yards (H.To'oTo'o; K.Lassiter).,2nd & 8 at LAC 29
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,1,LAC,1,4,0,10 Yard Pass,(13:36) (Shotgun) J.Herbert pass short middle to L.McConkey to LAC 47 for 10 yards (E.Murray).,1st & 10 at LAC 37
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,1,LAC,1,5,0,7 Yard Pass,(12:56) (Shotgun) J.Herbert pass short left to W.Dissly to HOU 46 for 7 yards (A.Al-Shaair; H.To'oTo'o).,1st & 10 at LAC 47
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,1,LAC,1,6,0,8 Yard Run,(12:19) J.Dobbins up the middle to HOU 38 for 8 yards (H.To'oTo'o; M.Bryant).,2nd & 3 at HOU 46
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,1,LAC,1,7,0,15 Yard Pass,(11:42) J.Herbert pass short left to T.Fisk to HOU 23 for 15 yards (A.Al-Shaair). HOU-A.Al-Shaair was injured during the play.,1st & 10 at HOU 38
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,1,LAC,1,8,0,Pass Incomplete,(11:11) (Shotgun) J.Herbert pass incomplete deep left to L.McConkey.,1st & 10 at HOU 23
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,1,LAC,1,9,0,9 Yard Pass,(11:06) J.Herbert pass short middle to W.Dissly to HOU 14 for 9 yards (A.Al-Shaair; E.Murray). ** Injury Update: HOU-A.Al-Shaair has returned to the game.,2nd & 10 at HOU 23
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,1,LAC,1,10,0,-2 Yard Run,"(10:20) J.Dobbins right tackle to HOU 16 for -2 yards (F.Fatukasi, C.Bullock).",3rd & 1 at HOU 14
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,1,LAC,1,11,1,Field Goal,"(9:41) C.Dicker 35 yard field goal is GOOD, Center-J.Harris, Holder-J.Scott.",4th & 3 at HOU 16
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,2,HOU,0,1,0,Kickoff,"C.Dicker kicks 65 yards from LAC 35 to end zone, Touchback to the HOU 30.",Kickoff from LAC 35
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,2,HOU,0,2,0,Fumble,"(9:37) (Shotgun) C.Stroud pass short left to J.Metchie to HOU 37 for 7 yards (A.Gilman). FUMBLES (A.Gilman), RECOVERED by LAC-D.James at HOU 38. D.James to HOU 33 for 5 yards (X.Hutchinson; J.Metchie).",1st & 10 at HOU 30
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,3,LAC,1,1,0,8 Yard Run,(9:28) (Shotgun) G.Edwards right tackle to HOU 25 for 8 yards (A.Al-Shaair).,1st & 10 at HOU 33
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,3,LAC,1,2,0,3 Yard Run,(8:49) (Shotgun) G.Edwards left guard to HOU 22 for 3 yards (H.To'oTo'o).,2nd & 2 at HOU 25
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,3,LAC,1,3,0,Sack,(8:10) S.Mustipher reported in as eligible.  J.Herbert sacked at HOU 31 for -9 yards (sack split by W.Anderson and M.Edwards).,1st & 10 at HOU 22
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,3,LAC,1,4,0,Pass Incomplete,(7:29) (Shotgun) J.Herbert pass incomplete deep left to W.Dissly [A.Al-Shaair].,2nd & 19 at HOU 31
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,3,LAC,1,5,0,10 Yard Pass,(7:24) (Shotgun) J.Herbert pass short right to D.Chark to HOU 21 for 10 yards (M.Bryant).,3rd & 19 at HOU 31
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,3,LAC,1,6,1,Field Goal,"(6:39) C.Dicker 39 yard field goal is GOOD, Center-J.Harris, Holder-J.Scott.",4th & 9 at HOU 21
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,4,HOU,0,1,0,Kickoff,"C.Dicker kicks 65 yards from LAC 35 to end zone, Touchback to the HOU 30.",Kickoff from LAC 35
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,4,HOU,0,2,0,3 Yard Run,(6:35) J.Mixon left tackle to HOU 33 for 3 yards (D.Henley; D.Perryman).,1st & 10 at HOU 30
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,4,HOU,0,3,0,Run for No Gain,(6:01) J.Mixon left tackle to HOU 33 for no gain (J.Bosa; D.Perryman).,2nd & 7 at HOU 33
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,4,HOU,0,4,0,Pass Incomplete,(5:18) (Shotgun) C.Stroud pass incomplete short right to J.Metchie.,3rd & 7 at HOU 33
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,4,HOU,0,5,0,Punt,"(5:10) T.Townsend punts 67 yards to end zone, Center-J.Weeks, Touchback.
+PENALTY on HOU-K.Boyd, Fair Catch Interference, 15 yards, enforced at LAC 20.",4th & 7 at HOU 33
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,5,LAC,0,1,0,-5 Yard Penalty,"(4:58) (Shotgun) J.Herbert pass short left to D.Davis pushed ob at LAC 38 for 3 yards (A.Al-Shaair; K.Lassiter).
+PENALTY on LAC-J.Salyer, Ineligible Downfield Pass, 5 yards, enforced at LAC 35 - No Play.",1st & 10 at LAC 35
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,5,LAC,0,2,0,1 Yard Run,(4:28) (Shotgun) J.Dobbins up the middle to LAC 31 for 1 yard (F.Fatukasi).,1st & 15 at LAC 30
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,5,LAC,0,3,0,5 Yard Penalty,"(3:49) (Shotgun) J.Herbert pass incomplete deep middle to D.Davis (T.Settle).
+PENALTY on HOU-D.Hunter, Defensive Holding, 5 yards, enforced at LAC 31 - No Play.",2nd & 14 at LAC 31
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,5,LAC,0,4,0,1 Yard Run,(3:42) (Shotgun) G.Edwards left tackle to LAC 37 for 1 yard (D.Hunter).,1st & 10 at LAC 36
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,5,LAC,0,5,0,Pass Incomplete,(2:58) (Shotgun) J.Herbert pass incomplete short left to H.Haskins.,2nd & 9 at LAC 37
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,5,LAC,0,6,0,Pass Incomplete,"(2:53) (Shotgun) J.Herbert pass incomplete short middle to D.Chark (W.Anderson, M.Bryant) [W.Anderson].",3rd & 9 at LAC 37
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,1ST QUARTER,5,LAC,0,7,0,Punt,"(2:48) J.Scott punts 35 yards to HOU 28, Center-J.Harris, downed by LAC-J.Harris.",4th & 9 at LAC 37
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,1,HOU,0,1,0,14 Yard Pass,(2:35) (Shotgun) C.Stroud pass short middle to D.Schultz to HOU 42 for 14 yards (A.Gilman).,1st & 10 at HOU 28
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,1,HOU,0,2,0,13 Yard Pass,(2:05) C.Stroud pass short middle to R.Woods to LAC 45 for 13 yards (D.James).,1st & 10 at HOU 42
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,1,HOU,0,3,0,Pass Incomplete,(1:29) C.Stroud pass incomplete short right to J.Metchie.,1st & 10 at LAC 45
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,1,HOU,0,4,0,-5 Yard Sack,(1:25) (Shotgun) C.Stroud sacked at 50 for -5 yards (J.Bosa).,2nd & 10 at LAC 45
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,1,HOU,0,5,0,9 Yard Pass,(:40) (Shotgun) C.Stroud pass short middle to D.Schultz to LAC 41 for 9 yards (D.James; D.Henley).,3rd & 15 at 50
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,1,HOU,0,6,0,Punt,"(15:00) T.Townsend punts 38 yards to LAC 8, Center-J.Weeks, fair catch by D.Davis.",4th & 11 at LAC 46
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,2,LAC,0,1,0,12 Yard Pass,(14:54) J.Herbert pass short middle to L.McConkey to LAC 20 for 12 yards (D.Stingley).,1st & 10 at LAC 8
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,2,LAC,0,2,0,15 Yard Pass,(14:11) J.Herbert pass short middle to L.McConkey to LAC 35 for 15 yards (E.Murray; C.Bullock).,1st & 10 at LAC 20
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,2,LAC,0,3,0,6 Yard Run,(13:32) (Shotgun) J.Dobbins left tackle to LAC 41 for 6 yards (H.To'oTo'o).,1st & 10 at LAC 35
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,2,LAC,0,4,0,Pass Incomplete,(12:54) (Shotgun) J.Herbert pass incomplete short right to L.McConkey.,2nd & 4 at LAC 41
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,2,LAC,0,5,0,Pass Incomplete,(12:51) (Shotgun) J.Herbert pass incomplete short right to Q.Johnston (K.Lassiter).,3rd & 4 at LAC 41
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,2,LAC,0,6,0,Punt,"(12:46) J.Scott punts 47 yards to HOU 12, Center-J.Harris, fair catch by R.Woods.",4th & 4 at LAC 41
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,3,HOU,0,1,0,3 Yard Run,(12:38) J.Mixon right guard to HOU 15 for 3 yards (J.Colson; K.Mack).,1st & 10 at HOU 12
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,3,HOU,0,2,0,Pass Incomplete,(11:53) (Shotgun) C.Stroud pass incomplete deep right to N.Collins.,2nd & 7 at HOU 15
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,3,HOU,0,3,0,Interception,(11:46) (Shotgun) C.Stroud pass deep left intended for J.Metchie INTERCEPTED by D.Leonard at HOU 40. D.Leonard ran ob at HOU 40 for no gain.,3rd & 7 at HOU 15
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,4,LAC,0,1,0,Interception,(11:39) J.Herbert pass deep left intended for Q.Johnston INTERCEPTED by K.Lassiter at HOU 10. K.Lassiter to HOU 10 for no gain (Q.Johnston).,1st & 10 at HOU 40
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,5,HOU,0,1,0,13 Yard Pass,(11:31) (Shotgun) C.Stroud pass short right to N.Collins to HOU 23 for 13 yards (D.James; A.Gilman).,1st & 10 at HOU 10
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,5,HOU,0,2,0,Pass Incomplete,(10:49) (Shotgun) C.Stroud pass incomplete short middle to J.Metchie (A.Gilman).,1st & 10 at HOU 23
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,5,HOU,0,3,0,-8 Yard Sack,(10:46) (Shotgun) C.Stroud sacked at HOU 15 for -8 yards (K.Mack).,2nd & 10 at HOU 23
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,5,HOU,0,4,0,10 Yard Pass,(10:04) (Shotgun) C.Stroud pass short right to J.Metchie to HOU 25 for 10 yards (D.James).,3rd & 18 at HOU 15
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,5,HOU,0,5,0,Punt,"(9:28) T.Townsend punts 50 yards to LAC 25, Center-J.Weeks, fair catch by D.Davis.",4th & 8 at HOU 25
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,6,LAC,0,1,0,1 Yard Run,(9:20) (Shotgun) J.Dobbins left tackle to LAC 26 for 1 yard (D.Hunter; M.Bryant).,1st & 10 at LAC 25
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,6,LAC,0,2,0,-3 Yard Run,(8:43) (Shotgun) D.Davis left end to LAC 23 for -3 yards (K.Lassiter).,2nd & 9 at LAC 26
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,6,LAC,0,3,0,19 Yard Pass,(8:02) (Shotgun) J.Herbert pass short middle to L.McConkey to LAC 42 for 19 yards (E.Murray; A.Al-Shaair).,3rd & 12 at LAC 23
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,6,LAC,0,4,0,2 Yard Run,(7:19) (Shotgun) J.Dobbins left tackle to LAC 44 for 2 yards (D.Barnett).,1st & 10 at LAC 42
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,6,LAC,0,5,0,Pass Incomplete,(6:38) (Shotgun) J.Herbert pass incomplete deep right to L.McConkey (D.Stingley).,2nd & 8 at LAC 44
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,6,LAC,0,6,0,Pass Incomplete,(6:32) (Shotgun) J.Herbert pass incomplete short left to J.Dobbins.,3rd & 8 at LAC 44
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,6,LAC,0,7,0,Punt,"(6:27) J.Scott punts 55 yards to HOU 1, Center-J.Harris, downed by LAC-D.Leonard.",4th & 8 at LAC 44
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,7,HOU,1,1,0,7 Yard Run,(6:15) J.Mixon up the middle to HOU 8 for 7 yards (T.Tart).,1st & 10 at HOU 1
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,7,HOU,1,2,0,Pass Incomplete,(5:37) C.Stroud pass incomplete short left.,2nd & 3 at HOU 8
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,7,HOU,1,3,0,5 Yard Pass,(5:30) (Shotgun) C.Stroud pass short left to N.Collins to HOU 13 for 5 yards (K.Fulton).,3rd & 3 at HOU 8
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,7,HOU,1,4,0,3 Yard Run,(4:47) J.Mixon left tackle to HOU 16 for 3 yards (K.Mack).,1st & 10 at HOU 13
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,7,HOU,1,5,0,7 Yard Pass,(4:11) (Shotgun) C.Stroud pass short left to J.Metchie ran ob at HOU 23 for 7 yards (D.Henley).,2nd & 7 at HOU 16
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,7,HOU,1,6,0,Pass Incomplete,(3:32) (Shotgun) C.Stroud pass incomplete short right to R.Woods [P.Ford].,1st & 10 at HOU 23
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,7,HOU,1,7,0,-11 Yard Penalty,"(3:26) (Shotgun) C.Stroud pass short middle to X.Hutchinson to HOU 27 for 4 yards (D.Leonard) [T.Tart].
+PENALTY on HOU-T.Howard, Tripping, 11 yards, enforced at HOU 23 - No Play.",2nd & 10 at HOU 23
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,7,HOU,1,8,0,5 Yard Pass,(3:04) C.Stroud pass short right to C.Stover to HOU 17 for 5 yards (D.James).,2nd & 21 at HOU 12
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,7,HOU,1,9,0,34 Yard Pass,"(2:24) (Shotgun) C.Stroud to HOU 13 for -4 yards. FUMBLES, and recovers at HOU 5. C.Stroud pass deep right to X.Hutchinson to LAC 49 for 34 yards (E.Jackson).",3rd & 16 at HOU 17
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,7,HOU,1,10,0,Pass Incomplete,(2:00) (Shotgun) C.Stroud pass incomplete short middle to D.Schultz (T.Dye).,1st & 10 at LAC 49
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,7,HOU,1,11,0,37 Yard Pass,(1:57) (Shotgun) C.Stroud pass deep left to N.Collins to LAC 12 for 37 yards (A.Gilman).,2nd & 10 at LAC 49
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,7,HOU,1,12,0,-1 Yard Run,(1:09) (Shotgun) J.Mixon up the middle to LAC 13 for -1 yards (P.Ford).,1st & 10 at LAC 12
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,7,HOU,1,13,0,Pass Incomplete,(1:05) (Shotgun) C.Stroud pass incomplete short middle to R.Woods (C.Hart).,2nd & 11 at LAC 13
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,7,HOU,1,14,0,Touchdown Texans,"(1:02) (Shotgun) C.Stroud pass short middle to N.Collins for 13 yards, TOUCHDOWN.",3rd & 11 at LAC 13
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,7,HOU,1,15,1,Extra Point Good,"K.Fairbairn extra point is GOOD, Center-J.Weeks, Holder-T.Townsend.",XP attempt from LAC 15
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,8,LAC,0,1,0,Kickoff,"K.Fairbairn kicks 65 yards from HOU 35 to end zone, Touchback to the LAC 30.",Kickoff from HOU 35
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,8,LAC,0,2,0,Pass Incomplete,(:58) (Shotgun) J.Herbert pass incomplete deep middle to D.Chark (D.Stingley).,1st & 10 at LAC 30
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,8,LAC,0,3,0,Pass Incomplete,(:52) (Shotgun) J.Herbert pass incomplete deep middle to L.McConkey.,2nd & 10 at LAC 30
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,8,LAC,0,4,0,Pass Incomplete,(:45) (Shotgun) J.Herbert pass incomplete deep right to Q.Johnston [A.Al-Shaair].,3rd & 10 at LAC 30
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,8,LAC,0,5,0,Punt,"(:39) J.Scott punts 48 yards to HOU 22, Center-J.Harris. R.Woods to HOU 32 for 10 yards (J.Harris).",4th & 10 at LAC 30
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,9,HOU,1,1,0,4 Yard Pass,(:27) (Shotgun) C.Stroud pass short left to J.Metchie pushed ob at HOU 36 for 4 yards (T.Still).,1st & 10 at HOU 32
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,9,HOU,1,2,0,27 Yard Run,(:22) (Shotgun) C.Stroud scrambles up the middle to LAC 37 for 27 yards (D.Henley).,2nd & 6 at HOU 36
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,9,HOU,1,3,0,5 Yard Run,(:13) (Shotgun) D.Ogunbowale up the middle to LAC 32 for 5 yards (P.Ford).,1st & 10 at LAC 37
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,9,HOU,1,4,0,9 Yard Pass,(:09) (Shotgun) C.Stroud pass short middle to R.Woods to LAC 23 for 9 yards (T.Still).,2nd & 5 at LAC 32
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,9,HOU,1,5,1,Field Goal,"(:06) K.Fairbairn 41 yard field goal is GOOD, Center-J.Weeks, Holder-T.Townsend.",1st & 10 at LAC 23
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,2ND QUARTER,10,LAC,0,1,0,Kickoff,K.Fairbairn kicks 71 yards from HOU 35 to LAC -6. D.Davis to LAC 15 for 21 yards (D.Ogunbowale). LAC-D.Davis was injured during the play.,Kickoff from HOU 35
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,1,HOU,0,1,0,Kickoff,"C.Dicker kicks 65 yards from LAC 35 to end zone, Touchback to the HOU 30.",Kickoff from LAC 35
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,1,HOU,0,2,0,5 Yard Run,(15:00) (Shotgun) J.Mixon left tackle to HOU 35 for 5 yards (D.Henley).,1st & 10 at HOU 30
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,1,HOU,0,3,0,Run for No Gain,(14:25) (Shotgun) J.Mixon left guard to HOU 35 for no gain (P.Ford).,2nd & 5 at HOU 35
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,1,HOU,0,4,0,41 Yard Pass,(13:45) (Shotgun) C.Stroud pass short middle to N.Collins to LAC 24 for 41 yards (K.Mack) [D.Henley].,3rd & 5 at HOU 35
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,1,HOU,0,5,0,Fumble,"(12:57) (Shotgun) J.Mixon right end to LAC 26 for -2 yards (T.Jefferson). FUMBLES (T.Jefferson), RECOVERED by LAC-T.Jefferson at LAC 26. T.Jefferson to LAC 26 for no gain (J.Scruggs).
+Penalty on HOU-B.Fisher, Offensive Holding, declined.",1st & 10 at LAC 24
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,2,LAC,0,1,0,32 Yard Pass,"(12:50) J.Herbert pass short right to L.McConkey to LAC 43 for 17 yards (D.Stingley).
+PENALTY on HOU-D.Stingley, Face Mask, 15 yards, enforced at LAC 43.",1st & 10 at LAC 26
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,2,LAC,0,2,0,4 Yard Run,(12:15) (Shotgun) G.Edwards right tackle to HOU 38 for 4 yards (E.Murray).,1st & 10 at HOU 42
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,2,LAC,0,3,0,4 Yard Run,(11:33) (Shotgun) G.Edwards right guard to HOU 34 for 4 yards (W.Anderson).,2nd & 6 at HOU 38
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,2,LAC,0,4,0,Run for No Gain,(10:57) (Shotgun) G.Edwards left tackle to HOU 34 for no gain (A.Al-Shaair).,3rd & 2 at HOU 34
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,2,LAC,0,5,0,Turnover on Downs,"(10:16) J.Herbert pass short right to Q.Johnston to HOU 33 for 1 yard (D.Stingley).
+The Replay Official reviewed the pass completion ruling, and the play was REVERSED.
+J.Herbert pass incomplete short right to Q.Johnston (D.Stingley).",4th & 2 at HOU 34
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,3,HOU,1,1,0,6 Yard Run,(10:10) C.Stroud scrambles left end to HOU 41 for 6 yards (J.Colson).,1st & 10 at HOU 35
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,3,HOU,1,2,0,7 Yard Pass,(9:29) C.Stroud pass short left to N.Collins to HOU 48 for 7 yards (T.Tart).,2nd & 4 at HOU 41
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,3,HOU,1,3,0,11 Yard Pass,(8:50) (Shotgun) C.Stroud pass short middle to C.Stover to LAC 41 for 11 yards (T.Dye).,1st & 10 at HOU 48
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,3,HOU,1,4,0,7 Yard Pass,(8:06) (Shotgun) C.Stroud pass short left to C.Stover to LAC 34 for 7 yards (T.Dye). LAC-C.Hart was injured during the play.,1st & 10 at LAC 41
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,3,HOU,1,5,0,15 Yard Run,(7:41) J.Mixon left tackle pushed ob at LAC 19 for 15 yards (A.Gilman).,2nd & 3 at LAC 34
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,3,HOU,1,6,0,-5 Yard Run,"(7:19) (No Huddle) J.Mixon left tackle to LAC 7 for 12 yards (T.Dye).
+PENALTY on HOU-T.Howard, Offensive Holding, 10 yards, enforced at LAC 14.",1st & 10 at LAC 19
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,3,HOU,1,7,0,Interception,"(6:57) (Shotgun) C.Stroud pass deep right intended for D.Schultz INTERCEPTED by D.James at LAC -5. D.James to LAC 41 for 46 yards (C.Stover).
+PENALTY on HOU-J.Mixon, Unnecessary Roughness, 15 yards, enforced at LAC 41.
+The Replay Official reviewed the interception ruling, and the play was REVERSED.
+(Shotgun) C.Stroud pass incomplete deep right to D.Schultz (D.James).
+PENALTY on HOU-J.Mixon, Unnecessary Roughness, 15 yards, enforced at LAC 24.",1st & 15 at LAC 24
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,3,HOU,1,8,0,-10 Yard Penalty,"(6:51) (Shotgun) C.Stroud scrambles up the middle to LAC 33 for 6 yards (T.Dye).
+PENALTY on HOU-B.Fisher, Offensive Holding, 10 yards, enforced at LAC 39 - No Play.",2nd & 30 at LAC 39
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,3,HOU,1,9,0,5 Yard Penalty,"(6:24) (Shotgun) C.Stroud pass incomplete deep left to N.Collins (K.Fulton).
+PENALTY on LAC-J.Bosa, Defensive Offside, 5 yards, enforced at LAC 49 - No Play.",2nd & 40 at LAC 49
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,3,HOU,1,10,0,13 Yard Pass,(6:17) C.Stroud pass short middle to J.Mixon to LAC 31 for 13 yards (T.Still).,2nd & 35 at LAC 44
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,3,HOU,1,11,0,12 Yard Pass,(5:34) (Shotgun) C.Stroud pass short left to D.Johnson to LAC 19 for 12 yards (D.Leonard).,3rd & 22 at LAC 31
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,3,HOU,1,12,1,Field Goal,"(4:51) K.Fairbairn 37 yard field goal is GOOD, Center-J.Weeks, Holder-T.Townsend.",4th & 10 at LAC 19
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,4,LAC,0,1,0,Kickoff,K.Fairbairn kicks 63 yards from HOU 35 to LAC 2. D.Davis pushed ob at LAC 29 for 27 yards (N.Hewitt). ** Injury Update: LAC-D.Davis has returned to the game.,Kickoff from HOU 35
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,4,LAC,0,2,0,Run for No Gain,(4:43) J.Dobbins left tackle to LAC 29 for no gain (E.Murray).,1st & 10 at LAC 29
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,4,LAC,0,3,0,4 Yard Pass,"(4:04) (Shotgun) J.Herbert pass short right to D.Davis to LAC 32 for 3 yards (D.Stingley). FUMBLES (D.Stingley), and recovers at LAC 33.",2nd & 10 at LAC 29
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,4,LAC,0,4,0,-6 Yard Sack,(3:16) (Shotgun) J.Herbert sacked at LAC 27 for -6 yards (D.Autry).,3rd & 6 at LAC 33
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,4,LAC,0,5,0,Punt,"(2:40) J.Scott punts 36 yards to HOU 37, Center-J.Harris, fair catch by R.Woods.",4th & 12 at LAC 27
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,5,HOU,0,1,0,5 Yard Run,(2:33) J.Mixon left tackle to HOU 42 for 5 yards (T.Dye; T.Tart).,1st & 10 at HOU 37
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,5,HOU,0,2,0,-4 Yard Run,(1:53) J.Mixon left end to HOU 38 for -4 yards (T.Jefferson).,2nd & 5 at HOU 42
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,5,HOU,0,3,0,6 Yard Pass,(1:09) (Shotgun) C.Stroud pass short middle to N.Collins to HOU 44 for 6 yards (D.Henley).,3rd & 9 at HOU 38
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,5,HOU,0,4,0,Punt,"(:28) T.Townsend punts 28 yards to LAC 28, Center-J.Weeks, out of bounds.",4th & 3 at HOU 44
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,3RD QUARTER,6,HOU,1,1,1,Touchdown Texans,"(:21) (Shotgun) J.Herbert pass short left intended for L.McConkey INTERCEPTED by E.Murray at LAC 38. E.Murray for 38 yards, TOUCHDOWN.",1st & 10 at LAC 28
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,1,LAC,0,1,0,Kickoff,"K.Fairbairn kicks 65 yards from HOU 35 to end zone, Touchback to the LAC 30.",Kickoff from HOU 35
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,1,LAC,0,2,0,2 Yard Run,(:13) G.Edwards right tackle to LAC 32 for 2 yards (H.To'oTo'o).,1st & 10 at LAC 30
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,1,LAC,0,3,0,10 Yard Pass,(15:00) (Shotgun) J.Herbert pass short right to L.McConkey to LAC 42 for 10 yards (E.Murray).,2nd & 8 at LAC 32
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,1,LAC,0,4,0,19 Yard Pass,(14:25) J.Herbert pass deep left to L.McConkey to HOU 39 for 19 yards (D.Stingley).,1st & 10 at LAC 42
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,1,LAC,0,5,0,Interception,"(13:56) (No Huddle, Shotgun) J.Herbert pass short right intended for W.Dissly INTERCEPTED by D.Stingley at HOU 33. D.Stingley to LAC 13 for 54 yards (J.Dobbins).",1st & 10 at HOU 39
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,2,HOU,1,1,0,9 Yard Run,"(13:44) J.Mixon up the middle to LAC 4 for 9 yards (D.James, A.Gilman).",1st & 10 at LAC 13
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,2,HOU,1,2,0,-8 Yard Sack,(12:52) (Shotgun) C.Stroud sacked at LAC 12 for -8 yards (K.Mack). ** Injury Update: LAC-C.Hart has returned to the game.,2nd & 1 at LAC 4
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,2,HOU,1,3,0,Pass Incomplete,(12:07) (Shotgun) C.Stroud pass incomplete short left to J.Mixon.,3rd & 9 at LAC 12
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,2,HOU,1,4,1,Field Goal,"(12:03) K.Fairbairn 30 yard field goal is GOOD, Center-J.Weeks, Holder-T.Townsend.",4th & 9 at LAC 12
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,3,LAC,1,1,0,Kickoff,"K.Fairbairn kicks 65 yards from HOU 35 to end zone, Touchback to the LAC 30.",Kickoff from HOU 35
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,3,LAC,1,2,0,-7 Yard Sack,(12:00) (Shotgun) J.Herbert sacked at LAC 23 for -7 yards (W.Anderson).,1st & 10 at LAC 30
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,3,LAC,1,3,0,-9 Yard Sack,"(11:32) (No Huddle, Shotgun) J.Herbert sacked at LAC 14 for -9 yards (M.Edwards).",2nd & 17 at LAC 23
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,3,LAC,1,4,0,Touchdown Chargers,"(10:50) (Shotgun) J.Herbert pass deep middle to L.McConkey for 86 yards, TOUCHDOWN [D.Hunter].",3rd & 26 at LAC 14
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,3,LAC,1,5,1,Extra Point Good,"C.Dicker extra point is Blocked (D.Autry), Center-J.Harris, Holder-J.Scott. DEFENSIVE TWO-POINT ATTEMPT. D.Ross recovered the blocked kick. ATTEMPT SUCCEEDS.",XP attempt from HOU 15
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,4,HOU,1,1,0,Kickoff,C.Dicker kicks 67 yards from LAC 35 to HOU -2. X.Hutchinson to HOU 26 for 28 yards (N.Niemann; A.Gilman).,Kickoff from LAC 35
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,4,HOU,1,2,0,5 Yard Pass,(10:33) C.Stroud pass short right to C.Stover to HOU 31 for 5 yards (T.Dye).,1st & 10 at HOU 26
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,4,HOU,1,3,0,7 Yard Run,(9:52) J.Mixon right guard to HOU 38 for 7 yards (T.Dye).,2nd & 5 at HOU 31
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,4,HOU,1,4,0,7 Yard Run,(9:09) J.Mixon right end to HOU 45 for 7 yards (K.Fulton).,1st & 10 at HOU 38
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,4,HOU,1,5,0,2 Yard Run,(8:25) J.Mixon left tackle to HOU 47 for 2 yards (K.Mack; A.Gilman).,2nd & 3 at HOU 45
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,4,HOU,1,6,0,6 Yard Run,(7:43) (Shotgun) J.Mixon up the middle to LAC 47 for 6 yards (T.Dye).,3rd & 1 at HOU 47
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,4,HOU,1,7,0,2 Yard Run,"(7:01) J.Mixon left tackle to LAC 45 for 2 yards (D.Henley, O.Ogbonnia).",1st & 10 at LAC 47
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,4,HOU,1,8,0,-2 Yard Run,"(6:17) J.Mixon up the middle to LAC 47 for -2 yards (D.James, M.Fox).",2nd & 8 at LAC 45
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,4,HOU,1,9,0,9 Yard Run,"(5:36) (Shotgun) C.Stroud scrambles left tackle to LAC 38 for 9 yards (K.Fulton).
+Houston challenged the short of the line to gain ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",3rd & 10 at LAC 47
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,4,HOU,1,10,0,2 Yard Run,(4:48) C.Stroud left guard to LAC 36 for 2 yards (M.Fox).,4th & 1 at LAC 38
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,4,HOU,1,11,0,10 Yard Run,(4:07) J.Mixon left end ran ob at LAC 26 for 10 yards (D.Henley).,1st & 10 at LAC 36
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,4,HOU,1,12,0,Run for No Gain,(4:01) J.Mixon right guard to LAC 26 for no gain (J.Colson).,1st & 10 at LAC 26
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,4,HOU,1,13,0,1 Yard Run,(3:58) J.Mixon left end to LAC 25 for 1 yard (A.Gilman; D.Henley).,2nd & 10 at LAC 26
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,4,HOU,1,14,0,8 Yard Run,(3:52) (Shotgun) J.Mixon left end to LAC 17 for 8 yards (T.Dye; T.Jefferson).,3rd & 9 at LAC 25
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,4,HOU,1,15,0,Touchdown Texans,"(3:47) J.Mixon left tackle for 17 yards, TOUCHDOWN.",4th & 1 at LAC 17
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,4,HOU,1,16,1,Extra Point Good,"K.Fairbairn extra point is GOOD, Center-J.Weeks, Holder-T.Townsend.",XP attempt from LAC 15
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,5,LAC,0,1,0,Kickoff,"K.Fairbairn kicks 65 yards from HOU 35 to end zone, Touchback to the LAC 30.",Kickoff from HOU 35
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,5,LAC,0,2,0,9 Yard Pass,(3:42) (Shotgun) J.Herbert pass short middle to L.McConkey to LAC 39 for 9 yards (C.Bullock).,1st & 10 at LAC 30
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,5,LAC,0,3,0,Pass Incomplete,"(3:22) (No Huddle, Shotgun) J.Herbert pass incomplete short left to Q.Johnston.",2nd & 1 at LAC 39
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,5,LAC,0,4,0,5 Yard Run,(3:18) (Shotgun) H.Haskins right tackle to LAC 44 for 5 yards (D.Hunter).,3rd & 1 at LAC 39
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,5,LAC,0,5,0,Pass Incomplete,"(2:59) (No Huddle, Shotgun) J.Herbert pass incomplete short middle to W.Dissly (W.Anderson).",1st & 10 at LAC 44
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,5,LAC,0,6,0,Interception,(2:55) (Shotgun) J.Herbert pass deep right intended for D.Chark INTERCEPTED by D.Stingley at HOU 17. D.Stingley to HOU 33 for 16 yards (H.Haskins).,2nd & 10 at LAC 44
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,6,HOU,0,1,0,2 Yard Run,(2:43) A.Deculus reported in as eligible.  D.Pierce up the middle to HOU 35 for 2 yards (J.Colson).,1st & 10 at HOU 33
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,6,HOU,0,2,0,13 Yard Run,(2:00) A.Deculus reported in as eligible.  D.Pierce left tackle to HOU 48 for 13 yards (A.Gilman; D.Henley).,2nd & 8 at HOU 35
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,6,HOU,0,3,0,-1 Yard Run,(1:16) A.Deculus reported in as eligible.  C.Stroud kneels to HOU 47 for -1 yards.,1st & 10 at HOU 48
+2024,Wild Card Weekend,SAT,01/11,Chargers,Texans,4TH QUARTER,6,HOU,0,4,0,-1 Yard Run,(:36) A.Deculus reported in as eligible.  C.Stroud kneels to HOU 46 for -1 yards.,2nd & 11 at HOU 47
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,1,PIT,0,1,0,Kickoff,"J.Tucker kicks 65 yards from BAL 35 to landing zone to end zone, Touchback to the PIT 20.",Kickoff from BAL 35
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,1,PIT,0,2,0,Pass Incomplete,(15:00) (Shotgun) R.Wilson pass incomplete short left to P.Freiermuth.,1st & 10 at PIT 20
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,1,PIT,0,3,0,9 Yard Pass,(14:57) (Shotgun) R.Wilson pass short left to D.Washington to PIT 29 for 9 yards (M.Harrison).,2nd & 10 at PIT 20
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,1,PIT,0,4,0,4 Yard Run,(14:18) (Shotgun) J.Warren up the middle to PIT 33 for 4 yards (M.Harrison; T.Jones).,3rd & 1 at PIT 29
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,1,PIT,0,5,0,Pass Incomplete,(13:35) (Shotgun) R.Wilson pass incomplete short left to M.Williams.,1st & 10 at PIT 33
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,1,PIT,0,6,0,4 Yard Run,(13:30) N.Harris right guard to PIT 37 for 4 yards (A.Washington; N.Wiggins).,2nd & 10 at PIT 33
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,1,PIT,0,7,0,2 Yard Run,(12:47) (Shotgun) R.Wilson scrambles left guard to PIT 39 for 2 yards (K.Van Noy).,3rd & 6 at PIT 37
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,1,PIT,0,8,0,Punt,"(12:08) C.Waitman punts 54 yards to BAL 7, Center-C.Kuntz. S.Sims MUFFS catch, and recovers at BAL 1. S.Sims to BAL 5 for 4 yards (B.Skowronek).",4th & 4 at PIT 39
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,2,BAL,1,1,0,3 Yard Run,(11:58) (Shotgun) D.Henry left guard to BAL 8 for 3 yards (P.Queen; E.Roberts).,1st & 10 at BAL 5
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,2,BAL,1,2,0,-4 Yard Penalty,"(11:25) (Shotgun) PENALTY on BAL-R.Stanley, False Start, 4 yards, enforced at BAL 8 - No Play.",2nd & 7 at BAL 8
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,2,BAL,1,3,0,9 Yard Pass,(11:21) J.Jones reported in as eligible.  L.Jackson pass short left to I.Likely to BAL 13 for 9 yards (P.Queen).,2nd & 11 at BAL 4
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,2,BAL,1,4,0,4 Yard Run,(10:37) (Shotgun) L.Jackson left end to BAL 17 for 4 yards (M.Fitzpatrick).,3rd & 2 at BAL 13
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,2,BAL,1,5,0,1 Yard Run,"(9:57) (Shotgun) L.Jackson scrambles left guard to BAL 18 for 1 yard (K.Benton, Ca.Heyward).",1st & 10 at BAL 17
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,2,BAL,1,6,0,8 Yard Run,(9:17) (Shotgun) L.Jackson right tackle to BAL 26 for 8 yards (M.Fitzpatrick; P.Wilson).,2nd & 9 at BAL 18
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,2,BAL,1,7,0,5 Yard Run,"(8:56) (No Huddle, Shotgun) L.Jackson right tackle to BAL 31 for 5 yards (D.Kazee).",3rd & 1 at BAL 26
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,2,BAL,1,8,0,4 Yard Run,(8:18) (Shotgun) L.Jackson right end pushed ob at BAL 35 for 4 yards (D.Elliott).,1st & 10 at BAL 31
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,2,BAL,1,9,0,7 Yard Pass,(7:38) (Shotgun) L.Jackson pass short middle to M.Andrews to BAL 42 for 7 yards (M.Fitzpatrick).,2nd & 6 at BAL 35
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,2,BAL,1,10,0,12 Yard Run,(6:59) (Shotgun) D.Henry left tackle to PIT 46 for 12 yards (D.Elliott).,1st & 10 at BAL 42
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,2,BAL,1,11,0,34 Yard Run,(6:17) Direct snap to D.Henry.  D.Henry left tackle to PIT 12 for 34 yards (M.Fitzpatrick; D.Jackson).,1st & 10 at PIT 46
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,2,BAL,1,12,0,Pass Incomplete,(5:33) L.Jackson pass incomplete short right.,1st & 10 at PIT 12
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,2,BAL,1,13,0,-3 Yard Run,(5:26) (Shotgun) J.Hill left end pushed ob at PIT 15 for -3 yards (P.Wilson).,2nd & 10 at PIT 12
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,2,BAL,1,14,0,Touchdown Ravens,"(4:50) (Shotgun) L.Jackson pass short middle to R.Bateman for 15 yards, TOUCHDOWN.",3rd & 13 at PIT 15
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,2,BAL,1,15,1,Extra Point Good,"J.Tucker extra point is GOOD, Center-N.Moore, Holder-J.Stout.",XP attempt from PIT 15
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,3,PIT,0,1,0,Kickoff,"J.Tucker kicks 65 yards from BAL 35 to end zone, Touchback to the PIT 30.",Kickoff from BAL 35
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,3,PIT,0,2,0,-4 Yard Sack,(4:45) R.Wilson sacked at PIT 26 for -4 yards (M.Pierce).,1st & 10 at PIT 30
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,3,PIT,0,3,0,7 Yard Pass,(3:59) (Shotgun) R.Wilson pass short left to J.Warren to PIT 33 for 7 yards (C.Board; B.Stephens).,2nd & 14 at PIT 26
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,3,PIT,0,4,0,5 Yard Pass,(3:16) (Shotgun) R.Wilson pass short right to P.Freiermuth pushed ob at PIT 38 for 5 yards (A.Washington) [T.Jones].,3rd & 7 at PIT 33
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,1ST QUARTER,3,PIT,0,5,0,Punt,"(2:44) C.Waitman punts 47 yards to BAL 15, Center-C.Kuntz, downed by PIT-J.Pierre.
+PENALTY on PIT-J.Pierre, Illegal Touch Kick, 5 yards, enforced at BAL 15.",4th & 2 at PIT 38
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,1,BAL,0,1,0,1 Yard Run,(2:34) (Shotgun) D.Henry right guard to BAL 21 for 1 yard (E.Roberts).,1st & 10 at BAL 20
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,1,BAL,0,2,0,5 Yard Pass,(1:59) (Shotgun) L.Jackson pass short left to A.Miller to BAL 26 for 5 yards (P.Queen).,2nd & 9 at BAL 21
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,1,BAL,0,3,0,25 Yard Pass,(1:27) (Shotgun) L.Jackson pass deep left to I.Likely pushed ob at PIT 49 for 25 yards (C.Sutton).,3rd & 4 at BAL 26
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,1,BAL,0,4,0,2 Yard Run,(:50) (Shotgun) L.Jackson scrambles right guard to PIT 47 for 2 yards (Ca.Heyward).,1st & 10 at PIT 49
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,1,BAL,0,5,0,-4 Yard Pass,(:09) (Shotgun) L.Jackson pass short left to J.Hill to BAL 49 for -4 yards (P.Queen).,2nd & 8 at PIT 47
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,1,BAL,0,6,0,5 Yard Pass,(15:00) (Shotgun) L.Jackson pass short right to J.Hill to PIT 46 for 5 yards (D.Elliott).,3rd & 12 at BAL 49
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,1,BAL,0,7,0,Punt,"(14:15) J.Stout punts 46 yards to end zone, Center-N.Moore, Touchback.",4th & 7 at PIT 46
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,2,PIT,0,1,0,5 Yard Run,(14:07) N.Harris up the middle to PIT 25 for 5 yards (N.Madubuike).,1st & 10 at PIT 20
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,2,PIT,0,2,0,3 Yard Run,(13:33) (No Huddle) N.Harris left guard to PIT 28 for 3 yards (B.Washington).,2nd & 5 at PIT 25
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,2,PIT,0,3,0,1 Yard Pass,(12:57) (Shotgun) R.Wilson pass short right to P.Freiermuth to PIT 29 for 1 yard (A.Washington).,3rd & 2 at PIT 28
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,2,PIT,0,4,0,Punt,"(12:16) C.Waitman punts 56 yards to BAL 15, Center-C.Kuntz, downed by PIT-B.Skowronek.",4th & 1 at PIT 29
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,3,BAL,1,1,0,1 Yard Run,(12:05) (Shotgun) D.Henry left tackle to BAL 16 for 1 yard (K.Benton).,1st & 10 at BAL 15
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,3,BAL,1,2,0,8 Yard Run,(11:28) (Shotgun) L.Jackson up the middle to BAL 24 for 8 yards (P.Wilson).,2nd & 9 at BAL 16
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,3,BAL,1,3,0,3 Yard Run,(10:52) Direct snap to M.Andrews.  M.Andrews up the middle to BAL 27 for 3 yards (E.Roberts).,3rd & 1 at BAL 24
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,3,BAL,1,4,0,8 Yard Run,(10:14) J.Jones reported in as eligible.  D.Henry up the middle to BAL 35 for 8 yards (D.Elliott).,1st & 10 at BAL 27
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,3,BAL,1,5,0,1 Yard Run,(9:36) (Shotgun) L.Jackson right tackle to BAL 36 for 1 yard (P.Wilson; Ca.Heyward).,2nd & 2 at BAL 35
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,3,BAL,1,6,0,3 Yard Run,(8:56) J.Jones reported in as eligible.  D.Henry right guard to BAL 39 for 3 yards (L.Ogunjobi).,3rd & 1 at BAL 36
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,3,BAL,1,7,0,2 Yard Run,(8:15) D.Henry left tackle to BAL 41 for 2 yards (E.Roberts).,1st & 10 at BAL 39
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,3,BAL,1,8,0,-5 Yard Penalty,"(7:36) (Shotgun) PENALTY on BAL-R.Stanley, False Start, 5 yards, enforced at BAL 41 - No Play.",2nd & 8 at BAL 41
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,3,BAL,1,9,0,25 Yard Run,"(7:24) (Shotgun) L.Jackson scrambles left guard to PIT 44 for 20 yards (P.Wilson).
+PENALTY on PIT-J.Porter, Defensive Holding, 5 yards, enforced at PIT 44.",2nd & 13 at BAL 36
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,3,BAL,1,10,0,2 Yard Run,(6:54) (Shotgun) L.Jackson scrambles right end ran ob at PIT 37 for 2 yards (E.Roberts).,1st & 10 at PIT 39
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,3,BAL,1,11,0,9 Yard Run,(6:11) (Shotgun) L.Jackson right end pushed ob at PIT 28 for 9 yards (D.Elliott).,2nd & 8 at PIT 37
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,3,BAL,1,12,0,3 Yard Run,(5:36) J.Jones reported in as eligible.  D.Henry left guard to PIT 25 for 3 yards (P.Queen).,1st & 10 at PIT 28
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,3,BAL,1,13,0,17 Yard Run,(4:54) D.Henry left end to PIT 8 for 17 yards (M.Fitzpatrick; E.Roberts).,2nd & 7 at PIT 25
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,3,BAL,1,14,0,Touchdown Ravens,"(4:13) D.Henry left guard for 8 yards, TOUCHDOWN.",1st & 8 at PIT 8
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,3,BAL,1,15,1,Extra Point Good,"J.Tucker extra point is GOOD, Center-N.Moore, Holder-J.Stout.",XP attempt from PIT 15
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,4,PIT,0,1,0,Kickoff,J.Tucker kicks 62 yards from BAL 35 to PIT 3. C.Patterson to PIT 29 for 26 yards (T.Simpson; C.Board).,Kickoff from BAL 35
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,4,PIT,0,2,0,8 Yard Pass,(4:02) (Shotgun) R.Wilson pass short left to G.Pickens to PIT 37 for 8 yards (D.Ojabo).,1st & 10 at PIT 29
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,4,PIT,0,3,0,5 Yard Pass,"(3:35) (No Huddle, Shotgun) R.Wilson pass short middle to J.Warren to PIT 42 for 5 yards (K.Hamilton; R.Smith).",2nd & 2 at PIT 37
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,4,PIT,0,4,0,Pass Incomplete,(3:06) (Shotgun) J.Fields pass incomplete short right to D.Washington [M.Humphrey].,1st & 10 at PIT 42
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,4,PIT,0,5,0,2 Yard Run,(3:01) (Shotgun) J.Warren right guard to PIT 44 for 2 yards (R.Smith).,2nd & 10 at PIT 42
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,4,PIT,0,6,0,-10 Yard Penalty,"(2:41) (Shotgun) R.Wilson pass deep right to G.Pickens to BAL 7 for 49 yards (K.Hamilton).
+PENALTY on PIT-G.Pickens, Offensive Pass Interference, 10 yards, enforced at PIT 44 - No Play.",3rd & 8 at PIT 44
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,4,PIT,0,7,0,9 Yard Pass,(2:12) (Shotgun) R.Wilson pass short right to P.Freiermuth to PIT 43 for 9 yards (B.Stephens).,3rd & 18 at PIT 34
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,4,PIT,0,8,0,Punt,"(2:00) C.Waitman punts 47 yards to BAL 10, Center-C.Kuntz, fair catch by S.Sims.",4th & 9 at PIT 43
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,5,BAL,1,1,0,3 Yard Run,(1:53) (Shotgun) D.Henry left end to BAL 13 for 3 yards (D.Kazee).,1st & 10 at BAL 10
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,5,BAL,1,2,0,5 Yard Run,(1:14) (Shotgun) D.Henry left tackle to BAL 18 for 5 yards (Ca.Heyward; P.Wilson).,2nd & 7 at BAL 13
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,5,BAL,1,3,0,9 Yard Pass,(1:08) (Shotgun) L.Jackson pass short middle to R.Bateman to BAL 27 for 9 yards (J.Porter).,3rd & 2 at BAL 18
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,5,BAL,1,4,0,25 Yard Pass,"(:52) (No Huddle, Shotgun) L.Jackson pass deep middle to N.Agholor to PIT 48 for 25 yards (J.Porter).",1st & 10 at BAL 27
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,5,BAL,1,5,0,4 Yard Pass,(:43) (Shotgun) L.Jackson pass short left to A.Miller to PIT 44 for 4 yards (J.Porter).,1st & 10 at PIT 48
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,5,BAL,1,6,0,20 Yard Pass,(:37) (Shotgun) L.Jackson pass short middle to M.Andrews ran ob at PIT 24 for 20 yards (C.Sutton).,2nd & 6 at PIT 44
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,5,BAL,1,7,0,19 Yard Pass,(:28) (Shotgun) L.Jackson pass short middle to I.Likely to PIT 5 for 19 yards (M.Fitzpatrick).,1st & 10 at PIT 24
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,5,BAL,1,8,0,Pass Incomplete,(:12) (No Huddle) L.Jackson spiked the ball to stop the clock.,1st & 5 at PIT 5
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,5,BAL,1,9,0,Touchdown Ravens,"(:11) (Shotgun) L.Jackson pass short right to J.Hill for 5 yards, TOUCHDOWN. PIT-Ca.Heyward was injured during the play.",2nd & 5 at PIT 5
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,5,BAL,1,10,1,Extra Point Good,"J.Tucker extra point is GOOD, Center-N.Moore, Holder-J.Stout.",XP attempt from PIT 15
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,6,PIT,0,1,0,Kickoff,"J.Stout kicks 65 yards from BAL 35 to end zone, Touchback to the PIT 30.",Kickoff from BAL 35
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,2ND QUARTER,6,PIT,0,2,0,-1 Yard Run,(:02) R.Wilson kneels to PIT 29 for -1 yards.,1st & 10 at PIT 30
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,1,BAL,0,1,0,Kickoff,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback to the BAL 30.",Kickoff from PIT 35
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,1,BAL,0,2,0,3 Yard Run,(15:00) D.Henry left tackle to BAL 33 for 3 yards (E.Roberts; I.Loudermilk).,1st & 10 at BAL 30
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,1,BAL,0,3,0,8 Yard Run,(14:16) (Shotgun) D.Henry right end to BAL 41 for 8 yards (D.Jackson).,2nd & 7 at BAL 33
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,1,BAL,0,4,0,3 Yard Run,(13:37) J.Jones reported in as eligible.  J.Hill right guard to BAL 44 for 3 yards (K.Benton; M.Adams).,1st & 10 at BAL 41
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,1,BAL,0,5,0,5 Yard Run,(13:06) J.Hill right end pushed ob at BAL 49 for 5 yards (E.Roberts).,2nd & 7 at BAL 44
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,1,BAL,0,6,0,Run for No Gain,(12:30) D.Henry left tackle to BAL 49 for no gain (E.Roberts; P.Queen).,3rd & 2 at BAL 49
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,1,BAL,0,7,0,Punt,"(11:37) J.Stout punts 49 yards to PIT 2, Center-N.Moore, downed by BAL-T.Wallace.",4th & 2 at BAL 49
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,2,PIT,1,1,0,1 Yard Run,(11:29) N.Harris left guard to PIT 3 for 1 yard (R.Smith; B.Washington).,1st & 10 at PIT 2
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,2,PIT,1,2,0,Pass Incomplete,"(10:52) (No Huddle, Shotgun) R.Wilson pass incomplete short middle to D.Washington.",2nd & 9 at PIT 3
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,2,PIT,1,3,0,25 Yard Pass,(10:49) (Shotgun) R.Wilson pass deep middle to C.Austin to PIT 28 for 25 yards (A.Washington).,3rd & 9 at PIT 3
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,2,PIT,1,4,0,5 Yard Pass,(10:08) (Shotgun) R.Wilson pass short left to J.Warren to PIT 33 for 5 yards (M.Harrison; K.Hamilton).,1st & 10 at PIT 28
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,2,PIT,1,5,0,Sack,(9:38) (No Huddle) R.Wilson sacked ob at PIT 33 for 0 yards (N.Madubuike).,2nd & 5 at PIT 33
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,2,PIT,1,6,0,37 Yard Pass,(8:58) (Shotgun) R.Wilson pass deep left to M.Williams pushed ob at BAL 30 for 37 yards (A.Washington).,3rd & 5 at PIT 33
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,2,PIT,1,7,0,Pass Incomplete,(8:23) R.Wilson pass incomplete short left.,1st & 10 at BAL 30
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,2,PIT,1,8,0,Pass Incomplete,(8:17) (Shotgun) R.Wilson pass incomplete short right.,2nd & 10 at BAL 30
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,2,PIT,1,9,0,Touchdown Steelers,"(8:10) (Shotgun) R.Wilson pass deep left to V.Jefferson for 30 yards, TOUCHDOWN.",3rd & 10 at BAL 30
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,2,PIT,1,10,1,Extra Point Good,"C.Boswell extra point is GOOD, Center-C.Kuntz, Holder-C.Waitman. ** Injury Update: PIT-Ca.Heyward has returned to the game.",XP attempt from BAL 15
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,3,BAL,1,1,0,Kickoff,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback to the BAL 30.",Kickoff from PIT 35
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,3,BAL,1,2,0,-10 Yard Sack,(8:05) L.Jackson sacked at BAL 20 for -10 yards (A.Highsmith).,1st & 10 at BAL 30
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,3,BAL,1,3,0,21 Yard Pass,(7:21) (Shotgun) L.Jackson pass short right to T.Wallace to BAL 41 for 21 yards (M.Fitzpatrick).,2nd & 20 at BAL 20
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,3,BAL,1,4,0,15 Yard Run,(6:37) S.Sims left end to PIT 44 for 15 yards (J.Porter).,1st & 10 at BAL 41
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,3,BAL,1,5,0,Touchdown Ravens,"(5:57) (Shotgun) D.Henry left guard for 44 yards, TOUCHDOWN.",1st & 10 at PIT 44
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,3,BAL,1,6,1,Extra Point Good,"J.Tucker extra point is GOOD, Center-N.Moore, Holder-J.Stout.",XP attempt from PIT 15
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,4,PIT,1,1,0,Kickoff,"J.Stout kicks 65 yards from BAL 35 to end zone, Touchback to the PIT 30.",Kickoff from BAL 35
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,4,PIT,1,2,0,9 Yard Pass,(5:49) (Shotgun) R.Wilson pass short right to N.Harris pushed ob at PIT 39 for 9 yards (M.Harrison).,1st & 10 at PIT 30
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,4,PIT,1,3,0,3 Yard Run,(5:14) (Shotgun) N.Harris right tackle to PIT 42 for 3 yards (R.Smith).,2nd & 1 at PIT 39
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,4,PIT,1,4,0,21 Yard Pass,(4:46) (No Huddle) R.Wilson pass short right to N.Harris to BAL 37 for 21 yards (M.Humphrey).,1st & 10 at PIT 42
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,4,PIT,1,5,0,1 Yard Run,(4:12) (No Huddle) N.Harris left tackle to BAL 36 for 1 yard (B.Stephens; N.Madubuike).,1st & 10 at BAL 37
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,4,PIT,1,6,0,Touchdown Steelers,"(3:32) (Shotgun) R.Wilson pass deep right to G.Pickens for 36 yards, TOUCHDOWN.",2nd & 9 at BAL 36
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,4,PIT,1,7,1,Extra Point Good,"C.Boswell extra point is GOOD, Center-C.Kuntz, Holder-C.Waitman.",XP attempt from BAL 15
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,5,BAL,0,1,0,Kickoff,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback to the BAL 30.",Kickoff from PIT 35
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,5,BAL,0,2,0,-5 Yard Penalty,"(3:24) (Shotgun) PENALTY on BAL-R.Rosengarten, False Start, 5 yards, enforced at BAL 30 - No Play.",1st & 10 at BAL 30
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,5,BAL,0,3,0,Pass Incomplete,(3:24) (Shotgun) L.Jackson pass incomplete short left to M.Andrews (D.Elliott).,1st & 15 at BAL 25
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,5,BAL,0,4,0,6 Yard Run,(3:19) (Shotgun) L.Jackson right guard to BAL 31 for 6 yards (D.Kazee).,2nd & 15 at BAL 25
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,5,BAL,0,5,0,Pass Incomplete,(2:38) (Shotgun) L.Jackson pass incomplete short left to I.Likely.,3rd & 9 at BAL 31
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,3RD QUARTER,5,BAL,0,6,0,Punt,"(2:34) J.Stout punts 44 yards to PIT 25, Center-N.Moore, fair catch by C.Austin.
+Penalty on PIT-D.Kazee, Running Into the Kicker, declined.",4th & 9 at BAL 31
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,1,PIT,0,1,0,-5 Yard Penalty,"(2:27) (Shotgun) PENALTY on PIT-I.Seumalo, False Start, 5 yards, enforced at PIT 25 - No Play.",1st & 10 at PIT 25
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,1,PIT,0,2,0,11 Yard Pass,(2:27) (Shotgun) R.Wilson pass short middle to N.Harris to PIT 31 for 11 yards (A.Washington; K.Hamilton).,1st & 15 at PIT 20
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,1,PIT,0,3,0,Pass Incomplete,"(1:54) (No Huddle, Shotgun) R.Wilson pass incomplete short right.",2nd & 4 at PIT 31
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,1,PIT,0,4,0,11 Yard Pass,(1:49) (Shotgun) R.Wilson pass short middle to G.Pickens to PIT 42 for 11 yards (M.Humphrey).,3rd & 4 at PIT 31
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,1,PIT,0,5,0,Pass Incomplete,(1:13) (Shotgun) R.Wilson pass incomplete short left to J.Warren (N.Madubuike).,1st & 10 at PIT 42
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,1,PIT,0,6,0,2 Yard Pass,"(1:09) (Shotgun) R.Wilson pass short right to J.Warren to PIT 44 for 2 yards (R.Smith, M.Humphrey) [O.Oweh]. BAL-M.Humphrey was injured during the play.",2nd & 10 at PIT 42
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,1,PIT,0,7,0,-8 Yard Sack,(:23) (Shotgun) R.Wilson sacked at PIT 36 for -8 yards (N.Madubuike).,3rd & 8 at PIT 44
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,1,PIT,0,8,0,Punt,"(15:00) C.Waitman punts 47 yards to BAL 17, Center-C.Kuntz, fair catch by S.Sims.",4th & 16 at PIT 36
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,2,BAL,0,1,0,9 Yard Run,(14:52) (Shotgun) D.Henry left guard to BAL 26 for 9 yards (P.Queen; E.Roberts).,1st & 10 at BAL 17
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,2,BAL,0,2,0,-2 Yard Run,"(14:18) D.Henry left tackle to BAL 24 for -2 yards (Ca.Heyward, A.Highsmith).",2nd & 1 at BAL 26
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,2,BAL,0,3,0,7 Yard Pass,(13:36) (Shotgun) L.Jackson pass short left to J.Hill pushed ob at BAL 31 for 7 yards (J.Porter).,3rd & 3 at BAL 24
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,2,BAL,0,4,0,3 Yard Run,(13:00) (Shotgun) D.Henry left tackle to BAL 34 for 3 yards (I.Loudermilk).,1st & 10 at BAL 31
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,2,BAL,0,5,0,3 Yard Run,(12:20) D.Henry left tackle to BAL 37 for 3 yards (L.Ogunjobi; P.Queen).,2nd & 7 at BAL 34
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,2,BAL,0,6,0,3 Yard Pass,(11:36) (Shotgun) L.Jackson pass short right to A.Miller to BAL 40 for 3 yards (J.Porter).,3rd & 4 at BAL 37
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,2,BAL,0,7,0,5 Yard Penalty,"(10:59) Direct snap to M.Andrews.  M.Andrews up the middle to BAL 41 for 1 yard (M.Fitzpatrick).
+PENALTY on PIT, Defensive Too Many Men on Field, 5 yards, enforced at BAL 40 - No Play.",4th & 1 at BAL 40
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,2,BAL,0,8,0,1 Yard Run,(10:20) J.Jones reported in as eligible.  D.Henry left guard to BAL 46 for 1 yard (E.Roberts; Ca.Heyward).,1st & 10 at BAL 45
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,2,BAL,0,9,0,-1 Yard Run,"(9:39) J.Hill left guard to BAL 45 for -1 yards (Ca.Heyward, M.Killebrew).",2nd & 9 at BAL 46
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,2,BAL,0,10,0,Pass Incomplete,(8:57) (Shotgun) L.Jackson pass incomplete short middle to T.Wallace (J.Porter).,3rd & 10 at BAL 45
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,2,BAL,0,11,0,Punt,"(8:50) J.Stout punts 44 yards to PIT 11, Center-N.Moore. C.Austin to PIT 25 for 14 yards (T.Tampa).",4th & 10 at BAL 45
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,3,PIT,0,1,0,5 Yard Run,(8:36) (Shotgun) R.Wilson scrambles right end pushed ob at PIT 30 for 5 yards (O.Oweh). ** Injury Update: BAL-M.Humphrey has returned to the game.,1st & 10 at PIT 25
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,3,PIT,0,2,0,6 Yard Pass,"(8:19) (No Huddle, Shotgun) R.Wilson pass short left to G.Pickens to PIT 36 for 6 yards (B.Stephens; M.Humphrey).",2nd & 5 at PIT 30
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,3,PIT,0,3,0,26 Yard Pass,"(7:49) (No Huddle, Shotgun) R.Wilson pass deep left to G.Pickens to BAL 38 for 26 yards (A.Washington).",1st & 10 at PIT 36
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,3,PIT,0,4,0,Pass Incomplete,"(7:25) (No Huddle, Shotgun) R.Wilson pass incomplete deep left [O.Oweh].",1st & 10 at BAL 38
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,3,PIT,0,5,0,-5 Yard Penalty,"(7:19) (Shotgun) PENALTY on PIT-N.Harris, False Start, 5 yards, enforced at BAL 38 - No Play.",2nd & 10 at BAL 38
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,3,PIT,0,6,0,-7 Yard Sack,"(7:19) (No Huddle, Shotgun) R.Wilson sacked at 50 for -7 yards (O.Oweh).",2nd & 15 at BAL 43
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,3,PIT,0,7,0,7 Yard Pass,"(6:47) (No Huddle, Shotgun) R.Wilson pass short right to V.Jefferson to BAL 43 for 7 yards (N.Wiggins).",3rd & 22 at 50
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,3,PIT,0,8,0,Turnover on Downs,"(6:14) (No Huddle, Shotgun) R.Wilson pass incomplete deep middle to C.Austin.",4th & 15 at BAL 43
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,4,BAL,0,1,0,2 Yard Run,(6:06) (Shotgun) D.Henry left tackle to BAL 45 for 2 yards (P.Queen; Ca.Heyward).,1st & 10 at BAL 43
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,4,BAL,0,2,0,7 Yard Run,(5:25) (Shotgun) L.Jackson left end to PIT 48 for 7 yards (M.Fitzpatrick).,2nd & 8 at BAL 45
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,4,BAL,0,3,0,5 Yard Run,(4:44) (Shotgun) B.Cleveland reported in as eligible.  L.Jackson right tackle to PIT 43 for 5 yards (E.Roberts).,3rd & 1 at PIT 48
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,4,BAL,0,4,0,3 Yard Run,(4:00) (Shotgun) D.Henry left tackle to PIT 40 for 3 yards (I.Loudermilk).,1st & 10 at PIT 43
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,4,BAL,0,5,0,6 Yard Penalty,"(3:17) L.Jackson pass short right to M.Andrews to PIT 34 for 6 yards (P.Queen).
+PENALTY on PIT-J.Porter, Defensive Holding, 6 yards, enforced at PIT 40 - No Play.",2nd & 7 at PIT 40
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,4,BAL,0,6,0,8 Yard Run,(3:10) J.Jones reported in as eligible.  D.Henry right tackle to PIT 26 for 8 yards (K.Benton; M.Fitzpatrick).,1st & 10 at PIT 34
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,4,BAL,0,7,0,3 Yard Run,(2:29) J.Hill left tackle to PIT 23 for 3 yards (Ca.Heyward; P.Queen).,2nd & 2 at PIT 26
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,4,BAL,0,8,0,5 Yard Run,(2:00) J.Jones reported in as eligible.  J.Hill right guard to PIT 18 for 5 yards (M.Killebrew).,1st & 10 at PIT 23
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,4,BAL,0,9,0,4 Yard Run,(1:54) D.Henry left guard to PIT 14 for 4 yards (E.Roberts).,2nd & 5 at PIT 18
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,4,BAL,0,10,0,2 Yard Run,(1:45) Direct snap to M.Andrews.  M.Andrews up the middle to PIT 12 for 2 yards (E.Roberts; Ca.Heyward).,3rd & 1 at PIT 14
+2024,Wild Card Weekend,SAT,01/11,Steelers,Ravens,4TH QUARTER,4,BAL,0,11,0,-1 Yard Run,(:28) L.Jackson kneels to PIT 13 for -1 yards.,1st & 10 at PIT 12
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,1,DEN,1,1,0,Kickoff,"T.Bass kicks 65 yards from BUF 35 to end zone, Touchback to the DEN 30.",Kickoff from BUF 35
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,1,DEN,1,2,0,5 Yard Run,(15:00) J.Williams up the middle to DEN 35 for 5 yards (T.Bernard).,1st & 10 at DEN 30
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,1,DEN,1,3,0,-3 Yard Run,(14:22) (Shotgun) J.McLaughlin right tackle to DEN 32 for -3 yards (G.Rousseau).,2nd & 5 at DEN 35
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,1,DEN,1,4,0,19 Yard Pass,(13:37) (Shotgun) B.Nix pass deep middle to C.Sutton to BUF 49 for 19 yards (D.Hamlin).,3rd & 8 at DEN 32
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,1,DEN,1,5,0,6 Yard Run,"(13:11) (No Huddle, Shotgun) J.Williams right end to BUF 43 for 6 yards (D.Hamlin; R.Douglas).",1st & 10 at BUF 49
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,1,DEN,1,6,0,Touchdown Broncos,"(12:43) (No Huddle, Shotgun) B.Nix pass deep right to T.Franklin for 43 yards, TOUCHDOWN [D.Smoot].",2nd & 4 at BUF 43
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,1,DEN,1,7,1,Extra Point Good,"W.Lutz extra point is GOOD, Center-M.Fraboni, Holder-R.Dixon.",XP attempt from BUF 15
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,2,BUF,1,1,0,Kickoff,W.Lutz kicks 58 yards from DEN 35 to BUF 7. Ty.Johnson to BUF 33 for 26 yards (J.Skinner).,Kickoff from DEN 35
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,2,BUF,1,2,0,15 Yard Pass,(12:31) (Shotgun) J.Allen pass short middle to K.Shakir to BUF 48 for 15 yards (R.Moss).,1st & 10 at BUF 33
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,2,BUF,1,3,0,16 Yard Run,(11:55) J.Cook right end ran ob at DEN 36 for 16 yards (P.Locke).,1st & 10 at BUF 48
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,2,BUF,1,4,0,7 Yard Run,(11:17) A.Anderson reported in as eligible.  J.Cook up the middle to DEN 29 for 7 yards (C.Barton).,1st & 10 at DEN 36
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,2,BUF,1,5,0,6 Yard Pass,(10:38) (Shotgun) J.Allen pass short right to K.Shakir to DEN 23 for 6 yards (B.Jones).,2nd & 3 at DEN 29
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,2,BUF,1,6,0,5 Yard Pass,(10:00) (Shotgun) J.Allen pass short right to D.Kincaid pushed ob at DEN 18 for 5 yards (J.Strnad).,1st & 10 at DEN 23
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,2,BUF,1,7,0,3 Yard Run,(9:28) J.Cook left tackle to DEN 15 for 3 yards (R.Moss).,2nd & 5 at DEN 18
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,2,BUF,1,8,0,1 Yard Run,"(8:52) (Shotgun) Ty.Johnson up the middle to DEN 14 for 1 yard (D.Jones, D.Tillman).",3rd & 2 at DEN 15
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,2,BUF,1,9,0,3 Yard Run,(8:28) (No Huddle) J.Allen left guard to DEN 11 for 3 yards (D.Tillman).,4th & 1 at DEN 14
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,2,BUF,1,10,0,3 Yard Run,(7:55) (Shotgun) J.Cook left guard to DEN 8 for 3 yards (P.Locke).,1st & 10 at DEN 11
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,2,BUF,1,11,0,Pass Incomplete,(7:19) (Shotgun) J.Allen pass incomplete short right to D.Knox.,2nd & 7 at DEN 8
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,2,BUF,1,12,0,Pass Incomplete,(7:14) (Shotgun) J.Allen pass incomplete short left to A.Cooper.,3rd & 7 at DEN 8
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,2,BUF,1,13,1,Field Goal,"(7:10) T.Bass 26 yard field goal is GOOD, Center-R.Ferguson, Holder-S.Martin.",4th & 7 at DEN 8
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,3,DEN,0,1,0,Kickoff,"T.Bass kicks 65 yards from BUF 35 to end zone, Touchback to the DEN 30.",Kickoff from BUF 35
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,3,DEN,0,2,0,2 Yard Pass,(7:07) (Shotgun) B.Nix pass short left to A.Trautman to DEN 32 for 2 yards (M.Milano; D.Hamlin).,1st & 10 at DEN 30
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,3,DEN,0,3,0,3 Yard Run,(6:30) (Shotgun) J.Williams right guard to DEN 35 for 3 yards (D.Smoot; Ta.Johnson). BUF-Ta.Johnson was injured during the play.,2nd & 8 at DEN 32
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,3,DEN,0,4,0,Sack,(6:10) (Shotgun) B.Nix sacked at DEN 35 for 0 yards (M.Milano).,3rd & 5 at DEN 35
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,1ST QUARTER,3,DEN,0,5,0,Punt,"(5:42) R.Dixon punts 53 yards to BUF 12, Center-M.Fraboni. K.Shakir ran ob at BUF 19 for 7 yards (D.Sanders).",4th & 5 at DEN 35
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,1,BUF,1,1,0,7 Yard Pass,(5:32) (Shotgun) J.Allen pass short left to D.Kincaid to BUF 26 for 7 yards (C.Barton).,1st & 10 at BUF 19
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,1,BUF,1,2,0,11 Yard Run,(4:54) A.Anderson reported in as eligible.  Ty.Johnson right tackle to BUF 37 for 11 yards (P.Locke; B.Jones).,2nd & 3 at BUF 26
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,1,BUF,1,3,0,16 Yard Run,(4:16) J.Cook left guard to DEN 47 for 16 yards (B.Jones).,1st & 10 at BUF 37
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,1,BUF,1,4,0,3 Yard Run,(3:33) A.Anderson reported in as eligible.  J.Cook right guard to DEN 44 for 3 yards (C.Barton; D.Jones).,1st & 10 at DEN 47
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,1,BUF,1,5,0,-5 Yard Penalty,"(3:06) (Shotgun) PENALTY on BUF-J.Cook, False Start, 5 yards, enforced at DEN 44 - No Play.",2nd & 7 at DEN 44
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,1,BUF,1,6,0,9 Yard Run,(2:48) (Shotgun) J.Allen scrambles right tackle pushed ob at DEN 40 for 9 yards (B.Jones).,2nd & 12 at DEN 49
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,1,BUF,1,7,0,7 Yard Run,(2:03) (Shotgun) J.Allen right guard to DEN 33 for 7 yards (D.Tillman).,3rd & 3 at DEN 40
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,1,BUF,1,8,0,Pass Incomplete,(1:21) A.Anderson reported in as eligible.  J.Allen pass incomplete short left.,1st & 10 at DEN 33
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,1,BUF,1,9,0,5 Yard Pass,(1:18) (Shotgun) J.Allen pass short middle to K.Coleman to DEN 28 for 5 yards (J.McMillian).,2nd & 10 at DEN 33
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,1,BUF,1,10,0,7 Yard Pass,(:36) (Shotgun) J.Allen pass short middle to C.Samuel to DEN 21 for 7 yards (J.Strnad).,3rd & 5 at DEN 28
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,1,BUF,1,11,0,5 Yard Run,(15:00) (Shotgun) J.Cook right guard to DEN 16 for 5 yards (N.Bonitto).,1st & 10 at DEN 21
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,1,BUF,1,12,0,2 Yard Run,(14:23) J.Cook right guard to DEN 14 for 2 yards (J.Cooper; J.Jackson).,2nd & 5 at DEN 16
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,1,BUF,1,13,0,9 Yard Run,(13:40) (Shotgun) J.Allen left tackle to DEN 5 for 9 yards (J.Strnad).,3rd & 3 at DEN 14
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,1,BUF,1,14,0,Touchdown Bills,"(13:02) J.Cook left guard for 5 yards, TOUCHDOWN.",1st & 5 at DEN 5
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,1,BUF,1,15,1,Extra Point Good,"T.Bass extra point is GOOD, Center-R.Ferguson, Holder-S.Martin.",XP attempt from DEN 15
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,2,DEN,0,1,0,Kickoff,"T.Bass kicks 65 yards from BUF 35 to end zone, Touchback to the DEN 30.",Kickoff from BUF 35
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,2,DEN,0,2,0,7 Yard Run,(12:57) T.Badie up the middle to DEN 37 for 7 yards (R.Douglas). ** Injury Update: BUF-Ta.Johnson has returned to the game.,1st & 10 at DEN 30
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,2,DEN,0,3,0,4 Yard Run,(12:21) M.Mims left end pushed ob at DEN 41 for 4 yards (M.Milano).,2nd & 3 at DEN 37
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,2,DEN,0,4,0,Pass Incomplete,(11:45) (Shotgun) B.Nix pass incomplete deep middle to C.Sutton.,1st & 10 at DEN 41
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,2,DEN,0,5,0,2 Yard Run,(11:39) J.Williams up the middle to DEN 43 for 2 yards (Da.Jones).,2nd & 10 at DEN 41
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,2,DEN,0,6,0,Pass Incomplete,(10:53) (Shotgun) B.Nix pass incomplete deep right to C.Sutton.,3rd & 8 at DEN 43
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,2,DEN,0,7,0,6 Yard Run,(10:01) (Shotgun) J.Williams right guard to BUF 36 for 6 yards (A.Johnson).,1st & 10 at BUF 42
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,2,DEN,0,8,0,-3 Yard Pass,(9:24) (Shotgun) B.Nix pass short right to M.Mims to BUF 39 for -3 yards (T.Bernard).,2nd & 4 at BUF 36
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,2,DEN,0,9,0,Pass Incomplete,(8:42) (Shotgun) B.Nix pass incomplete deep left to C.Sutton [V.Miller].,3rd & 7 at BUF 39
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,2,DEN,0,10,0,Punt,"(8:37) R.Dixon punts 38 yards to BUF 1, Center-M.Fraboni, downed by DEN-M.Mims.",4th & 7 at BUF 39
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,3,BUF,0,1,0,Penalty,"(8:28) PENALTY on BUF-S.Brown, False Start, 0 yards, enforced at BUF 1 - No Play.",1st & 10 at BUF 1
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,3,BUF,0,2,0,9 Yard Run,(8:28) A.Anderson reported in as eligible.  J.Cook left guard to BUF 10 for 9 yards (B.Jones).,1st & 10 at BUF 1
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,3,BUF,0,3,0,Run for No Gain,(7:51) A.Anderson reported in as eligible.  J.Cook left tackle to BUF 10 for no gain (R.Moss; N.Bonitto).,2nd & 1 at BUF 10
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,3,BUF,0,4,0,3 Yard Run,(7:27) (No Huddle) A.Anderson reported in as eligible.  J.Allen left guard to BUF 13 for 3 yards (N.Bonitto).,3rd & 1 at BUF 10
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,3,BUF,0,5,0,6 Yard Pass,(6:47) (Shotgun) A.Anderson reported in as eligible.  J.Allen pass short left to C.Samuel pushed ob at BUF 19 for 6 yards (D.Jones).,1st & 10 at BUF 13
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,3,BUF,0,6,0,3 Yard Run,(6:07) (Shotgun) R.Davis up the middle to BUF 22 for 3 yards (P.Surtain).,2nd & 4 at BUF 19
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,3,BUF,0,7,0,4 Yard Run,(5:23) J.Allen scrambles right end pushed ob at BUF 26 for 4 yards (J.Cooper).,3rd & 1 at BUF 22
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,3,BUF,0,8,0,5 Yard Pass,(4:45) (Shotgun) J.Allen pass short right to A.Cooper to BUF 31 for 5 yards (P.Surtain).,1st & 10 at BUF 26
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,3,BUF,0,9,0,7 Yard Run,(4:03) A.Anderson reported in as eligible.  J.Cook left end to BUF 38 for 7 yards (J.Strnad).,2nd & 5 at BUF 31
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,3,BUF,0,10,0,2 Yard Run,(3:22) A.Anderson reported in as eligible.  J.Cook up the middle to BUF 40 for 2 yards (C.Barton; Z.Allen).,1st & 10 at BUF 38
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,3,BUF,0,11,0,-5 Yard Penalty,"(2:39) (Shotgun) PENALTY on BUF-D.Dawkins, False Start, 5 yards, enforced at BUF 40 - No Play.",2nd & 8 at BUF 40
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,3,BUF,0,12,0,-8 Yard Sack,(2:27) J.Allen sacked at BUF 27 for -8 yards (Z.Allen).,2nd & 13 at BUF 35
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,3,BUF,0,13,0,13 Yard Pass,(2:22) (Shotgun) J.Allen pass short middle to K.Shakir to BUF 40 for 13 yards (C.Barton; P.Locke).,3rd & 21 at BUF 27
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,3,BUF,0,14,0,Punt,"(2:00) S.Martin punts 45 yards to DEN 15, Center-R.Ferguson. M.Mims to DEN 15 for no gain (M.Hollins).
+PENALTY on DEN-M.Mims, Unnecessary Roughness, 7 yards, enforced at DEN 15.",4th & 8 at BUF 40
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,4,DEN,0,1,0,7 Yard Pass,(1:52) (Shotgun) B.Nix pass short middle to J.Williams to DEN 15 for 7 yards (M.Milano).,1st & 10 at DEN 8
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,4,DEN,0,2,0,2 Yard Pass,"(1:32) (No Huddle, Shotgun) B.Nix pass short right to L.Krull to DEN 17 for 2 yards (Ta.Johnson).",2nd & 3 at DEN 15
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,4,DEN,0,3,0,2 Yard Run,(1:01) (No Huddle) B.Nix right guard to DEN 19 for 2 yards (T.Bernard).,3rd & 1 at DEN 17
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,4,DEN,0,4,0,12 Yard Run,(:57) (Shotgun) B.Nix scrambles left end to DEN 31 for 12 yards (R.Douglas).,1st & 10 at DEN 19
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,4,DEN,0,5,0,11 Yard Pass,"(:33) (No Huddle, Shotgun) B.Nix pass short left to C.Sutton ran ob at DEN 42 for 11 yards.",1st & 10 at DEN 31
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,4,DEN,0,6,0,Pass Incomplete,"(:27) (No Huddle, Shotgun) B.Nix pass incomplete short right to M.Mims.",1st & 10 at DEN 42
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,4,DEN,0,7,0,5 Yard Penalty,"(:23) (No Huddle, Shotgun) B.Nix pass incomplete deep right to D.Vele.
+PENALTY on BUF-C.Benford, Defensive Holding, 5 yards, enforced at DEN 42 - No Play.",2nd & 10 at DEN 42
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,4,DEN,0,8,0,21 Yard Pass,(:15) (Shotgun) B.Nix pass deep right to C.Sutton to BUF 32 for 21 yards (C.Benford).,1st & 10 at DEN 47
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,2ND QUARTER,4,DEN,0,9,0,Field Goal No Good,"(:05) W.Lutz 50 yard field goal is No Good, Hit Right Upright, Center-M.Fraboni, Holder-R.Dixon.",1st & 10 at BUF 32
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,1,BUF,1,1,0,Kickoff,W.Lutz kicks 62 yards from DEN 35 to BUF 3. Ty.Johnson to BUF 36 for 33 yards (K.Abrams-Draine).,Kickoff from DEN 35
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,1,BUF,1,2,0,6 Yard Run,(14:53) J.Cook up the middle to BUF 42 for 6 yards (R.Moss; C.Barton).,1st & 10 at BUF 36
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,1,BUF,1,3,0,6 Yard Run,(14:12) J.Cook left tackle to BUF 48 for 6 yards (D.Jones; P.Locke). ** Injury Update: BUF-A.Anderson has returned to the game.,2nd & 4 at BUF 42
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,1,BUF,1,4,0,25 Yard Pass,(13:31) J.Allen pass deep left to D.Knox to DEN 27 for 25 yards (P.Locke).,1st & 10 at BUF 48
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,1,BUF,1,5,0,19 Yard Run,(12:49) J.Cook right tackle to DEN 8 for 19 yards (D.Tillman; B.Jones).,1st & 10 at DEN 27
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,1,BUF,1,6,0,2 Yard Run,(12:10) A.Anderson reported in as eligible.  J.Cook left guard to DEN 6 for 2 yards (D.Tillman; P.Locke).,1st & 8 at DEN 8
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,1,BUF,1,7,0,Run for No Gain,(11:32) J.Cook left end to DEN 6 for no gain (D.Tillman; J.McMillian).,2nd & 6 at DEN 6
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,1,BUF,1,8,0,-3 Yard Sack,(10:49) (Shotgun) J.Allen sacked at DEN 9 for -3 yards (D.Jones).,3rd & 6 at DEN 6
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,1,BUF,1,9,1,Field Goal,"(10:06) T.Bass 27 yard field goal is GOOD, Center-R.Ferguson, Holder-S.Martin.",4th & 9 at DEN 9
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,2,DEN,0,1,0,Kickoff,"T.Bass kicks 65 yards from BUF 35 to landing zone to end zone, Touchback to the DEN 20.",Kickoff from BUF 35
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,2,DEN,0,2,0,1 Yard Run,(10:03) J.McLaughlin right tackle to DEN 21 for 1 yard (M.Milano; D.Hamlin).,1st & 10 at DEN 20
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,2,DEN,0,3,0,4 Yard Run,(9:22) (Shotgun) J.Williams left guard to DEN 25 for 4 yards (Da.Jones; A.Epenesa).,2nd & 9 at DEN 21
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,2,DEN,0,4,0,Pass Incomplete,"(8:53) (No Huddle, Shotgun) B.Nix pass incomplete short middle to T.Franklin.",3rd & 5 at DEN 25
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,2,DEN,0,5,0,Punt,"(8:48) R.Dixon punts 48 yards to BUF 27, Center-M.Fraboni, fair catch by K.Shakir.",4th & 5 at DEN 25
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,3,BUF,1,1,0,1 Yard Run,(8:40) J.Cook up the middle to BUF 28 for 1 yard (J.McMillian).,1st & 10 at BUF 27
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,3,BUF,1,2,0,13 Yard Pass,(8:02) (Shotgun) J.Allen pass short left to K.Shakir pushed ob at BUF 41 for 13 yards (P.Surtain).,2nd & 9 at BUF 28
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,3,BUF,1,3,0,-10 Yard Penalty,"(7:21) (Shotgun) R.Davis right guard to BUF 48 for 7 yards (J.Strnad).
+PENALTY on BUF-D.Kincaid, Offensive Holding, 10 yards, enforced at BUF 41 - No Play.",1st & 10 at BUF 41
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,3,BUF,1,4,0,7 Yard Run,(6:58) (Shotgun) J.Allen scrambles right tackle to BUF 38 for 7 yards (N.Bonitto; J.Cooper).,1st & 20 at BUF 31
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,3,BUF,1,5,0,15 Yard Penalty,"(6:09) (Shotgun) J.Allen pass incomplete short right to R.Davis. BUF-R.Davis was injured during the play. 
+PENALTY on DEN-B.Jones, Unnecessary Roughness, 15 yards, enforced at BUF 38 - No Play.",2nd & 13 at BUF 38
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,3,BUF,1,6,0,1 Yard Run,(6:05) J.Cook left guard to DEN 46 for 1 yard (M.Roach).,1st & 10 at DEN 47
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,3,BUF,1,7,0,13 Yard Pass,(5:24) (Shotgun) J.Allen pass short middle to D.Knox to DEN 33 for 13 yards (R.Moss).,2nd & 9 at DEN 46
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,3,BUF,1,8,0,Pass Incomplete,(4:43) (Shotgun) J.Allen pass incomplete deep right to K.Coleman [Z.Allen].,1st & 10 at DEN 33
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,3,BUF,1,9,0,2 Yard Run,(4:38) (Shotgun) J.Cook right end to DEN 31 for 2 yards (D.Tillman).,2nd & 10 at DEN 33
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,3,BUF,1,10,0,7 Yard Pass,(3:57) (Shotgun) J.Allen pass short left to K.Shakir to DEN 24 for 7 yards (Z.Allen).,3rd & 8 at DEN 31
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,3,BUF,1,11,0,Touchdown Bills,"(3:15) (Shotgun) J.Allen pass deep middle to Ty.Johnson for 24 yards, TOUCHDOWN.
+The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands.",4th & 1 at DEN 24
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,3,BUF,1,12,1,2PT Conversion Success,TWO-POINT CONVERSION ATTEMPT. J.Allen pass to K.Coleman is complete. ATTEMPT SUCCEEDS.,XP attempt from DEN 2
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,4,DEN,0,1,0,Kickoff,"T.Bass kicks 65 yards from BUF 35 to end zone, Touchback to the DEN 30.",Kickoff from BUF 35
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,4,DEN,0,2,0,3 Yard Run,(3:06) J.Williams right guard to DEN 33 for 3 yards (T.Bernard).,1st & 10 at DEN 30
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,4,DEN,0,3,0,1 Yard Run,(2:28) T.Badie up the middle to DEN 34 for 1 yard (A.Johnson).,2nd & 7 at DEN 33
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,4,DEN,0,4,0,-5 Yard Penalty,"(1:42) (Shotgun) PENALTY on DEN-T.Franklin, False Start, 5 yards, enforced at DEN 34 - No Play.",3rd & 6 at DEN 34
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,4,DEN,0,5,0,Pass Incomplete,(1:25) (Shotgun) B.Nix pass incomplete deep middle to M.Mims.,3rd & 11 at DEN 29
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,3RD QUARTER,4,DEN,0,6,0,Punt,"(1:21) R.Dixon punts 53 yards to BUF 18, Center-M.Fraboni. K.Shakir to BUF 41 for 23 yards (R.Dixon).",4th & 11 at DEN 29
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,1,BUF,1,1,0,1 Yard Run,(1:06) A.Anderson reported in as eligible.  J.Cook left end to BUF 42 for 1 yard (D.Jones).,1st & 10 at BUF 41
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,1,BUF,1,2,0,3 Yard Pass,(:26) (Shotgun) J.Allen pass short right to A.Cooper to BUF 45 for 3 yards (D.Jones).,2nd & 9 at BUF 42
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,1,BUF,1,3,0,Touchdown Bills,"(15:00) (Shotgun) J.Allen pass deep right to C.Samuel for 55 yards, TOUCHDOWN.",3rd & 6 at BUF 45
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,1,BUF,1,4,1,Extra Point Good,"T.Bass extra point is GOOD, Center-R.Ferguson, Holder-S.Martin.",XP attempt from DEN 15
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,2,DEN,0,1,0,Kickoff,T.Bass kicks 56 yards from BUF 35 to DEN 9. T.Smith to DEN 25 for 16 yards (Do.Williams).,Kickoff from BUF 35
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,2,DEN,0,2,0,18 Yard Run,(14:43) (Shotgun) B.Nix scrambles up the middle to DEN 43 for 18 yards (T.Bernard).,1st & 10 at DEN 25
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,2,DEN,0,3,0,13 Yard Pass,"(14:11) (No Huddle, Shotgun) B.Nix pass short left to C.Sutton to BUF 44 for 13 yards (Ta.Johnson).",1st & 10 at DEN 43
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,2,DEN,0,4,0,11 Yard Pass,"(13:44) (No Huddle, Shotgun) B.Nix pass short right to T.Franklin to BUF 33 for 11 yards (C.Benford).",1st & 10 at BUF 44
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,2,DEN,0,5,0,11 Yard Run,"(13:17) (No Huddle, Shotgun) B.Nix scrambles right guard to BUF 22 for 11 yards (T.Rapp; C.Benford).",1st & 10 at BUF 33
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,2,DEN,0,6,0,-3 Yard Run,(12:51) (Shotgun) M.Mims left end to BUF 25 for -3 yards (C.Benford).,1st & 10 at BUF 22
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,2,DEN,0,7,0,Pass Incomplete,(12:11) (Shotgun) B.Nix pass incomplete short right to D.Vele.,2nd & 13 at BUF 25
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,2,DEN,0,8,0,11 Yard Pass,(12:06) (Shotgun) B.Nix pass short right to C.Sutton to BUF 14 for 11 yards (T.Bernard; Ta.Johnson).,3rd & 13 at BUF 25
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,2,DEN,0,9,0,Turnover on Downs,(11:37) (No Huddle) B.Nix pass short right to J.McLaughlin pushed ob at BUF 14 for no gain (C.Lewis). BUF-C.Lewis was injured during the play.,4th & 2 at BUF 14
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,3,BUF,1,1,0,4 Yard Run,(11:32) J.Allen scrambles right end to BUF 18 for 4 yards (R.Moss).,1st & 10 at BUF 14
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,3,BUF,1,2,0,5 Yard Run,(10:50) Ty.Johnson left end pushed ob at BUF 23 for 5 yards (C.Barton; J.Strnad).,2nd & 6 at BUF 18
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,3,BUF,1,3,0,2 Yard Pass,(10:11) A.Anderson reported in as eligible.  J.Allen pass short right to Ty.Johnson to BUF 25 for 2 yards (B.Jones).,3rd & 1 at BUF 23
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,3,BUF,1,4,0,-1 Yard Run,(9:29) A.Anderson reported in as eligible.  Ty.Johnson up the middle to BUF 24 for -1 yards (Z.Allen).,1st & 10 at BUF 25
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,3,BUF,1,5,0,7 Yard Pass,(8:49) (Shotgun) J.Allen pass short left to K.Shakir to BUF 31 for 7 yards (J.Jackson).,2nd & 11 at BUF 24
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,3,BUF,1,6,0,35 Yard Pass,(8:01) (Shotgun) J.Allen pass deep left to D.Kincaid to DEN 34 for 35 yards (P.Locke).,3rd & 4 at BUF 31
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,3,BUF,1,7,0,8 Yard Run,"(7:33) (No Huddle, Shotgun) Ty.Johnson left tackle to DEN 26 for 8 yards (P.Surtain; P.Locke).",1st & 10 at DEN 34
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,3,BUF,1,8,0,4 Yard Run,(6:53) J.Cook up the middle to DEN 22 for 4 yards (J.McMillian; C.Barton).,2nd & 2 at DEN 26
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,3,BUF,1,9,0,Pass Incomplete,(6:09) J.Allen pass incomplete deep left to K.Coleman (R.Moss).,1st & 10 at DEN 22
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,3,BUF,1,10,0,4 Yard Pass,"(6:05) (Shotgun) J.Allen pass short middle to M.Hollins to DEN 3 for 19 yards (P.Surtain) [N.Bonitto].
+PENALTY on BUF-M.Hollins, Taunting, 15 yards, enforced between downs.",2nd & 10 at DEN 22
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,3,BUF,1,11,0,-5 Yard Penalty,"(5:47) A.Anderson reported in as eligible.  J.Cook up the middle to DEN 15 for 3 yards (B.Jones).
+PENALTY on BUF, Illegal Shift, 5 yards, enforced at DEN 18 - No Play.",1st & 10 at DEN 18
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,3,BUF,1,12,0,Pass Incomplete,(5:34) A.Anderson reported in as eligible.  J.Allen pass incomplete deep right to M.Hollins.,1st & 15 at DEN 23
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,3,BUF,1,13,0,5 Yard Run,(5:29) (Shotgun) Ty.Johnson up the middle to DEN 18 for 5 yards (P.Locke).,2nd & 15 at DEN 23
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,3,BUF,1,14,0,2 Yard Run,(5:23) (Shotgun) Ty.Johnson right end pushed ob at DEN 16 for 2 yards (R.Moss).,3rd & 10 at DEN 18
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,3,BUF,1,15,1,Field Goal,"(4:41) T.Bass 34 yard field goal is GOOD, Center-R.Ferguson, Holder-S.Martin.",4th & 8 at DEN 16
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,4,DEN,0,1,0,Kickoff,"T.Bass kicks 65 yards from BUF 35 to end zone, Touchback to the DEN 30. ** Injury Update: BUF-C.Lewis has returned to the game.",Kickoff from BUF 35
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,4,DEN,0,2,0,7 Yard Pass,(4:37) (Shotgun) B.Nix pass short right to J.Williams to DEN 37 for 7 yards (Ta.Johnson).,1st & 10 at DEN 30
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,4,DEN,0,3,0,Pass Incomplete,"(4:13) (No Huddle, Shotgun) B.Nix pass incomplete short middle to D.Vele.",2nd & 3 at DEN 37
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,4,DEN,0,4,0,-14 Yard Sack,(4:09) (Shotgun) B.Nix sacked at DEN 23 for -14 yards (G.Rousseau).,3rd & 3 at DEN 37
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,4,DEN,0,5,0,Turnover on Downs,"(3:24) (No Huddle, Shotgun) B.Nix pass deep left intended for C.Sutton INTERCEPTED by D.Hamlin at DEN 48. D.Hamlin to DEN 45 for 3 yards (C.Sutton).
+The Replay Official reviewed the interception ruling, and the play was REVERSED.
+(No Huddle, Shotgun) B.Nix pass incomplete deep left to C.Sutton.",4th & 17 at DEN 23
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,5,BUF,0,1,0,8 Yard Run,(3:20) M.Trubisky in at QB. Ty.Johnson up the middle to DEN 15 for 8 yards (Z.Allen).,1st & 10 at DEN 23
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,5,BUF,0,2,0,5 Yard Run,(2:36) Ty.Johnson up the middle to DEN 10 for 5 yards (J.Jackson).,2nd & 2 at DEN 15
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,5,BUF,0,3,0,-1 Yard Run,(2:00) M.Trubisky kneels to DEN 11 for -1 yards.,1st & 10 at DEN 10
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,5,BUF,0,4,0,-1 Yard Run,(1:19) M.Trubisky kneels to DEN 12 for -1 yards.,2nd & 11 at DEN 11
+2024,Wild Card Weekend,SUN,01/12,Broncos,Bills,4TH QUARTER,5,BUF,0,5,0,-1 Yard Run,(:36) M.Trubisky kneels to DEN 13 for -1 yards.,3rd & 12 at DEN 12
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,1,GB,0,1,0,Fumble,"J.Elliott kicks 66 yards from PHI 35 to GB -1. K.Nixon to GB 27 for 28 yards (O.Burks). FUMBLES (O.Burks), RECOVERED by PHI-J.Trotter at GB 28.
+The Replay Official reviewed the loose ball recovery ruling, and the play was Upheld. The ruling on the field stands.",Kickoff from PHI 35
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,2,PHI,1,1,0,16 Yard Run,(14:53) (Shotgun) S.Barkley left tackle to GB 12 for 16 yards (X.McKinney; Q.Walker).,1st & 10 at GB 28
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,2,PHI,1,2,0,1 Yard Run,(14:07) S.Barkley left guard to GB 11 for 1 yard (T.Slaton).,1st & 10 at GB 12
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,2,PHI,1,3,0,Touchdown Eagles,"(13:30) (Shotgun) J.Hurts pass short middle to J.Dotson for 11 yards, TOUCHDOWN.",2nd & 9 at GB 11
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,2,PHI,1,4,1,Extra Point Good,"J.Elliott extra point is GOOD, Center-R.Lovato, Holder-B.Mann.",XP attempt from GB 15
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,3,GB,0,1,0,Kickoff,"J.Elliott kicks 64 yards from PHI 35 to GB 1. K.Nixon to GB 23 for 22 yards (K.Gainwell).
+PENALTY on GB-J.FitzPatrick, Offensive Holding, 10 yards, enforced at GB 23.",Kickoff from PHI 35
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,3,GB,0,2,0,Pass Incomplete,(13:13) (Shotgun) J.Love pass incomplete deep middle to D.Wicks.,1st & 10 at GB 13
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,3,GB,0,3,0,2 Yard Run,(13:08) (Shotgun) J.Jacobs right tackle to GB 15 for 2 yards (N.Smith).,2nd & 10 at GB 13
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,3,GB,0,4,0,Pass Incomplete,(12:27) (Shotgun) J.Love pass incomplete deep left to D.Wicks.,3rd & 8 at GB 15
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,3,GB,0,5,0,Punt,"(12:18) D.Whelan punts 50 yards to PHI 35, Center-M.Orzech. C.DeJean to PHI 35 for no gain (B.Melton).",4th & 8 at GB 15
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,4,PHI,0,1,0,3 Yard Run,(12:09) (Shotgun) S.Barkley right guard to PHI 38 for 3 yards (K.Clark; K.Enagbare).,1st & 10 at PHI 35
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,4,PHI,0,2,0,10 Yard Pass,"(11:46) (No Huddle, Shotgun) J.Hurts pass short left to A.Brown to PHI 48 for 10 yards (C.Valentine).",2nd & 7 at PHI 38
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,4,PHI,0,3,0,1 Yard Run,"(11:26) (No Huddle, Shotgun) S.Barkley right guard to PHI 49 for 1 yard (Q.Walker).",1st & 10 at PHI 48
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,4,PHI,0,4,0,4 Yard Pass,(10:44) (Shotgun) J.Hurts pass short left to G.Calcaterra ran ob at GB 47 for 4 yards.,2nd & 9 at PHI 49
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,4,PHI,0,5,0,Pass for No Gain,(10:06) (Shotgun) J.Hurts pass short right to S.Barkley to GB 47 for no gain (J.Bullard).,3rd & 5 at GB 47
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,4,PHI,0,6,0,Punt,"(9:21) B.Mann punts 47 yards to end zone, Center-R.Lovato, Touchback.",4th & 5 at GB 47
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,5,GB,0,1,0,2 Yard Run,(9:13) (Shotgun) J.Jacobs up the middle to GB 22 for 2 yards (N.Dean; J.Davis). GB-E.Jenkins was injured during the play.,1st & 10 at GB 20
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,5,GB,0,2,0,6 Yard Pass,(8:50) (Shotgun) J.Love pass short middle to R.Doubs to GB 28 for 6 yards (Q.Mitchell).,2nd & 8 at GB 22
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,5,GB,0,3,0,10 Yard Pass,(8:09) (Shotgun) J.Love pass short right to T.Kraft pushed ob at GB 38 for 10 yards (D.Slay).,3rd & 2 at GB 28
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,5,GB,0,4,0,4 Yard Run,(7:31) (Shotgun) J.Jacobs left tackle to GB 42 for 4 yards (Q.Mitchell).,1st & 10 at GB 38
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,5,GB,0,5,0,3 Yard Run,(6:54) J.Jacobs right end to GB 45 for 3 yards (N.Smith; R.Blankenship).,2nd & 6 at GB 42
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,5,GB,0,6,0,-14 Yard Sack,(6:10) (Shotgun) J.Love sacked at GB 31 for -14 yards (N.Smith).,3rd & 3 at GB 45
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,5,GB,0,7,0,Punt,"(5:31) D.Whelan punts 50 yards to PHI 19, Center-M.Orzech. C.DeJean pushed ob at PHI 30 for 11 yards (Er.Wilson; C.Brooks).",4th & 17 at GB 31
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,6,PHI,1,1,0,17 Yard Run,(5:19) (Shotgun) S.Barkley left end to PHI 47 for 17 yards (Q.Walker).,1st & 10 at PHI 30
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,6,PHI,1,2,0,15 Yard Run,(4:40) (Shotgun) J.Hurts right end to GB 38 for 15 yards (J.Bullard).,1st & 10 at PHI 47
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,6,PHI,1,3,0,3 Yard Run,(3:56) (Shotgun) S.Barkley left end to GB 35 for 3 yards (E.Williams).,1st & 10 at GB 38
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,6,PHI,1,4,0,4 Yard Pass,(3:14) (Shotgun) J.Hurts pass short left to D.Goedert to GB 31 for 4 yards (E.Cooper; X.McKinney).,2nd & 7 at GB 35
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,6,PHI,1,5,0,6 Yard Run,"(2:36) (No Huddle, Shotgun) K.Gainwell up the middle to GB 25 for 6 yards (Q.Walker).",3rd & 3 at GB 31
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,6,PHI,1,6,0,2 Yard Run,"(2:04) (No Huddle, Shotgun) K.Gainwell left guard to GB 23 for 2 yards (E.Cooper; K.Clark).",1st & 10 at GB 25
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,6,PHI,1,7,0,10 Yard Pass,(1:20) J.Hurts pass short left to D.Smith pushed ob at GB 13 for 10 yards (C.Valentine).,2nd & 8 at GB 23
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,6,PHI,1,8,0,Pass Incomplete,(:38) (Shotgun) J.Hurts pass incomplete short left to J.Dotson.,1st & 10 at GB 13
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,6,PHI,1,9,0,Pass Incomplete,(:35) (Shotgun) J.Hurts pass incomplete short right.,2nd & 10 at GB 13
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,6,PHI,1,10,0,Pass Incomplete,(:26) (Shotgun) J.Hurts pass incomplete short middle [E.Cooper].,3rd & 10 at GB 13
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,1ST QUARTER,6,PHI,1,11,1,Field Goal,"(:22) J.Elliott 31 yard field goal is GOOD, Center-R.Lovato, Holder-B.Mann.",4th & 10 at GB 13
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,1,GB,0,1,0,Kickoff,J.Elliott kicks 59 yards from PHI 35 to GB 6. K.Nixon to GB 30 for 24 yards (N.Smith).,Kickoff from PHI 35
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,1,GB,0,2,0,3 Yard Run,(:12) (Shotgun) J.Jacobs up the middle to GB 33 for 3 yards (Z.Baun; N.Dean).,1st & 10 at GB 30
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,1,GB,0,3,0,Interception,(15:00) (Shotgun) J.Love pass deep right intended for D.Wicks INTERCEPTED by D.Slay at PHI 22. D.Slay to PHI 22 for no gain (D.Wicks).,2nd & 7 at GB 33
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,2,PHI,0,1,0,3 Yard Run,(14:52) S.Barkley left tackle to PHI 25 for 3 yards (E.Cooper; L.Van Ness).,1st & 10 at PHI 22
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,2,PHI,0,2,0,-5 Yard Penalty,"(14:13) (Shotgun) J.Hurts scrambles up the middle to PHI 35 for 10 yards (E.Williams).
+PENALTY on PHI-D.Smith, Illegal Motion, 5 yards, enforced at PHI 25 - No Play.",2nd & 7 at PHI 25
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,2,PHI,0,3,0,Pass Incomplete,"(13:41) (No Huddle, Shotgun) J.Hurts pass incomplete short right to D.Goedert.",2nd & 12 at PHI 20
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,2,PHI,0,4,0,8 Yard Run,(13:36) (Shotgun) S.Barkley left guard to PHI 28 for 8 yards (I.McDuffie).,3rd & 12 at PHI 20
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,2,PHI,0,5,0,Punt,"(12:56) B.Mann punts 54 yards to GB 23, Center-R.Lovato. J.Reed pushed ob at GB 43 for 20 yards (B.Mann; W.Shipley).",4th & 9 at PHI 23
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,3,GB,0,1,0,3 Yard Run,(12:42) (Shotgun) J.Jacobs left tackle to GB 46 for 3 yards (Z.Baun; C.DeJean).,1st & 10 at GB 43
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,3,GB,0,2,0,9 Yard Pass,(12:09) (Shotgun) J.Love pass short right to J.Reed ran ob at PHI 45 for 9 yards (D.Slay).,2nd & 7 at GB 46
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,3,GB,0,3,0,5 Yard Run,(11:38) (Shotgun) J.Jacobs right guard to PHI 40 for 5 yards (M.Ojomo).,1st & 10 at PHI 45
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,3,GB,0,4,0,4 Yard Run,(10:55) (Shotgun) J.Jacobs left tackle to PHI 36 for 4 yards (N.Dean).,2nd & 5 at PHI 40
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,3,GB,0,5,0,8 Yard Run,(10:13) Direct snap to T.Kraft.  T.Kraft up the middle to PHI 28 for 8 yards (J.Carter; R.Blankenship).,3rd & 1 at PHI 36
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,3,GB,0,6,0,4 Yard Pass,(9:26) (Shotgun) J.Love pass short left to J.Reed pushed ob at PHI 24 for 4 yards (Q.Mitchell).,1st & 10 at PHI 28
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,3,GB,0,7,0,-6 Yard Run,(8:48) (Shotgun) J.Jacobs left guard to PHI 30 for -6 yards (N.Dean).,2nd & 6 at PHI 24
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,3,GB,0,8,0,11 Yard Run,(8:05) (Shotgun) J.Love scrambles up the middle to PHI 19 for 11 yards (C.DeJean).,3rd & 12 at PHI 30
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,3,GB,0,9,0,2 Yard Run,(7:19) Direct snap to T.Kraft.  T.Kraft up the middle to PHI 17 for 2 yards (J.Sweat).,4th & 1 at PHI 19
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,3,GB,0,10,0,-5 Yard Penalty,"(6:36) J.Love pass incomplete deep right to R.Doubs (I.Rodgers).
+PENALTY on GB-T.Glover, Ineligible Downfield Pass, 5 yards, enforced at PHI 17 - No Play.",1st & 10 at PHI 17
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,3,GB,0,11,0,5 Yard Run,(6:31) (Shotgun) J.Jacobs right guard to PHI 17 for 5 yards (M.Williams; N.Dean).,1st & 15 at PHI 22
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,3,GB,0,12,0,-3 Yard Pass,(5:47) (Shotgun) J.Love pass short right to T.Kraft to PHI 20 for -3 yards (N.Dean). PHI-N.Dean was injured during the play.,2nd & 10 at PHI 17
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,3,GB,0,13,0,Pass Incomplete,(5:17) (Shotgun) J.Love pass incomplete short left to Em.Wilson.,3rd & 13 at PHI 20
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,3,GB,0,14,0,Field Goal No Good,"(5:09) B.McManus 38 yard field goal is No Good, Wide Right, Center-M.Orzech, Holder-D.Whelan.",4th & 13 at PHI 20
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,4,PHI,0,1,0,Sack,(5:05) J.Hurts sacked at PHI 25 for -3 yards (sack split by I.McDuffie and C.Wooden).,1st & 10 at PHI 28
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,4,PHI,0,2,0,Pass Incomplete,"(4:18) (Shotgun) J.Hurts pass incomplete short left.
+Penalty on PHI-J.Mailata, Offensive Holding, declined.",2nd & 13 at PHI 25
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,4,PHI,0,3,0,8 Yard Run,(4:09) (Shotgun) J.Hurts scrambles up the middle to PHI 33 for 8 yards (Q.Walker; R.Gary).,3rd & 13 at PHI 25
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,4,PHI,0,4,0,Punt,"(3:32) B.Mann punts 44 yards to GB 23, impetus ends at GB 21, Center-R.Lovato, out of bounds.
+PENALTY on PHI-S.Brown, Illegal Touch Kick, 5 yards, enforced at GB 23.",4th & 5 at PHI 33
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,5,GB,0,1,0,-10 Yard Penalty,"(3:25) (Shotgun) J.Love pass short left to J.Jacobs ran ob at GB 29 for 1 yard (O.Burks).
+PENALTY on GB-T.Glover, Offensive Holding, 10 yards, enforced at GB 28 - No Play.",1st & 10 at GB 28
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,5,GB,0,2,0,20 Yard Pass,(3:08) (Shotgun) J.Love pass short right to J.Reed pushed ob at GB 38 for 20 yards (Q.Mitchell). ** Injury Update: PHI-D.Slay has returned to the game.,1st & 20 at GB 18
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,5,GB,0,3,0,-10 Yard Penalty,"(2:27) (Shotgun) J.Jacobs left guard to GB 44 for 6 yards (Q.Mitchell).
+PENALTY on GB-T.Glover, Offensive Holding, 10 yards, enforced at GB 38 - No Play.",1st & 10 at GB 38
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,5,GB,0,4,0,12 Yard Pass,(2:00) (Shotgun) J.Love pass short right to T.Kraft pushed ob at GB 40 for 12 yards (O.Burks).,1st & 20 at GB 28
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,5,GB,0,5,0,5 Yard Pass,(1:52) (Shotgun) J.Love pass short left to C.Brooks to GB 45 for 5 yards (O.Burks).,2nd & 8 at GB 40
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,5,GB,0,6,0,7 Yard Pass,"(1:15) (No Huddle, Shotgun) J.Love pass short right to R.Doubs to PHI 48 for 7 yards (C.DeJean; D.Slay).",3rd & 3 at GB 45
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,5,GB,0,7,0,Pass Incomplete,"(:49) (No Huddle, Shotgun) J.Love pass incomplete short right to C.Brooks [J.Carter].",1st & 10 at PHI 48
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,5,GB,0,8,0,Interception,(:45) (Shotgun) J.Love pass short middle intended for M.Heath INTERCEPTED by Z.Baun at PHI 39. Z.Baun ran ob at GB 45 for 16 yards (T.Kraft).,2nd & 10 at PHI 48
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,6,PHI,0,1,0,6 Yard Run,(:36) (Shotgun) S.Barkley right tackle to GB 39 for 6 yards (J.Bullard; Q.Walker). ** Injury Update: GB-D.Wyatt has returned to the game.,1st & 10 at GB 45
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,6,PHI,0,2,0,Pass Incomplete,(:31) (Shotgun) J.Hurts pass incomplete short middle to D.Goedert (E.Williams).,2nd & 4 at GB 39
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,6,PHI,0,3,0,Pass Incomplete,(:26) (Shotgun) J.Hurts pass incomplete short middle to A.Brown.,3rd & 4 at GB 39
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,6,PHI,0,4,0,-5 Yard Penalty,"(:22) (Shotgun) PENALTY on PHI-D.Goedert, False Start, 5 yards, enforced at GB 39 - No Play.",4th & 4 at GB 39
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,6,PHI,0,5,0,Punt,"(:22) B.Mann punts 33 yards to GB 11, Center-R.Lovato, fair catch by J.Reed.",4th & 9 at GB 44
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,2ND QUARTER,7,GB,0,1,0,-1 Yard Run,(:14) J.Love kneels to GB 10 for -1 yards.,1st & 10 at GB 11
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,1,PHI,0,1,0,Kickoff,B.McManus kicks 65 yards from GB 35 to PHI 0. I.Rodgers to PHI 25 for 25 yards (I.McDuffie; A.Mosby).,Kickoff from GB 35
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,1,PHI,0,2,0,4 Yard Run,(14:53) (Shotgun) S.Barkley left guard to PHI 29 for 4 yards (L.Van Ness).,1st & 10 at PHI 25
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,1,PHI,0,3,0,7 Yard Run,(14:16) S.Barkley right guard to PHI 36 for 7 yards (K.Enagbare).,2nd & 6 at PHI 29
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,1,PHI,0,4,0,-2 Yard Run,(13:39) S.Barkley up the middle to PHI 34 for -2 yards (T.Slaton).,1st & 10 at PHI 36
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,1,PHI,0,5,0,-7 Yard Sack,"(13:06) (No Huddle, Shotgun) J.Hurts sacked at PHI 27 for -7 yards (R.Gary).",2nd & 12 at PHI 34
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,1,PHI,0,6,0,Run for No Gain,(12:21) (Shotgun) S.Barkley left guard to PHI 27 for no gain (K.Brooks).,3rd & 19 at PHI 27
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,1,PHI,0,7,0,Punt,"(11:46) B.Mann punts 63 yards to GB 10, Center-R.Lovato. J.Reed to GB 16 for 6 yards (Z.Baun).",4th & 19 at PHI 27
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,2,GB,1,1,0,7 Yard Run,(11:33) J.Jacobs right end to GB 23 for 7 yards (O.Burks).,1st & 10 at GB 16
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,2,GB,1,2,0,1 Yard Run,(10:56) J.Jacobs left guard to GB 24 for 1 yard (Q.Mitchell).,2nd & 3 at GB 23
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,2,GB,1,3,0,11 Yard Pass,"(10:11) (No Huddle, Shotgun) J.Love pass short middle to J.Jacobs to GB 35 for 11 yards (O.Burks; R.Blankenship).",3rd & 2 at GB 24
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,2,GB,1,4,0,4 Yard Pass,(9:33) (Shotgun) J.Love pass short right to T.Kraft pushed ob at GB 39 for 4 yards (R.Blankenship).,1st & 10 at GB 35
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,2,GB,1,5,0,2 Yard Run,(9:00) Em.Wilson up the middle to GB 41 for 2 yards (R.Blankenship).,2nd & 6 at GB 39
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,2,GB,1,6,0,29 Yard Pass,(8:17) (Shotgun) J.Love pass deep right to D.Wicks to PHI 30 for 29 yards (R.Blankenship).,3rd & 4 at GB 41
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,2,GB,1,7,0,7 Yard Run,(7:33) (Shotgun) J.Jacobs up the middle to PHI 23 for 7 yards (A.Maddox).,1st & 10 at PHI 30
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,2,GB,1,8,0,-10 Yard Penalty,"(6:55) (Shotgun) J.Love pass incomplete deep left to R.Doubs (Q.Mitchell). GB-R.Doubs was injured during the play. 
+PENALTY on GB-K.Telfort, Offensive Holding, 10 yards, enforced at PHI 23 - No Play.",2nd & 3 at PHI 23
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,2,GB,1,9,0,Pass Incomplete,(6:48) (Shotgun) J.Love pass incomplete short middle to M.Heath (J.Carter).,2nd & 13 at PHI 33
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,2,GB,1,10,0,24 Yard Penalty,"(6:45) (Shotgun) J.Love pass incomplete deep left to D.Wicks.
+PENALTY on PHI-Q.Mitchell, Defensive Pass Interference, 24 yards, enforced at PHI 33 - No Play.",3rd & 13 at PHI 33
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,2,GB,1,11,0,1 Yard Run,"(6:38) J.Jacobs left guard to PHI 7 for 2 yards (R.Blankenship). FUMBLES (R.Blankenship), recovered by GB-T.Kraft at PHI 8.",1st & 9 at PHI 9
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,2,GB,1,12,0,Pass Incomplete,(5:56) (Shotgun) J.Love pass incomplete short left to M.Heath.,2nd & 8 at PHI 8
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,2,GB,1,13,0,Pass Incomplete,(5:53) (Shotgun) J.Love pass incomplete short left to B.Melton.,3rd & 8 at PHI 8
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,2,GB,1,14,1,Field Goal,"(5:49) B.McManus 26 yard field goal is GOOD, Center-M.Orzech, Holder-D.Whelan.",4th & 8 at PHI 8
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,3,PHI,1,1,0,Kickoff,B.McManus kicks 65 yards from GB 35 to PHI 0. I.Rodgers to PHI 32 for 32 yards (I.McDuffie; T.Hopper).,Kickoff from GB 35
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,3,PHI,1,2,0,4 Yard Run,(5:40) (Shotgun) S.Barkley left end to PHI 36 for 4 yards (E.Cooper).,1st & 10 at PHI 32
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,3,PHI,1,3,0,3 Yard Run,"(5:07) (No Huddle, Shotgun) S.Barkley left guard to PHI 39 for 3 yards (Q.Walker; L.Van Ness).",2nd & 6 at PHI 36
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,3,PHI,1,4,0,28 Yard Pass,"(4:41) (No Huddle, Shotgun) J.Hurts pass deep left to D.Smith pushed ob at GB 33 for 28 yards (X.McKinney).",3rd & 3 at PHI 39
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,3,PHI,1,5,0,9 Yard Pass,"(4:07) (No Huddle, Shotgun) J.Hurts pass short left to D.Smith to GB 24 for 9 yards (C.Valentine; X.McKinney).",1st & 10 at GB 33
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,3,PHI,1,6,0,Touchdown Eagles,"(3:26) (No Huddle, Shotgun) J.Hurts pass short left to D.Goedert for 24 yards, TOUCHDOWN.",2nd & 1 at GB 24
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,3RD QUARTER,3,PHI,1,7,1,Extra Point No Good,"J.Elliott extra point is No Good, Wide Left, Center-R.Lovato, Holder-B.Mann.",XP attempt from GB 15
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,1,GB,1,1,0,Kickoff,J.Elliott kicks 64 yards from PHI 35 to GB 1. K.Nixon to GB 22 for 21 yards (T.McCollum; S.Brown).,Kickoff from PHI 35
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,1,GB,1,2,0,15 Yard Pass,(3:14) (Shotgun) J.Love pass short middle to J.Jacobs to GB 37 for 15 yards (Z.Baun; N.Smith).,1st & 10 at GB 22
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,1,GB,1,3,0,5 Yard Run,(2:37) J.Jacobs left end to GB 42 for 5 yards (R.Blankenship; J.Hunt).,1st & 10 at GB 37
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,1,GB,1,4,0,13 Yard Pass,(2:02) (Shotgun) J.Love pass short middle to J.Reed to PHI 45 for 13 yards (R.Blankenship). GB-J.Reed was injured during the play.,2nd & 5 at GB 42
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,1,GB,1,5,0,3 Yard Run,(1:37) (Shotgun) J.Jacobs up the middle to PHI 42 for 3 yards (J.Hunt).,1st & 10 at PHI 45
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,1,GB,1,6,0,Pass Incomplete,(:56) J.Love pass incomplete short left to Em.Wilson.,2nd & 7 at PHI 42
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,1,GB,1,7,0,10 Yard Pass,(:50) (Shotgun) J.Love pass short middle to D.Wicks to PHI 32 for 10 yards (Z.Baun).,3rd & 7 at PHI 42
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,1,GB,1,8,0,Pass Incomplete,(:11) (Shotgun) J.Love pass incomplete short right to D.Wicks.,1st & 10 at PHI 32
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,1,GB,1,9,0,31 Yard Run,"(:07) (Shotgun) J.Jacobs up the middle for 32 yards, TOUCHDOWN.
+The Replay Official reviewed the runner broke the plane ruling, and the play was REVERSED.
+(Shotgun) J.Jacobs up the middle to PHI 1 for 31 yards (Q.Mitchell). PHI-C.Gardner-Johnson was injured during the play.",2nd & 10 at PHI 32
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,1,GB,1,10,0,Touchdown Packers,"(15:00) J.Jacobs left tackle for 1 yard, TOUCHDOWN.",1st & 1 at PHI 1
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,1,GB,1,11,1,Extra Point Good,"B.McManus extra point is GOOD, Center-M.Orzech, Holder-D.Whelan.",XP attempt from PHI 15
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,2,PHI,1,1,0,Kickoff,"B.McManus kicks 65 yards from GB 35 to end zone, Touchback to the PHI 30.",Kickoff from GB 35
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,2,PHI,1,2,0,10 Yard Pass,(14:56) (Shotgun) J.Hurts pass short right to D.Goedert to PHI 40 for 10 yards (E.Williams; C.Valentine).,1st & 10 at PHI 30
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,2,PHI,1,3,0,6 Yard Run,"(14:23) (No Huddle, Shotgun) J.Hurts left end to PHI 46 for 6 yards (K.Enagbare; E.Cooper).",1st & 10 at PHI 40
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,2,PHI,1,4,0,3 Yard Run,"(13:49) (No Huddle, Shotgun) S.Barkley right guard to PHI 49 for 3 yards (K.Enagbare).",2nd & 4 at PHI 46
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,2,PHI,1,5,0,Pass Incomplete,(13:40) J.Hurts pass incomplete deep right to A.Brown.,3rd & 1 at PHI 49
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,2,PHI,1,6,0,3 Yard Run,(13:35) (No Huddle) J.Hurts up the middle to GB 48 for 3 yards (I.McDuffie).,4th & 1 at PHI 49
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,2,PHI,1,7,0,3 Yard Run,"(13:00) (No Huddle, Shotgun) S.Barkley left tackle to GB 45 for 3 yards (I.McDuffie; K.Clark).",1st & 10 at GB 48
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,2,PHI,1,8,0,19 Yard Pass,"(12:32) (No Huddle, Shotgun) J.Hurts pass short right to S.Barkley pushed ob at GB 41 for 4 yards (K.Nixon; I.McDuffie).
+PENALTY on GB-K.Nixon, Unnecessary Roughness, 15 yards, enforced at GB 41.",2nd & 7 at GB 45
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,2,PHI,1,9,0,6 Yard Run,(12:04) S.Barkley right tackle to GB 20 for 6 yards (K.Nixon).,1st & 10 at GB 26
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,2,PHI,1,10,0,6 Yard Run,(11:20) (Shotgun) K.Gainwell right tackle to GB 14 for 6 yards (Q.Walker).,2nd & 4 at GB 20
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,2,PHI,1,11,0,-10 Yard Penalty,"(10:46) (No Huddle, Shotgun) J.Hurts left end ran ob at GB 14 for no gain (C.Valentine).
+PENALTY on PHI-D.Smith, Offensive Holding, 10 yards, enforced at GB 14 - No Play.",1st & 10 at GB 14
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,2,PHI,1,12,0,8 Yard Pass,"(10:15) (No Huddle, Shotgun) J.Hurts pass short left to D.Smith to GB 16 for 8 yards (C.Valentine).",1st & 20 at GB 24
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,2,PHI,1,13,0,-10 Yard Penalty,"(9:37) (No Huddle, Shotgun) J.Hurts scrambles left end to GB 13 for 3 yards (E.Cooper).
+PENALTY on PHI-L.Johnson, Offensive Holding, 10 yards, enforced at GB 16 - No Play.",2nd & 12 at GB 16
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,2,PHI,1,14,0,9 Yard Pass,(9:05) (Shotgun) J.Hurts pass short left to D.Goedert to GB 17 for 9 yards (E.Cooper) [C.Wooden].,2nd & 22 at GB 26
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,2,PHI,1,15,0,5 Yard Run,(8:20) (Shotgun) J.Hurts left tackle to GB 12 for 5 yards (X.McKinney).,3rd & 13 at GB 17
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,2,PHI,1,16,1,Field Goal,"(7:36) J.Elliott 30 yard field goal is GOOD, Center-R.Lovato, Holder-B.Mann.",4th & 8 at GB 12
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,3,GB,0,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to landing zone to end zone, Touchback to the GB 20.",Kickoff from PHI 35
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,3,GB,0,2,0,14 Yard Pass,(7:33) (Shotgun) J.Love pass short right to J.Jacobs to GB 34 for 14 yards (C.DeJean). ** Injury Update: PHI-C.Gardner-Johnson has returned to the game.,1st & 10 at GB 20
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,3,GB,0,3,0,4 Yard Run,"(6:59) (No Huddle, Shotgun) Em.Wilson right guard to GB 38 for 4 yards (Z.Baun).",1st & 10 at GB 34
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,3,GB,0,4,0,3 Yard Pass,(6:18) (Shotgun) J.Love pass short right to T.Kraft pushed ob at GB 41 for 3 yards (Z.Baun).,2nd & 6 at GB 38
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,3,GB,0,5,0,Run for No Gain,"(5:44) (No Huddle, Shotgun) Em.Wilson up the middle to GB 41 for no gain (N.Smith; J.Carter).",3rd & 3 at GB 41
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,3,GB,0,6,0,Turnover on Downs,"(5:03) (No Huddle, Shotgun) J.Love pass incomplete short left to M.Heath.",4th & 3 at GB 41
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,4,PHI,1,1,0,5 Yard Run,(4:58) (Shotgun) S.Barkley left tackle to GB 36 for 5 yards (K.Clark).,1st & 10 at GB 41
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,4,PHI,1,2,0,16 Yard Run,"(4:53) (Shotgun) S.Barkley up the middle to GB 35 for 1 yard (T.Slaton; L.Van Ness).
+PENALTY on GB-T.Slaton, Unnecessary Roughness, 15 yards, enforced at GB 35.",2nd & 5 at GB 36
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,4,PHI,1,3,0,Run for No Gain,(4:47) (Shotgun) S.Barkley left guard to GB 20 for no gain (K.Clark).,1st & 10 at GB 20
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,4,PHI,1,4,0,2 Yard Run,(4:43) (Shotgun) S.Barkley right tackle to GB 18 for 2 yards (R.Gary; C.Wooden).,2nd & 10 at GB 20
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,4,PHI,1,5,0,4 Yard Run,(3:59) (Shotgun) S.Barkley left tackle to GB 14 for 4 yards (E.Williams). GB-Q.Walker was injured during the play.,3rd & 8 at GB 18
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,4,PHI,1,6,1,Field Goal,"(3:15) J.Elliott 32 yard field goal is GOOD, Center-R.Lovato, Holder-B.Mann.",4th & 4 at GB 14
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,5,GB,0,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the GB 30.",Kickoff from PHI 35
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,5,GB,0,2,0,-3 Yard Sack,(3:12) (Shotgun) J.Love sacked at GB 27 for -3 yards (N.Smith). GB-J.Myers was injured during the play.,1st & 10 at GB 30
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,5,GB,0,3,0,-10 Yard Penalty,"(2:45) (Shotgun) J.Love pass deep left to M.Heath to PHI 30 for 43 yards (Q.Mitchell) [J.Sweat].
+PENALTY on GB-S.Rhyan, Offensive Holding, 10 yards, enforced at GB 27 - No Play.",2nd & 13 at GB 27
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,5,GB,0,4,0,4 Yard Pass,"(2:37) (Shotgun) S.Rhyan to GB 14 for -3 yards. FUMBLES, recovered by GB-J.Love at GB 13. J.Love pass short right to C.Brooks to GB 21 for 4 yards (Z.Baun; N.Smith) [M.Williams].",2nd & 23 at GB 17
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,5,GB,0,5,0,23 Yard Pass,(2:24) (Shotgun) J.Love pass short left to Em.Wilson pushed ob at GB 44 for 23 yards (R.Blankenship) [J.Carter].,3rd & 19 at GB 21
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,5,GB,0,6,0,16 Yard Pass,(2:15) (Shotgun) J.Love pass deep left to B.Melton to PHI 40 for 16 yards (R.Blankenship).,1st & 10 at GB 44
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,5,GB,0,7,0,Interception,(2:00) (Shotgun) J.Love pass deep left intended for B.Melton INTERCEPTED by Q.Mitchell at PHI -6. Touchback.,1st & 10 at PHI 40
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,6,PHI,0,1,0,4 Yard Run,(1:51) (Shotgun) S.Barkley left tackle to PHI 24 for 4 yards (E.Williams; I.McDuffie).,1st & 10 at PHI 20
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,6,PHI,0,2,0,17 Yard Run,(1:09) (Shotgun) S.Barkley left tackle to PHI 41 for 17 yards.,2nd & 6 at PHI 24
+2024,Wild Card Weekend,SUN,01/12,Packers,Eagles,4TH QUARTER,6,PHI,0,3,0,-1 Yard Run,(:33) J.Hurts kneels to PHI 40 for -1 yards.,1st & 10 at PHI 41
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,1ST QUARTER,1,TB,1,1,0,Kickoff,"Z.Gonzalez kicks 65 yards from WAS 35 to end zone, Touchback to the TB 30.",Kickoff from WAS 35
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,1ST QUARTER,1,TB,1,2,0,11 Yard Pass,(15:00) B.Mayfield pass short right to M.Evans to TB 41 for 11 yards (M.Lattimore).,1st & 10 at TB 30
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,1ST QUARTER,1,TB,1,3,0,Run for No Gain,(14:23) B.Irving right tackle to TB 41 for no gain (B.Wagner).,1st & 10 at TB 41
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,1ST QUARTER,1,TB,1,4,0,1 Yard Run,(13:44) (Shotgun) B.Mayfield scrambles right end to TB 42 for 1 yard (F.Luvu).,2nd & 10 at TB 41
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,1ST QUARTER,1,TB,1,5,0,23 Yard Pass,(13:04) (Shotgun) B.Mayfield pass short right to M.Evans pushed ob at WAS 35 for 23 yards (M.Lattimore; J.Chinn).,3rd & 9 at TB 42
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,1ST QUARTER,1,TB,1,6,0,3 Yard Run,(12:22) B.Irving left tackle to WAS 32 for 3 yards (C.Ferrell; M.Lattimore).,1st & 10 at WAS 35
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,1ST QUARTER,1,TB,1,7,0,Pass Incomplete,(11:49) (Shotgun) B.Mayfield pass incomplete short left to J.McMillan.,2nd & 7 at WAS 32
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,1ST QUARTER,1,TB,1,8,0,Pass Incomplete,(11:45) (Shotgun) B.Mayfield pass incomplete deep right to J.McMillan.,3rd & 7 at WAS 32
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,1ST QUARTER,1,TB,1,9,1,Field Goal,"(11:40) C.McLaughlin 50 yard field goal is GOOD, Center-E.Deckers, Holder-J.Browning.
+Penalty on WAS-J.Reaves, Defensive Offside, declined.",4th & 7 at WAS 32
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,1ST QUARTER,2,WAS,0,1,0,Kickoff,J.Browning kicks 66 yards from TB 35 to WAS -1. L.McCaffrey to WAS 33 for 34 yards (J.Russell).,Kickoff from TB 35
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,1ST QUARTER,2,WAS,0,2,0,Pass Incomplete,(11:28) (Shotgun) J.Daniels pass incomplete short right [V.Vea].,1st & 10 at WAS 33
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,1ST QUARTER,2,WAS,0,3,0,4 Yard Run,"(11:22) (No Huddle, Shotgun) B.Robinson left end to WAS 37 for 4 yards (L.David; J.Dean).",2nd & 10 at WAS 33
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,1ST QUARTER,2,WAS,0,4,0,35 Yard Pass,"(10:39) (No Huddle, Shotgun) J.Daniels pass deep left to T.McLaurin to TB 28 for 35 yards (J.Dean).",3rd & 6 at WAS 37
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,1ST QUARTER,2,WAS,0,5,0,Run for No Gain,(9:53) (Shotgun) J.Daniels left end to TB 28 for no gain (M.Edwards).,1st & 10 at TB 28
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,1ST QUARTER,2,WAS,0,6,0,8 Yard Run,"(9:17) (No Huddle, Shotgun) J.Daniels scrambles right end pushed ob at TB 20 for 8 yards (J.Russell).",2nd & 10 at TB 28
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,1ST QUARTER,2,WAS,0,7,0,Sack,"(8:33) (No Huddle, Shotgun) J.Daniels sacked ob at TB 20 for 0 yards (L.David).",3rd & 2 at TB 20
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,1ST QUARTER,2,WAS,0,8,0,Turnover on Downs,"(7:50) (No Huddle, Shotgun) J.Daniels pass incomplete short middle to A.Ekeler.",4th & 2 at TB 20
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,1ST QUARTER,3,TB,0,1,0,6 Yard Run,(7:46) (Shotgun) B.Irving right guard to TB 26 for 6 yards (C.Ferrell).,1st & 10 at TB 20
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,1ST QUARTER,3,TB,0,2,0,7 Yard Run,(7:08) (Shotgun) B.Irving right guard to TB 33 for 7 yards (J.Chinn; S.Day).,2nd & 4 at TB 26
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,1ST QUARTER,3,TB,0,3,0,15 Yard Pass,(6:27) (Shotgun) B.Mayfield pass short left to J.McMillan ran ob at TB 48 for 15 yards.,1st & 10 at TB 33
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,1ST QUARTER,3,TB,0,4,0,Run for No Gain,(5:49) (Shotgun) B.Irving left guard to TB 48 for no gain (J.Chinn; D.Armstrong).,1st & 10 at TB 48
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,1ST QUARTER,3,TB,0,5,0,2 Yard Run,(5:07) (Shotgun) B.Irving up the middle to 50 for 2 yards (B.Wagner).,2nd & 10 at TB 48
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,1ST QUARTER,3,TB,0,6,0,1 Yard Run,(4:29) (Shotgun) B.Mayfield scrambles up the middle to WAS 49 for 1 yard (D.Armstrong; F.Luvu).,3rd & 8 at 50
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,1ST QUARTER,3,TB,0,7,0,Punt,"(3:41) J.Browning punts 41 yards to WAS 8, Center-E.Deckers, fair catch by J.Crowder.",4th & 7 at WAS 49
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,1,WAS,1,1,0,2 Yard Pass,(3:34) (Shotgun) J.Daniels pass short left to T.McLaurin pushed ob at WAS 10 for 2 yards (J.Dean).,1st & 10 at WAS 8
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,1,WAS,1,2,0,2 Yard Pass,"(3:01) (No Huddle, Shotgun) J.Daniels pass short right to B.Robinson to WAS 12 for 2 yards (T.Smith; L.David).",2nd & 8 at WAS 10
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,1,WAS,1,3,0,9 Yard Pass,"(2:18) (No Huddle, Shotgun) J.Daniels pass short right to Z.Ertz to WAS 21 for 9 yards (A.Winfield).",3rd & 6 at WAS 12
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,1,WAS,1,4,0,18 Yard Pass,"(1:33) (No Huddle, Shotgun) J.Daniels pass short middle to T.McLaurin to WAS 39 for 18 yards (D.Jones; A.Winfield).",1st & 10 at WAS 21
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,1,WAS,1,5,0,4 Yard Run,"(:51) (No Huddle, Shotgun) B.Robinson up the middle to WAS 43 for 4 yards (D.Jones).",1st & 10 at WAS 39
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,1,WAS,1,6,0,12 Yard Run,"(:16) (No Huddle, Shotgun) A.Ekeler left end to TB 45 for 12 yards (A.Nelson).",2nd & 6 at WAS 43
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,1,WAS,1,7,0,13 Yard Pass,(15:00) (Shotgun) J.Daniels pass short right to B.Robinson to TB 32 for 13 yards (K.Britt).,1st & 10 at TB 45
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,1,WAS,1,8,0,5 Yard Run,"(14:34) (No Huddle, Shotgun) B.Robinson right tackle to TB 27 for 5 yards (L.David; K.Britt).",1st & 10 at TB 32
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,1,WAS,1,9,0,2 Yard Pass,"(13:53) (No Huddle, Shotgun) J.Daniels pass short right to B.Robinson to TB 25 for 2 yards (S.Barrett).",2nd & 5 at TB 27
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,1,WAS,1,10,0,2 Yard Run,"(13:16) (No Huddle, Shotgun) J.Daniels right end pushed ob at TB 23 for 2 yards (T.Smith).",3rd & 3 at TB 25
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,1,WAS,1,11,0,2 Yard Run,(12:44) (Shotgun) A.Ekeler up the middle to TB 21 for 2 yards (L.Hall).,4th & 1 at TB 23
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,1,WAS,1,12,0,7 Yard Run,"(12:02) (No Huddle, Shotgun) J.Daniels scrambles up the middle to TB 14 for 7 yards (Z.McCollum).",1st & 10 at TB 21
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,1,WAS,1,13,0,Pass Incomplete,"(11:18) (No Huddle, Shotgun) J.Daniels pass incomplete short left to T.McLaurin.",2nd & 3 at TB 14
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,1,WAS,1,14,0,6 Yard Pass,(11:16) (Shotgun) J.Daniels pass short left to O.Zaccheaus to TB 8 for 6 yards (T.Smith).,3rd & 3 at TB 14
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,1,WAS,1,15,0,Run for No Gain,"(10:53) (No Huddle, Shotgun) B.Robinson up the middle to TB 8 for no gain (Y.Diaby; G.Gaines).",1st & 8 at TB 8
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,1,WAS,1,16,0,-2 Yard Run,"(10:17) (No Huddle, Shotgun) J.Daniels right end to TB 10 for -2 yards (Z.McCollum, A.Nelson).",2nd & 8 at TB 8
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,1,WAS,1,17,0,Touchdown Commanders,"(9:31) (No Huddle, Shotgun) J.Daniels pass short middle to D.Brown for 10 yards, TOUCHDOWN.
+PENALTY on TB-Y.Diaby, Roughing the Passer, 8 yards, enforced between downs.",3rd & 10 at TB 10
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,1,WAS,1,18,1,Extra Point Good,"Z.Gonzalez extra point is GOOD, Center-T.Ott, Holder-T.Way.",XP attempt from TB 7
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,2,TB,0,1,0,Kickoff,"Z.Gonzalez kicks 65 yards from WAS 35 to end zone, Touchback to the TB 30.",Kickoff from WAS 35
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,2,TB,0,2,0,1 Yard Run,(9:26) (Shotgun) B.Mayfield scrambles right end ran ob at TB 31 for 1 yard (B.Wagner).,1st & 10 at TB 30
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,2,TB,0,3,0,-15 Yard Penalty,"(8:49) (Shotgun) B.Mayfield pass incomplete deep right to M.Evans (J.Chinn).
+PENALTY on TB-B.Irving, Chop Block, 15 yards, enforced at TB 31 - No Play.",2nd & 9 at TB 31
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,2,TB,0,4,0,2 Yard Pass,"(8:43) (Shotgun) B.Mayfield pass short right to B.Irving to TB 18 for 2 yards (J.Chinn).
+Penalty on TB-T.Wirfs, Offensive Holding, declined.",2nd & 24 at TB 16
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,2,TB,0,5,0,13 Yard Pass,(8:16) (Shotgun) B.Mayfield pass short left to R.White pushed ob at TB 31 for 13 yards (B.Wagner).,3rd & 22 at TB 18
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,2,TB,0,6,0,Punt,"(7:34) J.Browning punts 56 yards to WAS 13, Center-E.Deckers. J.Crowder to WAS 30 for 17 yards (R.Miller).",4th & 9 at TB 31
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,3,WAS,1,1,0,7 Yard Pass,(7:20) (Shotgun) J.Daniels pass short left to T.McLaurin pushed ob at WAS 37 for 7 yards (T.Smith).,1st & 10 at WAS 30
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,3,WAS,1,2,0,Run for No Gain,"(6:47) (No Huddle, Shotgun) A.Ekeler left guard to WAS 37 for no gain (G.Gaines; L.Hall).",2nd & 3 at WAS 37
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,3,WAS,1,3,0,4 Yard Pass,"(6:03) (No Huddle, Shotgun) J.Daniels pass short right to A.Ekeler to WAS 41 for 4 yards (T.Smith).",3rd & 3 at WAS 37
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,3,WAS,1,4,0,6 Yard Run,"(5:41) (No Huddle, Shotgun) J.Daniels left guard to WAS 47 for 6 yards (M.Edwards).",1st & 10 at WAS 41
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,3,WAS,1,5,0,5 Yard Run,"(5:07) (No Huddle, Shotgun) J.Daniels scrambles right end ran ob at TB 48 for 5 yards (T.Smith).",2nd & 4 at WAS 47
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,3,WAS,1,6,0,5 Yard Run,"(4:36) (No Huddle, Shotgun) J.Daniels up the middle to TB 43 for 5 yards (J.Tryon; K.Britt).",1st & 10 at TB 48
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,3,WAS,1,7,0,1 Yard Run,"(3:56) (No Huddle, Shotgun) J.McNichols up the middle to TB 42 for 1 yard (T.Smith; J.Tryon).",2nd & 5 at TB 43
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,3,WAS,1,8,0,5 Yard Penalty,"(3:14) (No Huddle, Shotgun) J.Daniels sacked at WAS 47 for -11 yards (Y.Diaby).
+PENALTY on TB-Z.McCollum, Defensive Holding, 5 yards, enforced at TB 42 - No Play.",3rd & 4 at TB 42
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,3,WAS,1,9,0,4 Yard Run,"(2:51) (No Huddle, Shotgun) B.Robinson right guard to TB 33 for 4 yards (G.Gaines, J.Russell).",1st & 10 at TB 37
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,3,WAS,1,10,0,Pass Incomplete,"(2:07) (No Huddle, Shotgun) J.Daniels pass incomplete short right [C.Braswell].",2nd & 6 at TB 33
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,3,WAS,1,11,0,Pass Incomplete,"(2:04) (No Huddle, Shotgun) J.Daniels pass incomplete deep right to T.McLaurin (Z.McCollum).",3rd & 6 at TB 33
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,3,WAS,1,12,1,Field Goal,"(1:57) Z.Gonzalez 52 yard field goal is GOOD, Center-T.Ott, Holder-T.Way.",4th & 6 at TB 33
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,4,TB,1,1,0,Kickoff,Z.Gonzalez kicks 63 yards from WAS 35 to TB 2. R.White to TB 26 for 24 yards (J.Reaves; J.Magee).,Kickoff from WAS 35
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,4,TB,1,2,0,1 Yard Run,(1:46) (Shotgun) R.White left end to TB 27 for 1 yard (D.Payne).,1st & 10 at TB 26
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,4,TB,1,3,0,Pass Incomplete,"(1:23) (No Huddle, Shotgun) B.Mayfield pass incomplete short middle.",2nd & 9 at TB 27
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,4,TB,1,4,0,18 Yard Run,"(1:18) (Shotgun) B.Mayfield scrambles up the middle to TB 45 for 18 yards (P.Butler).
+Penalty on WAS-D.Fowler, Defensive Offside, declined.",3rd & 9 at TB 27
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,4,TB,1,5,0,11 Yard Pass,"(1:08) (No Huddle, Shotgun) B.Mayfield pass short left to M.Evans pushed ob at WAS 44 for 11 yards (M.Lattimore).",1st & 10 at TB 45
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,4,TB,1,6,0,12 Yard Pass,(1:02) (Shotgun) B.Mayfield pass short middle to C.Otton to WAS 32 for 12 yards (J.Chinn).,1st & 10 at WAS 44
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,4,TB,1,7,0,20 Yard Pass,"(:36) (No Huddle, Shotgun) B.Mayfield pass short middle to M.Evans to WAS 12 for 20 yards (M.Lattimore).",1st & 10 at WAS 32
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,4,TB,1,8,0,11 Yard Penalty,"(:17) (Shotgun) B.Mayfield pass incomplete short left to M.Evans.
+PENALTY on WAS-M.Lattimore, Defensive Pass Interference, 11 yards, enforced at WAS 12 - No Play.",1st & 10 at WAS 12
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,4,TB,1,9,0,Touchdown Buccaneers,"(:13) B.Mayfield pass short left to M.Evans for 1 yard, TOUCHDOWN.",1st & 1 at WAS 1
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,4,TB,1,10,1,Extra Point Good,"C.McLaughlin extra point is GOOD, Center-E.Deckers, Holder-J.Browning.",XP attempt from WAS 15
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,5,WAS,0,1,0,Kickoff,J.Browning kicks 65 yards from TB 35 to WAS 0. L.McCaffrey to WAS 26 for 26 yards (T.Thomas).,Kickoff from TB 35
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,2ND QUARTER,5,WAS,0,2,0,-1 Yard Run,(:05) J.Daniels kneels to WAS 25 for -1 yards.,1st & 10 at WAS 26
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,1,WAS,1,1,0,Kickoff,"J.Browning kicks 65 yards from TB 35 to end zone, Touchback to the WAS 30. ** Injury Update: WAS-B.Sinnott has returned to the game.",Kickoff from TB 35
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,1,WAS,1,2,0,8 Yard Pass,(15:00) (Shotgun) J.Daniels pass short left to O.Zaccheaus to WAS 38 for 8 yards (A.Winfield).,1st & 10 at WAS 30
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,1,WAS,1,3,0,1 Yard Run,"(14:33) (No Huddle, Shotgun) B.Robinson right guard to WAS 39 for 1 yard (L.Hall, A.Nelson).",2nd & 2 at WAS 38
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,1,WAS,1,4,0,2 Yard Run,(13:57) (No Huddle) M.Mariota up the middle to WAS 41 for 2 yards (G.Gaines).,3rd & 1 at WAS 39
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,1,WAS,1,5,0,2 Yard Run,"(13:21) (No Huddle, Shotgun) B.Robinson right tackle to WAS 43 for 2 yards (L.David; A.Nelson).",1st & 10 at WAS 41
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,1,WAS,1,6,0,30 Yard Pass,"(12:48) (No Huddle, Shotgun) J.Daniels pass short right to D.Brown pushed ob at TB 27 for 30 yards (A.Winfield).",2nd & 8 at WAS 43
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,1,WAS,1,7,0,24 Yard Pass,(12:04) (No Huddle) J.Daniels pass short right to D.Brown to TB 3 for 24 yards (Y.Diaby).,1st & 10 at TB 27
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,1,WAS,1,8,0,-1 Yard Run,"(11:14) (No Huddle, Shotgun) B.Robinson up the middle to TB 4 for -1 yards (G.Gaines, M.Edwards).",1st & 3 at TB 3
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,1,WAS,1,9,0,Pass Incomplete,"(10:44) (No Huddle, Shotgun) J.Daniels pass incomplete short right.",2nd & 4 at TB 4
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,1,WAS,1,10,0,Pass Incomplete,"(10:38) (No Huddle, Shotgun) J.Daniels pass incomplete short left to T.McLaurin (J.Dean). ** Injury Update: TB-C.Kancey has returned to the game.",3rd & 4 at TB 4
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,1,WAS,1,11,1,Field Goal,"(10:33) Z.Gonzalez 22 yard field goal is GOOD, Center-T.Ott, Holder-T.Way.",4th & 4 at TB 4
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,2,TB,1,1,0,Kickoff,Z.Gonzalez kicks 67 yards from WAS 35 to TB -2. R.White to TB 28 for 30 yards (M.Walker).,Kickoff from WAS 35
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,2,TB,1,2,0,16 Yard Pass,"(10:25) B.Mayfield pass short left to R.White to TB 29 for 1 yard (N.Igbinoghene).
+PENALTY on WAS-D.Armstrong, Face Mask, 15 yards, enforced at TB 29.",1st & 10 at TB 28
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,2,TB,1,3,0,5 Yard Run,(10:04) (Shotgun) B.Irving up the middle to TB 49 for 5 yards (D.Fowler).,1st & 10 at TB 44
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,2,TB,1,4,0,-5 Yard Penalty,"(9:22) PENALTY on TB-C.Otton, False Start, 5 yards, enforced at TB 49 - No Play.",2nd & 5 at TB 49
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,2,TB,1,5,0,6 Yard Run,(9:04) (Shotgun) B.Irving right guard to 50 for 6 yards (F.Luvu).,2nd & 10 at TB 44
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,2,TB,1,6,0,18 Yard Pass,(8:27) (Shotgun) B.Mayfield pass short middle to M.Evans to WAS 32 for 18 yards (Q.Martin).,3rd & 4 at 50
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,2,TB,1,7,0,19 Yard Run,(7:44) B.Irving left end pushed ob at WAS 13 for 19 yards (M.Lattimore).,1st & 10 at WAS 32
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,2,TB,1,8,0,-5 Yard Penalty,"(7:17) PENALTY on TB, Offensive Too Many Men on Field, 5 yards, enforced at WAS 13 - No Play.",1st & 10 at WAS 13
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,2,TB,1,9,0,10 Yard Run,(7:02) (Shotgun) B.Irving left guard to WAS 8 for 10 yards (B.Wagner; Q.Martin).,1st & 15 at WAS 18
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,2,TB,1,10,0,6 Yard Run,(6:26) B.Irving right tackle to WAS 2 for 6 yards (J.Newton).,2nd & 5 at WAS 8
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,2,TB,1,11,0,-3 Yard Run,(6:06) (No Huddle) B.Irving right guard to WAS 5 for -3 yards (J.Newton).,1st & 2 at WAS 2
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,2,TB,1,12,0,3 Yard Penalty,"(5:27) B.Mayfield pass incomplete short right to J.McMillan.
+PENALTY on WAS-N.Igbinoghene, Defensive Holding, 3 yards, enforced at WAS 5 - No Play.",2nd & 5 at WAS 5
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,2,TB,1,13,0,Sack,(5:22) V.Vea and J.Skule reported in as eligible.  B.Mayfield sacked at WAS 4 for -2 yards (sack split by D.Armstrong and B.Wagner).,1st & 2 at WAS 2
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,2,TB,1,14,0,Touchdown Buccaneers,"(4:34) B.Mayfield pass short right to B.Irving for 4 yards, TOUCHDOWN.",2nd & 4 at WAS 4
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,3RD QUARTER,2,TB,1,15,1,Extra Point Good,"C.McLaughlin extra point is GOOD, Center-E.Deckers, Holder-J.Browning.",XP attempt from WAS 15
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,1,WAS,0,1,0,Kickoff,"J.Browning kicks 65 yards from TB 35 to end zone, Touchback to the WAS 30.",Kickoff from TB 35
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,1,WAS,0,2,0,5 Yard Penalty,"(4:31) (Shotgun) J.Daniels pass incomplete short middle to D.Brown.
+PENALTY on TB-J.Dean, Defensive Holding, 5 yards, enforced at WAS 30 - No Play.",1st & 10 at WAS 30
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,1,WAS,0,3,0,6 Yard Run,"(4:26) (No Huddle, Shotgun) J.Daniels up the middle to WAS 41 for 6 yards (K.Britt).",1st & 10 at WAS 35
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,1,WAS,0,4,0,17 Yard Pass,"(3:45) (No Huddle, Shotgun) J.Daniels pass deep right to T.McLaurin to TB 42 for 17 yards (J.Dean). TB-J.Dean was injured during the play.",2nd & 4 at WAS 41
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,1,WAS,0,5,0,5 Yard Pass,(3:14) (Shotgun) J.Daniels pass short right to B.Robinson to TB 37 for 5 yards (K.Britt).,1st & 10 at TB 42
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,1,WAS,0,6,0,-5 Yard Penalty,"(2:33) (No Huddle, Shotgun) J.Daniels pass short middle to T.McLaurin to TB 12 for 25 yards (A.Winfield).
+PENALTY on WAS-A.Wylie, Ineligible Downfield Pass, 5 yards, enforced at TB 37 - No Play.",2nd & 5 at TB 37
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,1,WAS,0,7,0,5 Yard Pass,"(2:07) (No Huddle, Shotgun) J.Daniels pass short left to O.Zaccheaus to TB 37 for 5 yards (Y.Diaby; V.Vea).",2nd & 10 at TB 42
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,1,WAS,0,8,0,Pass Incomplete,"(1:24) (No Huddle, Shotgun) J.Daniels pass incomplete short middle to Z.Ertz.",3rd & 5 at TB 37
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,1,WAS,0,9,0,14 Yard Pass,"(1:19) (No Huddle, Shotgun) J.Daniels pass short middle to Z.Ertz to TB 23 for 14 yards (M.Edwards).",4th & 5 at TB 37
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,1,WAS,0,10,0,4 Yard Run,"(:58) (No Huddle, Shotgun) A.Ekeler left tackle to TB 19 for 4 yards (L.David).",1st & 10 at TB 23
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,1,WAS,0,11,0,-5 Yard Penalty,"(:25) (No Huddle, Shotgun) PENALTY on WAS-Z.Ertz, False Start, 5 yards, enforced at TB 19 - No Play.",2nd & 6 at TB 19
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,1,WAS,0,12,0,1 Yard Run,"(:06) (No Huddle, Shotgun) A.Ekeler left tackle to TB 23 for 1 yard (L.David).",2nd & 11 at TB 24
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,1,WAS,0,13,0,22 Yard Penalty,"(15:00) (Shotgun) J.Daniels pass incomplete deep left to D.Brown. ** Injury Update: TB-Z.McCollum has returned to the game. 
+PENALTY on TB-Z.McCollum, Defensive Pass Interference, 22 yards, enforced at TB 23 - No Play.",3rd & 10 at TB 23
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,1,WAS,0,14,0,Pass Incomplete,(14:54) (Shotgun) J.Daniels pass incomplete short right to J.Bates [Y.Diaby].,1st & 1 at TB 1
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,1,WAS,0,15,0,-2 Yard Run,"(14:49) (No Huddle, Shotgun) B.Robinson up the middle to TB 3 for -2 yards (C.Kancey).",2nd & 1 at TB 1
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,1,WAS,0,16,0,Pass Incomplete,"(14:08) (No Huddle, Shotgun) J.Daniels pass incomplete short middle to B.Robinson (D.Jones).",3rd & 3 at TB 3
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,1,WAS,0,17,0,Turnover on Downs,(14:05) (Shotgun) J.Daniels pass incomplete short middle to Z.Ertz.,4th & 3 at TB 3
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,2,TB,0,1,0,4 Yard Run,(14:01) B.Irving left guard to TB 8 for 4 yards (J.Jean-Baptiste; B.Wagner). ** Injury Update: WAS-D.Payne has returned to the game.,1st & 10 at TB 4
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,2,TB,0,2,0,-1 Yard Run,(13:18) (Shotgun) B.Irving right guard to TB 7 for -1 yards (J.Holmes).,2nd & 6 at TB 8
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,2,TB,0,3,0,8 Yard Pass,(12:39) (Shotgun) B.Mayfield pass short right to M.Evans to TB 15 for 8 yards (M.Sainristil).,3rd & 7 at TB 7
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,2,TB,0,4,0,Fumble,"(11:58) B.Mayfield FUMBLES (Aborted) at TB 12, touched at TB 13, RECOVERED by WAS-B.Wagner at TB 13. B.Wagner to TB 13 for no gain (B.Mayfield).",1st & 10 at TB 15
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,3,WAS,1,1,0,Run for No Gain,(11:56) (Shotgun) J.Daniels up the middle to TB 13 for no gain (L.Hall).,1st & 10 at TB 13
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,3,WAS,1,2,0,4 Yard Pass,"(11:17) (No Huddle, Shotgun) J.Daniels pass short left to D.Brown to TB 9 for 4 yards (A.Winfield; J.Hayes).",2nd & 10 at TB 13
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,3,WAS,1,3,0,4 Yard Pass,"(10:40) (No Huddle, Shotgun) J.Daniels pass short middle to A.Ekeler to TB 5 for 4 yards (A.Winfield) [J.Tryon].",3rd & 6 at TB 9
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,3,WAS,1,4,0,Touchdown Commanders,"(9:50) (No Huddle, Shotgun) J.Daniels pass short middle to T.McLaurin for 5 yards, TOUCHDOWN.",4th & 2 at TB 5
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,3,WAS,1,5,1,Extra Point Good,"Z.Gonzalez extra point is GOOD, Center-T.Ott, Holder-T.Way.",XP attempt from TB 15
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,4,TB,1,1,0,Kickoff,Z.Gonzalez kicks 65 yards from WAS 35 to TB 0. R.White to TB 25 for 25 yards (J.Chinn).,Kickoff from WAS 35
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,4,TB,1,2,0,26 Yard Pass,(9:40) (Shotgun) B.Mayfield pass short middle to J.McMillan to WAS 49 for 26 yards (J.Chinn; Q.Martin).,1st & 10 at TB 25
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,4,TB,1,3,0,6 Yard Run,(9:01) B.Irving left end to WAS 43 for 6 yards (J.Chinn).,1st & 10 at WAS 49
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,4,TB,1,4,0,2 Yard Run,(8:17) (Shotgun) B.Mayfield left end to WAS 41 for 2 yards (F.Luvu).,2nd & 4 at WAS 43
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,4,TB,1,5,0,20 Yard Pass,(7:30) B.Mayfield pass short right to C.Otton to WAS 21 for 20 yards (Q.Martin).,3rd & 2 at WAS 41
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,4,TB,1,6,0,9 Yard Run,(6:51) (Shotgun) B.Irving left end to WAS 12 for 9 yards (M.Lattimore; M.Walker).,1st & 10 at WAS 21
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,4,TB,1,7,0,Run for No Gain,(6:09) (Shotgun) B.Mayfield up the middle to WAS 12 for no gain (B.Wagner).,2nd & 1 at WAS 12
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,4,TB,1,8,0,-2 Yard Run,(5:32) B.Irving right guard to WAS 14 for -2 yards (D.Armstrong; N.Igbinoghene).,3rd & 1 at WAS 12
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,4,TB,1,9,1,Field Goal,"(4:45) C.McLaughlin 32 yard field goal is GOOD, Center-E.Deckers, Holder-J.Browning.",4th & 3 at WAS 14
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,5,WAS,1,1,0,Kickoff,"J.Browning kicks 65 yards from TB 35 to end zone, Touchback to the WAS 30.",Kickoff from TB 35
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,5,WAS,1,2,0,5 Yard Pass,(4:41) (Shotgun) J.Daniels pass short left to T.McLaurin to WAS 35 for 5 yards (J.Hayes).,1st & 10 at WAS 30
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,5,WAS,1,3,0,-1 Yard Run,"(4:01) (No Huddle, Shotgun) B.Robinson right tackle to WAS 34 for -1 yards (Y.Diaby, A.Winfield).",2nd & 5 at WAS 35
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,5,WAS,1,4,0,21 Yard Pass,"(3:20) (No Huddle, Shotgun) J.Daniels pass deep middle to D.Brown to TB 45 for 21 yards (A.Winfield; J.Hayes).",3rd & 6 at WAS 34
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,5,WAS,1,5,0,Run for No Gain,(2:33) (Shotgun) A.Ekeler left guard to TB 45 for no gain (L.Hall; G.Gaines).,1st & 10 at TB 45
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,5,WAS,1,6,0,18 Yard Pass,(2:00) (Shotgun) J.Daniels pass short left to A.Ekeler to TB 27 for 18 yards (Z.McCollum; J.Hayes).,2nd & 10 at TB 45
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,5,WAS,1,7,0,8 Yard Run,(1:41) (Shotgun) A.Ekeler up the middle to TB 19 for 8 yards (A.Nelson; L.David).,1st & 10 at TB 27
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,5,WAS,1,8,0,Run for No Gain,(:59) (Shotgun) A.Ekeler right guard to TB 19 for no gain (L.Hall).,2nd & 2 at TB 19
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,5,WAS,1,9,0,4 Yard Run,(:55) (Shotgun) J.Daniels right end to TB 15 for 4 yards (L.Hall). TB-L.David was injured during the play.,3rd & 2 at TB 19
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,5,WAS,1,10,0,-4 Yard Run,(:40) (Shotgun) J.Daniels kneels to TB 19 for -4 yards.,1st & 10 at TB 15
+2024,Wild Card Weekend,SUN,01/12,Commanders,Buccaneers,4TH QUARTER,5,WAS,1,11,1,Field Goal,"(:03) Z.Gonzalez 37 yard field goal is GOOD, Center-T.Ott, Holder-T.Way.",2nd & 14 at TB 19
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,1ST QUARTER,1,LA,1,1,0,Kickoff,"W.Reichard kicks 65 yards from MIN 35 to end zone, Touchback to the LAR 30.",Kickoff from MIN 35
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,1ST QUARTER,1,LA,1,2,0,27 Yard Pass,(15:00) M.Stafford pass deep left to P.Nacua to MIN 43 for 27 yards (B.Cashman).,1st & 10 at LAR 30
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,1ST QUARTER,1,LA,1,3,0,1 Yard Run,(14:17) (Shotgun) K.Williams up the middle to MIN 42 for 1 yard (I.Pace).,1st & 10 at MIN 43
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,1ST QUARTER,1,LA,1,4,0,23 Yard Pass,(13:37) (Shotgun) M.Stafford pass deep left to T.Higbee to MIN 19 for 23 yards (B.Cashman).,2nd & 9 at MIN 42
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,1ST QUARTER,1,LA,1,5,0,-1 Yard Pass,(12:55) M.Stafford pass short left to P.Nacua to MIN 20 for -1 yards (B.Murphy).,1st & 10 at MIN 19
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,1ST QUARTER,1,LA,1,6,0,4 Yard Pass,(12:09) (Shotgun) M.Stafford pass short left to T.Higbee to MIN 16 for 4 yards (C.Bynum).,2nd & 11 at MIN 20
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,1ST QUARTER,1,LA,1,7,0,6 Yard Pass,(11:24) (Shotgun) M.Stafford pass short left to K.Williams pushed ob at MIN 10 for 6 yards (H.Smith).,3rd & 7 at MIN 16
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,1ST QUARTER,1,LA,1,8,0,5 Yard Penalty,"(10:41) (Run formation) PENALTY on MIN-J.Bullard, Neutral Zone Infraction, 5 yards, enforced at MIN 10 - No Play.",4th & 1 at MIN 10
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,1ST QUARTER,1,LA,1,9,0,Touchdown Rams,"(10:28) M.Stafford pass short middle to K.Williams for 5 yards, TOUCHDOWN.",1st & 5 at MIN 5
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,1ST QUARTER,1,LA,1,10,1,Extra Point Good,"J.Karty extra point is GOOD, Center-A.Ward, Holder-E.Evans.",XP attempt from MIN 15
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,1ST QUARTER,2,MIN,0,1,0,Kickoff,"E.Evans kicks 65 yards from LAR 35 to end zone, Touchback to the MIN 30.",Kickoff from LAR 35
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,1ST QUARTER,2,MIN,0,2,0,-1 Yard Run,"(10:22) A.Jones right end to MIN 29 for -1 yards (B.Young, O.Speights).",1st & 10 at MIN 30
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,1ST QUARTER,2,MIN,0,3,0,-10 Yard Sack,(9:42) (Shotgun) S.Darnold sacked at MIN 19 for -10 yards (B.Young).,2nd & 11 at MIN 29
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,1ST QUARTER,2,MIN,0,4,0,11 Yard Pass,"(8:58) (Shotgun) S.Darnold pass short right to J.Jefferson to MIN 30 for 11 yards (J.Wallace, K.Kinchens).",3rd & 21 at MIN 19
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,1ST QUARTER,2,MIN,0,5,0,Punt,"(8:22) R.Wright punts 56 yards to LAR 14, Center-A.DePaola. X.Smith to LAR 22 for 8 yards (T.Chandler).",4th & 10 at MIN 30
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,1ST QUARTER,3,LA,1,1,0,23 Yard Pass,(8:10) M.Stafford pass deep right to D.Robinson to LAR 45 for 23 yards (I.Pace).,1st & 10 at LAR 22
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,1ST QUARTER,3,LA,1,2,0,11 Yard Pass,(7:30) M.Stafford pass short right to T.Higbee pushed ob at MIN 44 for 11 yards (I.Pace).,1st & 10 at LAR 45
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,1ST QUARTER,3,LA,1,3,0,6 Yard Pass,(6:52) M.Stafford pass short right to C.Parkinson to MIN 38 for 6 yards (B.Cashman).,1st & 10 at MIN 44
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,1ST QUARTER,3,LA,1,4,0,17 Yard Run,(6:08) (Shotgun) K.Williams right tackle to MIN 21 for 17 yards (J.Greenard; H.Smith).,2nd & 4 at MIN 38
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,1ST QUARTER,3,LA,1,5,0,-6 Yard Pass,"(5:24) M.Stafford pass short right to T.Higbee to MIN 12 for 9 yards (I.Pace; B.Cashman).
+PENALTY on LAR-B.Limmer, Unnecessary Roughness, 15 yards, enforced at MIN 12.",1st & 10 at MIN 21
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,1ST QUARTER,3,LA,1,6,0,Pass Incomplete,(4:51) (Shotgun) M.Stafford pass incomplete short left to P.Nacua.,2nd & 16 at MIN 27
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,1ST QUARTER,3,LA,1,7,0,11 Yard Pass,"(4:47) (Shotgun) M.Stafford pass short middle to T.Higbee to MIN 16 for 11 yards (J.Metellus, H.Smith).",3rd & 16 at MIN 27
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,1ST QUARTER,3,LA,1,8,1,Field Goal,"(4:05) J.Karty 34 yard field goal is GOOD, Center-A.Ward, Holder-E.Evans.",4th & 5 at MIN 16
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,1,MIN,1,1,0,Kickoff,"E.Evans kicks 65 yards from LAR 35 to end zone, Touchback to the MIN 30.",Kickoff from LAR 35
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,1,MIN,1,2,0,3 Yard Run,(4:01) A.Jones up the middle to MIN 33 for 3 yards (B.Brown; T.Davis).,1st & 10 at MIN 30
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,1,MIN,1,3,0,6 Yard Pass,(3:33) (No Huddle) S.Darnold pass short middle to A.Jones to MIN 39 for 6 yards (C.Rozeboom).,2nd & 7 at MIN 33
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,1,MIN,1,4,0,7 Yard Pass,(2:56) (Shotgun) S.Darnold pass short left to J.Addison to MIN 46 for 7 yards (A.Witherspoon).,3rd & 1 at MIN 39
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,1,MIN,1,5,0,8 Yard Pass,(2:15) (Shotgun) S.Darnold pass short middle to C.Ham to LAR 46 for 8 yards (C.Rozeboom).,1st & 10 at MIN 46
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,1,MIN,1,6,0,22 Yard Pass,(1:48) (No Huddle) S.Darnold pass deep right to J.Jefferson pushed ob at LAR 24 for 22 yards (Q.Lake).,2nd & 2 at LAR 46
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,1,MIN,1,7,0,-7 Yard Sack,(1:06) (Shotgun) S.Darnold sacked at LAR 31 for -7 yards (K.Turner).,1st & 10 at LAR 24
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,1,MIN,1,8,0,7 Yard Pass,(:28) (Shotgun) S.Darnold pass short right to T.Hockenson to LAR 24 for 7 yards (C.Rozeboom).,2nd & 17 at LAR 31
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,1,MIN,1,9,0,8 Yard Pass,(15:00) (Shotgun) S.Darnold pass short left to J.Jefferson to LAR 16 for 8 yards (Q.Lake).,3rd & 10 at LAR 24
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,1,MIN,1,10,1,Field Goal,"(14:20) W.Reichard 34 yard field goal is GOOD, Center-A.DePaola, Holder-R.Wright.",4th & 2 at LAR 16
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,2,LA,0,1,0,Kickoff,"W.Reichard kicks 65 yards from MIN 35 to end zone, Touchback to the LAR 30.",Kickoff from MIN 35
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,2,LA,0,2,0,Pass Incomplete,(14:14) (Shotgun) M.Stafford pass incomplete deep right to D.Robinson.,2nd & 10 at LAR 30
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,2,LA,0,3,0,Pass Incomplete,(14:09) (Shotgun) M.Stafford pass incomplete short left to P.Nacua (S.Gilmore).,3rd & 10 at LAR 30
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,2,LA,0,4,0,Punt,"(14:05) E.Evans punts 47 yards to MIN 23, Center-A.Ward. B.Powell MUFFS catch, ball out of bounds at MIN 27.",4th & 10 at LAR 30
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,3,MIN,0,1,0,13 Yard Run,(13:58) A.Jones left tackle to MIN 40 for 13 yards (K.Kinchens).,1st & 10 at MIN 27
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,3,MIN,0,2,0,7 Yard Run,(13:21) A.Jones right end to MIN 47 for 7 yards (M.Hoecht).,1st & 10 at MIN 40
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,3,MIN,0,3,0,-12 Yard Sack,(12:42) S.Darnold sacked at MIN 35 for -12 yards (C.Durant).,2nd & 3 at MIN 47
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,3,MIN,0,4,0,Pass Incomplete,(11:57) (Shotgun) S.Darnold pass incomplete deep left to J.Jefferson.,3rd & 15 at MIN 35
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,3,MIN,0,5,0,2 Yard Run,(11:42) A.Jones up the middle to LAR 48 for 2 yards (J.Verse; T.Davis).,1st & 10 at 50
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,3,MIN,0,6,0,1 Yard Pass,(11:03) (Shotgun) S.Darnold pass short left to J.Jefferson to LAR 47 for 1 yard (A.Witherspoon).,2nd & 8 at LAR 48
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,3,MIN,0,7,0,Interception,(10:21) (Shotgun) S.Darnold pass short right intended for J.Addison INTERCEPTED by C.Durant at LAR 42. C.Durant to LAR 42 for no gain (J.Addison).,3rd & 7 at LAR 47
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,4,LA,0,1,0,-10 Yard Penalty,"(10:14) M.Stafford pass short left to K.Williams ran ob at MIN 44 for 14 yards (J.Metellus).
+PENALTY on LAR-A.Jackson, Offensive Holding, 10 yards, enforced at LAR 42 - No Play.",1st & 10 at LAR 42
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,4,LA,0,2,0,Pass Incomplete,(9:37) (Shotgun) M.Stafford pass incomplete short middle to P.Nacua.,1st & 20 at LAR 32
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,4,LA,0,3,0,5 Yard Run,(9:32) (Shotgun) K.Williams up the middle to LAR 37 for 5 yards (H.Smith).,2nd & 20 at LAR 32
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,4,LA,0,4,0,5 Yard Pass,"(9:03) (No Huddle, Shotgun) M.Stafford pass short right to K.Williams pushed ob at LAR 42 for 5 yards (B.Murphy).",3rd & 15 at LAR 37
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,4,LA,0,5,0,Punt,"(8:32) E.Evans punts 48 yards to MIN 10, Center-A.Ward, fair catch by B.Powell.",4th & 10 at LAR 42
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,5,LA,1,1,0,1 Yard Pass,(8:24) S.Darnold pass short left to T.Sherfield to MIN 11 for 1 yard (Q.Lake).,1st & 10 at MIN 10
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,5,LA,1,2,0,6 Yard Run,(7:40) (Shotgun) C.Akers left tackle to MIN 17 for 6 yards (B.Young).,2nd & 9 at MIN 11
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,5,LA,1,3,0,16 Yard Pass,(6:59) (Shotgun) S.Darnold pass short right to T.Hockenson pushed ob at MIN 33 for 16 yards (D.Williams).,3rd & 3 at MIN 17
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,5,LA,1,4,0,26 Yard Run,(6:17) C.Akers left end ran ob at LAR 41 for 26 yards (K.Kinchens).,1st & 10 at MIN 33
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,5,LA,1,5,0,5 Yard Pass,"(5:51) (No Huddle) S.Darnold pass short right to J.Oliver to LAR 35 for 6 yards (Q.Lake; D.Williams). FUMBLES (Q.Lake), RECOVERED by LAR-C.Rozeboom at LAR 36.
+The Replay Official reviewed the runner was not down by contact ruling, and the play was REVERSED.
+(No Huddle) S.Darnold pass short right to J.Oliver to LAR 36 for 5 yards (D.Williams; Q.Lake).",1st & 10 at LAR 41
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,5,LA,1,6,0,-2 Yard Run,(5:35) C.Akers left end to LAR 38 for -2 yards (Q.Lake).,2nd & 5 at LAR 36
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,5,LA,1,7,1,Touchdown Rams,"(4:48) (Shotgun) S.Darnold sacked at LAR 46 for -8 yards (A.Witherspoon). FUMBLES (A.Witherspoon) [A.Witherspoon], RECOVERED by LAR-J.Verse at LAR 43. J.Verse for 57 yards, TOUCHDOWN.",3rd & 7 at LAR 38
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,6,MIN,0,1,0,Kickoff,"E.Evans kicks 65 yards from LAR 35 to end zone, Touchback to the MIN 30.",Kickoff from LAR 35
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,6,MIN,0,2,0,3 Yard Run,(4:35) A.Jones up the middle to MIN 33 for 3 yards (K.Thomas; N.Gallimore).,1st & 10 at MIN 30
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,6,MIN,0,3,0,Sack,(3:57) (Shotgun) S.Darnold sacked at MIN 26 for -7 yards (sack split by B.Young and N.Gallimore).,2nd & 7 at MIN 33
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,6,MIN,0,4,0,16 Yard Pass,"(3:14) (No Huddle, Shotgun) S.Darnold pass deep left to J.Jefferson to MIN 42 for 16 yards (C.Rozeboom).",3rd & 14 at MIN 26
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,6,MIN,0,5,0,3 Yard Run,(2:33) (Shotgun) A.Jones up the middle to MIN 45 for 3 yards (M.Hoecht; K.Turner).,1st & 10 at MIN 42
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,6,MIN,0,6,0,Pass Incomplete,(2:00) (Shotgun) S.Darnold pass incomplete short left to A.Jones.,2nd & 7 at MIN 45
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,6,MIN,0,7,0,5 Yard Pass,"(1:57) (No Huddle, Shotgun) S.Darnold pass short right to T.Hockenson to 50 for 5 yards (J.McCollough).",3rd & 7 at MIN 45
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,6,MIN,0,8,0,Turnover on Downs,"(1:32) (No Huddle, Shotgun) S.Darnold sacked at MIN 39 for -11 yards (K.Turner).",4th & 2 at 50
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,7,LA,1,1,0,9 Yard Run,(1:27) (Shotgun) K.Williams left end to MIN 30 for 9 yards (J.Metellus; C.Bynum). MIN-J.Metellus was injured during the play.,1st & 10 at MIN 39
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,7,LA,1,2,0,5 Yard Run,"(1:08) (Shotgun) K.Williams up the middle to MIN 25 for 5 yards (J.Bullard, B.Cashman).",2nd & 1 at MIN 30
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,7,LA,1,3,0,Pass Incomplete,"(:49) (No Huddle, Shotgun) M.Stafford pass incomplete short right to D.Allen. ** Injury Update: MIN-J.Metellus has returned to the game.",1st & 10 at MIN 25
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,7,LA,1,4,0,12 Yard Pass,(:45) (Shotgun) M.Stafford pass short right to P.Nacua to MIN 13 for 12 yards (B.Cashman; C.Bynum).,2nd & 10 at MIN 25
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,7,LA,1,5,0,Touchdown Rams,"(:21) (No Huddle, Shotgun) M.Stafford pass short middle to D.Allen for 13 yards, TOUCHDOWN [H.Smith].",1st & 10 at MIN 13
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,7,LA,1,6,1,Extra Point Good,"J.Karty extra point is GOOD, Center-A.Ward, Holder-E.Evans.",XP attempt from MIN 15
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,8,MIN,0,1,0,Kickoff,E.Evans kicks 62 yards from LAR 35 to MIN 3. T.Chandler to MIN 23 for 20 yards (K.Kinchens).,Kickoff from LAR 35
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,2ND QUARTER,8,MIN,0,2,0,-1 Yard Run,(:11) S.Darnold kneels to MIN 22 for -1 yards.,1st & 10 at MIN 23
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,1,MIN,0,1,0,Kickoff,"E.Evans kicks 65 yards from LAR 35 to end zone, Touchback to the MIN 30.",Kickoff from LAR 35
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,1,MIN,0,2,0,Pass Incomplete,(15:00) (Shotgun) S.Darnold pass incomplete short left to A.Jones. ** Injury Update: LAR-B.Brown has returned to the game.,1st & 10 at MIN 30
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,1,MIN,0,3,0,15 Yard Pass,(14:57) (Shotgun) S.Darnold pass short right to J.Addison to MIN 45 for 15 yards (D.Williams; K.Kinchens).,2nd & 10 at MIN 30
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,1,MIN,0,4,0,5 Yard Run,(14:15) A.Jones left end to 50 for 5 yards (Q.Lake).,1st & 10 at MIN 45
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,1,MIN,0,5,0,Pass Incomplete,(13:50) (No Huddle) S.Darnold pass incomplete short right to J.Mundt.,2nd & 5 at 50
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,1,MIN,0,6,0,Pass Incomplete,(13:43) (Shotgun) S.Darnold pass incomplete short left to J.Nailor.,3rd & 5 at 50
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,1,MIN,0,7,0,Punt,"(13:38) R.Wright punts 27 yards to LAR 23, Center-A.DePaola, out of bounds.",4th & 5 at 50
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,2,LA,1,1,0,-3 Yard Run,(13:32) (Shotgun) K.Williams up the middle to LAR 20 for -3 yards (I.Pace).,1st & 10 at LAR 23
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,2,LA,1,2,0,8 Yard Run,(12:54) (Shotgun) K.Williams up the middle to LAR 28 for 8 yards (J.Redmond; B.Cashman).,2nd & 13 at LAR 20
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,2,LA,1,3,0,5 Yard Pass,(12:11) (Shotgun) M.Stafford pass short right to P.Nacua to LAR 33 for 5 yards (S.Gilmore).,3rd & 5 at LAR 28
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,2,LA,1,4,0,13 Yard Pass,(11:33) M.Stafford pass short right to H.Long to LAR 46 for 13 yards (J.Metellus) [J.Redmond].,1st & 10 at LAR 33
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,2,LA,1,5,0,1 Yard Run,(10:49) (Shotgun) K.Williams left end to LAR 47 for 1 yard (B.Cashman).,1st & 10 at LAR 46
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,2,LA,1,6,0,Pass Incomplete,(10:09) (Shotgun) M.Stafford pass incomplete short left to P.Nacua.,2nd & 9 at LAR 47
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,2,LA,1,7,0,29 Yard Pass,(10:05) (Shotgun) M.Stafford pass deep right to C.Kupp to MIN 24 for 29 yards (S.Griffin).,3rd & 9 at LAR 47
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,2,LA,1,8,0,-2 Yard Run,"(9:20) K.Williams up the middle to MIN 26 for -2 yards (I.Pace).
+Minnesota challenged the runner was down by contact ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",1st & 10 at MIN 24
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,2,LA,1,9,0,7 Yard Run,(8:47) P.Nacua left end to MIN 19 for 7 yards (Ji.Ward; B.Murphy).,2nd & 12 at MIN 26
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,2,LA,1,10,0,-7 Yard Sack,(8:06) (Shotgun) M.Stafford sacked at MIN 26 for -7 yards (A.Van Ginkel).,3rd & 5 at MIN 19
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,2,LA,1,11,1,Field Goal,"(7:24) J.Karty 44 yard field goal is GOOD, Center-A.Ward, Holder-E.Evans.",4th & 12 at MIN 26
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,3,MIN,1,1,0,Kickoff,E.Evans kicks 65 yards from LAR 35 to MIN 0. T.Chandler pushed ob at MIN 38 for 38 yards (M.Hoecht; J.Whittington).,Kickoff from LAR 35
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,3,MIN,1,2,0,5 Yard Run,(7:13) (Shotgun) A.Jones up the middle to MIN 43 for 5 yards (K.Curl).,1st & 10 at MIN 38
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,3,MIN,1,3,0,Pass Incomplete,(6:36) S.Darnold pass incomplete deep left to J.Jefferson.,2nd & 5 at MIN 43
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,3,MIN,1,4,0,14 Yard Pass,(6:29) (Shotgun) S.Darnold pass short middle to J.Nailor to LAR 43 for 14 yards (J.McCollough; C.Rozeboom).,3rd & 5 at MIN 43
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,3,MIN,1,5,0,Pass Incomplete,(5:50) (Shotgun) S.Darnold pass incomplete short right to A.Jones.,1st & 10 at LAR 43
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,3,MIN,1,6,0,5 Yard Penalty,"(5:47) (Shotgun) S.Darnold pass incomplete deep right to A.Jones (K.Kinchens).
+PENALTY on LAR-C.Durant, Defensive Holding, 5 yards, enforced at LAR 43 - No Play.",2nd & 10 at LAR 43
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,3,MIN,1,7,0,12 Yard Pass,(5:41) (Shotgun) S.Darnold pass short left to J.Nailor pushed ob at LAR 26 for 12 yards (O.Speights).,1st & 10 at LAR 38
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,3,MIN,1,8,0,Touchdown Vikings,"(5:14) (No Huddle, Shotgun) S.Darnold pass short middle to T.Hockenson for 26 yards, TOUCHDOWN. LAR-A.Witherspoon was injured during the play.",1st & 10 at LAR 26
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,3,MIN,1,9,1,2PT Conversion Fails,TWO-POINT CONVERSION ATTEMPT. S.Darnold pass to J.Jefferson is complete. ATTEMPT FAILS.,XP attempt from LAR 2
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,4,LA,0,1,0,Kickoff,"W.Reichard kicks 65 yards from MIN 35 to end zone, Touchback to the LAR 30.",Kickoff from MIN 35
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,4,LA,0,2,0,7 Yard Pass,(5:05) M.Stafford pass short middle to C.Parkinson to LAR 37 for 7 yards (B.Cashman; I.Pace).,1st & 10 at LAR 30
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,4,LA,0,3,0,4 Yard Run,(4:23) K.Williams left tackle to LAR 41 for 4 yards (Ji.Ward; H.Phillips).,2nd & 3 at LAR 37
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,4,LA,0,4,0,Pass Incomplete,(3:42) M.Stafford pass incomplete deep left to H.Long (H.Smith).,1st & 10 at LAR 41
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,4,LA,0,5,0,Sack,(3:33) (Shotgun) M.Stafford sacked at LAR 41 for 0 yards (B.Cashman).,2nd & 10 at LAR 41
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,4,LA,0,6,0,1 Yard Pass,(2:51) (Shotgun) M.Stafford pass short left to P.Nacua to LAR 42 for 1 yard (J.Greenard).,3rd & 10 at LAR 41
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,3RD QUARTER,4,LA,0,7,0,Punt,"(2:14) E.Evans punts 54 yards to MIN 4, Center-A.Ward, out of bounds.",4th & 9 at LAR 42
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,1,MIN,0,1,0,2 Yard Run,(2:07) A.Jones left end to MIN 6 for 2 yards (N.Gallimore).,1st & 10 at MIN 4
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,1,MIN,0,2,0,7 Yard Pass,"(1:40) (No Huddle, Shotgun) S.Darnold pass short left to J.Addison ran ob at MIN 13 for 7 yards.",2nd & 8 at MIN 6
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,1,MIN,0,3,0,2 Yard Run,(:59) S.Darnold up the middle to MIN 15 for 2 yards (O.Speights).,3rd & 1 at MIN 13
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,1,MIN,0,4,0,Run for No Gain,(:39) (No Huddle) A.Jones up the middle to MIN 15 for no gain (O.Speights).,1st & 10 at MIN 15
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,1,MIN,0,5,0,32 Yard Run,"(15:00) (Shotgun) S.Darnold scrambles left tackle to MIN 32 for 17 yards (K.Kinchens). MIN-B.O'Neill was injured during the play. LAR-B.Young was injured during the play. 
+PENALTY on LAR-K.Kinchens, Unnecessary Roughness, 15 yards, enforced at MIN 32.",2nd & 10 at MIN 15
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,1,MIN,0,6,0,Pass Incomplete,(14:41) (Shotgun) S.Darnold pass incomplete deep left to J.Addison.,1st & 10 at MIN 47
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,1,MIN,0,7,0,4 Yard Run,(14:36) (Shotgun) A.Jones up the middle to LAR 49 for 4 yards (K.Curl; K.Turner). ** Injury Update: LAR-B.Young has returned to the game.,2nd & 10 at MIN 47
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,1,MIN,0,8,0,10 Yard Pass,"(14:08) (No Huddle, Shotgun) S.Darnold pass short right to T.Hockenson to LAR 39 for 10 yards (J.McCollough; C.Rozeboom).",3rd & 6 at LAR 49
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,1,MIN,0,9,0,2 Yard Run,"(13:33) (No Huddle, Shotgun) A.Jones right tackle to LAR 37 for 2 yards (K.Curl).",1st & 10 at LAR 39
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,1,MIN,0,10,0,Pass Incomplete,"(12:59) (No Huddle, Shotgun) S.Darnold pass incomplete deep middle to J.Nailor.",2nd & 8 at LAR 37
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,1,MIN,0,11,0,Sack,(12:54) (Shotgun) S.Darnold sacked at 50 for -13 yards (sack split by M.Hoecht and B.Fiske).,3rd & 8 at LAR 37
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,1,MIN,0,12,0,Punt,"(12:10) R.Wright punts 50 yards to end zone, Center-A.DePaola, Touchback.",4th & 21 at 50
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,2,LA,0,1,0,17 Yard Run,"(12:01) K.Williams up the middle to LAR 22 for 2 yards (I.Pace; H.Smith).
+PENALTY on MIN-B.Cashman, Face Mask, 15 yards, enforced at LAR 22.",1st & 10 at LAR 20
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,2,LA,0,2,0,12 Yard Run,(11:24) K.Williams left end to LAR 49 for 12 yards (H.Smith; A.Van Ginkel).,1st & 10 at LAR 37
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,2,LA,0,3,0,-6 Yard Run,"(10:39) K.Williams left tackle to MIN 25 for 26 yards (J.Greenard).
+PENALTY on LAR-J.Whittington, Offensive Holding, 10 yards, enforced at MIN 47.",1st & 10 at LAR 49
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,2,LA,0,4,0,-10 Yard Penalty,"(10:18) R.Rivers up the middle to LAR 48 for 5 yards (H.Smith).
+PENALTY on LAR-D.Allen, Offensive Holding, 10 yards, enforced at LAR 43 - No Play.",1st & 16 at LAR 43
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,2,LA,0,5,0,-5 Yard Penalty,"(9:51) PENALTY on LAR-C.Parkinson, False Start, 5 yards, enforced at LAR 33 - No Play.",1st & 26 at LAR 33
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,2,LA,0,6,0,2 Yard Run,(9:51) K.Williams right end to LAR 30 for 2 yards (I.Pace).,1st & 31 at LAR 28
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,2,LA,0,7,0,5 Yard Run,(9:06) K.Williams up the middle to LAR 35 for 5 yards (I.Pace).,2nd & 29 at LAR 30
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,2,LA,0,8,0,6 Yard Run,(8:21) K.Williams up the middle to LAR 41 for 6 yards (D.Turner; B.Cashman).,3rd & 24 at LAR 35
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,2,LA,0,9,0,Punt,"(7:34) E.Evans punts 59 yards to end zone, Center-A.Ward, Touchback.",4th & 18 at LAR 41
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,3,MIN,0,1,0,Pass Incomplete,(7:25) (Shotgun) S.Darnold pass incomplete deep left to J.Addison.,1st & 10 at MIN 20
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,3,MIN,0,2,0,9 Yard Run,(7:20) (Shotgun) C.Akers up the middle to MIN 29 for 9 yards (N.Gallimore; C.Rozeboom).,2nd & 10 at MIN 20
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,3,MIN,0,3,0,Run for No Gain,"(7:00) (No Huddle) C.Akers up the middle to MIN 30 for 1 yard (J.Verse).
+Los Angeles Rams challenged the first down ruling, and the play was REVERSED.
+(No Huddle) C.Akers up the middle to MIN 29 for no gain (J.Verse).",3rd & 1 at MIN 29
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,3,MIN,0,4,0,1 Yard Run,(6:42) S.Darnold up the middle to MIN 30 for 1 yard (T.Davis).,4th & 1 at MIN 29
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,3,MIN,0,5,0,-2 Yard Pass,"(6:15) (No Huddle, Shotgun) S.Darnold pass short left to A.Jones pushed ob at MIN 28 for -2 yards (D.Williams).",1st & 10 at MIN 30
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,3,MIN,0,6,0,22 Yard Pass,(5:35) (Shotgun) S.Darnold pass short right to J.Mundt to 50 for 22 yards (K.Curl).,2nd & 12 at MIN 28
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,3,MIN,0,7,0,5 Yard Penalty,"(5:01) (No Huddle, Shotgun) S.Darnold pass short right to A.Jones to LAR 46 for 4 yards (C.Rozeboom).
+PENALTY on LAR-Q.Lake, Illegal Use of Hands, 5 yards, enforced at 50 - No Play.",1st & 10 at 50
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,3,MIN,0,8,0,-8 Yard Sack,(4:53) (Shotgun) S.Darnold sacked at MIN 47 for -8 yards (N.Gallimore).,1st & 10 at LAR 45
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,3,MIN,0,9,0,7 Yard Pass,"(4:18) (No Huddle, Shotgun) S.Darnold pass short left to J.Nailor to LAR 46 for 7 yards (Q.Lake).",2nd & 18 at MIN 47
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,3,MIN,0,10,0,Pass Incomplete,"(3:46) (No Huddle, Shotgun) S.Darnold pass incomplete short middle to J.Addison (D.Williams).",3rd & 11 at LAR 46
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,3,MIN,0,11,0,Turnover on Downs,(3:42) (Shotgun) S.Darnold pass incomplete deep right to J.Jefferson.,4th & 11 at LAR 46
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,4,LA,0,1,0,5 Yard Run,(3:35) R.Rivers up the middle to MIN 49 for 5 yards (H.Smith; S.Gilmore).,1st & 10 at LAR 46
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,4,LA,0,2,0,1 Yard Run,(3:30) R.Rivers up the middle to MIN 48 for 1 yard (H.Smith; A.Van Ginkel).,2nd & 5 at MIN 49
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,4,LA,0,3,0,2 Yard Run,(3:26) R.Rivers left end to MIN 46 for 2 yards (H.Smith).,3rd & 4 at MIN 48
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,4,LA,0,4,0,-5 Yard Penalty,"(2:40) (Run formation) PENALTY on LAR, Delay of Game, 5 yards, enforced at MIN 46 - No Play.",4th & 2 at MIN 46
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,4,LA,0,5,0,Punt,"(2:40) E.Evans punts 43 yards to MIN 8, Center-A.Ward, out of bounds.",4th & 7 at LAR 49
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,5,MIN,0,1,0,7 Yard Pass,"(2:33) (Shotgun) S.Darnold pass short middle to T.Sherfield to MIN 15 for 7 yards (J.McCollough, Q.Lake).",1st & 10 at MIN 8
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,5,MIN,0,2,0,6 Yard Pass,"(2:09) (No Huddle, Shotgun) S.Darnold pass short left to J.Mundt to MIN 21 for 6 yards (Q.Lake; J.McCollough).",2nd & 3 at MIN 15
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,5,MIN,0,3,0,Pass Incomplete,(2:00) (Shotgun) S.Darnold pass incomplete deep right to J.Addison (J.Johnson) [M.Hoecht].,1st & 10 at MIN 21
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,5,MIN,0,4,0,-9 Yard Sack,(1:53) (Shotgun) S.Darnold sacked at MIN 12 for -9 yards (D.Johnson).,2nd & 10 at MIN 21
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,5,MIN,0,5,0,8 Yard Pass,"(1:21) (No Huddle, Shotgun) S.Darnold pass short left to A.Jones to MIN 20 for 8 yards (C.Durant; J.McCollough).",3rd & 19 at MIN 12
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,5,MIN,0,6,0,Turnover on Downs,"(:51) (No Huddle, Shotgun) S.Darnold pass incomplete deep left to T.Sherfield (D.Williams).",4th & 11 at MIN 20
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,6,LA,0,1,0,Run for No Gain,(:45) M.Stafford kneels to MIN 20 for no gain.,1st & 10 at MIN 20
+2024,Wild Card Weekend,MON,01/13,Vikings,Rams,4TH QUARTER,6,LA,0,2,0,-1 Yard Run,(:28) M.Stafford kneels to MIN 21 for -1 yards.,2nd & 10 at MIN 20
