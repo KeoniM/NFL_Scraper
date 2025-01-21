@@ -1,0 +1,674 @@
+Season,Week,Day,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayDescription,PlayStart
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,1,KC,1,1,0,Kickoff,"K.Fairbairn kicks 60 yards from HOU 35 to KC 5. N.Remigio to HOU 32 for 63 yards (K.Boyd). FUMBLES (K.Boyd), recovered by KC-S.Perine at HOU 26.
+PENALTY on HOU-K.Boyd, Unsportsmanlike Conduct, 13 yards, enforced at HOU 26.",Kickoff from HOU 35
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,1,KC,1,2,0,-1 Yard Run,(14:47) (Shotgun) I.Pacheco left end to HOU 14 for -1 yards (T.Settle).,1st & 10 at HOU 13
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,1,KC,1,3,0,Pass Incomplete,(14:11) (Shotgun) P.Mahomes pass incomplete short right to I.Pacheco (M.Bryant).,2nd & 11 at HOU 14
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,1,KC,1,4,0,Pass Incomplete,(14:06) (Shotgun) P.Mahomes pass incomplete short right to M.Brown.,3rd & 11 at HOU 14
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,1,KC,1,5,1,Field Goal,"(14:01) H.Butker 32 yard field goal is GOOD, Center-J.Winchester, Holder-M.Araiza.",4th & 11 at HOU 14
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,2,HOU,1,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to landing zone to end zone, Touchback to the HOU 20.",Kickoff from KC 35
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,2,HOU,1,2,0,5 Yard Run,(13:58) A.Deculus reported in as eligible.  J.Mixon up the middle to HOU 25 for 5 yards (L.Chenal).,1st & 10 at HOU 20
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,2,HOU,1,3,0,6 Yard Pass,(13:21) (Shotgun) C.Stroud pass short left to J.Mixon to HOU 31 for 6 yards (T.McDuffie).,2nd & 5 at HOU 25
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,2,HOU,1,4,0,34 Yard Pass,(12:50) C.Stroud pass deep left to D.Schultz to KC 35 for 34 yards (B.Cook).,1st & 10 at HOU 31
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,2,HOU,1,5,0,5 Yard Run,(12:06) (Shotgun) J.Mixon left guard to KC 30 for 5 yards (G.Karlaftis; N.Bolton).,1st & 10 at KC 35
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,2,HOU,1,6,0,3 Yard Run,(11:29) D.Pierce right guard to KC 27 for 3 yards (C.Jones; D.Tranquill).,2nd & 5 at KC 30
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,2,HOU,1,7,0,13 Yard Pass,(10:46) (Shotgun) C.Stroud pass short middle to N.Collins to KC 14 for 13 yards (B.Cook).,3rd & 2 at KC 27
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,2,HOU,1,8,0,Run for No Gain,(10:06) J.Mixon left end to KC 14 for no gain (C.Omenihu).,1st & 10 at KC 14
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,2,HOU,1,9,0,Pass Incomplete,(9:23) (Shotgun) C.Stroud pass incomplete short left to N.Collins (T.McDuffie).,2nd & 10 at KC 14
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,2,HOU,1,10,0,2 Yard Run,(9:19) (Shotgun) C.Stroud scrambles right end pushed ob at KC 12 for 2 yards (G.Karlaftis).,3rd & 10 at KC 14
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,2,HOU,1,11,1,Field Goal,"(8:44) K.Fairbairn 30 yard field goal is GOOD, Center-J.Weeks, Holder-T.Townsend.",4th & 8 at KC 12
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,3,KC,1,1,0,Kickoff,K.Fairbairn kicks 55 yards from HOU 35 to KC 10. S.Perine to KC 31 for 21 yards (D.Ross; N.Hewitt).,Kickoff from HOU 35
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,3,KC,1,2,0,6 Yard Run,(8:35) (Shotgun) I.Pacheco up the middle to KC 37 for 6 yards (T.Settle; A.Al-Shaair).,1st & 10 at KC 31
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,3,KC,1,3,0,1 Yard Run,(8:01) (Shotgun) I.Pacheco right guard to KC 38 for 1 yard (W.Anderson).,2nd & 4 at KC 37
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,3,KC,1,4,0,-5 Yard Penalty,"(7:16) (Shotgun) PENALTY on KC-J.Taylor, False Start, 5 yards, enforced at KC 38 - No Play.",3rd & 3 at KC 38
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,3,KC,1,5,0,15 Yard Penalty,"(7:00) (Shotgun) P.Mahomes pass incomplete deep right to T.Kelce.
+PENALTY on HOU-W.Anderson, Roughing the Passer, 15 yards, enforced at KC 33 - No Play.",3rd & 8 at KC 33
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,3,KC,1,6,0,23 Yard Pass,(6:55) (Shotgun) P.Mahomes pass deep right to T.Kelce ran ob at HOU 29 for 23 yards.,1st & 10 at KC 48
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,3,KC,1,7,0,Pass Incomplete,(6:17) (Shotgun) P.Mahomes pass incomplete short right to D.Hopkins.,1st & 10 at HOU 29
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,3,KC,1,8,0,21 Yard Pass,(6:14) (Shotgun) P.Mahomes pass deep left to X.Worthy to HOU 8 for 21 yards (E.Murray) [D.Hunter].,2nd & 10 at HOU 29
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,3,KC,1,9,0,-8 Yard Run,(5:31) X.Worthy right end to HOU 16 for -8 yards (W.Anderson).,1st & 8 at HOU 8
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,3,KC,1,10,0,-2 Yard Sack,(4:49) (Shotgun) P.Mahomes sacked at HOU 18 for -2 yards (T.Togiai).,2nd & 16 at HOU 16
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,3,KC,1,11,0,Pass Incomplete,(4:07) (Shotgun) P.Mahomes pass incomplete short left to S.Perine [D.Autry].,3rd & 18 at HOU 18
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,3,KC,1,12,1,Field Goal,"(4:03) H.Butker 36 yard field goal is GOOD, Center-J.Winchester, Holder-M.Araiza.",4th & 18 at HOU 18
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,4,HOU,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback to the HOU 30.",Kickoff from KC 35
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,4,HOU,0,2,0,Pass Incomplete,(3:59) C.Stroud pass incomplete short left to X.Hutchinson (T.McDuffie) [D.Tranquill].,1st & 10 at HOU 30
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,4,HOU,0,3,0,8 Yard Run,(3:54) J.Mixon right guard to HOU 38 for 8 yards (B.Cook).,2nd & 10 at HOU 30
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,4,HOU,0,4,0,14 Yard Pass,(3:15) (Shotgun) C.Stroud pass short middle to N.Collins to KC 48 for 14 yards (B.Cook). KC-B.Cook was injured during the play.,3rd & 2 at HOU 38
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,4,HOU,0,5,0,2 Yard Run,(2:31) A.Deculus reported in as eligible.  J.Mixon right end to KC 46 for 2 yards (D.Tranquill).,1st & 10 at KC 48
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,4,HOU,0,6,0,Pass Incomplete,(1:51) (Shotgun) C.Stroud pass incomplete short right to X.Hutchinson.,2nd & 8 at KC 46
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,4,HOU,0,7,0,-12 Yard Sack,(1:47) (Shotgun) C.Stroud sacked at HOU 42 for -12 yards (C.Jones).,3rd & 8 at KC 46
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,1ST QUARTER,4,HOU,0,8,0,Punt,"(:59) T.Townsend punts 49 yards to KC 9, Center-J.Weeks. N.Remigio pushed ob at KC 20 for 11 yards (D.Ross).",4th & 20 at HOU 42
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,1,KC,0,1,0,Pass Incomplete,(:48) (Shotgun) P.Mahomes pass incomplete short left to T.Kelce (M.Bryant).,1st & 10 at KC 20
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,1,KC,0,2,0,4 Yard Pass,(:45) (Shotgun) P.Mahomes pass short right to N.Gray to KC 24 for 4 yards (N.Hewitt) [E.Murray].,2nd & 10 at KC 20
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,1,KC,0,3,0,15 Yard Run,(15:00) (Shotgun) P.Mahomes scrambles right end pushed ob at KC 39 for 15 yards (D.Stingley).,3rd & 6 at KC 24
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,1,KC,0,4,0,12 Yard Pass,(14:22) (Shotgun) P.Mahomes pass short right to X.Worthy to HOU 49 for 12 yards (D.Stingley).,1st & 10 at KC 39
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,1,KC,0,5,0,4 Yard Run,(13:39) (Shotgun) K.Hunt right end to HOU 45 for 4 yards (H.To'oTo'o; D.Hunter).,1st & 10 at HOU 49
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,1,KC,0,6,0,2 Yard Pass,(13:06) (Shotgun) P.Mahomes pass short left to K.Hunt to HOU 43 for 2 yards (M.Bryant).,2nd & 6 at HOU 45
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,1,KC,0,7,0,-8 Yard Sack,(12:24) (Shotgun) P.Mahomes sacked at KC 49 for -8 yards (W.Anderson).,3rd & 4 at HOU 43
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,1,KC,0,8,0,Punt,"(11:32) M.Araiza punts 51 yards to end zone, Center-J.Winchester, Touchback.",4th & 12 at KC 49
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,2,HOU,0,1,0,12 Yard Run,(11:22) J.Mixon left end to HOU 32 for 12 yards (N.Bolton; J.Reid).,1st & 10 at HOU 20
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,2,HOU,0,2,0,1 Yard Run,(10:39) A.Deculus reported in as eligible.  J.Mixon up the middle to HOU 33 for 1 yard (L.Chenal).,1st & 10 at HOU 32
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,2,HOU,0,3,0,Pass Incomplete,(10:02) C.Stroud pass incomplete deep left to J.Wayne.,2nd & 9 at HOU 33
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,2,HOU,0,4,0,28 Yard Run,(9:56) (Shotgun) C.Stroud scrambles right guard to KC 39 for 28 yards (J.Hicks).,3rd & 9 at HOU 33
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,2,HOU,0,5,0,4 Yard Run,(9:08) J.Mixon up the middle to KC 35 for 4 yards (D.Nnadi).,1st & 10 at KC 39
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,2,HOU,0,6,0,1 Yard Run,(8:28) (Shotgun) J.Mixon right end to KC 34 for 1 yard (D.Nnadi).,2nd & 6 at KC 35
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,2,HOU,0,7,0,-3 Yard Sack,"(7:49) (Shotgun) C.Stroud sacked at KC 39 for -5 yards (C.Omenihu). FUMBLES (C.Omenihu) [C.Omenihu], recovered by HOU-S.Mason at KC 37.",3rd & 5 at KC 34
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,2,HOU,0,8,0,Field Goal No Good,"(7:06) K.Fairbairn 55 yard field goal is No Good, Wide Right, Center-J.Weeks, Holder-T.Townsend.",4th & 8 at KC 37
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,3,KC,1,1,0,Pass Incomplete,(7:01) (Shotgun) P.Mahomes pass incomplete deep left to M.Brown (E.Murray). ** Injury Update: HOU-A.Al-Shaair has returned to the game.,1st & 10 at KC 45
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,3,KC,1,2,0,49 Yard Pass,(6:52) (Shotgun) P.Mahomes pass short middle to T.Kelce to HOU 6 for 49 yards (H.To'oTo'o).,2nd & 10 at KC 45
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,3,KC,1,3,0,2 Yard Run,(6:03) (Shotgun) I.Pacheco up the middle to HOU 4 for 2 yards (D.Hunter; H.To'oTo'o).,1st & 6 at HOU 6
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,3,KC,1,4,0,3 Yard Pass,(5:23) (Shotgun) P.Mahomes pass short middle to X.Worthy to HOU 1 for 3 yards (M.Bryant; A.Al-Shaair).,2nd & 4 at HOU 4
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,3,KC,1,5,0,Touchdown Chiefs,"(4:39) (Shotgun) K.Hunt right end for 1 yard, TOUCHDOWN.",3rd & 1 at HOU 1
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,3,KC,1,6,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-M.Araiza.",XP attempt from HOU 15
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,4,HOU,1,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback to the HOU 30. ** Injury Update: KC-B.Cook has returned to the game.",Kickoff from KC 35
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,4,HOU,1,2,0,2 Yard Run,(4:36) C.Stroud scrambles right end ran ob at HOU 32 for 2 yards (L.Chenal).,1st & 10 at HOU 30
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,4,HOU,1,3,0,6 Yard Run,(3:58) (Shotgun) J.Mixon right end to HOU 38 for 6 yards (T.McDuffie; D.Tranquill).,2nd & 8 at HOU 32
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,4,HOU,1,4,0,11 Yard Pass,(3:16) (Shotgun) C.Stroud pass short middle to J.Metchie to HOU 49 for 11 yards (D.Tranquill; J.Reid).,3rd & 2 at HOU 38
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,4,HOU,1,5,0,2 Yard Run,(2:43) J.Mixon right end to KC 49 for 2 yards (C.Omenihu; C.Conner).,1st & 10 at HOU 49
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,4,HOU,1,6,0,24 Yard Pass,(2:00) (Shotgun) C.Stroud pass deep right to J.Metchie to KC 25 for 24 yards (J.Reid).,2nd & 8 at KC 49
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,4,HOU,1,7,0,5 Yard Run,(1:21) (Shotgun) D.Pierce left guard to KC 20 for 5 yards (C.Conner).,1st & 10 at KC 25
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,4,HOU,1,8,0,-8 Yard Sack,(:41) (Shotgun) C.Stroud sacked at KC 28 for -8 yards (T.Wharton).,2nd & 5 at KC 20
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,4,HOU,1,9,0,-10 Yard Penalty,"(:33) (Shotgun) C.Stroud scrambles right end to KC 16 for 12 yards (C.Conner).
+PENALTY on HOU-S.Mason, Offensive Holding, 10 yards, enforced at KC 28 - No Play.",3rd & 13 at KC 28
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,4,HOU,1,10,0,9 Yard Run,(:25) (Shotgun) D.Ogunbowale up the middle to KC 29 for 9 yards (N.Bolton).,3rd & 23 at KC 38
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,4,HOU,1,11,1,Field Goal,"(:20) K.Fairbairn 48 yard field goal is GOOD, Center-J.Weeks, Holder-T.Townsend.",4th & 14 at KC 29
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,5,KC,0,1,0,Kickoff,K.Fairbairn kicks 63 yards from HOU 35 to KC 2. N.Remigio to KC 26 for 24 yards (D.Phillips; N.Hewitt).,Kickoff from HOU 35
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,2ND QUARTER,5,KC,0,2,0,-1 Yard Run,(:10) P.Mahomes kneels to KC 25 for -1 yards.,1st & 10 at KC 26
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,3RD QUARTER,1,HOU,1,1,0,Kickoff,"H.Butker kicks 57 yards from KC 35 to HOU 8. X.Hutchinson to HOU 33 for 25 yards (C.Roland-Wallace).
+PENALTY on HOU-M.Stewart, Offensive Holding, 10 yards, enforced at HOU 28.",Kickoff from KC 35
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,3RD QUARTER,1,HOU,1,2,0,1 Yard Run,(14:56) J.Mixon right tackle to HOU 19 for 1 yard (C.Conner; M.Danna).,1st & 10 at HOU 18
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,3RD QUARTER,1,HOU,1,3,0,6 Yard Pass,(14:20) C.Stroud pass short right to J.Mixon to HOU 25 for 6 yards (N.Johnson).,2nd & 9 at HOU 19
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,3RD QUARTER,1,HOU,1,4,0,8 Yard Run,(13:38) (Shotgun) J.Mixon up the middle to HOU 33 for 8 yards (J.Hicks).,3rd & 3 at HOU 25
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,3RD QUARTER,1,HOU,1,5,0,7 Yard Run,(12:58) J.Mixon right end to HOU 40 for 7 yards (J.Reid).,1st & 10 at HOU 33
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,3RD QUARTER,1,HOU,1,6,0,5 Yard Run,(12:18) C.Stroud scrambles right end pushed ob at HOU 45 for 5 yards (D.Tranquill).,2nd & 3 at HOU 40
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,3RD QUARTER,1,HOU,1,7,0,-5 Yard Penalty,"(11:37) (Shotgun) PENALTY on HOU-D.Schultz, False Start, 5 yards, enforced at HOU 45 - No Play.",1st & 10 at HOU 45
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,3RD QUARTER,1,HOU,1,8,0,-4 Yard Run,(11:26) D.Pierce left end to HOU 36 for -4 yards (F.Anudike-Uzomah).,1st & 15 at HOU 40
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,3RD QUARTER,1,HOU,1,9,0,14 Yard Pass,(10:45) (Shotgun) C.Stroud pass short middle to X.Hutchinson to 50 for 14 yards (J.Hicks).,2nd & 19 at HOU 36
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,3RD QUARTER,1,HOU,1,10,0,5 Yard Pass,(10:05) (Shotgun) C.Stroud pass short right to D.Schultz to KC 45 for 5 yards (B.Cook).,3rd & 5 at 50
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,3RD QUARTER,1,HOU,1,11,0,7 Yard Run,(9:27) A.Deculus reported in as eligible.  J.Mixon right tackle to KC 38 for 7 yards (N.Johnson; J.Hicks).,1st & 10 at KC 45
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,3RD QUARTER,1,HOU,1,12,0,2 Yard Run,(8:46) J.Mixon up the middle to KC 36 for 2 yards (C.Jones; M.Pennel).,2nd & 3 at KC 38
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,3RD QUARTER,1,HOU,1,13,0,12 Yard Pass,(8:07) C.Stroud pass short right to N.Collins to KC 24 for 12 yards (J.Reid).,3rd & 1 at KC 36
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,3RD QUARTER,1,HOU,1,14,0,-10 Yard Penalty,"(7:33) (No Huddle, Shotgun) C.Stroud pass short right to I.Smith pushed ob at KC 19 for 5 yards (J.Reid).
+PENALTY on HOU-D.Schultz, Offensive Pass Interference, 10 yards, enforced at KC 24 - No Play.",1st & 10 at KC 24
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,3RD QUARTER,1,HOU,1,15,0,6 Yard Run,(7:11) D.Pierce left guard to KC 28 for 6 yards (J.Hicks).,1st & 20 at KC 34
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,3RD QUARTER,1,HOU,1,16,0,13 Yard Pass,(6:30) C.Stroud pass short middle to X.Hutchinson to KC 15 for 13 yards (J.Reid).,2nd & 14 at KC 28
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,3RD QUARTER,1,HOU,1,17,0,-4 Yard Penalty,"(5:46) J.Mixon up the middle to KC 14 for 1 yard (D.Tranquill; C.Omenihu).
+PENALTY on HOU-I.Smith, Illegal Motion, 4 yards, enforced at KC 15 - No Play.",3rd & 1 at KC 15
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,3RD QUARTER,1,HOU,1,18,0,6 Yard Run,(5:19) (Shotgun) C.Stroud scrambles right end pushed ob at KC 13 for 6 yards (J.Reid).,3rd & 5 at KC 19
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,3RD QUARTER,1,HOU,1,19,0,Touchdown Texans,"(4:42) A.Deculus reported in as eligible.  J.Mixon right tackle for 13 yards, TOUCHDOWN.",1st & 10 at KC 13
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,3RD QUARTER,1,HOU,1,20,1,Extra Point No Good,"K.Fairbairn extra point is No Good, Wide Right, Center-J.Weeks, Holder-T.Townsend.",XP attempt from KC 15
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,1,KC,1,1,0,Kickoff,"K.Fairbairn kicks 59 yards from HOU 35 to KC 6. N.Remigio to KC 39 for 33 yards (K.Boyd).
+PENALTY on KC-J.Williams, Offensive Holding, 10 yards, enforced at KC 29.",Kickoff from HOU 35
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,1,KC,1,2,0,-9 Yard Penalty,"(4:30) P.Mahomes pass short middle to T.Kelce to KC 34 for 15 yards (T.Settle).
+PENALTY on KC-T.Smith, Offensive Holding, 9 yards, enforced at KC 19 - No Play.",1st & 10 at KC 19
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,1,KC,1,3,0,10 Yard Run,(4:08) (Shotgun) I.Pacheco left end to KC 20 for 10 yards (K.Lassiter; H.To'oTo'o).,1st & 19 at KC 10
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,1,KC,1,4,0,3 Yard Run,(3:28) (Shotgun) P.Mahomes scrambles up the middle to KC 23 for 3 yards (D.Hunter).,2nd & 9 at KC 20
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,1,KC,1,5,0,12 Yard Pass,(2:38) (Shotgun) P.Mahomes pass short right to T.Kelce to KC 35 for 12 yards (M.Bryant).,3rd & 6 at KC 23
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,1,KC,1,6,0,19 Yard Run,"(1:52) (Shotgun) P.Mahomes to KC 30 for -5 yards. FUMBLES, and recovers at KC 30. P.Mahomes to KC 39 for 9 yards (F.Fatukasi; H.To'oTo'o).
+PENALTY on HOU-H.To'oTo'o, Unnecessary Roughness, 15 yards, enforced at KC 39.",1st & 10 at KC 35
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,1,KC,1,7,0,6 Yard Pass,(1:25) (Shotgun) P.Mahomes pass short right to N.Gray to HOU 40 for 6 yards (E.Murray).,1st & 10 at HOU 46
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,1,KC,1,8,0,Pass Incomplete,(:44) (Shotgun) P.Mahomes pass incomplete short right [D.Hunter].,2nd & 4 at HOU 40
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,1,KC,1,9,0,3 Yard Pass,(:39) (Shotgun) P.Mahomes pass short middle to N.Gray to HOU 37 for 3 yards (A.Al-Shaair).,3rd & 4 at HOU 40
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,1,KC,1,10,0,3 Yard Run,(15:00) (Shotgun) K.Suamataia reported in as eligible.  K.Hunt up the middle to HOU 34 for 3 yards (M.Edwards).,4th & 1 at HOU 37
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,1,KC,1,11,0,8 Yard Run,(14:22) (Shotgun) K.Hunt up the middle to HOU 26 for 8 yards (H.To'oTo'o; C.Bullock).,1st & 10 at HOU 34
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,1,KC,1,12,0,18 Yard Pass,(13:38) (Shotgun) P.Mahomes pass short middle to T.Kelce to HOU 8 for 18 yards (C.Bullock).,2nd & 2 at HOU 26
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,1,KC,1,13,0,-5 Yard Sack,"(12:50) (Shotgun) P.Mahomes sacked at HOU 13 for -5 yards (W.Anderson).
+Penalty on KC, Illegal Shift, declined.",1st & 8 at HOU 8
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,1,KC,1,14,0,2 Yard Run,(12:36) (Shotgun) P.Mahomes scrambles left end pushed ob at HOU 11 for 2 yards (H.To'oTo'o; K.Lassiter).,2nd & 13 at HOU 13
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,1,KC,1,15,0,Touchdown Chiefs,"(11:57) (Shotgun) P.Mahomes pass short middle to T.Kelce for 11 yards, TOUCHDOWN [M.Edwards].",3rd & 11 at HOU 11
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,1,KC,1,16,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-M.Araiza.",XP attempt from HOU 15
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,2,HOU,0,1,0,Kickoff,H.Butker kicks 67 yards from KC 35 to HOU -2. X.Hutchinson to HOU 34 for 36 yards (L.Chenal; B.Cook).,Kickoff from KC 35
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,2,HOU,0,2,0,2 Yard Pass,(11:43) C.Stroud pass short middle to I.Smith to HOU 36 for 2 yards (N.Bolton).,1st & 10 at HOU 34
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,2,HOU,0,3,0,24 Yard Pass,(11:04) A.Deculus reported in as eligible.  C.Stroud pass deep left to N.Collins to KC 40 for 24 yards (T.McDuffie) [C.Jones].,2nd & 8 at HOU 36
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,2,HOU,0,4,0,Pass Incomplete,(10:19) (Shotgun) C.Stroud pass incomplete short left to J.Mixon.,1st & 10 at KC 40
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,2,HOU,0,5,0,Pass Incomplete,(10:13) (Shotgun) C.Stroud pass incomplete deep right to J.Wayne.,2nd & 10 at KC 40
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,2,HOU,0,6,0,Pass Incomplete,(10:08) (Shotgun) C.Stroud pass incomplete short left to D.Pierce (J.Reid) [J.Reid].,3rd & 10 at KC 40
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,2,HOU,0,7,0,Turnover on Downs,(10:05) (Shotgun) C.Stroud sacked at HOU 44 for -16 yards (G.Karlaftis).,4th & 10 at KC 40
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,3,KC,0,1,0,1 Yard Run,(9:59) (Shotgun) K.Hunt right guard to HOU 43 for 1 yard (A.Al-Shaair).,1st & 10 at HOU 44
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,3,KC,0,2,0,Pass for No Gain,(9:22) (Shotgun) P.Mahomes pass short right to X.Worthy to HOU 43 for no gain (D.Hunter).,2nd & 9 at HOU 43
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,3,KC,0,3,0,Pass Incomplete,(8:46) (Shotgun) P.Mahomes pass incomplete short right to J.Smith-Schuster.,3rd & 9 at HOU 43
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,3,KC,0,4,0,Punt,"(8:39) M.Araiza punts 36 yards to HOU 7, Center-J.Winchester, fair catch by R.Woods.",4th & 9 at HOU 43
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,4,HOU,0,1,0,4 Yard Run,(8:32) J.Mixon left guard to HOU 11 for 4 yards (C.Jones; M.Danna).,1st & 10 at HOU 7
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,4,HOU,0,2,0,Pass Incomplete,(7:56) C.Stroud pass incomplete short right to N.Collins (T.McDuffie).,2nd & 6 at HOU 11
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,4,HOU,0,3,0,Pass Incomplete,(7:49) (Shotgun) C.Stroud pass incomplete short left to N.Collins (J.Watson). KC-J.Reid was injured during the play.,3rd & 6 at HOU 11
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,4,HOU,0,4,0,Punt,"(7:42) T.Townsend punts 34 yards to HOU 45, Center-J.Weeks, out of bounds.",4th & 6 at HOU 11
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,5,KC,1,1,0,4 Yard Pass,(7:35) (Shotgun) P.Mahomes pass short middle to T.Kelce to HOU 41 for 4 yards (E.Murray).,1st & 10 at HOU 45
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,5,KC,1,2,0,11 Yard Run,(6:59) (Shotgun) K.Hunt right guard to HOU 30 for 11 yards (D.Stingley).,2nd & 6 at HOU 41
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,5,KC,1,3,0,12 Yard Run,(6:19) (Shotgun) K.Hunt left tackle to HOU 18 for 12 yards (K.Lassiter).,1st & 10 at HOU 30
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,5,KC,1,4,0,Pass Incomplete,(5:35) (Shotgun) P.Mahomes pass incomplete short left to X.Worthy.,1st & 10 at HOU 18
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,5,KC,1,5,0,Pass for No Gain,"(5:32) (Shotgun) P.Mahomes pass short left to T.Kelce to HOU 18 for no gain (E.Murray, A.Al-Shaair).",2nd & 10 at HOU 18
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,5,KC,1,6,0,9 Yard Pass,(5:25) (Shotgun) P.Mahomes pass short right to X.Worthy to HOU 9 for 9 yards (M.Bryant).,3rd & 10 at HOU 18
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,5,KC,1,7,1,Field Goal,"(4:41) H.Butker 27 yard field goal is GOOD, Center-J.Winchester, Holder-M.Araiza.",4th & 1 at HOU 9
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,6,HOU,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback to the HOU 30.",Kickoff from KC 35
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,6,HOU,0,2,0,-6 Yard Sack,(4:38) (Shotgun) C.Stroud sacked at HOU 24 for -6 yards (G.Karlaftis). ** Injury Update: KC-J.Reid has returned to the game.,1st & 10 at HOU 30
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,6,HOU,0,3,0,6 Yard Pass,"(4:11) (No Huddle, Shotgun) C.Stroud pass short right to D.Schultz to HOU 30 for 6 yards (N.Bolton).",2nd & 16 at HOU 24
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,6,HOU,0,4,0,5 Yard Penalty,"(3:48) (No Huddle, Shotgun) PENALTY on KC-M.Danna, Neutral Zone Infraction, 5 yards, enforced at HOU 30 - No Play.",3rd & 10 at HOU 30
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,6,HOU,0,5,0,17 Yard Pass,(3:48) (Shotgun) C.Stroud pass short middle to X.Hutchinson to KC 48 for 17 yards (C.Conner) [G.Karlaftis].,3rd & 5 at HOU 35
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,6,HOU,0,6,0,Pass for No Gain,"(3:27) (No Huddle, Shotgun) C.Stroud pass short middle to D.Ogunbowale to KC 48 for no gain (C.Omenihu) [N.Bolton].",1st & 10 at KC 48
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,6,HOU,0,7,0,-1 Yard Sack,"(3:03) (No Huddle, Shotgun) C.Stroud sacked at KC 49 for -1 yards (C.Conner).",2nd & 10 at KC 48
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,6,HOU,0,8,0,18 Yard Pass,"(2:32) (No Huddle, Shotgun) C.Stroud pass deep right to D.Schultz pushed ob at KC 31 for 18 yards (N.Johnson).
+Kansas City challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",3rd & 11 at KC 49
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,6,HOU,0,9,0,18 Yard Pass,(2:27) (Shotgun) C.Stroud pass deep left to N.Collins pushed ob at KC 13 for 18 yards (T.McDuffie).,1st & 10 at KC 31
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,6,HOU,0,10,0,8 Yard Pass,"(2:18) (No Huddle, Shotgun) C.Stroud pass short right to X.Hutchinson to KC 5 for 8 yards (J.Watson) [T.Wharton].",1st & 10 at KC 13
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,6,HOU,0,11,0,-8 Yard Sack,"(2:01) (No Huddle, Shotgun) C.Stroud sacked at KC 13 for -8 yards (F.Anudike-Uzomah).",2nd & 2 at KC 5
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,6,HOU,0,12,0,-4 Yard Sack,(1:57) (Shotgun) C.Stroud sacked at KC 17 for -4 yards (G.Karlaftis). HOU-C.Stroud was injured during the play.,3rd & 10 at KC 13
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,6,HOU,0,13,0,Field Goal No Good,"(1:52) K.Fairbairn 35 yard field goal is BLOCKED (L.Chenal), Center-J.Weeks, Holder-T.Townsend, RECOVERED by KC-J.Hicks at KC 13. J.Hicks pushed ob at KC 23 for 10 yards (T.Townsend).",4th & 14 at KC 17
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,7,KC,1,1,0,4 Yard Run,(1:46) (Shotgun) K.Suamataia reported in as eligible.  K.Hunt right guard to KC 27 for 4 yards (A.Al-Shaair; T.Togiai).,1st & 10 at KC 23
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,7,KC,1,2,0,-4 Yard Run,(1:39) P.Mahomes kneels to KC 23 for -4 yards.,2nd & 6 at KC 27
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,7,KC,1,3,1,-5 Yard Run,(:59) P.Mahomes kneels to KC 18 for -5 yards.,3rd & 10 at KC 23
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,8,HOU,0,1,0,Kickoff,H.Butker kicks 70 yards from KC 20 to HOU 10. D.Pierce to HOU 21 for 11 yards (Ca.Jones; N.Johnson).,Kickoff from KC 20
+2024,Divisional Playoffs,SAT,01/18,Texans,Chiefs,4TH QUARTER,8,HOU,0,2,0,-1 Yard Run,(:07) C.Stroud kneels to HOU 20 for -1 yards. ** Injury Update: HOU-C.Stroud has returned to the game.,1st & 10 at HOU 21
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,1,DET,0,1,0,Kickoff,"Z.Gonzalez kicks 63 yards from WAS 35 to DET 2, out of bounds.
+PENALTY on WAS-Z.Gonzalez, Kickoff Out of Bounds, placed at DET 40.",Kickoff from WAS 35
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,1,DET,0,2,0,2 Yard Run,(15:00) D.Montgomery right tackle to DET 42 for 2 yards (F.Luvu).,1st & 10 at DET 40
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,1,DET,0,3,0,-5 Yard Run,(14:30) D.Montgomery up the middle to DET 37 for -5 yards (D.Fowler).,2nd & 8 at DET 42
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,1,DET,0,4,0,Pass Incomplete,(13:58) (Shotgun) J.Goff pass incomplete short left to T.Patrick.,3rd & 13 at DET 37
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,1,DET,0,5,0,Punt,"(13:53) J.Fox punts 43 yards to WAS 20, Center-H.Hatten, out of bounds.",4th & 13 at DET 37
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,2,WAS,0,1,0,6 Yard Pass,(13:45) (Shotgun) J.Daniels pass short middle to Z.Ertz to WAS 26 for 6 yards (J.Campbell; B.Branch).,1st & 10 at WAS 20
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,2,WAS,0,2,0,6 Yard Pass,"(13:20) (No Huddle, Shotgun) J.Daniels pass short right to T.McLaurin to WAS 32 for 6 yards (A.Robertson). DET-A.Robertson was injured during the play.",2nd & 4 at WAS 26
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,2,WAS,0,3,0,7 Yard Pass,(13:00) (Shotgun) J.Daniels pass short left to D.Brown pushed ob at WAS 39 for 7 yards (K.Vildor).,1st & 10 at WAS 32
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,2,WAS,0,4,0,24 Yard Pass,"(12:22) (No Huddle, Shotgun) J.Daniels pass short right to A.Ekeler to DET 37 for 24 yards (J.Campbell).",2nd & 3 at WAS 39
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,2,WAS,0,5,0,1 Yard Run,"(11:48) (No Huddle, Shotgun) J.McNichols left end to DET 36 for 1 yard (J.Campbell; B.Branch).",1st & 10 at DET 37
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,2,WAS,0,6,0,Pass Incomplete,"(11:16) (No Huddle, Shotgun) J.Daniels pass incomplete short right.",2nd & 9 at DET 36
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,2,WAS,0,7,0,-5 Yard Penalty,"(11:10) (No Huddle, Shotgun) PENALTY on WAS-T.Biadasz, False Start, 5 yards, enforced at DET 36 - No Play.",3rd & 9 at DET 36
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,2,WAS,0,8,0,13 Yard Pass,"(11:10) (No Huddle, Shotgun) J.Daniels pass short right to J.Crowder pushed ob at DET 28 for 13 yards (A.Anzalone).",3rd & 14 at DET 41
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,2,WAS,0,9,0,Turnover on Downs,(10:42) (No Huddle) Direct snap to M.Mariota.  M.Mariota up the middle to DET 29 for -1 yards (A.Muhammad).,4th & 1 at DET 28
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,3,DET,1,1,0,19 Yard Pass,(10:38) J.Goff pass deep right to Ja.Williams to DET 48 for 19 yards (M.Sainristil).,1st & 10 at DET 29
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,3,DET,1,2,0,15 Yard Run,(10:00) J.Gibbs right tackle to WAS 37 for 15 yards (M.Sainristil; D.Fowler).,1st & 10 at DET 48
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,3,DET,1,3,0,23 Yard Pass,"(9:34) (No Huddle, Shotgun) J.Goff pass short left to J.Gibbs pushed ob at WAS 14 for 23 yards (M.Sainristil).",1st & 10 at WAS 37
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,3,DET,1,4,0,9 Yard Run,(8:55) J.Gibbs right end to WAS 5 for 9 yards (N.Igbinoghene; F.Luvu).,1st & 10 at WAS 14
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,3,DET,1,5,0,4 Yard Run,(8:16) D.Montgomery up the middle to WAS 1 for 4 yards (D.Armstrong).,2nd & 1 at WAS 5
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,3,DET,1,6,0,Touchdown Lions,"(7:40) D.Skipper reported in as eligible.  J.Gibbs left end for 1 yard, TOUCHDOWN.",1st & 1 at WAS 1
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,3,DET,1,7,1,Extra Point Good,"J.Bates extra point is GOOD, Center-H.Hatten, Holder-J.Fox.",XP attempt from WAS 15
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,4,WAS,1,1,0,Kickoff,"J.Bates kicks 65 yards from DET 35 to end zone, Touchback to the WAS 30.",Kickoff from DET 35
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,4,WAS,1,2,0,4 Yard Run,(7:36) (Shotgun) J.Daniels left end pushed ob at WAS 34 for 4 yards (T.Arnold).,1st & 10 at WAS 30
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,4,WAS,1,3,0,11 Yard Pass,"(7:03) (No Huddle, Shotgun) J.Daniels pass short left to T.McLaurin to WAS 45 for 11 yards (T.Arnold).",2nd & 6 at WAS 34
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,4,WAS,1,4,0,-4 Yard Run,"(6:34) (No Huddle, Shotgun) A.Ekeler left end to WAS 41 for -4 yards (A.Anzalone).",1st & 10 at WAS 45
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,4,WAS,1,5,0,4 Yard Pass,"(5:57) (No Huddle, Shotgun) J.Daniels pass short right to A.Ekeler to WAS 45 for 4 yards (B.Branch).",2nd & 14 at WAS 41
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,4,WAS,1,6,0,12 Yard Pass,"(5:19) (No Huddle, Shotgun) J.Daniels pass short left to J.Crowder to DET 43 for 12 yards (B.Branch).",3rd & 10 at WAS 45
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,4,WAS,1,7,0,14 Yard Run,"(4:44) (No Huddle, Shotgun) B.Robinson left tackle to DET 29 for 14 yards (J.Campbell; I.Melifonwu).",1st & 10 at DET 43
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,4,WAS,1,8,0,Pass Incomplete,"(4:08) (No Huddle, Shotgun) J.Daniels pass incomplete short left to T.McLaurin (Z.Smith).",1st & 10 at DET 29
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,4,WAS,1,9,0,Pass Incomplete,"(4:05) (No Huddle, Shotgun) J.Daniels pass incomplete deep right to O.Zaccheaus.",2nd & 10 at DET 29
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,4,WAS,1,10,0,Pass Incomplete,"(3:59) (No Huddle, Shotgun) J.Daniels pass incomplete short middle to D.Brown (K.Vildor) [L.Onwuzurike].",3rd & 10 at DET 29
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,4,WAS,1,11,1,Field Goal,"(3:54) Z.Gonzalez 47 yard field goal is GOOD, Center-T.Ott, Holder-T.Way.",4th & 10 at DET 29
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,5,DET,0,1,0,Kickoff,Z.Gonzalez kicks 58 yards from WAS 35 to DET 7. C.Reynolds to DET 27 for 20 yards (P.Butler; N.Bellore).,Kickoff from WAS 35
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,5,DET,0,2,0,14 Yard Pass,(3:42) (Shotgun) J.Goff pass short middle to S.LaPorta to DET 41 for 14 yards (J.Chinn).,1st & 10 at DET 27
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,5,DET,0,3,0,33 Yard Run,(3:07) J.Gibbs left tackle pushed ob at WAS 26 for 33 yards (M.Sainristil).,1st & 10 at DET 41
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,5,DET,0,4,0,6 Yard Pass,(2:26) (Shotgun) J.Goff pass short middle to S.LaPorta to WAS 20 for 6 yards (F.Luvu; J.Jean-Baptiste).,1st & 10 at WAS 26
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,5,DET,0,5,0,3 Yard Run,(1:42) D.Montgomery left tackle to WAS 17 for 3 yards (J.Chinn; M.Lattimore).,2nd & 4 at WAS 20
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,1ST QUARTER,5,DET,0,6,0,Fumble,"(1:02) (Shotgun) J.Goff sacked at WAS 25 for -8 yards (D.Armstrong). FUMBLES (D.Armstrong) [D.Armstrong], RECOVERED by WAS-F.Luvu at WAS 22.",3rd & 1 at WAS 17
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,1,WAS,1,1,0,15 Yard Run,(:55) (Shotgun) B.Robinson right tackle to WAS 37 for 15 yards (J.Campbell).,1st & 10 at WAS 22
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,1,WAS,1,2,0,5 Yard Run,"(:20) (No Huddle, Shotgun) B.Robinson right end pushed ob at WAS 42 for 5 yards (A.Anzalone).",1st & 10 at WAS 37
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,1,WAS,1,3,0,42 Yard Pass,(15:00) (Shotgun) J.Daniels pass deep left to D.Brown to DET 16 for 42 yards (B.Branch).,2nd & 5 at WAS 42
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,1,WAS,1,4,0,3 Yard Run,"(14:34) (No Huddle, Shotgun) J.Daniels left end to DET 13 for 3 yards (K.Joseph).",1st & 10 at DET 16
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,1,WAS,1,5,0,4 Yard Run,(13:55) (No Huddle) J.Daniels scrambles right end pushed ob at DET 9 for 4 yards (K.Joseph).,2nd & 7 at DET 13
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,1,WAS,1,6,0,Pass Incomplete,(13:17) (Shotgun) J.Daniels pass incomplete short right to O.Zaccheaus.,3rd & 3 at DET 9
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,1,WAS,1,7,0,7 Yard Pass,"(13:13) (No Huddle, Shotgun) J.Daniels pass short middle to Z.Ertz to DET 2 for 7 yards (I.Melifonwu; J.Campbell).",4th & 3 at DET 9
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,1,WAS,1,8,0,Pass Incomplete,"(12:30) (No Huddle, Shotgun) J.Daniels pass incomplete short left to J.Bates.",1st & 2 at DET 2
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,1,WAS,1,9,0,-1 Yard Run,"(12:27) (No Huddle, Shotgun) J.Daniels right end pushed ob at DET 3 for -1 yards (K.Joseph).",2nd & 2 at DET 2
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,1,WAS,1,10,0,2 Yard Penalty,"(11:44) (Shotgun) J.Daniels pass incomplete short right to T.McLaurin.
+PENALTY on DET-K.Joseph, Defensive Pass Interference, 2 yards, enforced at DET 3 - No Play.",3rd & 3 at DET 3
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,1,WAS,1,11,0,-1 Yard Run,"(11:40) (Shotgun) B.Robinson up the middle to DET 2 for -1 yards (A.Anzalone, D.Reader).",1st & 1 at DET 1
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,1,WAS,1,12,0,Touchdown Commanders,"(10:58) (Shotgun) B.Robinson right guard for 2 yards, TOUCHDOWN. WAS-S.Cosmi was injured during the play.",2nd & 2 at DET 2
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,1,WAS,1,13,1,Extra Point Good,"Z.Gonzalez extra point is GOOD, Center-T.Ott, Holder-T.Way.",XP attempt from DET 15
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,2,DET,1,1,0,Kickoff,Z.Gonzalez kicks 63 yards from WAS 35 to DET 2. C.Reynolds to DET 30 for 28 yards (M.Walker).,Kickoff from WAS 35
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,2,DET,1,2,0,Pass Incomplete,(10:48) J.Goff pass incomplete deep middle to Ja.Williams.,1st & 10 at DET 30
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,2,DET,1,3,0,7 Yard Pass,(10:41) (Shotgun) J.Goff pass short middle to A.St. Brown to DET 37 for 7 yards (M.Walker; F.Luvu).,2nd & 10 at DET 30
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,2,DET,1,4,0,34 Yard Pass,"(10:05) (Shotgun) J.Goff pass deep right to A.St. Brown to WAS 29 for 34 yards (N.Igbinoghene) [S.Day].
+Penalty on WAS-N.Igbinoghene, Defensive Holding, declined.",3rd & 3 at DET 37
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,2,DET,1,5,0,12 Yard Run,(9:41) J.Gibbs up the middle to WAS 17 for 12 yards (B.Wagner; Q.Martin).,1st & 10 at WAS 29
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,2,DET,1,6,0,Run for No Gain,(9:05) J.Gibbs left end to WAS 17 for no gain (J.Allen).,1st & 10 at WAS 17
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,2,DET,1,7,0,15 Yard Pass,(8:28) (Shotgun) J.Goff pass short right to K.Raymond to WAS 2 for 15 yards (J.Chinn).,2nd & 10 at WAS 17
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,2,DET,1,8,0,Touchdown Lions,"(7:50) D.Skipper reported in as eligible.  J.Goff pass short right to S.LaPorta for 2 yards, TOUCHDOWN [J.Allen].",1st & 2 at WAS 2
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,2,DET,1,9,1,Extra Point Good,"J.Bates extra point is GOOD, Center-H.Hatten, Holder-J.Fox.",XP attempt from WAS 15
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,3,WAS,1,1,0,Kickoff,"J.Bates kicks 65 yards from DET 35 to end zone, Touchback to the WAS 30.",Kickoff from DET 35
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,3,WAS,1,2,0,3 Yard Run,(7:44) (Shotgun) J.Daniels right end to WAS 33 for 3 yards (B.Branch).,1st & 10 at WAS 30
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,3,WAS,1,3,0,9 Yard Pass,"(7:08) (No Huddle, Shotgun) J.Daniels pass short right to D.Brown to WAS 42 for 9 yards (T.Arnold).",2nd & 7 at WAS 33
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,3,WAS,1,4,0,Touchdown Commanders,"(6:33) (No Huddle, Shotgun) J.Daniels pass short left to T.McLaurin for 58 yards, TOUCHDOWN.",1st & 10 at WAS 42
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,3,WAS,1,5,1,Extra Point Good,"Z.Gonzalez extra point is GOOD, Center-T.Ott, Holder-T.Way.",XP attempt from DET 15
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,4,WAS,1,1,0,Kickoff,Z.Gonzalez kicks 62 yards from WAS 35 to DET 3. C.Reynolds to DET 22 for 19 yards (M.Sainristil).,Kickoff from WAS 35
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,4,WAS,1,2,0,-5 Yard Penalty,"(6:17) (Shotgun) PENALTY on DET-S.LaPorta, False Start, 5 yards, enforced at DET 22 - No Play.",1st & 10 at DET 22
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,4,WAS,1,3,0,1 Yard Run,(6:17) (Shotgun) J.Gibbs right tackle to DET 18 for 1 yard (D.Fowler).,1st & 15 at DET 17
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,4,WAS,1,4,1,Touchdown Commanders,"(5:38) (Shotgun) J.Goff pass deep left intended for T.Patrick INTERCEPTED by Q.Martin at DET 40. Q.Martin for 40 yards, TOUCHDOWN. DET-J.Goff was injured during the play.",2nd & 14 at DET 18
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,5,DET,1,1,0,Kickoff,Z.Gonzalez kicks 64 yards from WAS 35 to DET 1. C.Reynolds to DET 27 for 26 yards (N.Bellore).,Kickoff from WAS 35
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,5,DET,1,2,0,-5 Yard Penalty,"(5:19) 12-T. Bridgewater in at QB. 
+PENALTY on DET-J.Gibbs, False Start, 5 yards, enforced at DET 27 - No Play.",1st & 10 at DET 27
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,5,DET,1,3,0,14 Yard Run,(5:19) J.Gibbs up the middle to DET 36 for 14 yards (B.Wagner).,1st & 15 at DET 22
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,5,DET,1,4,0,3 Yard Pass,"(4:55) (No Huddle, Shotgun) T.Bridgewater pass short right to J.Gibbs to DET 39 for 3 yards (F.Luvu).",2nd & 1 at DET 36
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,5,DET,1,5,0,Touchdown Lions,"(4:16) Ja.Williams left end for 61 yards, TOUCHDOWN.",1st & 10 at DET 39
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,5,DET,1,6,1,Extra Point Good,"J.Bates extra point is GOOD, Center-H.Hatten, Holder-J.Fox.",XP attempt from WAS 15
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,6,WAS,1,1,0,Kickoff,"J.Bates kicks 65 yards from DET 35 to end zone, Touchback to the WAS 30.",Kickoff from DET 35
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,6,WAS,1,2,0,8 Yard Run,(4:01) (Shotgun) A.Ekeler left tackle to WAS 38 for 8 yards (K.Joseph). ** Injury Update: WAS-Z.Ertz has returned to the game.,1st & 10 at WAS 30
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,6,WAS,1,3,0,15 Yard Run,"(3:39) (No Huddle, Shotgun) J.Daniels scrambles right end ran ob at DET 47 for 15 yards (A.Anzalone).",2nd & 2 at WAS 38
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,6,WAS,1,4,0,2 Yard Run,"(3:01) (No Huddle, Shotgun) A.Ekeler up the middle to DET 45 for 2 yards (J.Campbell).",1st & 10 at DET 47
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,6,WAS,1,5,0,38 Yard Pass,"(2:23) (No Huddle, Shotgun) J.Daniels pass deep right to D.Brown to DET 7 for 38 yards (K.Joseph).",2nd & 8 at DET 45
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,6,WAS,1,6,0,2 Yard Run,(2:00) (Shotgun) J.Daniels up the middle to DET 5 for 2 yards (J.Campbell).,1st & 7 at DET 7
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,6,WAS,1,7,0,Pass Incomplete,(1:55) (Shotgun) J.Daniels pass incomplete short right.,2nd & 5 at DET 5
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,6,WAS,1,8,0,Touchdown Commanders,"(1:49) (Shotgun) J.Daniels pass short middle to Z.Ertz for 5 yards, TOUCHDOWN.",3rd & 5 at DET 5
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,6,WAS,1,9,1,Extra Point Good,"Z.Gonzalez extra point is GOOD, Center-T.Ott, Holder-T.Way.",XP attempt from DET 15
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,7,DET,0,1,0,Kickoff,"Z.Gonzalez kicks 65 yards from WAS 35 to end zone, Touchback to the DET 30.",Kickoff from WAS 35
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,7,DET,0,2,0,11 Yard Pass,(1:46) (Shotgun) J.Goff pass short middle to A.St. Brown to DET 41 for 11 yards (M.Lattimore). ** Injury Update: DET-J.Goff has returned to the game.,1st & 10 at DET 30
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,7,DET,0,3,0,7 Yard Pass,"(1:27) (No Huddle, Shotgun) J.Goff pass short middle to S.LaPorta to DET 48 for 7 yards (B.Wagner).",1st & 10 at DET 41
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,7,DET,0,4,0,Pass Incomplete,"(1:10) (No Huddle, Shotgun) J.Goff pass short middle to J.Gibbs to WAS 41 for 11 yards (J.Chinn).
+The Replay Official reviewed the pass completion ruling, and the play was REVERSED.
+(No Huddle, Shotgun) J.Goff pass incomplete short middle to J.Gibbs.",2nd & 3 at DET 48
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,7,DET,0,5,0,11 Yard Run,(1:04) (Shotgun) J.Gibbs up the middle to WAS 41 for 11 yards (J.Chinn).,3rd & 3 at DET 48
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,7,DET,0,6,0,Pass Incomplete,"(:46) (No Huddle, Shotgun) J.Goff pass incomplete short middle to J.Gibbs (C.Ferrell) [D.Payne].",1st & 10 at WAS 41
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,7,DET,0,7,0,12 Yard Pass,(:42) (Shotgun) J.Goff pass short middle to J.Gibbs to WAS 29 for 12 yards (J.Chinn).,2nd & 10 at WAS 41
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,7,DET,0,8,0,Interception,(:35) (Shotgun) J.Goff pass deep middle intended for Ja.Williams INTERCEPTED by M.Sainristil at WAS -8. M.Sainristil to WAS 14 for 22 yards (S.LaPorta).,1st & 10 at WAS 29
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,2ND QUARTER,8,WAS,0,1,0,-1 Yard Run,(:22) J.Daniels kneels to WAS 13 for -1 yards.,1st & 10 at WAS 14
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,3RD QUARTER,1,WAS,0,1,0,Kickoff,"J.Bates kicks 65 yards from DET 35 to end zone, Touchback to the WAS 30.",Kickoff from DET 35
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,3RD QUARTER,1,WAS,0,2,0,14 Yard Run,(15:00) (Shotgun) B.Robinson up the middle to WAS 44 for 14 yards (K.Joseph).,1st & 10 at WAS 30
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,3RD QUARTER,1,WAS,0,3,0,-2 Yard Run,"(14:26) (No Huddle, Shotgun) J.Daniels left end to WAS 42 for -2 yards (B.Branch).",1st & 10 at WAS 44
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,3RD QUARTER,1,WAS,0,4,0,1 Yard Run,"(13:45) (No Huddle, Shotgun) J.Daniels scrambles right tackle to WAS 43 for 1 yard (J.Paschal).",2nd & 12 at WAS 42
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,3RD QUARTER,1,WAS,0,5,0,Pass Incomplete,"(13:08) (Shotgun) J.Daniels pass incomplete deep middle to D.Brown.
+Penalty on WAS, Illegal Shift, declined.",3rd & 11 at WAS 43
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,3RD QUARTER,1,WAS,0,6,0,Punt,"(13:03) T.Way punts 48 yards to DET 9, Center-T.Ott, downed by WAS-C.Yankoff.",4th & 11 at WAS 43
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,3RD QUARTER,2,DET,1,1,0,11 Yard Run,(12:53) D.Montgomery left guard pushed ob at DET 20 for 11 yards (Q.Martin).,1st & 10 at DET 9
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,3RD QUARTER,2,DET,1,2,0,Pass Incomplete,(12:16) J.Goff pass incomplete short right to S.LaPorta.,1st & 10 at DET 20
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,3RD QUARTER,2,DET,1,3,0,8 Yard Run,(12:12) (Shotgun) D.Montgomery right guard to DET 28 for 8 yards (N.Igbinoghene; B.Wagner).,2nd & 10 at DET 20
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,3RD QUARTER,2,DET,1,4,0,15 Yard Penalty,"(11:30) D.Montgomery left tackle to DET 25 for -3 yards (B.Wagner).
+PENALTY on WAS-D.Fowler, Face Mask, 15 yards, enforced at DET 28 - No Play.",3rd & 2 at DET 28
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,3RD QUARTER,2,DET,1,5,0,-1 Yard Run,(11:09) (Shotgun) J.Gibbs left end pushed ob at DET 42 for -1 yards (N.Igbinoghene).,1st & 10 at DET 43
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,3RD QUARTER,2,DET,1,6,0,1 Yard Run,(10:33) J.Gibbs right end to DET 43 for 1 yard (F.Luvu).,2nd & 11 at DET 42
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,3RD QUARTER,2,DET,1,7,0,19 Yard Pass,(9:55) (Shotgun) J.Goff pass short middle to A.St. Brown to WAS 38 for 19 yards (M.Lattimore).,3rd & 10 at DET 43
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,3RD QUARTER,2,DET,1,8,0,Pass Incomplete,(9:14) J.Goff pass incomplete short middle to J.Gibbs [J.Allen].,1st & 10 at WAS 38
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,3RD QUARTER,2,DET,1,9,0,11 Yard Pass,(9:09) (Shotgun) J.Goff pass short right to J.Gibbs to WAS 27 for 11 yards (J.Jean-Baptiste).,2nd & 10 at WAS 38
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,3RD QUARTER,2,DET,1,10,0,20 Yard Pass,(8:26) (Shotgun) D.Montgomery pass short middle to A.St. Brown to WAS 7 for 20 yards (J.Chinn).,1st & 10 at WAS 27
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,3RD QUARTER,2,DET,1,11,0,-1 Yard Run,"(7:39) J.Gibbs left tackle to WAS 8 for -1 yards (M.Lattimore, F.Luvu).",1st & 7 at WAS 7
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,3RD QUARTER,2,DET,1,12,0,Touchdown Lions,"(7:02) J.Gibbs up the middle for 8 yards, TOUCHDOWN.",2nd & 8 at WAS 8
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,3RD QUARTER,2,DET,1,13,1,Extra Point Good,"J.Bates extra point is GOOD, Center-H.Hatten, Holder-J.Fox.",XP attempt from WAS 15
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,1,WAS,1,1,0,Kickoff,"J.Bates kicks 65 yards from DET 35 to end zone, Touchback to the WAS 30.",Kickoff from DET 35
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,1,WAS,1,2,0,1 Yard Run,(6:57) (Shotgun) J.Daniels scrambles right end pushed ob at WAS 31 for 1 yard (A.Anzalone). ** Injury Update: WAS-O.Zaccheaus has returned to the game.,1st & 10 at WAS 30
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,1,WAS,1,3,0,14 Yard Run,"(6:22) (No Huddle, Shotgun) J.Daniels scrambles right end to WAS 45 for 14 yards (J.Campbell). DET-I.Melifonwu was injured during the play.",2nd & 9 at WAS 31
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,1,WAS,1,4,0,21 Yard Run,"(5:38) (Shotgun) B.Robinson right end to DET 49 for 6 yards (A.Anzalone).
+PENALTY on DET-J.Paschal, Unnecessary Roughness, 15 yards, enforced at DET 49.",1st & 10 at WAS 45
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,1,WAS,1,5,0,6 Yard Run,(5:13) (Shotgun) B.Robinson right end pushed ob at DET 28 for 6 yards (A.Anzalone).,1st & 10 at DET 34
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,1,WAS,1,6,0,3 Yard Run,"(4:37) (No Huddle, Shotgun) B.Robinson up the middle to DET 25 for 3 yards (L.Onwuzurike, A.Anzalone).",2nd & 4 at DET 28
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,1,WAS,1,7,0,1 Yard Run,"(4:08) (No Huddle, Shotgun) B.Robinson right guard to DET 24 for 1 yard (A.Anzalone).",3rd & 1 at DET 25
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,1,WAS,1,8,0,-1 Yard Pass,"(3:25) (No Huddle, Shotgun) J.Daniels pass short right to D.Brown to DET 25 for -1 yards (B.Branch). FUMBLES (B.Branch), touched at DET 25, ball out of bounds at DET 21.",1st & 10 at DET 24
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,1,WAS,1,9,0,6 Yard Pass,"(2:48) (No Huddle, Shotgun) J.Daniels pass short right to A.Ekeler to DET 19 for 6 yards (J.Campbell).",2nd & 11 at DET 25
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,1,WAS,1,10,0,3 Yard Pass,(2:03) (Shotgun) J.Daniels pass short right to D.Brown to DET 16 for 3 yards (B.Branch). DET-B.Branch was injured during the play.,3rd & 5 at DET 19
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,1,WAS,1,11,0,3 Yard Run,(1:47) M.Deiter reported in as eligible.  J.Daniels right end ran ob at DET 13 for 3 yards (T.Arnold).,4th & 2 at DET 16
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,1,WAS,1,12,0,7 Yard Pass,(1:09) (Shotgun) J.Daniels pass short middle to A.Ekeler to DET 6 for 7 yards (J.Paschal).,1st & 10 at DET 13
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,1,WAS,1,13,0,1 Yard Run,"(:27) (No Huddle, Shotgun) A.Ekeler right tackle to DET 5 for 1 yard (A.Anzalone).",2nd & 3 at DET 6
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,1,WAS,1,14,0,Pass for No Gain,(15:00) (Shotgun) J.Daniels pass short right to Z.Ertz to DET 5 for no gain (T.Arnold).,3rd & 2 at DET 5
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,1,WAS,1,15,0,3 Yard Penalty,"(14:15) (Shotgun) PENALTY on DET, Defensive Too Many Men on Field, 3 yards, enforced at DET 5 - No Play.",4th & 2 at DET 5
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,1,WAS,1,16,0,1 Yard Run,(14:04) (Shotgun) B.Robinson left tackle to DET 1 for 1 yard (J.Campbell).,1st & 2 at DET 2
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,1,WAS,1,17,0,Touchdown Commanders,"(13:32) (Shotgun) B.Robinson up the middle for 1 yard, TOUCHDOWN.",2nd & 1 at DET 1
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,1,WAS,1,18,1,Extra Point Good,"Z.Gonzalez extra point is GOOD, Center-T.Ott, Holder-T.Way.",XP attempt from DET 15
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,2,DET,0,1,0,Kickoff,Z.Gonzalez kicks 67 yards from WAS 35 to DET -2. K.Raymond to DET 19 for 21 yards (N.Bellore; P.Butler).,Kickoff from WAS 35
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,2,DET,0,2,0,5 Yard Run,(13:21) D.Montgomery left guard to DET 24 for 5 yards (C.Ferrell).,1st & 10 at DET 19
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,2,DET,0,3,0,22 Yard Pass,(12:51) J.Goff pass short middle to T.Patrick pushed ob at DET 46 for 22 yards (M.Lattimore).,2nd & 5 at DET 24
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,2,DET,0,4,0,Interception,"(12:13) Ja.Williams pass deep right intended for J.Gibbs INTERCEPTED by M.Sainristil at WAS 34. M.Sainristil to WAS 34 for no gain (J.Gibbs).
+Penalty on DET-G.Glasgow, Ineligible Downfield Pass, declined.",1st & 10 at DET 46
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,3,WAS,1,1,0,35 Yard Run,(12:04) (Shotgun) A.Ekeler left tackle to DET 31 for 35 yards (B.Branch; T.Arnold). ** Injury Update: DET-B.Branch has returned to the game. ** Injury Update: DET-I.Melifonwu has returned to the game.,1st & 10 at WAS 34
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,3,WAS,1,2,0,5 Yard Run,(11:17) (Shotgun) A.Ekeler left tackle to DET 26 for 5 yards (J.Paschal).,1st & 10 at DET 31
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,3,WAS,1,3,0,5 Yard Run,"(10:40) (No Huddle, Shotgun) J.Daniels scrambles up the middle to DET 21 for 5 yards (B.Branch).",2nd & 5 at DET 26
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,3,WAS,1,4,0,-5 Yard Penalty,"(9:50) (Shotgun) PENALTY on WAS, Delay of Game, 5 yards, enforced at DET 21 - No Play.",1st & 10 at DET 21
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,3,WAS,1,5,0,3 Yard Run,(9:50) (Shotgun) J.McNichols up the middle to DET 23 for 3 yards (J.Campbell; M.Norris).,1st & 15 at DET 26
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,3,WAS,1,6,0,10 Yard Pass,(9:07) (Shotgun) J.Daniels pass short right to Z.Ertz to DET 13 for 10 yards (M.Norris) [J.Paschal].,2nd & 12 at DET 23
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,3,WAS,1,7,0,Pass Incomplete,"(8:27) (No Huddle, Shotgun) J.Daniels pass incomplete short left to T.McLaurin.",3rd & 2 at DET 13
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,3,WAS,1,8,0,12 Yard Pass,(8:24) (Shotgun) J.Daniels pass short right to T.McLaurin to DET 1 for 12 yards (J.Campbell).,4th & 2 at DET 13
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,3,WAS,1,9,0,Touchdown Commanders,"(7:38) (Shotgun) J.McNichols up the middle for 1 yard, TOUCHDOWN.",1st & 1 at DET 1
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,3,WAS,1,10,1,Extra Point Good,"Z.Gonzalez extra point is GOOD, Center-T.Ott, Holder-T.Way.",XP attempt from DET 15
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,4,DET,1,1,0,Kickoff,"Z.Gonzalez kicks 65 yards from WAS 35 to end zone, Touchback to the DET 30.",Kickoff from WAS 35
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,4,DET,1,2,0,Pass Incomplete,(7:31) (Shotgun) J.Goff pass incomplete short left.,1st & 10 at DET 30
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,4,DET,1,3,0,12 Yard Pass,(7:26) (Shotgun) J.Goff pass short right to J.Gibbs to DET 42 for 12 yards (B.Wagner; J.Chinn).,2nd & 10 at DET 30
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,4,DET,1,4,0,13 Yard Pass,"(7:03) (No Huddle, Shotgun) J.Goff pass short right to K.Raymond ran ob at WAS 45 for 13 yards.",1st & 10 at DET 42
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,4,DET,1,5,0,20 Yard Pass,(6:28) (Shotgun) J.Goff pass deep right to A.St. Brown to WAS 25 for 20 yards (J.Chinn).,1st & 10 at WAS 45
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,4,DET,1,6,0,Pass Incomplete,"(6:04) (No Huddle, Shotgun) J.Goff pass incomplete short left to A.St. Brown.",1st & 10 at WAS 25
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,4,DET,1,7,0,13 Yard Pass,(5:59) (Shotgun) J.Goff pass short right to A.St. Brown to WAS 12 for 13 yards (F.Luvu).,2nd & 10 at WAS 25
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,4,DET,1,8,0,Pass Incomplete,(5:45) (No Huddle) J.Goff spiked the ball to stop the clock.,1st & 10 at WAS 12
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,4,DET,1,9,0,Pass Incomplete,(5:44) (Shotgun) J.Goff pass incomplete short right to J.Gibbs.,2nd & 10 at WAS 12
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,4,DET,1,10,0,2 Yard Run,(5:40) (Shotgun) J.Gibbs left end pushed ob at WAS 10 for 2 yards (Q.Martin).,3rd & 10 at WAS 12
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,4,DET,1,11,1,Field Goal,"(5:04) J.Bates 28 yard field goal is GOOD, Center-H.Hatten, Holder-J.Fox.",4th & 8 at WAS 10
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,5,WAS,0,1,0,Kickoff,J.Bates kicks onside 25 yards from DET 35 to WAS 40. Z.Ertz (didn't try to advance) to WAS 40 for no gain.,Kickoff from DET 35
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,5,WAS,0,2,0,2 Yard Run,(4:57) (Shotgun) B.Robinson up the middle to WAS 42 for 2 yards (L.Onwuzurike).,1st & 10 at WAS 40
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,5,WAS,0,3,0,3 Yard Run,(4:13) (Shotgun) B.Robinson right tackle to WAS 45 for 3 yards (A.Anzalone).,2nd & 8 at WAS 42
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,5,WAS,0,4,0,20 Yard Pass,(4:08) (Shotgun) J.Daniels pass deep left to J.Bates to DET 35 for 20 yards (M.Norris).,3rd & 5 at WAS 45
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,5,WAS,0,5,0,3 Yard Run,(3:22) (Shotgun) J.McNichols left tackle to DET 32 for 3 yards (L.Onwuzurike).,1st & 10 at DET 35
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,5,WAS,0,6,0,1 Yard Run,(3:18) (Shotgun) J.Daniels left tackle to DET 31 for 1 yard (A.Anzalone).,2nd & 7 at DET 32
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,5,WAS,0,7,0,5 Yard Run,(3:13) (Shotgun) B.Robinson up the middle to DET 26 for 5 yards (T.Nowaske; J.Campbell).,3rd & 6 at DET 31
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,5,WAS,0,8,0,Field Goal No Good,"(2:31) Z.Gonzalez 44 yard field goal is No Good, Wide Left, Center-T.Ott, Holder-T.Way.",4th & 1 at DET 26
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,6,DET,0,1,0,-11 Yard Sack,(2:26) (Shotgun) J.Goff sacked at DET 23 for -11 yards (D.Armstrong).,1st & 10 at DET 34
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,6,DET,0,2,0,11 Yard Pass,"(2:04) (No Huddle, Shotgun) J.Goff pass short middle to S.LaPorta to DET 34 for 11 yards (B.Wagner; J.Chinn).",2nd & 21 at DET 23
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,6,DET,0,3,0,9 Yard Pass,"(1:57) (Shotgun) J.Goff pass short middle to J.Gibbs to DET 44 for 10 yards (J.Chinn; B.Wagner).
+The Replay Official reviewed the first down ruling, and the play was REVERSED.
+(Shotgun) J.Goff pass short middle to J.Gibbs to DET 43 for 9 yards (J.Chinn; B.Wagner).",3rd & 10 at DET 34
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,6,DET,0,4,0,7 Yard Run,(1:41) (Shotgun) J.Goff scrambles left end ran ob at 50 for 7 yards (F.Luvu).,4th & 1 at DET 43
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,6,DET,0,5,0,11 Yard Pass,(1:33) (Shotgun) J.Goff pass short middle to S.LaPorta to WAS 39 for 11 yards (J.Chinn) [D.Fowler].,1st & 10 at 50
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,6,DET,0,6,0,Pass Incomplete,(1:14) (No Huddle) J.Goff spiked the ball to stop the clock.,1st & 10 at WAS 39
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,6,DET,0,7,0,9 Yard Pass,(1:13) (Shotgun) J.Goff pass short right to K.Raymond to WAS 30 for 9 yards (B.Wagner; J.Chinn).,2nd & 10 at WAS 39
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,6,DET,0,8,0,Pass Incomplete,"(:54) (No Huddle, Shotgun) J.Goff pass incomplete short right to A.St. Brown.",3rd & 1 at WAS 30
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,6,DET,0,9,0,13 Yard Pass,(:51) (Shotgun) J.Goff pass short right to A.St. Brown to WAS 17 for 13 yards (N.Igbinoghene).,4th & 1 at WAS 30
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,6,DET,0,10,0,Pass Incomplete,(:40) (No Huddle) J.Goff spiked the ball to stop the clock.,1st & 10 at WAS 17
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,6,DET,0,11,0,Pass Incomplete,(:39) (Shotgun) J.Goff pass incomplete short left to Ja.Williams.,2nd & 10 at WAS 17
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,6,DET,0,12,0,Interception,(:32) (Shotgun) J.Goff pass short middle intended for T.Patrick INTERCEPTED by J.Chinn at WAS 2. J.Chinn to WAS 9 for 7 yards (A.St. Brown; J.Gibbs).,3rd & 10 at WAS 17
+2024,Divisional Playoffs,SAT,01/18,Commanders,Lions,4TH QUARTER,7,WAS,0,1,0,-1 Yard Run,(:25) J.Daniels kneels to WAS 8 for -1 yards.,1st & 10 at WAS 9
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,1,PHI,1,1,0,Kickoff,E.Evans kicks 61 yards from LAR 35 to PHI 4. I.Rodgers to PHI 26 for 22 yards (J.Hummel).,Kickoff from LAR 35
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,1,PHI,1,2,0,14 Yard Pass,(14:55) J.Hurts pass short left to D.Goedert pushed ob at PHI 40 for 14 yards (C.Rozeboom).,1st & 10 at PHI 26
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,1,PHI,1,3,0,5 Yard Pass,(14:13) (Shotgun) J.Hurts pass short left to D.Smith to PHI 45 for 5 yards (C.Rozeboom).,1st & 10 at PHI 40
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,1,PHI,1,4,0,4 Yard Run,(13:40) (Shotgun) S.Barkley left end to PHI 49 for 4 yards (O.Speights; K.Turner).,2nd & 5 at PHI 45
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,1,PHI,1,5,0,1 Yard Run,"(13:14) (No Huddle, Shotgun) S.Barkley up the middle to 50 for 1 yard (T.Davis).",3rd & 1 at PHI 49
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,1,PHI,1,6,0,6 Yard Pass,"(12:34) (No Huddle, Shotgun) J.Hurts pass short middle to S.Barkley to LAR 44 for 6 yards (C.Rozeboom).",1st & 10 at 50
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,1,PHI,1,7,0,Touchdown Eagles,"(12:04) (No Huddle, Shotgun) J.Hurts right end for 44 yards, TOUCHDOWN.",2nd & 4 at LAR 44
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,1,PHI,1,8,1,Extra Point No Good,"J.Elliott extra point is No Good, Wide Left, Center-R.Lovato, Holder-B.Mann.",XP attempt from LAR 15
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,2,LA,1,1,0,Kickoff,J.Elliott kicks 54 yards from PHI 35 to LAR 11. J.Whittington to LAR 33 for 22 yards (T.McCollum; N.Morrow).,Kickoff from PHI 35
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,2,LA,1,2,0,Pass Incomplete,(11:50) M.Stafford pass incomplete short left to P.Nacua (D.Slay).,1st & 10 at LAR 33
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,2,LA,1,3,0,3 Yard Run,(11:44) K.Williams right guard to LAR 36 for 3 yards (J.Davis).,2nd & 10 at LAR 33
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,2,LA,1,4,0,9 Yard Pass,"(11:04) (Shotgun) M.Stafford pass incomplete short middle to T.Higbee.
+Los Angeles Rams challenged the incomplete pass ruling, and the play was REVERSED.
+(Shotgun) M.Stafford pass short middle to T.Higbee to LAR 45 for 9 yards (D.Slay).",3rd & 7 at LAR 36
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,2,LA,1,5,0,20 Yard Run,(10:50) K.Williams left guard to PHI 35 for 20 yards (Z.Baun).,1st & 10 at LAR 45
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,2,LA,1,6,0,Pass Incomplete,(10:07) M.Stafford pass incomplete short right to T.Higbee.,1st & 10 at PHI 35
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,2,LA,1,7,0,16 Yard Pass,(10:03) (Shotgun) M.Stafford pass short middle to P.Nacua to PHI 19 for 16 yards (C.DeJean) [O.Burks].,2nd & 10 at PHI 35
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,2,LA,1,8,0,4 Yard Pass,(9:23) M.Stafford pass short left to P.Nacua to PHI 15 for 4 yards (R.Blankenship).,1st & 10 at PHI 19
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,2,LA,1,9,0,Pass Incomplete,(8:47) (Shotgun) M.Stafford pass incomplete short left to P.Nacua (Q.Mitchell).,2nd & 6 at PHI 15
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,2,LA,1,10,0,5 Yard Run,(8:44) (Shotgun) M.Stafford scrambles up the middle to PHI 10 for 5 yards (Q.Mitchell).,3rd & 6 at PHI 15
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,2,LA,1,11,0,4 Yard Run,(8:05) K.Williams up the middle to PHI 6 for 4 yards (N.Smith; C.Gardner-Johnson).,4th & 1 at PHI 10
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,2,LA,1,12,0,2 Yard Run,(7:26) K.Williams left end to PHI 4 for 2 yards (C.Gardner-Johnson).,1st & 6 at PHI 6
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,2,LA,1,13,0,Pass Incomplete,(6:39) J.Jackson reported in as eligible.  M.Stafford pass incomplete short middle to D.Robinson (D.Slay).,2nd & 4 at PHI 4
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,2,LA,1,14,0,Touchdown Rams,"(6:36) (Shotgun) M.Stafford pass short left to T.Higbee for 4 yards, TOUCHDOWN.",3rd & 4 at PHI 4
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,2,LA,1,15,1,Extra Point Good,"J.Karty extra point is GOOD, Center-A.Ward, Holder-E.Evans.",XP attempt from PHI 15
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,3,PHI,0,1,0,Kickoff,E.Evans kicks 60 yards from LAR 35 to PHI 5. K.Gainwell to PHI 32 for 27 yards (O.Speights).,Kickoff from LAR 35
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,3,PHI,0,2,0,4 Yard Run,(6:25) (Shotgun) S.Barkley left guard to PHI 36 for 4 yards (O.Speights; K.Curl).,1st & 10 at PHI 32
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,3,PHI,0,3,0,Pass Incomplete,"(5:48) (No Huddle, Shotgun) J.Hurts pass incomplete short middle to A.Brown.",2nd & 6 at PHI 36
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,3,PHI,0,4,0,-9 Yard Sack,(5:44) (Shotgun) J.Hurts sacked at PHI 27 for -9 yards (B.Fiske).,3rd & 6 at PHI 36
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,3,PHI,0,5,0,Punt,"(5:04) B.Mann punts 57 yards to LAR 16, Center-R.Lovato. X.Smith to LAR 34 for 18 yards (J.Trotter).",4th & 15 at PHI 27
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,4,LA,0,1,0,8 Yard Pass,(4:51) M.Stafford pass short middle to T.Higbee to LAR 42 for 8 yards (C.DeJean).,1st & 10 at LAR 34
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,4,LA,0,2,0,-1 Yard Pass,(4:12) M.Stafford pass short left to K.Williams to LAR 41 for -1 yards (O.Burks).,2nd & 2 at LAR 42
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,4,LA,0,3,0,-7 Yard Sack,(3:30) (Shotgun) M.Stafford sacked at LAR 34 for -7 yards (J.Carter).,3rd & 3 at LAR 41
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,4,LA,0,4,0,Punt,"(2:47) E.Evans punts 49 yards to PHI 17, Center-A.Ward. C.DeJean ran ob at PHI 17 for no gain.",4th & 10 at LAR 34
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,5,PHI,1,1,0,15 Yard Penalty,"(2:41) (Shotgun) J.Hurts pass incomplete deep middle to D.Smith (A.Witherspoon).
+PENALTY on LAR-A.Witherspoon, Unnecessary Roughness, 15 yards, enforced at PHI 17 - No Play.",1st & 10 at PHI 17
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,5,PHI,1,2,0,Run for No Gain,(2:34) (Shotgun) J.Hurts right end to PHI 32 for no gain (C.Durant).,1st & 10 at PHI 32
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,5,PHI,1,3,0,6 Yard Pass,(1:49) (Shotgun) J.Hurts pass short right to D.Goedert pushed ob at PHI 38 for 6 yards (K.Kinchens).,2nd & 10 at PHI 32
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,5,PHI,1,4,0,Touchdown Eagles,"(1:17) (No Huddle, Shotgun) S.Barkley right tackle for 62 yards, TOUCHDOWN.",3rd & 4 at PHI 38
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,1ST QUARTER,5,PHI,1,5,1,Extra Point Good,"J.Elliott extra point is GOOD, Center-R.Lovato, Holder-B.Mann.",XP attempt from LAR 15
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,1,LA,1,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the LAR 30.",Kickoff from PHI 35
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,1,LA,1,2,0,3 Yard Run,(1:07) K.Williams up the middle to LAR 33 for 3 yards (O.Burks; J.Carter).,1st & 10 at LAR 30
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,1,LA,1,3,0,48 Yard Pass,(:28) M.Stafford pass deep middle to D.Robinson to PHI 19 for 48 yards (I.Rodgers).,2nd & 7 at LAR 33
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,1,LA,1,4,0,-10 Yard Penalty,"(15:00) (Shotgun) M.Stafford pass incomplete short middle to T.Higbee.
+PENALTY on LAR-R.Havenstein, Offensive Holding, 10 yards, enforced at PHI 19 - No Play.",1st & 10 at PHI 19
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,1,LA,1,5,0,9 Yard Run,(14:54) K.Williams left end to PHI 20 for 9 yards (R.Blankenship; C.DeJean).,1st & 20 at PHI 29
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,1,LA,1,6,0,9 Yard Pass,(14:12) (Shotgun) M.Stafford pass short left to C.Kupp pushed ob at PHI 11 for 9 yards (R.Blankenship).,2nd & 11 at PHI 20
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,1,LA,1,7,0,-1 Yard Run,(13:33) K.Williams left guard to PHI 12 for -1 yards (C.Gardner-Johnson).,3rd & 2 at PHI 11
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,1,LA,1,8,1,Field Goal,"(12:51) J.Karty 30 yard field goal is GOOD, Center-A.Ward, Holder-E.Evans.",4th & 3 at PHI 12
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,2,PHI,0,1,0,Kickoff,E.Evans kicks 66 yards from LAR 35 to PHI -1. K.Gainwell to PHI 43 for 44 yards (J.Wallace; E.Evans).,Kickoff from LAR 35
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,2,PHI,0,2,0,1 Yard Run,(12:36) (Shotgun) S.Barkley left tackle to PHI 44 for 1 yard (D.Williams).,1st & 10 at PHI 43
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,2,PHI,0,3,0,6 Yard Run,(11:50) (Shotgun) J.Hurts scrambles up the middle to 50 for 6 yards (C.Rozeboom).,2nd & 9 at PHI 44
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,2,PHI,0,4,0,5 Yard Pass,(11:10) (Shotgun) J.Hurts pass short middle to A.Brown to LAR 45 for 5 yards (A.Witherspoon).,3rd & 3 at 50
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,2,PHI,0,5,0,6 Yard Run,"(10:45) (No Huddle, Shotgun) J.Hurts left tackle to LAR 39 for 6 yards (K.Curl).",1st & 10 at LAR 45
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,2,PHI,0,6,0,7 Yard Run,"(10:14) (No Huddle, Shotgun) S.Barkley right guard to LAR 32 for 7 yards (K.Thomas; K.Curl).",2nd & 4 at LAR 39
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,2,PHI,0,7,0,2 Yard Run,"(9:47) (No Huddle, Shotgun) S.Barkley up the middle to LAR 30 for 2 yards (K.Thomas).",1st & 10 at LAR 32
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,2,PHI,0,8,0,Pass Incomplete,(9:09) (Shotgun) J.Hurts pass incomplete short right to A.Brown.,2nd & 8 at LAR 30
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,2,PHI,0,9,0,-9 Yard Sack,(9:04) (Shotgun) J.Hurts sacked at LAR 39 for -9 yards (J.Verse).,3rd & 8 at LAR 30
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,2,PHI,0,10,0,Punt,"(8:24) B.Mann punts 32 yards to LAR 7, Center-R.Lovato, downed by PHI-E.Jenkins.",4th & 17 at LAR 39
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,3,LA,0,1,0,8 Yard Run,(8:14) K.Williams up the middle to LAR 15 for 8 yards (O.Burks).,1st & 10 at LAR 7
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,3,LA,0,2,0,20 Yard Pass,(7:36) M.Stafford pass short right to T.Higbee to LAR 35 for 20 yards (Z.Baun).,2nd & 2 at LAR 15
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,3,LA,0,3,0,Pass Incomplete,(6:46) M.Stafford pass incomplete short left to D.Robinson (I.Rodgers).,1st & 10 at LAR 35
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,3,LA,0,4,0,9 Yard Pass,(6:40) (Shotgun) M.Stafford pass short left to P.Nacua to LAR 44 for 9 yards (O.Burks; I.Rodgers).,2nd & 10 at LAR 35
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,3,LA,0,5,0,-2 Yard Run,(6:05) K.Williams up the middle to LAR 42 for -2 yards (J.Sweat).,3rd & 1 at LAR 44
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,3,LA,0,6,0,Punt,"(5:26) E.Evans punts 48 yards to PHI 10, Center-A.Ward. C.DeJean MUFFS catch, and recovers at PHI 9.",4th & 3 at LAR 42
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,4,PHI,0,1,0,2 Yard Run,(5:18) S.Barkley left tackle to PHI 11 for 2 yards (J.Verse).,1st & 10 at PHI 9
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,4,PHI,0,2,0,-5 Yard Penalty,"(4:38) (Shotgun) PENALTY on PHI-J.Mailata, False Start, 5 yards, enforced at PHI 11 - No Play.",2nd & 8 at PHI 11
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,4,PHI,0,3,0,-1 Yard Run,(4:19) (Shotgun) S.Barkley left guard to PHI 5 for -1 yards (K.Turner).,2nd & 13 at PHI 6
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,4,PHI,0,4,0,16 Yard Pass,(3:35) (Shotgun) J.Hurts pass short right to S.Barkley to PHI 21 for 16 yards (K.Kinchens; B.Young).,3rd & 14 at PHI 5
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,4,PHI,0,5,0,10 Yard Pass,"(2:55) (No Huddle, Shotgun) J.Hurts pass short left to K.Gainwell pushed ob at PHI 31 for 10 yards (O.Speights).",1st & 10 at PHI 21
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,4,PHI,0,6,0,10 Yard Run,"(2:19) (No Huddle, Shotgun) K.Gainwell right end to PHI 41 for 10 yards (K.Kinchens).",1st & 10 at PHI 31
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,4,PHI,0,7,0,2 Yard Pass,(2:00) (Shotgun) J.Hurts pass short left to D.Smith to PHI 43 for 2 yards (Q.Lake).,1st & 10 at PHI 41
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,4,PHI,0,8,0,11 Yard Run,"(1:37) (No Huddle, Shotgun) J.Hurts scrambles right end pushed ob at LAR 46 for 11 yards (B.Young).",2nd & 8 at PHI 43
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,4,PHI,0,9,0,9 Yard Run,(1:29) (Shotgun) S.Barkley right guard to LAR 37 for 9 yards (C.Rozeboom; D.Johnson).,1st & 10 at LAR 46
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,4,PHI,0,10,0,Pass Incomplete,"(1:04) (No Huddle, Shotgun) J.Hurts pass incomplete deep right to A.Brown (C.Durant).",2nd & 1 at LAR 37
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,4,PHI,0,11,0,3 Yard Run,(:57) (Shotgun) S.Barkley left guard to LAR 34 for 3 yards (K.Turner).,3rd & 1 at LAR 37
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,4,PHI,0,12,0,2 Yard Pass,"(:35) (No Huddle, Shotgun) J.Hurts pass short middle to S.Barkley to LAR 32 for 2 yards (Q.Lake).",1st & 10 at LAR 34
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,4,PHI,0,13,0,-15 Yard Sack,"(:30) (Shotgun) J.Hurts sacked at LAR 40 for -8 yards (O.Speights). FUMBLES (O.Speights), recovered by PHI-K.Gainwell at LAR 47.",2nd & 8 at LAR 32
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,2ND QUARTER,4,PHI,0,14,0,-8 Yard Sack,(:03) (Shotgun) J.Hurts sacked at PHI 45 for -8 yards (J.Verse).,3rd & 23 at LAR 47
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,1,LA,0,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the LAR 30.",Kickoff from PHI 35
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,1,LA,0,2,0,Pass Incomplete,(15:00) M.Stafford pass incomplete deep left to C.Kupp.,1st & 10 at LAR 30
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,1,LA,0,3,0,2 Yard Run,(14:54) K.Williams right tackle to LAR 32 for 2 yards (C.DeJean; J.Carter).,2nd & 10 at LAR 30
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,1,LA,0,4,0,5 Yard Pass,(14:14) (Shotgun) M.Stafford pass short left to C.Parkinson to LAR 37 for 5 yards (C.Gardner-Johnson).,3rd & 8 at LAR 32
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,1,LA,0,5,0,Punt,"(13:29) E.Evans punts 53 yards to PHI 10, Center-A.Ward. C.DeJean pushed ob at PHI 15 for 5 yards (J.Whittington).",4th & 3 at LAR 37
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,2,PHI,0,1,0,7 Yard Pass,(13:20) (Shotgun) J.Hurts pass short right to D.Smith pushed ob at PHI 22 for 7 yards (Q.Lake; D.Williams).,1st & 10 at PHI 15
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,2,PHI,0,2,0,Run for No Gain,(12:51) (Shotgun) S.Barkley right tackle to PHI 22 for no gain (B.Brown).,2nd & 3 at PHI 22
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,2,PHI,0,3,0,Pass Incomplete,(12:13) (Shotgun) J.Hurts pass incomplete short left to A.Brown.,3rd & 3 at PHI 22
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,2,PHI,0,4,0,Punt,"(12:09) B.Mann punts 55 yards to LAR 23, Center-R.Lovato. X.Smith to LAR 26 for 3 yards (S.Brown).",4th & 3 at PHI 22
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,3,LA,1,1,0,6 Yard Run,(11:59) K.Williams right end to LAR 32 for 6 yards (R.Blankenship).,1st & 10 at LAR 26
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,3,LA,1,2,0,Pass Incomplete,(11:21) M.Stafford pass incomplete deep right to P.Nacua.,2nd & 4 at LAR 32
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,3,LA,1,3,0,30 Yard Pass,(11:16) (Shotgun) M.Stafford pass deep left to C.Kupp to PHI 38 for 30 yards (I.Rodgers).,3rd & 4 at LAR 32
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,3,LA,1,4,0,30 Yard Run,(10:34) K.Williams left guard to PHI 8 for 30 yards (Z.Baun).,1st & 10 at PHI 38
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,3,LA,1,5,0,Run for No Gain,"(9:52) M.Stafford FUMBLES (Aborted) at PHI 13, recovered by LAR-K.Williams at PHI 15.",1st & 8 at PHI 8
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,3,LA,1,6,0,2 Yard Pass,(9:09) (Shotgun) M.Stafford pass short right to T.Higbee to PHI 13 for 2 yards (C.Gardner-Johnson).,2nd & 15 at PHI 15
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,3,LA,1,7,0,-3 Yard Sack,(8:25) (Shotgun) M.Stafford sacked at PHI 16 for -3 yards (J.Hunt).,3rd & 13 at PHI 13
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,3,LA,1,8,1,Field Goal,"(7:41) J.Karty 34 yard field goal is GOOD, Center-A.Ward, Holder-E.Evans.",4th & 16 at PHI 16
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,4,PHI,1,1,0,Kickoff,"E.Evans kicks 65 yards from LAR 35 to end zone, Touchback to the PHI 30.",Kickoff from LAR 35
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,4,PHI,1,2,0,1 Yard Run,(7:37) (Shotgun) S.Barkley right tackle to PHI 31 for 1 yard (M.Hoecht; T.Davis).,1st & 10 at PHI 30
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,4,PHI,1,3,0,4 Yard Run,"(7:05) (No Huddle, Shotgun) J.Hurts scrambles left end ran ob at PHI 35 for 4 yards (C.Rozeboom).",2nd & 9 at PHI 31
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,4,PHI,1,4,0,31 Yard Pass,(6:21) (Shotgun) J.Hurts pass short left to D.Goedert to LAR 34 for 31 yards (J.McCollough).,3rd & 5 at PHI 35
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,4,PHI,1,5,0,5 Yard Pass,(5:42) (No Huddle) J.Hurts pass short middle to D.Goedert to LAR 29 for 5 yards (B.Brown; O.Speights).,1st & 10 at LAR 34
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,4,PHI,1,6,0,7 Yard Run,"(5:05) (No Huddle, Shotgun) S.Barkley left guard to LAR 22 for 7 yards (K.Kinchens).",2nd & 5 at LAR 29
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,4,PHI,1,7,0,Pass Incomplete,"(4:32) (No Huddle, Shotgun) J.Hurts pass incomplete deep left to A.Brown (Q.Lake).",1st & 10 at LAR 22
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,4,PHI,1,8,0,-5 Yard Penalty,"(4:26) (Shotgun) J.Hurts pass short middle to D.Goedert to LAR 3 for 19 yards (M.Hoecht; Q.Lake).
+PENALTY on PHI-M.Becton, Ineligible Downfield Pass, 5 yards, enforced at LAR 22 - No Play.",2nd & 10 at LAR 22
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,4,PHI,1,9,0,-2 Yard Sack,(3:51) (Shotgun) J.Hurts sacked at LAR 29 for -2 yards (J.McCollough).,2nd & 15 at LAR 27
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,4,PHI,1,10,0,3 Yard Run,(3:03) (Shotgun) S.Barkley left tackle to LAR 26 for 3 yards (K.Turner).,3rd & 17 at LAR 29
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,4,PHI,1,11,1,Field Goal,"(2:24) J.Elliott 44 yard field goal is GOOD, Center-R.Lovato, Holder-B.Mann.",4th & 14 at LAR 26
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,5,LA,0,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the LAR 30.",Kickoff from PHI 35
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,5,LA,0,2,0,Pass Incomplete,(2:19) M.Stafford pass incomplete short middle to T.Higbee.,1st & 10 at LAR 30
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,5,LA,0,3,0,8 Yard Run,(2:14) K.Williams right tackle to LAR 38 for 8 yards (R.Blankenship).,2nd & 10 at LAR 30
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,5,LA,0,4,0,Pass Incomplete,(1:30) (Shotgun) M.Stafford pass incomplete short left to P.Nacua.,3rd & 2 at LAR 38
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,5,LA,0,5,0,Punt,"(1:26) E.Evans punts 58 yards to PHI 4, Center-A.Ward, downed by LAR-J.Whittington.",4th & 2 at LAR 38
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,6,LA,1,1,0,4 Yard Run,(1:16) (Shotgun) S.Barkley up the middle to PHI 8 for 4 yards (T.Davis; B.Brown).,1st & 10 at PHI 4
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,3RD QUARTER,6,LA,1,2,1,Safety,"(:32) (Shotgun) J.Hurts sacked in End Zone for -8 yards, SAFETY (N.Gallimore).",2nd & 6 at PHI 8
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,1,LA,0,1,0,Kickoff,J.Elliott kicks 66 yards from PHI 20 to LAR 14. J.Whittington to LAR 35 for 21 yards (J.Trotter).,Kickoff from PHI 20
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,1,LA,0,2,0,8 Yard Run,(:19) K.Williams right end to LAR 43 for 8 yards (R.Blankenship; N.Smith).,1st & 10 at LAR 35
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,1,LA,0,3,0,Fumble,"(15:00) K.Williams left guard to LAR 43 for no gain (J.Carter). FUMBLES (J.Carter), touched at LAR 46, RECOVERED by PHI-I.Rodgers at 50. I.Rodgers pushed ob at LAR 10 for 40 yards (K.Dotson).",2nd & 2 at LAR 43
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,2,PHI,1,1,0,8 Yard Run,(14:49) (Shotgun) S.Barkley right guard to LAR 2 for 8 yards (M.Hoecht; Q.Lake).,1st & 10 at LAR 10
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,2,PHI,1,2,0,Run for No Gain,"(14:17) (No Huddle, Shotgun) S.Barkley right guard to LAR 2 for no gain (C.Rozeboom).",2nd & 2 at LAR 2
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,2,PHI,1,3,0,1 Yard Run,"(13:34) (Shotgun) F.Johnson reported in as eligible.  S.Barkley left tackle for 2 yards, TOUCHDOWN.
+The Replay Official reviewed the runner broke the plane ruling, and the play was REVERSED.
+(Shotgun) F.Johnson reported in as eligible.  S.Barkley left tackle to LAR 1 for 1 yard (O.Speights).",3rd & 2 at LAR 2
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,2,PHI,1,4,0,-4 Yard Penalty,"(13:26) (Run formation) PENALTY on PHI-L.Johnson, False Start, 4 yards, enforced at LAR 1 - No Play.",4th & 1 at LAR 1
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,2,PHI,1,5,1,Field Goal,"(13:26) J.Elliott 23 yard field goal is GOOD, Center-R.Lovato, Holder-B.Mann.",4th & 5 at LAR 5
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,3,LA,0,1,0,Kickoff,J.Elliott kicks 59 yards from PHI 35 to LAR 6. C.Schrader to LAR 29 for 23 yards (N.Morrow; N.Smith).,Kickoff from PHI 35
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,3,LA,0,2,0,4 Yard Run,(13:18) K.Williams left end to LAR 33 for 4 yards (C.DeJean).,1st & 10 at LAR 29
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,3,LA,0,3,0,-3 Yard Run,(12:44) K.Williams right guard to LAR 30 for -3 yards (Z.Baun).,2nd & 6 at LAR 33
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,3,LA,0,4,0,15 Yard Pass,(11:59) (Shotgun) M.Stafford pass short middle to D.Robinson to LAR 45 for 15 yards (D.Slay).,3rd & 9 at LAR 30
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,3,LA,0,5,0,Pass Incomplete,(11:19) M.Stafford pass incomplete short right to K.Williams (J.Carter).,1st & 10 at LAR 45
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,3,LA,0,6,0,Pass Incomplete,"(11:13) (Shotgun) M.Stafford pass incomplete short left to P.Nacua (Z.Baun).
+Penalty on LAR, Illegal Formation, declined.",2nd & 10 at LAR 45
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,3,LA,0,7,0,Fumble,"(11:10) (Shotgun) M.Stafford sacked at LAR 36 for -9 yards (N.Smith). FUMBLES (N.Smith), RECOVERED by PHI-Z.Baun at LAR 38.",3rd & 10 at LAR 45
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,4,PHI,1,1,0,2 Yard Run,(11:04) (Shotgun) S.Barkley up the middle to LAR 36 for 2 yards (K.Turner).,1st & 10 at LAR 38
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,4,PHI,1,2,0,3 Yard Pass,(10:21) (Shotgun) J.Hurts pass short right to S.Barkley to LAR 33 for 3 yards (Q.Lake).,2nd & 8 at LAR 36
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,4,PHI,1,3,0,1 Yard Run,(9:43) (Shotgun) S.Barkley right guard to LAR 32 for 1 yard (B.Brown).,3rd & 5 at LAR 33
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,4,PHI,1,4,0,9 Yard Pass,(8:55) (Shotgun) J.Hurts pass short right to A.Brown to LAR 23 for 9 yards (K.Kinchens).,4th & 4 at LAR 32
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,4,PHI,1,5,0,-1 Yard Run,"(8:24) (No Huddle, Shotgun) S.Barkley right guard to LAR 24 for -1 yards (J.Verse).",1st & 10 at LAR 23
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,4,PHI,1,6,0,7 Yard Pass,(7:48) (Shotgun) J.Hurts pass short left to D.Smith pushed ob at LAR 17 for 7 yards (A.Witherspoon).,2nd & 11 at LAR 24
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,4,PHI,1,7,0,-2 Yard Run,"(7:04) (Shotgun) S.Barkley up the middle to LAR 19 for -2 yards (K.Curl, M.Hoecht).",3rd & 4 at LAR 17
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,4,PHI,1,8,1,Field Goal,"(6:22) J.Elliott 37 yard field goal is GOOD, Center-R.Lovato, Holder-B.Mann.",4th & 6 at LAR 19
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,5,LA,0,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the LAR 30.",Kickoff from PHI 35
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,5,LA,0,2,0,-7 Yard Sack,(6:18) M.Stafford sacked at LAR 23 for -7 yards (M.Ojomo).,1st & 10 at LAR 30
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,5,LA,0,3,0,7 Yard Run,(5:38) (Shotgun) K.Williams right tackle to LAR 30 for 7 yards (O.Burks).,2nd & 17 at LAR 23
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,5,LA,0,4,0,Pass Incomplete,(4:57) (Shotgun) M.Stafford pass incomplete short middle to P.Nacua (O.Burks).,3rd & 10 at LAR 30
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,5,LA,0,5,0,Punt,"(4:54) E.Evans punts 48 yards to PHI 22, Center-A.Ward, out of bounds.",4th & 10 at LAR 30
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,6,PHI,1,1,0,Touchdown Eagles,"(4:47) (Shotgun) S.Barkley left guard for 78 yards, TOUCHDOWN.",1st & 10 at PHI 22
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,6,PHI,1,2,1,Extra Point No Good,"J.Elliott extra point is No Good, Wide Left, Center-R.Lovato, Holder-B.Mann.",XP attempt from LAR 15
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,7,LA,1,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the LAR 30.",Kickoff from PHI 35
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,7,LA,1,2,0,21 Yard Pass,(4:36) (Shotgun) M.Stafford pass short middle to P.Nacua to PHI 49 for 21 yards (Z.Baun; D.Slay).,1st & 10 at LAR 30
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,7,LA,1,3,0,Pass Incomplete,"(4:11) (No Huddle, Shotgun) M.Stafford pass incomplete deep middle to D.Robinson.",1st & 10 at PHI 49
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,7,LA,1,4,0,12 Yard Pass,(4:07) (Shotgun) M.Stafford pass short right to J.Whittington pushed ob at PHI 37 for 12 yards (D.Slay).,2nd & 10 at PHI 49
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,7,LA,1,5,0,Pass Incomplete,"(4:02) (No Huddle, Shotgun) M.Stafford pass incomplete short left to D.Robinson (I.Rodgers).",1st & 10 at PHI 37
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,7,LA,1,6,0,18 Yard Pass,(3:58) (Shotgun) M.Stafford pass deep right to T.Atwell to PHI 19 for 18 yards (D.Slay).,2nd & 10 at PHI 37
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,7,LA,1,7,0,6 Yard Pass,"(3:36) (No Huddle, Shotgun) M.Stafford pass short right to T.Higbee ran ob at PHI 13 for 6 yards.",1st & 10 at PHI 19
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,7,LA,1,8,0,11 Yard Pass,"(3:32) (No Huddle, Shotgun) M.Stafford pass short middle to C.Kupp to PHI 2 for 11 yards (Z.Baun).",2nd & 4 at PHI 13
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,7,LA,1,9,0,-2 Yard Run,(3:14) (No Huddle) K.Williams right tackle to PHI 4 for -2 yards (O.Burks).,1st & 2 at PHI 2
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,7,LA,1,10,0,Pass Incomplete,"(2:55) (No Huddle, Shotgun) M.Stafford pass incomplete short right to T.Higbee.",2nd & 4 at PHI 4
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,7,LA,1,11,0,Touchdown Rams,"(2:51) (Shotgun) M.Stafford pass short middle to C.Parkinson for 4 yards, TOUCHDOWN.",3rd & 4 at PHI 4
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,7,LA,1,12,1,Extra Point Good,"J.Karty extra point is GOOD, Center-A.Ward, Holder-E.Evans.",XP attempt from PHI 15
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,8,PHI,0,1,0,Kickoff,"E.Evans kicks 65 yards from LAR 35 to end zone, Touchback to the PHI 30.",Kickoff from LAR 35
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,8,PHI,0,2,0,3 Yard Run,(2:48) (Shotgun) S.Barkley right guard to PHI 33 for 3 yards (T.Davis).,1st & 10 at PHI 30
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,8,PHI,0,3,0,-12 Yard Sack,(2:44) (Shotgun) J.Hurts sacked at PHI 21 for -12 yards (K.Turner).,2nd & 7 at PHI 33
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,8,PHI,0,4,0,6 Yard Run,(2:39) (Shotgun) S.Barkley right guard to PHI 27 for 6 yards (C.Rozeboom).,3rd & 19 at PHI 21
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,8,PHI,0,5,0,Punt,"(2:35) B.Mann punts 55 yards to LAR 18, Center-R.Lovato, downed by PHI-W.Shipley.",4th & 13 at PHI 27
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,9,LA,0,1,0,5 Yard Pass,(2:23) (Shotgun) M.Stafford pass short right to T.Higbee to LAR 23 for 5 yards (D.Slay).,1st & 10 at LAR 18
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,9,LA,0,2,0,8 Yard Pass,"(2:07) (No Huddle, Shotgun) M.Stafford pass short left to C.Kupp to LAR 31 for 8 yards (I.Rodgers).",2nd & 5 at LAR 23
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,9,LA,0,3,0,Pass Incomplete,(2:00) (Shotgun) M.Stafford pass incomplete deep left to C.Kupp (C.DeJean).,1st & 10 at LAR 31
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,9,LA,0,4,0,Pass Incomplete,"(1:54) (No Huddle, Shotgun) M.Stafford pass incomplete deep middle to P.Nacua (D.Slay).",2nd & 10 at LAR 31
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,9,LA,0,5,0,11 Yard Pass,(1:50) (Shotgun) M.Stafford pass short middle to D.Robinson to LAR 42 for 11 yards (I.Rodgers).,3rd & 10 at LAR 31
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,9,LA,0,6,0,37 Yard Pass,"(1:33) (No Huddle, Shotgun) M.Stafford pass deep right to P.Nacua ran ob at PHI 21 for 37 yards.",1st & 10 at LAR 42
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,9,LA,0,7,0,3 Yard Pass,"(1:25) (No Huddle, Shotgun) M.Stafford pass short left to C.Kupp ran ob at PHI 18 for 3 yards.",1st & 10 at PHI 21
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,9,LA,0,8,0,-5 Yard Penalty,"(1:19) (Shotgun) PENALTY on LAR-K.Dotson, False Start, 5 yards, enforced at PHI 18 - No Play.",2nd & 7 at PHI 18
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,9,LA,0,9,0,10 Yard Pass,(1:19) (Shotgun) M.Stafford pass short right to P.Nacua pushed ob at PHI 13 for 10 yards (C.Gardner-Johnson).,2nd & 12 at PHI 23
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,9,LA,0,10,0,-9 Yard Sack,"(1:14) (No Huddle, Shotgun) M.Stafford sacked at PHI 22 for -9 yards (J.Carter).",3rd & 2 at PHI 13
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,9,LA,0,11,0,Turnover on Downs,(:31) (Shotgun) M.Stafford pass incomplete deep right to P.Nacua [J.Carter].,4th & 11 at PHI 22
+2024,Divisional Playoffs,SUN,01/19,Rams,Eagles,4TH QUARTER,10,PHI,0,1,0,-1 Yard Run,(:26) J.Hurts kneels to PHI 21 for -1 yards.,1st & 10 at PHI 22
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,1,BAL,1,1,0,Kickoff,T.Bass kicks 62 yards from BUF 35 to BAL 3. K.Mitchell to BAL 27 for 24 yards (Do.Williams).,Kickoff from BUF 35
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,1,BAL,1,2,0,1 Yard Run,(14:54) D.Henry left guard to BAL 28 for 1 yard (G.Rousseau).,1st & 10 at BAL 27
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,1,BAL,1,3,0,1 Yard Run,(14:18) (Shotgun) D.Henry left tackle to BAL 29 for 1 yard (A.Epenesa).,2nd & 9 at BAL 28
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,1,BAL,1,4,0,9 Yard Run,(13:37) (Shotgun) L.Jackson scrambles left tackle to BAL 38 for 9 yards (Ta.Johnson).,3rd & 8 at BAL 29
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,1,BAL,1,5,0,Pass Incomplete,(12:54) (Shotgun) L.Jackson pass incomplete short left to D.Henry.,1st & 10 at BAL 38
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,1,BAL,1,6,0,39 Yard Pass,(12:47) (Shotgun) L.Jackson pass deep right to I.Likely to BUF 23 for 39 yards (C.Benford).,2nd & 10 at BAL 38
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,1,BAL,1,7,0,2 Yard Run,(12:00) (Shotgun) D.Henry left tackle to BUF 21 for 2 yards (A.Epenesa; A.Johnson).,1st & 10 at BUF 23
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,1,BAL,1,8,0,5 Yard Pass,(11:15) (Shotgun) L.Jackson pass short right to I.Likely to BUF 16 for 5 yards (Ta.Johnson).,2nd & 8 at BUF 21
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,1,BAL,1,9,0,Touchdown Ravens,"(10:46) (No Huddle, Shotgun) L.Jackson pass short middle to R.Bateman for 16 yards, TOUCHDOWN.",3rd & 3 at BUF 16
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,1,BAL,1,10,1,Extra Point Good,"J.Tucker extra point is GOOD, Center-N.Moore, Holder-J.Stout.",XP attempt from BUF 15
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,2,BUF,1,1,0,Kickoff,"J.Tucker kicks 65 yards from BAL 35 to end zone, Touchback to the BUF 30.",Kickoff from BAL 35
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,2,BUF,1,2,0,Pass Incomplete,(10:40) (Shotgun) J.Allen pass incomplete deep left to M.Hollins.,1st & 10 at BUF 30
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,2,BUF,1,3,0,2 Yard Run,(10:35) (Shotgun) J.Cook up the middle to BUF 32 for 2 yards (T.Jones; N.Madubuike).,2nd & 10 at BUF 30
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,2,BUF,1,4,0,34 Yard Pass,(9:56) (Shotgun) J.Allen pass deep middle to K.Shakir to BAL 34 for 34 yards (B.Stephens).,3rd & 8 at BUF 32
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,2,BUF,1,5,0,8 Yard Run,"(9:28) (No Huddle, Shotgun) Ty.Johnson up the middle to BAL 26 for 8 yards (O.Oweh).",1st & 10 at BAL 34
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,2,BUF,1,6,0,1 Yard Run,(8:51) A.Anderson reported in as eligible.  J.Cook right tackle to BAL 25 for 1 yard (N.Madubuike; C.Board).,2nd & 2 at BAL 26
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,2,BUF,1,7,0,-1 Yard Run,(8:13) (Shotgun) J.Allen up the middle to BAL 26 for -1 yards (T.Robinson).,3rd & 1 at BAL 25
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,2,BUF,1,8,0,7 Yard Run,(7:30) (Shotgun) J.Allen right guard to BAL 19 for 7 yards (N.Madubuike).,4th & 2 at BAL 26
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,2,BUF,1,9,0,8 Yard Run,(6:53) A.Anderson reported in as eligible.  J.Cook left tackle to BAL 11 for 8 yards (A.Washington).,1st & 10 at BAL 19
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,2,BUF,1,10,0,6 Yard Run,(6:10) (Shotgun) J.Cook right guard to BAL 5 for 6 yards (K.Hamilton; M.Humphrey).,2nd & 2 at BAL 11
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,2,BUF,1,11,0,4 Yard Run,(5:28) (Shotgun) J.Cook up the middle to BAL 1 for 4 yards (M.Harrison; M.Pierce).,1st & 5 at BAL 5
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,2,BUF,1,12,0,Touchdown Bills,"(4:46) R.Davis right guard for 1 yard, TOUCHDOWN.",2nd & 1 at BAL 1
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,2,BUF,1,13,1,Extra Point Good,"T.Bass extra point is GOOD, Center-R.Ferguson, Holder-S.Martin.",XP attempt from BAL 15
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,3,BAL,0,1,0,Kickoff,T.Bass kicks 63 yards from BUF 35 to BAL 2. K.Mitchell to BAL 28 for 26 yards (R.Gilliam; Do.Williams).,Kickoff from BUF 35
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,3,BAL,0,2,0,-1 Yard Run,(4:38) (Shotgun) D.Henry right guard to BAL 27 for -1 yards (D.Hamlin).,1st & 10 at BAL 28
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,3,BAL,0,3,0,Interception,(3:59) (Shotgun) L.Jackson pass deep right intended for R.Bateman INTERCEPTED by T.Rapp at BUF 43. T.Rapp ran ob at BUF 43 for no gain (R.Bateman).,2nd & 11 at BAL 27
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,4,BUF,0,1,0,11 Yard Pass,(3:52) (Shotgun) J.Allen pass short middle to D.Kincaid to BAL 46 for 11 yards (M.Harrison).,1st & 10 at BUF 43
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,4,BUF,0,2,0,-1 Yard Run,(3:09) (Shotgun) A.Anderson reported in as eligible.  J.Cook right guard to BAL 47 for -1 yards (T.Robinson).,1st & 10 at BAL 46
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,4,BUF,0,3,0,-10 Yard Penalty,"(2:27) (Shotgun) J.Allen pass short right to C.Samuel to BAL 39 for 8 yards (C.Board; N.Wiggins).
+PENALTY on BUF-D.Dawkins, Offensive Holding, 10 yards, enforced at BAL 47 - No Play.",2nd & 11 at BAL 47
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,4,BUF,0,4,0,5 Yard Penalty,"(2:03) (Shotgun) PENALTY on BAL-O.Oweh, Neutral Zone Infraction, 5 yards, enforced at BUF 43 - No Play.",2nd & 21 at BUF 43
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,4,BUF,0,5,0,Sack,(1:39) (Shotgun) J.Allen sacked at BUF 47 for -1 yards (sack split by K.Van Noy and N.Madubuike).,2nd & 16 at BUF 48
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,4,BUF,0,6,0,Pass Incomplete,(:53) (Shotgun) J.Allen pass incomplete deep right to D.Knox [K.Van Noy].,3rd & 17 at BUF 47
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,1ST QUARTER,4,BUF,0,7,0,Punt,"(:48) S.Martin punts 44 yards to BAL 9, Center-R.Ferguson, fair catch by S.Sims.",4th & 17 at BUF 47
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,1,BAL,0,1,0,10 Yard Run,(:41) D.Henry left guard to BAL 19 for 10 yards (D.Hamlin; T.Rapp).,1st & 10 at BAL 9
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,1,BAL,0,2,0,9 Yard Run,(:02) J.Hill left tackle pushed ob at BAL 28 for 9 yards (C.Benford).,1st & 10 at BAL 19
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,1,BAL,0,3,0,11 Yard Run,(15:00) (Shotgun) J.Hill right tackle to BAL 39 for 11 yards (T.Bernard).,2nd & 1 at BAL 28
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,1,BAL,0,4,0,16 Yard Run,(14:14) (Shotgun) L.Jackson scrambles right tackle to BUF 45 for 16 yards (R.Douglas; M.Milano).,1st & 10 at BAL 39
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,1,BAL,0,5,0,-4 Yard Run,(13:30) L.Jackson right end to BUF 49 for -4 yards (A.Epenesa).,1st & 10 at BUF 45
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,1,BAL,0,6,0,5 Yard Pass,(12:47) (Shotgun) L.Jackson pass short middle to I.Likely to BUF 44 for 5 yards (T.Rapp).,2nd & 14 at BUF 49
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,1,BAL,0,7,0,16 Yard Pass,(12:05) (Shotgun) L.Jackson pass short middle to A.Miller to BUF 28 for 16 yards (Ta.Johnson; C.Benford).,3rd & 9 at BUF 44
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,1,BAL,0,8,0,Pass Incomplete,(11:21) (Shotgun) L.Jackson pass incomplete short left to M.Andrews [M.Milano].,1st & 10 at BUF 28
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,1,BAL,0,9,0,Fumble,"(11:16) (Shotgun) L.Jackson sacked at BUF 34 for -6 yards (D.Hamlin). FUMBLES (D.Hamlin) [D.Hamlin], RECOVERED by BUF-V.Miller at BUF 37. V.Miller to BAL 24 for 39 yards (J.Hill).",2nd & 10 at BUF 28
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,2,BUF,1,1,0,3 Yard Run,(11:05) Ty.Johnson right tackle to BAL 21 for 3 yards (B.Washington).,1st & 10 at BAL 24
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,2,BUF,1,2,0,13 Yard Pass,(10:21) (Shotgun) J.Allen pass short middle to K.Shakir to BAL 8 for 13 yards (M.Humphrey).,2nd & 7 at BAL 21
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,2,BUF,1,3,0,7 Yard Run,(9:45) J.Cook right guard to BAL 1 for 7 yards (K.Hamilton; N.Wiggins).,1st & 8 at BAL 8
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,2,BUF,1,4,0,Touchdown Bills,"(8:54) J.Allen left guard for 1 yard, TOUCHDOWN.",2nd & 1 at BAL 1
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,2,BUF,1,5,1,Extra Point Good,"T.Bass extra point is GOOD, Center-R.Ferguson, Holder-S.Martin.",XP attempt from BAL 15
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,3,BAL,1,1,0,Kickoff,T.Bass kicks 59 yards from BUF 35 to BAL 6. K.Mitchell pushed ob at BAL 35 for 29 yards (C.Benford).,Kickoff from BUF 35
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,3,BAL,1,2,0,11 Yard Run,(8:46) (Shotgun) L.Jackson scrambles right end pushed ob at BAL 46 for 11 yards (E.Oliver).,1st & 10 at BAL 35
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,3,BAL,1,3,0,7 Yard Run,(8:07) D.Henry left guard to BUF 47 for 7 yards (Do.Williams).,1st & 10 at BAL 46
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,3,BAL,1,4,0,2 Yard Run,(7:27) D.Henry left guard to BUF 45 for 2 yards (G.Rousseau; A.Epenesa).,2nd & 3 at BUF 47
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,3,BAL,1,5,0,1 Yard Run,(6:48) Direct snap to M.Andrews.  M.Andrews up the middle to BUF 44 for 1 yard (T.Bernard; J.Phillips).,3rd & 1 at BUF 45
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,3,BAL,1,6,0,42 Yard Pass,(6:05) (Shotgun) L.Jackson pass deep middle to R.Bateman to BUF 2 for 42 yards (R.Douglas).,1st & 10 at BUF 44
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,3,BAL,1,7,0,-1 Yard Run,"(5:22) B.Cleveland reported in as eligible.  D.Henry right guard to BUF 3 for -1 yards (Do.Williams, M.Milano).",1st & 2 at BUF 2
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,3,BAL,1,8,0,-5 Yard Sack,(4:38) R.Stanley reported in as eligible.  L.Jackson sacked at BUF 8 for -5 yards (G.Rousseau).,2nd & 3 at BUF 3
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,3,BAL,1,9,0,Pass Incomplete,(3:52) (Shotgun) L.Jackson pass incomplete short middle to D.Henry (Ta.Johnson) [M.Milano].,3rd & 8 at BUF 8
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,3,BAL,1,10,1,Field Goal,"(3:46) J.Tucker 26 yard field goal is GOOD, Center-N.Moore, Holder-J.Stout.",4th & 8 at BUF 8
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,4,BUF,1,1,0,Kickoff,"J.Stout kicks 65 yards from BAL 35 to end zone, Touchback to the BUF 30.",Kickoff from BAL 35
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,4,BUF,1,2,0,7 Yard Pass,(3:43) (Shotgun) J.Allen pass short right to J.Cook to BUF 37 for 7 yards (M.Harrison).,1st & 10 at BUF 30
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,4,BUF,1,3,0,16 Yard Run,(2:56) A.Anderson reported in as eligible.  R.Davis right tackle pushed ob at BAL 47 for 16 yards (N.Wiggins).,2nd & 3 at BUF 37
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,4,BUF,1,4,0,9 Yard Run,(2:14) R.Davis left guard to BAL 38 for 9 yards (A.Washington; K.Hamilton).,1st & 10 at BAL 47
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,4,BUF,1,5,0,3 Yard Run,(2:00) J.Cook up the middle to BAL 35 for 3 yards (M.Pierce; R.Smith).,2nd & 1 at BAL 38
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,4,BUF,1,6,0,4 Yard Pass,(1:24) (Shotgun) J.Allen pass short left to K.Shakir to BAL 31 for 4 yards (T.Robinson).,1st & 10 at BAL 35
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,4,BUF,1,7,0,1 Yard Run,(1:18) (Shotgun) J.Cook right tackle to BAL 30 for 1 yard (M.Pierce; N.Madubuike).,2nd & 6 at BAL 31
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,4,BUF,1,8,0,18 Yard Penalty,"(1:13) (Shotgun) J.Allen pass incomplete deep left to K.Coleman.
+PENALTY on BAL-T.White, Defensive Pass Interference, 18 yards, enforced at BAL 30 - No Play.",3rd & 5 at BAL 30
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,4,BUF,1,9,0,4 Yard Run,(1:08) J.Cook right tackle to BAL 8 for 4 yards (N.Wiggins).,1st & 10 at BAL 12
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,4,BUF,1,10,0,4 Yard Run,(:28) (Shotgun) J.Allen up the middle to BAL 4 for 4 yards (K.Hamilton).,2nd & 6 at BAL 8
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,4,BUF,1,11,0,Touchdown Bills,"(:20) (Shotgun) J.Allen right guard for 4 yards, TOUCHDOWN.",3rd & 2 at BAL 4
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,4,BUF,1,12,1,Extra Point Good,"T.Bass extra point is GOOD, Center-R.Ferguson, Holder-S.Martin.",XP attempt from BAL 15
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,5,BAL,0,1,0,Kickoff,T.Bass kicks 64 yards from BUF 35 to BAL 1. K.Mitchell to BAL 33 for 32 yards (J.Ingram).,Kickoff from BUF 35
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,2ND QUARTER,5,BAL,0,2,0,-1 Yard Run,(:09) L.Jackson kneels to BAL 32 for -1 yards.,1st & 10 at BAL 33
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,1,BUF,0,1,0,Kickoff,J.Stout kicks 65 yards from BAL 35 to BUF 0. R.Davis to BUF 25 for 25 yards (K.Welch; C.Kolar).,Kickoff from BAL 35
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,1,BUF,0,2,0,1 Yard Run,(14:54) A.Anderson reported in as eligible.  J.Cook right tackle to BUF 26 for 1 yard (M.Harrison).,1st & 10 at BUF 25
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,1,BUF,0,3,0,Pass Incomplete,(14:10) (Shotgun) J.Allen pass incomplete short right to D.Kincaid.,2nd & 9 at BUF 26
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,1,BUF,0,4,0,Pass Incomplete,(14:05) (Shotgun) J.Allen pass incomplete short right [N.Wiggins].,3rd & 9 at BUF 26
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,1,BUF,0,5,0,Punt,"(14:00) S.Martin punts 54 yards to BAL 20, Center-R.Ferguson. S.Sims to BAL 36 for 16 yards (Ty.Johnson).",4th & 9 at BUF 26
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,2,BAL,1,1,0,Pass Incomplete,(13:48) L.Jackson pass incomplete short right to N.Agholor.,1st & 10 at BAL 36
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,2,BAL,1,2,0,5 Yard Pass,(13:45) (Shotgun) L.Jackson pass short right to M.Andrews to BAL 41 for 5 yards (C.Bishop).,2nd & 10 at BAL 36
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,2,BAL,1,3,0,9 Yard Pass,(13:01) (Shotgun) L.Jackson pass short right to M.Andrews pushed ob at 50 for 9 yards (R.Douglas).,3rd & 5 at BAL 41
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,2,BAL,1,4,0,11 Yard Run,"(12:36) (No Huddle, Shotgun) J.Hill right tackle to BUF 39 for 11 yards (C.Bishop; D.Hamlin).",1st & 10 at 50
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,2,BAL,1,5,0,12 Yard Run,(11:57) (Shotgun) D.Henry right tackle to BUF 27 for 12 yards (D.Hamlin).,1st & 10 at BUF 39
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,2,BAL,1,6,0,-2 Yard Run,(11:18) J.Hill left end to BUF 29 for -2 yards (A.Epenesa).,1st & 10 at BUF 27
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,2,BAL,1,7,0,Pass Incomplete,(10:35) (Shotgun) L.Jackson pass incomplete short middle to M.Andrews.,2nd & 12 at BUF 29
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,2,BAL,1,8,0,-5 Yard Penalty,"(10:32) (Shotgun) PENALTY on BAL, Delay of Game, 5 yards, enforced at BUF 29 - No Play.",3rd & 12 at BUF 29
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,2,BAL,1,9,0,5 Yard Pass,(10:32) (Shotgun) L.Jackson pass short left to R.Bateman to BUF 29 for 5 yards (M.Milano).,3rd & 17 at BUF 34
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,2,BAL,1,10,1,Field Goal,"(9:51) J.Tucker 47 yard field goal is GOOD, Center-N.Moore, Holder-J.Stout.",4th & 12 at BUF 29
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,3,BUF,0,1,0,Kickoff,"J.Stout kicks 65 yards from BAL 35 to end zone, Touchback to the BUF 30.",Kickoff from BAL 35
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,3,BUF,0,2,0,3 Yard Pass,(9:47) A.Anderson reported in as eligible.  J.Allen pass short left to J.Cook to BUF 33 for 3 yards (K.Hamilton).,1st & 10 at BUF 30
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,3,BUF,0,3,0,2 Yard Pass,(9:08) (Shotgun) J.Allen pass short right to K.Shakir to BUF 35 for 2 yards (A.Washington).,2nd & 7 at BUF 33
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,3,BUF,0,4,0,8 Yard Pass,(8:28) (Shotgun) J.Allen pass short right to C.Samuel to BUF 43 for 8 yards (N.Wiggins).,3rd & 5 at BUF 35
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,3,BUF,0,5,0,Run for No Gain,(7:44) A.Anderson reported in as eligible.  J.Cook left guard to BUF 43 for no gain (M.Harrison; T.Robinson).,1st & 10 at BUF 43
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,3,BUF,0,6,0,5 Yard Pass,(7:03) (Shotgun) J.Allen pass short middle to K.Shakir to BUF 48 for 5 yards (R.Smith).,2nd & 10 at BUF 43
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,3,BUF,0,7,0,Pass for No Gain,(6:24) (Shotgun) J.Allen pass short left to D.Knox to BUF 48 for no gain (K.Van Noy).,3rd & 5 at BUF 48
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,3,BUF,0,8,0,Punt,"(5:30) S.Martin punts 52 yards to end zone, Center-R.Ferguson, Touchback.",4th & 5 at BUF 48
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,4,BAL,1,1,0,6 Yard Run,(5:21) D.Henry left tackle to BAL 26 for 6 yards (D.Hamlin).,1st & 10 at BAL 20
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,4,BAL,1,2,0,3 Yard Run,(4:45) D.Henry right guard to BAL 29 for 3 yards (E.Oliver; A.Johnson).,2nd & 4 at BAL 26
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,4,BAL,1,3,0,17 Yard Run,(4:09) B.Cleveland and J.Jones reported in as eligible.  D.Henry left guard to BAL 46 for 17 yards (D.Hamlin).,3rd & 1 at BAL 29
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,4,BAL,1,4,0,12 Yard Pass,"(3:24) (Shotgun) L.Jackson pass short left to M.Andrews pushed ob at BUF 42 for 12 yards (R.Douglas).
+Penalty on BUF-R.Douglas, Defensive Holding, declined.",1st & 10 at BAL 46
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,4,BAL,1,5,0,22 Yard Run,(3:01) (Shotgun) J.Hill left guard to BUF 20 for 22 yards (R.Douglas; D.Hamlin).,1st & 10 at BUF 42
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,4,BAL,1,6,0,15 Yard Run,(2:20) D.Henry left tackle to BUF 5 for 15 yards (G.Rousseau).,1st & 10 at BUF 20
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,4,BAL,1,7,0,Touchdown Ravens,"(1:41) D.Henry right guard for 5 yards, TOUCHDOWN.",1st & 5 at BUF 5
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,3RD QUARTER,4,BAL,1,8,1,2PT Conversion Fails,TWO-POINT CONVERSION ATTEMPT. L.Jackson pass to I.Likely is incomplete. ATTEMPT FAILS.,XP attempt from BUF 2
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,1,BUF,1,1,0,Kickoff,"J.Stout kicks 65 yards from BAL 35 to end zone, Touchback to the BUF 30.",Kickoff from BAL 35
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,1,BUF,1,2,0,11 Yard Run,(1:37) A.Anderson reported in as eligible.  J.Cook right tackle to BUF 41 for 11 yards (K.Hamilton).,1st & 10 at BUF 30
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,1,BUF,1,3,0,-1 Yard Run,"(:58) Ty.Johnson left end to BUF 40 for -1 yards (M.Harrison, M.Pierce).",1st & 10 at BUF 41
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,1,BUF,1,4,0,9 Yard Pass,(:20) (Shotgun) J.Allen pass short right to K.Shakir to BUF 49 for 9 yards (M.Humphrey; R.Smith).,2nd & 11 at BUF 40
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,1,BUF,1,5,0,4 Yard Run,(15:00) (Shotgun) Ty.Johnson up the middle to BAL 47 for 4 yards (R.Smith; K.Van Noy).,3rd & 2 at BUF 49
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,1,BUF,1,6,0,5 Yard Pass,(14:17) A.Anderson reported in as eligible.  J.Allen pass short right to J.Cook to BAL 42 for 5 yards (M.Harrison).,1st & 10 at BAL 47
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,1,BUF,1,7,0,7 Yard Run,(13:34) J.Cook left tackle to BAL 35 for 7 yards (K.Hamilton).,2nd & 5 at BAL 42
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,1,BUF,1,8,0,2 Yard Run,(12:53) A.Anderson reported in as eligible.  J.Cook right tackle to BAL 33 for 2 yards (T.Jones).,1st & 10 at BAL 35
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,1,BUF,1,9,0,Pass Incomplete,(12:16) (Shotgun) J.Allen pass incomplete short right to A.Cooper.,2nd & 8 at BAL 33
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,1,BUF,1,10,0,Pass Incomplete,(12:12) (Shotgun) J.Allen pass incomplete short middle to K.Shakir.,3rd & 8 at BAL 33
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,1,BUF,1,11,1,Field Goal,"(12:08) T.Bass 51 yard field goal is GOOD, Center-R.Ferguson, Holder-S.Martin.",4th & 8 at BAL 33
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,2,BAL,0,1,0,Kickoff,"T.Bass kicks 65 yards from BUF 35 to end zone, Touchback to the BAL 30.",Kickoff from BUF 35
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,2,BAL,0,2,0,4 Yard Pass,(12:04) (Shotgun) L.Jackson pass short left to S.Sims to BAL 34 for 4 yards (A.Epenesa; C.Benford).,1st & 10 at BAL 30
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,2,BAL,0,3,0,5 Yard Run,(11:27) (Shotgun) Direct snap to D.Henry.  D.Henry left end to BAL 39 for 5 yards (Da.Jones).,2nd & 6 at BAL 34
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,2,BAL,0,4,0,Run for No Gain,(10:47) D.Henry right guard to BAL 39 for no gain (Da.Jones).,3rd & 1 at BAL 39
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,2,BAL,0,5,0,2 Yard Run,(10:10) Direct snap to M.Andrews.  M.Andrews up the middle to BAL 41 for 2 yards (T.Bernard).,4th & 1 at BAL 39
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,2,BAL,0,6,0,-1 Yard Run,(9:29) (Shotgun) J.Hill up the middle to BAL 40 for -1 yards (E.Oliver).,1st & 10 at BAL 41
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,2,BAL,0,7,0,Fumble,"(8:50) (Shotgun) L.Jackson pass deep middle to M.Andrews to BUF 44 for 16 yards (T.Bernard). FUMBLES (T.Bernard), touched at BUF 44, RECOVERED by BUF-T.Bernard at BUF 46.",2nd & 11 at BAL 40
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,3,BUF,1,1,0,12 Yard Pass,(8:41) (Shotgun) J.Allen pass short left to M.Hollins to BAL 42 for 12 yards (M.Humphrey).,1st & 10 at BUF 46
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,3,BUF,1,2,0,8 Yard Run,"(7:57) R.Davis right guard to BAL 39 for 3 yards (R.Smith; M.Pierce).
+PENALTY on BAL-D.Ojabo, Illegal Use of Hands, 5 yards, enforced at BAL 39.",1st & 10 at BAL 42
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,3,BUF,1,3,0,5 Yard Pass,(7:27) J.Allen pass short left to K.Coleman to BAL 29 for 5 yards (T.White).,1st & 10 at BAL 34
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,3,BUF,1,4,0,8 Yard Pass,(6:49) J.Allen pass short right to Ty.Johnson ran ob at BAL 21 for 8 yards (R.Smith).,2nd & 5 at BAL 29
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,3,BUF,1,5,0,1 Yard Pass,(6:12) (Shotgun) J.Allen pass short left to C.Samuel to BAL 20 for 1 yard (K.Hamilton). BAL-M.Humphrey was injured during the play.,1st & 10 at BAL 21
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,3,BUF,1,6,0,8 Yard Run,(5:32) J.Cook right guard to BAL 12 for 8 yards (N.Madubuike; R.Smith).,2nd & 9 at BAL 20
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,3,BUF,1,7,0,2 Yard Run,(5:09) (No Huddle) J.Allen left guard to BAL 10 for 2 yards (R.Smith).,3rd & 1 at BAL 12
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,3,BUF,1,8,0,3 Yard Run,(4:26) J.Cook up the middle to BAL 7 for 3 yards (K.Hamilton).,1st & 10 at BAL 10
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,3,BUF,1,9,0,5 Yard Run,(4:21) (Shotgun) J.Allen right tackle to BAL 2 for 5 yards (N.Madubuike).,2nd & 7 at BAL 7
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,3,BUF,1,10,0,Run for No Gain,(4:17) (Shotgun) J.Allen up the middle to BAL 2 for no gain (A.Washington; T.Jones).,3rd & 2 at BAL 2
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,3,BUF,1,11,1,Field Goal,"(3:31) T.Bass 21 yard field goal is GOOD, Center-R.Ferguson, Holder-S.Martin.",4th & 2 at BAL 2
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,4,BAL,1,1,0,Kickoff,"T.Bass kicks 66 yards from BUF 35 to BAL -1. K.Mitchell to BAL 32 for 33 yards (J.Andreessen; J.Ingram).
+PENALTY on BAL-C.Board, Offensive Holding, 10 yards, enforced at BAL 22.",Kickoff from BUF 35
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,4,BAL,1,2,0,Pass Incomplete,(3:23) (Shotgun) L.Jackson pass incomplete deep left to I.Likely. BUF-Ta.Johnson was injured during the play.,1st & 10 at BAL 12
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,4,BAL,1,3,0,8 Yard Run,(3:18) (Shotgun) L.Jackson scrambles right end pushed ob at BAL 20 for 8 yards (V.Miller).,2nd & 10 at BAL 12
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,4,BAL,1,4,0,3 Yard Pass,(3:10) (Shotgun) L.Jackson pass short middle to J.Hill to BAL 23 for 3 yards (C.Lewis).,3rd & 2 at BAL 20
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,4,BAL,1,5,0,3 Yard Pass,"(2:47) (No Huddle, Shotgun) L.Jackson pass short middle to R.Bateman to BAL 26 for 3 yards (G.Rousseau). BAL-R.Bateman was injured during the play.",1st & 10 at BAL 23
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,4,BAL,1,6,0,27 Yard Pass,"(2:14) (Shotgun) L.Jackson pass short middle to T.Wallace to BUF 47 for 27 yards (C.Lewis; C.Bishop) [M.Milano]. FUMBLES (C.Lewis), and recovers at BUF 47. ** Injury Update: BUF-Ta.Johnson has returned to the game.",2nd & 7 at BAL 26
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,4,BAL,1,7,0,4 Yard Pass,(2:00) (Shotgun) L.Jackson pass short right to J.Hill pushed ob at BUF 43 for 4 yards (C.Lewis).,1st & 10 at BUF 47
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,4,BAL,1,8,0,19 Yard Pass,(1:52) (Shotgun) L.Jackson pass short right to M.Andrews pushed ob at BUF 24 for 19 yards (R.Douglas).,2nd & 6 at BUF 43
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,4,BAL,1,9,0,Touchdown Ravens,"(1:44) (Shotgun) L.Jackson pass deep middle to I.Likely for 24 yards, TOUCHDOWN.",1st & 10 at BUF 24
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,4,BAL,1,10,1,2PT Conversion Fails,TWO-POINT CONVERSION ATTEMPT. L.Jackson pass to M.Andrews is incomplete. ATTEMPT FAILS. ** Injury Update: BAL-R.Bateman has returned to the game.,XP attempt from BUF 2
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,5,BUF,0,1,0,Kickoff,J.Tucker kicks onside 12 yards from BAL 35 to BAL 47. R.Douglas (didn't try to advance) to BAL 47 for no gain. ** Injury Update: BAL-C.Kolar has returned to the game.,Kickoff from BAL 35
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,5,BUF,0,2,0,17 Yard Run,(1:32) A.Anderson reported in as eligible.  Ty.Johnson right guard to BAL 30 for 17 yards.,1st & 10 at BAL 47
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,5,BUF,0,3,0,-1 Yard Run,(1:18) J.Allen kneels to BAL 31 for -1 yards.,1st & 10 at BAL 30
+2024,Divisional Playoffs,SUN,01/19,Ravens,Bills,4TH QUARTER,5,BUF,0,4,0,-1 Yard Run,(:38) J.Allen kneels to BAL 32 for -1 yards.,2nd & 11 at BAL 31
