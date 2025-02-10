@@ -90,19 +90,22 @@ class NflScraper:
         # - The webelement targeted here is the first game. If that webelement fully loads, then the year selected has rendered.
         # wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div/div/div/div[2]/div/div[3]"))) # NFL_Scraper 1.0
         # wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[4]/main/div/div/div/div[2]/div/div/div[2]/div/div[4]"))) # NFL_Scraper 1.1
-        wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[4]/main/div/div/div/div[2]/div/div/div[2]/div/div[3]"))) # NFL_Scraper 1.11
+        # wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[4]/main/div/div/div/div[2]/div/div/div[2]/div/div[3]"))) # NFL_Scraper 1.11
+        wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div[2]/div/div/div[2]/div/div[3]"))) # NFL_Scraper 1.12
         wait.until(dropdown_search_and_select((By.ID, "Week"), chosen_week))
 
         # grabbing webelement containing text of which week the page is on
         week_check = wait.until(
           # EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div/div/div/div/div/div/div")) # NFL_Scraper 1.0
-          EC.presence_of_element_located((By.XPATH, "/html/body/div[4]/main/div/div/div/div[2]/div/div/div/div/div/div")) # NFL_Scraper 1.1
+          # EC.presence_of_element_located((By.XPATH, "/html/body/div[4]/main/div/div/div/div[2]/div/div/div/div/div/div")) # NFL_Scraper 1.1
+          EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div[2]/div/div/div/div/div/div")) # NFL_Scraper 1.12
         )
 
         # double check to be sure that the users "chosen_week" matches the page
         if(" ".join(week_check.text.split()[2::]) == chosen_week):
           # After the correct page has been selected (for a fact), this next step is to make sure the DOM renders completely before moving on.
-          wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[4]/main/div/div/div/div[2]/div/div/div[2]/div/div[3]"))) # NFL_Scraper 1.11
+          # wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[4]/main/div/div/div/div[2]/div/div/div[2]/div/div[3]"))) # NFL_Scraper 1.11
+          wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div[2]/div/div/div[2]/div/div[3]"))) # NFL_Scraper 1.12
           return
         else:
           return self.select_year_and_week(self.driver, chosen_year, chosen_week, max_attempts - 1)
@@ -204,7 +207,8 @@ class NflScraper:
     shared_classname_webelement = wait.until(
         # /html/body/div[4]/main/div/div/div/div[2]/div/div/div
         # EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div/div/div/div")) # NFL_Scraper 1.0
-        EC.presence_of_element_located((By.XPATH, "/html/body/div[4]/main/div/div/div/div[2]/div/div/div")) # NFL_Scraper 1.1
+        # EC.presence_of_element_located((By.XPATH, "/html/body/div[4]/main/div/div/div/div[2]/div/div/div")) # NFL_Scraper 1.1
+        EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div[2]/div/div/div")) # NFL_Scraper 1.12
     )
 
     # the shared classname for all desired webelements
@@ -216,7 +220,8 @@ class NflScraper:
         num_score_elements = 4
     elif chosen_week in ["Conference Championships"]:
         num_score_elements = 5
-    elif chosen_week in ["Divisional Playoffs", "Wild Card Weekend"]:
+    # elif chosen_week in ["Divisional Playoffs", "Wild Card Weekend"]:
+    elif chosen_week in ["Divisional Playoffs", "Wild Card"]: # NFL_Scraper 1.12
         num_score_elements = 7
 
     # A measure to ensure that all games (webelements) were captured
