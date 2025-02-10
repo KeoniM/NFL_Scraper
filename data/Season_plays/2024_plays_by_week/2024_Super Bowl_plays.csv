@@ -1,0 +1,174 @@
+Season,Week,Day,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayDescription,PlayStart
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,1,PHI,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback to the PHI 30.",Kickoff from KC 35
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,1,PHI,0,2,0,4 Yard Run,(15:00) (Shotgun) S.Barkley left tackle to PHI 34 for 4 yards (B.Cook).,1st & 10 at PHI 30
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,1,PHI,0,3,0,8 Yard Pass,(14:19) (Shotgun) J.Hurts pass short right to D.Smith pushed ob at PHI 42 for 8 yards (J.Reid).,2nd & 6 at PHI 34
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,1,PHI,0,4,0,3 Yard Run,(13:38) (Shotgun) S.Barkley right end to PHI 45 for 3 yards (J.Reid; N.Bolton).,1st & 10 at PHI 42
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,1,PHI,0,5,0,-4 Yard Pass,(12:57) (Shotgun) J.Hurts pass short left to S.Barkley to PHI 41 for -4 yards (N.Bolton).,2nd & 7 at PHI 45
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,1,PHI,0,6,0,9 Yard Run,"(12:26) (No Huddle, Shotgun) J.Hurts scrambles right guard pushed ob at 50 for 9 yards (B.Cook).",3rd & 11 at PHI 41
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,1,PHI,0,7,0,-10 Yard Penalty,"(11:41) (Shotgun) J.Hurts pass deep right to A.Brown ran ob at KC 18 for 32 yards.
+PENALTY on PHI-A.Brown, Offensive Pass Interference, 10 yards, enforced at 50 - No Play.",4th & 2 at 50
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,1,PHI,0,8,0,Punt,"(11:35) B.Mann punts 53 yards to KC 7, Center-R.Lovato. N.Remigio to KC 12 for 5 yards (W.Shipley; R.Lovato).",4th & 12 at PHI 40
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,2,KC,0,1,0,11 Yard Pass,(11:21) (Shotgun) P.Mahomes pass short right to J.Smith-Schuster to KC 23 for 11 yards (C.Gardner-Johnson; R.Blankenship).,1st & 10 at KC 12
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,2,KC,0,2,0,1 Yard Pass,(10:41) (Shotgun) P.Mahomes pass short left to X.Worthy to KC 24 for 1 yard (C.DeJean).,1st & 10 at KC 23
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,2,KC,0,3,0,Pass Incomplete,(10:07) (Shotgun) P.Mahomes pass incomplete short middle to T.Kelce.,2nd & 9 at KC 24
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,2,KC,0,4,0,Pass Incomplete,(10:03) (Shotgun) P.Mahomes pass incomplete short right to M.Brown (I.Rodgers) [J.Carter].,3rd & 9 at KC 24
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,2,KC,0,5,0,Punt,"(9:52) M.Araiza punts 58 yards to PHI 18, Center-J.Winchester. C.DeJean pushed ob at PHI 31 for 13 yards (J.Hicks).",4th & 9 at KC 24
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,3,PHI,1,1,0,2 Yard Run,(9:40) S.Barkley left guard to PHI 33 for 2 yards (L.Chenal; D.Nnadi).,1st & 10 at PHI 31
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,3,PHI,1,2,0,20 Yard Pass,(9:04) (Shotgun) J.Hurts pass short left to D.Goedert to KC 47 for 20 yards (J.Hicks).,2nd & 8 at PHI 33
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,3,PHI,1,3,0,3 Yard Run,"(8:30) (No Huddle, Shotgun) S.Barkley right end to KC 44 for 3 yards (M.Danna; C.Conner).",1st & 10 at KC 47
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,3,PHI,1,4,0,2 Yard Run,"(7:55) (No Huddle, Shotgun) S.Barkley up the middle to KC 42 for 2 yards (T.Wharton).",2nd & 7 at KC 44
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,3,PHI,1,5,0,15 Yard Penalty,"(7:24) (No Huddle, Shotgun) J.Hurts pass incomplete short right to D.Goedert.
+PENALTY on KC-T.McDuffie, Unnecessary Roughness, 15 yards, enforced at KC 42 - No Play.",3rd & 5 at KC 42
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,3,PHI,1,6,0,-1 Yard Run,(7:20) (Shotgun) S.Barkley left tackle to KC 28 for -1 yards (F.Anudike-Uzomah).,1st & 10 at KC 27
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,3,PHI,1,7,0,27 Yard Pass,"(6:37) (Shotgun) J.Hurts pass deep right to J.Dotson for 28 yards, TOUCHDOWN.
+The Replay Official reviewed the runner broke the plane ruling, and the play was REVERSED.
+(Shotgun) J.Hurts pass deep right to J.Dotson to KC 1 for 27 yards (J.Watson).",2nd & 11 at KC 28
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,3,PHI,1,8,0,Touchdown Eagles,"(6:18) J.Hurts up the middle for 1 yard, TOUCHDOWN.",1st & 1 at KC 1
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,3,PHI,1,9,1,Extra Point Good,"J.Elliott extra point is GOOD, Center-R.Lovato, Holder-B.Mann.",XP attempt from KC 15
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,4,KC,0,1,0,Kickoff,J.Elliott kicks 67 yards from PHI 35 to KC -2. N.Remigio to KC 33 for 35 yards (K.Gainwell).,Kickoff from PHI 35
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,4,KC,0,2,0,5 Yard Pass,(6:08) (Shotgun) P.Mahomes pass short middle to J.Smith-Schuster to KC 38 for 5 yards (R.Blankenship).,1st & 10 at KC 33
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,4,KC,0,3,0,2 Yard Run,(5:29) (Shotgun) K.Hunt up the middle to KC 40 for 2 yards (Z.Baun; J.Sweat).,2nd & 5 at KC 38
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,4,KC,0,4,0,Pass Incomplete,(4:49) (Shotgun) P.Mahomes pass incomplete short right to M.Brown [N.Smith].,3rd & 3 at KC 40
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,1ST QUARTER,4,KC,0,5,0,Punt,"(4:44) M.Araiza punts 60 yards to end zone, Center-J.Winchester, Touchback.",4th & 3 at KC 40
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,1,PHI,0,1,0,Pass Incomplete,(4:36) J.Hurts pass incomplete short right to J.Wilson.,1st & 10 at PHI 20
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,1,PHI,0,2,0,2 Yard Run,"(4:28) (No Huddle, Shotgun) S.Barkley up the middle to PHI 22 for 2 yards (J.Reid; M.Pennel).",2nd & 10 at PHI 20
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,1,PHI,0,3,0,9 Yard Pass,(3:47) (Shotgun) J.Hurts pass short left to D.Smith to PHI 31 for 9 yards (T.McDuffie).,3rd & 8 at PHI 22
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,1,PHI,0,4,0,15 Yard Pass,"(3:20) (No Huddle, Shotgun) J.Hurts pass short left to J.Dotson pushed ob at PHI 46 for 15 yards (D.Tranquill).",1st & 10 at PHI 31
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,1,PHI,0,5,0,9 Yard Run,"(2:48) (No Huddle, Shotgun) J.Hurts right guard to KC 45 for 9 yards (B.Cook).",1st & 10 at PHI 46
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,1,PHI,0,6,0,4 Yard Run,"(2:19) (No Huddle, Shotgun) S.Barkley right guard to KC 41 for 4 yards (D.Tranquill).",2nd & 1 at KC 45
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,1,PHI,0,7,0,4 Yard Run,"(1:51) (No Huddle, Shotgun) K.Gainwell right guard to KC 37 for 4 yards (N.Bolton; F.Anudike-Uzomah).",1st & 10 at KC 41
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,1,PHI,0,8,0,2 Yard Run,"(1:12) (No Huddle, Shotgun) K.Gainwell up the middle to KC 35 for 2 yards (T.Wharton).",2nd & 6 at KC 37
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,1,PHI,0,9,0,5 Yard Penalty,"(:39) (No Huddle, Shotgun) J.Hurts sacked at KC 45 for -10 yards (G.Karlaftis).
+PENALTY on KC-C.Omenihu, Defensive Offside, 5 yards, enforced at KC 35 - No Play.",3rd & 4 at KC 35
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,1,PHI,0,10,0,-4 Yard Run,(:08) (Shotgun) J.Hurts left end to KC 34 for -4 yards (C.Conner).,1st & 10 at KC 30
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,1,PHI,0,11,0,4 Yard Pass,(15:00) (Shotgun) J.Hurts pass short right to S.Barkley to KC 30 for 4 yards (N.Bolton; G.Karlaftis).,2nd & 14 at KC 34
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,1,PHI,0,12,0,Interception,"(14:21) (No Huddle, Shotgun) J.Hurts pass deep right intended for A.Brown INTERCEPTED by B.Cook at KC 2. B.Cook ran ob at KC 2 for no gain.",3rd & 10 at KC 30
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,2,KC,0,1,0,2 Yard Pass,(14:15) (Shotgun) P.Mahomes pass short left to N.Gray to KC 4 for 2 yards (Q.Mitchell).,1st & 10 at KC 2
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,2,KC,0,2,0,5 Yard Pass,(13:38) (Shotgun) P.Mahomes pass short right to K.Hunt to KC 9 for 5 yards (M.Williams; J.Sweat).,2nd & 8 at KC 4
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,2,KC,0,3,0,Pass Incomplete,(12:53) (Shotgun) P.Mahomes pass incomplete short right to T.Kelce.,3rd & 3 at KC 9
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,2,KC,0,4,0,Punt,"(12:50) M.Araiza punts 54 yards to PHI 37, Center-J.Winchester. C.DeJean to PHI 43 for 6 yards (J.Williams).",4th & 3 at KC 9
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,3,PHI,1,1,0,-1 Yard Run,(12:37) (Shotgun) S.Barkley left guard to PHI 42 for -1 yards (D.Tranquill).,1st & 10 at PHI 43
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,3,PHI,1,2,0,4 Yard Run,(11:56) (Shotgun) J.Hurts scrambles right end ran ob at PHI 46 for 4 yards (D.Tranquill).,2nd & 11 at PHI 42
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,3,PHI,1,3,0,22 Yard Pass,(11:11) (Shotgun) J.Hurts pass deep right to A.Brown pushed ob at KC 32 for 22 yards (T.McDuffie).,3rd & 7 at PHI 46
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,3,PHI,1,4,0,2 Yard Run,"(10:48) (No Huddle, Shotgun) S.Barkley right tackle to KC 30 for 2 yards (D.Tranquill; M.Pennel).",1st & 10 at KC 32
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,3,PHI,1,5,0,3 Yard Pass,"(10:15) (No Huddle, Shotgun) J.Hurts pass short left to S.Barkley to KC 27 for 3 yards (J.Hicks).",2nd & 8 at KC 30
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,3,PHI,1,6,0,2 Yard Run,(9:34) (Shotgun) J.Hurts left end to KC 25 for 2 yards (J.Reid).,3rd & 5 at KC 27
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,3,PHI,1,7,1,Field Goal,"(8:42) J.Elliott 48 yard field goal is GOOD, Center-R.Lovato, Holder-B.Mann.",4th & 8 at KC 30
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,4,PHI,1,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the KC 30.",Kickoff from PHI 35
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,4,PHI,1,2,0,-4 Yard Sack,(8:38) (Shotgun) P.Mahomes sacked at KC 26 for -4 yards (J.Sweat).,1st & 10 at KC 30
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,4,PHI,1,3,0,Sack,(7:58) (Shotgun) P.Mahomes sacked at KC 24 for -2 yards (sack split by J.Hunt and J.Sweat).,2nd & 14 at KC 26
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,4,PHI,1,4,1,Touchdown Eagles,"(7:16) (Shotgun) P.Mahomes pass short right intended for D.Hopkins INTERCEPTED by C.DeJean at KC 38. C.DeJean for 38 yards, TOUCHDOWN.",3rd & 16 at KC 24
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,5,KC,0,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the KC 30.",Kickoff from PHI 35
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,5,KC,0,2,0,-2 Yard Run,(7:03) (Shotgun) I.Pacheco up the middle to KC 28 for -2 yards (M.Ojomo).,1st & 10 at KC 30
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,5,KC,0,3,0,3 Yard Run,(6:27) (Shotgun) I.Pacheco right guard to KC 31 for 3 yards (O.Burks).,2nd & 12 at KC 28
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,5,KC,0,4,0,-7 Yard Sack,(5:46) (Shotgun) P.Mahomes sacked at KC 24 for -7 yards (M.Williams).,3rd & 9 at KC 31
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,5,KC,0,5,0,Punt,"(4:57) M.Araiza punts 42 yards to PHI 34, Center-J.Winchester, fair catch by C.DeJean.",4th & 16 at KC 24
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,6,PHI,0,1,0,9 Yard Run,(4:49) (Shotgun) S.Barkley right tackle to PHI 43 for 9 yards (M.Pennel).,1st & 10 at PHI 34
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,6,PHI,0,2,0,2 Yard Run,"(4:20) (No Huddle, Shotgun) J.Hurts right guard to PHI 45 for 2 yards (D.Tranquill; N.Bolton).",2nd & 1 at PHI 43
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,6,PHI,0,3,0,-10 Yard Penalty,"(3:35) (Shotgun) S.Barkley left guard to PHI 48 for 3 yards (D.Tranquill).
+PENALTY on PHI-L.Dickerson, Offensive Holding, 10 yards, enforced at PHI 45 - No Play.",1st & 10 at PHI 45
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,6,PHI,0,4,0,-6 Yard Sack,(3:07) (Shotgun) J.Hurts sacked at PHI 29 for -6 yards (G.Karlaftis).,1st & 20 at PHI 35
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,6,PHI,0,5,0,Pass Incomplete,"(2:28) (No Huddle, Shotgun) J.Hurts pass incomplete short left to S.Barkley.
+PENALTY on KC-N.Bolton, Unnecessary Roughness, 15 yards, enforced at PHI 29.",2nd & 26 at PHI 29
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,6,PHI,0,6,0,Run for No Gain,(2:25) (Shotgun) K.Gainwell left end pushed ob at PHI 44 for no gain (N.Bolton).,1st & 10 at PHI 44
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,6,PHI,0,7,0,7 Yard Pass,(2:15) (Shotgun) J.Hurts pass short left to D.Goedert ran ob at KC 49 for 7 yards [C.Jones].,2nd & 10 at PHI 44
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,6,PHI,0,8,0,Pass Incomplete,(2:00) (Shotgun) J.Hurts pass incomplete deep left to A.Brown.,3rd & 3 at KC 49
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,6,PHI,0,9,0,Punt,"(1:56) B.Mann punts 43 yards to KC 6, Center-R.Lovato, out of bounds.",4th & 3 at KC 49
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,7,KC,0,1,0,Interception,(1:49) (Shotgun) P.Mahomes pass short middle intended for M.Brown INTERCEPTED by Z.Baun at KC 14. Z.Baun to KC 14 for no gain.,1st & 10 at KC 6
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,8,PHI,1,1,0,2 Yard Run,(1:45) (Shotgun) J.Hurts right tackle to KC 12 for 2 yards (C.Omenihu; D.Tranquill).,1st & 10 at KC 14
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,8,PHI,1,2,0,Touchdown Eagles,"(1:40) (Shotgun) J.Hurts pass short left to A.Brown for 12 yards, TOUCHDOWN.",2nd & 8 at KC 12
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,8,PHI,1,3,1,Extra Point Good,"J.Elliott extra point is GOOD, Center-R.Lovato, Holder-B.Mann.",XP attempt from KC 15
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,9,KC,0,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the KC 30.",Kickoff from PHI 35
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,9,KC,0,2,0,-10 Yard Penalty,"(1:35) (Shotgun) P.Mahomes scrambles right tackle to KC 39 for 9 yards (M.Williams).
+PENALTY on KC-T.Smith, Offensive Holding, 10 yards, enforced at KC 30 - No Play.",1st & 10 at KC 30
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,9,KC,0,3,0,Pass Incomplete,"(1:27) (Shotgun) P.Mahomes pass incomplete short middle to S.Perine [N.Smith].
+Penalty on KC-C.Humphrey, Ineligible Downfield Pass, declined.",1st & 20 at KC 20
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,9,KC,0,4,0,9 Yard Pass,(1:23) (Shotgun) P.Mahomes pass short middle to M.Brown to KC 29 for 9 yards (C.Gardner-Johnson).,2nd & 20 at KC 20
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,9,KC,0,5,0,Pass Incomplete,(:40) (Shotgun) P.Mahomes pass incomplete deep right to D.Hopkins.,3rd & 11 at KC 29
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,9,KC,0,6,0,Punt,"(:34) M.Araiza punts 42 yards to PHI 29, Center-J.Winchester. C.DeJean to PHI 37 for 8 yards (S.Bozeman).",4th & 11 at KC 29
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,2ND QUARTER,10,PHI,0,1,0,2 Yard Run,(:25) (Shotgun) S.Barkley right guard to PHI 39 for 2 yards (C.Conner; T.Wharton).,1st & 10 at PHI 37
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,1,KC,0,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the KC 30.",Kickoff from PHI 35
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,1,KC,0,2,0,6 Yard Run,(15:00) (Shotgun) I.Pacheco right tackle to KC 36 for 6 yards (O.Burks).,1st & 10 at KC 30
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,1,KC,0,3,0,8 Yard Pass,"(14:39) (No Huddle, Shotgun) P.Mahomes pass short left to X.Worthy pushed ob at KC 44 for 8 yards (Z.Baun).",2nd & 4 at KC 36
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,1,KC,0,4,0,-1 Yard Sack,"(14:18) (No Huddle, Shotgun) P.Mahomes sacked at KC 43 for -1 yards (J.Davis).",1st & 10 at KC 44
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,1,KC,0,5,0,-6 Yard Sack,(13:38) (Shotgun) P.Mahomes sacked at KC 37 for -6 yards (J.Sweat).,2nd & 11 at KC 43
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,1,KC,0,6,0,8 Yard Run,(12:52) (Shotgun) P.Mahomes scrambles right end to KC 45 for 8 yards (C.Gardner-Johnson; Z.Baun).,3rd & 17 at KC 37
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,1,KC,0,7,0,Punt,"(12:09) M.Araiza punts 55 yards to end zone, Center-J.Winchester, Touchback.",4th & 9 at KC 45
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,2,PHI,1,1,0,4 Yard Pass,(12:00) (Shotgun) J.Hurts pass short right to S.Barkley to PHI 24 for 4 yards (L.Chenal).,1st & 10 at PHI 20
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,2,PHI,1,2,0,1 Yard Run,(11:23) (Shotgun) S.Barkley right guard to PHI 25 for 1 yard (G.Karlaftis).,2nd & 6 at PHI 24
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,2,PHI,1,3,0,16 Yard Run,(10:42) (Shotgun) J.Hurts scrambles left tackle to PHI 41 for 16 yards (L.Chenal).,3rd & 5 at PHI 25
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,2,PHI,1,4,0,6 Yard Pass,(9:58) (Shotgun) J.Hurts pass short right to D.Smith to PHI 47 for 6 yards (J.Reid).,1st & 10 at PHI 41
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,2,PHI,1,5,0,10 Yard Run,"(9:23) (No Huddle, Shotgun) S.Barkley left guard to KC 43 for 10 yards (N.Bolton).",2nd & 4 at PHI 47
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,2,PHI,1,6,0,3 Yard Run,(8:41) S.Barkley right end to KC 40 for 3 yards (D.Tranquill; T.McDuffie).,1st & 10 at KC 43
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,2,PHI,1,7,0,14 Yard Run,(7:58) (Shotgun) J.Hurts scrambles up the middle to KC 26 for 14 yards (J.Hicks; C.Conner).,2nd & 7 at KC 40
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,2,PHI,1,8,0,22 Yard Pass,"(7:26) (No Huddle, Shotgun) J.Hurts pass deep right to S.Barkley to KC 4 for 22 yards (D.Tranquill).",1st & 10 at KC 26
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,2,PHI,1,9,0,-3 Yard Run,"(6:47) (No Huddle, Shotgun) S.Barkley up the middle to KC 7 for -3 yards (C.Conner).",1st & 4 at KC 4
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,2,PHI,1,10,0,1 Yard Run,(6:04) (Shotgun) S.Barkley right guard to KC 6 for 1 yard (J.Reid). KC-C.Jones was injured during the play.,2nd & 7 at KC 7
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,2,PHI,1,11,0,Pass Incomplete,(5:31) (Shotgun) J.Hurts pass incomplete short right to D.Smith.,3rd & 6 at KC 6
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,2,PHI,1,12,1,Field Goal,"(5:22) J.Elliott 29 yard field goal is GOOD, Center-R.Lovato, Holder-B.Mann.",4th & 11 at KC 11
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,3,KC,0,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the KC 30.",Kickoff from PHI 35
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,3,KC,0,2,0,11 Yard Pass,(5:18) (Shotgun) P.Mahomes pass short right to D.Hopkins to KC 41 for 11 yards (O.Burks; R.Blankenship).,1st & 10 at KC 30
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,3,KC,0,3,0,6 Yard Run,"(4:58) (No Huddle, Shotgun) C.Humphrey to KC 36 for -5 yards. FUMBLES, recovered by KC-P.Mahomes at KC 36. P.Mahomes to KC 37 for 1 yard. Handoff to K.Hunt to KC 47 for 10 yards (J.Davis).",1st & 10 at KC 41
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,3,KC,0,4,0,-10 Yard Penalty,"(4:25) (Shotgun) P.Mahomes scrambles up the middle to PHI 47 for 6 yards (O.Burks; J.Carter). FUMBLES (O.Burks), and recovers at PHI 47.
+PENALTY on KC-J.Taylor, Offensive Holding, 10 yards, enforced at KC 47 - No Play.",2nd & 4 at KC 47
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,3,KC,0,5,0,1 Yard Run,(4:04) (Shotgun) K.Hunt right guard to KC 38 for 1 yard (Z.Baun; J.Sweat).,2nd & 14 at KC 37
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,3,KC,0,6,0,9 Yard Pass,(3:32) (Shotgun) P.Mahomes pass short middle to T.Kelce to KC 47 for 9 yards (Z.Baun).,3rd & 13 at KC 38
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,3,KC,0,7,0,Turnover on Downs,(2:50) (Shotgun) P.Mahomes pass incomplete short right to D.Hopkins (A.Maddox).,4th & 4 at KC 47
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,4,PHI,1,1,0,Touchdown Eagles,"(2:47) (Shotgun) J.Hurts pass deep middle to D.Smith for 46 yards, TOUCHDOWN.",1st & 10 at KC 46
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,4,PHI,1,2,1,Extra Point Good,"J.Elliott extra point is GOOD, Center-R.Lovato, Holder-B.Mann.",XP attempt from KC 15
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,5,KC,1,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to KC 0. N.Remigio to KC 29 for 29 yards (K.Gainwell).
+PENALTY on KC-J.Hicks, Illegal Block Above the Waist, 10 yards, enforced at KC 20.",Kickoff from PHI 35
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,5,KC,1,2,0,50 Yard Pass,(2:33) (Shotgun) P.Mahomes pass deep right to X.Worthy to PHI 40 for 50 yards (C.DeJean).,1st & 10 at KC 10
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,5,KC,1,3,0,Pass Incomplete,"(2:03) (No Huddle, Shotgun) P.Mahomes pass incomplete short right to I.Pacheco.",1st & 10 at PHI 40
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,5,KC,1,4,0,3 Yard Run,(1:58) (Shotgun) P.Mahomes scrambles up the middle to PHI 37 for 3 yards (J.Hunt).,2nd & 10 at PHI 40
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,5,KC,1,5,0,13 Yard Pass,(1:25) (Shotgun) P.Mahomes pass short middle to T.Kelce to PHI 24 for 13 yards (C.DeJean).,3rd & 7 at PHI 37
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,5,KC,1,6,0,Touchdown Chiefs,"(:43) P.Mahomes pass deep right to X.Worthy for 24 yards, TOUCHDOWN.",1st & 10 at PHI 24
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,3RD QUARTER,5,KC,1,7,1,2PT Conversion Fails,TWO-POINT CONVERSION ATTEMPT. P.Mahomes pass to T.Kelce is incomplete. ATTEMPT FAILS.,XP attempt from PHI 2
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,1,PHI,1,1,0,Kickoff,H.Butker kicks 60 yards from KC 35 to PHI 5. W.Shipley pushed ob at PHI 30 for 25 yards (S.Bozeman; B.Cook).,Kickoff from KC 35
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,1,PHI,1,2,0,4 Yard Run,(:29) S.Barkley left end to PHI 34 for 4 yards (M.Pennel). ** Injury Update: KC-C.Jones has returned to the game.,1st & 10 at PHI 30
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,1,PHI,1,3,0,11 Yard Pass,(15:00) (Shotgun) J.Hurts pass short right to S.Barkley ran ob at PHI 45 for 11 yards (C.Conner).,2nd & 6 at PHI 34
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,1,PHI,1,4,0,3 Yard Run,(14:21) (Shotgun) S.Barkley left tackle to PHI 48 for 3 yards (M.Pennel; N.Bolton).,1st & 10 at PHI 45
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,1,PHI,1,5,0,9 Yard Pass,(13:37) (Shotgun) J.Hurts pass short left to A.Brown to KC 43 for 9 yards (T.McDuffie).,2nd & 7 at PHI 48
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,1,PHI,1,6,0,-1 Yard Run,(12:56) (Shotgun) S.Barkley right tackle to KC 44 for -1 yards (C.Omenihu).,1st & 10 at KC 43
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,1,PHI,1,7,0,17 Yard Run,(12:13) (Shotgun) J.Hurts scrambles right end ran ob at KC 27 for 17 yards (T.McDuffie).,2nd & 11 at KC 44
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,1,PHI,1,8,0,2 Yard Run,(11:29) S.Barkley up the middle to KC 25 for 2 yards (D.Nnadi).,1st & 10 at KC 27
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,1,PHI,1,9,0,-5 Yard Sack,(10:45) (Shotgun) J.Hurts sacked at KC 30 for -5 yards (D.Tranquill).,2nd & 8 at KC 25
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,1,PHI,1,10,0,Run for No Gain,(10:00) (Shotgun) S.Barkley left guard to KC 30 for no gain (J.Reid).,3rd & 13 at KC 30
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,1,PHI,1,11,1,Field Goal,"(9:56) J.Elliott 48 yard field goal is GOOD, Center-R.Lovato, Holder-B.Mann.",4th & 13 at KC 30
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,2,KC,0,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the KC 30.",Kickoff from PHI 35
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,2,KC,0,2,0,Fumble,"(9:51) (Shotgun) P.Mahomes sacked at KC 20 for -10 yards (M.Williams). FUMBLES (M.Williams) [J.Carter], touched at KC 19, RECOVERED by PHI-M.Williams at KC 18.
+PENALTY on PHI-M.Williams, Unsportsmanlike Conduct, 15 yards, enforced at KC 18.",1st & 10 at KC 30
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,3,PHI,1,1,0,7 Yard Run,(9:42) (Shotgun) S.Barkley right tackle to KC 26 for 7 yards (G.Karlaftis).,1st & 10 at KC 33
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,3,PHI,1,2,0,-2 Yard Run,(8:58) S.Barkley right end to KC 28 for -2 yards (L.Chenal).,2nd & 3 at KC 26
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,3,PHI,1,3,0,1 Yard Run,(8:13) (Shotgun) S.Barkley left tackle to KC 27 for 1 yard (T.Wharton).,3rd & 5 at KC 28
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,3,PHI,1,4,1,Field Goal,"(8:05) J.Elliott 50 yard field goal is GOOD, Center-R.Lovato, Holder-B.Mann.",4th & 9 at KC 32
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,4,KC,1,1,0,Kickoff,J.Elliott kicks 69 yards from PHI 35 to KC -4. N.Remigio to KC 25 for 29 yards (J.Trotter).,Kickoff from PHI 35
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,4,KC,1,2,0,9 Yard Pass,(7:54) (Shotgun) P.Mahomes pass short right to T.Kelce to KC 34 for 9 yards (Z.Baun).,1st & 10 at KC 25
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,4,KC,1,3,0,5 Yard Pass,(7:17) (Shotgun) P.Mahomes pass short left to I.Pacheco to KC 39 for 5 yards (O.Burks).,2nd & 1 at KC 34
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,4,KC,1,4,0,8 Yard Pass,(6:46) (Shotgun) P.Mahomes pass short right to T.Kelce to KC 47 for 8 yards (M.Ojomo).,1st & 10 at KC 39
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,4,KC,1,5,0,12 Yard Pass,"(6:20) (No Huddle, Shotgun) P.Mahomes pass short right to X.Worthy ran ob at PHI 41 for 12 yards (D.Slay).",2nd & 2 at KC 47
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,4,KC,1,6,0,5 Yard Pass,"(6:04) (No Huddle, Shotgun) P.Mahomes pass short right to X.Worthy to PHI 36 for 5 yards (D.Slay).",1st & 10 at PHI 41
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,4,KC,1,7,0,Pass Incomplete,(5:30) (Shotgun) P.Mahomes pass incomplete short left to M.Brown.,2nd & 5 at PHI 36
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,4,KC,1,8,0,4 Yard Penalty,"(5:26) (Shotgun) P.Mahomes pass deep left intended for D.Hopkins INTERCEPTED by C.Gardner-Johnson [J.Hunt] at PHI 2. C.Gardner-Johnson for 98 yards, TOUCHDOWN NULLIFIED by Penalty.
+PENALTY on PHI-J.Carter, Defensive Offside, 4 yards, enforced at PHI 36 - No Play.",3rd & 5 at PHI 36
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,4,KC,1,9,0,8 Yard Run,(5:05) (Shotgun) S.Perine right guard to PHI 24 for 8 yards (Z.Baun; O.Burks).,3rd & 1 at PHI 32
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,4,KC,1,10,0,7 Yard Run,(4:35) (Shotgun) P.Mahomes scrambles right tackle to PHI 17 for 7 yards (M.Williams).,1st & 10 at PHI 24
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,4,KC,1,11,0,6 Yard Pass,(3:59) (Shotgun) P.Mahomes pass short left to M.Brown pushed ob at PHI 11 for 6 yards (Q.Mitchell) [Z.Baun].,2nd & 3 at PHI 17
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,4,KC,1,12,0,7 Yard Pass,(3:53) (Shotgun) P.Mahomes pass short left to X.Worthy pushed ob at PHI 4 for 7 yards (Q.Mitchell).,1st & 10 at PHI 11
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,4,KC,1,13,0,-10 Yard Penalty,"(3:48) (Shotgun) P.Mahomes pass short left to M.Brown for 4 yards, TOUCHDOWN NULLIFIED by Penalty.
+PENALTY on KC-J.Smith-Schuster, Offensive Pass Interference, 10 yards, enforced at PHI 4 - No Play.",2nd & 3 at PHI 4
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,4,KC,1,14,0,7 Yard Run,(3:43) (Shotgun) P.Mahomes scrambles left end to PHI 7 for 7 yards (B.Graham).,2nd & 13 at PHI 14
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,4,KC,1,15,0,Touchdown Chiefs,"(2:58) (Shotgun) P.Mahomes pass short left to D.Hopkins for 7 yards, TOUCHDOWN.",3rd & 6 at PHI 7
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,4,KC,1,16,1,5 Yard Penalty,"TWO-POINT CONVERSION ATTEMPT. P.Mahomes pass to Ju.Watson is complete. ATTEMPT SUCCEEDS.
+PENALTY on PHI-R.Blankenship, Illegal Use of Hands, 5 yards, enforced between downs.",
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,5,PHI,0,1,0,Kickoff,L.Chenal kicks onside 14 yards from KC 40 to PHI 46. A.Maddox (didn't try to advance) to PHI 46 for no gain.,Kickoff from KC 40
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,5,PHI,0,2,0,4 Yard Run,(2:52) 7-K.Pickett in at QB. (Shotgun) K.Gainwell left guard to 50 for 4 yards (D.Tranquill).,1st & 10 at PHI 46
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,5,PHI,0,3,0,1 Yard Run,(2:47) (Shotgun) K.Gainwell up the middle to KC 49 for 1 yard (C.Omenihu).,2nd & 6 at 50
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,5,PHI,0,4,0,-1 Yard Run,"(2:05) (Shotgun) K.Gainwell left tackle to 50 for -1 yards (N.Bolton, T.Wharton).",3rd & 5 at KC 49
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,5,PHI,0,5,0,Turnover on Downs,(1:59) (Shotgun) K.Pickett pass incomplete short left to J.Dotson.,4th & 6 at 50
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,6,KC,1,1,0,Touchdown Chiefs,"(1:56) (Shotgun) P.Mahomes pass deep middle to X.Worthy for 50 yards, TOUCHDOWN.",1st & 10 at 50
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,6,KC,1,2,1,2PT Conversion Success,TWO-POINT CONVERSION ATTEMPT. P.Mahomes pass to D.Hopkins is complete. ATTEMPT SUCCEEDS.,XP attempt from PHI 2
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,7,PHI,0,1,0,Kickoff,H.Butker kicks onside 9 yards from KC 35 to KC 44. G.Calcaterra (didn't try to advance) to KC 44 for no gain.,Kickoff from KC 35
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,7,PHI,0,2,0,-2 Yard Run,(1:47) K.Pickett kneels to KC 46 for -2 yards.,1st & 10 at KC 44
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,7,PHI,0,3,0,-1 Yard Run,(1:05) K.Pickett kneels to KC 47 for -1 yards.,2nd & 12 at KC 46
+2024,Super Bowl,SUN,02/09,Chiefs,Eagles,4TH QUARTER,7,PHI,0,4,0,-1 Yard Run,(:27) K.Pickett kneels to KC 48 for -1 yards.,3rd & 13 at KC 47

@@ -95,7 +95,7 @@ def main():
     # - Get scores from a given list of seasons and their associated weeks
     #   - Provide a list of file names for csv files, if 'None' then default will be used
     example_seasons = ['2024']
-    # example_weeks = [['Hall Of Fame', 'Preseason Week 1', 'Preseason Week 2', 'Preseason Week 3', 'Week 1']]
+    # example_weeks = [['Week 18', 'Wild Card']]
     example_weeks = [all_available_weeks_for_associated_seasons[all_available_seasons.index("2024")]]
     example_file_names = None
     get_scores_given_seasons_and_weeks(scraper, 
@@ -118,7 +118,7 @@ def main():
     # Example 1 (get_plays_given_seasons_and_weeks)
     # - Grabbing plays from specified list of seasons and weeks
     example_seasons = ['2024']
-    example_weeks = [['Conference Championships']]
+    example_weeks = [['Super Bowl']]
     # example_file_names = ['2024_week 3_plays']
     example_file_names = None
     get_plays_given_seasons_and_weeks(scraper, example_seasons, example_weeks, example_file_names)
