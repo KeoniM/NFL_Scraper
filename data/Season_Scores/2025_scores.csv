@@ -16,22 +16,22 @@ Season,Week,GameStatus,Day,Date,AwayTeam,AwayRecord,AwayScore,AwayWin,HomeTeam,H
 2025,Preseason Week 1,FINAL,SAT,08/09,Broncos,1-0,30,1.0,49ers,0-1,9,0.0,,,0
 2025,Preseason Week 1,FINAL,SUN,08/10,Dolphins,0-0-1,24,0.0,Bears,0-0-1,24,0.0,,,0
 2025,Preseason Week 1,FINAL,SUN,08/10,Saints,0-1,13,0.0,Chargers,2-0,27,1.0,,,0
-2025,Preseason Week 2,UPCOMING,FRI,08/15,Titans,0-1,0,0.0,Falcons,0-1,0,0.0,,,0
-2025,Preseason Week 2,UPCOMING,FRI,08/15,Chiefs,0-1,0,0.0,Seahawks,0-0-1,0,0.0,,,0
-2025,Preseason Week 2,UPCOMING,SAT,08/16,Dolphins,0-0-1,0,0.0,Lions,1-1,0,0.0,,,0
-2025,Preseason Week 2,UPCOMING,SAT,08/16,Panthers,0-1,0,0.0,Texans,0-1,0,0.0,,,0
-2025,Preseason Week 2,UPCOMING,SAT,08/16,Packers,0-1,0,0.0,Colts,0-1,0,0.0,,,0
-2025,Preseason Week 2,UPCOMING,SAT,08/16,Patriots,1-0,0,0.0,Vikings,1-0,0,0.0,,,0
-2025,Preseason Week 2,UPCOMING,SAT,08/16,Browns,1-0,0,0.0,Eagles,1-0,0,0.0,,,0
-2025,Preseason Week 2,UPCOMING,SAT,08/16,49ers,0-1,0,0.0,Raiders,0-0-1,0,0.0,,,0
-2025,Preseason Week 2,UPCOMING,SAT,08/16,Ravens,1-0,0,0.0,Cowboys,0-1,0,0.0,,,0
-2025,Preseason Week 2,UPCOMING,SAT,08/16,Chargers,2-0,0,0.0,Rams,1-0,0,0.0,,,0
-2025,Preseason Week 2,UPCOMING,SAT,08/16,Jets,1-0,0,0.0,Giants,1-0,0,0.0,,,0
-2025,Preseason Week 2,UPCOMING,SAT,08/16,Buccaneers,1-0,0,0.0,Steelers,1-0,0,0.0,,,0
-2025,Preseason Week 2,UPCOMING,SAT,08/16,Cardinals,1-0,0,0.0,Broncos,1-0,0,0.0,,,0
-2025,Preseason Week 2,UPCOMING,SUN,08/17,Jaguars,0-1,0,0.0,Saints,0-1,0,0.0,,,0
-2025,Preseason Week 2,UPCOMING,SUN,08/17,Bills,0-1,0,0.0,Bears,0-0-1,0,0.0,,,0
-2025,Preseason Week 2,UPCOMING,MON,08/18,Bengals,0-1,0,0.0,Commanders,0-1,0,0.0,,,0
+2025,Preseason Week 2,FINAL,FRI,08/15,Titans,1-1,23,1.0,Falcons,0-2,20,0.0,,,0
+2025,Preseason Week 2,FINAL,FRI,08/15,Chiefs,0-2,16,0.0,Seahawks,1-0-1,33,1.0,,,0
+2025,Preseason Week 2,FINAL,SAT,08/16,Dolphins,1-0-1,24,1.0,Lions,1-2,17,0.0,,,0
+2025,Preseason Week 2,FINAL,SAT,08/16,Panthers,0-2,3,0.0,Texans,1-1,20,1.0,,,0
+2025,Preseason Week 2,FINAL,SAT,08/16,Packers,1-1,23,1.0,Colts,0-2,19,0.0,,,0
+2025,Preseason Week 2,FINAL,SAT,08/16,Patriots,2-0,20,1.0,Vikings,1-1,12,0.0,,,0
+2025,Preseason Week 2,FINAL,SAT,08/16,Browns,2-0,22,1.0,Eagles,1-1,13,0.0,,,0
+2025,Preseason Week 2,FINAL,SAT,08/16,49ers,1-1,22,1.0,Raiders,0-1-1,19,0.0,,,0
+2025,Preseason Week 2,FINAL,SAT,08/16,Ravens,2-0,31,1.0,Cowboys,0-2,13,0.0,,,0
+2025,Preseason Week 2,FINAL,SAT,08/16,Chargers,2-1,22,0.0,Rams,2-0,23,1.0,,,0
+2025,Preseason Week 2,FINAL,SAT,08/16,Jets,1-1,12,0.0,Giants,2-0,31,1.0,,,0
+2025,Preseason Week 2,FINAL,SAT,08/16,Buccaneers,2-0,17,1.0,Steelers,1-1,14,0.0,,,0
+2025,Preseason Week 2,FINAL,SAT,08/16,Cardinals,1-1,7,0.0,Broncos,2-0,27,1.0,,,0
+2025,Preseason Week 2,FINAL,SUN,08/17,Jaguars,0-1-1,17,0.0,Saints,0-1-1,17,0.0,,,0
+2025,Preseason Week 2,FINAL,SUN,08/17,Bills,0-2,0,0.0,Bears,1-0-1,38,1.0,,,0
+2025,Preseason Week 2,FINAL,MON,08/18,Bengals,1-1,31,1.0,Commanders,0-2,17,0.0,,,0
 2025,Preseason Week 3,UPCOMING,THU,08/21,Steelers,0-0,0,0.0,Panthers,0-0,0,0.0,,,0
 2025,Preseason Week 3,UPCOMING,THU,08/21,Patriots,0-0,0,0.0,Giants,0-0,0,0.0,,,0
 2025,Preseason Week 3,UPCOMING,FRI,08/22,Eagles,0-0,0,0.0,Jets,0-0,0,0.0,,,0
@@ -126,10 +126,10 @@ Season,Week,GameStatus,Day,Date,AwayTeam,AwayRecord,AwayScore,AwayWin,HomeTeam,H
 2025,Week 5,UPCOMING,SUN,10/05,Commanders,0-0,0.0,0.0,Chargers,0-0,0.0,0.0,,,0
 2025,Week 5,UPCOMING,SUN,10/05,Patriots,0-0,0.0,0.0,Bills,0-0,0.0,0.0,,,0
 2025,Week 5,UPCOMING,MON,10/06,Chiefs,0-0,0.0,0.0,Jaguars,0-0,0.0,0.0,,,0
-2025,Week 5,BYE,,,Steelers,0-0,,,,,,,,,0
-2025,Week 5,BYE,,,Packers,0-0,,,,,,,,,0
-2025,Week 5,BYE,,,Falcons,0-0,,,,,,,,,0
-2025,Week 5,BYE,,,Bears,0-0,,,,,,,,,0
+2025,Week 5,BYE,,,Steelers,1-0,,,,,,,,,0
+2025,Week 5,BYE,,,Packers,0-1,,,,,,,,,0
+2025,Week 5,BYE,,,Falcons,0-1,,,,,,,,,0
+2025,Week 5,BYE,,,Bears,0-0-1,,,,,,,,,0
 2025,Week 6,UPCOMING,THU,10/09,Eagles,0-0,0.0,0.0,Giants,0-0,0.0,0.0,,,0
 2025,Week 6,UPCOMING,SUN,10/12,Broncos,0-0,0.0,0.0,Jets,0-0,0.0,0.0,,,0
 2025,Week 6,UPCOMING,SUN,10/12,Rams,0-0,0.0,0.0,Ravens,0-0,0.0,0.0,,,0
@@ -145,8 +145,8 @@ Season,Week,GameStatus,Day,Date,AwayTeam,AwayRecord,AwayScore,AwayWin,HomeTeam,H
 2025,Week 6,UPCOMING,SUN,10/12,Lions,0-0,0.0,0.0,Chiefs,0-0,0.0,0.0,,,0
 2025,Week 6,UPCOMING,MON,10/13,Bills,0-0,0.0,0.0,Falcons,0-0,0.0,0.0,,,0
 2025,Week 6,UPCOMING,MON,10/13,Bears,0-0,0.0,0.0,Commanders,0-0,0.0,0.0,,,0
-2025,Week 6,BYE,,,Vikings,0-0,,,,,,,,,0
-2025,Week 6,BYE,,,Texans,0-0,,,,,,,,,0
+2025,Week 6,BYE,,,Vikings,1-0,,,,,,,,,0
+2025,Week 6,BYE,,,Texans,0-1,,,,,,,,,0
 2025,Week 7,UPCOMING,THU,10/16,Steelers,0-0,0.0,0.0,Bengals,0-0,0.0,0.0,,,0
 2025,Week 7,UPCOMING,SUN,10/19,Rams,0-0,0.0,0.0,Jaguars,0-0,0.0,0.0,,,0
 2025,Week 7,UPCOMING,SUN,10/19,Saints,0-0,0.0,0.0,Bears,0-0,0.0,0.0,,,0
@@ -162,8 +162,8 @@ Season,Week,GameStatus,Day,Date,AwayTeam,AwayRecord,AwayScore,AwayWin,HomeTeam,H
 2025,Week 7,UPCOMING,SUN,10/19,Falcons,0-0,0.0,0.0,49ers,0-0,0.0,0.0,,,0
 2025,Week 7,UPCOMING,MON,10/20,Buccaneers,0-0,0.0,0.0,Lions,0-0,0.0,0.0,,,0
 2025,Week 7,UPCOMING,MON,10/20,Texans,0-0,0.0,0.0,Seahawks,0-0,0.0,0.0,,,0
-2025,Week 7,BYE,,,Ravens,0-0,,,,,,,,,0
-2025,Week 7,BYE,,,Bills,0-0,,,,,,,,,0
+2025,Week 7,BYE,,,Ravens,1-0,,,,,,,,,0
+2025,Week 7,BYE,,,Bills,0-1,,,,,,,,,0
 2025,Week 8,UPCOMING,THU,10/23,Vikings,0-0,0.0,0.0,Chargers,0-0,0.0,0.0,,,0
 2025,Week 8,UPCOMING,SUN,10/26,Dolphins,0-0,0.0,0.0,Falcons,0-0,0.0,0.0,,,0
 2025,Week 8,UPCOMING,SUN,10/26,Bears,0-0,0.0,0.0,Ravens,0-0,0.0,0.0,,,0
@@ -177,12 +177,12 @@ Season,Week,GameStatus,Day,Date,AwayTeam,AwayRecord,AwayScore,AwayWin,HomeTeam,H
 2025,Week 8,UPCOMING,SUN,10/26,Titans,0-0,0.0,0.0,Colts,0-0,0.0,0.0,,,0
 2025,Week 8,UPCOMING,SUN,10/26,Packers,0-0,0.0,0.0,Steelers,0-0,0.0,0.0,,,0
 2025,Week 8,UPCOMING,MON,10/27,Commanders,0-0,0.0,0.0,Chiefs,0-0,0.0,0.0,,,0
-2025,Week 8,BYE,,,Lions,0-1,,,,,,,,,0
-2025,Week 8,BYE,,,Rams,0-0,,,,,,,,,0
-2025,Week 8,BYE,,,Raiders,0-0,,,,,,,,,0
-2025,Week 8,BYE,,,Jaguars,0-0,,,,,,,,,0
-2025,Week 8,BYE,,,Seahawks,0-0,,,,,,,,,0
-2025,Week 8,BYE,,,Cardinals,0-0,,,,,,,,,0
+2025,Week 8,BYE,,,Lions,1-1,,,,,,,,,0
+2025,Week 8,BYE,,,Rams,1-0,,,,,,,,,0
+2025,Week 8,BYE,,,Raiders,0-0-1,,,,,,,,,0
+2025,Week 8,BYE,,,Jaguars,0-1,,,,,,,,,0
+2025,Week 8,BYE,,,Seahawks,0-0-1,,,,,,,,,0
+2025,Week 8,BYE,,,Cardinals,1-0,,,,,,,,,0
 2025,Week 9,UPCOMING,THU,10/30,Ravens,0-0,0.0,0.0,Dolphins,0-0,0.0,0.0,,,0
 2025,Week 9,UPCOMING,SUN,11/02,Bears,0-0,0.0,0.0,Bengals,0-0,0.0,0.0,,,0
 2025,Week 9,UPCOMING,SUN,11/02,Vikings,0-0,0.0,0.0,Lions,0-0,0.0,0.0,,,0
@@ -197,10 +197,10 @@ Season,Week,GameStatus,Day,Date,AwayTeam,AwayRecord,AwayScore,AwayWin,HomeTeam,H
 2025,Week 9,UPCOMING,SUN,11/02,Chiefs,0-0,0.0,0.0,Bills,0-0,0.0,0.0,,,0
 2025,Week 9,UPCOMING,SUN,11/02,Seahawks,0-0,0.0,0.0,Commanders,0-0,0.0,0.0,,,0
 2025,Week 9,UPCOMING,MON,11/03,Cardinals,0-0,0.0,0.0,Cowboys,0-0,0.0,0.0,,,0
-2025,Week 9,BYE,,,Jets,0-0,,,,,,,,,0
-2025,Week 9,BYE,,,Browns,0-0,,,,,,,,,0
-2025,Week 9,BYE,,,Buccaneers,0-0,,,,,,,,,0
-2025,Week 9,BYE,,,Eagles,0-0,,,,,,,,,0
+2025,Week 9,BYE,,,Jets,1-0,,,,,,,,,0
+2025,Week 9,BYE,,,Browns,1-0,,,,,,,,,0
+2025,Week 9,BYE,,,Buccaneers,1-0,,,,,,,,,0
+2025,Week 9,BYE,,,Eagles,1-0,,,,,,,,,0
 2025,Week 10,UPCOMING,THU,11/06,Raiders,0-0,0.0,0.0,Broncos,0-0,0.0,0.0,,,0
 2025,Week 10,UPCOMING,SUN,11/09,Falcons,0-0,0.0,0.0,Colts,0-0,0.0,0.0,,,0
 2025,Week 10,UPCOMING,SUN,11/09,Saints,0-0,0.0,0.0,Panthers,0-0,0.0,0.0,,,0
@@ -215,10 +215,10 @@ Season,Week,GameStatus,Day,Date,AwayTeam,AwayRecord,AwayScore,AwayWin,HomeTeam,H
 2025,Week 10,UPCOMING,SUN,11/09,Lions,0-0,0.0,0.0,Commanders,0-0,0.0,0.0,,,0
 2025,Week 10,UPCOMING,SUN,11/09,Steelers,0-0,0.0,0.0,Chargers,0-0,0.0,0.0,,,0
 2025,Week 10,UPCOMING,MON,11/10,Eagles,0-0,0.0,0.0,Packers,0-0,0.0,0.0,,,0
-2025,Week 10,BYE,,,Bengals,0-0,,,,,,,,,0
-2025,Week 10,BYE,,,Titans,0-0,,,,,,,,,0
-2025,Week 10,BYE,,,Chiefs,0-0,,,,,,,,,0
-2025,Week 10,BYE,,,Cowboys,0-0,,,,,,,,,0
+2025,Week 10,BYE,,,Bengals,0-1,,,,,,,,,0
+2025,Week 10,BYE,,,Titans,0-1,,,,,,,,,0
+2025,Week 10,BYE,,,Chiefs,0-1,,,,,,,,,0
+2025,Week 10,BYE,,,Cowboys,0-1,,,,,,,,,0
 2025,Week 11,UPCOMING,THU,11/13,Jets,0-0,0.0,0.0,Patriots,0-0,0.0,0.0,,,0
 2025,Week 11,UPCOMING,SUN,11/16,Commanders,0-0,0.0,0.0,Dolphins,0-0,0.0,0.0,,,0
 2025,Week 11,UPCOMING,SUN,11/16,Panthers,0-0,0.0,0.0,Falcons,0-0,0.0,0.0,,,0
@@ -234,8 +234,8 @@ Season,Week,GameStatus,Day,Date,AwayTeam,AwayRecord,AwayScore,AwayWin,HomeTeam,H
 2025,Week 11,UPCOMING,SUN,11/16,Chiefs,0-0,0.0,0.0,Broncos,0-0,0.0,0.0,,,0
 2025,Week 11,UPCOMING,SUN,11/16,Lions,0-0,0.0,0.0,Eagles,0-0,0.0,0.0,,,0
 2025,Week 11,UPCOMING,MON,11/17,Cowboys,0-0,0.0,0.0,Raiders,0-0,0.0,0.0,,,0
-2025,Week 11,BYE,,,Colts,0-0,,,,,,,,,0
-2025,Week 11,BYE,,,Saints,0-0,,,,,,,,,0
+2025,Week 11,BYE,,,Colts,0-1,,,,,,,,,0
+2025,Week 11,BYE,,,Saints,0-1,,,,,,,,,0
 2025,Week 12,UPCOMING,THU,11/20,Bills,0-0,0.0,0.0,Texans,0-0,0.0,0.0,,,0
 2025,Week 12,UPCOMING,SUN,11/23,Jets,0-0,0.0,0.0,Ravens,0-0,0.0,0.0,,,0
 2025,Week 12,UPCOMING,SUN,11/23,Steelers,0-0,0.0,0.0,Bears,0-0,0.0,0.0,,,0
@@ -250,10 +250,10 @@ Season,Week,GameStatus,Day,Date,AwayTeam,AwayRecord,AwayScore,AwayWin,HomeTeam,H
 2025,Week 12,UPCOMING,SUN,11/23,Falcons,0-0,0.0,0.0,Saints,0-0,0.0,0.0,,,0
 2025,Week 12,UPCOMING,SUN,11/23,Buccaneers,0-0,0.0,0.0,Rams,0-0,0.0,0.0,,,0
 2025,Week 12,UPCOMING,MON,11/24,Panthers,0-0,0.0,0.0,49ers,0-0,0.0,0.0,,,0
-2025,Week 12,BYE,,,Dolphins,0-0,,,,,,,,,0
-2025,Week 12,BYE,,,Chargers,1-0,,,,,,,,,0
-2025,Week 12,BYE,,,Commanders,0-0,,,,,,,,,0
-2025,Week 12,BYE,,,Broncos,0-0,,,,,,,,,0
+2025,Week 12,BYE,,,Dolphins,0-0-1,,,,,,,,,0
+2025,Week 12,BYE,,,Chargers,2-0,,,,,,,,,0
+2025,Week 12,BYE,,,Commanders,0-1,,,,,,,,,0
+2025,Week 12,BYE,,,Broncos,1-0,,,,,,,,,0
 2025,Week 13,UPCOMING,THU,11/27,Packers,0-0,0,0.0,Lions,0-0,0,0.0,,,0
 2025,Week 13,UPCOMING,THU,11/27,Chiefs,0-0,0,0.0,Cowboys,0-0,0,0.0,,,0
 2025,Week 13,UPCOMING,THU,11/27,Bengals,0-0,0,0.0,Ravens,0-0,0,0.0,,,0
@@ -284,10 +284,10 @@ Season,Week,GameStatus,Day,Date,AwayTeam,AwayRecord,AwayScore,AwayWin,HomeTeam,H
 2025,Week 14,UPCOMING,SUN,12/07,Bengals,0-0,0.0,0.0,Bills,0-0,0.0,0.0,,,0
 2025,Week 14,UPCOMING,SUN,12/07,Texans,0-0,0.0,0.0,Chiefs,0-0,0.0,0.0,,,0
 2025,Week 14,UPCOMING,MON,12/08,Eagles,0-0,0.0,0.0,Chargers,0-0,0.0,0.0,,,0
-2025,Week 14,BYE,,,Patriots,0-0,,,,,,,,,0
-2025,Week 14,BYE,,,Giants,0-0,,,,,,,,,0
-2025,Week 14,BYE,,,Panthers,0-0,,,,,,,,,0
-2025,Week 14,BYE,,,49ers,0-0,,,,,,,,,0
+2025,Week 14,BYE,,,Patriots,1-0,,,,,,,,,0
+2025,Week 14,BYE,,,Giants,1-0,,,,,,,,,0
+2025,Week 14,BYE,,,Panthers,0-1,,,,,,,,,0
+2025,Week 14,BYE,,,49ers,0-1,,,,,,,,,0
 2025,Week 15,UPCOMING,THU,12/11,Falcons,0-0,0,0.0,Buccaneers,0-0,0,0.0,,,0
 2025,Week 15,UPCOMING,SUN,12/14,Browns,0-0,0,0.0,Bears,0-0,0,0.0,,,0
 2025,Week 15,UPCOMING,SUN,12/14,Ravens,0-0,0,0.0,Bengals,0-0,0,0.0,,,0
