@@ -496,6 +496,232 @@ class NflScraper:
     return df_week_scores
 
 
+# ##################################################################################
+# #                                                                                #
+# #          METHODS THAT EXTRACT PLAY BY PLAY DATA FROM GAME WEBELEMENTS          #
+# #                                                                                #
+# ##################################################################################
+
+
+#   """
+#   PURPOSE:
+#     - Extract each play that happened in each game within a specified season and week
+#   INPUT PARAMETERS:
+#     chosen_year - string - user chooses a season which happens to be all in years
+#     chosen_week - string - user chooses a week within a given season
+#   RETURN:
+#     df_week_plays - Dataframe - contains all data for outcomes of each game webelement
+#   """
+#   def get_game_week_play_by_play(self, chosen_year, chosen_week):
+
+#     wait = WebDriverWait(self.driver, 20)
+
+#     df_week_plays = pd.DataFrame(columns=['Season', 'Week', 'Day', 'Date', 'AwayTeam', 'HomeTeam', 
+#                                           'Quarter', 
+#                                           'DriveNumber', 'TeamWithPossession', 'IsScoringDrive',
+#                                           'PlayNumberInDrive', 'IsScoringPlay', 'PlayOutcome', 'PlayDescription', 'PlayStart'])
+
+#     """
+#     PURPOSE:
+#       - A double check to see if all child webelements have been found within a parent webelement
+#     INPUT PARAMETERS:
+#        parent_webelement - webelement - contains a webelement encapsulating either every quarter of a game or every drive within a quarter
+#                  locator -   tuple    - A shared path from the parent webelement to the child webelements
+#       num_elements_check -    int     - The least amount of child elements expected to be found
+#          accuracy_number -    int     - the amount of times the method has to find the same number of child webelements consecutively
+#     RETURN:
+#              webelements -    list    - All specified child webelements under parent webelement
+#     """
+#     def num_child_webelements_check(parent_webelement, locator, num_elements_check, accuracy_number):
+#       total = 0
+#       array = [np.nan]
+#       while( total % array[0] != 0 ):
+#         total = 0
+#         array = []
+#         for i in range(0, accuracy_number,1):
+#           webelements = wait.until(enough_child_elements_present(parent_webelement, (locator), num_elements_check))
+#           total += len(webelements)
+#           array.append(len(webelements))
+#       return webelements
+    
+#     # get_parsed_game_week_webelements[0] -> returns all webelements of games that were played during the specified week
+#     game_week_webelements = self.get_parsed_game_week_webelements(chosen_year, chosen_week)[0] 
+
+#     for i in range(len(game_week_webelements)):
+
+#       # This is necessary because these webelements seem to change when you move forward and backward through pages
+#       game = self.get_parsed_game_week_webelements(chosen_year,chosen_week)[0][i]
+
+#       try:
+          
+#           # ['Year', 'Week']
+#           game_info = [chosen_year, chosen_week]
+
+#           # Locating game button to 
+#           # 1. Use as parent element to grab "game_info"
+#           # 2. Click to get to "play_by_play_data"
+#           game_button_webelement = wait.until(child_element_to_be_present(game, (By.XPATH, "./div/div/button")))
+
+#           self.driver.execute_script("arguments[0].style.border='3px solid red'", game_button_webelement)
+
+#           # ['Day', 'Date']
+#           game_date_webelement = wait.until(child_element_to_be_present(game_button_webelement, (By.XPATH, "./div/div[1]")))
+#           self.driver.execute_script("arguments[0].style.border='3px solid red'", game_date_webelement)
+#           game_date = game_date_webelement.text.split()
+#           game_info.extend(game_date[2::])
+
+#           # ['Away Team', 'Home Team']
+#           game_team_scores_webelement = wait.until(child_element_to_be_present(game_button_webelement, (By.XPATH, "./div/div[2]")))
+#           self.driver.execute_script("arguments[0].style.border='3px solid red'", game_team_scores_webelement)
+#           game_team_scores_data = game_team_scores_webelement.text.split()
+
+#           team_names_data = [] # list for team names ['Away Team', 'Home Team']
+#           multi_word_team_name = [] # Used for the rare case of a team having multiple strings within their name.
+#           # Loop will receive list somewhat like:
+#           # ['AwayTeam', 'AwayRecord', 'AwayScore', 'HomeTeam', 'HomeRecord', 'HomeScore']
+#           # Rarely loop will receive list like:
+#           # ['AwayTeam First half of name', 'AwayTeam Second half of name', 'AwayRecord', 'AwayScore', 'HomeTeam', 'HomeRecord', 'HomeScore']
+#           # Either way we want to get list to be like:
+#           # ['Away Team', 'Home Team']
+#           while(len(game_team_scores_data) != 0):
+#             if (game_team_scores_data[0].count("-") > 0 or game_team_scores_data[0].isdigit()):
+#               if len(multi_word_team_name) > 0:
+#                   team_names_data.append(" ".join(multi_word_team_name))
+#                   multi_word_team_name.clear()
+#               game_team_scores_data.pop(0)
+#               continue
+#             else:
+#               multi_word_team_name.append(game_team_scores_data[0])
+#               game_team_scores_data.pop(0)
+#               continue
+            
+#           # game_details = ['Year', 'Week', 'Day', 'Date', 'Away Team', 'Home Team']]
+#           game_info.extend(team_names_data)
+
+#           # Scroll into view and click using JavaScript
+#           self.driver.execute_script("arguments[0].scrollIntoView(); arguments[0].click();", game_button_webelement)
+
+
+
+
+#           # UPDATE for newly updated website.
+#           # for 'All Drives' is now a button
+#           # xpath = html/body/div/main/div[2]/div/div/section[2]/div/div[2]/div/div/div/section/div
+
+
+#           # Wrapper webelement containing every quarter played
+#           game_parent_webelement = wait.until(EC.presence_of_element_located((By.ID, "all-drives-panel")))
+
+#           every_quarter_in_game = num_child_webelements_check(game_parent_webelement, (By.XPATH, "./div"), 1, 5)
+          
+#           # Loop through every quarter of the game
+#           for quarter in every_quarter_in_game:
+
+#             # Data up to the quarter of the game
+#             quarter_data = game_info.copy()
+
+#             self.driver.execute_script("arguments[0].style.border='3px solid red'", quarter)
+
+#             quarter_number = wait.until(child_element_to_be_present(quarter, (By.XPATH, "./div")))
+#             self.driver.execute_script("arguments[0].style.border='3px solid red'", quarter_number)
+
+#             # ['Quarter #']
+#             quarter_number = quarter_number.text
+#             quarter_data.extend([quarter_number])
+
+#             every_drive_in_quarter = num_child_webelements_check(quarter, (By.XPATH, "./div"), 1, 5)
+
+#             # Loop through every drive of the quarter
+#             drives = [] # Keep count of how many drives in quarter
+#             for drive in every_drive_in_quarter[1::]:
+#               drives.append(drive)
+              
+#               # Data up until the drive of the quarter
+#               drive_data = quarter_data.copy()
+#               is_scoring_drive = 0
+
+#               self.driver.execute_script("arguments[0].style.border='3px solid red'", drive)
+
+#               drive_parent_webelement = wait.until(child_element_to_be_present(drive, (By.XPATH, "./div/div/div[2]/div/div")))
+
+#               drive_child_webelements = num_child_webelements_check(drive_parent_webelement, (By.XPATH, "./*"), 1, 5)
+
+#               # All non scoring drives will only have 1 webelement.
+#               if (len(drive_child_webelements) > 1):
+#                 is_scoring_drive = 1
+
+#               drive_button = drive_child_webelements[0]
+
+#               # ['Team with possession']
+#               try:
+#                 team_with_possession_webelement = wait.until(child_element_to_be_present(drive_button, (By.XPATH, "./div/div/div/div/div/img")))
+#                 self.driver.execute_script("arguments[0].style.border='3px solid red'", team_with_possession_webelement)
+#                 team_with_possession_webelement_src = team_with_possession_webelement.get_attribute('src')
+#                 team_with_possession = team_with_possession_webelement_src[team_with_possession_webelement_src.rindex("/") + 1::]
+#               except:
+#                 team_with_possession = None
+
+#               self.driver.execute_script("arguments[0].scrollIntoView(); arguments[0].click();", drive_button)
+
+#               # ['Drive # in Quarter', 'Team that has possession during drive', 'is it a scoring drive']
+#               drive_data.extend([len(drives), team_with_possession, is_scoring_drive])
+
+#               # Scoring drives have more than 1 'div' webelement
+#               if (is_scoring_drive):
+#                 drive_plays = wait.until(child_element_to_be_present(drive, (By.XPATH, "./div/div/div[2]/div/div/div[2]")))
+#               else:
+#                 drive_plays = wait.until(child_element_to_be_present(drive, (By.XPATH, "./div/div/div[2]/div/div/div")))
+
+              
+#               # I need to clean this up because this is ugly. <<<<<<<<<<<<<
+#               # I guess create a check here to see if there are actually plays within the drive.
+#               try:
+#                 wait.until(child_element_to_be_present(drive_plays, (By.XPATH, "./div")))
+#                 every_play_in_drive = num_child_webelements_check(drive_plays, (By.XPATH, "./div"), 0, 5)
+#               except:
+#                 every_play_in_drive = []
+#                 continue
+
+#               # Loop through every play of the drive
+#               plays = [] # Keep count of how many plays in drive
+#               for play in every_play_in_drive:
+#                 plays.append(play)
+                
+#                 play_data = drive_data.copy()
+#                 is_scoring_play = 0
+                
+#                 self.driver.execute_script("arguments[0].style.border='3px solid red'", play)
+                
+#                 # ['is it a scoring play']
+#                 if(is_scoring_drive and len(plays) == len(every_play_in_drive)):
+#                   is_scoring_play = 1
+                
+#                 play_outcome_webelement = wait.until(child_element_to_be_present(play, (By.XPATH, "./div/div/div/div/div/div/div[1]/div")))
+#                 play_outcome = play_outcome_webelement.text
+                
+#                 play_description = wait.until(child_element_to_be_present(play, (By.XPATH, "./div/div/div/div/div/div/div[2]")))
+#                 play_description = play_description.text
+
+#                 play_start = wait.until(child_element_to_be_present(play, (By.XPATH, "./div/div/div/div/div/div/div[3]")))
+#                 play_start = play_start.text
+
+#                 # ['Play number in drive', 'is scoring play', 'play_outcome', 'play_description', 'play_start']
+#                 play_data.extend([len(plays), is_scoring_play, play_outcome, play_description, play_start])
+
+#                 df_week_plays.loc[len(df_week_plays)] = play_data
+
+#                 print(play_data)
+
+#       except NoSuchElementException:
+#         print("No Such Element")
+    
+#     return df_week_plays
+
+
+
+
+
+# Version 2 (For updated website)
 ##################################################################################
 #                                                                                #
 #          METHODS THAT EXTRACT PLAY BY PLAY DATA FROM GAME WEBELEMENTS          #
@@ -601,11 +827,42 @@ class NflScraper:
           # Scroll into view and click using JavaScript
           self.driver.execute_script("arguments[0].scrollIntoView(); arguments[0].click();", game_button_webelement)
 
-          # Wrapper webelement containing every quarter played
-          game_parent_webelement = wait.until(EC.presence_of_element_located((By.ID, "all-drives-panel")))
 
-          every_quarter_in_game = num_child_webelements_check(game_parent_webelement, (By.XPATH, "./div"), 1, 5)
-          
+
+
+          # UPDATE for newly updated website.
+          # for 'All Drives' is now a button
+          # xpath = html/body/div/main/div[2]/div/div/section[2]/div/div[2]/div/div/div/section/div
+
+
+
+          # Wrapper webelement containing every quarter played
+          # game_parent_webelement = wait.until(EC.presence_of_element_located((By.ID, "all-drives-panel")))
+          game_parent_webelement = wait.until(
+            EC.presence_of_element_located((By.XPATH, "/html/body/div/main/div[2]/div/div/section[2]/div/div[2]/div/div/div/section/div"))
+          )
+          self.driver.execute_script("arguments[0].style.border='3px solid red'", game_parent_webelement)
+
+          # every_quarter_in_game = num_child_webelements_check(game_parent_webelement, (By.XPATH, "./div"), 1, 5)
+          # I need to grab all quarters (including overtime) in game and put them in a list.
+          all_drives_button_webelement = wait.until(
+            child_element_to_be_present(game_parent_webelement, (By.XPATH, "./div/div/button[2]"))
+          )
+          self.driver.execute_script("arguments[0].scrollIntoView(); arguments[0].click();", all_drives_button_webelement)
+
+
+
+          # New goal for tomorrow
+          # 1. get all available options of quarters in the dropdown menu
+          # 2. cycle through each available option of quarters
+          # 3. start process of trying to collect data
+
+
+
+
+
+          # VVVVVV Everything below does not work VVVVVV
+
           # Loop through every quarter of the game
           for quarter in every_quarter_in_game:
 

@@ -77,13 +77,13 @@ def main():
     # Initializing instance of NflScraper 
     scraper = NflScraper(relative_path_to_webdriver)
 
-    # Printing a dataframe containing all available seasons and weeks
-    available_seasons_and_weeks = scraper.display_seasons_and_weeks()
-    print(available_seasons_and_weeks)
+    # # Printing a dataframe containing all available seasons and weeks
+    # available_seasons_and_weeks = scraper.display_seasons_and_weeks()
+    # print(available_seasons_and_weeks)
 
-    # List of Available seasons & List of Available weeks
-    all_available_seasons = available_seasons_and_weeks["Season"].tolist()
-    all_available_weeks_for_associated_seasons = available_seasons_and_weeks["Weeks"].tolist()
+    # # List of Available seasons & List of Available weeks
+    # all_available_seasons = available_seasons_and_weeks["Season"].tolist()
+    # all_available_weeks_for_associated_seasons = available_seasons_and_weeks["Weeks"].tolist()
 
 
     #########################################
@@ -118,7 +118,7 @@ def main():
     # Example 1 (get_plays_given_seasons_and_weeks)
     # - Grabbing plays from specified list of seasons and weeks
     example_seasons = ['2025']
-    example_weeks = [['Preseason Week 2']]
+    example_weeks = [['Preseason Week 3']]
     # example_file_names = ['2024_week 3_plays']
     example_file_names = None
     get_plays_given_seasons_and_weeks(scraper, example_seasons, example_weeks, example_file_names)
