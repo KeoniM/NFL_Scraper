@@ -496,6 +496,7 @@ class NflScraper:
     return df_week_scores
 
 
+# Outdated version
 # ##################################################################################
 # #                                                                                #
 # #          METHODS THAT EXTRACT PLAY BY PLAY DATA FROM GAME WEBELEMENTS          #
@@ -829,33 +830,77 @@ class NflScraper:
 
 
 
-
           # UPDATE for newly updated website.
-          # for 'All Drives' is now a button
-          # xpath = html/body/div/main/div[2]/div/div/section[2]/div/div[2]/div/div/div/section/div
 
-
-
-          # Wrapper webelement containing every quarter played
-          # game_parent_webelement = wait.until(EC.presence_of_element_located((By.ID, "all-drives-panel")))
+          # Wrapper webelement containing all plays, separated by quarters and drives
           game_parent_webelement = wait.until(
             EC.presence_of_element_located((By.XPATH, "/html/body/div/main/div[2]/div/div/section[2]/div/div[2]/div/div/div/section/div"))
           )
           self.driver.execute_script("arguments[0].style.border='3px solid red'", game_parent_webelement)
 
-          # every_quarter_in_game = num_child_webelements_check(game_parent_webelement, (By.XPATH, "./div"), 1, 5)
-          # I need to grab all quarters (including overtime) in game and put them in a list.
+          # Button webelement that changes the state of the wrapper webelement to display all drives within game
           all_drives_button_webelement = wait.until(
             child_element_to_be_present(game_parent_webelement, (By.XPATH, "./div/div/button[2]"))
           )
           self.driver.execute_script("arguments[0].scrollIntoView(); arguments[0].click();", all_drives_button_webelement)
 
+          # Highlights the dropdown menu that changes the state of the wrapper webelement to display a specified quarter of the game.
+          quarter_dropdown_menu_webelement = wait.until(
+            child_element_to_be_present(game_parent_webelement, (By.XPATH, "./div/div[2]/div/div/select"))
+          )
+          self.driver.execute_script("arguments[0].style.border='3px solid red'", quarter_dropdown_menu_webelement)
+
+          # Creates list containing all available options of quarters within the game
+          list_quarter_dropdown_menu_options = wait.until(
+            get_dropdown_options((By.CSS_SELECTOR, 'select[aria-label="Quarter"]'))
+          )
+          print(list_quarter_dropdown_menu_options)
+
+          # Loop through every quarter of the game
+          for quarter in list_quarter_dropdown_menu_options:
+
+            # Select quarter of the game ato display all drives
+            wait.until(dropdown_search_and_select((By.CSS_SELECTOR, 'select[aria-label="Quarter"]'), quarter))
+
+            # Data up to the quarter of the game
+            quarter_data = game_info.copy()
+
+            # ['Quarter #']
+            quarter_data.extend([quarter])
+
+            every_drive_in_quarter = num_child_webelements_check(game_parent_webelement, (By.XPATH, "./div/div/div/div[2]/div"), 1, 5)
+
+            for drive in every_drive_in_quarter:
+
+              is_scoring_drive = 0
+
+              self.driver.execute_script("arguments[0].style.border='3px solid red'", drive)
+
+              # Grabbing drive outcome to see if it is a scoring drive
+              drive_outcome_webelement = wait.until(
+                child_element_to_be_present(drive, (By.XPATH, "./button/div/div"))
+              )
+              self.driver.execute_script("arguments[0].style.border='3px solid red'", drive_outcome_webelement)
+              
+              if (drive_outcome_webelement.text == 'Touchdown'):
+                is_scoring_drive = 1
+
+              # ['Team with possession']
+              team_with_possession_image_webelement = wait.until(
+                child_element_to_be_present(drive_outcome_webelement, (By.XPATH, "./img"))
+              )
+              self.driver.execute_script("arguments[0].style.border='3px solid red'", team_with_possession_image_webelement)
+              team_with_possession_image_alt = team_with_possession_image_webelement.get_attribute('alt')
+              print(team_with_possession_image_alt)
+              
+
+              # STOPPED HERE FOR TODAY
+              # GOALS FOR TOMORROW:
+              # 1. Try and find differences between features values between old and new datasets
+              # 2. Try to finish grabbing all play data from each drive.
+              
 
 
-          # New goal for tomorrow
-          # 1. get all available options of quarters in the dropdown menu
-          # 2. cycle through each available option of quarters
-          # 3. start process of trying to collect data
 
 
 
