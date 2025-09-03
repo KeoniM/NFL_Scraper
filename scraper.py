@@ -893,7 +893,9 @@ class NflScraper:
               )
               self.driver.execute_script("arguments[0].style.border='3px solid red'", drive_outcome_webelement)
               
-              if (drive_outcome_webelement.text == 'Touchdown'):
+              # if (drive_outcome_webelement.text == 'Touchdown'):
+              #   is_scoring_drive = 1
+              if drive_outcome_webelement.text in ("Field Goal", "Touchdown"):
                 is_scoring_drive = 1
 
               # ['Team with possession']
@@ -919,7 +921,15 @@ class NflScraper:
               )
               self.driver.execute_script("arguments[0].style.border='3px solid red'", plays_container_webelement)
               
-              every_play_in_drive = num_child_webelements_check(plays_container_webelement, (By.XPATH, "./div"), 0, 5)
+              # Check to see if plays were found in drive webelement.
+              # - Sometimes no plays within drives are posted. This does not mean that they did not happen, it means
+              #   that they have not been posted.
+              try:
+                wait.until(child_element_to_be_present(plays_container_webelement, (By.XPATH, "./div")))
+                every_play_in_drive = num_child_webelements_check(plays_container_webelement, (By.XPATH, "./div"), 0, 5)
+              except:
+                every_play_in_drive = []
+                continue
 
               ####################################
               # LOOP THROUGH EVERY PLAY IN DRIVE #
