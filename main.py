@@ -121,10 +121,10 @@ def main():
 
     # Example 2 (get_plays_given_seasons_and_weeks)
     # - Grabbing all plays from a specified season and starting at desired week
-    index_of_desired_season = all_available_seasons.index("2020")
+    index_of_desired_season = all_available_seasons.index("2021")
     example_season = [all_available_seasons[index_of_desired_season]] # Needs to be a list of lists
     example_weeks = all_available_weeks_for_associated_seasons[index_of_desired_season]
-    example_start_week = example_weeks.index("Week 4")
+    example_start_week = example_weeks.index("Week 3")
     example_week_start = [example_weeks[example_start_week::]] # Needs to be a list of lists
     get_plays_given_seasons_and_weeks(scraper, example_season, example_week_start)
 
