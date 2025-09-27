@@ -1,0 +1,989 @@
+Season,Week,Day,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayStart,PlayTimeFormation,PlayDescription
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,1,Cleveland Browns,0,1,0,Kickoff from HOU 35,,Kickoff,"— K.Fairbairn kicks 65 yards from HOU 35 to end zone, Touchback."
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,1,Cleveland Browns,0,2,0,11 Yard Pass,1st & 10 at CLE 25,15:00 1st,— J.Flacco pass short middle to J.Ford to CLE 36 for 11 yards (D.Houston-Carson). HOU-S.Rankins was injured during the play.
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,1,Cleveland Browns,0,3,0,5 Yard Pass,1st & 10 at CLE 36,14:37 1st Shotgun,"— J.Flacco pass short left to Dav.Bell to CLE 41 for 5 yards (D.Perryman, D.King)."
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,1,Cleveland Browns,0,4,0,-4 Yard Run,2nd & 5 at CLE 41,13:59 1st Shotgun,— J.Ford right end to CLE 37 for -4 yards (D.Perryman).
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,1,Cleveland Browns,0,5,0,-6 Yard Pass,3rd & 9 at CLE 37,13:17 1st Shotgun,"— J.Flacco pass short right to K.Hunt to CLE 31 for -6 yards (D.Stingley, K.Davis)."
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,1,Cleveland Browns,0,6,0,Punt,4th & 15 at CLE 31,12:32 1st,"— C.Bojorquez punts 52 yards to HOU 17, Center-C.Hughlett, fair catch by D.King."
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,2,Houston Texans,0,1,0,3 Yard Pass,1st & 10 at HOU 17,12:25 1st Shotgun,— C.Stroud pass short right to D.Singletary pushed ob at HOU 20 for 3 yards (J.Owusu-Koramoah).
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,2,Houston Texans,0,2,0,21 Yard Pass,2nd & 7 at HOU 20,11:51 1st,— C.Stroud pass short left to N.Collins pushed ob at HOU 41 for 21 yards (J.Thornhill) [Z.Smith].
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,2,Houston Texans,0,3,0,Pass Incomplete,1st & 10 at HOU 41,11:08 1st Shotgun,— C.Stroud pass incomplete deep right to D.Schultz.
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,2,Houston Texans,0,4,0,2 Yard Run,2nd & 10 at HOU 41,11:03 1st,"— D.Singletary left tackle to HOU 43 for 2 yards (M.Garrett, Da.Bell)."
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,2,Houston Texans,0,5,0,5 Yard Penalty,3rd & 8 at HOU 43,10:19 1st Shotgun,"— C.Stroud pass incomplete short left to N.Brown. PENALTY on CLE-M.Garrett, Defensive Offside, 5 yards, enforced at HOU 43 - No Play."
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,2,Houston Texans,0,6,0,Pass Incomplete,3rd & 3 at HOU 48,10:14 1st Shotgun,"— C.Stroud pass incomplete deep left to N.Brown (J.Thornhill, D.Ward)."
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,2,Houston Texans,0,7,0,Punt,4th & 3 at HOU 48,10:09 1st,"— C.Johnston punts 46 yards to CLE 6, Center-J.Weeks. J.Proche to CLE 8 for 2 yards (K.Boyd; D.Ross)."
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,3,Cleveland Browns,0,1,0,2 Yard Run,1st & 10 at CLE 8,10:00 1st,"— M.Dunn reported in as eligible. K.Hunt up the middle to CLE 10 for 2 yards (D.Perryman, B.Cashman)."
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,3,Cleveland Browns,0,2,0,Pass Incomplete,2nd & 8 at CLE 10,09:21 1st Shotgun,— J.Flacco pass incomplete short right to K.Hunt.
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,3,Cleveland Browns,0,3,0,3 Yard Pass,3rd & 8 at CLE 10,09:16 1st Shotgun,— J.Flacco pass short right to K.Hunt to CLE 13 for 3 yards (D.King).
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,3,Cleveland Browns,0,4,0,Punt,4th & 5 at CLE 13,08:31 1st,"— C.Bojorquez punts 32 yards to CLE 45, Center-C.Hughlett, out of bounds."
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,4,Houston Texans,1,1,0,3 Yard Pass,1st & 10 at CLE 45,08:23 1st Shotgun,— C.Stroud pass short left to D.Singletary to CLE 42 for 3 yards (J.Owusu-Koramoah).
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,4,Houston Texans,1,2,0,1 Yard Run,2nd & 7 at CLE 42,07:50 1st Shotgun,— D.Singletary up the middle to CLE 41 for 1 yard (J.Owusu-Koramoah).
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,4,Houston Texans,1,3,0,38 Yard Pass,3rd & 6 at CLE 41,07:09 1st Shotgun,— C.Stroud pass deep left to N.Collins to CLE 3 for 38 yards (G.Newsome).
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,4,Houston Texans,1,4,0,Timeout,,06:21 1st,— Timeout #1 by HOU at 06:21.
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,4,Houston Texans,1,5,0,Pass Incomplete,1st & 3 at CLE 3,06:21 1st,— C.Stroud pass incomplete short middle to A.Beck (J.Elliott).
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,4,Houston Texans,1,6,0,1 Yard Run,2nd & 3 at CLE 3,06:18 1st Shotgun,— C.Stroud left end pushed ob at CLE 2 for 1 yard (M.Emerson).
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,4,Houston Texans,1,7,0,Pass Incomplete,3rd & 2 at CLE 2,05:36 1st Shotgun,— C.Stroud pass incomplete short right to R.Woods (G.Newsome).
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,4,Houston Texans,1,8,1,Field Goal,4th & 2 at CLE 2,05:32 1st,"— K.Fairbairn 21 yard field goal is GOOD, Center-J.Weeks, Holder-C.Johnston."
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,5,Cleveland Browns,1,1,0,Kickoff from HOU 35,,Kickoff,"— K.Fairbairn kicks 65 yards from HOU 35 to end zone, Touchback."
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,5,Cleveland Browns,1,2,0,45 Yard Pass,1st & 10 at CLE 25,05:29 1st Shotgun,— J.Flacco pass deep right to D.Njoku to HOU 30 for 45 yards (S.Nelson).
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,5,Cleveland Browns,1,3,0,8 Yard Pass,1st & 10 at HOU 30,04:45 1st Shotgun,— J.Flacco pass short left to D.Njoku to HOU 22 for 8 yards (D.Houston-Carson).
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,5,Cleveland Browns,1,4,0,14 Yard Pass,2nd & 2 at HOU 22,04:04 1st,— M.Dunn reported in as eligible. J.Flacco pass short right to A.Cooper ran ob at HOU 8 for 14 yards.
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,5,Cleveland Browns,1,5,0,Timeout,,03:24 1st,— Timeout #1 by CLE at 03:24.
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,5,Cleveland Browns,1,6,0,5 Yard Run,1st & 8 at HOU 8,03:24 1st Shotgun,— Direct snap to K.Hunt. K.Hunt up the middle to HOU 3 for 5 yards (C.Harris).
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,5,Cleveland Browns,1,7,0,2 Yard Pass,2nd & 3 at HOU 3,02:50 1st,— J.Flacco pass short left to H.Bryant to HOU 1 for 2 yards (D.Houston-Carson).
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,5,Cleveland Browns,1,8,1,Touchdown,3rd & 1 at HOU 1,02:12 1st,"— N.Harris and M.Dunn reported in as eligible. K.Hunt up the middle for 1 yard, TOUCHDOWN."
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,5,Cleveland Browns,1,9,1,Extra Point,,02:09 1st,"— R.Patterson extra point is GOOD, Center-C.Hughlett, Holder-C.Bojorquez."
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,6,Houston Texans,1,1,0,Kickoff from CLE 35,,Kickoff,"— R.Patterson kicks 65 yards from CLE 35 to end zone, Touchback."
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,6,Houston Texans,1,2,0,29 Yard Run,1st & 10 at HOU 25,02:09 1st,— D.Singletary right end to CLE 46 for 29 yards (S.Takitaki).
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,6,Houston Texans,1,3,0,27 Yard Pass,1st & 10 at CLE 46,"01:34 1st No Huddle, Shotgun",— C.Stroud pass deep right to J.Metchie ran ob at CLE 19 for 27 yards (D.Ward).
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,6,Houston Texans,1,4,0,4 Yard Run,1st & 10 at CLE 19,00:58 1st,— N.Collins left end to CLE 15 for 4 yards (J.Owusu-Koramoah).
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,6,Houston Texans,1,5,1,Touchdown,2nd & 6 at CLE 15,00:18 1st,"— C.Stroud pass short left to N.Collins for 15 yards, TOUCHDOWN."
+2023,Wild Card,SAT,01/13,Browns,Texans,1st Quarter,6,Houston Texans,1,6,1,Extra Point,,00:11 1st,"— K.Fairbairn extra point is GOOD, Center-J.Weeks, Holder-C.Johnston. HOU-L.Tunsil was injured during the play."
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,1,Cleveland Browns,1,1,0,Kickoff from HOU 35,,Kickoff,"— K.Fairbairn kicks 65 yards from HOU 35 to end zone, Touchback."
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,1,Cleveland Browns,1,2,0,47 Yard Pass,1st & 10 at CLE 25,00:11 1st Shotgun,— J.Flacco pass short middle to H.Bryant to HOU 28 for 47 yards (D.Houston-Carson).
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,1,Cleveland Browns,1,3,0,4 Yard Run,1st & 10 at HOU 28,15:00 2nd Shotgun,— J.Ford left guard to HOU 24 for 4 yards (B.Cashman).
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,1,Cleveland Browns,1,4,0,4 Yard Run,2nd & 6 at HOU 24,14:24 2nd Shotgun,— J.Ford up the middle to HOU 20 for 4 yards (D.King; K.Davis). CLE-J.Bitonio was injured during the play. His return is Questionable.
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,1,Cleveland Browns,1,5,0,3 Yard Run,3rd & 2 at HOU 20,13:52 2nd,— J.Flacco right guard to HOU 17 for 3 yards (C.Harris).
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,1,Cleveland Browns,1,6,0,6 Yard Pass,1st & 10 at HOU 17,13:09 2nd Shotgun,"— J.Flacco pass short right to Dav.Bell to HOU 11 for 6 yards (J.Pitre, C.Harris)."
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,1,Cleveland Browns,1,7,1,Touchdown,2nd & 4 at HOU 11,12:23 2nd Shotgun,"— J.Flacco pass short middle to K.Hunt for 11 yards, TOUCHDOWN."
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,1,Cleveland Browns,1,8,1,Extra Point,,12:18 2nd,"— R.Patterson extra point is GOOD, Center-C.Hughlett, Holder-C.Bojorquez."
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,2,Houston Texans,1,1,0,Kickoff from CLE 35,,Kickoff,— R.Patterson kicks 55 yards from CLE 35 to HOU 10. D.Ogunbowale to HOU 24 for 14 yards (M.Adams).
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,2,Houston Texans,1,2,1,Touchdown,1st & 10 at HOU 24,12:13 2nd,"— C.Stroud pass short right to B.Jordan for 76 yards, TOUCHDOWN."
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,2,Houston Texans,1,3,1,Extra Point,,12:00 2nd,"— K.Fairbairn extra point is GOOD, Center-J.Weeks, Holder-C.Johnston."
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,3,Cleveland Browns,0,1,0,Kickoff from HOU 35,,Kickoff,"— K.Fairbairn kicks 65 yards from HOU 35 to end zone, Touchback."
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,3,Cleveland Browns,0,2,0,Pass Incomplete,1st & 10 at CLE 25,12:00 2nd Shotgun,— J.Flacco pass incomplete deep right to D.Njoku (S.Nelson).
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,3,Cleveland Browns,0,3,0,Timeout,,11:54 2nd,— Timeout #2 by CLE at 11:54.
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,3,Cleveland Browns,0,4,0,-4 Yard Pass,2nd & 10 at CLE 25,11:54 2nd Shotgun,— J.Flacco pass short right to J.Ford to CLE 21 for -4 yards (C.Harris).
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,3,Cleveland Browns,0,5,0,-8 Yard Sack,3rd & 14 at CLE 21,11:09 2nd Shotgun,— J.Flacco sacked at CLE 13 for -8 yards (D.Barnett).
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,3,Cleveland Browns,0,6,0,Punt,4th & 22 at CLE 13,10:28 2nd,"— C.Bojorquez punts 51 yards to HOU 36, Center-C.Hughlett. D.King to HOU 44 for 8 yards (J.Kunaszyk)."
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,4,Houston Texans,0,1,0,-1 Yard Run,1st & 10 at HOU 44,10:17 2nd,"— D.Pierce left tackle to HOU 43 for -1 yards (J.Owusu-Koramoah, M.Garrett)."
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,4,Houston Texans,0,2,0,-2 Yard Pass,2nd & 11 at HOU 43,09:41 2nd Shotgun,— C.Stroud pass short left to D.Singletary to HOU 41 for -2 yards (J.Owusu-Koramoah).
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,4,Houston Texans,0,3,0,Pass Incomplete,3rd & 13 at HOU 41,08:56 2nd Shotgun,— C.Stroud pass incomplete deep right to N.Collins.
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,4,Houston Texans,0,4,0,Punt,4th & 13 at HOU 41,08:49 2nd,"— C.Johnston punts 49 yards to CLE 10, Center-J.Weeks, fair catch by J.Proche."
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,5,Cleveland Browns,0,1,0,7 Yard Run,1st & 10 at CLE 10,08:42 2nd,"— J.Ford up the middle to CLE 17 for 7 yards (C.Harris, S.Nelson)."
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,5,Cleveland Browns,0,2,0,5 Yard Pass,2nd & 3 at CLE 17,08:00 2nd Shotgun,— J.Flacco pass short left to D.Njoku to CLE 22 for 5 yards (C.Harris).
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,5,Cleveland Browns,0,3,0,2 Yard Run,1st & 10 at CLE 22,07:19 2nd Shotgun,— J.Flacco scrambles right end to CLE 24 for 2 yards (D.King).
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,5,Cleveland Browns,0,4,0,Pass Incomplete,2nd & 8 at CLE 24,06:33 2nd Shotgun,"— J.Flacco pass incomplete deep right. Penalty on CLE, Illegal Shift, declined."
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,5,Cleveland Browns,0,5,0,6 Yard Pass,3rd & 8 at CLE 24,06:28 2nd Shotgun,— J.Flacco pass short right to D.Njoku to CLE 30 for 6 yards (S.Nelson).
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,5,Cleveland Browns,0,6,0,Punt,4th & 2 at CLE 30,05:51 2nd,"— C.Bojorquez punts 41 yards to HOU 29, Center-C.Hughlett, out of bounds."
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,6,Houston Texans,1,1,0,9 Yard Run,1st & 10 at HOU 29,05:44 2nd,— J.Metchie right end to HOU 38 for 9 yards (D.Ward).
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,6,Houston Texans,1,2,0,6 Yard Run,2nd & 1 at HOU 38,05:07 2nd,— D.Singletary left tackle to HOU 44 for 6 yards (G.Newsome).
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,6,Houston Texans,1,3,0,12 Yard Pass,1st & 10 at HOU 44,04:30 2nd,— C.Stroud pass short right to N.Collins pushed ob at CLE 44 for 12 yards (D.Harmon).
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,6,Houston Texans,1,4,0,6 Yard Pass,1st & 10 at CLE 44,03:51 2nd Shotgun,"— C.Stroud pass short left to X.Hutchinson to CLE 38 for 6 yards (M.Emerson, C.Mitchell)."
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,6,Houston Texans,1,5,0,-1 Yard Run,2nd & 4 at CLE 38,03:11 2nd Shotgun,— D.Singletary up the middle to CLE 39 for -1 yards (J.Owusu-Koramoah).
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,6,Houston Texans,1,6,0,12 Yard Penalty,3rd & 5 at CLE 39,02:30 2nd Shotgun,"— C.Stroud pass incomplete deep left to D.Schultz [J.Owusu-Koramoah]. PENALTY on CLE-R.Hickman, Defensive Pass Interference, 12 yards, enforced at CLE 39 - No Play."
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,6,Houston Texans,1,7,0,-8 Yard Run,1st & 10 at CLE 27,02:25 2nd,"— D.Singletary left guard pushed ob at CLE 4 for 23 yards (T.Fields). PENALTY on HOU-S.Mason, Offensive Holding, 10 yards, enforced at CLE 25."
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,6,Houston Texans,1,8,0,-2 Yard Run,1st & 18 at CLE 35,02:00 2nd Shotgun,— D.Singletary right end to CLE 37 for -2 yards (D.Tomlinson).
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,6,Houston Texans,1,9,1,Touchdown,2nd & 20 at CLE 37,01:19 2nd,"— C.Stroud pass deep left to D.Schultz for 37 yards, TOUCHDOWN."
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,6,Houston Texans,1,10,1,Extra Point,,01:11 2nd,"— K.Fairbairn extra point is GOOD, Center-J.Weeks, Holder-C.Johnston."
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,7,Cleveland Browns,0,1,0,Kickoff from HOU 35,,Kickoff,"— K.Fairbairn kicks 65 yards from HOU 35 to end zone, Touchback."
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,7,Cleveland Browns,0,2,0,19 Yard Pass,1st & 10 at CLE 25,01:11 2nd,— J.Flacco pass deep right to A.Cooper to CLE 44 for 19 yards (D.King; B.Cashman).
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,7,Cleveland Browns,0,3,0,Pass Incomplete,1st & 10 at CLE 44,"00:48 2nd No Huddle, Shotgun",— J.Flacco pass incomplete short right to A.Cooper.
+2023,Wild Card,SAT,01/13,Browns,Texans,2nd Quarter,7,Cleveland Browns,0,4,0,-9 Yard Sack,2nd & 10 at CLE 44,00:43 2nd Shotgun,— J.Flacco sacked at CLE 35 for -9 yards (W.Anderson).
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,1,Houston Texans,0,1,0,Kickoff from CLE 35,,Kickoff,"— R.Patterson kicks 65 yards from CLE 35 to end zone, Touchback."
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,1,Houston Texans,0,2,0,0 Yard Run,1st & 10 at HOU 25,15:00 3rd Shotgun,"— D.Singletary left guard to HOU 25 for no gain (M.Garrett, D.Tomlinson)."
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,1,Houston Texans,0,3,0,11 Yard Pass,2nd & 10 at HOU 25,14:23 3rd Shotgun,— C.Stroud pass short right to J.Metchie pushed ob at HOU 36 for 11 yards (G.Newsome).
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,1,Houston Texans,0,4,0,1 Yard Run,1st & 10 at HOU 36,13:46 3rd,— D.Singletary right end to HOU 37 for 1 yard (J.Owusu-Koramoah; Z.Smith).
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,1,Houston Texans,0,5,0,6 Yard Pass,2nd & 9 at HOU 37,13:01 3rd,— C.Stroud pass short right to X.Hutchinson pushed ob at HOU 43 for 6 yards (Da.Bell).
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,1,Houston Texans,0,6,0,-1 Yard Pass,3rd & 3 at HOU 43,12:21 3rd Shotgun,— C.Stroud pass short right to N.Collins to HOU 42 for -1 yards (J.Owusu-Koramoah).
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,1,Houston Texans,0,7,0,Penalty,4th & 4 at HOU 42,11:41 3rd,"— C.Johnston punts 43 yards to CLE 15, Center-J.Weeks, fair catch by J.Proche. Penalty on HOU-D.Ogunbowale, Offensive Holding, offsetting, enforced at HOU 42 - No Play. Penalty on CLE, Illegal Formation, offsetting."
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,1,Houston Texans,0,8,0,Punt,4th & 9 at HOU 37,11:34 3rd,"— C.Johnston punts 45 yards to CLE 18, Center-J.Weeks, out of bounds."
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,2,Cleveland Browns,1,1,0,4 Yard Pass,1st & 10 at CLE 18,11:27 3rd,— J.Flacco pass short left to Dav.Bell to CLE 22 for 4 yards (D.King).
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,2,Cleveland Browns,1,2,0,10 Yard Pass,2nd & 6 at CLE 22,10:47 3rd,— J.Flacco pass short middle to D.Njoku to CLE 32 for 10 yards (C.Harris). HOU-C.Harris was injured during the play.
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,2,Cleveland Browns,1,3,0,6 Yard Run,1st & 10 at CLE 32,10:18 3rd,— K.Hunt right tackle to CLE 38 for 6 yards (D.Stingley).
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,2,Cleveland Browns,1,4,0,2 Yard Run,2nd & 4 at CLE 38,09:42 3rd,"— J.Ford right tackle to CLE 40 for 2 yards (W.Anderson, D.King)."
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,2,Cleveland Browns,1,5,0,16 Yard Pass,3rd & 2 at CLE 40,08:57 3rd,— J.Flacco pass short middle to A.Cooper to HOU 44 for 16 yards (D.Houston-Carson).
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,2,Cleveland Browns,1,6,0,-10 Yard Penalty,1st & 10 at HOU 44,08:15 3rd Shotgun,"— J.Flacco pass short left to J.Ford to HOU 44 for no gain (D.Perryman, B.Cashman). PENALTY on CLE-E.Pocic, Offensive Holding, 10 yards, enforced at HOU 44 - No Play."
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,2,Cleveland Browns,1,7,0,4 Yard Pass,1st & 20 at CLE 46,07:44 3rd Shotgun,— J.Flacco pass short right to Dav.Bell to 50 for 4 yards (D.King; B.Cashman).
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,2,Cleveland Browns,1,8,0,16 Yard Pass,2nd & 16 at 50,07:02 3rd Shotgun,"— J.Flacco pass short middle to Dav.Bell to HOU 34 for 16 yards (B.Cashman, D.Houston-Carson)."
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,2,Cleveland Browns,1,9,1,Touchdown,1st & 10 at HOU 34,06:21 3rd Shotgun,"— J.Flacco pass deep left INTERCEPTED by S.Nelson [D.Barnett] at HOU 18. S.Nelson for 82 yards, TOUCHDOWN."
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,3,Cleveland Browns,1,1,0,Kickoff from HOU 35,,Kickoff,"— K.Fairbairn kicks 65 yards from HOU 35 to end zone, Touchback."
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,3,Cleveland Browns,1,2,0,4 Yard Pass,1st & 10 at CLE 25,06:05 3rd,— J.Flacco pass short right to Dav.Bell pushed ob at CLE 29 for 4 yards (D.King).
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,3,Cleveland Browns,1,3,0,5 Yard Pass,2nd & 6 at CLE 29,05:29 3rd Shotgun,— J.Flacco pass short right to Dav.Bell pushed ob at CLE 34 for 5 yards (S.Nelson).
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,3,Cleveland Browns,1,4,0,-1 Yard Run,3rd & 1 at CLE 34,04:59 3rd,"— N.Harris reported in as eligible. K.Hunt right tackle to CLE 33 for -1 yards (B.Cashman, W.Anderson)."
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,3,Cleveland Browns,1,5,1,Touchdown,4th & 2 at CLE 33,04:13 3rd Shotgun,"— J.Flacco pass short right intended for H.Bryant INTERCEPTED by C.Harris at CLE 36. C.Harris for 36 yards, TOUCHDOWN."
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,4,Cleveland Browns,0,1,0,Kickoff from HOU 35,,Kickoff,"— K.Fairbairn kicks 65 yards from HOU 35 to end zone, Touchback."
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,4,Cleveland Browns,0,2,0,4 Yard Pass,1st & 10 at CLE 25,04:06 3rd Shotgun,— J.Flacco pass short right to J.Ford ran ob at CLE 29 for 4 yards (J.Pitre).
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,4,Cleveland Browns,0,3,0,Pass Incomplete,2nd & 6 at CLE 29,"03:40 3rd No Huddle, Shotgun",— J.Flacco pass incomplete short left to D.Njoku.
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,4,Cleveland Browns,0,4,0,16 Yard Pass,3rd & 6 at CLE 29,03:36 3rd Shotgun,— J.Flacco pass short middle to D.Njoku to CLE 45 for 16 yards (B.Cashman) [J.Greenard].
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,4,Cleveland Browns,0,5,0,3 Yard Pass,1st & 10 at CLE 45,"03:09 3rd No Huddle, Shotgun",— J.Flacco pass short left to D.Njoku to CLE 48 for 3 yards (D.King).
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,4,Cleveland Browns,0,6,0,Pass Incomplete,2nd & 7 at CLE 48,"02:48 3rd No Huddle, Shotgun",— J.Flacco pass incomplete short left to M.Goodwin (S.Nelson). CLE-J.Hudson was injured during the play.
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,4,Cleveland Browns,0,7,0,11 Yard Pass,3rd & 7 at CLE 48,02:43 3rd Shotgun,— J.Flacco pass short right to H.Bryant to HOU 41 for 11 yards (B.Cashman) [M.Collins].
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,4,Cleveland Browns,0,8,0,4 Yard Pass,1st & 10 at HOU 41,"02:15 3rd No Huddle, Shotgun",— J.Flacco pass short middle to J.Ford to HOU 37 for 4 yards (B.Cashman).
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,4,Cleveland Browns,0,9,0,Pass Incomplete,2nd & 6 at HOU 37,"01:44 3rd No Huddle, Shotgun",— J.Flacco pass incomplete deep middle to D.Njoku.
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,4,Cleveland Browns,0,10,0,Pass Incomplete,3rd & 6 at HOU 37,01:37 3rd Shotgun,— J.Flacco pass incomplete short left to H.Bryant (D.Stingley).
+2023,Wild Card,SAT,01/13,Browns,Texans,3rd Quarter,4,Cleveland Browns,0,11,0,Turnover on Downs,4th & 6 at HOU 37,01:32 3rd Shotgun,— J.Flacco sacked at 50 for -13 yards (C.Harris).
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,1,Houston Texans,1,1,0,11 Yard Pass,1st & 10 at 50,01:27 3rd Shotgun,— C.Stroud pass short left to N.Collins to CLE 39 for 11 yards (J.Thornhill).
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,1,Houston Texans,1,2,0,5 Yard Run,1st & 10 at CLE 39,00:54 3rd,— D.Singletary up the middle to CLE 34 for 5 yards (S.Takitaki; S.Harris).
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,1,Houston Texans,1,3,0,1 Yard Run,2nd & 5 at CLE 34,00:13 3rd Shotgun,"— D.Singletary up the middle to CLE 33 for 1 yard (Da.Bell, D.Tomlinson)."
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,1,Houston Texans,1,4,0,11 Yard Pass,3rd & 4 at CLE 33,15:00 4th Shotgun,— C.Stroud pass short middle to R.Woods to CLE 22 for 11 yards (G.Newsome).
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,1,Houston Texans,1,5,0,3 Yard Run,1st & 10 at CLE 22,14:19 4th,"— D.Singletary up the middle to CLE 19 for 3 yards (J.Kunaszyk, S.Takitaki)."
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,1,Houston Texans,1,6,1,Touchdown,2nd & 7 at CLE 19,13:33 4th,"— D.Singletary left guard for 19 yards, TOUCHDOWN."
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,1,Houston Texans,1,7,1,Extra Point,,13:27 4th,"— K.Fairbairn extra point is GOOD, Center-J.Weeks, Holder-C.Johnston. PENALTY on CLE-M.Garrett, Defensive Offside, 5 yards, enforced between downs."
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,2,Cleveland Browns,0,1,0,Kickoff from HOU 40,,Kickoff,"— K.Fairbairn kicks 60 yards from HOU 40 to end zone, Touchback."
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,2,Cleveland Browns,0,2,0,3 Yard Run,1st & 10 at CLE 25,13:27 4th Shotgun,— J.Ford right guard to CLE 28 for 3 yards (B.Cashman; K.Davis).
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,2,Cleveland Browns,0,3,0,3 Yard Run,2nd & 7 at CLE 28,12:42 4th Shotgun,"— J.Ford up the middle to CLE 31 for 3 yards (K.Hinish, J.Pitre)."
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,2,Cleveland Browns,0,4,0,8 Yard Run,3rd & 4 at CLE 31,12:02 4th Shotgun,— J.Flacco scrambles left end to CLE 39 for 8 yards (D.King).
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,2,Cleveland Browns,0,5,0,-2 Yard Run,1st & 10 at CLE 39,"11:33 4th No Huddle, Shotgun",— K.Hunt left tackle to CLE 37 for -2 yards (M.Collins).
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,2,Cleveland Browns,0,6,0,7 Yard Pass,2nd & 12 at CLE 37,10:55 4th Shotgun,— J.Flacco pass short right to E.Moore to CLE 44 for 7 yards (S.Nelson).
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,2,Cleveland Browns,0,7,0,2 Yard Pass,3rd & 5 at CLE 44,10:14 4th Shotgun,— J.Flacco pass short left to K.Hunt to CLE 46 for 2 yards (D.King).
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,2,Cleveland Browns,0,8,0,Pass Incomplete,4th & 3 at CLE 46,09:28 4th Shotgun,— J.Flacco pass incomplete short left to D.Njoku.
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,3,Houston Texans,0,1,0,1 Yard Run,1st & 10 at CLE 46,09:22 4th,— 10-D.Mills in at QB. D.Pierce up the middle to CLE 45 for 1 yard (S.Harris).
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,3,Houston Texans,0,2,0,0 Yard Run,2nd & 9 at CLE 45,08:37 4th,— D.Pierce left tackle to CLE 45 for no gain (J.Elliott).
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,3,Houston Texans,0,3,0,6 Yard Pass,3rd & 9 at CLE 45,07:53 4th Shotgun,— D.Mills pass short right to J.Metchie to CLE 39 for 6 yards (J.Thornhill).
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,3,Houston Texans,0,4,0,Punt,4th & 8 at CLE 44,07:04 4th,"— C.Johnston punts 44 yards to end zone, Center-J.Weeks, Touchback."
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,4,Cleveland Browns,0,1,0,-1 Yard Pass,1st & 10 at CLE 20,06:57 4th Shotgun,— J.Flacco pass short left to K.Hunt to CLE 19 for -1 yards (D.Ross).
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,4,Cleveland Browns,0,2,0,14 Yard Run,2nd & 11 at CLE 19,06:16 4th Shotgun,— K.Hunt left guard to CLE 33 for 14 yards (A.Amos).
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,4,Cleveland Browns,0,3,0,Pass Incomplete,1st & 10 at CLE 33,"05:50 4th No Huddle, Shotgun",— J.Flacco pass incomplete short left.
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,4,Cleveland Browns,0,4,0,1 Yard Run,2nd & 10 at CLE 33,05:47 4th Shotgun,"— K.Hunt left tackle to CLE 34 for 1 yard (K.Davis, K.Hinish)."
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,4,Cleveland Browns,0,5,0,10 Yard Pass,3rd & 9 at CLE 34,05:06 4th Shotgun,— J.Flacco pass short right to Dav.Bell pushed ob at CLE 44 for 10 yards (K.Boyd).
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,4,Cleveland Browns,0,6,0,5 Yard Pass,1st & 10 at CLE 44,04:29 4th Shotgun,— J.Flacco pass short left to E.Moore to CLE 49 for 5 yards (D.Ross; K.Jackson).
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,4,Cleveland Browns,0,7,0,10 Yard Pass,2nd & 5 at CLE 49,03:53 4th Shotgun,— J.Flacco pass short middle to A.Cooper to HOU 41 for 10 yards (D.Ross).
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,4,Cleveland Browns,0,8,0,-2 Yard Run,1st & 10 at HOU 41,03:09 4th Shotgun,— J.Ford left guard to HOU 43 for -2 yards (K.Davis).
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,4,Cleveland Browns,0,9,0,5 Yard Pass,2nd & 12 at HOU 43,02:40 4th Shotgun,"— J.Flacco pass short right to H.Bryant to HOU 38 for 5 yards (D.Ross, K.Boyd)."
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,4,Cleveland Browns,0,10,0,0 Yard Run,3rd & 7 at HOU 38,"02:03 4th No Huddle, Shotgun","— J.Ford up the middle to HOU 38 for no gain (H.To'oTo'o, D.Barnett)."
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,4,Cleveland Browns,0,11,0,Turnover on Downs,4th & 7 at HOU 38,01:58 4th Shotgun,— J.Flacco sacked at HOU 47 for -9 yards (K.Hinish).
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,5,Houston Texans,0,1,0,-1 Yard Run,1st & 10 at HOU 47,01:53 4th,— D.Mills kneels to HOU 46 for -1 yards.
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,5,Houston Texans,0,2,0,-2 Yard Run,2nd & 11 at HOU 46,01:12 4th,— D.Mills kneels to HOU 44 for -2 yards.
+2023,Wild Card,SAT,01/13,Browns,Texans,4th Quarter,5,Houston Texans,0,3,0,-1 Yard Run,3rd & 13 at HOU 44,00:33 4th,— D.Mills kneels to HOU 43 for -1 yards.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,1,Kansas City Chiefs,1,1,0,Kickoff from MIA 35,,Kickoff,— J.Sanders kicks 50 yards from MIA 35 to KC 15. L.Chenal to KC 31 for 16 yards (M.Reed; C.Tindall).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,1,Kansas City Chiefs,1,2,0,Pass Incomplete,1st & 10 at KC 31,14:57 1st Shotgun,— P.Mahomes pass incomplete short middle to T.Kelce.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,1,Kansas City Chiefs,1,3,0,Pass Incomplete,2nd & 10 at KC 31,14:52 1st Shotgun,— P.Mahomes pass incomplete short left to R.Rice.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,1,Kansas City Chiefs,1,4,0,11 Yard Pass,3rd & 10 at KC 31,14:49 1st Shotgun,— P.Mahomes pass short right to T.Kelce to KC 42 for 11 yards (B.Jones).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,1,Kansas City Chiefs,1,5,0,4 Yard Run,1st & 10 at KC 42,14:10 1st Shotgun,— I.Pacheco up the middle to KC 46 for 4 yards (C.Wilkins; B.Jones).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,1,Kansas City Chiefs,1,6,0,10 Yard Run,2nd & 6 at KC 46,13:30 1st Shotgun,— I.Pacheco up the middle to MIA 44 for 10 yards (D.Elliott).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,1,Kansas City Chiefs,1,7,0,8 Yard Pass,1st & 10 at MIA 44,12:57 1st Shotgun,— P.Mahomes pass short right to T.Kelce to MIA 36 for 8 yards (D.Elliott; D.Riley).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,1,Kansas City Chiefs,1,8,0,23 Yard Run,2nd & 2 at MIA 36,12:21 1st,— I.Pacheco left end to MIA 13 for 23 yards (D.Hand).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,1,Kansas City Chiefs,1,9,0,2 Yard Run,1st & 10 at MIA 13,11:45 1st Shotgun,— I.Pacheco left guard to MIA 11 for 2 yards (D.Long).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,1,Kansas City Chiefs,1,10,1,Touchdown,2nd & 8 at MIA 11,11:10 1st Shotgun,"— P.Mahomes pass short right to R.Rice for 11 yards, TOUCHDOWN."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,1,Kansas City Chiefs,1,11,1,Extra Point,,11:05 1st,"— H.Butker extra point is GOOD, Center-J.Winchester, Holder-T.Townsend."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,2,Miami Dolphins,0,1,0,Kickoff from KC 35,,Kickoff,"— H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,2,Miami Dolphins,0,2,0,1 Yard Run,1st & 10 at MIA 25,11:05 1st,— R.Mostert left end to MIA 26 for 1 yard (N.Bolton; G.Karlaftis).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,2,Miami Dolphins,0,3,0,1 Yard Run,2nd & 9 at MIA 26,10:27 1st Shotgun,— R.Mostert left guard to MIA 27 for 1 yard (G.Karlaftis).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,2,Miami Dolphins,0,4,0,-5 Yard Penalty,3rd & 8 at MIA 27,09:43 1st Shotgun,"— PENALTY on MIA-A.Jackson, False Start, 5 yards, enforced at MIA 27 - No Play."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,2,Miami Dolphins,0,5,0,6 Yard Pass,3rd & 13 at MIA 22,09:23 1st Shotgun,— T.Tagovailoa pass short right to J.Wilson to MIA 28 for 6 yards (N.Bolton; C.Conner).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,2,Miami Dolphins,0,6,0,Punt,4th & 7 at MIA 28,08:43 1st,"— J.Bailey punts 28 yards to KC 44, Center-B.Ferguson, downed by MIA-C.Munson."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,3,Kansas City Chiefs,0,1,0,1 Yard Run,1st & 10 at KC 44,08:35 1st Shotgun,— I.Pacheco right guard to KC 45 for 1 yard (D.Riley; E.Ogbah).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,3,Kansas City Chiefs,0,2,0,3 Yard Pass,2nd & 9 at KC 45,08:03 1st Shotgun,— P.Mahomes pass short left to M.Hardman to KC 48 for 3 yards (K.Kohou).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,3,Kansas City Chiefs,0,3,0,Pass Incomplete,3rd & 6 at KC 48,07:22 1st Shotgun,— P.Mahomes pass incomplete deep right to M.Hardman.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,3,Kansas City Chiefs,0,4,0,Punt,4th & 6 at KC 48,07:16 1st,"— T.Townsend punts 41 yards to MIA 11, Center-J.Winchester, downed by KC-L.Chenal."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,4,Miami Dolphins,0,1,0,9 Yard Run,1st & 10 at MIA 11,07:07 1st,— J.Waddle left end to MIA 20 for 9 yards (J.Reid).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,4,Miami Dolphins,0,2,0,5 Yard Run,2nd & 1 at MIA 20,06:26 1st Shotgun,"— R.Mostert left guard to MIA 25 for 5 yards (L.Chenal, M.Edwards)."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,4,Miami Dolphins,0,3,0,0 Yard Run,1st & 10 at MIA 25,05:46 1st Shotgun,— D.Achane right end to MIA 25 for no gain (D.Tranquill).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,4,Miami Dolphins,0,4,0,10 Yard Run,2nd & 10 at MIA 25,05:05 1st,— T.Tagovailoa scrambles right end ran ob at MIA 35 for 10 yards (D.Tranquill).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,4,Miami Dolphins,0,5,0,9 Yard Pass,1st & 10 at MIA 35,04:24 1st,— T.Tagovailoa pass short right to D.Achane pushed ob at MIA 44 for 9 yards (D.Tranquill).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,4,Miami Dolphins,0,6,0,Pass Incomplete,2nd & 1 at MIA 44,03:43 1st,— T.Tagovailoa pass incomplete short left to D.Achane.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,4,Miami Dolphins,0,7,0,-4 Yard Penalty,3rd & 1 at MIA 44,03:39 1st Shotgun,"— D.Achane right guard to MIA 46 for 2 yards (L.Chenal). PENALTY on MIA, Illegal Formation, 4 yards, enforced at MIA 44 - No Play."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,1st Quarter,4,Miami Dolphins,0,8,0,Interception,3rd & 5 at MIA 40,03:11 1st Shotgun,— T.Tagovailoa pass deep middle intended for J.Waddle INTERCEPTED by M.Edwards [G.Karlaftis] at KC 42. M.Edwards to KC 42 for no gain (T.Hill).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,1,Kansas City Chiefs,1,1,0,Pass Incomplete,1st & 10 at KC 42,03:03 1st Shotgun,— P.Mahomes pass incomplete short left to R.Rice.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,1,Kansas City Chiefs,1,2,0,23 Yard Pass,2nd & 10 at KC 42,02:58 1st Shotgun,— P.Mahomes pass short middle to R.Rice to MIA 35 for 23 yards (D.Elliott; D.Riley).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,1,Kansas City Chiefs,1,3,0,11 Yard Run,1st & 10 at MIA 35,02:10 1st,— I.Pacheco up the middle to MIA 24 for 11 yards (B.Jones). MIA-E.Apple was injured during the play.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,1,Kansas City Chiefs,1,4,0,3 Yard Run,1st & 10 at MIA 24,01:41 1st,— I.Pacheco right end to MIA 21 for 3 yards (D.Long).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,1,Kansas City Chiefs,1,5,0,Pass Incomplete,2nd & 7 at MIA 21,01:01 1st Shotgun,— P.Mahomes pass incomplete short middle to T.Kelce.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,1,Kansas City Chiefs,1,6,0,7 Yard Pass,3rd & 7 at MIA 21,00:56 1st Shotgun,"— P.Mahomes pass short left to R.Rice to MIA 15 for 6 yards (E.Bonner). Kansas City challenged the short of the line to gain ruling, and the play was REVERSED. (Shotgun) P.Mahomes pass short left to R.Rice to MIA 14 for 7 yards (E.Bonner)."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,1,Kansas City Chiefs,1,7,0,Timeout,,00:52 1st,— Timeout #1 by KC at 00:52.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,1,Kansas City Chiefs,1,8,0,4 Yard Run,1st & 10 at MIA 14,00:52 1st Shotgun,"— N.Allegretti reported in as eligible. Direct snap to I.Pacheco. I.Pacheco right guard to MIA 10 for 4 yards (D.Riley, D.Long)."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,1,Kansas City Chiefs,1,9,0,0 Yard Run,2nd & 6 at MIA 10,00:20 1st Shotgun,— I.Pacheco left end to MIA 10 for no gain (Z.Sieler; C.Wilkins).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,1,Kansas City Chiefs,1,10,0,Pass Incomplete,3rd & 6 at MIA 10,15:00 2nd Shotgun,"— C.Humphrey to MIA 15 for -5 yards. FUMBLES, recovered by KC-P.Mahomes at MIA 16. P.Mahomes pass incomplete short right."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,1,Kansas City Chiefs,1,11,1,Field Goal,4th & 6 at MIA 10,14:55 2nd,"— H.Butker 28 yard field goal is GOOD, Center-J.Winchester, Holder-T.Townsend."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,2,Miami Dolphins,1,1,0,Kickoff from KC 35,,Kickoff,— H.Butker kicks 46 yards from KC 35 to MIA 19. A.Ingold to MIA 38 for 19 yards (D.Bush).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,2,Miami Dolphins,1,2,0,9 Yard Pass,1st & 10 at MIA 38,14:45 2nd,— T.Tagovailoa pass short right to T.Hill ran ob at MIA 47 for 9 yards (L.Sneed).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,2,Miami Dolphins,1,3,1,Touchdown,2nd & 1 at MIA 47,14:11 2nd Shotgun,"— T.Tagovailoa pass deep right to T.Hill for 53 yards, TOUCHDOWN. Penalty on KC-T.McDuffie, Defensive Pass Interference, declined."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,2,Miami Dolphins,1,4,1,Extra Point,,14:01 2nd,"— J.Sanders extra point is GOOD, Center-B.Ferguson, Holder-J.Bailey."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,3,Kansas City Chiefs,1,1,0,Kickoff from MIA 35,,Kickoff,"— J.Sanders kicks 46 yards from MIA 35 to KC 19. L.Chenal to KC 32 for 13 yards (C.Brooks). PENALTY on KC-Ca.Jones, Illegal Block Above the Waist, 10 yards, enforced at KC 30."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,3,Kansas City Chiefs,1,2,0,22 Yard Pass,1st & 10 at KC 20,13:55 2nd Shotgun,— P.Mahomes pass short left to T.Kelce to KC 42 for 22 yards (D.Elliott; J.Ramsey).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,3,Kansas City Chiefs,1,3,0,Pass Incomplete,1st & 10 at KC 42,13:13 2nd Shotgun,— P.Mahomes pass incomplete short right to T.Kelce.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,3,Kansas City Chiefs,1,4,0,7 Yard Pass,2nd & 10 at KC 42,13:10 2nd Shotgun,— P.Mahomes pass short left to R.Rice to KC 49 for 7 yards (E.Apple).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,3,Kansas City Chiefs,1,5,0,8 Yard Pass,3rd & 3 at KC 49,12:30 2nd Shotgun,— P.Mahomes pass short left to M.Valdes-Scantling to MIA 43 for 8 yards (J.Ramsey).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,3,Kansas City Chiefs,1,6,0,1 Yard Run,1st & 10 at MIA 43,11:53 2nd Shotgun,— C.Edwards-Helaire right guard to MIA 42 for 1 yard (D.Hand; E.Ogbah).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,3,Kansas City Chiefs,1,7,0,8 Yard Pass,2nd & 9 at MIA 42,11:09 2nd Shotgun,— P.Mahomes pass short middle to T.Kelce to MIA 34 for 8 yards (B.Jones).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,3,Kansas City Chiefs,1,8,0,-4 Yard Run,3rd & 1 at MIA 34,10:29 2nd Shotgun,— M.Hardman right end to MIA 38 for -4 yards (E.Apple).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,3,Kansas City Chiefs,1,9,0,28 Yard Run,4th & 5 at MIA 38,09:42 2nd Shotgun,— P.Mahomes scrambles right end ran ob at MIA 10 for 28 yards (D.Riley).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,3,Kansas City Chiefs,1,10,0,2 Yard Run,1st & 10 at MIA 10,09:06 2nd,— I.Pacheco right guard to MIA 8 for 2 yards (D.Hand; R.Davis).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,3,Kansas City Chiefs,1,11,0,-10 Yard Penalty,2nd & 8 at MIA 8,08:24 2nd Shotgun,"— P.Mahomes pass short right to R.Rice for 8 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on KC-J.Taylor, Illegal Block Above the Waist, 10 yards, enforced at MIA 8 - No Play."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,3,Kansas City Chiefs,1,12,0,10 Yard Pass,2nd & 18 at MIA 18,08:20 2nd Shotgun,— P.Mahomes pass short right to Ju.Watson ran ob at MIA 8 for 10 yards [Z.Sieler].
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,3,Kansas City Chiefs,1,13,0,Pass Incomplete,3rd & 8 at MIA 8,07:41 2nd Shotgun,— P.Mahomes pass incomplete short middle to R.Rice (Z.Sieler).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,3,Kansas City Chiefs,1,14,1,Field Goal,4th & 8 at MIA 8,07:39 2nd,"— H.Butker 26 yard field goal is GOOD, Center-J.Winchester, Holder-T.Townsend."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,4,Miami Dolphins,0,1,0,Kickoff from KC 35,,Kickoff,— H.Butker kicks 60 yards from KC 35 to MIA 5. B.Berrios pushed ob at MIA 35 for 30 yards (Ja.Watson).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,4,Miami Dolphins,0,2,0,8 Yard Run,1st & 10 at MIA 35,07:29 2nd,— R.Mostert left end to MIA 43 for 8 yards (J.Reid).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,4,Miami Dolphins,0,3,0,4 Yard Run,2nd & 2 at MIA 43,06:46 2nd Shotgun,— R.Mostert left end to MIA 47 for 4 yards (J.Reid).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,4,Miami Dolphins,0,4,0,3 Yard Run,1st & 10 at MIA 47,06:01 2nd Shotgun,— R.Mostert up the middle to 50 for 3 yards (M.Danna; W.Gay).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,4,Miami Dolphins,0,5,0,6 Yard Run,2nd & 7 at 50,05:23 2nd Shotgun,— R.Mostert up the middle to KC 44 for 6 yards (D.Nnadi; W.Gay).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,4,Miami Dolphins,0,6,0,Timeout,,04:38 2nd,— Timeout #1 by MIA at 04:38.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,4,Miami Dolphins,0,7,0,Pass Incomplete,3rd & 1 at KC 44,04:38 2nd Shotgun,— T.Tagovailoa pass incomplete short right to R.Mostert.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,4,Miami Dolphins,0,8,0,Pass Incomplete,4th & 1 at KC 44,04:35 2nd Shotgun,— T.Tagovailoa pass incomplete short left to T.Hill (T.McDuffie).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,5,Kansas City Chiefs,0,1,0,6 Yard Pass,1st & 10 at KC 45,04:31 2nd Shotgun,— P.Mahomes pass short left to T.Kelce to MIA 49 for 6 yards (D.Elliott).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,5,Kansas City Chiefs,0,2,0,1 Yard Run,2nd & 4 at MIA 49,03:55 2nd,— I.Pacheco left end to MIA 48 for 1 yard (M.Ingram).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,5,Kansas City Chiefs,0,3,0,Pass Incomplete,3rd & 3 at MIA 48,03:14 2nd Shotgun,— P.Mahomes pass incomplete deep left to M.Hardman.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,5,Kansas City Chiefs,0,4,0,Punt,4th & 3 at MIA 48,03:09 2nd,"— T.Townsend punts 48 yards to end zone, Center-J.Winchester, Touchback."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,6,Miami Dolphins,0,1,0,2 Yard Run,1st & 10 at MIA 20,03:02 2nd Shotgun,— D.Achane right end to MIA 22 for 2 yards (M.Pennel).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,6,Miami Dolphins,0,2,0,0 Yard Pass,2nd & 8 at MIA 22,02:23 2nd Shotgun,— T.Tagovailoa pass short left to T.Hill to MIA 22 for no gain (G.Karlaftis; N.Bolton).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,6,Miami Dolphins,0,3,0,-5 Yard Penalty,3rd & 8 at MIA 22,02:00 2nd Shotgun,"— PENALTY on MIA-T.Hill, False Start, 5 yards, enforced at MIA 22 - No Play."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,6,Miami Dolphins,0,4,0,-7 Yard Sack,3rd & 13 at MIA 17,02:00 2nd Shotgun,— T.Tagovailoa sacked at MIA 10 for -7 yards (G.Karlaftis).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,6,Miami Dolphins,0,5,0,Timeout,,01:55 2nd,— Timeout #2 by KC at 01:55.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,6,Miami Dolphins,0,6,0,Punt,4th & 20 at MIA 10,01:55 2nd,"— J.Bailey punts 51 yards to KC 39, Center-B.Ferguson, downed by MIA-B.Ferguson."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,7,Kansas City Chiefs,1,1,0,5 Yard Penalty,1st & 10 at KC 39,01:43 2nd Shotgun,"— P.Mahomes pass incomplete short right to T.Kelce. PENALTY on MIA-D.Long, Defensive Holding, 5 yards, enforced at KC 39 - No Play."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,7,Kansas City Chiefs,1,2,0,5 Yard Pass,1st & 10 at KC 44,01:38 2nd Shotgun,— P.Mahomes pass short left to R.Rice to KC 49 for 5 yards (K.Kohou).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,7,Kansas City Chiefs,1,3,0,Pass Incomplete,2nd & 5 at KC 49,"01:21 2nd No Huddle, Shotgun",— P.Mahomes pass incomplete short right.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,7,Kansas City Chiefs,1,4,0,-5 Yard Penalty,3rd & 5 at KC 49,01:14 2nd Shotgun,"— PENALTY on KC-J.Taylor, False Start, 5 yards, enforced at KC 49 - No Play."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,7,Kansas City Chiefs,1,5,0,39 Yard Pass,3rd & 10 at KC 44,01:14 2nd Shotgun,— P.Mahomes pass short middle to R.Rice pushed ob at MIA 17 for 39 yards (K.Kohou) [B.Jones].
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,7,Kansas City Chiefs,1,6,0,4 Yard Run,1st & 10 at MIA 17,01:06 2nd Shotgun,— I.Pacheco up the middle to MIA 13 for 4 yards (D.Long; D.Elliott).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,7,Kansas City Chiefs,1,7,0,-1 Yard Pass,2nd & 6 at MIA 13,00:33 2nd Shotgun,— P.Mahomes pass short left to I.Pacheco to MIA 14 for -1 yards (J.Ramsey).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,7,Kansas City Chiefs,1,8,0,Timeout,,00:26 2nd,— Timeout #3 by KC at 00:26.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,7,Kansas City Chiefs,1,9,0,Pass Incomplete,3rd & 7 at MIA 14,00:26 2nd Shotgun,— P.Mahomes pass incomplete short middle.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,7,Kansas City Chiefs,1,10,1,Field Goal,4th & 7 at MIA 14,00:22 2nd,"— H.Butker 32 yard field goal is GOOD, Center-J.Winchester, Holder-T.Townsend."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,8,Miami Dolphins,0,1,0,Kickoff from KC 35,,Kickoff,— H.Butker kicks 57 yards from KC 35 to MIA 8. B.Berrios to MIA 31 for 23 yards (Ca.Jones).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,8,Miami Dolphins,0,2,0,17 Yard Pass,1st & 10 at MIA 31,00:14 2nd Shotgun,— T.Tagovailoa pass deep right to J.Waddle pushed ob at MIA 48 for 17 yards (L.Sneed).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,8,Miami Dolphins,0,3,0,-10 Yard Penalty,1st & 10 at MIA 48,00:06 2nd Shotgun,"— T.Tagovailoa pass incomplete short left. PENALTY on MIA-R.Jones, Illegal Use of Hands, 10 yards, enforced at MIA 48 - No Play."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,2nd Quarter,8,Miami Dolphins,0,4,0,Pass Incomplete,1st & 20 at MIA 38,00:02 2nd Shotgun,— T.Tagovailoa pass incomplete deep right to C.Wilson.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,1,Miami Dolphins,0,1,0,Kickoff from KC 35,,Kickoff,— H.Butker kicks 60 yards from KC 35 to MIA 5. B.Berrios to MIA 21 for 16 yards (N.Jones).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,1,Miami Dolphins,0,2,0,Pass Incomplete,1st & 10 at MIA 21,14:56 3rd Shotgun,— T.Tagovailoa pass incomplete short left to D.Smythe.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,1,Miami Dolphins,0,3,0,5 Yard Run,2nd & 10 at MIA 21,14:52 3rd Shotgun,— R.Mostert right end to MIA 26 for 5 yards (T.McDuffie; N.Bolton).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,1,Miami Dolphins,0,4,0,1 Yard Run,3rd & 5 at MIA 26,14:09 3rd Shotgun,— T.Tagovailoa scrambles right end to MIA 27 for 1 yard (N.Bolton).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,1,Miami Dolphins,0,5,0,Punt,4th & 4 at MIA 27,13:30 3rd,"— J.Bailey punts 46 yards to KC 27, Center-B.Ferguson. R.James pushed ob at KC 28 for 1 yard (A.Ingold)."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,2,Kansas City Chiefs,1,1,0,Pass Incomplete,1st & 10 at KC 28,13:21 3rd Shotgun,— P.Mahomes pass incomplete short right to R.Rice (E.Ogbah).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,2,Kansas City Chiefs,1,2,0,20 Yard Pass,2nd & 10 at KC 28,13:18 3rd Shotgun,— P.Mahomes pass deep left to N.Gray to KC 48 for 20 yards (K.Kohou).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,2,Kansas City Chiefs,1,3,0,-2 Yard Run,1st & 10 at KC 48,12:40 3rd,"— I.Pacheco left end to KC 46 for -2 yards (D.Long, M.Ingram)."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,2,Kansas City Chiefs,1,4,0,13 Yard Pass,2nd & 12 at KC 46,12:02 3rd Shotgun,— P.Mahomes pass short left to T.Kelce to MIA 41 for 13 yards (D.Elliott).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,2,Kansas City Chiefs,1,5,0,Pass Incomplete,1st & 10 at MIA 41,11:15 3rd Shotgun,— P.Mahomes pass incomplete short left.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,2,Kansas City Chiefs,1,6,0,10 Yard Pass,2nd & 10 at MIA 41,11:09 3rd Shotgun,— P.Mahomes pass short left to R.Rice pushed ob at MIA 31 for 10 yards (D.Long). KC-R.Rice was injured during the play.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,2,Kansas City Chiefs,1,7,0,12 Yard Run,1st & 10 at MIA 31,10:49 3rd,— C.Edwards-Helaire left guard to MIA 19 for 12 yards (M.Reed; D.Elliott).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,2,Kansas City Chiefs,1,8,0,Timeout,,10:01 3rd,— Timeout #1 by KC at 10:01.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,2,Kansas City Chiefs,1,9,0,3 Yard Pass,1st & 10 at MIA 19,10:01 3rd Shotgun,"— P.Mahomes pass short right to T.Kelce to MIA 16 for 3 yards (J.Ramsey, D.Riley)."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,2,Kansas City Chiefs,1,10,0,13 Yard Run,2nd & 7 at MIA 16,09:25 3rd Shotgun,— P.Mahomes scrambles right end to MIA 3 for 13 yards (K.Kohou; D.Elliott).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,2,Kansas City Chiefs,1,11,0,0 Yard Run,1st & 3 at MIA 3,08:42 3rd,— I.Pacheco up the middle to MIA 3 for no gain (D.Riley; Z.Sieler).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,2,Kansas City Chiefs,1,12,0,Pass Incomplete,2nd & 3 at MIA 3,08:02 3rd,— P.Mahomes pass incomplete short right [C.Wilkins].
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,2,Kansas City Chiefs,1,13,0,Pass Incomplete,3rd & 3 at MIA 3,07:56 3rd Shotgun,— P.Mahomes pass incomplete short middle [D.Riley].
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,2,Kansas City Chiefs,1,14,1,Field Goal,4th & 3 at MIA 3,07:52 3rd,"— H.Butker 21 yard field goal is GOOD, Center-J.Winchester, Holder-T.Townsend."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,3,Miami Dolphins,0,1,0,Kickoff from KC 35,,Kickoff,"— H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,3,Miami Dolphins,0,2,0,3 Yard Run,1st & 10 at MIA 25,07:49 3rd,— D.Achane left end to MIA 28 for 3 yards (M.Pennel).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,3,Miami Dolphins,0,3,0,5 Yard Pass,2nd & 7 at MIA 28,07:12 3rd,— T.Tagovailoa pass short left to D.Smythe to MIA 33 for 5 yards (D.Tranquill).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,3,Miami Dolphins,0,4,0,1 Yard Run,3rd & 2 at MIA 33,06:33 3rd Shotgun,— D.Achane up the middle to MIA 34 for 1 yard (M.Herring).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,3,Miami Dolphins,0,5,0,3 Yard Run,4th & 1 at MIA 34,"05:58 3rd No Huddle, Shotgun",— D.Achane right guard to MIA 37 for 3 yards (C.Omenihu; M.Pennel).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,3,Miami Dolphins,0,6,0,0 Yard Run,1st & 10 at MIA 37,05:19 3rd Shotgun,— D.Achane left end to MIA 37 for no gain (T.Wharton; N.Bolton).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,3,Miami Dolphins,0,7,0,-4 Yard Sack,2nd & 10 at MIA 37,04:33 3rd Shotgun,— T.Tagovailoa sacked at MIA 33 for -4 yards (sack split by C.Jones and G.Karlaftis).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,3,Miami Dolphins,0,8,0,1 Yard Pass,3rd & 14 at MIA 33,03:51 3rd Shotgun,— T.Tagovailoa pass short left to D.Achane to MIA 34 for 1 yard (N.Bolton).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,3rd Quarter,3,Miami Dolphins,0,9,0,Punt,4th & 13 at MIA 34,03:18 3rd,"— J.Bailey punts 38 yards to KC 28, Center-B.Ferguson, downed by MIA-A.Ingold."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,1,Kansas City Chiefs,1,1,0,-3 Yard Run,1st & 10 at KC 28,03:07 3rd Shotgun,— I.Pacheco right end to KC 25 for -3 yards (M.Reed).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,1,Kansas City Chiefs,1,2,0,15 Yard Penalty,2nd & 13 at KC 25,02:24 3rd Shotgun,"— P.Mahomes pass incomplete deep middle to M.Hardman. PENALTY on MIA-B.Jones, Roughing the Passer, 15 yards, enforced at KC 25 - No Play."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,1,Kansas City Chiefs,1,3,0,10 Yard Pass,1st & 10 at KC 40,02:19 3rd Shotgun,— P.Mahomes pass short right to Ju.Watson to 50 for 10 yards (E.Apple).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,1,Kansas City Chiefs,1,4,0,5 Yard Run,1st & 10 at 50,01:44 3rd,"— I.Pacheco left end to MIA 45 for 5 yards (K.Kohou, Z.Sieler)."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,1,Kansas City Chiefs,1,5,0,Pass Incomplete,2nd & 5 at MIA 45,01:04 3rd Shotgun,— P.Mahomes pass incomplete short left to R.James (J.Ramsey).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,1,Kansas City Chiefs,1,6,0,6 Yard Pass,3rd & 5 at MIA 45,01:00 3rd Shotgun,— P.Mahomes pass short right to R.James to MIA 39 for 6 yards (K.Kohou).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,1,Kansas City Chiefs,1,7,0,1 Yard Run,1st & 10 at MIA 39,00:24 3rd Shotgun,— I.Pacheco right guard to MIA 38 for 1 yard (M.Reed; Z.Sieler).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,1,Kansas City Chiefs,1,8,0,-7 Yard Run,2nd & 9 at MIA 38,15:00 4th Shotgun,"— I.Pacheco right end to MIA 25 for 13 yards (J.Ramsey). PENALTY on KC-T.Smith, Offensive Holding, 10 yards, enforced at MIA 35."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,1,Kansas City Chiefs,1,9,0,28 Yard Pass,2nd & 16 at MIA 45,14:40 4th Shotgun,— P.Mahomes pass deep right to R.Rice ran ob at MIA 17 for 28 yards (B.Jones).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,1,Kansas City Chiefs,1,10,0,0 Yard Run,1st & 10 at MIA 17,14:02 4th,— C.Edwards-Helaire right end to MIA 17 for no gain (B.Jones; M.Reed).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,1,Kansas City Chiefs,1,11,0,Pass Incomplete,2nd & 10 at MIA 17,13:23 4th Shotgun,"— P.Mahomes pass incomplete short right [D.Long]. PENALTY on KC-P.Mahomes, Intentional Grounding, 10 yards, enforced at MIA 17."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,1,Kansas City Chiefs,1,12,0,13 Yard Penalty,3rd & 20 at MIA 27,13:19 4th Shotgun,"— P.Mahomes pass incomplete short right. PENALTY on MIA-C.Wilkins, Roughing the Passer, 13 yards, enforced at MIA 27 - No Play."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,1,Kansas City Chiefs,1,13,0,4 Yard Run,1st & 10 at MIA 14,13:13 4th Shotgun,— I.Pacheco right end to MIA 10 for 4 yards (E.Ogbah).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,1,Kansas City Chiefs,1,14,0,2 Yard Run,2nd & 6 at MIA 10,12:32 4th Shotgun,— I.Pacheco up the middle to MIA 8 for 2 yards (D.Long).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,1,Kansas City Chiefs,1,15,0,5 Yard Pass,3rd & 4 at MIA 8,11:54 4th Shotgun,— P.Mahomes pass short left to C.Edwards-Helaire to MIA 3 for 5 yards (E.Apple).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,1,Kansas City Chiefs,1,16,1,Touchdown,1st & 3 at MIA 3,11:12 4th Shotgun,"— Direct snap to I.Pacheco. I.Pacheco left end for 3 yards, TOUCHDOWN."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,1,Kansas City Chiefs,1,17,1,Extra Point,,11:06 4th,"— H.Butker extra point is GOOD, Center-J.Winchester, Holder-T.Townsend."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,2,Miami Dolphins,0,1,0,Kickoff from KC 35,,Kickoff,"— H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,2,Miami Dolphins,0,2,0,Pass Incomplete,1st & 10 at MIA 25,11:06 4th Shotgun,— T.Tagovailoa pass incomplete deep left to J.Waddle.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,2,Miami Dolphins,0,3,0,6 Yard Pass,2nd & 10 at MIA 25,11:00 4th Shotgun,— T.Tagovailoa pass short right to T.Hill to MIA 31 for 6 yards (N.Bolton).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,2,Miami Dolphins,0,4,0,-5 Yard Penalty,3rd & 4 at MIA 31,10:15 4th Shotgun,"— PENALTY on MIA, Delay of Game, 5 yards, enforced at MIA 31 - No Play."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,2,Miami Dolphins,0,5,0,19 Yard Pass,3rd & 9 at MIA 26,10:15 4th Shotgun,— T.Tagovailoa pass deep left to C.Wilson pushed ob at MIA 45 for 19 yards (C.Conner).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,2,Miami Dolphins,0,6,0,19 Yard Pass,1st & 10 at MIA 45,09:37 4th Shotgun,— T.Tagovailoa pass short middle to R.Cracraft to KC 36 for 19 yards (M.Edwards).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,2,Miami Dolphins,0,7,0,-3 Yard Pass,1st & 10 at KC 36,08:52 4th Shotgun,— T.Tagovailoa pass short left to R.Mostert to KC 39 for -3 yards (N.Bolton).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,2,Miami Dolphins,0,8,0,14 Yard Run,2nd & 13 at KC 39,08:06 4th Shotgun,— T.Tagovailoa scrambles left end pushed ob at KC 25 for 14 yards (L.Sneed).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,2,Miami Dolphins,0,9,0,Pass Incomplete,1st & 10 at KC 25,07:27 4th Shotgun,— T.Tagovailoa pass incomplete deep right to T.Hill (L.Sneed).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,2,Miami Dolphins,0,10,0,Pass Incomplete,2nd & 10 at KC 25,07:21 4th Shotgun,"— T.Tagovailoa sacked at KC 30 for -5 yards (G.Karlaftis). FUMBLES (G.Karlaftis), ball out of bounds at KC 36. Miami challenged the backward pass ruling, and the play was REVERSED. (Shotgun) T.Tagovailoa pass incomplete short right to D.Achane."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,2,Miami Dolphins,0,11,0,-6 Yard Pass,3rd & 10 at KC 25,07:19 4th Shotgun,— T.Tagovailoa pass short right to T.Hill to KC 31 for -6 yards (T.McDuffie).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,2,Miami Dolphins,0,12,0,Turnover on Downs,4th & 16 at KC 31,06:27 4th Shotgun,— T.Tagovailoa pass short left to C.Wilson to KC 22 for 9 yards (T.McDuffie).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,3,Kansas City Chiefs,0,1,0,2 Yard Run,1st & 10 at KC 22,06:22 4th,— I.Pacheco right end to KC 24 for 2 yards (E.Ogbah).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,3,Kansas City Chiefs,0,2,0,3 Yard Run,2nd & 8 at KC 24,05:40 4th Shotgun,— I.Pacheco left end to KC 27 for 3 yards (D.Riley; C.Wilkins).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,3,Kansas City Chiefs,0,3,0,Timeout,,05:34 4th,— Timeout #1 by MIA at 05:34.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,3,Kansas City Chiefs,0,4,0,Pass Incomplete,3rd & 5 at KC 27,05:34 4th Shotgun,— P.Mahomes pass incomplete deep middle to M.Valdes-Scantling.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,3,Kansas City Chiefs,0,5,0,Punt,4th & 5 at KC 27,05:28 4th,"— T.Townsend punts 44 yards to MIA 29, Center-J.Winchester, fair catch by B.Berrios."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,4,Miami Dolphins,0,1,0,Pass Incomplete,1st & 10 at MIA 29,05:20 4th Shotgun,— T.Tagovailoa pass incomplete short left to R.Cracraft.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,4,Miami Dolphins,0,2,0,Pass Incomplete,2nd & 10 at MIA 29,05:16 4th Shotgun,— T.Tagovailoa pass incomplete short left to J.Waddle.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,4,Miami Dolphins,0,3,0,4 Yard Pass,3rd & 10 at MIA 29,05:12 4th Shotgun,— T.Tagovailoa pass short right to D.Smythe to MIA 33 for 4 yards (G.Karlaftis).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,4,Miami Dolphins,0,4,0,9 Yard Pass,4th & 6 at MIA 33,04:27 4th Shotgun,— T.Tagovailoa pass short left to C.Wilson ran ob at MIA 42 for 9 yards.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,4,Miami Dolphins,0,5,0,Pass Incomplete,1st & 10 at MIA 42,04:21 4th Shotgun,— T.Tagovailoa pass incomplete short right to J.Wilson.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,4,Miami Dolphins,0,6,0,Pass Incomplete,2nd & 10 at MIA 42,04:17 4th Shotgun,— T.Tagovailoa pass incomplete short right to C.Wilson (L.Sneed).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,4,Miami Dolphins,0,7,0,Pass Incomplete,3rd & 10 at MIA 42,04:14 4th Shotgun,— T.Tagovailoa pass incomplete short right to B.Berrios (W.Gay) [C.Jones].
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,4,Miami Dolphins,0,8,0,14 Yard Pass,4th & 10 at MIA 42,04:09 4th Shotgun,— T.Tagovailoa pass short right to J.Waddle ran ob at KC 44 for 14 yards.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,4,Miami Dolphins,0,9,0,Pass Incomplete,1st & 10 at KC 44,04:03 4th Shotgun,— T.Tagovailoa pass incomplete short left to C.Wilson (T.McDuffie).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,4,Miami Dolphins,0,10,0,Pass Incomplete,2nd & 10 at KC 44,04:00 4th Shotgun,— T.Tagovailoa pass incomplete short left to C.Wilson.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,4,Miami Dolphins,0,11,0,Pass Incomplete,3rd & 10 at KC 44,03:56 4th Shotgun,— T.Tagovailoa pass incomplete short right.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,4,Miami Dolphins,0,12,0,Pass Incomplete,4th & 10 at KC 44,03:49 4th Shotgun,— T.Tagovailoa pass incomplete deep left to T.Hill.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,5,Kansas City Chiefs,0,1,0,6 Yard Run,1st & 10 at KC 44,03:44 4th,"— I.Pacheco up the middle to 50 for 6 yards (E.Apple, B.Jones). FUMBLES (B.Jones), and recovers at 50."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,5,Kansas City Chiefs,0,2,0,Timeout,,03:33 4th,— Timeout #2 by MIA at 03:33.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,5,Kansas City Chiefs,0,3,0,6 Yard Run,2nd & 4 at 50,03:33 4th,— C.Edwards-Helaire left guard to MIA 44 for 6 yards (D.Riley; B.Jones).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,5,Kansas City Chiefs,0,4,0,0 Yard Run,1st & 10 at MIA 44,02:45 4th,— C.Edwards-Helaire right guard to MIA 44 for no gain (J.Houston; D.Riley).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,5,Kansas City Chiefs,0,5,0,3 Yard Run,2nd & 10 at MIA 44,02:00 4th Shotgun,— C.Edwards-Helaire right end to MIA 41 for 3 yards (R.Davis).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,5,Kansas City Chiefs,0,6,0,Fumble,3rd & 7 at MIA 41,01:15 4th,"— C.Edwards-Helaire left end to MIA 42 for -1 yards (E.Bonner). FUMBLES (E.Bonner), RECOVERED by MIA-D.Hand at MIA 42. D.Hand to MIA 43 for 1 yard."
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,6,Miami Dolphins,0,1,0,11 Yard Pass,1st & 10 at MIA 43,01:08 4th Shotgun,— T.Tagovailoa pass short left to D.Achane to KC 46 for 11 yards (N.Bolton).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,6,Miami Dolphins,0,2,0,Pass Incomplete,1st & 10 at KC 46,"00:44 4th No Huddle, Shotgun",— T.Tagovailoa pass incomplete short left to D.Achane.
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,6,Miami Dolphins,0,3,0,14 Yard Pass,2nd & 10 at KC 46,00:39 4th Shotgun,— T.Tagovailoa pass short middle to R.Cracraft to KC 32 for 14 yards (T.McDuffie).
+2023,Wild Card,SAT,01/13,Dolphins,Chiefs,4th Quarter,6,Miami Dolphins,0,4,0,3 Yard Pass,1st & 10 at KC 32,"00:21 4th No Huddle, Shotgun",— T.Tagovailoa pass short right to D.Smythe to KC 29 for 3 yards (L.Sneed).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,1,Green Bay Packers,1,1,0,Kickoff from DAL 35,,Kickoff,"— B.Aubrey kicks 65 yards from DAL 35 to end zone, Touchback."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,1,Green Bay Packers,1,2,0,0 Yard Run,1st & 10 at GB 25,15:00 1st Shotgun,"— A.Jones left guard to GB 25 for no gain (D.Lawrence, D.Wilson)."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,1,Green Bay Packers,1,3,0,5 Yard Penalty,2nd & 10 at GB 25,14:22 1st,"— J.Love sacked at GB 23 for -2 yards (sack split by C.Golston and D.Wilson). PENALTY on DAL-D.Bland, Illegal Contact, 5 yards, enforced at GB 25 - No Play."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,1,Green Bay Packers,1,4,0,-3 Yard Run,1st & 10 at GB 30,13:57 1st,— A.Jones right guard to GB 27 for -3 yards (D.Clark).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,1,Green Bay Packers,1,5,0,22 Yard Pass,2nd & 13 at GB 27,13:22 1st,— J.Love pass deep middle to R.Doubs to GB 49 for 22 yards (M.Bell) [O.Odighizuwa].
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,1,Green Bay Packers,1,6,0,7 Yard Pass,1st & 10 at GB 49,12:35 1st,— J.Love pass short right to B.Melton to DAL 44 for 7 yards (D.Bland).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,1,Green Bay Packers,1,7,0,3 Yard Run,2nd & 3 at DAL 44,11:58 1st,— A.Jones left tackle to DAL 41 for 3 yards (M.Bell).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,1,Green Bay Packers,1,8,0,4 Yard Run,1st & 10 at DAL 41,11:17 1st,— A.Jones left tackle to DAL 37 for 4 yards (N.Gallimore; M.Bell).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,1,Green Bay Packers,1,9,0,13 Yard Run,2nd & 6 at DAL 37,10:41 1st,— A.Jones right guard to DAL 24 for 13 yards (M.Bell).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,1,Green Bay Packers,1,10,0,5 Yard Run,1st & 10 at DAL 24,10:02 1st,— A.Jones right tackle to DAL 19 for 5 yards (J.Kearse).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,1,Green Bay Packers,1,11,0,8 Yard Pass,2nd & 5 at DAL 19,09:23 1st Shotgun,— J.Love pass short left to L.Musgrave pushed ob at DAL 11 for 8 yards (D.Clark).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,1,Green Bay Packers,1,12,0,0 Yard Run,1st & 10 at DAL 11,08:49 1st,— E.Wilson left tackle to DAL 11 for no gain (M.Bell).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,1,Green Bay Packers,1,13,0,5 Yard Pass,2nd & 10 at DAL 11,08:12 1st,— J.Love pass short right to T.Kraft to DAL 6 for 5 yards (C.Golston; S.Gilmore).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,1,Green Bay Packers,1,14,0,3 Yard Penalty,3rd & 5 at DAL 6,07:30 1st Shotgun,"— PENALTY on DAL-D.Lawrence, Neutral Zone Infraction, 3 yards, enforced at DAL 6 - No Play."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,1,Green Bay Packers,1,15,1,Touchdown,3rd & 2 at DAL 3,07:12 1st Shotgun,"— A.Jones right guard for 3 yards, TOUCHDOWN."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,1,Green Bay Packers,1,16,1,Extra Point,,07:08 1st,"— A.Carlson extra point is GOOD, Center-M.Orzech, Holder-D.Whelan."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,2,Dallas Cowboys,0,1,0,Kickoff from GB 35,,Kickoff,— A.Carlson kicks 64 yards from GB 35 to DAL 1. K.Turpin to DAL 24 for 23 yards (I.McDuffie).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,2,Dallas Cowboys,0,2,0,6 Yard Run,1st & 10 at DAL 24,07:03 1st Shotgun,— T.Pollard right guard to DAL 30 for 6 yards (C.Valentine; Q.Walker).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,2,Dallas Cowboys,0,3,0,1 Yard Run,2nd & 4 at DAL 30,06:34 1st,— T.Pollard right guard to DAL 31 for 1 yard (T.Slaton).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,2,Dallas Cowboys,0,4,0,18 Yard Run,3rd & 3 at DAL 31,05:53 1st Shotgun,— D.Prescott scrambles left end to DAL 49 for 18 yards (K.Nixon).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,2,Dallas Cowboys,0,5,0,0 Yard Pass,1st & 10 at DAL 49,05:15 1st Shotgun,— D.Prescott pass short right to J.Ferguson to DAL 49 for no gain (I.McDuffie).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,2,Dallas Cowboys,0,6,0,2 Yard Run,2nd & 10 at DAL 49,04:42 1st Shotgun,— R.Dowdle right guard to GB 49 for 2 yards (D.Wyatt).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,2,Dallas Cowboys,0,7,0,Pass Incomplete,3rd & 8 at GB 49,04:07 1st Shotgun,— D.Prescott pass incomplete short middle to C.Lamb.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,2,Dallas Cowboys,0,8,0,Punt,4th & 8 at GB 49,04:03 1st,"— B.Anger punts 40 yards to GB 9, Center-T.Sieg, fair catch by J.Reed. PENALTY on DAL-S.Williams, Fair Catch Interference, 15 yards, enforced at GB 9."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,3,Green Bay Packers,0,1,0,Pass Incomplete,1st & 10 at GB 24,03:55 1st Shotgun,— J.Love pass incomplete deep left to B.Melton (J.Kearse).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,3,Green Bay Packers,0,2,0,1 Yard Run,2nd & 10 at GB 24,03:49 1st,— A.Jones right tackle to GB 25 for 1 yard (M.Parsons).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,3,Green Bay Packers,0,3,0,26 Yard Pass,3rd & 9 at GB 25,03:02 1st Shotgun,— J.Love pass deep middle to R.Doubs to DAL 49 for 26 yards (J.Kearse) [D.Armstrong].
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,3,Green Bay Packers,0,4,0,1 Yard Run,1st & 10 at DAL 49,02:18 1st,— E.Wilson left guard to DAL 48 for 1 yard (D.Bland).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,3,Green Bay Packers,0,5,0,Pass Incomplete,2nd & 9 at DAL 48,01:42 1st Shotgun,— J.Love pass incomplete short middle to J.Reed.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,3,Green Bay Packers,0,6,0,Pass Incomplete,3rd & 9 at DAL 48,01:39 1st Shotgun,"— J.Love pass incomplete deep right to J.Reed. Penalty on GB-E.Jenkins, Offensive Holding, declined."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,3,Green Bay Packers,0,7,0,Punt,4th & 9 at DAL 48,01:33 1st,"— D.Whelan punts 40 yards to DAL 8, Center-M.Orzech, fair catch by K.Turpin."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,4,Dallas Cowboys,0,1,0,Pass Incomplete,1st & 10 at DAL 8,01:26 1st,— D.Prescott pass incomplete deep left to B.Cooks.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,4,Dallas Cowboys,0,2,0,5 Yard Run,2nd & 10 at DAL 8,01:20 1st Shotgun,— C.Lamb right guard to DAL 13 for 5 yards (Q.Walker; L.Van Ness).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,1st Quarter,4,Dallas Cowboys,0,3,0,Interception,3rd & 5 at DAL 13,00:47 1st Shotgun,— D.Prescott pass short left intended for B.Cooks INTERCEPTED by J.Alexander at DAL 19. J.Alexander to DAL 19 for no gain (B.Cooks).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,1,Green Bay Packers,1,1,0,13 Yard Pass,1st & 10 at DAL 19,00:43 1st Shotgun,— J.Love pass short left to A.Jones pushed ob at DAL 6 for 13 yards (D.Wilson).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,1,Green Bay Packers,1,2,0,-10 Yard Penalty,1st & 6 at DAL 6,00:06 1st,"— A.Jones right end to DAL 1 for 5 yards (J.Lewis; D.Clark). PENALTY on GB-T.Kraft, Offensive Holding, 10 yards, enforced at DAL 6 - No Play."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,1,Green Bay Packers,1,3,0,15 Yard Pass,1st & 16 at DAL 16,15:00 2nd Shotgun,— J.Love pass short middle to R.Doubs to DAL 1 for 15 yards (D.Bland).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,1,Green Bay Packers,1,4,1,Touchdown,2nd & 1 at DAL 1,14:19 2nd,"— A.Jones left guard for 1 yard, TOUCHDOWN."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,1,Green Bay Packers,1,5,1,Extra Point,,14:15 2nd,"— A.Carlson extra point is GOOD, Center-M.Orzech, Holder-D.Whelan."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,2,Dallas Cowboys,0,1,0,Kickoff from GB 35,,Kickoff,— A.Carlson kicks 67 yards from GB 35 to DAL -2. K.Turpin to DAL 14 for 16 yards (Z.Anderson).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,2,Dallas Cowboys,0,2,0,11 Yard Run,1st & 10 at DAL 14,14:11 2nd,— T.Pollard right tackle to DAL 25 for 11 yards (J.Owens).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,2,Dallas Cowboys,0,3,0,7 Yard Run,1st & 10 at DAL 25,13:39 2nd Shotgun,— T.Pollard right guard to DAL 32 for 7 yards (I.McDuffie).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,2,Dallas Cowboys,0,4,0,1 Yard Run,2nd & 3 at DAL 32,13:08 2nd,— T.Pollard right tackle to DAL 33 for 1 yard (R.Gary).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,2,Dallas Cowboys,0,5,0,4 Yard Pass,3rd & 2 at DAL 33,12:34 2nd Shotgun,"— D.Prescott pass short left to R.Dowdle to DAL 37 for 4 yards (K.Nixon, J.Alexander)."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,2,Dallas Cowboys,0,6,0,Pass Incomplete,1st & 10 at DAL 37,12:00 2nd Shotgun,— D.Prescott pass incomplete short right to C.Lamb.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,2,Dallas Cowboys,0,7,0,22 Yard Pass,2nd & 10 at DAL 37,11:57 2nd Shotgun,— D.Prescott pass deep middle to J.Ferguson to GB 41 for 22 yards (J.Owens).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,2,Dallas Cowboys,0,8,0,6 Yard Run,1st & 10 at GB 41,11:21 2nd,— B.Cooks left end to GB 35 for 6 yards (D.Savage).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,2,Dallas Cowboys,0,9,0,-1 Yard Run,2nd & 4 at GB 35,10:51 2nd Shotgun,— T.Pollard up the middle to GB 36 for -1 yards (K.Clark).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,2,Dallas Cowboys,0,10,0,-6 Yard Sack,3rd & 5 at GB 36,10:12 2nd Shotgun,— D.Prescott sacked at GB 42 for -6 yards (K.Nixon).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,2,Dallas Cowboys,0,11,0,Punt,4th & 16 at GB 47,09:14 2nd,"— B.Anger punts 40 yards to GB 7, Center-T.Sieg, fair catch by J.Reed."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,3,Green Bay Packers,1,1,0,0 Yard Run,1st & 10 at GB 7,09:07 2nd,— A.Jones right tackle to GB 7 for no gain (D.Clark; J.Hankins).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,3,Green Bay Packers,1,2,0,9 Yard Pass,2nd & 10 at GB 7,08:24 2nd Shotgun,"— J.Love pass short middle to C.Watson to GB 16 for 9 yards (D.Wilson, M.Bell)."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,3,Green Bay Packers,1,3,0,10 Yard Pass,3rd & 1 at GB 16,07:41 2nd,— J.Love pass short left to T.Kraft to GB 26 for 10 yards (S.Gilmore).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,3,Green Bay Packers,1,4,0,Timeout,,07:02 2nd,— Timeout #1 by GB at 07:02.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,3,Green Bay Packers,1,5,0,39 Yard Pass,1st & 10 at GB 26,07:02 2nd,— J.Love pass deep right to R.Doubs to DAL 35 for 39 yards (D.Clark).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,3,Green Bay Packers,1,6,0,1 Yard Run,1st & 10 at DAL 35,06:13 2nd Shotgun,— E.Wilson right tackle to DAL 34 for 1 yard (O.Odighizuwa; J.Hankins).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,3,Green Bay Packers,1,7,0,5 Yard Pass,2nd & 9 at DAL 34,05:37 2nd Shotgun,— J.Love pass short right to D.Wicks to DAL 29 for 5 yards (S.Gilmore).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,3,Green Bay Packers,1,8,0,6 Yard Pass,3rd & 4 at DAL 29,"04:54 2nd No Huddle, Shotgun",— J.Love pass short left to L.Musgrave ran ob at DAL 23 for 6 yards (D.Bland).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,3,Green Bay Packers,1,9,0,3 Yard Run,1st & 10 at DAL 23,04:24 2nd,— A.Jones right guard to DAL 20 for 3 yards (C.Golston; D.Clark).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,3,Green Bay Packers,1,10,0,0 Yard Run,2nd & 7 at DAL 20,03:48 2nd,"— A.Jones left tackle to DAL 20 for no gain (N.Gallimore, D.Lawrence)."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,3,Green Bay Packers,1,11,0,Timeout,,03:28 2nd,— Timeout #1 by DAL at 03:28.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,3,Green Bay Packers,1,12,1,Touchdown,3rd & 7 at DAL 20,03:28 2nd Shotgun,"— J.Love pass deep middle to D.Wicks for 20 yards, TOUCHDOWN."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,3,Green Bay Packers,1,13,0,Extra Point No Good,,03:23 2nd,"— A.Carlson extra point is No Good, Hit Right Upright, Center-M.Orzech, Holder-D.Whelan."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,4,Dallas Cowboys,1,1,0,Kickoff from GB 35,,Kickoff,"— A.Carlson kicks 65 yards from GB 35 to end zone, Touchback."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,4,Dallas Cowboys,1,2,0,Pass Incomplete,1st & 10 at DAL 25,03:23 2nd Shotgun,— D.Prescott pass incomplete short left to C.Lamb.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,4,Dallas Cowboys,1,3,0,9 Yard Pass,2nd & 10 at DAL 25,03:20 2nd Shotgun,— D.Prescott pass short left to M.Gallup to DAL 34 for 9 yards (J.Alexander).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,4,Dallas Cowboys,1,4,0,2 Yard Pass,3rd & 1 at DAL 34,03:00 2nd No Huddle,— D.Prescott pass short right to B.Cooks to DAL 36 for 2 yards (K.Nixon).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,4,Dallas Cowboys,1,5,0,16 Yard Pass,1st & 10 at DAL 36,02:32 2nd Shotgun,— D.Prescott pass short middle to M.Gallup to GB 48 for 16 yards (J.Alexander).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,4,Dallas Cowboys,1,6,0,8 Yard Pass,1st & 10 at GB 48,"02:06 2nd No Huddle, Shotgun",— D.Prescott pass short right to C.Lamb to GB 40 for 8 yards (C.Valentine).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,4,Dallas Cowboys,1,7,1,Touchdown,2nd & 2 at GB 40,02:00 2nd Shotgun,"— D.Prescott pass short left intended for C.Lamb INTERCEPTED by D.Savage at GB 36. D.Savage for 64 yards, TOUCHDOWN."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,5,Dallas Cowboys,1,1,0,Kickoff from GB 35,,Kickoff,— A.Carlson kicks 67 yards from GB 35 to DAL -2. K.Turpin to DAL 45 for 47 yards (Er.Wilson).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,5,Dallas Cowboys,1,2,0,Timeout,,01:43 2nd,— Timeout #2 by GB at 01:43.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,5,Dallas Cowboys,1,3,0,18 Yard Pass,1st & 10 at DAL 45,01:43 2nd Shotgun,"— D.Prescott pass short right to T.Pollard pushed ob at DAL 48 for 3 yards (Q.Walker). PENALTY on GB-Q.Walker, Horse Collar Tackle, 15 yards, enforced at DAL 48."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,5,Dallas Cowboys,1,4,0,5 Yard Run,1st & 10 at GB 37,01:38 2nd Shotgun,— D.Prescott scrambles right end ran ob at GB 32 for 5 yards (D.Campbell).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,5,Dallas Cowboys,1,5,0,4 Yard Run,2nd & 5 at GB 32,01:33 2nd Shotgun,— T.Pollard right end ran ob at GB 28 for 4 yards (Q.Walker; C.Valentine).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,5,Dallas Cowboys,1,6,0,4 Yard Pass,3rd & 1 at GB 28,01:29 2nd Shotgun,— D.Prescott pass short right to B.Cooks to GB 24 for 4 yards (D.Campbell).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,5,Dallas Cowboys,1,7,0,1 Yard Run,1st & 10 at GB 24,"01:07 2nd No Huddle, Shotgun",— T.Pollard left guard to GB 23 for 1 yard (K.Brooks; Q.Walker).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,5,Dallas Cowboys,1,8,0,8 Yard Pass,2nd & 9 at GB 23,"00:48 2nd No Huddle, Shotgun","— D.Prescott pass short right to J.Ferguson to GB 15 for 8 yards (C.Valentine, Q.Walker)."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,5,Dallas Cowboys,1,9,0,4 Yard Run,3rd & 1 at GB 15,"00:27 2nd No Huddle, Shotgun",— D.Prescott scrambles up the middle to GB 11 for 4 yards (Q.Walker).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,5,Dallas Cowboys,1,10,0,Timeout,,00:23 2nd,— Timeout #2 by DAL at 00:23.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,5,Dallas Cowboys,1,11,0,Pass Incomplete,1st & 10 at GB 11,00:23 2nd Shotgun,— D.Prescott pass incomplete short middle to J.Ferguson (D.Campbell).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,5,Dallas Cowboys,1,12,0,0 Yard Pass,2nd & 10 at GB 11,00:18 2nd Shotgun,— D.Prescott pass short right to T.Pollard to GB 11 for no gain (C.Wooden).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,5,Dallas Cowboys,1,13,0,Timeout,,00:12 2nd,— Timeout #3 by DAL at 00:12.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,5,Dallas Cowboys,1,14,0,Timeout,,00:12 2nd,— Timeout #3 by GB at 00:12.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,5,Dallas Cowboys,1,15,0,10 Yard Pass,3rd & 10 at GB 11,00:12 2nd Shotgun,"— D.Prescott pass short left to C.Lamb to GB 1 for 10 yards (K.Nixon, J.Alexander). Penalty on GB-K.Nixon, Illegal Contact, declined."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,5,Dallas Cowboys,1,16,0,Pass Incomplete,1st & 1 at GB 1,00:06 2nd Shotgun,— D.Prescott pass incomplete short right to C.Lamb (K.Nixon).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,5,Dallas Cowboys,1,17,1,Touchdown,2nd & 1 at GB 1,00:02 2nd Shotgun,"— D.Prescott pass short right to J.Ferguson for 1 yard, TOUCHDOWN."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,2nd Quarter,5,Dallas Cowboys,1,18,1,Extra Point,,00:00 2nd,"— B.Aubrey extra point is GOOD, Center-T.Sieg, Holder-B.Anger."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,1,Dallas Cowboys,1,1,0,Kickoff from GB 35,,Kickoff,— A.Carlson kicks 63 yards from GB 35 to DAL 2. K.Turpin to DAL 24 for 22 yards (I.McDuffie).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,1,Dallas Cowboys,1,2,0,13 Yard Pass,1st & 10 at DAL 24,14:55 3rd Shotgun,— D.Prescott pass short middle to C.Lamb to DAL 37 for 13 yards (Q.Walker; I.McDuffie).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,1,Dallas Cowboys,1,3,0,6 Yard Run,1st & 10 at DAL 37,14:15 3rd No Huddle,— T.Pollard left tackle to DAL 43 for 6 yards (I.McDuffie).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,1,Dallas Cowboys,1,4,0,2 Yard Run,2nd & 4 at DAL 43,13:38 3rd Shotgun,— T.Pollard up the middle to DAL 45 for 2 yards (K.Nixon; T.Slaton).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,1,Dallas Cowboys,1,5,0,15 Yard Penalty,3rd & 2 at DAL 45,13:06 3rd Shotgun,"— D.Prescott sacked at DAL 45 for 0 yards (K.Clark). PENALTY on GB-K.Clark, Face Mask, 15 yards, enforced at DAL 45 - No Play."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,1,Dallas Cowboys,1,6,0,Pass Incomplete,1st & 10 at GB 40,12:40 3rd,— D.Prescott pass incomplete short right to J.Ferguson.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,1,Dallas Cowboys,1,7,0,4 Yard Pass,2nd & 10 at GB 40,12:36 3rd Shotgun,— D.Prescott pass short left to C.Lamb to GB 36 for 4 yards (K.Nixon; J.Alexander).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,1,Dallas Cowboys,1,8,0,9 Yard Pass,3rd & 6 at GB 36,"11:55 3rd No Huddle, Shotgun",— D.Prescott pass short right to C.Lamb to GB 27 for 9 yards (J.Owens; K.Brooks).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,1,Dallas Cowboys,1,9,0,6 Yard Run,1st & 10 at GB 27,11:20 3rd Shotgun,— T.Pollard up the middle to GB 21 for 6 yards (D.Campbell).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,1,Dallas Cowboys,1,10,0,5 Yard Pass,2nd & 4 at GB 21,10:49 3rd Shotgun,— D.Prescott pass short right to C.Lamb to GB 16 for 5 yards (C.Valentine).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,1,Dallas Cowboys,1,11,0,Sack,1st & 10 at GB 16,10:10 3rd Shotgun,— D.Prescott sacked at GB 16 for 0 yards (D.Campbell).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,1,Dallas Cowboys,1,12,0,Pass Incomplete,2nd & 10 at GB 16,09:38 3rd Shotgun,— D.Prescott pass incomplete short middle [R.Gary].
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,1,Dallas Cowboys,1,13,0,Pass Incomplete,3rd & 10 at GB 16,09:31 3rd Shotgun,— D.Prescott pass incomplete short middle to J.Tolbert (P.Smith).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,1,Dallas Cowboys,1,14,1,Field Goal,4th & 10 at GB 16,09:27 3rd,"— B.Aubrey 34 yard field goal is GOOD, Center-T.Sieg, Holder-B.Anger."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,2,Green Bay Packers,1,1,0,Kickoff from DAL 35,,Kickoff,"— B.Aubrey kicks 65 yards from DAL 35 to end zone, Touchback."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,2,Green Bay Packers,1,2,0,8 Yard Run,1st & 10 at GB 25,09:23 3rd,"— A.Jones right end to GB 33 for 8 yards (D.Clark, D.Lawrence)."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,2,Green Bay Packers,1,3,0,4 Yard Run,2nd & 2 at GB 33,08:38 3rd,— A.Jones right end pushed ob at GB 37 for 4 yards (D.Clark).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,2,Green Bay Packers,1,4,0,46 Yard Pass,1st & 10 at GB 37,08:01 3rd,— J.Love pass deep right to R.Doubs ran ob at DAL 17 for 46 yards (J.Kearse) [M.Parsons].
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,2,Green Bay Packers,1,5,0,8 Yard Run,1st & 10 at DAL 17,07:25 3rd Shotgun,— A.Jones right tackle to DAL 9 for 8 yards (D.Wilson; O.Odighizuwa).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,2,Green Bay Packers,1,6,1,Touchdown,2nd & 2 at DAL 9,06:41 3rd,"— A.Jones right guard for 9 yards, TOUCHDOWN."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,2,Green Bay Packers,1,7,1,Extra Point,,06:38 3rd,"— A.Carlson extra point is GOOD, Center-M.Orzech, Holder-D.Whelan."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,3,Dallas Cowboys,1,1,0,Kickoff from GB 35,,Kickoff,"— A.Carlson kicks 62 yards from GB 35 to DAL 3. K.Turpin to DAL 31 for 28 yards (K.Welch). PENALTY on DAL-J.Tolbert, Offensive Holding, 10 yards, enforced at DAL 22."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,3,Dallas Cowboys,1,2,0,9 Yard Pass,1st & 10 at DAL 12,06:32 3rd Shotgun,— D.Prescott pass short middle to T.Pollard to DAL 21 for 9 yards (Q.Walker). GB-I.McDuffie was injured during the play.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,3,Dallas Cowboys,1,3,0,2 Yard Pass,2nd & 1 at DAL 21,06:14 3rd Shotgun,— D.Prescott pass short right to C.Lamb pushed ob at DAL 23 for 2 yards (K.Nixon).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,3,Dallas Cowboys,1,4,0,42 Yard Pass,1st & 10 at DAL 23,05:51 3rd Shotgun,— D.Prescott pass deep left to M.Gallup to GB 35 for 42 yards (J.Alexander; D.Savage).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,3,Dallas Cowboys,1,5,0,6 Yard Pass,1st & 10 at GB 35,"05:23 3rd No Huddle, Shotgun",— D.Prescott pass short left to B.Cooks to GB 29 for 6 yards (J.Alexander). GB-J.Alexander was injured during the play.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,3,Dallas Cowboys,1,6,0,5 Yard Run,2nd & 4 at GB 29,05:10 3rd Shotgun,— T.Pollard up the middle to GB 24 for 5 yards (C.Wooden; Q.Walker).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,3,Dallas Cowboys,1,7,0,9 Yard Run,1st & 10 at GB 24,04:40 3rd Shotgun,— R.Dowdle right tackle to GB 15 for 9 yards (D.Savage).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,3,Dallas Cowboys,1,8,0,Pass Incomplete,2nd & 1 at GB 15,04:13 3rd Shotgun,— D.Prescott pass incomplete short right to R.Dowdle [K.Brooks].
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,3,Dallas Cowboys,1,9,0,2 Yard Run,3rd & 1 at GB 15,04:07 3rd Shotgun,"— T.Pollard up the middle to GB 13 for 2 yards (K.Clark, D.Campbell)."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,3,Dallas Cowboys,1,10,0,Pass Incomplete,1st & 10 at GB 13,"03:55 3rd No Huddle, Shotgun",— D.Prescott pass incomplete short right to T.Pollard [K.Clark].
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,3,Dallas Cowboys,1,11,0,5 Yard Penalty,2nd & 10 at GB 13,03:50 3rd Shotgun,"— D.Prescott pass incomplete short left to R.Dowdle. PENALTY on GB-P.Smith, Defensive Offside, 5 yards, enforced at GB 13 - No Play."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,3,Dallas Cowboys,1,12,0,6 Yard Run,2nd & 5 at GB 8,03:45 3rd Shotgun,— D.Prescott scrambles left end pushed ob at GB 2 for 6 yards (D.Savage).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,3,Dallas Cowboys,1,13,0,1 Yard Penalty,1st & 2 at GB 2,03:12 3rd,"— D.Prescott pass incomplete short right to C.Lamb (K.Nixon). PENALTY on GB-K.Enagbare, Defensive Holding, 1 yard, enforced at GB 2 - No Play. Penalty on GB-C.Valentine, Defensive Holding, declined."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,3,Dallas Cowboys,1,14,1,Touchdown,1st & 1 at GB 1,03:07 3rd Shotgun,"— T.Pollard up the middle for 1 yard, TOUCHDOWN."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,3,Dallas Cowboys,1,15,0,-10 Yard Penalty,,03:03 3rd,"— TWO-POINT CONVERSION ATTEMPT. D.Prescott pass to J.Ferguson is complete. ATTEMPT SUCCEEDS. PENALTY on DAL-J.Tolbert, Offensive Pass Interference, 10 yards, enforced at GB 2 - No Play. Penalty on DAL-T.Biadasz, Ineligible Downfield Pass, declined."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,3,Dallas Cowboys,1,16,0,Extra Point No Good,,03:03 3rd,"— B.Aubrey extra point is No Good, Hit Right Upright, Center-T.Sieg, Holder-B.Anger."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,4,Green Bay Packers,1,1,0,Kickoff from DAL 35,,Kickoff,"— B.Aubrey kicks 65 yards from DAL 35 to end zone, Touchback."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,4,Green Bay Packers,1,2,0,10 Yard Run,1st & 10 at GB 25,03:03 3rd,— A.Jones left guard to GB 35 for 10 yards (S.Gilmore).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,4,Green Bay Packers,1,3,0,27 Yard Run,1st & 10 at GB 35,02:19 3rd,— A.Jones right tackle to DAL 38 for 27 yards (S.Gilmore).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,4,Green Bay Packers,1,4,1,Touchdown,1st & 10 at DAL 38,01:36 3rd,"— J.Love pass deep right to L.Musgrave for 38 yards, TOUCHDOWN."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,4,Green Bay Packers,1,5,1,Extra Point,,01:27 3rd,"— A.Carlson extra point is GOOD, Center-M.Orzech, Holder-D.Whelan."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,5,Dallas Cowboys,0,1,0,Kickoff from GB 35,,Kickoff,"— A.Carlson kicks 65 yards from GB 35 to end zone, Touchback."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,5,Dallas Cowboys,0,2,0,11 Yard Pass,1st & 10 at DAL 25,01:27 3rd Shotgun,"— D.Prescott pass short middle to J.Ferguson to DAL 36 for 11 yards (C.Valentine) [K.Enagbare]. Green Bay challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)"
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,5,Dallas Cowboys,0,3,0,5 Yard Pass,1st & 10 at DAL 36,01:03 3rd Shotgun,— D.Prescott pass short left to T.Pollard to DAL 41 for 5 yards (C.Ballentine).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,5,Dallas Cowboys,0,4,0,0 Yard Pass,2nd & 5 at DAL 41,"00:41 3rd No Huddle, Shotgun",— D.Prescott pass short right to T.Pollard to DAL 41 for no gain (Q.Walker) [K.Enagbare].
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,5,Dallas Cowboys,0,5,0,Pass Incomplete,3rd & 5 at DAL 41,"00:13 3rd No Huddle, Shotgun",— D.Prescott pass incomplete short right to T.Pollard.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,3rd Quarter,5,Dallas Cowboys,0,6,0,Pass Incomplete,4th & 5 at DAL 41,00:03 3rd Shotgun,— D.Prescott pass incomplete deep left to J.Tolbert.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,1,Green Bay Packers,1,1,0,19 Yard Run,1st & 10 at DAL 40,15:00 4th,— A.Jones left end to DAL 21 for 19 yards (D.Bland).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,1,Green Bay Packers,1,2,0,4 Yard Run,1st & 10 at DAL 21,14:12 4th,— E.Wilson left end pushed ob at DAL 17 for 4 yards (J.Kearse).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,1,Green Bay Packers,1,3,0,5 Yard Run,2nd & 6 at DAL 17,13:30 4th,— E.Wilson right tackle to DAL 12 for 5 yards (M.Bell).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,1,Green Bay Packers,1,4,0,1 Yard Run,3rd & 1 at DAL 12,12:44 4th,— E.Wilson up the middle to DAL 11 for 1 yard (J.Hankins).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,1,Green Bay Packers,1,5,0,Pass Incomplete,1st & 10 at DAL 11,12:00 4th Shotgun,— J.Love pass incomplete short left to J.Reed.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,1,Green Bay Packers,1,6,0,7 Yard Run,2nd & 10 at DAL 11,11:58 4th,— E.Wilson left tackle to DAL 4 for 7 yards (M.Hooker).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,1,Green Bay Packers,1,7,0,1 Yard Run,3rd & 3 at DAL 4,11:12 4th,— E.Wilson up the middle to DAL 3 for 1 yard (D.Lawrence; M.Parsons).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,1,Green Bay Packers,1,8,1,Touchdown,4th & 2 at DAL 3,10:28 4th Shotgun,"— J.Love pass short middle to R.Doubs for 3 yards, TOUCHDOWN."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,1,Green Bay Packers,1,9,1,Extra Point,,10:23 4th,"— A.Carlson extra point is GOOD, Center-M.Orzech, Holder-D.Whelan."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,2,Dallas Cowboys,1,1,0,Kickoff from GB 35,,Kickoff,"— A.Carlson kicks 65 yards from GB 35 to end zone, Touchback."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,2,Dallas Cowboys,1,2,0,12 Yard Pass,1st & 10 at DAL 25,10:23 4th Shotgun,— D.Prescott pass short right to J.Ferguson to DAL 37 for 12 yards (Er.Wilson).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,2,Dallas Cowboys,1,3,0,4 Yard Pass,1st & 10 at DAL 37,"10:04 4th No Huddle, Shotgun",— D.Prescott pass short middle to T.Pollard to DAL 41 for 4 yards (D.Campbell; K.Nixon).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,2,Dallas Cowboys,1,4,0,12 Yard Pass,2nd & 6 at DAL 41,"09:44 4th No Huddle, Shotgun",— D.Prescott pass short right to C.Lamb to GB 47 for 12 yards (Er.Wilson).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,2,Dallas Cowboys,1,5,0,9 Yard Pass,1st & 10 at GB 47,"09:23 4th No Huddle, Shotgun",— D.Prescott pass short right to B.Cooks pushed ob at GB 38 for 9 yards (C.Valentine).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,2,Dallas Cowboys,1,6,0,8 Yard Pass,2nd & 1 at GB 38,"08:56 4th No Huddle, Shotgun",— D.Prescott pass short right to T.Pollard to GB 30 for 8 yards (Er.Wilson).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,2,Dallas Cowboys,1,7,0,7 Yard Pass,1st & 10 at GB 30,"08:30 4th No Huddle, Shotgun","— D.Prescott pass short left to M.Gallup to GB 23 for 7 yards (C.Ballentine, K.Nixon)."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,2,Dallas Cowboys,1,8,0,10 Yard Pass,2nd & 3 at GB 23,"08:02 4th No Huddle, Shotgun",— D.Prescott pass short left to M.Gallup to GB 13 for 10 yards (D.Campbell).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,2,Dallas Cowboys,1,9,0,10 Yard Pass,1st & 10 at GB 13,"07:34 4th No Huddle, Shotgun",— D.Prescott pass short left to R.Dowdle to GB 3 for 10 yards (Er.Wilson; C.Ballentine).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,2,Dallas Cowboys,1,10,0,1 Yard Run,1st & 3 at GB 3,"07:06 4th No Huddle, Shotgun",— D.Prescott scrambles right end to GB 2 for 1 yard (K.Enagbare).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,2,Dallas Cowboys,1,11,0,-5 Yard Sack,2nd & 2 at GB 2,"06:33 4th No Huddle, Shotgun",— D.Prescott sacked at GB 7 for -5 yards (L.Van Ness).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,2,Dallas Cowboys,1,12,1,Touchdown,3rd & 7 at GB 7,"05:58 4th No Huddle, Shotgun","— D.Prescott pass short middle to J.Ferguson for 7 yards, TOUCHDOWN."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,2,Dallas Cowboys,1,13,0,2 Point Conversion,,05:54 4th,— TWO-POINT CONVERSION ATTEMPT. R.Dowdle rushes left guard. ATTEMPT SUCCEEDS.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,3,Green Bay Packers,0,1,0,Kickoff from DAL 35,,Kickoff,— B.Aubrey kicks onside 15 yards from DAL 35 to 50. L.Musgrave (didn't try to advance) to 50 for no gain.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,3,Green Bay Packers,0,2,0,-5 Yard Penalty,1st & 10 at 50,05:52 4th,"— PENALTY on GB-R.Newman, False Start, 5 yards, enforced at 50 - No Play."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,3,Green Bay Packers,0,3,0,3 Yard Run,1st & 15 at GB 45,05:52 4th,"— P.Taylor right guard to GB 48 for 3 yards (C.Golston, D.Wilson)."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,3,Green Bay Packers,0,4,0,Timeout,,05:46 4th,— Timeout #1 by DAL at 05:46.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,3,Green Bay Packers,0,5,0,2 Yard Run,2nd & 12 at GB 48,05:46 4th Shotgun,— P.Taylor up the middle to 50 for 2 yards (N.Gallimore; C.Golston).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,3,Green Bay Packers,0,6,0,Timeout,,05:41 4th,— Timeout #2 by DAL at 05:41.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,3,Green Bay Packers,0,7,0,1 Yard Run,3rd & 10 at 50,05:41 4th Shotgun,— P.Taylor left guard to DAL 49 for 1 yard (D.Armstrong; M.Bell).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,3,Green Bay Packers,0,8,0,Punt,4th & 9 at DAL 49,04:54 4th,"— D.Whelan punts 40 yards to DAL 9, Center-M.Orzech, fair catch by K.Turpin."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,4,Dallas Cowboys,1,1,0,11 Yard Run,1st & 10 at DAL 9,04:49 4th Shotgun,— D.Prescott scrambles right end to DAL 20 for 11 yards (L.Van Ness).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,4,Dallas Cowboys,1,2,0,47 Yard Pass,1st & 10 at DAL 20,"04:20 4th No Huddle, Shotgun",— D.Prescott pass deep left to C.Lamb to GB 33 for 47 yards (Z.Anderson).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,4,Dallas Cowboys,1,3,0,19 Yard Run,1st & 10 at GB 33,"03:43 4th No Huddle, Shotgun","— T.Pollard up the middle to GB 29 for 4 yards (Er.Wilson, C.Wooden). PENALTY on GB-T.Slaton, Unnecessary Roughness, 15 yards, enforced at GB 29."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,4,Dallas Cowboys,1,4,1,Touchdown,1st & 10 at GB 14,03:30 4th Shotgun,"— D.Prescott pass short middle to J.Ferguson for 14 yards, TOUCHDOWN."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,4,Dallas Cowboys,1,5,0,2 Point Conversion,,03:25 4th,— TWO-POINT CONVERSION ATTEMPT. D.Prescott rushes left end. ATTEMPT SUCCEEDS.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,5,Green Bay Packers,0,1,0,Kickoff from DAL 35,,Kickoff,— B.Aubrey kicks onside 9 yards from DAL 35 to DAL 44. J.Reed (didn't try to advance) to DAL 44 for no gain.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,5,Green Bay Packers,0,2,0,1 Yard Run,1st & 10 at DAL 44,03:24 4th,— A.Jones left tackle to DAL 43 for 1 yard (J.Hankins; D.Clark).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,5,Green Bay Packers,0,3,0,Timeout,,03:18 4th,— Timeout #3 by DAL at 03:18.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,5,Green Bay Packers,0,4,0,2 Yard Run,2nd & 9 at DAL 43,03:18 4th,— A.Jones up the middle to DAL 41 for 2 yards (J.Kearse).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,5,Green Bay Packers,0,5,0,Timeout,,02:33 4th,— Timeout #3 by GB at 02:33.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,5,Green Bay Packers,0,6,0,Pass Incomplete,3rd & 7 at DAL 41,02:33 4th,— J.Love pass incomplete short right to T.Kraft.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,5,Green Bay Packers,0,7,0,Punt,4th & 7 at DAL 41,02:29 4th,"— D.Whelan punts 33 yards to DAL 8, Center-M.Orzech, fair catch by K.Turpin."
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,6,Dallas Cowboys,0,1,0,Pass Incomplete,1st & 10 at DAL 8,02:22 4th Shotgun,— D.Prescott pass incomplete deep middle to C.Lamb (K.Nixon).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,6,Dallas Cowboys,0,2,0,18 Yard Pass,2nd & 10 at DAL 8,02:15 4th Shotgun,— D.Prescott pass deep right to B.Cooks to DAL 26 for 18 yards (K.Nixon).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,6,Dallas Cowboys,0,3,0,11 Yard Pass,1st & 10 at DAL 26,02:00 4th Shotgun,— D.Prescott pass short left to J.Ferguson pushed ob at DAL 37 for 11 yards (D.Campbell).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,6,Dallas Cowboys,0,4,0,7 Yard Pass,1st & 10 at DAL 37,"01:52 4th No Huddle, Shotgun",— D.Prescott pass short right to J.Ferguson pushed ob at DAL 44 for 7 yards (J.Owens).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,6,Dallas Cowboys,0,5,0,Pass Incomplete,2nd & 3 at DAL 44,01:47 4th Shotgun,— D.Prescott pass incomplete deep left to C.Lamb.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,6,Dallas Cowboys,0,6,0,8 Yard Pass,3rd & 3 at DAL 44,01:40 4th Shotgun,— D.Prescott pass short right to B.Cooks ran ob at GB 48 for 8 yards (C.Valentine).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,6,Dallas Cowboys,0,7,0,19 Yard Pass,1st & 10 at GB 48,01:36 4th Shotgun,— D.Prescott pass deep middle to M.Gallup to GB 29 for 19 yards (C.Ballentine).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,6,Dallas Cowboys,0,8,0,Pass Incomplete,1st & 10 at GB 29,"01:15 4th No Huddle, Shotgun",— D.Prescott pass incomplete deep right to C.Lamb.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,6,Dallas Cowboys,0,9,0,7 Yard Pass,2nd & 10 at GB 29,01:09 4th Shotgun,— D.Prescott pass short left to L.Schoonmaker to GB 22 for 7 yards (C.Ballentine).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,6,Dallas Cowboys,0,10,0,-5 Yard Sack,3rd & 3 at GB 22,"00:46 4th No Huddle, Shotgun",— D.Prescott sacked at GB 27 for -5 yards (P.Smith).
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,6,Dallas Cowboys,0,11,0,Pass Incomplete,4th & 8 at GB 27,00:25 4th No Huddle,— D.Prescott pass incomplete deep middle.
+2023,Wild Card,SUN,01/14,Packers,Cowboys,4th Quarter,7,Green Bay Packers,0,1,0,-1 Yard Run,1st & 10 at GB 27,00:16 4th,— J.Love kneels to GB 26 for -1 yards.
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,1,Detroit Lions,1,1,0,Kickoff from LAR 35,,Kickoff,"— E.Evans kicks 65 yards from LAR 35 to end zone, Touchback."
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,1,Detroit Lions,1,2,0,10 Yard Run,1st & 10 at DET 25,15:00 1st,— D.Montgomery up the middle to DET 35 for 10 yards (C.Rozeboom; Q.Lake).
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,1,Detroit Lions,1,3,0,6 Yard Pass,1st & 10 at DET 35,14:25 1st Shotgun,— J.Goff pass short right to J.Williams to DET 41 for 6 yards (E.Jones).
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,1,Detroit Lions,1,4,0,5 Yard Run,2nd & 4 at DET 41,13:53 1st,"— D.Montgomery right end to DET 46 for 5 yards (B.Brown, Q.Lake)."
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,1,Detroit Lions,1,5,0,24 Yard Pass,1st & 10 at DET 46,13:18 1st,— J.Goff pass deep middle to J.Reynolds to LAR 30 for 24 yards (M.Hoecht).
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,1,Detroit Lions,1,6,0,7 Yard Run,1st & 10 at LAR 30,12:33 1st,— D.Montgomery right tackle to LAR 23 for 7 yards (Q.Lake).
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,1,Detroit Lions,1,7,0,5 Yard Pass,2nd & 3 at LAR 23,11:58 1st,— J.Goff pass short right to A.St. Brown to LAR 18 for 5 yards (M.Hoecht; E.Jones).
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,1,Detroit Lions,1,8,0,8 Yard Pass,1st & 10 at LAR 18,11:21 1st Shotgun,— J.Goff pass short left to S.LaPorta pushed ob at LAR 10 for 8 yards (C.Durant).
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,1,Detroit Lions,1,9,0,8 Yard Pass,2nd & 2 at LAR 10,10:47 1st,"— J.Goff pass short right to J.Reynolds to LAR 2 for 8 yards (C.Durant, R.Yeast)."
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,1,Detroit Lions,1,10,0,1 Yard Run,1st & 2 at LAR 2,10:09 1st,— D.Montgomery up the middle to LAR 1 for 1 yard (A.Donald; Q.Lake).
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,1,Detroit Lions,1,11,1,Touchdown,2nd & 1 at LAR 1,09:33 1st,"— D.Montgomery up the middle for 1 yard, TOUCHDOWN."
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,1,Detroit Lions,1,12,1,Extra Point,,09:30 1st,"— M.Badgley extra point is GOOD, Center-J.McQuaide, Holder-J.Fox."
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,2,Los Angeles Rams,1,1,0,Kickoff from DET 35,,Kickoff,"— J.Fox kicks 65 yards from DET 35 to end zone, Touchback."
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,2,Los Angeles Rams,1,2,0,5 Yard Run,1st & 10 at LAR 25,09:30 1st,— K.Williams left tackle to LAR 30 for 5 yards (A.Anzalone).
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,2,Los Angeles Rams,1,3,0,4 Yard Pass,2nd & 5 at LAR 30,08:48 1st Shotgun,— M.Stafford pass short middle to P.Nacua to LAR 34 for 4 yards (B.Branch).
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,2,Los Angeles Rams,1,4,0,9 Yard Penalty,3rd & 1 at LAR 34,08:07 1st,"— M.Stafford pass incomplete short left to P.Nacua. PENALTY on DET-B.Branch, Defensive Pass Interference, 9 yards, enforced at LAR 34 - No Play."
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,2,Los Angeles Rams,1,5,0,9 Yard Pass,1st & 10 at LAR 43,08:02 1st,— M.Stafford pass short right to K.Williams to DET 48 for 9 yards (I.Melifonwu).
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,2,Los Angeles Rams,1,6,0,5 Yard Run,2nd & 1 at DET 48,07:17 1st,— K.Williams left tackle to DET 43 for 5 yards (J.Paschal).
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,2,Los Angeles Rams,1,7,0,6 Yard Pass,1st & 10 at DET 43,06:34 1st,— M.Stafford pass short left to D.Allen to DET 37 for 6 yards (A.Anzalone).
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,2,Los Angeles Rams,1,8,0,21 Yard Pass,2nd & 4 at DET 37,05:57 1st,— M.Stafford pass short left to P.Nacua pushed ob at DET 16 for 21 yards (J.Campbell).
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,2,Los Angeles Rams,1,9,0,10 Yard Run,1st & 10 at DET 16,05:14 1st,"— K.Williams up the middle to DET 12 for 4 yards (B.Branch; J.Cominsky). PENALTY on DET-K.Joseph, Unnecessary Roughness, 6 yards, enforced at DET 12."
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,2,Los Angeles Rams,1,10,0,Pass Incomplete,1st & 6 at DET 6,04:42 1st Shotgun,— M.Stafford pass incomplete short left to C.Kupp.
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,2,Los Angeles Rams,1,11,0,Pass Incomplete,2nd & 6 at DET 6,04:39 1st Shotgun,— M.Stafford pass incomplete short left [A.Hutchinson].
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,2,Los Angeles Rams,1,12,0,Pass Incomplete,3rd & 6 at DET 6,04:34 1st Shotgun,— M.Stafford pass incomplete short left to C.Kupp (B.Branch).
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,2,Los Angeles Rams,1,13,1,Field Goal,4th & 6 at DET 6,04:29 1st,"— B.Maher 24 yard field goal is GOOD, Center-C.Tinker, Holder-E.Evans."
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,3,Detroit Lions,1,1,0,Kickoff from LAR 35,,Kickoff,"— E.Evans kicks 65 yards from LAR 35 to end zone, Touchback."
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,3,Detroit Lions,1,2,0,3 Yard Pass,1st & 10 at DET 25,04:26 1st,— J.Goff pass short right to J.Gibbs to DET 28 for 3 yards (Q.Lake; C.Durant).
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,3,Detroit Lions,1,3,0,25 Yard Pass,2nd & 7 at DET 28,03:48 1st,"— J.Goff pass short right to J.Reynolds to DET 38 for 10 yards (E.Jones; A.Witherspoon). PENALTY on LAR-N.Hampton, Roughing the Passer, 15 yards, enforced at DET 38."
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,3,Detroit Lions,1,4,0,14 Yard Pass,1st & 10 at LAR 47,03:27 1st,— J.Goff pass short middle to J.Gibbs to LAR 33 for 14 yards (Q.Lake).
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,3,Detroit Lions,1,5,0,-10 Yard Penalty,1st & 10 at LAR 33,02:42 1st,"— J.Gibbs left tackle to LAR 30 for 3 yards (E.Jones, Q.Lake). PENALTY on DET-F.Ragnow, Offensive Holding, 10 yards, enforced at LAR 33 - No Play."
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,3,Detroit Lions,1,6,0,33 Yard Pass,1st & 20 at LAR 43,02:19 1st Shotgun,— J.Goff pass deep middle to J.Reynolds to LAR 10 for 33 yards (R.Yeast).
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,3,Detroit Lions,1,7,1,Touchdown,1st & 10 at LAR 10,01:35 1st Shotgun,"— J.Gibbs up the middle for 10 yards, TOUCHDOWN."
+2023,Wild Card,SUN,01/14,Rams,Lions,1st Quarter,3,Detroit Lions,1,8,1,Extra Point,,01:31 1st,"— M.Badgley extra point is GOOD, Center-J.McQuaide, Holder-J.Fox."
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,1,Los Angeles Rams,1,1,0,Kickoff from DET 35,,Kickoff,— J.Fox kicks 61 yards from DET 35 to LAR 4. A.Trammell to LAR 28 for 24 yards (K.Dorsey).
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,1,Los Angeles Rams,1,2,0,-9 Yard Sack,1st & 10 at LAR 28,01:27 1st Shotgun,— M.Stafford sacked at LAR 19 for -9 yards (A.Hutchinson).
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,1,Los Angeles Rams,1,3,0,3 Yard Run,2nd & 19 at LAR 19,00:48 1st Shotgun,— K.Williams up the middle to LAR 22 for 3 yards (A.Anzalone).
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,1,Los Angeles Rams,1,4,0,19 Yard Pass,3rd & 16 at LAR 22,00:05 1st Shotgun,— M.Stafford pass deep right to D.Robinson to LAR 41 for 19 yards (K.Vildor) [A.McNeill].
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,1,Los Angeles Rams,1,5,0,-1 Yard Run,1st & 10 at LAR 41,15:00 2nd,"— K.Williams up the middle to LAR 40 for -1 yards (A.Anzalone, J.Campbell)."
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,1,Los Angeles Rams,1,6,0,10 Yard Pass,2nd & 11 at LAR 40,14:17 2nd Shotgun,"— M.Stafford pass short right to P.Nacua to 50 for 10 yards (C.Sutton, C.Gardner-Johnson)."
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,1,Los Angeles Rams,1,7,1,Touchdown,3rd & 1 at 50,13:32 2nd Shotgun,"— M.Stafford pass deep left to P.Nacua for 50 yards, TOUCHDOWN."
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,1,Los Angeles Rams,1,8,1,Extra Point,,13:24 2nd,"— B.Maher extra point is GOOD, Center-C.Tinker, Holder-E.Evans."
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,2,Detroit Lions,1,1,0,Kickoff from LAR 35,,Kickoff,"— E.Evans kicks 65 yards from LAR 35 to end zone, Touchback."
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,2,Detroit Lions,1,2,0,11 Yard Run,1st & 10 at DET 25,13:24 2nd,— D.Montgomery left tackle to DET 36 for 11 yards (J.Johnson; Q.Lake).
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,2,Detroit Lions,1,3,0,5 Yard Run,1st & 10 at DET 36,12:53 2nd Shotgun,— D.Montgomery up the middle to DET 41 for 5 yards (E.Jones; B.Brown).
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,2,Detroit Lions,1,4,0,13 Yard Pass,2nd & 5 at DET 41,12:12 2nd,— J.Goff pass short left to J.Williams to LAR 46 for 13 yards (Q.Lake).
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,2,Detroit Lions,1,5,0,Pass Incomplete,1st & 10 at LAR 46,"11:41 2nd No Huddle, Shotgun",— J.Goff pass incomplete short left to A.St. Brown [K.Turner].
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,2,Detroit Lions,1,6,0,5 Yard Pass,2nd & 10 at LAR 46,11:38 2nd Shotgun,— J.Goff pass short left to J.Reynolds to LAR 41 for 5 yards (J.Johnson).
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,2,Detroit Lions,1,7,0,14 Yard Pass,3rd & 5 at LAR 41,10:58 2nd Shotgun,— J.Goff pass short left to A.St. Brown to LAR 27 for 14 yards (J.Johnson).
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,2,Detroit Lions,1,8,0,16 Yard Pass,1st & 10 at LAR 27,10:22 2nd,— J.Goff pass short right to J.Gibbs to LAR 11 for 16 yards (R.Yeast).
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,2,Detroit Lions,1,9,0,6 Yard Penalty,1st & 10 at LAR 11,09:41 2nd,"— PENALTY on LAR-A.Donald, Neutral Zone Infraction, 6 yards, enforced at LAR 11 - No Play."
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,2,Detroit Lions,1,10,0,-1 Yard Run,1st & 4 at LAR 5,09:24 2nd,— D.Montgomery left end to LAR 6 for -1 yards (J.Williams).
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,2,Detroit Lions,1,11,0,2 Yard Run,2nd & 5 at LAR 6,08:45 2nd Shotgun,— D.Montgomery up the middle to LAR 4 for 2 yards (B.Brown).
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,2,Detroit Lions,1,12,0,2 Yard Run,3rd & 3 at LAR 4,08:02 2nd,— D.Montgomery left tackle to LAR 2 for 2 yards (A.Donald; J.Johnson).
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,2,Detroit Lions,1,13,1,Touchdown,4th & 1 at LAR 2,07:16 2nd Shotgun,"— D.Skipper reported in as eligible. J.Goff pass short right to S.LaPorta for 2 yards, TOUCHDOWN."
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,2,Detroit Lions,1,14,1,Extra Point,,07:12 2nd,"— M.Badgley extra point is GOOD, Center-J.McQuaide, Holder-J.Fox."
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,3,Los Angeles Rams,1,1,0,Kickoff from DET 35,,Kickoff,"— J.Fox kicks 65 yards from DET 35 to end zone, Touchback."
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,3,Los Angeles Rams,1,2,0,21 Yard Pass,1st & 10 at LAR 25,07:12 2nd Shotgun,— M.Stafford pass short middle to P.Nacua to LAR 46 for 21 yards (C.Gardner-Johnson).
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,3,Los Angeles Rams,1,3,0,5 Yard Penalty,1st & 10 at LAR 46,06:26 2nd Shotgun,"— M.Stafford pass incomplete deep right to T.Higbee [A.McNeill]. PENALTY on DET-C.Gardner-Johnson, Defensive Holding, 5 yards, enforced at LAR 46 - No Play."
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,3,Los Angeles Rams,1,4,0,0 Yard Run,1st & 10 at DET 49,06:21 2nd,"— R.Rivers left end to DET 49 for no gain (T.Alualu, A.Hutchinson)."
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,3,Los Angeles Rams,1,5,0,5 Yard Pass,2nd & 10 at DET 49,05:39 2nd Shotgun,— M.Stafford pass short middle to B.Skowronek to DET 44 for 5 yards (B.Branch; A.Anzalone).
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,3,Los Angeles Rams,1,6,0,Pass Incomplete,3rd & 5 at DET 44,04:55 2nd Shotgun,— M.Stafford pass incomplete deep right to D.Robinson.
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,3,Los Angeles Rams,1,7,0,6 Yard Pass,4th & 5 at DET 44,04:49 2nd Shotgun,— M.Stafford pass short left to C.Kupp pushed ob at DET 38 for 6 yards (C.Gardner-Johnson).
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,3,Los Angeles Rams,1,8,1,Touchdown,1st & 10 at DET 38,04:11 2nd Shotgun,"— M.Stafford pass deep right to T.Atwell for 38 yards, TOUCHDOWN."
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,3,Los Angeles Rams,1,9,1,Extra Point,,04:02 2nd,"— B.Maher extra point is GOOD, Center-C.Tinker, Holder-E.Evans."
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,4,Detroit Lions,0,1,0,Kickoff from LAR 35,,Kickoff,"— E.Evans kicks 65 yards from LAR 35 to end zone, Touchback."
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,4,Detroit Lions,0,2,0,11 Yard Run,1st & 10 at DET 25,04:02 2nd,— J.Gibbs left end ran ob at DET 36 for 11 yards (C.Rozeboom).
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,4,Detroit Lions,0,3,0,-15 Yard Sack,1st & 10 at DET 36,03:27 2nd,"— J.Goff sacked at DET 26 for -10 yards (E.Jones). FUMBLES (E.Jones) [E.Jones], recovered by DET-B.Wright at DET 21. B.Wright to DET 21 for no gain (B.Young)."
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,4,Detroit Lions,0,4,0,10 Yard Pass,2nd & 25 at DET 21,02:36 2nd Shotgun,— J.Goff pass short left to J.Gibbs to DET 31 for 10 yards (E.Jones).
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,4,Detroit Lions,0,5,0,23 Yard Pass,3rd & 15 at DET 31,02:00 2nd Shotgun,— J.Goff pass deep left to A.St. Brown ran ob at LAR 46 for 23 yards (J.Johnson).
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,4,Detroit Lions,0,6,0,1 Yard Run,1st & 10 at LAR 46,01:54 2nd,— J.Gibbs left end pushed ob at LAR 45 for 1 yard (B.Young).
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,4,Detroit Lions,0,7,0,4 Yard Run,2nd & 9 at LAR 45,01:48 2nd Shotgun,— J.Gibbs left tackle to LAR 41 for 4 yards (E.Jones; M.Hoecht).
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,4,Detroit Lions,0,8,0,Pass Incomplete,3rd & 5 at LAR 41,01:09 2nd Shotgun,— J.Goff pass incomplete short left to A.St. Brown [M.Hoecht].
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,4,Detroit Lions,0,9,0,-4 Yard Penalty,4th & 5 at LAR 41,01:06 2nd Shotgun,"— PENALTY on DET-T.Decker, False Start, 4 yards, enforced at LAR 41 - No Play."
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,4,Detroit Lions,0,10,0,Punt,4th & 9 at LAR 45,01:06 2nd,"— J.Fox punts 35 yards to LAR 10, Center-J.McQuaide, fair catch by A.Trammell. PENALTY on LAR-T.Tomlinson, Illegal Blindside Block, 5 yards, enforced at LAR 10."
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,5,Los Angeles Rams,0,1,0,6 Yard Run,1st & 10 at LAR 5,00:59 2nd Shotgun,— K.Williams up the middle to LAR 11 for 6 yards (J.Campbell).
+2023,Wild Card,SUN,01/14,Rams,Lions,2nd Quarter,5,Los Angeles Rams,0,2,0,7 Yard Pass,2nd & 4 at LAR 11,00:16 2nd Shotgun,— M.Stafford pass short left to C.Kupp to LAR 18 for 7 yards (A.Hutchinson; K.Vildor).
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,1,Los Angeles Rams,0,1,0,Kickoff from DET 35,,Kickoff,"— J.Fox kicks 65 yards from DET 35 to end zone, Touchback."
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,1,Los Angeles Rams,0,2,0,14 Yard Pass,1st & 10 at LAR 25,15:00 3rd Shotgun,— M.Stafford pass short middle to D.Robinson to LAR 39 for 14 yards (D.Barnes).
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,1,Los Angeles Rams,0,3,0,Pass Incomplete,1st & 10 at LAR 39,14:22 3rd,— M.Stafford pass incomplete deep left to C.Kupp.
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,1,Los Angeles Rams,0,4,0,-1 Yard Sack,2nd & 10 at LAR 39,14:16 3rd Shotgun,— M.Stafford sacked at LAR 38 for -1 yards (A.Hutchinson).
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,1,Los Angeles Rams,0,5,0,Timeout,,13:30 3rd,— Timeout #1 by LAR at 13:30.
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,1,Los Angeles Rams,0,6,0,Pass Incomplete,3rd & 11 at LAR 38,13:30 3rd Shotgun,— M.Stafford pass incomplete deep right to D.Robinson [A.Hutchinson].
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,1,Los Angeles Rams,0,7,0,Punt,4th & 11 at LAR 38,13:24 3rd,"— E.Evans punts 62 yards to end zone, Center-C.Tinker, Touchback."
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,2,Detroit Lions,1,1,0,4 Yard Run,1st & 10 at DET 20,13:17 3rd,— D.Montgomery up the middle to DET 24 for 4 yards (M.Hoecht).
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,2,Detroit Lions,1,2,0,Pass Incomplete,2nd & 6 at DET 24,12:43 3rd Shotgun,— J.Goff pass incomplete short left to J.Reynolds.
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,2,Detroit Lions,1,3,0,30 Yard Pass,3rd & 6 at DET 24,12:39 3rd Shotgun,— J.Goff pass short right to A.St. Brown to LAR 46 for 30 yards (J.Johnson).
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,2,Detroit Lions,1,4,0,0 Yard Run,1st & 10 at LAR 46,11:56 3rd,— J.Gibbs right end pushed ob at LAR 46 for no gain (J.Williams).
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,2,Detroit Lions,1,5,0,17 Yard Pass,2nd & 10 at LAR 46,11:21 3rd Shotgun,— J.Goff pass short middle to A.St. Brown to LAR 29 for 17 yards (C.Durant).
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,2,Detroit Lions,1,6,0,-5 Yard Run,1st & 10 at LAR 29,10:41 3rd Shotgun,— J.Gibbs right end to LAR 34 for -5 yards (C.Rozeboom).
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,2,Detroit Lions,1,7,0,-6 Yard Sack,2nd & 15 at LAR 34,10:01 3rd Shotgun,— J.Goff sacked at LAR 40 for -6 yards (E.Jones).
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,2,Detroit Lions,1,8,0,4 Yard Pass,3rd & 21 at LAR 40,09:20 3rd Shotgun,— J.Goff pass short right to S.LaPorta pushed ob at LAR 36 for 4 yards (J.Taylor).
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,2,Detroit Lions,1,9,1,Field Goal,4th & 17 at LAR 36,08:45 3rd,"— M.Badgley 54 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Fox."
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,3,Los Angeles Rams,1,1,0,Kickoff from DET 35,,Kickoff,"— J.Fox kicks 65 yards from DET 35 to end zone, Touchback."
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,3,Los Angeles Rams,1,2,0,5 Yard Run,1st & 10 at LAR 25,08:41 3rd Shotgun,— K.Williams up the middle to LAR 30 for 5 yards (A.Anzalone).
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,3,Los Angeles Rams,1,3,0,17 Yard Pass,2nd & 5 at LAR 30,08:01 3rd,— M.Stafford pass short left to R.Rivers to LAR 47 for 17 yards (J.Campbell).
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,3,Los Angeles Rams,1,4,0,9 Yard Pass,1st & 10 at LAR 47,07:11 3rd Shotgun,— M.Stafford pass short middle to P.Nacua to DET 44 for 9 yards (K.Joseph).
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,3,Los Angeles Rams,1,5,0,7 Yard Run,2nd & 1 at DET 44,06:28 3rd Shotgun,— R.Rivers up the middle to DET 37 for 7 yards (C.Gardner-Johnson; B.Branch).
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,3,Los Angeles Rams,1,6,0,4 Yard Pass,1st & 10 at DET 37,05:45 3rd Shotgun,— M.Stafford pass short right to C.Kupp to DET 33 for 4 yards (K.Joseph).
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,3,Los Angeles Rams,1,7,0,22 Yard Pass,2nd & 6 at DET 33,05:06 3rd Shotgun,— M.Stafford pass short right to D.Allen to DET 11 for 22 yards (A.Anzalone; C.Gardner-Johnson).
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,3,Los Angeles Rams,1,8,0,Pass Incomplete,1st & 10 at DET 11,04:23 3rd,— M.Stafford pass incomplete short right. Ball thrown away.
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,3,Los Angeles Rams,1,9,0,-2 Yard Run,2nd & 10 at DET 11,04:17 3rd Shotgun,"— P.Nacua right end to DET 12 for -1 yards (K.Vildor, J.Reeves-Maybin). FUMBLES (J.Reeves-Maybin), ball out of bounds at DET 13."
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,3,Los Angeles Rams,1,10,0,4 Yard Pass,3rd & 12 at DET 13,03:35 3rd Shotgun,— M.Stafford pass short middle to C.Kupp to DET 9 for 4 yards (B.Branch) [A.Hutchinson].
+2023,Wild Card,SUN,01/14,Rams,Lions,3rd Quarter,3,Los Angeles Rams,1,11,1,Field Goal,4th & 8 at DET 9,02:36 3rd,"— B.Maher 27 yard field goal is GOOD, Center-C.Tinker, Holder-E.Evans."
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,1,Detroit Lions,0,1,0,Kickoff from LAR 35,,Kickoff,"— E.Evans kicks 65 yards from LAR 35 to end zone, Touchback."
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,1,Detroit Lions,0,2,0,10 Yard Pass,1st & 10 at DET 25,02:33 3rd,— J.Goff pass short right to A.St. Brown to DET 35 for 10 yards (A.Witherspoon; M.Hoecht).
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,1,Detroit Lions,0,3,0,2 Yard Run,1st & 10 at DET 35,01:59 3rd,— J.Gibbs up the middle to DET 37 for 2 yards (J.Williams; B.Brown).
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,1,Detroit Lions,0,4,0,2 Yard Run,2nd & 8 at DET 37,01:18 3rd,— J.Gibbs right tackle to DET 39 for 2 yards (B.Young).
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,1,Detroit Lions,0,5,0,-1 Yard Sack,3rd & 6 at DET 39,00:41 3rd Shotgun,— J.Goff sacked at DET 38 for -1 yards (sack split by M.Hoecht and K.Turner).
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,1,Detroit Lions,0,6,0,Punt,4th & 7 at DET 38,15:00 4th,"— J.Fox punts 52 yards to LAR 10, Center-J.McQuaide, fair catch by A.Trammell."
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,2,Los Angeles Rams,1,1,0,15 Yard Run,1st & 10 at LAR 10,14:53 4th Shotgun,— K.Williams right tackle to LAR 25 for 15 yards (K.Vildor; B.Branch).
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,2,Los Angeles Rams,1,2,0,2 Yard Run,1st & 10 at LAR 25,14:17 4th Shotgun,— K.Williams up the middle to LAR 27 for 2 yards (I.Melifonwu; A.McNeill).
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,2,Los Angeles Rams,1,3,0,Pass Incomplete,2nd & 8 at LAR 27,"13:51 4th No Huddle, Shotgun",— M.Stafford pass incomplete deep left to D.Robinson.
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,2,Los Angeles Rams,1,4,0,Timeout,,13:47 4th,— Timeout #2 by LAR at 13:47.
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,2,Los Angeles Rams,1,5,0,9 Yard Pass,3rd & 8 at LAR 27,13:47 4th Shotgun,— M.Stafford pass short right to P.Nacua to LAR 36 for 9 yards (C.Gardner-Johnson).
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,2,Los Angeles Rams,1,6,0,1 Yard Run,1st & 10 at LAR 36,13:06 4th Shotgun,— K.Williams left end to LAR 37 for 1 yard (J.Cominsky; L.Onwuzurike).
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,2,Los Angeles Rams,1,7,0,11 Yard Pass,2nd & 9 at LAR 37,12:22 4th Shotgun,— M.Stafford pass short middle to D.Robinson to LAR 48 for 11 yards (C.Gardner-Johnson).
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,2,Los Angeles Rams,1,8,0,5 Yard Run,1st & 10 at LAR 48,11:38 4th Shotgun,— K.Williams left tackle to DET 47 for 5 yards (D.Barnes; J.Cominsky).
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,2,Los Angeles Rams,1,9,0,12 Yard Run,2nd & 5 at DET 47,10:56 4th,— K.Williams left end pushed ob at DET 35 for 12 yards (C.Sutton).
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,2,Los Angeles Rams,1,10,0,22 Yard Pass,1st & 10 at DET 35,10:13 4th,— M.Stafford pass deep middle to P.Nacua to DET 13 for 22 yards (J.Campbell).
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,2,Los Angeles Rams,1,11,0,-1 Yard Run,1st & 10 at DET 13,09:28 4th Shotgun,— K.Williams up the middle to DET 14 for -1 yards (A.Anzalone).
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,2,Los Angeles Rams,1,12,0,3 Yard Pass,2nd & 11 at DET 14,08:40 4th Shotgun,— M.Stafford pass short left to R.Rivers to DET 11 for 3 yards (J.Reeves-Maybin). DET-A.Anzalone was injured during the play. His return is Questionable.
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,2,Los Angeles Rams,1,13,0,Pass Incomplete,3rd & 8 at DET 11,08:17 4th Shotgun,— M.Stafford pass incomplete short left to C.Kupp.
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,2,Los Angeles Rams,1,14,1,Field Goal,4th & 8 at DET 11,08:13 4th,"— B.Maher 29 yard field goal is GOOD, Center-C.Tinker, Holder-E.Evans."
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,3,Detroit Lions,0,1,0,Kickoff from LAR 35,,Kickoff,"— E.Evans kicks 65 yards from LAR 35 to end zone, Touchback."
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,3,Detroit Lions,0,2,0,Pass Incomplete,1st & 10 at DET 25,08:10 4th,— J.Goff pass incomplete short middle. ball thrown away
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,3,Detroit Lions,0,3,0,6 Yard Run,2nd & 10 at DET 25,08:05 4th,— D.Montgomery right end to DET 31 for 6 yards (R.Yeast).
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,3,Detroit Lions,0,4,0,Pass Incomplete,3rd & 4 at DET 31,07:30 4th Shotgun,— J.Goff pass incomplete short right to J.Reynolds.
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,3,Detroit Lions,0,5,0,Punt,4th & 4 at DET 31,07:26 4th,"— J.Fox punts 61 yards to LAR 8, Center-J.McQuaide, fair catch by A.Trammell."
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,4,Los Angeles Rams,0,1,0,2 Yard Run,1st & 10 at LAR 8,07:18 4th,— R.Rivers up the middle to LAR 10 for 2 yards (A.Hutchinson).
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,4,Los Angeles Rams,0,2,0,35 Yard Pass,2nd & 8 at LAR 10,06:36 4th Shotgun,— M.Stafford pass short middle to P.Nacua pushed ob at LAR 45 for 35 yards (I.Melifonwu).
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,4,Los Angeles Rams,0,3,0,15 Yard Pass,1st & 10 at LAR 45,05:53 4th Shotgun,— M.Stafford pass short right to R.Rivers to DET 40 for 15 yards (B.Branch).
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,4,Los Angeles Rams,0,4,0,Pass Incomplete,1st & 10 at DET 40,05:10 4th,— M.Stafford pass incomplete short middle to T.Higbee (K.Joseph). LAR-T.Higbee was injured during the play.
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,4,Los Angeles Rams,0,5,0,6 Yard Pass,2nd & 10 at DET 40,05:05 4th Shotgun,— M.Stafford pass short middle to C.Kupp to DET 34 for 6 yards (A.Hutchinson).
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,4,Los Angeles Rams,0,6,0,-10 Yard Penalty,3rd & 4 at DET 34,04:24 4th Shotgun,"— M.Stafford pass incomplete short right to R.Rivers. PENALTY on LAR-R.Havenstein, Offensive Holding, 10 yards, enforced at DET 34 - No Play."
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,4,Los Angeles Rams,0,7,0,Pass Incomplete,3rd & 14 at DET 44,04:20 4th Shotgun,— M.Stafford pass incomplete deep right to P.Nacua (C.Sutton) [J.Cominsky].
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,4,Los Angeles Rams,0,8,0,Punt,4th & 14 at DET 44,04:15 4th,"— E.Evans punts 31 yards to DET 13, Center-C.Tinker. D.Peoples-Jones pushed ob at DET 17 for 4 yards (D.Shelley)."
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,5,Detroit Lions,0,1,0,3 Yard Run,1st & 10 at DET 17,04:07 4th Shotgun,— D.Montgomery right tackle to DET 20 for 3 yards (A.Donald).
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,5,Detroit Lions,0,2,0,11 Yard Pass,2nd & 7 at DET 20,03:24 4th Shotgun,— J.Goff pass short right to D.Montgomery to DET 31 for 11 yards (R.Yeast).
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,5,Detroit Lions,0,3,0,1 Yard Run,1st & 10 at DET 31,02:38 4th,— D.Montgomery right tackle to DET 32 for 1 yard (E.Jones; C.Rozeboom).
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,5,Detroit Lions,0,4,0,11 Yard Pass,2nd & 9 at DET 32,02:00 4th Shotgun,— J.Goff pass short left to A.St. Brown to DET 43 for 11 yards (Q.Lake).
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,5,Detroit Lions,0,5,0,Timeout,,01:54 4th,— Timeout #3 by LAR at 01:54.
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,5,Detroit Lions,0,6,0,-1 Yard Run,1st & 10 at DET 43,01:54 4th,— J.Goff kneels to DET 42 for -1 yards.
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,5,Detroit Lions,0,7,0,-1 Yard Run,2nd & 11 at DET 42,01:13 4th,— J.Goff kneels to DET 41 for -1 yards.
+2023,Wild Card,SUN,01/14,Rams,Lions,4th Quarter,5,Detroit Lions,0,8,0,-1 Yard Run,3rd & 12 at DET 41,00:39 4th,— J.Goff kneels to DET 40 for -1 yards.
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,1,Pittsburgh Steelers,0,1,0,Kickoff from BUF 35,,Kickoff,— T.Bass kicks 56 yards from BUF 35 to PIT 9. J.Warren to PIT 30 for 21 yards (T.Matakevich).
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,1,Pittsburgh Steelers,0,2,0,1 Yard Run,1st & 10 at PIT 30,14:50 1st,— N.Harris left tackle to PIT 31 for 1 yard (G.Rousseau).
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,1,Pittsburgh Steelers,0,3,0,16 Yard Pass,2nd & 9 at PIT 31,14:09 1st,— M.Rudolph pass short left to J.Warren to PIT 47 for 16 yards (J.Poyer).
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,1,Pittsburgh Steelers,0,4,0,2 Yard Run,1st & 10 at PIT 47,13:28 1st,— N.Harris right guard to PIT 49 for 2 yards (D.Jones; L.Floyd).
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,1,Pittsburgh Steelers,0,5,0,Pass Incomplete,2nd & 8 at PIT 49,12:49 1st Shotgun,— M.Rudolph pass incomplete short left to G.Pickens (T.Bernard). Pass tipped at line.
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,1,Pittsburgh Steelers,0,6,0,Pass Incomplete,3rd & 8 at PIT 49,12:46 1st Shotgun,— M.Rudolph pass incomplete short right to P.Freiermuth.
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,1,Pittsburgh Steelers,0,7,0,Punt,4th & 8 at PIT 49,12:41 1st,"— P.Harvin punts 31 yards to BUF 20, Center-C.Kuntz, fair catch by D.Harty."
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,2,Buffalo Bills,1,1,0,5 Yard Pass,1st & 10 at BUF 20,12:35 1st Shotgun,— J.Allen pass short left to K.Shakir to BUF 25 for 5 yards (D.Kazee).
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,2,Buffalo Bills,1,2,0,4 Yard Run,2nd & 5 at BUF 25,11:58 1st Shotgun,— J.Cook left tackle to BUF 29 for 4 yards (K.Benton; C.Heyward).
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,2,Buffalo Bills,1,3,0,1 Yard Run,3rd & 1 at BUF 29,11:37 1st No Huddle,— J.Allen left guard to BUF 30 for 1 yard (E.Roberts).
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,2,Buffalo Bills,1,4,0,20 Yard Pass,1st & 10 at BUF 30,10:54 1st Shotgun,— D.Edwards reported in as eligible. J.Allen pass short right to D.Kincaid to 50 for 20 yards (E.Rowe).
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,2,Buffalo Bills,1,5,0,10 Yard Pass,1st & 10 at 50,10:15 1st Shotgun,— J.Allen pass short left to S.Diggs to PIT 40 for 10 yards (E.Rowe).
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,2,Buffalo Bills,1,6,0,4 Yard Run,1st & 10 at PIT 40,09:39 1st,— D.Edwards reported in as eligible. J.Cook left guard to PIT 36 for 4 yards (M.Walker; M.Fitzpatrick).
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,2,Buffalo Bills,1,7,0,12 Yard Pass,2nd & 6 at PIT 36,08:58 1st Shotgun,— J.Allen pass short right to S.Diggs to PIT 24 for 12 yards (E.Roberts; M.Walker).
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,2,Buffalo Bills,1,8,0,12 Yard Run,1st & 10 at PIT 24,08:22 1st Shotgun,— J.Cook right guard to PIT 12 for 12 yards (E.Rowe; M.Fitzpatrick).
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,2,Buffalo Bills,1,9,0,3 Yard Run,1st & 10 at PIT 12,07:42 1st Shotgun,— J.Cook left tackle to PIT 9 for 3 yards (K.Benton).
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,2,Buffalo Bills,1,10,1,Touchdown,2nd & 7 at PIT 9,07:05 1st Shotgun,"— J.Allen pass short left to D.Knox for 9 yards, TOUCHDOWN."
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,2,Buffalo Bills,1,11,1,Extra Point,,07:02 1st,"— T.Bass extra point is GOOD, Center-R.Ferguson, Holder-S.Martin."
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,3,Pittsburgh Steelers,0,1,0,Kickoff from BUF 35,,Kickoff,"— T.Bass kicks 65 yards from BUF 35 to end zone, Touchback. Kick through end zone."
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,3,Pittsburgh Steelers,0,2,0,3 Yard Run,1st & 10 at PIT 25,07:02 1st,— N.Harris up the middle to PIT 28 for 3 yards (D.Williams; L.Joseph).
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,3,Pittsburgh Steelers,0,3,0,3 Yard Run,2nd & 7 at PIT 28,06:23 1st Shotgun,— N.Harris right guard to PIT 31 for 3 yards (T.Bernard).
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,3,Pittsburgh Steelers,0,4,0,Pass Incomplete,3rd & 4 at PIT 31,05:37 1st Shotgun,— M.Rudolph pass incomplete short right to D.Johnson.
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,3,Pittsburgh Steelers,0,5,0,Punt,4th & 4 at PIT 31,05:33 1st,"— P.Harvin punts 42 yards to BUF 27, Center-C.Kuntz, downed by PIT-M.Boykin."
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,4,Buffalo Bills,0,1,0,Pass Incomplete,1st & 10 at BUF 27,05:21 1st,— D.Edwards reported in as eligible. J.Allen pass incomplete deep right to S.Diggs [E.Roberts].
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,4,Buffalo Bills,0,2,0,8 Yard Run,2nd & 10 at BUF 27,05:16 1st Shotgun,— J.Allen scrambles right end to BUF 35 for 8 yards (E.Rowe).
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,4,Buffalo Bills,0,3,0,Pass Incomplete,3rd & 2 at BUF 35,04:31 1st Shotgun,— J.Allen pass incomplete short left to D.Kincaid.
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,4,Buffalo Bills,0,4,0,Punt,4th & 2 at BUF 35,04:28 1st,"— S.Martin punts 47 yards to PIT 18, Center-R.Ferguson, out of bounds."
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,5,Pittsburgh Steelers,0,1,0,Fumble,1st & 10 at PIT 18,04:21 1st Shotgun,"— M.Rudolph pass incomplete short right to G.Pickens (Ta.Johnson). Buffalo challenged the incomplete pass ruling, and the play was REVERSED. (Shotgun) M.Rudolph pass short right to G.Pickens to PIT 26 for 8 yards (Ta.Johnson). FUMBLES (Ta.Johnson), RECOVERED by BUF-T.Bernard at PIT 29."
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,6,Buffalo Bills,1,1,1,Touchdown,1st & 10 at PIT 29,04:15 1st Shotgun,"— J.Allen pass deep middle to D.Kincaid for 29 yards, TOUCHDOWN."
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,6,Buffalo Bills,1,2,1,Extra Point,,04:10 1st,"— T.Bass extra point is GOOD, Center-R.Ferguson, Holder-S.Martin."
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,7,Pittsburgh Steelers,0,1,0,Kickoff from BUF 35,,Kickoff,"— T.Bass kicks 65 yards from BUF 35 to end zone, Touchback. Kicked 9 yds. into end zone."
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,7,Pittsburgh Steelers,0,2,0,1 Yard Run,1st & 10 at PIT 25,04:10 1st,— J.Warren up the middle to PIT 26 for 1 yard (G.Rousseau; B.Spector).
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,7,Pittsburgh Steelers,0,3,0,Pass Incomplete,2nd & 9 at PIT 26,03:30 1st Shotgun,— M.Rudolph pass incomplete short middle to P.Freiermuth (E.Oliver).
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,7,Pittsburgh Steelers,0,4,0,Pass Incomplete,3rd & 9 at PIT 26,03:27 1st Shotgun,— M.Rudolph pass incomplete short right to G.Pickens (T.Bernard). Tipped in coverage.
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,7,Pittsburgh Steelers,0,5,0,Punt,4th & 9 at PIT 26,03:20 1st,"— P.Harvin punts 30 yards to BUF 44, Center-C.Kuntz, fair catch by D.Harty."
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,8,Buffalo Bills,0,1,0,0 Yard Pass,1st & 10 at BUF 44,03:12 1st Shotgun,— J.Allen pass short left to S.Diggs to BUF 44 for no gain (C.Heyward).
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,8,Buffalo Bills,0,2,0,Pass Incomplete,2nd & 10 at BUF 44,02:33 1st Shotgun,— J.Allen pass incomplete short left to D.Kincaid. Pressure on QB: C.Heyward
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,8,Buffalo Bills,0,3,0,-4 Yard Pass,3rd & 10 at BUF 44,02:30 1st Shotgun,— J.Allen pass short right to J.Cook to BUF 40 for -4 yards (M.Fitzpatrick).
+2023,Wild Card,MON,01/15,Steelers,Bills,1st Quarter,8,Buffalo Bills,0,4,0,Punt,4th & 14 at BUF 40,01:50 1st,"— S.Martin punts 52 yards to PIT 8, Center-R.Ferguson, fair catch by C.Austin."
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,1,Pittsburgh Steelers,0,1,0,33 Yard Pass,1st & 10 at PIT 8,01:43 1st,"— M.Rudolph pass deep left to P.Freiermuth to PIT 41 for 33 yards (C.Benford). FUMBLES (C.Benford), ball out of bounds at PIT 47. Buffalo challenged the ball was out of bounds ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)"
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,1,Pittsburgh Steelers,0,2,0,13 Yard Pass,1st & 10 at PIT 41,01:08 1st Shotgun,— M.Rudolph pass short left to A.Robinson pushed ob at BUF 46 for 13 yards (A.Klein).
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,1,Pittsburgh Steelers,0,3,0,9 Yard Run,1st & 10 at BUF 46,00:38 1st,— N.Harris left tackle to BUF 37 for 9 yards (K.Elam; T.Bernard).
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,1,Pittsburgh Steelers,0,4,0,11 Yard Run,2nd & 1 at BUF 37,15:00 2nd,— N.Harris right guard pushed ob at BUF 26 for 11 yards (Ta.Johnson; L.Floyd).
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,1,Pittsburgh Steelers,0,5,0,-11 Yard Sack,1st & 10 at BUF 26,14:21 2nd Shotgun,— M.Rudolph sacked at BUF 37 for -11 yards (G.Rousseau).
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,1,Pittsburgh Steelers,0,6,0,12 Yard Run,2nd & 21 at BUF 37,13:38 2nd Shotgun,— J.Warren left end to BUF 25 for 12 yards (M.Hyde).
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,1,Pittsburgh Steelers,0,7,0,12 Yard Pass,3rd & 9 at BUF 25,12:49 2nd Shotgun,— M.Rudolph pass short left to P.Freiermuth pushed ob at BUF 13 for 12 yards (J.Poyer).
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,1,Pittsburgh Steelers,0,8,0,1 Yard Run,1st & 10 at BUF 13,12:23 2nd No Huddle,— J.Warren left tackle to BUF 12 for 1 yard (T.Bernard).
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,1,Pittsburgh Steelers,0,9,0,9 Yard Penalty,2nd & 9 at BUF 12,11:43 2nd Shotgun,"— M.Rudolph pass incomplete short left to D.Johnson. PENALTY on BUF-K.Elam, Defensive Pass Interference, 9 yards, enforced at BUF 12 - No Play."
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,1,Pittsburgh Steelers,0,10,0,-1 Yard Run,1st & 3 at BUF 3,11:40 2nd,"— N.Harris up the middle to BUF 4 for -1 yards (E.Oliver, L.Joseph)."
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,1,Pittsburgh Steelers,0,11,0,Interception,2nd & 4 at BUF 4,10:57 2nd Shotgun,— M.Rudolph pass short left intended for D.Johnson INTERCEPTED by K.Elam at BUF -2. Touchback.
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,2,Buffalo Bills,1,1,0,2 Yard Run,1st & 10 at BUF 20,10:52 2nd Shotgun,— J.Cook right guard to BUF 22 for 2 yards (L.Ogunjobi; C.Heyward).
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,2,Buffalo Bills,1,2,0,2 Yard Pass,2nd & 8 at BUF 22,10:15 2nd Shotgun,— J.Allen pass short right to J.Cook to BUF 24 for 2 yards (E.Rowe).
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,2,Buffalo Bills,1,3,0,8 Yard Pass,3rd & 6 at BUF 24,09:31 2nd Shotgun,— J.Allen pass short right to S.Diggs pushed ob at BUF 32 for 8 yards (J.Porter).
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,2,Buffalo Bills,1,4,0,9 Yard Run,1st & 10 at BUF 32,09:04 2nd,— D.Edwards reported in as eligible. J.Cook left guard to BUF 41 for 9 yards (M.Robinson).
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,2,Buffalo Bills,1,5,0,4 Yard Run,2nd & 1 at BUF 41,08:39 2nd No Huddle,"— J.Cook up the middle to BUF 45 for 4 yards (E.Rowe, A.Highsmith)."
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,2,Buffalo Bills,1,6,0,Pass Incomplete,1st & 10 at BUF 45,07:58 2nd Shotgun,— J.Allen pass incomplete short left to A.Isabella.
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,2,Buffalo Bills,1,7,0,3 Yard Pass,2nd & 10 at BUF 45,07:55 2nd Shotgun,— J.Allen pass short left to J.Cook pushed ob at BUF 48 for 3 yards (M.Jack; M.Fitzpatrick).
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,2,Buffalo Bills,1,8,1,Touchdown,3rd & 7 at BUF 48,07:12 2nd Shotgun,"— J.Allen scrambles left tackle for 52 yards, TOUCHDOWN."
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,2,Buffalo Bills,1,9,1,Extra Point,,07:01 2nd,"— T.Bass extra point is GOOD, Center-R.Ferguson, Holder-S.Martin."
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,3,Pittsburgh Steelers,0,1,0,Kickoff from BUF 35,,Kickoff,"— T.Bass kicks 65 yards from BUF 35 to end zone, Touchback. Kick through end zone."
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,3,Pittsburgh Steelers,0,2,0,3 Yard Run,1st & 10 at PIT 25,07:01 2nd Shotgun,— N.Harris up the middle to PIT 28 for 3 yards (K.Elam).
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,3,Pittsburgh Steelers,0,3,0,Pass Incomplete,2nd & 7 at PIT 28,06:26 2nd,— M.Rudolph pass incomplete short left to D.Washington. Pressure on QB: A.Epenesa.
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,3,Pittsburgh Steelers,0,4,0,Pass Incomplete,3rd & 7 at PIT 28,06:21 2nd Shotgun,— M.Rudolph pass incomplete short middle to A.Robinson [E.Oliver].
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,3,Pittsburgh Steelers,0,5,0,Punt,4th & 7 at PIT 28,06:17 2nd,"— P.Harvin punts 51 yards to BUF 21, Center-C.Kuntz, downed by PIT-M.Boykin."
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,4,Buffalo Bills,0,1,0,4 Yard Pass,1st & 10 at BUF 21,06:04 2nd Shotgun,— J.Allen pass short right to J.Cook pushed ob at BUF 25 for 4 yards (E.Roberts).
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,4,Buffalo Bills,0,2,0,4 Yard Run,2nd & 6 at BUF 25,05:26 2nd Shotgun,— J.Cook right end pushed ob at BUF 29 for 4 yards (P.Peterson).
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,4,Buffalo Bills,0,3,0,3 Yard Run,3rd & 2 at BUF 29,04:49 2nd Shotgun,— T.Johnson up the middle to BUF 32 for 3 yards (C.Heyward).
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,4,Buffalo Bills,0,4,0,34 Yard Pass,1st & 10 at BUF 32,04:04 2nd Shotgun,— J.Allen pass short right to D.Harty to PIT 34 for 34 yards (M.Golden; E.Rowe).
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,4,Buffalo Bills,0,5,0,3 Yard Run,1st & 10 at PIT 34,03:15 2nd Shotgun,— J.Cook up the middle to PIT 31 for 3 yards (K.Benton; E.Roberts).
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,4,Buffalo Bills,0,6,0,Pass Incomplete,2nd & 7 at PIT 31,02:33 2nd Shotgun,— J.Allen pass incomplete deep left to T.Johnson.
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,4,Buffalo Bills,0,7,0,Pass Incomplete,3rd & 7 at PIT 31,02:29 2nd Shotgun,— J.Allen pass incomplete deep middle to S.Diggs (E.Rowe). Pressure on QB: N.Herbig.
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,4,Buffalo Bills,0,8,0,Field Goal No Good,4th & 7 at PIT 31,02:23 2nd,"— T.Bass 49 yard field goal is BLOCKED (M.Adams), Center-R.Ferguson, Holder-S.Martin, RECOVERED by PIT-Ni.Herbig at BUF 34. Ni.Herbig to BUF 33 for 1 yard (Q.Morris)."
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,5,Pittsburgh Steelers,1,1,0,10 Yard Run,1st & 10 at BUF 33,02:14 2nd Shotgun,— J.Warren up the middle to BUF 23 for 10 yards (A.Klein).
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,5,Pittsburgh Steelers,1,2,0,5 Yard Pass,1st & 10 at BUF 23,02:00 2nd Shotgun,— M.Rudolph pass short middle to G.Pickens to BUF 18 for 5 yards (A.Klein) [L.Floyd].
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,5,Pittsburgh Steelers,1,3,0,Timeout,,01:52 2nd,— Timeout #2 by BUF at 01:52.
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,5,Pittsburgh Steelers,1,4,0,5 Yard Pass,2nd & 5 at BUF 18,01:52 2nd Shotgun,— M.Rudolph pass short right to G.Pickens pushed ob at BUF 13 for 5 yards (D.Jackson).
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,5,Pittsburgh Steelers,1,5,0,3 Yard Run,1st & 10 at BUF 13,01:47 2nd Shotgun,— J.Warren right guard to BUF 10 for 3 yards (A.Klein; L.Floyd).
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,5,Pittsburgh Steelers,1,6,0,Timeout,,01:43 2nd,— Timeout #3 by BUF at 01:43.
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,5,Pittsburgh Steelers,1,7,1,Touchdown,2nd & 7 at BUF 10,01:43 2nd Shotgun,"— M.Rudolph pass short left to D.Johnson for 10 yards, TOUCHDOWN."
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,5,Pittsburgh Steelers,1,8,1,Extra Point,,01:39 2nd,"— C.Boswell extra point is GOOD, Center-C.Kuntz, Holder-P.Harvin."
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,6,Buffalo Bills,0,1,0,Kickoff from PIT 35,,Kickoff,"— C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback. Kick through end zone."
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,6,Buffalo Bills,0,2,0,5 Yard Pass,1st & 10 at BUF 25,01:39 2nd Shotgun,— J.Allen pass short right to S.Diggs to BUF 30 for 5 yards (M.Fitzpatrick). BUF-S.Diggs was injured during the play. His return is Probable. S.Diggs walks off.
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,6,Buffalo Bills,0,3,0,Timeout,,01:17 2nd,— Timeout #4 by BUF at 01:17. 10-second runoff due to player injury and extra time out.
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,6,Buffalo Bills,0,4,0,9 Yard Pass,2nd & 5 at BUF 30,01:08 2nd Shotgun,— J.Allen pass short middle to K.Shakir to BUF 39 for 9 yards (D.Kazee; M.Fitzpatrick).
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,6,Buffalo Bills,0,5,0,-7 Yard Sack,1st & 10 at BUF 39,"00:48 2nd No Huddle, Shotgun",— J.Allen sacked at BUF 32 for -7 yards (M.Golden).
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,6,Buffalo Bills,0,6,0,Timeout,,00:02 2nd,— Timeout #1 by PIT at 00:02.
+2023,Wild Card,MON,01/15,Steelers,Bills,2nd Quarter,6,Buffalo Bills,0,7,0,-3 Yard Run,2nd & 17 at BUF 32,00:02 2nd,— D.Edwards reported in as eligible. J.Allen kneels to BUF 29 for -3 yards.
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,1,Buffalo Bills,0,1,0,Kickoff from PIT 35,,Kickoff,"— C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback. Kick through end zone."
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,1,Buffalo Bills,0,2,0,Pass Incomplete,1st & 10 at BUF 25,15:00 3rd Shotgun,— J.Allen pass incomplete short left to D.Knox.
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,1,Buffalo Bills,0,3,0,-7 Yard Sack,2nd & 10 at BUF 25,14:54 3rd Shotgun,— J.Allen sacked at BUF 18 for -7 yards (A.Highsmith).
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,1,Buffalo Bills,0,4,0,9 Yard Pass,3rd & 17 at BUF 18,14:15 3rd Shotgun,— J.Allen pass short right to L.Murray to BUF 27 for 9 yards (M.Jack; L.Wallace).
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,1,Buffalo Bills,0,5,0,Punt,4th & 8 at BUF 27,13:35 3rd,"— S.Martin punts 45 yards to PIT 28, Center-R.Ferguson. C.Austin to PIT 40 for 12 yards (D.Williams)."
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,2,Pittsburgh Steelers,1,1,0,-5 Yard Penalty,1st & 10 at PIT 40,13:24 3rd,"— PENALTY on PIT-D.Washington, False Start, 5 yards, enforced at PIT 40 - No Play."
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,2,Pittsburgh Steelers,1,2,0,19 Yard Pass,1st & 15 at PIT 35,13:24 3rd Shotgun,— M.Rudolph pass short middle to D.Johnson to BUF 46 for 19 yards (T.Bernard). BUF-T.Bernard was injured during the play. He is Out. T.Bernard taken from field on cart.
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,2,Pittsburgh Steelers,1,3,0,Pass Incomplete,1st & 10 at BUF 46,12:53 3rd,— M.Rudolph pass incomplete short right to G.Pickens.
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,2,Pittsburgh Steelers,1,4,0,13 Yard Pass,2nd & 10 at BUF 46,12:48 3rd Shotgun,— M.Rudolph pass short middle to G.Pickens to BUF 33 for 13 yards (M.Hyde).
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,2,Pittsburgh Steelers,1,5,0,-5 Yard Penalty,1st & 10 at BUF 33,12:07 3rd,"— PENALTY on PIT-D.Washington, False Start, 5 yards, enforced at BUF 33 - No Play."
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,2,Pittsburgh Steelers,1,6,0,9 Yard Pass,1st & 15 at BUF 38,11:42 3rd Shotgun,— M.Rudolph pass short left to P.Freiermuth to BUF 29 for 9 yards (D.Williams; K.Elam).
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,2,Pittsburgh Steelers,1,7,0,6 Yard Run,2nd & 6 at BUF 29,10:56 3rd Shotgun,— J.Warren up the middle to BUF 23 for 6 yards (D.Williams).
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,2,Pittsburgh Steelers,1,8,0,1 Yard Run,1st & 10 at BUF 23,10:17 3rd,— N.Harris right guard to BUF 22 for 1 yard (D.Jones; A.Klein).
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,2,Pittsburgh Steelers,1,9,0,0 Yard Run,2nd & 9 at BUF 22,09:42 3rd,— N.Harris left tackle to BUF 22 for no gain (S.Lawson; K.Elam).
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,2,Pittsburgh Steelers,1,10,0,Pass Incomplete,3rd & 9 at BUF 22,08:59 3rd Shotgun,— M.Rudolph pass incomplete deep right to G.Pickens (D.Jackson).
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,2,Pittsburgh Steelers,1,11,1,Field Goal,4th & 9 at BUF 22,08:54 3rd,"— C.Boswell 40 yard field goal is GOOD, Center-C.Kuntz, Holder-P.Harvin."
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,3,Buffalo Bills,1,1,0,Kickoff from PIT 35,,Kickoff,"— C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback. Kick through end zone."
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,3,Buffalo Bills,1,2,0,11 Yard Run,1st & 10 at BUF 25,08:50 3rd,— D.Edwards reported in as eligible. J.Cook left tackle to BUF 36 for 11 yards (M.Fitzpatrick).
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,3,Buffalo Bills,1,3,0,5 Yard Run,1st & 10 at BUF 36,08:08 3rd,— J.Cook left guard to BUF 41 for 5 yards (K.Benton; M.Robinson).
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,3,Buffalo Bills,1,4,0,4 Yard Run,2nd & 5 at BUF 41,07:31 3rd,— J.Cook left guard to BUF 45 for 4 yards (M.Robinson).
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,3,Buffalo Bills,1,5,0,0 Yard Run,3rd & 1 at BUF 45,07:12 3rd No Huddle,— J.Allen left guard to BUF 45 for no gain (E.Roberts).
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,3,Buffalo Bills,1,6,0,1 Yard Run,4th & 1 at BUF 45,06:28 3rd,— J.Allen up the middle to BUF 46 for 1 yard (C.Heyward).
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,3,Buffalo Bills,1,7,0,1 Yard Run,1st & 10 at BUF 46,05:47 3rd,— J.Cook left guard to BUF 47 for 1 yard (A.Highsmith).
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,3,Buffalo Bills,1,8,0,10 Yard Pass,2nd & 9 at BUF 47,05:07 3rd Shotgun,— J.Allen pass short left to D.Kincaid to PIT 43 for 10 yards (P.Peterson).
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,3,Buffalo Bills,1,9,0,2 Yard Run,1st & 10 at PIT 43,04:26 3rd Shotgun,— J.Cook up the middle to PIT 41 for 2 yards (K.Benton; A.Watts). BUF-C.McGovern was injured during the play. His return is Probable. C.McGovern walks off.
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,3,Buffalo Bills,1,10,0,Pass Incomplete,2nd & 8 at PIT 41,03:46 3rd Shotgun,— J.Allen pass incomplete short middle to T.Johnson.
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,3,Buffalo Bills,1,11,0,12 Yard Pass,3rd & 8 at PIT 41,03:42 3rd Shotgun,— J.Allen pass short right to S.Diggs to PIT 29 for 12 yards (J.Porter). PIT-J.Porter was injured during the play. J.Porter walks off.
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,3,Buffalo Bills,1,12,0,Pass Incomplete,1st & 10 at PIT 29,03:09 3rd Shotgun,— J.Allen pass incomplete deep left to D.Kincaid (E.Roberts).
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,3,Buffalo Bills,1,13,0,-2 Yard Run,2nd & 10 at PIT 29,03:03 3rd,— D.Edwards reported in as eligible. J.Cook right guard to PIT 31 for -2 yards (L.Ogunjobi).
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,3,Buffalo Bills,1,14,0,4 Yard Pass,3rd & 12 at PIT 31,02:18 3rd Shotgun,— J.Allen pass short right to L.Murray to PIT 27 for 4 yards (M.Fitzpatrick).
+2023,Wild Card,MON,01/15,Steelers,Bills,3rd Quarter,3,Buffalo Bills,1,15,1,Field Goal,4th & 8 at PIT 27,01:36 3rd,"— T.Bass 45 yard field goal is GOOD, Center-R.Ferguson, Holder-S.Martin."
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,1,Pittsburgh Steelers,1,1,0,Kickoff from BUF 35,,Kickoff,"— T.Bass kicks 61 yards from BUF 35 to PIT 4, fair catch by J.Warren."
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,1,Pittsburgh Steelers,1,2,0,-1 Yard Pass,1st & 10 at PIT 25,01:32 3rd Shotgun,— M.Rudolph pass short right to A.Robinson to PIT 24 for -1 yards (D.Williams). PIT-A.Robinson was injured during the play. A.Robinson assisted off.
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,1,Pittsburgh Steelers,1,3,0,Pass Incomplete,2nd & 11 at PIT 24,00:57 3rd Shotgun,— M.Rudolph pass incomplete short left to P.Freiermuth (A.Epenesa) [A.Epenesa].
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,1,Pittsburgh Steelers,1,4,0,19 Yard Pass,3rd & 11 at PIT 24,00:52 3rd Shotgun,— M.Rudolph pass deep middle to G.Pickens to PIT 43 for 19 yards (C.Lewis).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,1,Pittsburgh Steelers,1,5,0,15 Yard Run,1st & 10 at PIT 43,00:08 3rd Shotgun,— G.Pickens right end pushed ob at BUF 42 for 15 yards (D.Williams). End-around.
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,1,Pittsburgh Steelers,1,6,0,5 Yard Run,1st & 10 at BUF 42,15:00 4th Shotgun,— J.Warren up the middle to BUF 37 for 5 yards (G.Rousseau; A.Klein).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,1,Pittsburgh Steelers,1,7,0,6 Yard Run,2nd & 5 at BUF 37,14:21 4th Shotgun,— M.Rudolph scrambles left guard to BUF 31 for 6 yards (A.Klein).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,1,Pittsburgh Steelers,1,8,0,11 Yard Pass,1st & 10 at BUF 31,13:35 4th Shotgun,— M.Rudolph pass short left to D.Johnson to BUF 20 for 11 yards (D.Williams; C.Lewis) [E.Oliver].
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,1,Pittsburgh Steelers,1,9,0,3 Yard Run,1st & 10 at BUF 20,12:54 4th Shotgun,— N.Harris left guard to BUF 17 for 3 yards (D.Williams).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,1,Pittsburgh Steelers,1,10,0,Pass Incomplete,2nd & 7 at BUF 17,12:12 4th Shotgun,— M.Rudolph pass incomplete deep right to G.Pickens (D.Jackson).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,1,Pittsburgh Steelers,1,11,0,8 Yard Pass,3rd & 7 at BUF 17,12:07 4th Shotgun,"— M.Rudolph pass short right to D.Johnson to BUF 9 for 8 yards (C.Lewis, J.Poyer)."
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,1,Pittsburgh Steelers,1,12,0,2 Yard Run,1st & 9 at BUF 9,11:20 4th,"— N.Harris right tackle to BUF 7 for 2 yards (T.Settle, K.Elam)."
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,1,Pittsburgh Steelers,1,13,1,Touchdown,2nd & 7 at BUF 7,10:37 4th Shotgun,"— M.Rudolph pass short left to C.Austin for 7 yards, TOUCHDOWN."
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,1,Pittsburgh Steelers,1,14,1,Extra Point,,10:32 4th,"— C.Boswell extra point is GOOD, Center-C.Kuntz, Holder-P.Harvin. PENALTY on PIT-D.Moore, Unnecessary Roughness, 15 yards, enforced between downs."
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,2,Buffalo Bills,1,1,0,Kickoff from PIT 20,,Kickoff,— C.Boswell kicks 69 yards from PIT 20 to BUF 11. A.Isabella to BUF 30 for 19 yards (Ni.Herbig).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,2,Buffalo Bills,1,2,0,5 Yard Penalty,1st & 10 at BUF 30,10:27 4th,"— D.Edwards reported in as eligible. J.Allen pass incomplete deep left to D.Kincaid [K.Benton]. PENALTY on PIT-M.Jack, Defensive Holding, 5 yards, enforced at BUF 30 - No Play."
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,2,Buffalo Bills,1,3,0,9 Yard Run,1st & 10 at BUF 35,10:20 4th,— D.Edwards reported in as eligible. J.Cook left guard to BUF 44 for 9 yards (M.Jack).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,2,Buffalo Bills,1,4,0,3 Yard Run,2nd & 1 at BUF 44,09:44 4th,— J.Cook left guard to BUF 47 for 3 yards (M.Robinson; L.Ogunjobi).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,2,Buffalo Bills,1,5,0,13 Yard Run,1st & 10 at BUF 47,09:04 4th Shotgun,— J.Allen left tackle to PIT 40 for 13 yards (M.Walker).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,2,Buffalo Bills,1,6,0,5 Yard Pass,1st & 10 at PIT 40,08:22 4th Shotgun,— J.Allen pass short right to S.Diggs to PIT 35 for 5 yards (M.Golden).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,2,Buffalo Bills,1,7,0,17 Yard Run,2nd & 5 at PIT 35,07:38 4th Shotgun,"— J.Allen left tackle to PIT 33 for 2 yards (M.Jack). PENALTY on PIT-M.Jack, Unnecessary Roughness, 15 yards, enforced at PIT 33."
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,2,Buffalo Bills,1,8,0,1 Yard Run,1st & 10 at PIT 18,07:18 4th Shotgun,— J.Cook up the middle to PIT 17 for 1 yard (M.Fitzpatrick).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,2,Buffalo Bills,1,9,1,Touchdown,2nd & 9 at PIT 17,06:37 4th Shotgun,"— J.Allen pass short middle to K.Shakir for 17 yards, TOUCHDOWN."
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,2,Buffalo Bills,1,10,1,Extra Point,,06:27 4th,"— T.Bass extra point is GOOD, Center-R.Ferguson, Holder-S.Martin."
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,3,Pittsburgh Steelers,0,1,0,Kickoff from BUF 35,,Kickoff,"— T.Bass kicks 65 yards from BUF 35 to end zone, Touchback. Kick through end zone."
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,3,Pittsburgh Steelers,0,2,0,0 Yard Run,1st & 10 at PIT 25,06:27 4th Shotgun,— J.Warren left guard to PIT 25 for no gain (L.Floyd).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,3,Pittsburgh Steelers,0,3,0,7 Yard Pass,2nd & 10 at PIT 25,"06:04 4th No Huddle, Shotgun",— M.Rudolph pass short right to P.Freiermuth to PIT 32 for 7 yards (A.Klein).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,3,Pittsburgh Steelers,0,4,0,Timeout,,05:34 4th,— Timeout #1 by PIT at 05:34.
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,3,Pittsburgh Steelers,0,5,0,0 Yard Pass,3rd & 3 at PIT 32,05:34 4th Shotgun,— M.Rudolph pass short left to J.Warren to PIT 32 for no gain (A.Klein).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,3,Pittsburgh Steelers,0,6,0,Timeout,,04:53 4th,— Timeout #1 by BUF at 04:53.
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,3,Pittsburgh Steelers,0,7,0,Pass Incomplete,4th & 3 at PIT 32,04:53 4th Shotgun,— M.Rudolph pass incomplete short right to G.Pickens.
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,4,Buffalo Bills,0,1,0,3 Yard Run,1st & 10 at PIT 32,04:50 4th,— D.Edwards reported in as eligible. T.Johnson left guard to PIT 29 for 3 yards (M.Adams; L.Ogunjobi).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,4,Buffalo Bills,0,2,0,9 Yard Run,2nd & 7 at PIT 29,04:07 4th,— T.Johnson right end pushed ob at PIT 20 for 9 yards (P.Peterson).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,4,Buffalo Bills,0,3,0,0 Yard Run,1st & 10 at PIT 20,04:02 4th,— T.Johnson up the middle to PIT 20 for no gain (L.Ogunjobi).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,4,Buffalo Bills,0,4,0,Timeout,,03:57 4th,— Timeout #2 by PIT at 03:57.
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,4,Buffalo Bills,0,5,0,11 Yard Run,2nd & 10 at PIT 20,03:57 4th,"— D.Edwards reported in as eligible. T.Johnson up the middle to PIT 9 for 11 yards (P.Peterson, M.Fitzpatrick)."
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,4,Buffalo Bills,0,6,0,-2 Yard Run,1st & 9 at PIT 9,03:13 4th Shotgun,— T.Johnson left guard to PIT 11 for -2 yards (C.Heyward).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,4,Buffalo Bills,0,7,0,2 Yard Run,2nd & 11 at PIT 11,02:29 4th,— T.Johnson right tackle to PIT 9 for 2 yards (M.Robinson).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,4,Buffalo Bills,0,8,0,Timeout,,02:24 4th,— Timeout #3 by PIT at 02:24.
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,4,Buffalo Bills,0,9,0,0 Yard Run,3rd & 9 at PIT 9,02:24 4th,— D.Edwards reported in as eligible. T.Johnson right end to PIT 9 for no gain (E.Rowe).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,4,Buffalo Bills,0,10,0,Field Goal No Good,4th & 9 at PIT 9,02:00 4th,"— T.Bass 27 yard field goal is No Good, Wide Left, Center-R.Ferguson, Holder-S.Martin."
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,5,Pittsburgh Steelers,0,1,0,5 Yard Pass,1st & 10 at PIT 20,01:57 4th Shotgun,— M.Rudolph pass short middle to Co.Heyward to PIT 25 for 5 yards (A.Klein).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,5,Pittsburgh Steelers,0,2,0,10 Yard Pass,2nd & 5 at PIT 25,"01:39 4th No Huddle, Shotgun",— M.Rudolph pass short left to N.Harris to PIT 35 for 10 yards (J.Poyer).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,5,Pittsburgh Steelers,0,3,0,Pass Incomplete,1st & 10 at PIT 35,"01:16 4th No Huddle, Shotgun",— M.Rudolph pass incomplete short right to C.Austin (D.Jackson).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,5,Pittsburgh Steelers,0,4,0,Pass Incomplete,2nd & 10 at PIT 35,01:13 4th Shotgun,— M.Rudolph pass incomplete short middle to N.Harris [E.Oliver].
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,5,Pittsburgh Steelers,0,5,0,15 Yard Pass,3rd & 10 at PIT 35,01:09 4th Shotgun,— M.Rudolph pass short middle to P.Freiermuth to 50 for 15 yards (M.Hyde).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,5,Pittsburgh Steelers,0,6,0,Pass Incomplete,1st & 10 at 50,00:53 4th No Huddle,— M.Rudolph spiked the ball to stop the clock.
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,5,Pittsburgh Steelers,0,7,0,15 Yard Penalty,2nd & 10 at 50,00:52 4th Shotgun,"— M.Rudolph pass incomplete deep right to C.Austin. PENALTY on BUF-E.Oliver, Roughing the Passer, 15 yards, enforced at 50 - No Play."
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,5,Pittsburgh Steelers,0,8,0,5 Yard Pass,1st & 10 at BUF 35,00:45 4th Shotgun,— M.Rudolph pass short middle to N.Harris to BUF 30 for 5 yards (J.Poyer; A.Klein).
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,5,Pittsburgh Steelers,0,9,0,-5 Yard Penalty,2nd & 5 at BUF 30,"00:27 4th No Huddle, Shotgun","— M.Rudolph scrambles left end ran ob at BUF 27 for 3 yards (J.Poyer). PENALTY on PIT-C.Austin, Illegal Substitution, 5 yards, enforced at BUF 30 - No Play."
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,5,Pittsburgh Steelers,0,10,0,Pass Incomplete,2nd & 10 at BUF 35,00:20 4th Shotgun,— M.Rudolph pass incomplete deep right to D.Johnson.
+2023,Wild Card,MON,01/15,Steelers,Bills,4th Quarter,5,Pittsburgh Steelers,0,11,0,10 Yard Run,3rd & 10 at BUF 35,00:14 4th Shotgun,— M.Rudolph scrambles up the middle to BUF 25 for 10 yards (J.Poyer).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,1,Tampa Bay Buccaneers,1,1,0,Kickoff from PHI 35,,Kickoff,"— J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,1,Tampa Bay Buccaneers,1,2,0,Pass Incomplete,1st & 10 at TB 25,15:00 1st Shotgun,— B.Mayfield pass incomplete deep left to M.Evans.
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,1,Tampa Bay Buccaneers,1,3,0,15 Yard Pass,2nd & 10 at TB 25,14:56 1st Shotgun,— B.Mayfield pass short middle to C.Otton to TB 40 for 15 yards (A.Maddox).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,1,Tampa Bay Buccaneers,1,4,0,21 Yard Pass,1st & 10 at TB 40,14:18 1st,— B.Mayfield pass deep middle to M.Evans to PHI 39 for 21 yards (Z.Cunningham).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,1,Tampa Bay Buccaneers,1,5,0,8 Yard Run,1st & 10 at PHI 39,13:40 1st,— R.White up the middle to PHI 31 for 8 yards (N.Morrow; F.Cox).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,1,Tampa Bay Buccaneers,1,6,0,4 Yard Run,2nd & 2 at PHI 31,13:02 1st,— R.White right tackle to PHI 27 for 4 yards (J.Carter).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,1,Tampa Bay Buccaneers,1,7,0,7 Yard Run,1st & 10 at PHI 27,12:23 1st Shotgun,— R.White right guard to PHI 20 for 7 yards (J.Carter; A.Maddox).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,1,Tampa Bay Buccaneers,1,8,0,Pass Incomplete,2nd & 3 at PHI 20,11:45 1st Shotgun,— B.Mayfield pass incomplete short right to C.Otton.
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,1,Tampa Bay Buccaneers,1,9,0,3 Yard Pass,3rd & 3 at PHI 20,11:41 1st Shotgun,— B.Mayfield pass short left to R.White to PHI 17 for 3 yards (Z.Cunningham; N.Morrow).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,1,Tampa Bay Buccaneers,1,10,0,7 Yard Run,1st & 10 at PHI 17,10:55 1st Shotgun,— B.Mayfield scrambles right end to PHI 10 for 7 yards (K.Byard).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,1,Tampa Bay Buccaneers,1,11,0,Pass Incomplete,2nd & 3 at PHI 10,10:13 1st Shotgun,— B.Mayfield pass incomplete short middle to C.Otton.
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,1,Tampa Bay Buccaneers,1,12,0,Pass Incomplete,3rd & 3 at PHI 10,10:10 1st Shotgun,— B.Mayfield pass incomplete short left to T.Palmer.
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,1,Tampa Bay Buccaneers,1,13,1,Field Goal,4th & 3 at PHI 10,10:05 1st,"— C.McLaughlin 28 yard field goal is GOOD, Center-Z.Triner, Holder-J.Camarda."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,2,Philadelphia Eagles,0,1,0,Kickoff from TB 35,,Kickoff,"— J.Camarda kicks 65 yards from TB 35 to end zone, Touchback."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,2,Philadelphia Eagles,0,2,0,9 Yard Run,1st & 10 at PHI 25,10:02 1st Shotgun,— D.Swift left end to PHI 34 for 9 yards (K.Britt; J.Dean).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,2,Philadelphia Eagles,0,3,0,2 Yard Run,2nd & 1 at PHI 34,09:22 1st Shotgun,— D.Swift left guard to PHI 36 for 2 yards (C.Kancey).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,2,Philadelphia Eagles,0,4,0,4 Yard Pass,1st & 10 at PHI 36,08:43 1st Shotgun,— J.Hurts pass short left to J.Jones to PHI 40 for 4 yards (J.Dean).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,2,Philadelphia Eagles,0,5,0,4 Yard Pass,2nd & 6 at PHI 40,08:06 1st Shotgun,— J.Hurts pass short right to D.Goedert to PHI 44 for 4 yards (C.Davis).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,2,Philadelphia Eagles,0,6,0,Pass Incomplete,3rd & 2 at PHI 44,07:18 1st Shotgun,"— J.Hurts pass incomplete deep right to D.Goedert (A.Winfield, K.Britt)."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,2,Philadelphia Eagles,0,7,0,Punt,4th & 2 at PHI 44,07:14 1st,"— B.Mann punts 35 yards to TB 21, Center-R.Lovato, fair catch by D.Thompkins."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,3,Tampa Bay Buccaneers,1,1,0,-5 Yard Penalty,1st & 10 at TB 21,07:07 1st Shotgun,"— PENALTY on TB-T.Palmer, False Start, 5 yards, enforced at TB 21 - No Play."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,3,Tampa Bay Buccaneers,1,2,0,37 Yard Pass,1st & 15 at TB 16,07:07 1st Shotgun,"— B.Mayfield pass deep right to D.Moore to TB 38 for 22 yards (K.Byard). PENALTY on PHI-Z.Cunningham, Face Mask, 15 yards, enforced at TB 38."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,3,Tampa Bay Buccaneers,1,3,0,Pass Incomplete,1st & 10 at PHI 47,06:42 1st,— B.Mayfield pass incomplete deep right to M.Evans.
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,3,Tampa Bay Buccaneers,1,4,0,3 Yard Run,2nd & 10 at PHI 47,06:36 1st Shotgun,— R.White up the middle to PHI 44 for 3 yards (A.Maddox).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,3,Tampa Bay Buccaneers,1,5,1,Touchdown,3rd & 7 at PHI 44,05:59 1st Shotgun,"— B.Mayfield pass short left to D.Moore for 44 yards, TOUCHDOWN."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,3,Tampa Bay Buccaneers,1,6,1,Extra Point,,05:47 1st,"— C.McLaughlin extra point is GOOD, Center-Z.Triner, Holder-J.Camarda."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,4,Philadelphia Eagles,0,1,0,Kickoff from TB 35,,Kickoff,"— J.Camarda kicks 65 yards from TB 35 to end zone, Touchback."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,4,Philadelphia Eagles,0,2,0,3 Yard Run,1st & 10 at PHI 25,05:47 1st Shotgun,— D.Swift up the middle to PHI 28 for 3 yards (G.Gaines; K.Britt). TB-Y.Diaby was injured during the play.
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,4,Philadelphia Eagles,0,3,0,4 Yard Pass,2nd & 7 at PHI 28,05:17 1st Shotgun,— J.Hurts pass short left to Q.Watkins pushed ob at PHI 32 for 4 yards (J.Dean).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,4,Philadelphia Eagles,0,4,0,Pass Incomplete,3rd & 3 at PHI 32,04:38 1st Shotgun,— J.Hurts pass incomplete short left to D.Goedert.
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,1st Quarter,4,Philadelphia Eagles,0,5,0,Punt,4th & 3 at PHI 32,04:35 1st,"— B.Mann punts 57 yards to TB 11, Center-R.Lovato. D.Thompkins to TB 24 for 13 yards (M.Garner)."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,1,Tampa Bay Buccaneers,1,1,0,4 Yard Run,1st & 10 at TB 24,04:22 1st Shotgun,— C.Edmonds up the middle to TB 28 for 4 yards (B.Graham).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,1,Tampa Bay Buccaneers,1,2,0,8 Yard Pass,2nd & 6 at TB 28,03:46 1st Shotgun,— B.Mayfield pass short right to C.Edmonds pushed ob at TB 36 for 8 yards (Z.Cunningham).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,1,Tampa Bay Buccaneers,1,3,0,9 Yard Run,1st & 10 at TB 36,03:08 1st,— T.Palmer left end to TB 45 for 9 yards (K.Ringo; B.Roby).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,1,Tampa Bay Buccaneers,1,4,0,1 Yard Run,2nd & 1 at TB 45,02:20 1st,— J.Skule reported in as eligible. C.Edmonds up the middle to TB 46 for 1 yard (N.Smith).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,1,Tampa Bay Buccaneers,1,5,0,-3 Yard Run,1st & 10 at TB 46,01:41 1st Shotgun,"— R.White up the middle to TB 43 for -3 yards (B.Graham, N.Smith)."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,1,Tampa Bay Buccaneers,1,6,0,24 Yard Pass,2nd & 13 at TB 43,01:00 1st Shotgun,— B.Mayfield pass short middle to C.Otton to PHI 33 for 24 yards (N.Morrow).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,1,Tampa Bay Buccaneers,1,7,0,1 Yard Run,1st & 10 at PHI 33,00:19 1st,— R.White left guard to PHI 32 for 1 yard (N.Morrow; J.Sweat).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,1,Tampa Bay Buccaneers,1,8,0,-4 Yard Sack,2nd & 9 at PHI 32,15:00 2nd Shotgun,— B.Mayfield sacked at PHI 36 for -4 yards (J.Sweat).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,1,Tampa Bay Buccaneers,1,9,0,Pass Incomplete,3rd & 13 at PHI 36,14:14 2nd Shotgun,— B.Mayfield pass incomplete short middle to D.Moore (Z.Cunningham).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,1,Tampa Bay Buccaneers,1,10,1,Field Goal,4th & 13 at PHI 36,14:08 2nd,"— C.McLaughlin 54 yard field goal is GOOD, Center-Z.Triner, Holder-J.Camarda."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,2,Philadelphia Eagles,1,1,0,Kickoff from TB 35,,Kickoff,"— J.Camarda kicks 65 yards from TB 35 to end zone, Touchback."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,2,Philadelphia Eagles,1,2,0,Pass Incomplete,1st & 10 at PHI 25,14:03 2nd Shotgun,— J.Hurts pass incomplete short right to D.Smith.
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,2,Philadelphia Eagles,1,3,0,31 Yard Pass,2nd & 10 at PHI 25,14:00 2nd Shotgun,— J.Hurts pass short middle to D.Smith to TB 44 for 31 yards (Z.McCollum).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,2,Philadelphia Eagles,1,4,0,12 Yard Pass,1st & 10 at TB 44,"13:27 2nd No Huddle, Shotgun",— J.Hurts pass short right to D.Smith to TB 32 for 12 yards (C.Izien).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,2,Philadelphia Eagles,1,5,0,2 Yard Pass,1st & 10 at TB 32,"12:56 2nd No Huddle, Shotgun",— J.Hurts pass short left to Q.Watkins pushed ob at TB 30 for 2 yards (J.Dean).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,2,Philadelphia Eagles,1,6,0,Sack,2nd & 8 at TB 30,12:21 2nd Shotgun,— J.Hurts sacked at TB 30 for 0 yards (J.Tryon).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,2,Philadelphia Eagles,1,7,0,Pass Incomplete,3rd & 8 at TB 30,11:39 2nd Shotgun,— J.Hurts pass incomplete short left to D.Smith.
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,2,Philadelphia Eagles,1,8,1,Field Goal,4th & 8 at TB 30,11:36 2nd,"— J.Elliott 47 yard field goal is GOOD, Center-R.Lovato, Holder-B.Mann."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,3,Tampa Bay Buccaneers,1,1,0,Kickoff from PHI 35,,Kickoff,"— J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,3,Tampa Bay Buccaneers,1,2,0,4 Yard Pass,1st & 10 at TB 25,11:31 2nd,— B.Mayfield pass short left to D.Thompkins to TB 29 for 4 yards (B.Roby).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,3,Tampa Bay Buccaneers,1,3,0,Pass Incomplete,2nd & 6 at TB 29,10:50 2nd Shotgun,— B.Mayfield pass incomplete deep left to M.Evans.
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,3,Tampa Bay Buccaneers,1,4,0,9 Yard Run,3rd & 6 at TB 29,10:45 2nd Shotgun,— B.Mayfield scrambles right end to TB 38 for 9 yards (K.Byard).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,3,Tampa Bay Buccaneers,1,5,0,1 Yard Run,1st & 10 at TB 38,09:57 2nd Shotgun,— R.White up the middle to TB 39 for 1 yard (J.Davis).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,3,Tampa Bay Buccaneers,1,6,0,10 Yard Run,2nd & 9 at TB 39,09:19 2nd Shotgun,— D.Thompkins left end pushed ob at TB 49 for 10 yards (K.Ringo).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,3,Tampa Bay Buccaneers,1,7,0,Pass Incomplete,1st & 10 at TB 49,08:36 2nd Shotgun,— B.Mayfield pass incomplete short middle to C.Otton.
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,3,Tampa Bay Buccaneers,1,8,0,9 Yard Pass,2nd & 10 at TB 49,08:33 2nd Shotgun,— B.Mayfield pass short right to C.Godwin to PHI 42 for 9 yards (N.Morrow).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,3,Tampa Bay Buccaneers,1,9,0,0 Yard Run,3rd & 1 at PHI 42,07:48 2nd Shotgun,"— R.White up the middle to PHI 42 for no gain (K.Byard, Z.Cunningham)."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,3,Tampa Bay Buccaneers,1,10,0,7 Yard Run,4th & 1 at PHI 42,07:03 2nd,— R.White left end to PHI 35 for 7 yards (B.Graham).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,3,Tampa Bay Buccaneers,1,11,0,Pass Incomplete,1st & 10 at PHI 35,06:24 2nd Shotgun,— B.Mayfield pass incomplete short right to C.Edmonds.
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,3,Tampa Bay Buccaneers,1,12,0,5 Yard Pass,2nd & 10 at PHI 35,06:22 2nd Shotgun,— B.Mayfield pass short right to C.Otton to PHI 30 for 5 yards (N.Morrow).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,3,Tampa Bay Buccaneers,1,13,0,Pass Incomplete,3rd & 5 at PHI 30,05:43 2nd Shotgun,— B.Mayfield pass incomplete short middle to M.Evans (Z.Cunningham).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,3,Tampa Bay Buccaneers,1,14,1,Field Goal,4th & 5 at PHI 30,05:40 2nd,"— C.McLaughlin 48 yard field goal is GOOD, Center-Z.Triner, Holder-J.Camarda."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,4,Philadelphia Eagles,1,1,0,Kickoff from TB 35,,Kickoff,"— J.Camarda kicks 65 yards from TB 35 to end zone, Touchback."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,4,Philadelphia Eagles,1,2,0,-5 Yard Penalty,1st & 10 at PHI 25,05:35 2nd Shotgun,"— J.Hurts pass incomplete short right to D.Goedert. PENALTY on PHI-C.Jurgens, Ineligible Downfield Pass, 5 yards, enforced at PHI 25 - No Play."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,4,Philadelphia Eagles,1,3,0,4 Yard Pass,1st & 15 at PHI 20,05:32 2nd Shotgun,— J.Hurts pass short left to J.Jones pushed ob at PHI 24 for 4 yards (J.Dean).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,4,Philadelphia Eagles,1,4,0,14 Yard Pass,2nd & 11 at PHI 24,04:58 2nd Shotgun,"— J.Hurts pass short left to J.Jones to PHI 38 for 14 yards (L.David). FUMBLES (L.David), and recovers at PHI 38. PHI-J.Jones was injured during the play."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,4,Philadelphia Eagles,1,5,0,2 Yard Run,1st & 10 at PHI 38,04:34 2nd Shotgun,— D.Swift up the middle to PHI 40 for 2 yards (W.Gholston).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,4,Philadelphia Eagles,1,6,0,55 Yard Pass,2nd & 8 at PHI 40,03:54 2nd Shotgun,— J.Hurts pass deep middle to D.Smith to TB 5 for 55 yards (J.Dean).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,4,Philadelphia Eagles,1,7,1,Touchdown,1st & 5 at TB 5,03:10 2nd Shotgun,"— J.Hurts pass short right to D.Goedert for 5 yards, TOUCHDOWN."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,4,Philadelphia Eagles,1,8,0,Extra Point No Good,,03:06 2nd,"— J.Elliott extra point is GOOD, Center-R.Lovato, Holder-B.Mann. PENALTY on TB-Z.McCollum, Defensive Offside, 1 yard, enforced at TB 15 - No Play."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,4,Philadelphia Eagles,1,9,0,2PT Conversion Fails,,03:06 2nd,— TWO-POINT CONVERSION ATTEMPT. J.Hurts rushes up the middle. ATTEMPT FAILS.
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,5,Tampa Bay Buccaneers,0,1,0,Kickoff from PHI 35,,Kickoff,"— J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,5,Tampa Bay Buccaneers,0,2,0,11 Yard Run,1st & 10 at TB 25,03:06 2nd Shotgun,— R.White left end to TB 36 for 11 yards (B.Roby).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,5,Tampa Bay Buccaneers,0,3,0,Pass Incomplete,1st & 10 at TB 36,02:26 2nd Shotgun,— B.Mayfield pass incomplete short right.
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,5,Tampa Bay Buccaneers,0,4,0,19 Yard Pass,2nd & 10 at TB 36,02:20 2nd,— B.Mayfield pass short left to C.Otton to PHI 45 for 19 yards (J.Bradberry).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,5,Tampa Bay Buccaneers,0,5,0,Pass Incomplete,1st & 10 at PHI 45,02:00 2nd Shotgun,— B.Mayfield pass incomplete deep middle to C.Godwin.
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,5,Tampa Bay Buccaneers,0,6,0,Pass Incomplete,2nd & 10 at PHI 45,01:55 2nd Shotgun,— B.Mayfield pass incomplete short left to R.White.
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,5,Tampa Bay Buccaneers,0,7,0,Timeout,,01:52 2nd,— Timeout #1 by PHI at 01:52.
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,5,Tampa Bay Buccaneers,0,8,0,-7 Yard Sack,3rd & 10 at PHI 45,01:52 2nd Shotgun,— B.Mayfield sacked at TB 48 for -7 yards (B.Graham).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,5,Tampa Bay Buccaneers,0,9,0,Timeout,,01:42 2nd,— Timeout #2 by PHI at 01:42.
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,5,Tampa Bay Buccaneers,0,10,0,Punt,4th & 17 at TB 48,01:42 2nd,"— J.Camarda punts 47 yards to PHI 5, Center-Z.Triner. B.Covey MUFFS catch, and recovers at PHI 9."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,6,Philadelphia Eagles,0,1,0,9 Yard Pass,1st & 10 at PHI 9,01:33 2nd Shotgun,— J.Hurts pass short right to K.Gainwell to PHI 18 for 9 yards (D.White; C.Davis).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,6,Philadelphia Eagles,0,2,0,1 Yard Run,2nd & 1 at PHI 18,"01:09 2nd No Huddle, Shotgun",— K.Gainwell up the middle to PHI 19 for 1 yard (V.Vea).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,6,Philadelphia Eagles,0,3,0,Pass Incomplete,1st & 10 at PHI 19,"00:46 2nd No Huddle, Shotgun",— J.Hurts pass incomplete short right [J.Tryon].
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,6,Philadelphia Eagles,0,4,0,13 Yard Pass,2nd & 10 at PHI 19,00:40 2nd Shotgun,— J.Hurts pass short right to D.Smith to PHI 32 for 13 yards (A.Winfield).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,6,Philadelphia Eagles,0,5,0,Timeout,,00:32 2nd,— Timeout #3 by PHI at 00:32.
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,6,Philadelphia Eagles,0,6,0,Pass Incomplete,1st & 10 at PHI 32,00:32 2nd Shotgun,— J.Hurts pass incomplete deep right to D.Smith (C.Davis).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,6,Philadelphia Eagles,0,7,0,2 Yard Pass,2nd & 10 at PHI 32,00:26 2nd Shotgun,— J.Hurts pass short right to D.Goedert pushed ob at PHI 34 for 2 yards (L.David).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,2nd Quarter,6,Philadelphia Eagles,0,8,0,6 Yard Pass,3rd & 8 at PHI 34,00:22 2nd Shotgun,— J.Hurts pass short left to Q.Watkins to PHI 40 for 6 yards (L.David).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,1,Philadelphia Eagles,0,1,0,Kickoff from TB 35,,Kickoff,"— J.Camarda kicks 65 yards from TB 35 to end zone, Touchback."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,1,Philadelphia Eagles,0,2,0,-1 Yard Run,1st & 10 at PHI 25,15:00 3rd Shotgun,— D.Swift right end to PHI 24 for -1 yards (L.David).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,1,Philadelphia Eagles,0,3,0,Pass Incomplete,2nd & 11 at PHI 24,14:17 3rd Shotgun,— J.Hurts pass incomplete deep left to Q.Watkins (J.Dean).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,1,Philadelphia Eagles,0,4,0,-9 Yard Sack,3rd & 11 at PHI 24,14:12 3rd Shotgun,— J.Hurts sacked at PHI 15 for -9 yards (sack split by C.Kancey and V.Vea).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,1,Philadelphia Eagles,0,5,0,Punt,4th & 20 at PHI 15,13:41 3rd,"— B.Mann punts 44 yards to TB 41, Center-R.Lovato, downed by PHI-K.Ringo."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,2,Tampa Bay Buccaneers,0,1,0,11 Yard Pass,1st & 10 at TB 41,13:31 3rd Shotgun,"— B.Mayfield pass short left to C.Otton to PHI 48 for 11 yards (Z.Cunningham, D.Slay)."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,2,Tampa Bay Buccaneers,0,2,0,3 Yard Pass,1st & 10 at PHI 48,12:50 3rd Shotgun,— B.Mayfield pass short left to C.Otton to PHI 45 for 3 yards (A.Maddox).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,2,Tampa Bay Buccaneers,0,3,0,Pass Incomplete,2nd & 7 at PHI 45,12:12 3rd Shotgun,— B.Mayfield pass incomplete short right to R.White [M.Williams].
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,2,Tampa Bay Buccaneers,0,4,0,-10 Yard Sack,3rd & 7 at PHI 45,12:03 3rd Shotgun,— B.Mayfield sacked at TB 45 for -10 yards (sack split by F.Cox and N.Smith).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,2,Tampa Bay Buccaneers,0,5,0,Punt,4th & 17 at TB 45,11:29 3rd,"— J.Camarda punts 42 yards to PHI 13, Center-Z.Triner, fair catch by B.Covey."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,3,Philadelphia Eagles,0,1,0,Penalty,1st & 10 at PHI 13,11:23 3rd Shotgun,"— J.Hurts scrambles up the middle to PHI 26 for 13 yards (L.David). Penalty on PHI-C.Jurgens, Offensive Holding, offsetting, enforced at PHI 13 - No Play. Penalty on TB-L.David, Unnecessary Roughness, offsetting."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,3,Philadelphia Eagles,0,2,0,-4 Yard Pass,1st & 10 at PHI 13,10:49 3rd Shotgun,— J.Hurts pass short left to D.Smith to PHI 9 for -4 yards (J.Dean).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,3,Philadelphia Eagles,0,3,0,5 Yard Run,2nd & 14 at PHI 9,10:05 3rd Shotgun,— J.Hurts scrambles right end pushed ob at PHI 14 for 5 yards (C.Izien).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,3,Philadelphia Eagles,0,4,0,4 Yard Penalty,3rd & 9 at PHI 14,09:21 3rd Shotgun,"— J.Hurts pass incomplete short middle to D.Goedert. PENALTY on TB-J.Tryon, Defensive Pass Interference, 4 yards, enforced at PHI 14 - No Play."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,3,Philadelphia Eagles,0,5,0,2 Yard Run,1st & 10 at PHI 18,09:18 3rd Shotgun,— D.Swift right tackle to PHI 20 for 2 yards (P.O'Connor).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,3,Philadelphia Eagles,0,6,0,2 Yard Run,2nd & 8 at PHI 20,08:42 3rd Shotgun,— D.Swift left end to PHI 22 for 2 yards (L.Hall).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,3,Philadelphia Eagles,0,7,0,1 Yard Pass,3rd & 6 at PHI 22,07:59 3rd Shotgun,"— J.Hurts pass short left to K.Gainwell to PHI 23 for 1 yard (J.Dean, D.White)."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,3,Philadelphia Eagles,0,8,0,Punt,4th & 5 at PHI 23,07:25 3rd,"— B.Mann punts 52 yards to TB 25, Center-R.Lovato. D.Thompkins to TB 36 for 11 yards (B.VanSumeren)."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,4,Tampa Bay Buccaneers,0,1,0,7 Yard Pass,1st & 10 at TB 36,07:13 3rd Shotgun,— B.Mayfield pass short right to C.Otton to TB 43 for 7 yards (J.Bradberry; Z.Cunningham).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,4,Tampa Bay Buccaneers,0,2,0,12 Yard Run,2nd & 3 at TB 43,06:31 3rd Shotgun,— R.White up the middle to PHI 45 for 12 yards (K.Byard).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,4,Tampa Bay Buccaneers,0,3,0,8 Yard Pass,1st & 10 at PHI 45,05:51 3rd Shotgun,— B.Mayfield pass short left to C.Godwin pushed ob at PHI 37 for 8 yards (J.Bradberry).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,4,Tampa Bay Buccaneers,0,4,0,1 Yard Run,2nd & 2 at PHI 37,05:13 3rd Shotgun,— R.White left guard to PHI 36 for 1 yard (M.Williams).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,4,Tampa Bay Buccaneers,0,5,0,-9 Yard Sack,3rd & 1 at PHI 36,04:35 3rd,— B.Mayfield sacked at PHI 45 for -9 yards (M.Williams).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,4,Tampa Bay Buccaneers,0,6,0,Punt,4th & 10 at PHI 45,03:48 3rd,"— J.Camarda punts 35 yards to PHI 10, Center-Z.Triner, fair catch by B.Covey."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,5,Philadelphia Eagles,0,1,0,-6 Yard Run,1st & 10 at PHI 10,03:41 3rd Shotgun,— K.Gainwell right end to PHI 4 for -6 yards (L.David).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,5,Philadelphia Eagles,0,2,0,10 Yard Pass,2nd & 16 at PHI 4,02:53 3rd Shotgun,— J.Hurts pass short left to D.Goedert ran ob at PHI 14 for 10 yards.
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,5,Philadelphia Eagles,0,3,0,Safety,3rd & 6 at PHI 14,"02:28 3rd No Huddle, Shotgun","— J.Hurts pass incomplete short left [A.Nelson]. PENALTY on PHI-J.Hurts, Intentional Grounding, 14 yards, enforced in End Zone, SAFETY."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,6,Tampa Bay Buccaneers,1,1,0,Kickoff from PHI 20,,Kickoff,— B.Mann kicks 69 yards from PHI 20 to TB 11. D.Thompkins pushed ob at TB 38 for 27 yards (E.Ricks).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,6,Tampa Bay Buccaneers,1,2,0,6 Yard Run,1st & 10 at TB 38,02:11 3rd Shotgun,— R.White left end pushed ob at TB 44 for 6 yards (A.Maddox).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,6,Tampa Bay Buccaneers,1,3,1,Touchdown,2nd & 4 at TB 44,01:30 3rd Shotgun,"— B.Mayfield pass short right to T.Palmer for 56 yards, TOUCHDOWN."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,3rd Quarter,6,Tampa Bay Buccaneers,1,4,1,Extra Point,,01:19 3rd,"— C.McLaughlin extra point is GOOD, Center-Z.Triner, Holder-J.Camarda."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,1,Philadelphia Eagles,0,1,0,Kickoff from TB 35,,Kickoff,— J.Camarda kicks 55 yards from TB 35 to PHI 10. B.Scott to PHI 27 for 17 yards (S.Dennis; D.Delaney).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,1,Philadelphia Eagles,0,2,0,17 Yard Run,1st & 10 at PHI 27,01:15 3rd Shotgun,"— D.Swift up the middle to PHI 44 for 17 yards (J.Dean, K.Britt)."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,1,Philadelphia Eagles,0,3,0,0 Yard Run,1st & 10 at PHI 44,"00:47 3rd No Huddle, Shotgun",— D.Swift up the middle to PHI 44 for no gain (C.Kancey).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,1,Philadelphia Eagles,0,4,0,19 Yard Pass,2nd & 10 at PHI 44,"00:15 3rd No Huddle, Shotgun",— J.Hurts pass short right to D.Smith to TB 37 for 19 yards (C.Davis).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,1,Philadelphia Eagles,0,5,0,Pass Incomplete,1st & 10 at TB 37,15:00 4th Shotgun,— J.Hurts pass incomplete deep left.
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,1,Philadelphia Eagles,0,6,0,15 Yard Pass,2nd & 10 at TB 37,14:52 4th Shotgun,— J.Hurts pass short right to D.Smith to TB 22 for 15 yards (C.Davis).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,1,Philadelphia Eagles,0,7,0,-2 Yard Run,1st & 10 at TB 22,"14:24 4th No Huddle, Shotgun",— D.Swift up the middle to TB 24 for -2 yards (C.Kancey).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,1,Philadelphia Eagles,0,8,0,-5 Yard Penalty,2nd & 12 at TB 24,13:46 4th Shotgun,"— J.Hurts pass short right to D.Goedert to TB 18 for 6 yards (K.Britt). PENALTY on PHI-C.Jurgens, Ineligible Downfield Pass, 5 yards, enforced at TB 24 - No Play."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,1,Philadelphia Eagles,0,9,0,-5 Yard Penalty,2nd & 17 at TB 29,13:29 4th Shotgun,"— PENALTY on PHI-J.Mailata, False Start, 5 yards, enforced at TB 29 - No Play."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,1,Philadelphia Eagles,0,10,0,1 Yard Pass,2nd & 22 at TB 34,13:29 4th Shotgun,— J.Hurts pass short right to D.Swift to TB 33 for 1 yard (Z.McCollum).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,1,Philadelphia Eagles,0,11,0,11 Yard Pass,3rd & 21 at TB 33,12:46 4th Shotgun,— J.Hurts pass short middle to D.Swift to TB 22 for 11 yards (A.Winfield).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,1,Philadelphia Eagles,0,12,0,Pass Incomplete,4th & 5 at TB 17,12:02 4th Shotgun,— J.Hurts pass incomplete deep right to D.Smith (C.Davis).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,2,Tampa Bay Buccaneers,1,1,0,18 Yard Pass,1st & 10 at TB 17,11:57 4th Shotgun,— B.Mayfield pass short middle to P.Durham to TB 35 for 18 yards (D.Slay).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,2,Tampa Bay Buccaneers,1,2,0,5 Yard Pass,1st & 10 at TB 35,11:11 4th Shotgun,— B.Mayfield pass short right to C.Godwin pushed ob at TB 40 for 5 yards (D.Slay).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,2,Tampa Bay Buccaneers,1,3,0,1 Yard Run,2nd & 5 at TB 40,10:40 4th Shotgun,— C.Edmonds up the middle to TB 41 for 1 yard (J.Sweat).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,2,Tampa Bay Buccaneers,1,4,0,5 Yard Pass,3rd & 4 at TB 41,09:58 4th Shotgun,— B.Mayfield pass short middle to C.Otton to TB 46 for 5 yards (N.Morrow).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,2,Tampa Bay Buccaneers,1,5,0,-10 Yard Penalty,1st & 10 at TB 46,09:13 4th,"— J.Skule reported in as eligible. C.Edmonds left end to TB 46 for no gain (J.Carter). PENALTY on TB-K.Kieft, Offensive Holding, 10 yards, enforced at TB 46 - No Play."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,2,Tampa Bay Buccaneers,1,6,0,19 Yard Pass,1st & 20 at TB 36,08:54 4th Shotgun,— B.Mayfield pass deep right to M.Evans pushed ob at PHI 45 for 19 yards (D.Slay).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,2,Tampa Bay Buccaneers,1,7,0,8 Yard Run,2nd & 1 at PHI 45,08:14 4th Shotgun,— R.White left guard to PHI 37 for 8 yards (N.Morrow).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,2,Tampa Bay Buccaneers,1,8,0,1 Yard Run,1st & 10 at PHI 37,07:28 4th,— R.White up the middle to PHI 36 for 1 yard (J.Sweat).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,2,Tampa Bay Buccaneers,1,9,0,Timeout,,07:23 4th,— Timeout #1 by PHI at 07:23.
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,2,Tampa Bay Buccaneers,1,10,0,8 Yard Pass,2nd & 9 at PHI 36,07:23 4th,— J.Skule reported in as eligible. B.Mayfield pass short right to M.Evans to PHI 28 for 8 yards (D.Slay).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,2,Tampa Bay Buccaneers,1,11,0,Timeout,,07:16 4th,— Timeout #2 by PHI at 07:16.
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,2,Tampa Bay Buccaneers,1,12,0,2 Yard Run,3rd & 1 at PHI 28,07:16 4th,— J.Skule reported in as eligible. R.White left tackle to PHI 26 for 2 yards (A.Maddox; Z.Cunningham).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,2,Tampa Bay Buccaneers,1,13,0,Timeout,,07:12 4th,— Timeout #3 by PHI at 07:12.
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,2,Tampa Bay Buccaneers,1,14,0,4 Yard Run,1st & 10 at PHI 26,07:12 4th,"— J.Skule reported in as eligible. R.White up the middle to PHI 22 for 4 yards (N.Morrow, H.Reddick)."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,2,Tampa Bay Buccaneers,1,15,0,-1 Yard Run,2nd & 6 at PHI 22,06:27 4th,"— J.Skule reported in as eligible. R.White right end to PHI 23 for -1 yards (B.Graham, D.Slay). PHI-D.Slay was injured during the play."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,2,Tampa Bay Buccaneers,1,16,1,Touchdown,3rd & 7 at PHI 23,05:47 4th Shotgun,"— B.Mayfield pass deep middle to C.Godwin for 23 yards, TOUCHDOWN."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,2,Tampa Bay Buccaneers,1,17,1,Extra Point,,05:42 4th,"— C.McLaughlin extra point is GOOD, Center-Z.Triner, Holder-J.Camarda."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,3,Philadelphia Eagles,0,1,0,Kickoff from TB 35,,Kickoff,"— J.Camarda kicks 65 yards from TB 35 to end zone, Touchback."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,3,Philadelphia Eagles,0,2,0,11 Yard Pass,1st & 10 at PHI 25,05:42 4th Shotgun,— J.Hurts pass short right to D.Swift to PHI 36 for 11 yards (Y.Diaby).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,3,Philadelphia Eagles,0,3,0,-7 Yard Sack,1st & 10 at PHI 36,"05:17 4th No Huddle, Shotgun",— J.Hurts sacked at PHI 29 for -7 yards (G.Gaines).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,3,Philadelphia Eagles,0,4,0,9 Yard Pass,2nd & 17 at PHI 29,04:38 4th Shotgun,— J.Hurts pass short left to D.Swift to PHI 38 for 9 yards (A.Winfield).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,3,Philadelphia Eagles,0,5,0,-10 Yard Penalty,3rd & 8 at PHI 38,"04:01 4th No Huddle, Shotgun","— J.Hurts pass short middle to D.Goedert to PHI 49 for 11 yards (Z.McCollum). PHI-D.Goedert was injured during the play. PENALTY on PHI-D.Goedert, Offensive Pass Interference, 10 yards, enforced at PHI 38 - No Play."
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,3,Philadelphia Eagles,0,6,0,5 Yard Pass,3rd & 18 at PHI 28,03:56 4th Shotgun,— J.Hurts pass short right to O.Zaccheaus to PHI 33 for 5 yards (Z.McCollum).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,3,Philadelphia Eagles,0,7,0,Turnover on Downs,4th & 13 at PHI 33,03:17 4th Shotgun,— J.Hurts pass short left to D.Smith pushed ob at PHI 40 for 7 yards (J.Dean).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,4,Tampa Bay Buccaneers,0,1,0,3 Yard Run,1st & 10 at PHI 40,03:12 4th,— J.Skule reported in as eligible. C.Edmonds left guard to PHI 37 for 3 yards (J.Davis; Z.Cunningham).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,4,Tampa Bay Buccaneers,0,2,0,5 Yard Run,2nd & 7 at PHI 37,02:28 4th,— J.Skule reported in as eligible. C.Edmonds up the middle to PHI 32 for 5 yards (Z.Cunningham).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,4,Tampa Bay Buccaneers,0,3,0,-4 Yard Run,3rd & 2 at PHI 32,02:00 4th,— J.Skule reported in as eligible. C.Edmonds left tackle to PHI 36 for -4 yards (N.Morrow).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,4,Tampa Bay Buccaneers,0,4,0,Turnover on Downs,4th & 6 at PHI 36,01:15 4th,— J.Skule reported in as eligible. C.Edmonds up the middle to PHI 34 for 2 yards (N.Smith; A.Maddox).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,5,Philadelphia Eagles,0,1,0,4 Yard Run,1st & 10 at PHI 34,01:09 4th Shotgun,— K.Gainwell up the middle to PHI 38 for 4 yards (A.Nelson).
+2023,Wild Card,MON,01/15,Eagles,Buccaneers,4th Quarter,5,Philadelphia Eagles,0,2,0,4 Yard Run,2nd & 6 at PHI 38,00:30 4th Shotgun,— K.Gainwell up the middle to PHI 42 for 4 yards (P.O'Connor).
