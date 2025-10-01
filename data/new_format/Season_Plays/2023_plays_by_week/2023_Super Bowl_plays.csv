@@ -1,0 +1,201 @@
+Season,Week,Day,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayStart,PlayTimeFormation,PlayDescription
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,1st Quarter,1,San Francisco 49ers,0,1,0,Kickoff from KC 35,,Kickoff,"— H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,1st Quarter,1,San Francisco 49ers,0,2,0,6 Yard Run,1st & 10 at SF 25,15:00 1st,— C.McCaffrey left guard to SF 31 for 6 yards (G.Karlaftis).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,1st Quarter,1,San Francisco 49ers,0,3,0,18 Yard Pass,2nd & 4 at SF 31,14:24 1st,— B.Purdy pass short right to K.Juszczyk to SF 49 for 18 yards (N.Bolton).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,1st Quarter,1,San Francisco 49ers,0,4,0,11 Yard Pass,1st & 10 at SF 49,13:41 1st Shotgun,— B.Purdy pass short middle to C.McCaffrey to KC 40 for 11 yards (L.Chenal).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,1st Quarter,1,San Francisco 49ers,0,5,0,11 Yard Run,1st & 10 at KC 40,13:02 1st Shotgun,— C.McCaffrey up the middle to KC 29 for 11 yards (M.Edwards).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,1st Quarter,1,San Francisco 49ers,0,6,0,Fumble,1st & 10 at KC 29,12:24 1st,"— C.McCaffrey right guard to KC 27 for 2 yards (L.Chenal; M.Pennel). FUMBLES (L.Chenal), RECOVERED by KC-G.Karlaftis at KC 27."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,1st Quarter,2,Kansas City Chiefs,0,1,0,-3 Yard Run,1st & 10 at KC 27,12:15 1st Shotgun,"— I.Pacheco left guard to KC 24 for -3 yards (N.Bosa, J.Hargrave)."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,1st Quarter,2,Kansas City Chiefs,0,2,0,1 Yard Pass,2nd & 13 at KC 24,11:39 1st Shotgun,— P.Mahomes pass short left to T.Kelce to KC 25 for 1 yard (C.Young; D.Greenlaw).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,1st Quarter,2,Kansas City Chiefs,0,3,0,8 Yard Pass,3rd & 12 at KC 25,11:04 1st Shotgun,"— P.Mahomes pass short right to J.McKinnon to KC 33 for 8 yards (F.Warner, D.Greenlaw)."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,1st Quarter,2,Kansas City Chiefs,0,4,0,Punt,4th & 4 at KC 33,10:24 1st,"— T.Townsend punts 43 yards to SF 24, Center-J.Winchester, fair catch by R.McCloud."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,1st Quarter,3,San Francisco 49ers,0,1,0,18 Yard Pass,1st & 10 at SF 24,10:16 1st Shotgun,— B.Purdy pass short middle to B.Aiyuk to SF 42 for 18 yards (J.Reid).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,1st Quarter,3,San Francisco 49ers,0,2,0,-2 Yard Run,1st & 10 at SF 42,09:41 1st,"— D.Samuel right end to SF 40 for -2 yards (N.Bolton, G.Karlaftis)."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,1st Quarter,3,San Francisco 49ers,0,3,0,-5 Yard Penalty,2nd & 12 at SF 40,08:58 1st,"— PENALTY on SF-T.Williams, False Start, 5 yards, enforced at SF 40 - No Play."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,1st Quarter,3,San Francisco 49ers,0,4,0,-10 Yard Penalty,2nd & 17 at SF 35,08:41 1st Shotgun,"— B.Purdy pass short right to G.Kittle to KC 47 for 18 yards (J.Williams). PENALTY on SF-T.Williams, Offensive Holding, 10 yards, enforced at SF 35 - No Play."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,1st Quarter,3,San Francisco 49ers,0,5,0,8 Yard Pass,2nd & 27 at SF 25,08:09 1st Shotgun,— B.Purdy pass short right to C.McCaffrey to SF 33 for 8 yards (J.Reid; G.Karlaftis).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,1st Quarter,3,San Francisco 49ers,0,6,0,12 Yard Pass,3rd & 19 at SF 33,07:27 1st Shotgun,— B.Purdy pass short middle to D.Samuel to SF 45 for 12 yards (C.Conner; J.Williams).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,1st Quarter,3,San Francisco 49ers,0,7,0,Punt,4th & 12 at SF 40,06:40 1st,"— M.Wishnowsky punts 54 yards to KC 6, Center-T.Pepper. R.James to KC 11 for 5 yards (C.Conley)."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,1st Quarter,4,Kansas City Chiefs,0,1,0,10 Yard Run,1st & 10 at KC 11,06:28 1st Shotgun,— I.Pacheco right guard to KC 21 for 10 yards (L.Ryan; J.Brown).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,1st Quarter,4,Kansas City Chiefs,0,2,0,-4 Yard Sack,1st & 10 at KC 21,05:55 1st Shotgun,— P.Mahomes sacked at KC 17 for -4 yards (C.Young).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,1st Quarter,4,Kansas City Chiefs,0,3,0,0 Yard Pass,2nd & 14 at KC 17,05:15 1st Shotgun,— P.Mahomes pass short left to R.Rice to KC 17 for no gain (F.Warner).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,1st Quarter,4,Kansas City Chiefs,0,4,0,4 Yard Run,3rd & 14 at KC 17,04:36 1st Shotgun,— P.Mahomes scrambles up the middle to KC 21 for 4 yards (R.Gregory).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,1st Quarter,4,Kansas City Chiefs,0,5,0,Punt,4th & 10 at KC 21,04:01 1st,"— T.Townsend punts 62 yards to SF 17, Center-J.Winchester. R.McCloud to SF 17 for no gain (J.Williams)."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,1,San Francisco 49ers,1,1,0,5 Yard Penalty,1st & 10 at SF 17,03:53 1st,"— C.McCaffrey left end to SF 24 for 7 yards (J.Reid; C.Conner). PENALTY on KC-M.Herring, Defensive Offside, 5 yards, enforced at SF 17 - No Play."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,1,San Francisco 49ers,1,2,0,3 Yard Run,1st & 5 at SF 22,03:36 1st Shotgun,— C.McCaffrey left tackle to SF 25 for 3 yards (N.Bolton; C.Conner).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,1,San Francisco 49ers,1,3,0,4 Yard Run,2nd & 2 at SF 25,02:56 1st,— C.McCaffrey left guard to SF 29 for 4 yards (W.Gay; N.Bolton).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,1,San Francisco 49ers,1,4,0,1 Yard Pass,1st & 10 at SF 29,02:21 1st Shotgun,— B.Purdy pass short right to C.McCaffrey to SF 30 for 1 yard (G.Karlaftis).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,1,San Francisco 49ers,1,5,0,Pass Incomplete,2nd & 9 at SF 30,"01:57 1st No Huddle, Shotgun",— B.Purdy pass incomplete deep left to D.Samuel.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,1,San Francisco 49ers,1,6,0,18 Yard Pass,3rd & 9 at SF 30,01:51 1st Shotgun,— B.Purdy pass deep left to C.Conley ran ob at SF 48 for 18 yards (Ja.Watson).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,1,San Francisco 49ers,1,7,0,19 Yard Pass,1st & 10 at SF 48,01:14 1st Shotgun,— B.Purdy pass deep right to R.McCloud to KC 33 for 19 yards (L.Sneed).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,1,San Francisco 49ers,1,8,0,Pass Incomplete,1st & 10 at KC 33,00:32 1st Shotgun,— B.Purdy pass incomplete deep middle to B.Aiyuk.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,1,San Francisco 49ers,1,9,0,-4 Yard Run,2nd & 10 at KC 33,00:26 1st,— C.McCaffrey up the middle to KC 37 for -4 yards (F.Anudike-Uzomah).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,1,San Francisco 49ers,1,10,0,Pass Incomplete,3rd & 14 at KC 37,15:00 2nd Shotgun,— B.Purdy pass incomplete deep left to D.Samuel (T.McDuffie).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,1,San Francisco 49ers,1,11,1,Field Goal,4th & 14 at KC 37,14:53 2nd,"— J.Moody 55 yard field goal is GOOD, Center-T.Pepper, Holder-M.Wishnowsky."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,2,Kansas City Chiefs,0,1,0,Kickoff from SF 35,,Kickoff,"— J.Moody kicks 65 yards from SF 35 to end zone, Touchback."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,2,Kansas City Chiefs,0,2,0,7 Yard Pass,1st & 10 at KC 25,14:48 2nd,— P.Mahomes pass short left to I.Pacheco pushed ob at KC 32 for 7 yards (T.Gipson).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,2,Kansas City Chiefs,0,3,0,2 Yard Run,2nd & 3 at KC 32,14:15 2nd Shotgun,— I.Pacheco right guard to KC 34 for 2 yards (K.Givens).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,2,Kansas City Chiefs,0,4,0,5 Yard Run,3rd & 1 at KC 34,13:41 2nd,"— R.Rice right tackle to KC 37 for 3 yards (L.Ryan; D.Greenlaw). FUMBLES (L.Ryan), recovered by KC-Ju.Watson at KC 37. Ju.Watson to KC 39 for 2 yards (J.Brown)."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,2,Kansas City Chiefs,0,5,0,52 Yard Pass,1st & 10 at KC 39,13:01 2nd Shotgun,— P.Mahomes pass deep right to M.Hardman to SF 9 for 52 yards (J.Brown).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,2,Kansas City Chiefs,0,6,0,Fumble,1st & 9 at SF 9,12:09 2nd,"— I.Pacheco left tackle to SF 9 for no gain (D.Lenoir). FUMBLES (D.Lenoir), touched at SF 8, RECOVERED by SF-J.Hargrave at SF 8."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,3,San Francisco 49ers,0,1,0,24 Yard Run,1st & 10 at SF 8,11:59 2nd,"— B.Purdy scrambles left end pushed ob at SF 17 for 9 yards (N.Bolton). PENALTY on KC-N.Bolton, Horse Collar Tackle, 15 yards, enforced at SF 17."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,3,San Francisco 49ers,0,2,0,1 Yard Run,1st & 10 at SF 32,11:36 2nd,— D.Samuel up the middle to SF 33 for 1 yard (M.Pennel; C.Jones).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,3,San Francisco 49ers,0,3,0,0 Yard Run,2nd & 9 at SF 33,10:58 2nd,— C.McCaffrey left guard to SF 33 for no gain (C.Jones; M.Pennel).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,3,San Francisco 49ers,0,4,0,-4 Yard Sack,3rd & 9 at SF 33,10:12 2nd Shotgun,— B.Purdy sacked at SF 29 for -4 yards (sack split by J.Reid and G.Karlaftis).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,3,San Francisco 49ers,0,5,0,Punt,4th & 13 at SF 29,09:26 2nd,"— M.Wishnowsky punts 51 yards to KC 20, Center-T.Pepper. R.James MUFFS catch, and recovers at KC 20. R.James to KC 20 for no gain (C.Woerner; B.Willis)."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,4,Kansas City Chiefs,0,1,0,Pass Incomplete,1st & 10 at KC 20,09:16 2nd Shotgun,"— P.Mahomes pass incomplete short left [C.Young]. PENALTY on KC-P.Mahomes, Intentional Grounding, 10 yards, enforced at KC 20."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,4,Kansas City Chiefs,0,2,0,4 Yard Run,2nd & 20 at KC 10,09:07 2nd Shotgun,— I.Pacheco up the middle to KC 14 for 4 yards (F.Warner; J.Kinlaw).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,4,Kansas City Chiefs,0,3,0,3 Yard Run,3rd & 16 at KC 14,08:35 2nd Shotgun,— P.Mahomes scrambles right tackle to KC 17 for 3 yards (A.Armstead).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,4,Kansas City Chiefs,0,4,0,Punt,4th & 13 at KC 17,07:56 2nd,"— T.Townsend punts 50 yards to SF 33, Center-J.Winchester, fair catch by R.McCloud."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,5,San Francisco 49ers,1,1,0,Pass Incomplete,1st & 10 at SF 33,07:49 2nd Shotgun,— B.Purdy pass incomplete short middle to D.Samuel [G.Karlaftis].
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,5,San Francisco 49ers,1,2,0,12 Yard Pass,2nd & 10 at SF 33,07:44 2nd Shotgun,— B.Purdy pass short middle to D.Samuel to SF 45 for 12 yards (N.Bolton; J.Reid).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,5,San Francisco 49ers,1,3,0,6 Yard Pass,1st & 10 at SF 45,07:04 2nd,— B.Purdy pass short left to C.McCaffrey to KC 49 for 6 yards (J.Reid).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,5,San Francisco 49ers,1,4,0,5 Yard Run,2nd & 4 at KC 49,06:22 2nd,— C.McCaffrey left tackle to KC 44 for 5 yards (W.Gay).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,5,San Francisco 49ers,1,5,0,7 Yard Run,1st & 10 at KC 44,05:41 2nd,"— E.Mitchell right guard to KC 37 for 7 yards (M.Edwards, N.Bolton)."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,5,San Francisco 49ers,1,6,0,16 Yard Run,2nd & 3 at KC 37,04:58 2nd,"— E.Mitchell right end to KC 36 for 1 yard (C.Jones). PENALTY on KC-L.Sneed, Unnecessary Roughness, 15 yards, enforced at KC 36."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,5,San Francisco 49ers,1,7,0,Pass Incomplete,1st & 10 at KC 21,04:34 2nd Shotgun,— B.Purdy pass incomplete short middle to D.Samuel (L.Sneed) [N.Bolton].
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,5,San Francisco 49ers,1,8,1,Touchdown,2nd & 10 at KC 21,04:32 2nd Shotgun,"— J.Jennings pass short right to C.McCaffrey for 21 yards, TOUCHDOWN [T.McDuffie]."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,5,San Francisco 49ers,1,9,1,Extra Point,,04:23 2nd,"— J.Moody extra point is GOOD, Center-T.Pepper, Holder-M.Wishnowsky."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,6,Kansas City Chiefs,1,1,0,Kickoff from SF 35,,Kickoff,"— J.Moody kicks 65 yards from SF 35 to end zone, Touchback."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,6,Kansas City Chiefs,1,2,0,8 Yard Run,1st & 10 at KC 25,04:23 2nd Shotgun,— I.Pacheco left end pushed ob at KC 33 for 8 yards (J.Brown).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,6,Kansas City Chiefs,1,3,0,6 Yard Run,2nd & 2 at KC 33,03:44 2nd,— I.Pacheco up the middle to KC 39 for 6 yards (F.Warner; D.Flannigan-Fowles).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,6,Kansas City Chiefs,1,4,0,6 Yard Pass,1st & 10 at KC 39,03:10 2nd Shotgun,— P.Mahomes pass short right to I.Pacheco to KC 45 for 6 yards (F.Warner; L.Ryan).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,6,Kansas City Chiefs,1,5,0,0 Yard Run,2nd & 4 at KC 45,02:31 2nd,— C.Edwards-Helaire left tackle to KC 45 for no gain (N.Bosa).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,6,Kansas City Chiefs,1,6,0,-5 Yard Penalty,3rd & 4 at KC 45,02:00 2nd Shotgun,"— PENALTY on KC-M.Hardman, False Start, 5 yards, enforced at KC 45 - No Play."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,6,Kansas City Chiefs,1,7,0,21 Yard Pass,3rd & 9 at KC 40,02:00 2nd Shotgun,"— P.Mahomes pass short middle to Ju.Watson to SF 39 for 21 yards (J.Brown). Penalty on SF-F.Warner, Defensive Holding, declined."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,6,Kansas City Chiefs,1,8,0,Pass Incomplete,1st & 10 at SF 39,01:50 2nd Shotgun,— P.Mahomes pass incomplete deep right to Ju.Watson.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,6,Kansas City Chiefs,1,9,0,8 Yard Pass,2nd & 10 at SF 39,01:45 2nd Shotgun,— P.Mahomes pass short right to I.Pacheco pushed ob at SF 31 for 8 yards (O.Burks).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,6,Kansas City Chiefs,1,10,0,6 Yard Pass,3rd & 2 at SF 31,01:40 2nd Shotgun,— P.Mahomes pass short left to R.Rice to SF 25 for 6 yards (L.Ryan).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,6,Kansas City Chiefs,1,11,0,11 Yard Pass,1st & 10 at SF 25,"01:16 2nd No Huddle, Shotgun",— P.Mahomes pass short middle to R.Rice to SF 14 for 11 yards (F.Warner).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,6,Kansas City Chiefs,1,12,0,Timeout,,01:09 2nd,— Timeout #1 by KC at 01:09.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,6,Kansas City Chiefs,1,13,0,3 Yard Pass,1st & 10 at SF 14,01:09 2nd Shotgun,— P.Mahomes pass short right to R.Rice to SF 11 for 3 yards (N.Bosa).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,6,Kansas City Chiefs,1,14,0,2 Yard Run,2nd & 7 at SF 11,00:37 2nd Shotgun,— R.Rice left tackle to SF 9 for 2 yards (J.Kinlaw).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,6,Kansas City Chiefs,1,15,0,Timeout,,00:31 2nd,— Timeout #2 by KC at 00:31.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,6,Kansas City Chiefs,1,16,0,-1 Yard Sack,3rd & 5 at SF 9,00:31 2nd Shotgun,— P.Mahomes sacked at SF 10 for -1 yards (A.Armstead).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,6,Kansas City Chiefs,1,17,0,Timeout,,00:23 2nd,— Timeout #1 by SF at 00:23.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,6,Kansas City Chiefs,1,18,1,Field Goal,4th & 6 at SF 10,00:23 2nd,"— H.Butker 28 yard field goal is GOOD, Center-J.Winchester, Holder-T.Townsend."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,7,San Francisco 49ers,0,1,0,Kickoff from KC 35,,Kickoff,"— H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,2nd Quarter,7,San Francisco 49ers,0,2,0,6 Yard Run,1st & 10 at SF 25,00:20 2nd Shotgun,— C.McCaffrey left tackle to SF 31 for 6 yards (Ja.Watson).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,1,Kansas City Chiefs,0,1,0,Kickoff from SF 35,,Kickoff,"— J.Moody kicks 65 yards from SF 35 to end zone, Touchback."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,1,Kansas City Chiefs,0,2,0,-12 Yard Run,1st & 10 at KC 25,15:00 3rd,"— P.Mahomes FUMBLES (Aborted) at KC 17, recovered by KC-I.Pacheco at KC 15. I.Pacheco to KC 13 for -2 yards (N.Bosa)."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,1,Kansas City Chiefs,0,3,0,10 Yard Pass,2nd & 22 at KC 13,14:15 3rd Shotgun,— P.Mahomes pass short middle to N.Gray to KC 23 for 10 yards (L.Ryan).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,1,Kansas City Chiefs,0,4,0,Interception,3rd & 12 at KC 23,13:38 3rd Shotgun,— P.Mahomes pass deep right intended for M.Valdes-Scantling INTERCEPTED by J.Brown at KC 44. J.Brown to KC 44 for no gain (T.Kelce).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,2,San Francisco 49ers,0,1,0,Pass Incomplete,1st & 10 at KC 44,13:30 3rd Shotgun,— B.Purdy pass incomplete short right [L.Chenal].
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,2,San Francisco 49ers,0,2,0,-5 Yard Penalty,2nd & 10 at KC 44,13:26 3rd,"— PENALTY on SF-A.Banks, False Start, 5 yards, enforced at KC 44 - No Play."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,2,San Francisco 49ers,0,3,0,Pass Incomplete,2nd & 15 at KC 49,13:26 3rd Shotgun,— B.Purdy pass incomplete short left to D.Samuel.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,2,San Francisco 49ers,0,4,0,4 Yard Run,3rd & 15 at KC 49,13:22 3rd Shotgun,— B.Purdy scrambles left end to KC 45 for 4 yards (W.Gay).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,2,San Francisco 49ers,0,5,0,Punt,4th & 11 at KC 45,12:39 3rd,"— M.Wishnowsky punts 43 yards to KC 2, Center-T.Pepper, downed by SF-C.Conley."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,3,Kansas City Chiefs,0,1,0,Pass Incomplete,1st & 10 at KC 2,12:31 3rd Shotgun,— P.Mahomes pass incomplete deep left to M.Valdes-Scantling.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,3,Kansas City Chiefs,0,2,0,9 Yard Pass,2nd & 10 at KC 2,12:26 3rd Shotgun,— P.Mahomes pass short right to T.Kelce to KC 11 for 9 yards (O.Burks; C.Ward).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,3,Kansas City Chiefs,0,3,0,Timeout,,11:46 3rd,— Timeout #1 by KC at 11:46.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,3,Kansas City Chiefs,0,4,0,0 Yard Run,3rd & 1 at KC 11,11:46 3rd,— I.Pacheco up the middle to KC 11 for no gain (J.Kinlaw).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,3,Kansas City Chiefs,0,5,0,Punt,4th & 1 at KC 11,10:53 3rd,"— T.Townsend punts 53 yards to SF 36, Center-J.Winchester, fair catch by R.McCloud."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,4,San Francisco 49ers,0,1,0,-8 Yard Pass,1st & 10 at SF 36,10:45 3rd,— B.Purdy pass short right to J.Jennings to SF 28 for -8 yards (L.Chenal).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,4,San Francisco 49ers,0,2,0,7 Yard Pass,2nd & 18 at SF 28,10:00 3rd Shotgun,— B.Purdy pass short left to C.McCaffrey to SF 35 for 7 yards (N.Bolton).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,4,San Francisco 49ers,0,3,0,Pass Incomplete,3rd & 11 at SF 35,09:15 3rd Shotgun,— B.Purdy pass incomplete deep left to G.Kittle. SF-D.Samuel was injured during the play.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,4,San Francisco 49ers,0,4,0,Punt,4th & 11 at SF 35,09:10 3rd,"— M.Wishnowsky punts 51 yards to KC 14, Center-T.Pepper. R.James to KC 14 for no gain (C.Conley)."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,5,Kansas City Chiefs,1,1,0,11 Yard Pass,1st & 10 at KC 14,09:02 3rd Shotgun,— P.Mahomes pass short right to T.Kelce pushed ob at KC 25 for 11 yards (C.Ward).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,5,Kansas City Chiefs,1,2,0,3 Yard Pass,1st & 10 at KC 25,08:28 3rd,"— P.Mahomes pass short left to I.Pacheco to KC 28 for 3 yards (D.Lenoir, J.Kinlaw)."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,5,Kansas City Chiefs,1,3,0,3 Yard Run,2nd & 7 at KC 28,07:52 3rd Shotgun,— I.Pacheco left guard to KC 31 for 3 yards (T.Gipson).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,5,Kansas City Chiefs,1,4,0,4 Yard Run,3rd & 4 at KC 31,07:16 3rd Shotgun,— P.Mahomes scrambles left end to KC 35 for 4 yards (D.Lenoir; A.Armstead).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,5,Kansas City Chiefs,1,5,0,22 Yard Run,1st & 10 at KC 35,06:40 3rd Shotgun,— P.Mahomes right guard to SF 43 for 22 yards (L.Ryan).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,5,Kansas City Chiefs,1,6,0,2 Yard Run,1st & 10 at SF 43,06:03 3rd Shotgun,— I.Pacheco right guard to SF 41 for 2 yards (D.Flannigan-Fowles).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,5,Kansas City Chiefs,1,7,0,Pass Incomplete,2nd & 8 at SF 41,05:31 3rd Shotgun,— P.Mahomes pass incomplete short right.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,5,Kansas City Chiefs,1,8,0,2 Yard Pass,3rd & 8 at SF 41,05:24 3rd Shotgun,— P.Mahomes pass short left to M.Hardman to SF 39 for 2 yards (D.Lenoir).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,5,Kansas City Chiefs,1,9,1,Field Goal,4th & 6 at SF 39,05:06 3rd,"— H.Butker 57 yard field goal is GOOD, Center-J.Winchester, Holder-T.Townsend."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,6,San Francisco 49ers,0,1,0,Kickoff from KC 35,,Kickoff,"— H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,6,San Francisco 49ers,0,2,0,0 Yard Run,1st & 10 at SF 25,05:01 3rd,— C.McCaffrey up the middle to SF 25 for no gain (M.Pennel).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,6,San Francisco 49ers,0,3,0,Pass Incomplete,2nd & 10 at SF 25,04:23 3rd Shotgun,— B.Purdy pass incomplete short left to B.Aiyuk (M.Edwards).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,6,San Francisco 49ers,0,4,0,Pass Incomplete,3rd & 10 at SF 25,04:17 3rd Shotgun,— B.Purdy pass incomplete deep middle to D.Samuel (T.McDuffie).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,6,San Francisco 49ers,0,5,0,Punt,4th & 10 at SF 25,04:11 3rd,"— M.Wishnowsky punts 55 yards to KC 20, Center-T.Pepper. R.James to KC 27 for 7 yards (G.Odum)."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,7,Kansas City Chiefs,0,1,0,3 Yard Run,1st & 10 at KC 27,03:59 3rd Shotgun,— I.Pacheco up the middle to KC 30 for 3 yards (D.Flannigan-Fowles; S.Joseph).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,7,Kansas City Chiefs,0,2,0,5 Yard Pass,2nd & 7 at KC 30,03:26 3rd Shotgun,— P.Mahomes pass short middle to T.Kelce to KC 35 for 5 yards (O.Burks).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,7,Kansas City Chiefs,0,3,0,Pass Incomplete,3rd & 2 at KC 35,02:49 3rd Shotgun,— P.Mahomes pass incomplete short right to R.James.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,7,Kansas City Chiefs,0,4,0,Fumble,4th & 2 at KC 35,02:42 3rd,"— T.Townsend punts 40 yards to SF 25, Center-J.Winchester. D.Luter MUFFS catch, touched at SF 19, RECOVERED by KC-Ja.Watson at SF 16."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,8,Kansas City Chiefs,1,1,1,Touchdown,1st & 10 at SF 16,02:32 3rd Shotgun,"— P.Mahomes pass deep right to M.Valdes-Scantling for 16 yards, TOUCHDOWN."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,3rd Quarter,8,Kansas City Chiefs,1,2,1,Extra Point,,02:28 3rd,"— H.Butker extra point is GOOD, Center-J.Winchester, Holder-T.Townsend."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,1,San Francisco 49ers,1,1,0,Kickoff from KC 35,,Kickoff,"— H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,1,San Francisco 49ers,1,2,0,Pass Incomplete,1st & 10 at SF 25,02:28 3rd,— B.Purdy pass incomplete short right to B.Aiyuk (N.Farrell). SF-J.Feliciano was injured during the play.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,1,San Francisco 49ers,1,3,0,5 Yard Run,2nd & 10 at SF 25,02:23 3rd,— C.McCaffrey up the middle to SF 30 for 5 yards (T.McDuffie; N.Bolton).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,1,San Francisco 49ers,1,4,0,Timeout,,01:43 3rd,— Timeout #1 by SF at 01:43.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,1,San Francisco 49ers,1,5,0,17 Yard Pass,3rd & 5 at SF 30,01:43 3rd Shotgun,— B.Purdy pass short right to J.Jennings to SF 47 for 17 yards (M.Edwards; N.Bolton).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,1,San Francisco 49ers,1,6,0,9 Yard Pass,1st & 10 at SF 47,01:00 3rd Shotgun,— B.Purdy pass short left to D.Samuel to KC 44 for 9 yards (M.Edwards; N.Bolton).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,1,San Francisco 49ers,1,7,0,2 Yard Run,2nd & 1 at KC 44,00:20 3rd,— K.Juszczyk up the middle to KC 42 for 2 yards (J.Reid; L.Sneed).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,1,San Francisco 49ers,1,8,0,20 Yard Pass,1st & 10 at KC 42,15:00 4th Shotgun,— B.Purdy pass deep middle to B.Aiyuk to KC 22 for 20 yards (M.Edwards; J.Reid).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,1,San Francisco 49ers,1,9,0,Pass Incomplete,1st & 10 at KC 22,14:14 4th,— B.Purdy pass incomplete deep right to D.Samuel [C.Jones].
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,1,San Francisco 49ers,1,10,0,8 Yard Run,2nd & 10 at KC 22,14:09 4th,— C.McCaffrey left end to KC 14 for 8 yards (M.Edwards).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,1,San Francisco 49ers,1,11,0,-1 Yard Run,3rd & 2 at KC 14,13:27 4th,"— C.McCaffrey right tackle to KC 15 for -1 yards (M.Pennel, L.Chenal)."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,1,San Francisco 49ers,1,12,0,4 Yard Pass,4th & 3 at KC 15,12:46 4th Shotgun,— B.Purdy pass short right to G.Kittle pushed ob at KC 11 for 4 yards (J.Reid).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,1,San Francisco 49ers,1,13,0,1 Yard Run,1st & 10 at KC 11,12:12 4th,— C.McCaffrey left guard to KC 10 for 1 yard (N.Farrell; M.Herring).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,1,San Francisco 49ers,1,14,1,Touchdown,2nd & 9 at KC 10,11:27 4th Shotgun,"— B.Purdy pass short right to J.Jennings for 10 yards, TOUCHDOWN."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,1,San Francisco 49ers,1,15,0,Extra Point No Good,,11:22 4th,"— J.Moody extra point is Blocked (L.Chenal), Center-T.Pepper, Holder-M.Wishnowsky. DEFENSIVE TWO-POINT ATTEMPT. C.Conner recovered the blocked kick. ATTEMPT FAILS."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,2,Kansas City Chiefs,1,1,0,Kickoff from SF 35,,Kickoff,"— J.Moody kicks 65 yards from SF 35 to end zone, Touchback."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,2,Kansas City Chiefs,1,2,0,16 Yard Pass,1st & 10 at KC 25,11:22 4th Shotgun,— P.Mahomes pass short left to T.Kelce to KC 41 for 16 yards (T.Gipson).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,2,Kansas City Chiefs,1,3,0,0 Yard Run,1st & 10 at KC 41,10:44 4th Shotgun,— I.Pacheco up the middle to KC 41 for no gain (A.Armstead).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,2,Kansas City Chiefs,1,4,0,Pass Incomplete,2nd & 10 at KC 41,10:10 4th Shotgun,— P.Mahomes pass incomplete short right to R.Rice.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,2,Kansas City Chiefs,1,5,0,13 Yard Pass,3rd & 10 at KC 41,10:06 4th Shotgun,— P.Mahomes pass short middle to T.Kelce to SF 46 for 13 yards (F.Warner) [N.Bosa].
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,2,Kansas City Chiefs,1,6,0,Pass Incomplete,1st & 10 at SF 46,09:22 4th Shotgun,"— P.Mahomes to KC 49 for -5 yards. FUMBLES, and recovers at KC 48. P.Mahomes pass incomplete deep middle [N.Bosa]."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,2,Kansas City Chiefs,1,7,0,25 Yard Pass,2nd & 10 at SF 46,09:17 4th Shotgun,— P.Mahomes pass deep left to Ju.Watson pushed ob at SF 21 for 25 yards (J.Brown).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,2,Kansas City Chiefs,1,8,0,9 Yard Run,1st & 10 at SF 21,08:40 4th Shotgun,— I.Pacheco left end to SF 12 for 9 yards (J.Brown; D.Lenoir).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,2,Kansas City Chiefs,1,9,0,8 Yard Run,2nd & 1 at SF 12,08:00 4th,— I.Pacheco up the middle to SF 4 for 8 yards (D.Flannigan-Fowles; T.Gipson).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,2,Kansas City Chiefs,1,10,0,1 Yard Run,1st & 4 at SF 4,07:19 4th Shotgun,— I.Pacheco up the middle to SF 3 for 1 yard (J.Hargrave; A.Armstead).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,2,Kansas City Chiefs,1,11,0,Pass Incomplete,2nd & 3 at SF 3,06:44 4th Shotgun,— P.Mahomes pass incomplete short right to R.Rice (D.Flannigan-Fowles).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,2,Kansas City Chiefs,1,12,0,-3 Yard Sack,3rd & 3 at SF 3,06:35 4th Shotgun,— P.Mahomes sacked at SF 6 for -3 yards (J.Hargrave).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,2,Kansas City Chiefs,1,13,1,Field Goal,4th & 6 at SF 6,05:49 4th,"— H.Butker 24 yard field goal is GOOD, Center-J.Winchester, Holder-T.Townsend."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,3,San Francisco 49ers,1,1,0,Kickoff from KC 35,,Kickoff,"— H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,3,San Francisco 49ers,1,2,0,23 Yard Pass,1st & 10 at SF 25,05:46 4th Shotgun,— B.Purdy pass deep left to J.Jennings to SF 48 for 23 yards (T.McDuffie).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,3,San Francisco 49ers,1,3,0,9 Yard Run,1st & 10 at SF 48,05:01 4th,— D.Samuel right tackle to KC 43 for 9 yards (W.Gay). KC-G.Karlaftis was injured during the play.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,3,San Francisco 49ers,1,4,0,3 Yard Run,2nd & 1 at KC 43,04:11 4th,— C.McCaffrey up the middle to KC 40 for 3 yards (N.Bolton).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,3,San Francisco 49ers,1,5,0,5 Yard Run,1st & 10 at KC 40,03:27 4th,— C.McCaffrey left tackle to KC 35 for 5 yards (M.Danna).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,3,San Francisco 49ers,1,6,0,0 Yard Pass,2nd & 5 at KC 35,02:45 4th,— B.Purdy pass short right to G.Kittle to KC 35 for no gain (T.McDuffie) [N.Bolton].
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,3,San Francisco 49ers,1,7,0,Pass Incomplete,3rd & 5 at KC 35,02:00 4th Shotgun,— B.Purdy pass incomplete short left to J.Jennings (T.McDuffie) [T.McDuffie].
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,3,San Francisco 49ers,1,8,1,Field Goal,4th & 5 at KC 35,01:57 4th,"— J.Moody 53 yard field goal is GOOD, Center-T.Pepper, Holder-M.Wishnowsky."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,4,Kansas City Chiefs,1,1,0,Kickoff from SF 35,,Kickoff,"— J.Moody kicks 65 yards from SF 35 to end zone, Touchback."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,4,Kansas City Chiefs,1,2,0,9 Yard Pass,1st & 10 at KC 25,01:53 4th Shotgun,— P.Mahomes pass short right to T.Kelce to KC 34 for 9 yards (F.Warner).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,4,Kansas City Chiefs,1,3,0,3 Yard Run,2nd & 1 at KC 34,"01:37 4th No Huddle, Shotgun",— P.Mahomes scrambles right end ran ob at KC 37 for 3 yards (F.Warner).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,4,Kansas City Chiefs,1,4,0,12 Yard Pass,1st & 10 at KC 37,01:32 4th Shotgun,— P.Mahomes pass short left to N.Gray to KC 49 for 12 yards (F.Warner).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,4,Kansas City Chiefs,1,5,0,8 Yard Pass,1st & 10 at KC 49,"01:14 4th No Huddle, Shotgun",— P.Mahomes pass short left to Ju.Watson to SF 43 for 8 yards (D.Lenoir; J.Brown).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,4,Kansas City Chiefs,1,6,0,Pass Incomplete,2nd & 2 at SF 43,"00:52 4th No Huddle, Shotgun",— P.Mahomes pass incomplete short left to Ju.Watson.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,4,Kansas City Chiefs,1,7,0,7 Yard Pass,3rd & 2 at SF 43,00:48 4th Shotgun,— P.Mahomes pass short right to J.McKinnon to SF 36 for 7 yards (J.Brown).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,4,Kansas City Chiefs,1,8,0,Timeout,,00:40 4th,— Timeout #2 by KC at 00:40.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,4,Kansas City Chiefs,1,9,0,3 Yard Run,1st & 10 at SF 36,00:40 4th Shotgun,— P.Mahomes scrambles up the middle to SF 33 for 3 yards (A.Armstead; J.Hargrave).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,4,Kansas City Chiefs,1,10,0,Pass Incomplete,2nd & 7 at SF 33,"00:21 4th No Huddle, Shotgun",— P.Mahomes pass incomplete short right.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,4,Kansas City Chiefs,1,11,0,22 Yard Pass,3rd & 7 at SF 33,00:16 4th Shotgun,— P.Mahomes pass short left to T.Kelce pushed ob at SF 11 for 22 yards (J.Brown). SF-J.Brown was injured during the play. SF-D.Lenoir was injured during the play.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,4,Kansas City Chiefs,1,12,0,Timeout,,00:10 4th,— Timeout #2 by SF at 00:10.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,4,Kansas City Chiefs,1,13,0,Pass Incomplete,1st & 10 at SF 11,00:10 4th Shotgun,— P.Mahomes pass incomplete short left to T.Kelce.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,4,Kansas City Chiefs,1,14,1,Field Goal,2nd & 10 at SF 11,00:06 4th,"— H.Butker 29 yard field goal is GOOD, Center-J.Winchester, Holder-T.Townsend."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,5,San Francisco 49ers,0,1,0,Kickoff from KC 35,,Kickoff,"— H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,4th Quarter,5,San Francisco 49ers,0,2,0,-1 Yard Run,1st & 10 at SF 25,00:03 4th,— B.Purdy kneels to SF 24 for -1 yards.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,1,San Francisco 49ers,1,1,0,Kickoff from KC 35,,Kickoff,"— H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,1,San Francisco 49ers,1,2,0,Pass Incomplete,1st & 10 at SF 25,15:00 5th Shotgun,— B.Purdy pass incomplete short middle to D.Samuel.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,1,San Francisco 49ers,1,3,0,-5 Yard Penalty,2nd & 10 at SF 25,14:55 5th Shotgun,"— PENALTY on SF-B.Aiyuk, False Start, 5 yards, enforced at SF 25 - No Play."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,1,San Francisco 49ers,1,4,0,2 Yard Pass,2nd & 15 at SF 20,14:55 5th Shotgun,— B.Purdy pass short middle to C.McCaffrey to SF 22 for 2 yards (C.Jones).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,1,San Francisco 49ers,1,5,0,5 Yard Penalty,3rd & 13 at SF 22,14:09 5th Shotgun,"— B.Purdy pass incomplete short middle. PENALTY on KC-T.McDuffie, Defensive Holding, 5 yards, enforced at SF 22 - No Play."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,1,San Francisco 49ers,1,6,0,3 Yard Run,1st & 10 at SF 27,14:05 5th,— C.McCaffrey left end to SF 30 for 3 yards (J.Reid).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,1,San Francisco 49ers,1,7,0,5 Yard Run,2nd & 7 at SF 30,13:23 5th,— C.McCaffrey right guard to SF 35 for 5 yards (D.Tranquill; M.Danna).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,1,San Francisco 49ers,1,8,0,11 Yard Pass,3rd & 2 at SF 35,12:38 5th Shotgun,— B.Purdy pass short left to B.Aiyuk to SF 46 for 11 yards (M.Edwards).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,1,San Francisco 49ers,1,9,0,4 Yard Run,1st & 10 at SF 46,11:56 5th,— C.McCaffrey left tackle to 50 for 4 yards (L.Chenal; N.Bolton).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,1,San Francisco 49ers,1,10,0,24 Yard Pass,2nd & 6 at 50,11:12 5th Shotgun,— B.Purdy pass short left to C.McCaffrey pushed ob at KC 26 for 24 yards (L.Sneed) [G.Karlaftis].
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,1,San Francisco 49ers,1,11,0,8 Yard Run,1st & 10 at KC 26,10:32 5th,— C.McCaffrey left end to KC 18 for 8 yards (M.Danna; D.Tranquill).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,1,San Francisco 49ers,1,12,0,-10 Yard Penalty,2nd & 2 at KC 18,09:49 5th,"— E.Mitchell right end to KC 14 for 4 yards (J.Reid). PENALTY on SF-B.Willis, Offensive Holding, 10 yards, enforced at KC 18 - No Play."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,1,San Francisco 49ers,1,13,0,13 Yard Pass,2nd & 12 at KC 28,09:25 5th Shotgun,— B.Purdy pass short right to K.Juszczyk ran ob at KC 15 for 13 yards.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,1,San Francisco 49ers,1,14,0,6 Yard Run,1st & 10 at KC 15,08:51 5th,— C.McCaffrey right guard to KC 9 for 6 yards (L.Chenal).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,1,San Francisco 49ers,1,15,0,0 Yard Run,2nd & 4 at KC 9,08:11 5th,— C.McCaffrey right guard to KC 9 for no gain (T.Wharton; M.Pennel).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,1,San Francisco 49ers,1,16,0,Pass Incomplete,3rd & 4 at KC 9,07:29 5th Shotgun,— B.Purdy pass incomplete short right [C.Jones].
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,1,San Francisco 49ers,1,17,1,Field Goal,4th & 4 at KC 9,07:25 5th,"— J.Moody 27 yard field goal is GOOD, Center-T.Pepper, Holder-M.Wishnowsky."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,2,Kansas City Chiefs,1,1,0,Kickoff from SF 35,,Kickoff,"— J.Moody kicks 65 yards from SF 35 to end zone, Touchback."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,2,Kansas City Chiefs,1,2,0,3 Yard Run,1st & 10 at KC 25,07:22 5th Shotgun,"— I.Pacheco up the middle to KC 28 for 3 yards (J.Hargrave, N.Bosa)."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,2,Kansas City Chiefs,1,3,0,6 Yard Pass,2nd & 7 at KC 28,06:50 5th Shotgun,"— P.Mahomes pass short left to R.Rice to KC 34 for 6 yards (D.Lenoir, F.Warner)."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,2,Kansas City Chiefs,1,4,0,0 Yard Run,3rd & 1 at KC 34,"06:29 5th No Huddle, Shotgun","— I.Pacheco up the middle to KC 34 for no gain (J.Hargrave, O.Burks)."
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,2,Kansas City Chiefs,1,5,0,Timeout,,06:05 5th,— Timeout #1 by KC at 06:05.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,2,Kansas City Chiefs,1,6,0,8 Yard Run,4th & 1 at KC 34,06:05 5th Shotgun,— P.Mahomes right tackle to KC 42 for 8 yards (F.Warner).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,2,Kansas City Chiefs,1,7,0,-3 Yard Pass,1st & 10 at KC 42,05:28 5th Shotgun,— P.Mahomes pass short right to M.Valdes-Scantling to KC 39 for -3 yards (C.Ward).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,2,Kansas City Chiefs,1,8,0,7 Yard Pass,2nd & 13 at KC 39,04:46 5th Shotgun,— P.Mahomes pass short left to M.Valdes-Scantling to KC 46 for 7 yards (L.Ryan; D.Lenoir).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,2,Kansas City Chiefs,1,9,0,13 Yard Pass,3rd & 6 at KC 46,04:10 5th Shotgun,— P.Mahomes pass short right to R.Rice pushed ob at SF 41 for 13 yards (C.Ward).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,2,Kansas City Chiefs,1,10,0,4 Yard Pass,1st & 10 at SF 41,03:33 5th,— P.Mahomes pass short right to I.Pacheco to SF 37 for 4 yards (O.Burks) [N.Bosa].
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,2,Kansas City Chiefs,1,11,0,Timeout,,02:48 5th,— Timeout #1 by SF at 02:48.
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,2,Kansas City Chiefs,1,12,0,5 Yard Pass,2nd & 6 at SF 37,02:48 5th Shotgun,— P.Mahomes pass short right to I.Pacheco to SF 32 for 5 yards (F.Warner).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,2,Kansas City Chiefs,1,13,0,19 Yard Run,3rd & 1 at SF 32,02:07 5th Shotgun,— P.Mahomes scrambles up the middle to SF 13 for 19 yards (T.Gipson).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,2,Kansas City Chiefs,1,14,0,3 Yard Run,1st & 10 at SF 13,01:26 5th Shotgun,— I.Pacheco up the middle to SF 10 for 3 yards (K.Givens).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,2,Kansas City Chiefs,1,15,0,7 Yard Pass,2nd & 7 at SF 10,00:50 5th Shotgun,— P.Mahomes pass short middle to T.Kelce to SF 3 for 7 yards (J.Brown; N.Bosa).
+2023,Super Bowl,SUN,02/11,49ers,Chiefs,Overtime,2,Kansas City Chiefs,1,16,1,Touchdown,1st & 3 at SF 3,00:06 5th Shotgun,"— P.Mahomes pass short right to M.Hardman for 3 yards, TOUCHDOWN."

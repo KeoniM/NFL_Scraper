@@ -1,0 +1,679 @@
+Season,Week,Day,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayStart,PlayTimeFormation,PlayDescription
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,1,Indianapolis Colts,1,1,0,Kickoff from HOU 35,,Kickoff,"— K.Fairbairn kicks 65 yards from HOU 35 to end zone, Touchback."
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,1,Indianapolis Colts,1,2,0,0 Yard Pass,1st & 10 at IND 25,15:00 1st Shotgun,— A.Luck pass short right to M.Mack to IND 25 for no gain (J.Joseph).
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,1,Indianapolis Colts,1,3,0,-2 Yard Run,2nd & 10 at IND 25,14:20 1st,— M.Mack up the middle to IND 23 for -2 yards (J.Watt).
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,1,Indianapolis Colts,1,4,0,12 Yard Pass,3rd & 12 at IND 23,13:34 1st Shotgun,— A.Luck pass short right to T.Hilton to IND 35 for 12 yards (J.Joseph).
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,1,Indianapolis Colts,1,5,0,3 Yard Run,1st & 10 at IND 35,12:54 1st Shotgun,— M.Mack right guard to IND 38 for 3 yards (Z.Cunningham).
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,1,Indianapolis Colts,1,6,0,Pass Incomplete,2nd & 7 at IND 38,12:15 1st,— A.Luck pass incomplete short right.
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,1,Indianapolis Colts,1,7,0,5 Yard Penalty,3rd & 7 at IND 38,12:10 1st Shotgun,"— M.Mack left tackle to IND 43 for 5 yards (T.Mathieu). PENALTY on HOU-J.Watt, Defensive Offside, 5 yards, enforced at IND 38 - No Play."
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,1,Indianapolis Colts,1,8,0,13 Yard Pass,3rd & 2 at IND 43,11:52 1st Shotgun,— A.Luck pass short right to T.Hilton ran ob at HOU 44 for 13 yards (T.Mathieu).
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,1,Indianapolis Colts,1,9,0,Pass Incomplete,1st & 10 at HOU 44,11:18 1st Shotgun,— A.Luck pass incomplete short right to T.Hilton.
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,1,Indianapolis Colts,1,10,0,38 Yard Pass,2nd & 10 at HOU 44,11:14 1st Shotgun,— A.Luck pass deep middle to T.Hilton to HOU 6 for 38 yards (B.McKinney) [J.Watt].
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,1,Indianapolis Colts,1,11,1,Touchdown,1st & 6 at HOU 6,10:37 1st Shotgun,"— A.Luck pass short right to E.Ebron for 6 yards, TOUCHDOWN."
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,1,Indianapolis Colts,1,12,1,Extra Point,,10:32 1st,"— A.Vinatieri extra point is GOOD, Center-L.Rhodes, Holder-R.Sanchez."
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,2,Houston Texans,0,1,0,Kickoff from IND 35,,Kickoff,"— R.Sanchez kicks 65 yards from IND 35 to end zone, Touchback."
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,2,Houston Texans,0,2,0,Pass Incomplete,1st & 10 at HOU 25,10:32 1st,— D.Watson pass incomplete deep middle to D.Hopkins (K.Moore II).
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,2,Houston Texans,0,3,0,5 Yard Pass,2nd & 10 at HOU 25,10:24 1st Shotgun,— D.Watson pass short middle to K.Coutee pushed ob at HOU 30 for 5 yards (D.Leonard).
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,2,Houston Texans,0,4,0,4 Yard Pass,3rd & 5 at HOU 30,09:58 1st Shotgun,— D.Watson pass short right to L.Miller pushed ob at HOU 34 for 4 yards (M.Mitchell).
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,2,Houston Texans,0,5,0,Punt,4th & 1 at HOU 34,09:35 1st,"— T.Daniel punts 40 yards to IND 26, Center-J.Weeks, fair catch by C.Rogers."
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,3,Indianapolis Colts,1,1,0,25 Yard Run,1st & 10 at IND 26,09:28 1st Shotgun,— M.Mack left end pushed ob at HOU 49 for 25 yards (J.Reid).
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,3,Indianapolis Colts,1,2,0,9 Yard Run,1st & 10 at HOU 49,08:56 1st Shotgun,— M.Mack right guard to HOU 40 for 9 yards (T.Mathieu).
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,3,Indianapolis Colts,1,3,0,-5 Yard Penalty,2nd & 1 at HOU 40,08:24 1st,"— PENALTY on IND, Offensive Too Many Men on Field, 5 yards, enforced at HOU 40 - No Play."
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,3,Indianapolis Colts,1,4,0,1 Yard Run,2nd & 6 at HOU 45,08:08 1st,— M.Mack up the middle to HOU 44 for 1 yard (J.Watt).
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,3,Indianapolis Colts,1,5,0,4 Yard Penalty,3rd & 5 at HOU 44,07:25 1st Shotgun,"— PENALTY on HOU-W.Mercilus, Neutral Zone Infraction, 4 yards, enforced at HOU 44 - No Play."
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,3,Indianapolis Colts,1,6,0,2 Yard Run,3rd & 1 at HOU 40,07:15 1st,— M.Mack up the middle to HOU 38 for 2 yards (D.Cole; Z.Cunningham).
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,3,Indianapolis Colts,1,7,0,14 Yard Run,1st & 10 at HOU 38,06:40 1st Shotgun,— Z.Pascal left end to HOU 24 for 14 yards (B.Dunn).
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,3,Indianapolis Colts,1,8,0,0 Yard Run,1st & 10 at HOU 24,06:00 1st,— M.Mack up the middle to HOU 24 for no gain (J.Clowney).
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,3,Indianapolis Colts,1,9,0,16 Yard Pass,2nd & 10 at HOU 24,05:19 1st Shotgun,— A.Luck pass short left to C.Rogers pushed ob at HOU 8 for 16 yards (J.Reid).
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,3,Indianapolis Colts,1,10,0,6 Yard Pass,1st & 8 at HOU 8,04:45 1st Shotgun,— A.Luck pass short left to M.Mack pushed ob at HOU 2 for 6 yards (K.Jackson; B.McKinney).
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,3,Indianapolis Colts,1,11,1,Touchdown,2nd & 2 at HOU 2,04:08 1st Shotgun,"— M.Mack left end for 2 yards, TOUCHDOWN."
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,3,Indianapolis Colts,1,12,1,Extra Point,,04:03 1st,"— A.Vinatieri extra point is GOOD, Center-L.Rhodes, Holder-R.Sanchez."
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,4,Houston Texans,0,1,0,Kickoff from IND 35,,Kickoff,"— R.Sanchez kicks 65 yards from IND 35 to end zone, Touchback."
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,4,Houston Texans,0,2,0,6 Yard Pass,1st & 10 at HOU 25,04:03 1st Shotgun,— D.Watson pass short left to R.Griffin to HOU 31 for 6 yards (K.Moore II).
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,4,Houston Texans,0,3,0,3 Yard Run,2nd & 4 at HOU 31,03:33 1st Shotgun,— L.Miller up the middle to HOU 34 for 3 yards (J.Sheard).
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,4,Houston Texans,0,4,0,4 Yard Run,3rd & 1 at HOU 34,03:03 1st Shotgun,— A.Blue left guard to HOU 38 for 4 yards (A.Walker; D.Leonard).
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,4,Houston Texans,0,5,0,Pass Incomplete,1st & 10 at HOU 38,02:31 1st Shotgun,— D.Watson pass incomplete deep middle to V.Smith (C.Geathers).
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,4,Houston Texans,0,6,0,2 Yard Run,2nd & 10 at HOU 38,02:23 1st Shotgun,— L.Miller up the middle to HOU 40 for 2 yards (C.Geathers).
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,4,Houston Texans,0,7,0,9 Yard Pass,3rd & 8 at HOU 40,01:47 1st Shotgun,"— D.Watson pass short left to D.Hopkins pushed ob at HOU 49 for 9 yards (P.Desir). Indianapolis challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)"
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,4,Houston Texans,0,8,0,Pass Incomplete,1st & 10 at HOU 49,01:24 1st,— D.Watson pass incomplete deep right.
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,4,Houston Texans,0,9,0,Pass Incomplete,2nd & 10 at HOU 49,01:17 1st Shotgun,— D.Watson pass incomplete short right to K.Coutee.
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,4,Houston Texans,0,10,0,6 Yard Pass,3rd & 10 at HOU 49,01:12 1st Shotgun,— D.Watson pass short right to K.Coutee to IND 45 for 6 yards (C.Geathers; D.Leonard).
+2018,Wild Card,SAT,01/05,Colts,Texans,1st Quarter,4,Houston Texans,0,11,0,Interception,4th & 4 at IND 45,00:29 1st Shotgun,— D.Watson pass short middle intended for R.Griffin INTERCEPTED by K.Moore II at IND 40. K.Moore II to 50 for 10 yards (R.Griffin).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,1,Indianapolis Colts,0,1,0,10 Yard Pass,1st & 10 at 50,00:23 1st Shotgun,— A.Luck pass short left to D.Inman to HOU 40 for 10 yards (T.Mathieu).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,1,Indianapolis Colts,0,2,0,12 Yard Pass,1st & 10 at HOU 40,15:00 2nd Shotgun,— A.Luck pass short middle to C.Rogers to HOU 28 for 12 yards (T.Mathieu).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,1,Indianapolis Colts,0,3,0,5 Yard Run,1st & 10 at HOU 28,14:24 2nd Shotgun,— M.Mack left end pushed ob at HOU 23 for 5 yards (Z.Cunningham).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,1,Indianapolis Colts,0,4,0,1 Yard Run,2nd & 5 at HOU 23,13:54 2nd,— M.Mack left tackle to HOU 22 for 1 yard (B.McKinney; Z.Cunningham).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,1,Indianapolis Colts,0,5,0,5 Yard Pass,3rd & 4 at HOU 22,13:10 2nd Shotgun,— A.Luck pass short left to E.Ebron to HOU 17 for 5 yards (J.Joseph).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,1,Indianapolis Colts,0,6,0,Interception,1st & 10 at HOU 17,12:27 2nd,— A.Luck pass short left intended for M.Mack INTERCEPTED by B.Dunn (J.Watt) at HOU 15. B.Dunn to HOU 15 for no gain.
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,2,Houston Texans,0,1,0,-5 Yard Penalty,1st & 10 at HOU 15,12:20 2nd,"— D.Watson pass short middle to L.Miller to HOU 26 for 11 yards (M.Adams; A.Walker). PENALTY on HOU-K.Coutee, Illegal Formation, 5 yards, enforced at HOU 15 - No Play."
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,2,Houston Texans,0,2,0,0 Yard Run,1st & 15 at HOU 10,11:54 2nd Shotgun,"— L.Miller up the middle to HOU 10 for no gain (M.Hunt, J.Sheard)."
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,2,Houston Texans,0,3,0,5 Yard Pass,2nd & 15 at HOU 10,11:17 2nd Shotgun,— D.Watson pass short right to K.Coutee to HOU 15 for 5 yards (C.Geathers).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,2,Houston Texans,0,4,0,4 Yard Run,3rd & 10 at HOU 15,10:34 2nd Shotgun,— D.Watson scrambles up the middle to HOU 19 for 4 yards (M.Hunt).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,2,Houston Texans,0,5,0,Punt,4th & 6 at HOU 19,09:58 2nd,"— T.Daniel punts 60 yards to IND 21, Center-J.Weeks. C.Rogers to IND 35 for 14 yards (P.Kalambayi)."
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,3,Indianapolis Colts,1,1,0,6 Yard Run,1st & 10 at IND 35,09:47 2nd Shotgun,"— J.Wilkins right tackle to IND 41 for 6 yards (D.Cole, D.Reader)."
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,3,Indianapolis Colts,1,2,0,3 Yard Run,2nd & 4 at IND 41,09:08 2nd Shotgun,— M.Mack right tackle to IND 44 for 3 yards (D.Reader; J.Clowney). HOU-J.Clowney was injured during the play. His return is Questionable.
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,3,Indianapolis Colts,1,3,0,2 Yard Pass,3rd & 1 at IND 44,08:40 2nd Shotgun,— A.Luck pass short right to T.Hilton to IND 46 for 2 yards (J.Joseph).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,3,Indianapolis Colts,1,4,0,21 Yard Pass,1st & 10 at IND 46,08:00 2nd,— A.Luck pass deep left to D.Inman to HOU 33 for 21 yards (D.Cole).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,3,Indianapolis Colts,1,5,0,15 Yard Pass,1st & 10 at HOU 33,07:15 2nd Shotgun,— A.Luck pass short middle to E.Ebron to HOU 18 for 15 yards (J.Reid; D.Cole).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,3,Indianapolis Colts,1,6,0,Pass Incomplete,1st & 10 at HOU 18,06:35 2nd Shotgun,— A.Luck pass incomplete deep right to E.Ebron (J.Reid). HOU-J.Reid was injured during the play. His return is Questionable.
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,3,Indianapolis Colts,1,7,1,Touchdown,2nd & 10 at HOU 18,06:29 2nd Shotgun,"— A.Luck pass deep left to D.Inman for 18 yards, TOUCHDOWN."
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,3,Indianapolis Colts,1,8,1,Extra Point,,06:24 2nd,"— A.Vinatieri extra point is GOOD, Center-L.Rhodes, Holder-R.Sanchez."
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,4,Houston Texans,0,1,0,Kickoff from IND 35,,Kickoff,— R.Sanchez kicks 64 yards from IND 35 to HOU 1. D.Carter to HOU 27 for 26 yards (G.Odum; M.Adams).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,4,Houston Texans,0,2,0,9 Yard Run,1st & 10 at HOU 27,06:20 2nd Shotgun,— D.Watson right end ran ob at HOU 36 for 9 yards (Q.Wilson).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,4,Houston Texans,0,3,0,-5 Yard Penalty,2nd & 1 at HOU 36,05:50 2nd Shotgun,"— PENALTY on HOU-D.Hopkins, False Start, 5 yards, enforced at HOU 36 - No Play."
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,4,Houston Texans,0,4,0,7 Yard Pass,2nd & 6 at HOU 31,05:35 2nd Shotgun,— D.Watson pass short right to D.Hopkins to HOU 38 for 7 yards (D.Leonard).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,4,Houston Texans,0,5,0,4 Yard Run,1st & 10 at HOU 38,04:56 2nd Shotgun,"— A.Blue left guard to HOU 42 for 4 yards (A.Muhammad, H.Ridgeway)."
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,4,Houston Texans,0,6,0,20 Yard Pass,2nd & 6 at HOU 42,04:23 2nd Shotgun,— D.Watson pass deep middle to K.Coutee to IND 38 for 20 yards (K.Moore II).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,4,Houston Texans,0,7,0,10 Yard Run,1st & 10 at IND 38,03:53 2nd Shotgun,— D.Watson scrambles up the middle to IND 28 for 10 yards (P.Desir).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,4,Houston Texans,0,8,0,Pass Incomplete,1st & 10 at IND 28,03:11 2nd Shotgun,— D.Watson pass incomplete short left to R.Griffin.
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,4,Houston Texans,0,9,0,10 Yard Pass,2nd & 10 at IND 28,03:06 2nd Shotgun,— D.Watson pass short left to D.Hopkins to IND 18 for 10 yards (C.Geathers; D.Leonard).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,4,Houston Texans,0,10,0,5 Yard Pass,1st & 10 at IND 18,02:33 2nd Shotgun,— D.Watson pass short left to A.Blue to IND 13 for 5 yards (C.Geathers; A.Walker).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,4,Houston Texans,0,11,0,-9 Yard Sack,2nd & 5 at IND 13,02:00 2nd Shotgun,— D.Watson sacked at IND 22 for -9 yards (A.Muhammad).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,4,Houston Texans,0,12,0,Timeout,,01:54 2nd,— Timeout #1 by HOU at 01:54.
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,4,Houston Texans,0,13,0,13 Yard Pass,3rd & 14 at IND 22,01:54 2nd Shotgun,— D.Watson pass short left to K.Coutee to IND 9 for 13 yards (M.Hooker; P.Desir).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,4,Houston Texans,0,14,0,Timeout,,01:24 2nd,— Timeout #2 by IND at 01:24.
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,4,Houston Texans,0,15,0,Pass Incomplete,4th & 1 at IND 9,01:24 2nd Shotgun,— D.Watson pass incomplete short middle to D.Hopkins [J.Sheard].
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,5,Indianapolis Colts,0,1,0,4 Yard Run,1st & 10 at IND 9,01:20 2nd Shotgun,— M.Mack left guard to IND 13 for 4 yards (B.McKinney; J.Clowney).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,5,Indianapolis Colts,0,2,0,Timeout,,01:13 2nd,— Timeout #2 by HOU at 01:13.
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,5,Indianapolis Colts,0,3,0,9 Yard Run,2nd & 6 at IND 13,01:13 2nd Shotgun,— M.Mack up the middle to IND 22 for 9 yards (D.Ejiofor).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,5,Indianapolis Colts,0,4,0,23 Yard Penalty,1st & 10 at IND 22,00:42 2nd Shotgun,"— A.Luck pass incomplete deep left to D.Inman. PENALTY on HOU-K.Jackson, Defensive Pass Interference, 23 yards, enforced at IND 22 - No Play."
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,5,Indianapolis Colts,0,5,0,Pass Incomplete,1st & 10 at IND 45,00:37 2nd Shotgun,— A.Luck pass incomplete short right to E.Ebron (J.Watt).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,5,Indianapolis Colts,0,6,0,3 Yard Run,2nd & 10 at IND 45,00:33 2nd Shotgun,— A.Luck scrambles left end ran ob at IND 48 for 3 yards (Z.Cunningham).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,5,Indianapolis Colts,0,7,0,5 Yard Penalty,3rd & 7 at IND 48,00:27 2nd Shotgun,"— A.Luck sacked at IND 47 for -1 yards (W.Mercilus). PENALTY on HOU-K.Jackson, Defensive Holding, 5 yards, enforced at IND 48 - No Play."
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,5,Indianapolis Colts,0,8,0,6 Yard Pass,1st & 10 at HOU 47,00:20 2nd Shotgun,— A.Luck pass short left to Z.Pascal to HOU 41 for 6 yards (K.Jackson).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,5,Indianapolis Colts,0,9,0,Timeout,,00:16 2nd,— Timeout #3 by IND at 00:16.
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,5,Indianapolis Colts,0,10,0,Pass Incomplete,2nd & 4 at HOU 41,00:16 2nd Shotgun,— A.Luck pass incomplete deep left to E.Ebron (J.Reid).
+2018,Wild Card,SAT,01/05,Colts,Texans,2nd Quarter,5,Indianapolis Colts,0,11,0,12 Yard Pass,3rd & 4 at HOU 41,00:10 2nd Shotgun,— A.Luck pass short middle to C.Rogers to HOU 29 for 12 yards (B.McKinney).
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,1,Houston Texans,0,1,0,Kickoff from IND 35,,Kickoff,"— R.Sanchez kicks 65 yards from IND 35 to end zone, Touchback."
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,1,Houston Texans,0,2,0,10 Yard Run,1st & 10 at HOU 25,15:00 3rd Shotgun,— D.Watson left end to HOU 35 for 10 yards (M.Mitchell).
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,1,Houston Texans,0,3,0,7 Yard Pass,1st & 10 at HOU 35,14:25 3rd Shotgun,— D.Watson pass short left to L.Miller pushed ob at HOU 42 for 7 yards (P.Desir).
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,1,Houston Texans,0,4,0,Pass Incomplete,2nd & 3 at HOU 42,14:02 3rd Shotgun,— D.Watson pass incomplete short left to D.Hopkins.
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,1,Houston Texans,0,5,0,Pass Incomplete,3rd & 3 at HOU 42,13:58 3rd Shotgun,— D.Watson pass incomplete short left to D.Hopkins.
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,1,Houston Texans,0,6,0,Punt,4th & 3 at HOU 42,13:53 3rd,"— T.Daniel punts 46 yards to IND 12, Center-J.Weeks, downed by HOU-J.Webb."
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,2,Indianapolis Colts,0,1,0,3 Yard Run,1st & 10 at IND 12,13:41 3rd Shotgun,— M.Mack left guard to IND 15 for 3 yards (J.Clowney).
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,2,Indianapolis Colts,0,2,0,1 Yard Run,2nd & 7 at IND 15,13:00 3rd,— M.Mack up the middle to IND 16 for 1 yard (D.Reader).
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,2,Indianapolis Colts,0,3,0,9 Yard Run,3rd & 6 at IND 16,12:15 3rd Shotgun,— A.Luck scrambles left end ran ob at IND 25 for 9 yards (B.McKinney).
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,2,Indianapolis Colts,0,4,0,3 Yard Run,1st & 10 at IND 25,11:37 3rd Shotgun,— M.Mack right guard to IND 28 for 3 yards (A.Hal).
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,2,Indianapolis Colts,0,5,0,Pass Incomplete,2nd & 7 at IND 28,10:53 3rd Shotgun,— A.Luck pass incomplete deep left to Z.Pascal.
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,2,Indianapolis Colts,0,6,0,Pass Incomplete,3rd & 7 at IND 28,10:46 3rd Shotgun,— A.Luck pass incomplete short left to C.Rogers.
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,2,Indianapolis Colts,0,7,0,Punt,4th & 7 at IND 28,10:43 3rd,"— R.Sanchez punts 38 yards to HOU 34, Center-L.Rhodes, fair catch by D.Carter. PENALTY on HOU-D.Burton, Offensive Holding, 10 yards, enforced at HOU 34."
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,3,Houston Texans,0,1,0,Pass Incomplete,1st & 10 at HOU 24,10:35 3rd Shotgun,— D.Watson pass incomplete short right.
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,3,Houston Texans,0,2,0,-2 Yard Pass,2nd & 10 at HOU 24,10:28 3rd Shotgun,— D.Watson pass short left to D.Hopkins to HOU 22 for -2 yards (K.Turay).
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,3,Houston Texans,0,3,0,10 Yard Pass,3rd & 12 at HOU 22,09:52 3rd Shotgun,— D.Watson pass short middle to L.Miller to HOU 32 for 10 yards (J.Sheard; D.Leonard).
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,3,Houston Texans,0,4,0,Punt,4th & 2 at HOU 32,09:15 3rd,"— T.Daniel punts 51 yards to IND 17, Center-J.Weeks. C.Rogers to IND 23 for 6 yards (Z.Cunningham)."
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,4,Indianapolis Colts,0,1,0,-5 Yard Penalty,1st & 10 at IND 23,09:05 3rd Shotgun,"— PENALTY on IND-Q.Nelson, False Start, 5 yards, enforced at IND 23 - No Play."
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,4,Indianapolis Colts,0,2,0,Pass Incomplete,1st & 15 at IND 18,09:05 3rd Shotgun,— A.Luck pass incomplete short left to Z.Pascal (S.Wright).
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,4,Indianapolis Colts,0,3,0,10 Yard Run,2nd & 15 at IND 18,09:01 3rd Shotgun,— A.Luck scrambles left end ran ob at IND 28 for 10 yards (T.Mathieu).
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,4,Indianapolis Colts,0,4,0,Pass Incomplete,3rd & 5 at IND 28,08:22 3rd Shotgun,— A.Luck pass incomplete short right to T.Hilton [D.Ejiofor].
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,4,Indianapolis Colts,0,5,0,Punt,4th & 5 at IND 28,08:15 3rd,"— R.Sanchez punts 44 yards to HOU 28, Center-L.Rhodes, fair catch by D.Carter."
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,5,Houston Texans,0,1,0,3 Yard Run,1st & 10 at HOU 28,08:07 3rd Shotgun,"— D.Foreman up the middle to HOU 31 for 3 yards (K.Turay, D.Leonard)."
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,5,Houston Texans,0,2,0,17 Yard Pass,2nd & 7 at HOU 31,07:38 3rd Shotgun,— D.Watson pass short left to K.Coutee to HOU 48 for 17 yards (C.Geathers).
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,5,Houston Texans,0,3,0,Pass Incomplete,1st & 10 at HOU 48,06:59 3rd Shotgun,— D.Watson pass incomplete short left to D.Foreman.
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,5,Houston Texans,0,4,0,10 Yard Pass,2nd & 10 at HOU 48,06:54 3rd Shotgun,— D.Watson pass short middle to K.Coutee to IND 42 for 10 yards (D.Leonard).
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,5,Houston Texans,0,5,0,5 Yard Pass,1st & 10 at IND 42,06:13 3rd Shotgun,— D.Watson pass short left to L.Miller to IND 37 for 5 yards (C.Geathers).
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,5,Houston Texans,0,6,0,Pass Incomplete,2nd & 5 at IND 37,05:42 3rd Shotgun,— D.Watson pass incomplete deep left to R.Griffin.
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,5,Houston Texans,0,7,0,-10 Yard Penalty,3rd & 5 at IND 37,05:37 3rd Shotgun,"— D.Watson scrambles up the middle to IND 29 for 8 yards (M.Hunt). IND-M.Mitchell was injured during the play. His return is Probable. PENALTY on HOU-N.Martin, Offensive Holding, 10 yards, enforced at IND 37 - No Play."
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,5,Houston Texans,0,8,0,-9 Yard Sack,3rd & 15 at IND 47,05:19 3rd Shotgun,— D.Watson sacked at HOU 44 for -9 yards (K.Moore II).
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,5,Houston Texans,0,9,0,Punt,4th & 24 at HOU 44,04:40 3rd,"— T.Daniel punts 37 yards to IND 19, Center-J.Weeks, fair catch by C.Rogers."
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,6,Indianapolis Colts,0,1,0,6 Yard Pass,1st & 10 at IND 19,04:34 3rd Shotgun,— A.Luck pass short left to C.Rogers to IND 25 for 6 yards (Z.Cunningham).
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,6,Indianapolis Colts,0,2,0,29 Yard Run,2nd & 4 at IND 25,03:58 3rd Shotgun,— M.Mack up the middle to HOU 46 for 29 yards (T.Mathieu).
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,6,Indianapolis Colts,0,3,0,Pass Incomplete,1st & 10 at HOU 46,03:11 3rd,— A.Luck pass incomplete deep left to T.Hilton.
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,6,Indianapolis Colts,0,4,0,3 Yard Run,2nd & 10 at HOU 46,03:06 3rd Shotgun,— J.Wilkins left guard to HOU 43 for 3 yards (A.Hal; J.Clowney).
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,6,Indianapolis Colts,0,5,0,Pass Incomplete,3rd & 7 at HOU 43,02:24 3rd Shotgun,— A.Luck pass incomplete short left to T.Hilton [D.Ejiofor].
+2018,Wild Card,SAT,01/05,Colts,Texans,3rd Quarter,6,Indianapolis Colts,0,6,0,Punt,4th & 7 at HOU 43,02:20 3rd,"— R.Sanchez punts 32 yards to HOU 11, Center-L.Rhodes, downed by IND-C.Geathers."
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,1,Houston Texans,1,1,0,5 Yard Run,1st & 10 at HOU 11,02:10 3rd Shotgun,— D.Watson right end pushed ob at HOU 16 for 5 yards (Q.Wilson).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,1,Houston Texans,1,2,0,10 Yard Pass,2nd & 5 at HOU 16,01:45 3rd Shotgun,— D.Watson pass short right to L.Miller pushed ob at HOU 26 for 10 yards (D.Leonard).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,1,Houston Texans,1,3,0,Pass Incomplete,1st & 10 at HOU 26,01:23 3rd Shotgun,— D.Watson pass incomplete short right to D.Hopkins.
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,1,Houston Texans,1,4,0,Pass Incomplete,2nd & 10 at HOU 26,01:20 3rd Shotgun,— D.Watson pass incomplete short right to L.Miller.
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,1,Houston Texans,1,5,0,7 Yard Pass,3rd & 10 at HOU 26,01:16 3rd Shotgun,— D.Watson pass short left to J.Akins pushed ob at HOU 33 for 7 yards (K.Moore II; Q.Wilson).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,1,Houston Texans,1,6,0,7 Yard Pass,4th & 3 at HOU 33,00:37 3rd Shotgun,— D.Watson pass short middle to K.Coutee to HOU 40 for 7 yards (A.Walker).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,1,Houston Texans,1,7,0,5 Yard Run,1st & 10 at HOU 40,00:05 3rd Shotgun,— D.Watson scrambles up the middle to HOU 45 for 5 yards (K.Moore II).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,1,Houston Texans,1,8,0,8 Yard Run,2nd & 5 at HOU 45,15:00 4th Shotgun,— L.Miller up the middle to IND 47 for 8 yards (C.Geathers).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,1,Houston Texans,1,9,0,13 Yard Pass,1st & 10 at IND 47,14:29 4th Shotgun,— D.Watson pass short right to D.Hopkins to IND 34 for 13 yards (Q.Wilson).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,1,Houston Texans,1,10,0,7 Yard Pass,1st & 10 at IND 34,13:54 4th Shotgun,— D.Watson pass short left to K.Coutee pushed ob at IND 27 for 7 yards (Q.Wilson).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,1,Houston Texans,1,11,0,5 Yard Run,2nd & 3 at IND 27,13:27 4th Shotgun,"— L.Miller left tackle to IND 22 for 5 yards (P.Desir, D.Leonard)."
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,1,Houston Texans,1,12,0,9 Yard Pass,1st & 10 at IND 22,12:46 4th Shotgun,— D.Watson pass short middle to L.Miller to IND 13 for 9 yards (A.Walker).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,1,Houston Texans,1,13,0,1 Yard Pass,2nd & 1 at IND 13,12:14 4th Shotgun,— D.Watson pass short left to J.Akins to IND 12 for 1 yard (A.Walker; C.Geathers).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,1,Houston Texans,1,14,0,6 Yard Pass,1st & 10 at IND 12,11:35 4th Shotgun,— D.Watson pass short left to A.Blue pushed ob at IND 6 for 6 yards (D.Leonard).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,1,Houston Texans,1,15,0,Pass Incomplete,2nd & 4 at IND 6,11:06 4th Shotgun,— D.Watson pass incomplete short middle to K.Coutee.
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,1,Houston Texans,1,16,1,Touchdown,3rd & 4 at IND 6,11:03 4th Shotgun,"— D.Watson pass short left to K.Coutee for 6 yards, TOUCHDOWN. The Replay Official reviewed the runner broke the plane ruling, and the play was Upheld. The ruling on the field stands."
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,1,Houston Texans,1,17,1,Extra Point,,10:57 4th,"— K.Fairbairn extra point is GOOD, Center-J.Weeks, Holder-T.Daniel."
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,2,Indianapolis Colts,0,1,0,Kickoff from HOU 35,,Kickoff,"— K.Fairbairn kicks 65 yards from HOU 35 to end zone, Touchback."
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,2,Indianapolis Colts,0,2,0,4 Yard Pass,1st & 10 at IND 25,10:57 4th Shotgun,— A.Luck pass short left to D.Inman to IND 29 for 4 yards (B.McKinney).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,2,Indianapolis Colts,0,3,0,1 Yard Run,2nd & 6 at IND 29,10:19 4th Shotgun,— M.Mack left tackle to IND 30 for 1 yard (Z.Cunningham).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,2,Indianapolis Colts,0,4,0,20 Yard Pass,3rd & 5 at IND 30,09:40 4th Shotgun,— A.Luck pass deep right to T.Hilton pushed ob at 50 for 20 yards (K.Jackson).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,2,Indianapolis Colts,0,5,0,2 Yard Run,1st & 10 at 50,09:10 4th Shotgun,— M.Mack right guard to HOU 48 for 2 yards (B.McKinney).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,2,Indianapolis Colts,0,6,0,Pass Incomplete,2nd & 8 at HOU 48,08:25 4th Shotgun,— A.Luck pass incomplete short left to T.Hilton (Z.Cunningham) [Z.Cunningham].
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,2,Indianapolis Colts,0,7,0,3 Yard Run,3rd & 8 at HOU 48,08:23 4th Shotgun,"— A.Luck scrambles left end to HOU 45 for 3 yards (J.Joseph; B.McKinney). Penalty on IND-Q.Nelson, Offensive Holding, declined."
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,2,Indianapolis Colts,0,8,0,Punt,4th & 5 at HOU 45,08:09 4th,"— R.Sanchez punts 34 yards to HOU 11, Center-L.Rhodes, downed by IND-J.Wilkins."
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,3,Houston Texans,0,1,0,12 Yard Run,1st & 10 at HOU 11,07:59 4th Shotgun,— D.Watson scrambles right end to HOU 23 for 12 yards (A.Walker; D.Leonard).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,3,Houston Texans,0,2,0,14 Yard Pass,1st & 10 at HOU 23,07:28 4th Shotgun,— D.Watson pass short left to K.Coutee to HOU 37 for 14 yards (M.Hooker).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,3,Houston Texans,0,3,0,Pass Incomplete,1st & 10 at HOU 37,06:54 4th Shotgun,— D.Watson pass incomplete short left to L.Miller.
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,3,Houston Texans,0,4,0,Pass Incomplete,2nd & 10 at HOU 37,06:50 4th Shotgun,— D.Watson pass incomplete short right to R.Griffin [J.Sheard].
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,3,Houston Texans,0,5,0,6 Yard Pass,3rd & 10 at HOU 37,06:44 4th Shotgun,— D.Watson pass short middle to L.Miller to HOU 43 for 6 yards (M.Hunt; D.Leonard) [J.Sheard].
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,3,Houston Texans,0,6,0,21 Yard Run,4th & 4 at HOU 43,06:11 4th Shotgun,— D.Watson scrambles up the middle to IND 36 for 21 yards (G.Odum).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,3,Houston Texans,0,7,0,12 Yard Pass,1st & 10 at IND 36,05:33 4th Shotgun,— D.Watson pass short left to L.Miller to IND 24 for 12 yards (K.Moore II).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,3,Houston Texans,0,8,0,Sack,1st & 10 at IND 24,05:01 4th Shotgun,— D.Watson sacked at IND 24 for 0 yards (sack split by G.Stewart and H.Ridgeway).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,3,Houston Texans,0,9,0,Pass Incomplete,2nd & 10 at IND 24,04:21 4th Shotgun,— D.Watson pass incomplete short middle to J.Akins.
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,3,Houston Texans,0,10,0,Pass Incomplete,3rd & 10 at IND 24,04:17 4th Shotgun,— D.Watson pass incomplete short left to K.Coutee (D.Leonard).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,3,Houston Texans,0,11,0,Pass Incomplete,4th & 10 at IND 24,04:13 4th Shotgun,— D.Watson pass incomplete deep right to V.Smith [K.Moore II].
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,4,Indianapolis Colts,0,1,0,7 Yard Run,1st & 10 at IND 25,04:09 4th Shotgun,— A.Luck scrambles left end to IND 32 for 7 yards (K.Jackson).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,4,Indianapolis Colts,0,2,0,Timeout,,04:01 4th,— Timeout #1 by HOU at 04:01.
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,4,Indianapolis Colts,0,3,0,1 Yard Run,2nd & 3 at IND 32,04:01 4th Shotgun,— M.Mack up the middle to IND 33 for 1 yard (D.Reader).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,4,Indianapolis Colts,0,4,0,Timeout,,03:55 4th,— Timeout #2 by HOU at 03:55.
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,4,Indianapolis Colts,0,5,0,2 Yard Run,3rd & 2 at IND 33,03:55 4th,— M.Mack up the middle to IND 35 for 2 yards (W.Mercilus; D.Reader).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,4,Indianapolis Colts,0,6,0,Timeout,,03:47 4th,— Timeout #3 by HOU at 03:47.
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,4,Indianapolis Colts,0,7,0,3 Yard Run,1st & 10 at IND 35,03:47 4th,— M.Mack left guard to IND 38 for 3 yards (D.Reader).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,4,Indianapolis Colts,0,8,0,15 Yard Run,2nd & 7 at IND 38,03:00 4th,"— M.Mack up the middle to HOU 47 for 15 yards (T.Mathieu, J.Joseph)."
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,4,Indianapolis Colts,0,9,0,26 Yard Run,1st & 10 at HOU 47,02:11 4th,— M.Mack right guard to HOU 21 for 26 yards (T.Mathieu).
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,4,Indianapolis Colts,0,10,0,-1 Yard Run,1st & 10 at HOU 21,02:00 4th,— A.Luck kneels to HOU 22 for -1 yards.
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,4,Indianapolis Colts,0,11,0,-1 Yard Run,2nd & 11 at HOU 22,01:19 4th,— A.Luck kneels to HOU 23 for -1 yards.
+2018,Wild Card,SAT,01/05,Colts,Texans,4th Quarter,4,Indianapolis Colts,0,12,0,-1 Yard Run,3rd & 12 at HOU 23,00:38 4th,— A.Luck kneels to HOU 24 for -1 yards.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,1,Dallas Cowboys,1,1,0,Kickoff from SEA 35,,Kickoff,"— S.Janikowski kicks 65 yards from SEA 35 to end zone, Touchback."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,1,Dallas Cowboys,1,2,0,8 Yard Run,1st & 10 at DAL 25,15:00 1st,— E.Elliott up the middle to DAL 33 for 8 yards (B.Wagner).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,1,Dallas Cowboys,1,3,0,14 Yard Pass,2nd & 2 at DAL 33,14:21 1st,— D.Prescott pass short right to A.Cooper ran ob at DAL 47 for 14 yards [F.Clark].
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,1,Dallas Cowboys,1,4,0,5 Yard Run,1st & 10 at DAL 47,13:53 1st,— E.Elliott right guard to SEA 48 for 5 yards (F.Clark; J.Reed).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,1,Dallas Cowboys,1,5,0,14 Yard Pass,2nd & 5 at SEA 48,13:11 1st Shotgun,— D.Prescott pass short middle to C.Beasley to SEA 34 for 14 yards (K.Wright). DAL-C.Beasley was injured during the play. His return is Questionable.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,1,Dallas Cowboys,1,6,0,9 Yard Pass,1st & 10 at SEA 34,12:47 1st,— D.Prescott pass short right to E.Elliott to SEA 25 for 9 yards (B.Wagner; J.Coleman).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,1,Dallas Cowboys,1,7,0,2 Yard Run,2nd & 1 at SEA 25,12:07 1st,— E.Elliott right tackle to SEA 23 for 2 yards (B.McDougald).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,1,Dallas Cowboys,1,8,0,Pass Incomplete,1st & 10 at SEA 23,11:24 1st Shotgun,— D.Prescott pass incomplete short right to N.Brown.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,1,Dallas Cowboys,1,9,0,0 Yard Run,2nd & 10 at SEA 23,11:18 1st,— E.Elliott left tackle to SEA 23 for no gain (S.Stephen).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,1,Dallas Cowboys,1,10,0,2 Yard Pass,3rd & 10 at SEA 23,10:35 1st Shotgun,— D.Prescott pass short left to A.Cooper to SEA 21 for 2 yards (T.Thompson).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,1,Dallas Cowboys,1,11,1,Field Goal,4th & 8 at SEA 21,09:54 1st Field Goal formation,"— B.Maher 39 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,2,Seattle Seahawks,0,1,0,Kickoff from DAL 35,,Kickoff,"— B.Maher kicks 65 yards from DAL 35 to end zone, Touchback."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,2,Seattle Seahawks,0,2,0,5 Yard Run,1st & 10 at SEA 25,09:50 1st,— C.Carson right tackle to SEA 30 for 5 yards (C.Awuzie).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,2,Seattle Seahawks,0,3,0,3 Yard Run,2nd & 5 at SEA 30,09:17 1st Shotgun,— C.Carson up the middle to SEA 33 for 3 yards (D.Wilson; M.Collins).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,2,Seattle Seahawks,0,4,0,Pass Incomplete,3rd & 2 at SEA 33,08:33 1st Shotgun,— R.Wilson pass incomplete short right to J.McKissic (J.Smith).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,2,Seattle Seahawks,0,5,0,Punt,4th & 2 at SEA 33,08:25 1st Punt formation,"— M.Dickson punts 44 yards to DAL 23, Center-T.Ott. T.Austin to DAL 23 for no gain (J.Coleman)."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,3,Dallas Cowboys,0,1,0,3 Yard Run,1st & 10 at DAL 23,08:17 1st Shotgun,— E.Elliott right end pushed ob at DAL 26 for 3 yards (K.Wright).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,3,Dallas Cowboys,0,2,0,Pass Incomplete,2nd & 7 at DAL 26,07:45 1st,— D.Prescott pass incomplete short right to N.Brown (SL.Griffin).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,3,Dallas Cowboys,0,3,0,14 Yard Pass,3rd & 7 at DAL 26,07:38 1st Shotgun,— D.Prescott pass short right to A.Hurns to DAL 40 for 14 yards (B.McDougald). DAL-A.Hurns was injured during the play. He is Out.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,3,Dallas Cowboys,0,4,0,4 Yard Pass,1st & 10 at DAL 40,07:14 1st,— D.Prescott pass short right to E.Elliott to DAL 44 for 4 yards (P.Ford).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,3,Dallas Cowboys,0,5,0,4 Yard Run,2nd & 6 at DAL 44,06:33 1st,— E.Elliott up the middle to DAL 48 for 4 yards (K.Wright).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,3,Dallas Cowboys,0,6,0,Pass Incomplete,3rd & 2 at DAL 48,05:47 1st Shotgun,— D.Prescott pass incomplete deep right to M.Gallup.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,3,Dallas Cowboys,0,7,0,Punt,4th & 2 at DAL 48,05:42 1st Punt formation,"— C.Jones punts 39 yards to SEA 13, Center-L.Ladouceur. T.Lockett to SEA 23 for 10 yards (J.Thomas; J.Heath)."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,4,Seattle Seahawks,0,1,0,-8 Yard Pass,1st & 10 at SEA 23,05:32 1st,— R.Wilson pass short left to C.Carson to SEA 15 for -8 yards (A.Woods).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,4,Seattle Seahawks,0,2,0,5 Yard Run,2nd & 18 at SEA 15,04:49 1st Shotgun,— C.Carson left guard to SEA 20 for 5 yards (A.Woods; B.Jones).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,4,Seattle Seahawks,0,3,0,3 Yard Run,3rd & 13 at SEA 20,04:06 1st Shotgun,— R.Wilson scrambles up the middle to SEA 23 for 3 yards (R.Gregory).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,4,Seattle Seahawks,0,4,0,Punt,4th & 10 at SEA 23,03:29 1st Punt formation,"— M.Dickson punts 57 yards to DAL 20, Center-T.Ott. T.Austin to DAL 29 for 9 yards (J.Martin, SM.Griffin)."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,5,Dallas Cowboys,0,1,0,Pass Incomplete,1st & 10 at DAL 29,03:17 1st,— D.Prescott pass incomplete short left to A.Cooper [J.Reed]. SEA-T.Flowers was injured during the play. His return is Questionable.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,5,Dallas Cowboys,0,2,0,-10 Yard Penalty,2nd & 10 at DAL 29,03:12 1st,"— E.Elliott right end to DAL 33 for 4 yards (B.Wagner; K.Wright). PENALTY on DAL-B.Jarwin, Offensive Holding, 10 yards, enforced at DAL 29 - No Play."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,5,Dallas Cowboys,0,3,0,9 Yard Pass,2nd & 20 at DAL 19,02:55 1st Shotgun,— D.Prescott pass short left to A.Cooper pushed ob at DAL 28 for 9 yards (A.King).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,5,Dallas Cowboys,0,4,0,Pass Incomplete,3rd & 11 at DAL 28,02:27 1st Shotgun,— D.Prescott pass incomplete short right to M.Gallup (SL.Griffin) [F.Clark]. Dallas' Jeff Heath has a wrist injury; return is questionable.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,5,Dallas Cowboys,0,5,0,Punt,4th & 11 at DAL 28,02:20 1st Punt formation,"— C.Jones punts 45 yards to SEA 27, Center-L.Ladouceur, downed by DAL-K.Frazier."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,6,Seattle Seahawks,0,1,0,4 Yard Run,1st & 10 at SEA 27,02:10 1st Shotgun,— C.Carson left tackle to SEA 31 for 4 yards (L.Vander Esch; M.Collins).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,6,Seattle Seahawks,0,2,0,0 Yard Run,2nd & 6 at SEA 31,01:36 1st Shotgun,— C.Carson left tackle to SEA 31 for no gain (D.Lawrence; J.Smith).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,6,Seattle Seahawks,0,3,0,-7 Yard Sack,3rd & 6 at SEA 31,00:52 1st Shotgun,— R.Wilson sacked at SEA 24 for -7 yards (M.Collins).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,1st Quarter,6,Seattle Seahawks,0,4,0,Punt,4th & 13 at SEA 24,00:14 1st Punt formation,"— M.Dickson punts 56 yards to DAL 20, Center-T.Ott. T.Austin for 80 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on DAL-C.Goodwin, Offensive Holding, 10 yards, enforced at DAL 24."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,1,Dallas Cowboys,0,1,0,4 Yard Run,1st & 10 at DAL 14,15:00 2nd,— E.Elliott left guard to DAL 18 for 4 yards (D.Jordan; B.Wagner).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,1,Dallas Cowboys,0,2,0,7 Yard Pass,2nd & 6 at DAL 18,"14:17 2nd No Huddle, Shotgun",— D.Prescott pass short left to T.Austin ran ob at DAL 25 for 7 yards (B.McDougald).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,1,Dallas Cowboys,0,3,0,5 Yard Run,1st & 10 at DAL 25,13:44 2nd,— E.Elliott left tackle to DAL 30 for 5 yards (P.Ford).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,1,Dallas Cowboys,0,4,0,8 Yard Pass,2nd & 5 at DAL 30,13:03 2nd,— D.Prescott pass short right to C.Beasley pushed ob at DAL 38 for 8 yards (SL.Griffin).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,1,Dallas Cowboys,0,5,0,-3 Yard Run,1st & 10 at DAL 38,12:27 2nd,— T.Austin right end to DAL 35 for -3 yards (K.Wright).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,1,Dallas Cowboys,0,6,0,1 Yard Run,2nd & 13 at DAL 35,11:48 2nd Shotgun,— E.Elliott up the middle to DAL 36 for 1 yard (J.Reed).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,1,Dallas Cowboys,0,7,0,-5 Yard Penalty,3rd & 12 at DAL 36,11:06 2nd Shotgun,"— PENALTY on DAL-L.Collins, False Start, 5 yards, enforced at DAL 36 - No Play."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,1,Dallas Cowboys,0,8,0,9 Yard Pass,3rd & 17 at DAL 31,10:43 2nd Shotgun,— D.Prescott pass short middle to E.Elliott to DAL 40 for 9 yards (F.Clark).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,1,Dallas Cowboys,0,9,0,Punt,4th & 8 at DAL 40,10:02 2nd Punt formation,"— C.Jones punts 50 yards to SEA 10, Center-L.Ladouceur. T.Lockett to SEA 22 for 12 yards (J.Thomas)."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,2,Seattle Seahawks,1,1,0,26 Yard Pass,1st & 10 at SEA 22,09:48 2nd Shotgun,— R.Wilson pass deep left to E.Dickson to SEA 48 for 26 yards (J.Heath).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,2,Seattle Seahawks,1,2,0,40 Yard Pass,1st & 10 at SEA 48,09:13 2nd,— R.Wilson pass deep left to T.Lockett pushed ob at DAL 12 for 40 yards (X.Woods).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,2,Seattle Seahawks,1,3,0,3 Yard Run,1st & 10 at DAL 12,08:38 2nd Shotgun,— C.Carson up the middle to DAL 9 for 3 yards (J.Smith).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,2,Seattle Seahawks,1,4,0,0 Yard Run,2nd & 7 at DAL 9,07:55 2nd,— C.Carson left guard to DAL 9 for no gain (M.Collins).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,2,Seattle Seahawks,1,5,0,Pass Incomplete,3rd & 7 at DAL 9,07:08 2nd Shotgun,— R.Wilson pass incomplete short right to E.Dickson.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,2,Seattle Seahawks,1,6,1,Field Goal,4th & 7 at DAL 9,07:05 2nd Field Goal formation,"— S.Janikowski 27 yard field goal is GOOD, Center-T.Ott, Holder-M.Dickson."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,3,Dallas Cowboys,0,1,0,Kickoff from SEA 35,,Kickoff,"— S.Janikowski kicks 65 yards from SEA 35 to end zone, Touchback."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,3,Dallas Cowboys,0,2,0,5 Yard Penalty,1st & 10 at DAL 25,07:03 2nd Shotgun,"— D.Prescott pass incomplete short right to M.Gallup. PENALTY on SEA-SL.Griffin, Illegal Contact, 5 yards, enforced at DAL 25 - No Play."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,3,Dallas Cowboys,0,3,0,2 Yard Run,1st & 10 at DAL 30,06:57 2nd,— E.Elliott up the middle to DAL 32 for 2 yards (K.Wright).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,3,Dallas Cowboys,0,4,0,15 Yard Pass,2nd & 8 at DAL 32,06:23 2nd Shotgun,— D.Prescott pass short right to A.Cooper pushed ob at DAL 47 for 15 yards (T.Thompson).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,3,Dallas Cowboys,0,5,0,13 Yard Run,1st & 10 at DAL 47,05:44 2nd,— E.Elliott right end pushed ob at SEA 40 for 13 yards (B.McDougald).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,3,Dallas Cowboys,0,6,0,0 Yard Run,1st & 10 at SEA 40,05:17 2nd No Huddle,— E.Elliott left guard to SEA 40 for no gain (J.Reed; F.Clark).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,3,Dallas Cowboys,0,7,0,-10 Yard Sack,2nd & 10 at SEA 40,"04:44 2nd No Huddle, Shotgun",— D.Prescott sacked at 50 for -10 yards (F.Clark).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,3,Dallas Cowboys,0,8,0,10 Yard Pass,3rd & 20 at 50,03:59 2nd Shotgun,— D.Prescott pass short middle to E.Elliott to SEA 40 for 10 yards (J.Martin; Q.Jefferson).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,3,Dallas Cowboys,0,9,0,Field Goal No Good,4th & 10 at SEA 40,03:17 2nd Field Goal formation,"— B.Maher 58 yard field goal is No Good, Wide Right, Center-L.Ladouceur, Holder-C.Jones."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,4,Seattle Seahawks,1,1,0,Pass Incomplete,1st & 10 at SEA 48,03:12 2nd,— R.Wilson pass incomplete short left to D.Baldwin [R.Gregory].
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,4,Seattle Seahawks,1,2,0,25 Yard Pass,2nd & 10 at SEA 48,03:05 2nd Shotgun,— R.Wilson pass deep right to T.Lockett to DAL 27 for 25 yards (C.Awuzie) [D.Lawrence].
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,4,Seattle Seahawks,1,3,0,-4 Yard Run,1st & 10 at DAL 27,02:40 2nd Shotgun,— C.Carson left tackle to DAL 31 for -4 yards (D.Lawrence).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,4,Seattle Seahawks,1,4,0,Timeout,,02:00 2nd,— Timeout #1 by SEA at 02:00.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,4,Seattle Seahawks,1,5,0,7 Yard Pass,2nd & 14 at DAL 31,02:00 2nd,— R.Wilson pass short middle to C.Carson to DAL 24 for 7 yards (J.Smith).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,4,Seattle Seahawks,1,6,0,Timeout,,01:52 2nd,— Timeout #1 by DAL at 01:52.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,4,Seattle Seahawks,1,7,0,Pass Incomplete,3rd & 7 at DAL 24,01:52 2nd Shotgun,— R.Wilson pass incomplete deep right to D.Baldwin.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,4,Seattle Seahawks,1,8,1,Field Goal,4th & 7 at DAL 24,01:47 2nd Field Goal formation,"— S.Janikowski 42 yard field goal is GOOD, Center-T.Ott, Holder-M.Dickson."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,5,Dallas Cowboys,1,1,0,Kickoff from SEA 35,,Kickoff,"— S.Janikowski kicks 65 yards from SEA 35 to end zone, Touchback."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,5,Dallas Cowboys,1,2,0,4 Yard Pass,1st & 10 at DAL 25,01:43 2nd Shotgun,— D.Prescott pass short left to B.Jarwin ran ob at DAL 29 for 4 yards.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,5,Dallas Cowboys,1,3,0,5 Yard Pass,2nd & 6 at DAL 29,01:39 2nd Shotgun,— D.Prescott pass short right to A.Cooper to DAL 34 for 5 yards (SL.Griffin).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,5,Dallas Cowboys,1,4,0,44 Yard Run,3rd & 1 at DAL 34,01:11 2nd,— E.Elliott right end ran ob at SEA 22 for 44 yards (J.Coleman).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,5,Dallas Cowboys,1,5,0,7 Yard Pass,1st & 10 at SEA 22,01:03 2nd Shotgun,— D.Prescott pass short right to B.Jarwin to SEA 15 for 7 yards (B.McDougald).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,5,Dallas Cowboys,1,6,0,4 Yard Pass,2nd & 3 at SEA 15,00:37 2nd Shotgun,— D.Prescott pass short right to B.Jarwin pushed ob at SEA 11 for 4 yards (B.McDougald).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,5,Dallas Cowboys,1,7,0,Pass Incomplete,1st & 10 at SEA 11,"00:33 2nd No Huddle, Shotgun",— D.Prescott pass incomplete short right to M.Gallup.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,5,Dallas Cowboys,1,8,1,Touchdown,2nd & 10 at SEA 11,00:28 2nd Shotgun,"— D.Prescott pass short right to M.Gallup for 11 yards, TOUCHDOWN."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,5,Dallas Cowboys,1,9,1,Extra Point,,00:24 2nd,"— B.Maher extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,6,Seattle Seahawks,0,1,0,Kickoff from DAL 35,,Kickoff,— B.Maher kicks 66 yards from DAL 35 to SEA -1. T.Lockett to DAL 49 for 52 yards (B.Maher).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,6,Seattle Seahawks,0,2,0,4 Yard Pass,1st & 10 at DAL 49,00:16 2nd Shotgun,— R.Wilson pass short right to E.Dickson pushed ob at DAL 45 for 4 yards (L.Vander Esch).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,6,Seattle Seahawks,0,3,0,3 Yard Pass,2nd & 6 at DAL 45,00:11 2nd Shotgun,— R.Wilson pass short right to E.Dickson to DAL 42 for 3 yards (L.Vander Esch).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,6,Seattle Seahawks,0,4,0,Timeout,,00:06 2nd,— Timeout #2 by SEA at 00:06.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,6,Seattle Seahawks,0,5,0,Timeout,,00:06 2nd,— Timeout #2 by DAL at 00:06.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,6,Seattle Seahawks,0,6,0,3 Yard Run,3rd & 3 at DAL 42,00:06 2nd Shotgun,— M.Davis up the middle to DAL 39 for 3 yards (J.Heath).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,6,Seattle Seahawks,0,7,0,Timeout,,00:03 2nd,— Timeout #3 by SEA at 00:03.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,2nd Quarter,6,Seattle Seahawks,0,8,0,Field Goal No Good,1st & 10 at DAL 39,00:03 2nd,"— S.Janikowski 57 yard field goal is No Good, Wide Right, Center-T.Ott, Holder-M.Dickson. SEA-S.Janikowski was injured during the play. He is Out. Thigh injury."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,1,Seattle Seahawks,0,1,0,Kickoff from DAL 35,,Kickoff,"— B.Maher kicks 65 yards from DAL 35 to end zone, Touchback."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,1,Seattle Seahawks,0,2,0,1 Yard Run,1st & 10 at SEA 25,15:00 3rd,— C.Carson left tackle to SEA 26 for 1 yard (J.Smith).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,1,Seattle Seahawks,0,3,0,3 Yard Run,2nd & 9 at SEA 26,14:23 3rd Shotgun,— C.Carson up the middle to SEA 29 for 3 yards (J.Smith; L.Vander Esch).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,1,Seattle Seahawks,0,4,0,Pass Incomplete,3rd & 6 at SEA 29,13:35 3rd Shotgun,— R.Wilson pass incomplete short right to T.Lockett.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,1,Seattle Seahawks,0,5,0,Punt,4th & 6 at SEA 29,13:31 3rd Punt formation,"— M.Dickson punts 51 yards to DAL 20, Center-T.Ott. T.Austin to DAL 29 for 9 yards (J.Coleman)."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,2,Dallas Cowboys,0,1,0,3 Yard Run,1st & 10 at DAL 29,13:21 3rd,— E.Elliott right guard to DAL 32 for 3 yards (S.Stephen).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,2,Dallas Cowboys,0,2,0,6 Yard Pass,2nd & 7 at DAL 32,12:37 3rd Shotgun,— D.Prescott pass short left to C.Beasley to DAL 38 for 6 yards (T.Flowers).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,2,Dallas Cowboys,0,3,0,0 Yard Run,3rd & 1 at DAL 38,11:58 3rd,— E.Elliott right tackle to DAL 38 for no gain (B.Wagner).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,2,Dallas Cowboys,0,4,0,Punt,4th & 1 at DAL 38,11:15 3rd Punt formation,"— C.Jones punts 49 yards to SEA 13, Center-L.Ladouceur, out of bounds."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,3,Seattle Seahawks,0,1,0,9 Yard Pass,1st & 10 at SEA 13,11:07 3rd,— R.Wilson pass short right to E.Dickson pushed ob at SEA 22 for 9 yards (B.Jones; J.Smith).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,3,Seattle Seahawks,0,2,0,5 Yard Run,2nd & 1 at SEA 22,10:34 3rd Shotgun,— R.Penny right tackle to SEA 27 for 5 yards (C.Awuzie).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,3,Seattle Seahawks,0,3,0,28 Yard Run,1st & 10 at SEA 27,10:01 3rd,— R.Penny right tackle to DAL 45 for 28 yards (J.Heath).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,3,Seattle Seahawks,0,4,0,-7 Yard Run,1st & 10 at DAL 45,09:33 3rd No Huddle,— R.Penny left end to SEA 48 for -7 yards (R.Gregory).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,3,Seattle Seahawks,0,5,0,Pass Incomplete,2nd & 17 at SEA 48,08:51 3rd Shotgun,— R.Wilson pass incomplete short left to C.Carson.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,3,Seattle Seahawks,0,6,0,5 Yard Pass,3rd & 17 at SEA 48,08:47 3rd Shotgun,— R.Wilson pass short right to N.Vannett to DAL 47 for 5 yards (L.Vander Esch).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,3,Seattle Seahawks,0,7,0,Punt,4th & 12 at DAL 47,08:04 3rd Punt formation,"— M.Dickson punts 45 yards to DAL 2, Center-T.Ott, downed by SEA-J.Coleman."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,4,Dallas Cowboys,0,1,0,1 Yard Run,1st & 10 at DAL 2,07:54 3rd,— E.Elliott up the middle to DAL 3 for 1 yard (J.Reed).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,4,Dallas Cowboys,0,2,0,Pass Incomplete,2nd & 9 at DAL 3,07:15 3rd,— D.Prescott pass incomplete deep left to A.Cooper.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,4,Dallas Cowboys,0,3,0,Pass Incomplete,3rd & 9 at DAL 3,07:10 3rd Shotgun,— D.Prescott pass incomplete short left to E.Elliott.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,4,Dallas Cowboys,0,4,0,Punt,4th & 10 at DAL 2,07:06 3rd Punt formation,"— C.Jones punts 42 yards to DAL 44, Center-L.Ladouceur. T.Lockett to DAL 44 for no gain (C.Goodwin)."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,5,Seattle Seahawks,1,1,0,3 Yard Run,1st & 10 at DAL 44,07:00 3rd Shotgun,— R.Penny up the middle to DAL 41 for 3 yards (D.Lawrence).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,5,Seattle Seahawks,1,2,0,0 Yard Run,2nd & 7 at DAL 41,06:25 3rd,— C.Carson right guard to DAL 41 for no gain (L.Vander Esch; D.Lawrence).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,5,Seattle Seahawks,1,3,0,2 Yard Run,3rd & 7 at DAL 41,05:38 3rd Shotgun,— M.Davis up the middle to DAL 39 for 2 yards (L.Vander Esch; T.Crawford).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,5,Seattle Seahawks,1,4,0,22 Yard Pass,4th & 5 at DAL 39,04:55 3rd Shotgun,— R.Wilson pass deep left to D.Baldwin pushed ob at DAL 17 for 22 yards (C.Awuzie).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,5,Seattle Seahawks,1,5,0,3 Yard Run,1st & 10 at DAL 17,04:49 3rd Shotgun,— M.Davis right tackle to DAL 14 for 3 yards (L.Vander Esch).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,5,Seattle Seahawks,1,6,0,2 Yard Run,2nd & 7 at DAL 14,04:05 3rd Shotgun,— M.Davis left guard to DAL 12 for 2 yards (A.Woods).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,5,Seattle Seahawks,1,7,0,7 Yard Run,3rd & 5 at DAL 12,03:24 3rd Shotgun,— R.Wilson left end to DAL 5 for 7 yards (L.Vander Esch).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,5,Seattle Seahawks,1,8,0,1 Yard Run,1st & 5 at DAL 5,02:45 3rd Shotgun,— C.Carson up the middle to DAL 4 for 1 yard (T.Crawford; C.Awuzie).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,5,Seattle Seahawks,1,9,1,Touchdown,2nd & 4 at DAL 4,02:03 3rd Shotgun,"— R.Wilson right end for 4 yards, TOUCHDOWN."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,3rd Quarter,5,Seattle Seahawks,1,10,0,2 Point Conversion,,01:59 3rd,— (Run formation) TWO-POINT CONVERSION ATTEMPT. M.Davis rushes right tackle. ATTEMPT SUCCEEDS.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,1,Dallas Cowboys,1,1,0,Kickoff from SEA 35,,Kickoff,— M.Dickson kicks 47 yards from SEA 35 to DAL 18. R.Smith to DAL 33 for 15 yards (S.Luani).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,1,Dallas Cowboys,1,2,0,7 Yard Pass,1st & 10 at DAL 33,01:54 3rd Shotgun,— D.Prescott pass short right to M.Gallup to DAL 40 for 7 yards (SL.Griffin).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,1,Dallas Cowboys,1,3,0,2 Yard Run,2nd & 3 at DAL 40,01:17 3rd,— E.Elliott left tackle to DAL 42 for 2 yards (B.Mingo).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,1,Dallas Cowboys,1,4,0,6 Yard Pass,3rd & 1 at DAL 42,00:40 3rd,— D.Prescott pass short right to N.Brown to DAL 48 for 6 yards (B.McDougald; T.Thompson).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,1,Dallas Cowboys,1,5,0,2 Yard Run,1st & 10 at DAL 48,15:00 4th,— E.Elliott left end to 50 for 2 yards (T.Flowers).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,1,Dallas Cowboys,1,6,0,34 Yard Pass,2nd & 8 at 50,"14:27 4th No Huddle, Shotgun",— D.Prescott pass short middle to A.Cooper to SEA 16 for 34 yards (T.Thompson).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,1,Dallas Cowboys,1,7,0,6 Yard Run,1st & 10 at SEA 16,13:50 4th No Huddle,— E.Elliott up the middle to SEA 10 for 6 yards (B.McDougald).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,1,Dallas Cowboys,1,8,0,9 Yard Run,2nd & 4 at SEA 10,"13:19 4th No Huddle, Shotgun","— D.Prescott left tackle for 10 yards, TOUCHDOWN. The Replay Official reviewed the runner broke the plane ruling, and the play was REVERSED. (No Huddle, Shotgun) D.Prescott left tackle to SEA 1 for 9 yards (B.McDougald)."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,1,Dallas Cowboys,1,9,0,0 Yard Run,1st & 1 at SEA 1,13:09 4th,— E.Elliott up the middle to SEA 1 for no gain (Q.Jefferson).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,1,Dallas Cowboys,1,10,1,Touchdown,2nd & 1 at SEA 1,12:32 4th,"— E.Elliott right guard for 1 yard, TOUCHDOWN."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,1,Dallas Cowboys,1,11,1,Extra Point,,12:28 4th,"— B.Maher extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,2,Seattle Seahawks,0,1,0,Kickoff from DAL 35,,Kickoff,"— B.Maher kicks 65 yards from DAL 35 to end zone, Touchback."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,2,Seattle Seahawks,0,2,0,-1 Yard Run,1st & 10 at SEA 25,12:28 4th,"— C.Carson up the middle to SEA 24 for -1 yards (D.Lawrence, T.Crawford)."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,2,Seattle Seahawks,0,3,0,5 Yard Pass,2nd & 11 at SEA 24,11:50 4th Shotgun,— R.Wilson pass short right to D.Baldwin pushed ob at SEA 29 for 5 yards (C.Awuzie).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,2,Seattle Seahawks,0,4,0,Pass Incomplete,3rd & 6 at SEA 29,11:13 4th Shotgun,— R.Wilson pass incomplete deep right to T.Lockett (C.Awuzie).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,2,Seattle Seahawks,0,5,0,Punt,4th & 6 at SEA 29,11:08 4th Punt formation,"— M.Dickson punts 60 yards to DAL 11, Center-T.Ott. T.Austin pushed ob at SEA 38 for 51 yards (E.Dickson)."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,3,Dallas Cowboys,0,1,0,27 Yard Pass,1st & 10 at SEA 38,10:51 4th Shotgun,"— D.Prescott pass deep left to A.Cooper to SEA 11 for 27 yards (J.Coleman). Seattle challenged the pass completion ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)"
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,3,Dallas Cowboys,0,2,0,-5 Yard Penalty,1st & 10 at SEA 11,10:10 4th,"— E.Elliott up the middle to SEA 7 for 4 yards (B.Wagner). PENALTY on DAL-D.Schultz, Illegal Formation, 5 yards, enforced at SEA 11 - No Play."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,3,Dallas Cowboys,0,3,0,Interception,1st & 15 at SEA 16,09:43 4th,— D.Prescott pass deep right intended for N.Brown INTERCEPTED by K.Wright at SEA 0. Touchback.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,4,Seattle Seahawks,0,1,0,-10 Yard Penalty,1st & 10 at SEA 20,09:34 4th,"— R.Wilson pass short left to N.Vannett to SEA 26 for 6 yards (L.Vander Esch; C.Awuzie). PENALTY on SEA-J.Britt, Offensive Holding, 10 yards, enforced at SEA 20 - No Play."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,4,Seattle Seahawks,0,2,0,-2 Yard Pass,1st & 20 at SEA 10,09:06 4th Shotgun,"— R.Wilson pass short middle to D.Baldwin to SEA 15 for 5 yards (L.Vander Esch). PENALTY on SEA-D.Fluker, Unnecessary Roughness, 7 yards, enforced at SEA 15."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,4,Seattle Seahawks,0,3,0,2 Yard Pass,2nd & 22 at SEA 8,08:40 4th Shotgun,— R.Wilson pass short left to T.Lockett to SEA 10 for 2 yards (A.Brown). SEA-T.Lockett was injured during the play. His return is Questionable.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,4,Seattle Seahawks,0,4,0,13 Yard Pass,3rd & 20 at SEA 10,08:10 4th Shotgun,— R.Wilson pass short left to M.Davis to SEA 23 for 13 yards (X.Woods).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,4,Seattle Seahawks,0,5,0,Punt,4th & 7 at SEA 23,07:30 4th Punt formation,"— M.Dickson punts 47 yards to DAL 30, Center-T.Ott. C.Beasley to DAL 37 for 7 yards (J.Coleman)."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,5,Dallas Cowboys,1,1,0,2 Yard Run,1st & 10 at DAL 37,07:20 4th,— E.Elliott left guard to DAL 39 for 2 yards (K.Wright).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,5,Dallas Cowboys,1,2,0,Pass Incomplete,2nd & 8 at DAL 39,"06:46 4th No Huddle, Shotgun",— D.Prescott pass incomplete short right.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,5,Dallas Cowboys,1,3,0,6 Yard Penalty,3rd & 8 at DAL 39,06:39 4th Shotgun,"— D.Prescott pass incomplete short middle to M.Gallup (K.Wright). PENALTY on SEA-K.Wright, Defensive Pass Interference, 6 yards, enforced at DAL 39 - No Play."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,5,Dallas Cowboys,1,4,0,5 Yard Run,1st & 10 at DAL 45,06:35 4th,— E.Elliott up the middle to 50 for 5 yards (B.Wagner).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,5,Dallas Cowboys,1,5,0,1 Yard Run,2nd & 5 at 50,05:58 4th,— E.Elliott right tackle to SEA 49 for 1 yard (SL.Griffin).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,5,Dallas Cowboys,1,6,0,8 Yard Penalty,3rd & 4 at SEA 49,05:14 4th Shotgun,"— D.Prescott pass incomplete short right to C.Beasley. PENALTY on SEA-J.Coleman, Defensive Pass Interference, 8 yards, enforced at SEA 49 - No Play."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,5,Dallas Cowboys,1,7,0,5 Yard Run,1st & 10 at SEA 41,05:08 4th Shotgun,— D.Prescott right end to SEA 36 for 5 yards (J.Martin).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,5,Dallas Cowboys,1,8,0,6 Yard Run,2nd & 5 at SEA 36,04:24 4th,— E.Elliott up the middle to SEA 30 for 6 yards (J.Martin; K.Wright).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,5,Dallas Cowboys,1,9,0,17 Yard Run,1st & 10 at SEA 30,03:41 4th,— E.Elliott right end to SEA 13 for 17 yards (K.Wright).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,5,Dallas Cowboys,1,10,0,1 Yard Run,1st & 10 at SEA 13,02:51 4th,— R.Smith up the middle to SEA 12 for 1 yard (B.McDougald).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,5,Dallas Cowboys,1,11,0,Timeout,,02:46 4th,— Timeout #2 by SEA at 02:46.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,5,Dallas Cowboys,1,12,0,-5 Yard Penalty,2nd & 9 at SEA 12,02:46 4th,"— E.Elliott up the middle to SEA 6 for 6 yards (Q.Jefferson; T.Thompson). PENALTY on DAL-N.Brown, Illegal Shift, 5 yards, enforced at SEA 12 - No Play."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,5,Dallas Cowboys,1,13,0,Pass Incomplete,2nd & 14 at SEA 17,02:40 4th Shotgun,— D.Prescott pass incomplete short right to M.Gallup.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,5,Dallas Cowboys,1,14,0,16 Yard Run,3rd & 14 at SEA 17,02:33 4th Shotgun,— D.Prescott up the middle to SEA 1 for 16 yards (T.Thompson).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,5,Dallas Cowboys,1,15,0,Timeout,,02:14 4th,— Timeout #3 by SEA at 02:14.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,5,Dallas Cowboys,1,16,1,Touchdown,1st & 1 at SEA 1,02:14 4th,"— D.Prescott up the middle for 1 yard, TOUCHDOWN."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,5,Dallas Cowboys,1,17,1,Extra Point,,02:08 4th,"— B.Maher extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,6,Seattle Seahawks,1,1,0,Kickoff from DAL 35,,Kickoff,"— B.Maher kicks 65 yards from DAL 35 to end zone, Touchback."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,6,Seattle Seahawks,1,2,0,9 Yard Pass,1st & 10 at SEA 25,02:08 4th Shotgun,— R.Wilson pass short left to M.Davis to SEA 34 for 9 yards (D.Lawrence; J.Smith).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,6,Seattle Seahawks,1,3,0,53 Yard Pass,2nd & 1 at SEA 34,02:00 4th Shotgun,— R.Wilson pass deep left to T.Lockett to DAL 13 for 53 yards (B.Jones).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,6,Seattle Seahawks,1,4,0,Pass Incomplete,1st & 10 at DAL 13,"01:37 4th No Huddle, Shotgun",— R.Wilson pass incomplete short middle to N.Vannett.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,6,Seattle Seahawks,1,5,0,Pass Incomplete,2nd & 10 at DAL 13,01:32 4th Shotgun,— R.Wilson pass incomplete short middle to D.Baldwin.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,6,Seattle Seahawks,1,6,0,6 Yard Pass,3rd & 10 at DAL 13,01:27 4th Shotgun,— R.Wilson pass short left to J.McKissic pushed ob at DAL 7 for 6 yards (B.Jones).
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,6,Seattle Seahawks,1,7,1,Touchdown,4th & 4 at DAL 7,01:22 4th Shotgun,"— R.Wilson pass short left to J.McKissic for 7 yards, TOUCHDOWN."
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,6,Seattle Seahawks,1,8,0,2 Point Conversion,,01:18 4th,— TWO-POINT CONVERSION ATTEMPT. C.Carson rushes up the middle. ATTEMPT SUCCEEDS.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,7,Dallas Cowboys,0,1,0,Kickoff from SEA 35,,Kickoff,— M.Dickson kicks onside 33 yards from SEA 35 to DAL 32. C.Beasley (didn't try to advance) to DAL 32 for no gain.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,7,Dallas Cowboys,0,2,0,-1 Yard Run,1st & 10 at DAL 32,01:16 4th,— D.Prescott kneels to DAL 31 for -1 yards.
+2018,Wild Card,SAT,01/05,Seahawks,Cowboys,4th Quarter,7,Dallas Cowboys,0,3,0,-1 Yard Run,2nd & 11 at DAL 31,00:38 4th,— D.Prescott kneels to DAL 30 for -1 yards.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,1,Baltimore Ravens,0,1,0,Kickoff from LAC 35,,Kickoff,— M.Badgley kicks 60 yards from LAC 35 to BAL 5. T.Montgomery to BAL 21 for 16 yards (D.King).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,1,Baltimore Ravens,0,2,0,-1 Yard Run,1st & 10 at BAL 21,14:53 1st Shotgun,— L.Jackson right tackle to BAL 20 for -1 yards (D.James).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,1,Baltimore Ravens,0,3,0,5 Yard Pass,2nd & 11 at BAL 20,14:16 1st Shotgun,— L.Jackson pass short right to J.Brown to BAL 25 for 5 yards (M.Davis).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,1,Baltimore Ravens,0,4,0,12 Yard Pass,3rd & 6 at BAL 25,13:34 1st Shotgun,— L.Jackson pass short middle to W.Snead IV to BAL 37 for 12 yards (J.Addae).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,1,Baltimore Ravens,0,5,0,Pass Incomplete,1st & 10 at BAL 37,13:01 1st Shotgun,— L.Jackson pass incomplete short right [D.James]. Jackson throws pass away to avoid sack.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,1,Baltimore Ravens,0,6,0,5 Yard Run,2nd & 10 at BAL 37,12:52 1st Shotgun,"— G.Edwards up the middle to BAL 42 for 5 yards (D.Square, J.Addae)."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,1,Baltimore Ravens,0,7,0,Pass Incomplete,3rd & 5 at BAL 42,12:16 1st Shotgun,"— L.Jackson up the middle to BAL 34 for -8 yards. FUMBLES, and recovers at BAL 30. L.Jackson pass incomplete short left to W.Snead IV."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,1,Baltimore Ravens,0,8,0,Punt,4th & 5 at BAL 42,12:03 1st Punt formation,"— S.Koch punts 44 yards to LAC 14, Center-M.Cox. D.King to LAC 23 for 9 yards (C.Moore)."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,2,Los Angeles Chargers,0,1,0,Pass Incomplete,1st & 10 at LAC 23,11:54 1st,— P.Rivers pass incomplete short left. Rivers throws pass away.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,2,Los Angeles Chargers,0,2,0,8 Yard Pass,2nd & 10 at LAC 23,11:48 1st Shotgun,— P.Rivers pass short middle to T.Benjamin to LAC 31 for 8 yards (P.Onwuasor). Shovel pass
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,2,Los Angeles Chargers,0,3,0,-1 Yard Pass,3rd & 2 at LAC 31,11:08 1st Shotgun,— P.Rivers pass short right to T.Benjamin to LAC 30 for -1 yards (M.Judon).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,2,Los Angeles Chargers,0,4,0,Punt,4th & 3 at LAC 30,10:32 1st Punt formation,"— D.Jones punts 42 yards to BAL 28, Center-M.Windt, out of bounds."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,3,Baltimore Ravens,0,1,0,-14 Yard Run,1st & 10 at BAL 28,10:21 1st Shotgun,"— L.Jackson FUMBLES (Aborted) at BAL 23, recovered by BAL-R.Stanley at BAL 14. R.Stanley to BAL 14 for no gain (T.McGill)."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,3,Baltimore Ravens,0,2,0,Fumble,2nd & 24 at BAL 14,09:39 1st Shotgun,"— K.Dixon left guard to BAL 12 for -2 yards (M.Ingram). FUMBLES (M.Ingram), RECOVERED by LAC-A.Phillips at BAL 15. A.Phillips to BAL 15 for no gain (M.Williams)."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,4,Los Angeles Chargers,1,1,0,9 Yard Run,1st & 10 at BAL 15,09:35 1st,"— M.Gordon up the middle to BAL 12 for 3 yards (M.Pierce; T.Jefferson). PENALTY on BAL-P.Onwuasor, Unnecessary Roughness, 6 yards, enforced at BAL 12."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,4,Los Angeles Chargers,1,2,0,3 Yard Run,1st & 6 at BAL 6,09:04 1st,— M.Gordon up the middle to BAL 3 for 3 yards (C.Mosley).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,4,Los Angeles Chargers,1,3,0,2 Yard Run,2nd & 3 at BAL 3,08:20 1st Shotgun,— M.Gordon right guard to BAL 1 for 2 yards (T.Jefferson; C.Mosley). LAC-M.Gordon was injured during the play.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,4,Los Angeles Chargers,1,4,0,-2 Yard Run,3rd & 1 at BAL 1,07:43 1st,— A.Ekeler left guard to BAL 3 for -2 yards (B.Urban).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,4,Los Angeles Chargers,1,5,1,Field Goal,4th & 3 at BAL 3,07:03 1st Field Goal formation,"— M.Badgley 21 yard field goal is GOOD, Center-M.Windt, Holder-D.Jones."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,5,Baltimore Ravens,0,1,0,Kickoff from LAC 35,,Kickoff,— M.Badgley kicks 62 yards from LAC 35 to BAL 3. T.Montgomery to BAL 19 for 16 yards (K.Wilson; R.Jenkins).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,5,Baltimore Ravens,0,2,0,4 Yard Run,1st & 10 at BAL 19,06:54 1st Shotgun,— G.Edwards right guard to BAL 23 for 4 yards (Ju.Jones).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,5,Baltimore Ravens,0,3,0,1 Yard Run,2nd & 6 at BAL 23,06:21 1st Shotgun,— G.Edwards right guard to BAL 24 for 1 yard (M.Ingram).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,5,Baltimore Ravens,0,4,0,15 Yard Run,3rd & 5 at BAL 24,05:48 1st Shotgun,— L.Jackson scrambles left end to BAL 39 for 15 yards (J.Addae; D.King).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,5,Baltimore Ravens,0,5,0,Pass Incomplete,1st & 10 at BAL 39,04:59 1st Shotgun,— L.Jackson pass incomplete short middle to W.Snead IV.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,5,Baltimore Ravens,0,6,0,-1 Yard Run,2nd & 10 at BAL 39,04:56 1st Shotgun,— G.Edwards up the middle to BAL 38 for -1 yards (D.Philon).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,5,Baltimore Ravens,0,7,0,-6 Yard Sack,3rd & 11 at BAL 38,04:19 1st Shotgun,— L.Jackson sacked at BAL 32 for -6 yards (J.Bosa).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,5,Baltimore Ravens,0,8,0,Punt,4th & 17 at BAL 32,03:35 1st Punt formation,"— S.Koch punts 43 yards to LAC 25, Center-M.Cox. D.King to BAL 42 for 33 yards (S.Koch; A.Levine Sr.)."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,6,Los Angeles Chargers,1,1,0,2 Yard Pass,1st & 10 at BAL 42,03:21 1st Shotgun,"— P.Rivers pass short right to A.Ekeler to BAL 40 for 2 yards (B.Carr, C.Mosley)."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,6,Los Angeles Chargers,1,2,0,1 Yard Run,2nd & 8 at BAL 40,02:40 1st,— A.Ekeler left guard to BAL 39 for 1 yard (J.Smith).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,6,Los Angeles Chargers,1,3,0,4 Yard Pass,3rd & 7 at BAL 39,01:56 1st Shotgun,— P.Rivers pass short middle to Ty.Williams to BAL 35 for 4 yards (C.Mosley; B.Carr).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,1st Quarter,6,Los Angeles Chargers,1,4,1,Field Goal,4th & 3 at BAL 35,01:14 1st Field Goal formation,"— M.Badgley 53 yard field goal is GOOD, Center-M.Windt, Holder-D.Jones."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,1,Baltimore Ravens,0,1,0,Kickoff from LAC 35,,Kickoff,— M.Badgley kicks 62 yards from LAC 35 to BAL 3. T.Montgomery to BAL 27 for 24 yards (G.Davis).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,1,Baltimore Ravens,0,2,0,5 Yard Run,1st & 10 at BAL 27,01:02 1st Shotgun,— G.Edwards right guard to BAL 32 for 5 yards (I.Rochell; A.Phillips).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,1,Baltimore Ravens,0,3,0,3 Yard Run,2nd & 5 at BAL 32,00:24 1st Shotgun,— K.Dixon right guard to BAL 35 for 3 yards (A.Phillips).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,1,Baltimore Ravens,0,4,0,0 Yard Run,3rd & 2 at BAL 35,15:00 2nd Shotgun,— K.Dixon right guard to BAL 35 for no gain (A.Phillips).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,1,Baltimore Ravens,0,5,0,Punt,4th & 2 at BAL 35,14:25 2nd Punt formation,"— S.Koch punts 59 yards to LAC 6, Center-M.Cox. D.King to LAC 10 for 4 yards (C.Moore)."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,2,Los Angeles Chargers,0,1,0,-2 Yard Run,1st & 10 at LAC 10,14:14 2nd Shotgun,— M.Gordon left tackle to LAC 8 for -2 yards (M.Judon).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,2,Los Angeles Chargers,0,2,0,6 Yard Pass,2nd & 12 at LAC 8,13:27 2nd Shotgun,— P.Rivers pass short right to A.Ekeler to LAC 14 for 6 yards (T.Suggs).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,2,Los Angeles Chargers,0,3,0,17 Yard Pass,3rd & 6 at LAC 14,12:40 2nd Shotgun,— P.Rivers pass deep left to K.Allen to LAC 31 for 17 yards (J.Smith) [P.Onwuasor].
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,2,Los Angeles Chargers,0,4,0,1 Yard Run,1st & 10 at LAC 31,12:00 2nd,— M.Gordon left guard to LAC 32 for 1 yard (B.Carr).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,2,Los Angeles Chargers,0,5,0,7 Yard Run,2nd & 9 at LAC 32,11:20 2nd,— P.Rivers scrambles up the middle to LAC 39 for 7 yards (K.Young).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,2,Los Angeles Chargers,0,6,0,Pass Incomplete,3rd & 2 at LAC 39,10:32 2nd Shotgun,— P.Rivers pass incomplete short middle to M.Williams.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,2,Los Angeles Chargers,0,7,0,Punt,4th & 2 at LAC 39,10:28 2nd Punt formation,"— D.Jones punts 38 yards to BAL 23, Center-M.Windt, downed by LAC-D.Watt."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,3,Baltimore Ravens,0,1,0,Pass Incomplete,1st & 10 at BAL 23,10:17 2nd Shotgun,— L.Jackson pass incomplete deep right to M.Crabtree.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,3,Baltimore Ravens,0,2,0,17 Yard Run,2nd & 10 at BAL 23,10:10 2nd Shotgun,— L.Jackson scrambles left end pushed ob at BAL 40 for 17 yards (M.Davis).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,3,Baltimore Ravens,0,3,0,4 Yard Run,1st & 10 at BAL 40,09:32 2nd Shotgun,— K.Dixon right guard to BAL 44 for 4 yards (J.Bosa).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,3,Baltimore Ravens,0,4,0,Interception,2nd & 6 at BAL 44,08:57 2nd Shotgun,— L.Jackson pass short middle intended for C.Moore INTERCEPTED by A.Phillips (C.Hayward) at LAC 41. A.Phillips to LAC 41 for no gain (C.Moore).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,4,Los Angeles Chargers,1,1,0,3 Yard Pass,1st & 10 at LAC 41,08:51 2nd Shotgun,— P.Rivers pass short right to M.Gordon to LAC 44 for 3 yards (B.Carr).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,4,Los Angeles Chargers,1,2,0,6 Yard Run,2nd & 7 at LAC 44,08:12 2nd,— M.Gordon left tackle pushed ob at 50 for 6 yards (J.Smith).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,4,Los Angeles Chargers,1,3,0,5 Yard Penalty,3rd & 1 at 50,07:49 2nd,"— M.Gordon left guard to BAL 48 for 2 yards (C.Mosley). PENALTY on BAL, Defensive Too Many Men on Field, 5 yards, enforced at 50 - No Play."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,4,Los Angeles Chargers,1,4,0,-6 Yard Sack,1st & 10 at BAL 45,07:27 2nd Shotgun,— P.Rivers sacked at LAC 49 for -6 yards (P.Onwuasor).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,4,Los Angeles Chargers,1,5,0,12 Yard Pass,2nd & 16 at LAC 49,06:42 2nd Shotgun,— P.Rivers pass short middle to K.Allen to BAL 39 for 12 yards (K.Young).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,4,Los Angeles Chargers,1,6,0,9 Yard Pass,3rd & 4 at BAL 39,05:57 2nd Shotgun,— P.Rivers pass short middle to A.Gates to BAL 30 for 9 yards (T.Jefferson).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,4,Los Angeles Chargers,1,7,0,1 Yard Run,1st & 10 at BAL 30,05:16 2nd,"— M.Gordon left guard to BAL 29 for 1 yard (M.Judon, P.Onwuasor)."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,4,Los Angeles Chargers,1,8,0,2 Yard Run,2nd & 9 at BAL 29,04:39 2nd,— A.Ekeler right guard to BAL 27 for 2 yards (C.Mosley).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,4,Los Angeles Chargers,1,9,0,5 Yard Penalty,3rd & 7 at BAL 27,04:01 2nd Shotgun,"— PENALTY on BAL-M.Judon, Neutral Zone Infraction, 5 yards, enforced at BAL 27 - No Play."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,4,Los Angeles Chargers,1,10,0,Pass Incomplete,3rd & 2 at BAL 22,03:35 2nd Shotgun,— P.Rivers pass incomplete deep right to K.Allen.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,4,Los Angeles Chargers,1,11,1,Field Goal,4th & 2 at BAL 22,03:26 2nd Field Goal formation,"— M.Badgley 40 yard field goal is GOOD, Center-M.Windt, Holder-D.Jones."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,5,Baltimore Ravens,0,1,0,Kickoff from LAC 35,,Kickoff,— M.Badgley kicks 53 yards from LAC 35 to BAL 12. T.Montgomery to BAL 25 for 13 yards (K.Wilson).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,5,Baltimore Ravens,0,2,0,2 Yard Run,1st & 10 at BAL 25,03:17 2nd Shotgun,— K.Dixon up the middle to BAL 27 for 2 yards (M.Ingram).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,5,Baltimore Ravens,0,3,0,4 Yard Run,2nd & 8 at BAL 27,02:42 2nd Shotgun,— K.Dixon up the middle to BAL 31 for 4 yards (A.Phillips; Ju.Jones).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,5,Baltimore Ravens,0,4,0,Pass Incomplete,3rd & 4 at BAL 31,02:00 2nd Shotgun,— L.Jackson pass incomplete short left to M.Andrews [Ju.Jones].
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,5,Baltimore Ravens,0,5,0,Punt,4th & 4 at BAL 31,01:55 2nd Punt formation,"— S.Koch punts 43 yards to LAC 26, Center-M.Cox, fair catch by D.King."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,6,Los Angeles Chargers,1,1,0,4 Yard Run,1st & 10 at LAC 26,01:48 2nd Shotgun,— A.Ekeler right guard to LAC 30 for 4 yards (M.Pierce).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,6,Los Angeles Chargers,1,2,0,5 Yard Pass,2nd & 6 at LAC 30,"01:17 2nd No Huddle, Shotgun",— P.Rivers pass short left to Ty.Williams pushed ob at LAC 35 for 5 yards (B.Carr).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,6,Los Angeles Chargers,1,3,0,5 Yard Pass,3rd & 1 at LAC 35,01:12 2nd Shotgun,"— P.Rivers pass short middle to A.Gates to LAC 40 for 5 yards (J.Smith, C.Mosley)."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,6,Los Angeles Chargers,1,4,0,Pass Incomplete,1st & 10 at LAC 40,"00:45 2nd No Huddle, Shotgun",— P.Rivers pass incomplete short right to K.Allen [M.Judon].
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,6,Los Angeles Chargers,1,5,0,14 Yard Pass,2nd & 10 at LAC 40,00:40 2nd Shotgun,— P.Rivers pass short left to M.Williams pushed ob at BAL 46 for 14 yards (J.Smith). BAL-E.Weddle was injured during the play.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,6,Los Angeles Chargers,1,6,0,Timeout,,00:34 2nd,— Timeout #1 by BAL at 00:34.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,6,Los Angeles Chargers,1,7,0,5 Yard Penalty,1st & 10 at BAL 46,00:34 2nd Shotgun,"— PENALTY on BAL-T.Bowser, Neutral Zone Infraction, 5 yards, enforced at BAL 46 - No Play."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,6,Los Angeles Chargers,1,8,0,3 Yard Pass,1st & 5 at BAL 41,00:34 2nd Shotgun,— P.Rivers pass short left to A.Ekeler pushed ob at BAL 38 for 3 yards (J.Smith) [M.Judon].
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,6,Los Angeles Chargers,1,9,0,3 Yard Pass,2nd & 2 at BAL 38,00:29 2nd Shotgun,— P.Rivers pass short left to A.Ekeler to BAL 35 for 3 yards (T.Jefferson) [M.Judon]. BAL-M.Judon was injured during the play.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,6,Los Angeles Chargers,1,10,0,Timeout,,00:25 2nd,— Timeout #2 by BAL at 00:25.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,6,Los Angeles Chargers,1,11,0,Pass Incomplete,1st & 10 at BAL 35,00:25 2nd Shotgun,— P.Rivers pass incomplete deep left to M.Williams.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,6,Los Angeles Chargers,1,12,0,3 Yard Run,2nd & 10 at BAL 35,00:20 2nd Shotgun,— A.Ekeler right guard to BAL 32 for 3 yards (C.Mosley).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,6,Los Angeles Chargers,1,13,0,Timeout,,00:15 2nd,— Timeout #1 by LAC at 00:15.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,6,Los Angeles Chargers,1,14,0,9 Yard Pass,3rd & 7 at BAL 32,00:15 2nd Shotgun,— P.Rivers pass short left to K.Allen to BAL 23 for 9 yards (M.Humphrey).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,6,Los Angeles Chargers,1,15,0,Timeout,,00:08 2nd,— Timeout #2 by LAC at 00:08.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,6,Los Angeles Chargers,1,16,0,7 Yard Run,1st & 10 at BAL 23,00:08 2nd Shotgun,— A.Ekeler right guard to BAL 16 for 7 yards (T.Jefferson).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,6,Los Angeles Chargers,1,17,0,Timeout,,00:04 2nd,— Timeout #3 by LAC at 00:04.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,2nd Quarter,6,Los Angeles Chargers,1,18,1,Field Goal,2nd & 3 at BAL 16,00:04 2nd Field Goal formation,"— M.Badgley 34 yard field goal is GOOD, Center-M.Windt, Holder-D.Jones."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,1,Los Angeles Chargers,0,1,0,Kickoff from BAL 35,,Kickoff,— J.Tucker kicks 63 yards from BAL 35 to LAC 2. D.King to BAL 26 for 72 yards (A.Averett).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,1,Los Angeles Chargers,0,2,0,Pass Incomplete,1st & 10 at BAL 26,14:48 3rd Shotgun,— P.Rivers pass incomplete short left [M.Judon]. BAL-M.Pierce was injured during the play. Rivers throws ball away.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,1,Los Angeles Chargers,0,3,0,3 Yard Run,2nd & 10 at BAL 26,14:43 3rd,— M.Gordon left guard to BAL 23 for 3 yards (B.Williams).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,1,Los Angeles Chargers,0,4,0,Pass Incomplete,3rd & 7 at BAL 23,13:57 3rd Shotgun,— P.Rivers pass incomplete short left to Ty.Williams (J.Smith) [T.Bowser].
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,1,Los Angeles Chargers,0,5,0,Field Goal No Good,4th & 7 at BAL 23,13:51 3rd Field Goal formation,"— M.Badgley 41 yard field goal is BLOCKED (Z.Smith), Center-M.Windt, Holder-D.Jones."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,2,Baltimore Ravens,0,1,0,2 Yard Run,1st & 10 at BAL 31,13:45 3rd Shotgun,— L.Jackson left end pushed ob at BAL 33 for 2 yards (C.Hayward).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,2,Baltimore Ravens,0,2,0,-3 Yard Sack,2nd & 8 at BAL 33,13:15 3rd Shotgun,— L.Jackson sacked at BAL 30 for -3 yards (Ju.Jones).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,2,Baltimore Ravens,0,3,0,-9 Yard Sack,3rd & 11 at BAL 30,12:32 3rd Shotgun,— L.Jackson sacked at BAL 21 for -9 yards (M.Ingram).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,2,Baltimore Ravens,0,4,0,Punt,4th & 20 at BAL 21,11:54 3rd Punt formation,"— S.Koch punts 48 yards to LAC 31, Center-M.Cox. D.King to LAC 38 for 7 yards (M.Canady). PENALTY on LAC-J.Richards, Offensive Holding, 10 yards, enforced at LAC 31."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,3,Los Angeles Chargers,0,1,0,6 Yard Run,1st & 10 at LAC 21,11:42 3rd Shotgun,"— A.Ekeler right guard to LAC 27 for 6 yards (P.Onwuasor, C.Mosley)."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,3,Los Angeles Chargers,0,2,0,-5 Yard Penalty,2nd & 4 at LAC 27,11:03 3rd Shotgun,"— PENALTY on LAC-M.Williams, False Start, 5 yards, enforced at LAC 27 - No Play."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,3,Los Angeles Chargers,0,3,0,Fumble,2nd & 9 at LAC 22,10:37 3rd Shotgun,"— P.Rivers pass short middle to V.Green to LAC 30 for 8 yards (P.Onwuasor, T.Jefferson). FUMBLES (P.Onwuasor), RECOVERED by BAL-C.Mosley at LAC 33. C.Mosley pushed ob at LAC 21 for 12 yards (M.Schofield)."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,4,Baltimore Ravens,1,1,0,3 Yard Run,1st & 10 at LAC 21,10:26 3rd Shotgun,— G.Edwards right guard to LAC 18 for 3 yards (R.Jenkins).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,4,Baltimore Ravens,1,2,0,3 Yard Run,2nd & 7 at LAC 18,09:52 3rd Shotgun,— G.Edwards right guard to LAC 15 for 3 yards (M.Ingram; A.Phillips).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,4,Baltimore Ravens,1,3,0,0 Yard Run,3rd & 4 at LAC 15,09:16 3rd Shotgun,— L.Jackson up the middle to LAC 15 for no gain (M.Ingram).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,4,Baltimore Ravens,1,4,1,Field Goal,4th & 4 at LAC 15,08:34 3rd Field Goal formation,"— J.Tucker 33 yard field goal is GOOD, Center-M.Cox, Holder-S.Koch."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,5,Los Angeles Chargers,0,1,0,Kickoff from BAL 35,,Kickoff,"— J.Tucker kicks 65 yards from BAL 35 to end zone, Touchback."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,5,Los Angeles Chargers,0,2,0,8 Yard Run,1st & 10 at LAC 25,08:30 3rd,— M.Gordon left tackle pushed ob at LAC 33 for 8 yards (P.Onwuasor).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,5,Los Angeles Chargers,0,3,0,-4 Yard Run,2nd & 2 at LAC 33,07:55 3rd Shotgun,— M.Gordon left tackle to LAC 29 for -4 yards (P.Onwuasor).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,5,Los Angeles Chargers,0,4,0,Pass Incomplete,3rd & 6 at LAC 29,07:11 3rd Shotgun,— P.Rivers pass incomplete deep middle to M.Williams.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,5,Los Angeles Chargers,0,5,0,Punt,4th & 6 at LAC 29,07:06 3rd Punt formation,"— D.Jones punts 11 yards to LAC 40, Center-M.Windt, downed by LAC-K.Emanuel. Partially blocked by Allen"
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,6,Baltimore Ravens,0,1,0,3 Yard Run,1st & 10 at LAC 40,06:54 3rd Shotgun,— G.Edwards right guard to LAC 37 for 3 yards (U.Nwosu).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,6,Baltimore Ravens,0,2,0,-10 Yard Penalty,2nd & 7 at LAC 37,06:18 3rd Shotgun,"— L.Jackson scrambles up the middle to LAC 18 for 19 yards (R.Jenkins). PENALTY on BAL-R.Stanley, Offensive Holding, 10 yards, enforced at LAC 37 - No Play."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,6,Baltimore Ravens,0,3,0,8 Yard Pass,2nd & 17 at LAC 47,05:53 3rd Shotgun,"— L.Jackson pass short middle to M.Williams to LAC 39 for 8 yards (A.Phillips, J.Addae)."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,6,Baltimore Ravens,0,4,0,7 Yard Run,3rd & 9 at LAC 39,05:12 3rd Shotgun,— L.Jackson scrambles left tackle pushed ob at LAC 32 for 7 yards (D.James).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,3rd Quarter,6,Baltimore Ravens,0,5,0,Field Goal No Good,4th & 2 at LAC 32,04:28 3rd Field Goal formation,"— J.Tucker 50 yard field goal is No Good, Wide Right, Center-M.Cox, Holder-S.Koch."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,1,Los Angeles Chargers,1,1,0,1 Yard Run,1st & 10 at LAC 40,04:22 3rd Shotgun,— M.Gordon left end pushed ob at LAC 41 for 1 yard (Z.Smith).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,1,Los Angeles Chargers,1,2,0,Pass Incomplete,2nd & 9 at LAC 41,03:43 3rd Shotgun,— P.Rivers pass incomplete short right [M.Judon]. Rivers throws ball away to avoid sack.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,1,Los Angeles Chargers,1,3,0,12 Yard Pass,3rd & 9 at LAC 41,03:36 3rd Shotgun,— P.Rivers pass short middle to A.Gates ran ob at BAL 47 for 12 yards.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,1,Los Angeles Chargers,1,4,0,4 Yard Pass,1st & 10 at BAL 47,02:54 3rd Shotgun,— P.Rivers pass short middle to T.Benjamin pushed ob at BAL 43 for 4 yards (E.Weddle). Shovel pass
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,1,Los Angeles Chargers,1,5,0,28 Yard Pass,2nd & 6 at BAL 43,02:16 3rd Shotgun,— P.Rivers pass deep middle to M.Williams to BAL 15 for 28 yards (J.Smith).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,1,Los Angeles Chargers,1,6,0,14 Yard Run,1st & 10 at BAL 15,01:35 3rd,— M.Gordon left tackle pushed ob at BAL 1 for 14 yards (E.Weddle).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,1,Los Angeles Chargers,1,7,0,-1 Yard Run,1st & 1 at BAL 1,00:49 3rd,— M.Gordon left guard to BAL 2 for -1 yards (T.Jefferson).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,1,Los Angeles Chargers,1,8,0,1 Yard Pass,2nd & 2 at BAL 2,00:11 3rd,"— P.Rivers pass short right to D.Watt to BAL 1 for 1 yard (C.Board). Los Angeles Chargers challenged the runner was down by contact ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)"
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,1,Los Angeles Chargers,1,9,0,0 Yard Run,3rd & 1 at BAL 1,15:00 4th,"— T.Scott reported in as eligible. M.Gordon up the middle for 1 yard, TOUCHDOWN. The Replay Official reviewed the runner broke the plane ruling, and the play was REVERSED. T.Scott and T.Scott reported in as eligible. M.Gordon up the middle to BAL 1 for no gain (E.Weddle)."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,1,Los Angeles Chargers,1,10,1,Touchdown,4th & 1 at BAL 1,14:58 4th,"— T.Scott reported in as eligible. M.Gordon left guard for 1 yard, TOUCHDOWN."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,1,Los Angeles Chargers,1,11,0,2 Point Conversion,,14:44 4th,— TWO-POINT CONVERSION ATTEMPT. P.Rivers pass to M.Williams is complete. ATTEMPT SUCCEEDS.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,2,Baltimore Ravens,0,1,0,Kickoff from LAC 35,,Kickoff,— M.Badgley kicks 61 yards from LAC 35 to BAL 4. T.Montgomery to BAL 23 for 19 yards (U.Nwosu).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,2,Baltimore Ravens,0,2,0,-1 Yard Sack,1st & 10 at BAL 23,14:38 4th Shotgun,— L.Jackson sacked at BAL 22 for -1 yards (D.King).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,2,Baltimore Ravens,0,3,0,Pass Incomplete,2nd & 11 at BAL 22,14:01 4th Shotgun,— L.Jackson pass incomplete deep left to W.Snead IV.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,2,Baltimore Ravens,0,4,0,-8 Yard Sack,3rd & 11 at BAL 22,13:52 4th Shotgun,— L.Jackson sacked at BAL 14 for -8 yards (M.Ingram).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,2,Baltimore Ravens,0,5,0,Punt,4th & 19 at BAL 14,13:16 4th Punt formation,"— S.Koch punts 31 yards to BAL 45, Center-M.Cox, out of bounds."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,3,Los Angeles Chargers,1,1,0,2 Yard Run,1st & 10 at BAL 45,13:09 4th,— A.Ekeler left guard to BAL 43 for 2 yards (C.Wormley).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,3,Los Angeles Chargers,1,2,0,0 Yard Run,2nd & 8 at BAL 43,12:28 4th,— A.Ekeler left guard to BAL 43 for no gain (M.Judon; B.Urban).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,3,Los Angeles Chargers,1,3,0,14 Yard Run,3rd & 8 at BAL 43,11:45 4th Shotgun,"— P.Rivers scrambles up the middle to BAL 34 for 9 yards (C.Mosley). PENALTY on BAL-M.Humphrey, Illegal Use of Hands, 5 yards, enforced at BAL 34."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,3,Los Angeles Chargers,1,4,0,1 Yard Run,1st & 10 at BAL 29,11:10 4th,— T.Scott reported in as eligible. J.Jackson right guard to BAL 28 for 1 yard (E.Weddle).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,3,Los Angeles Chargers,1,5,0,4 Yard Run,2nd & 9 at BAL 28,10:24 4th Shotgun,"— J.Jackson left guard to BAL 24 for 4 yards (C.Wormley, C.Mosley)."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,3,Los Angeles Chargers,1,6,0,-5 Yard Penalty,3rd & 5 at BAL 24,09:43 4th Shotgun,"— PENALTY on LAC-M.Pouncey, False Start, 5 yards, enforced at BAL 24 - No Play."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,3,Los Angeles Chargers,1,7,0,Pass Incomplete,3rd & 10 at BAL 29,09:19 4th Shotgun,— P.Rivers pass incomplete deep middle to Ty.Williams.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,3,Los Angeles Chargers,1,8,1,Field Goal,4th & 10 at BAL 29,09:14 4th Field Goal formation,"— M.Badgley 47 yard field goal is GOOD, Center-M.Windt, Holder-D.Jones."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,4,Baltimore Ravens,1,1,0,Kickoff from LAC 35,,Kickoff,— M.Badgley kicks 58 yards from LAC 35 to BAL 7. T.Montgomery to BAL 25 for 18 yards (N.Dzubnar).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,4,Baltimore Ravens,1,2,0,9 Yard Pass,1st & 10 at BAL 25,09:02 4th Shotgun,— L.Jackson pass short left to W.Snead IV pushed ob at BAL 34 for 9 yards (C.Hayward).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,4,Baltimore Ravens,1,3,0,Pass Incomplete,2nd & 1 at BAL 34,"08:36 4th No Huddle, Shotgun",— L.Jackson pass incomplete short middle to M.Andrews (A.Phillips).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,4,Baltimore Ravens,1,4,0,7 Yard Run,3rd & 1 at BAL 34,08:32 4th Shotgun,— L.Jackson scrambles up the middle to BAL 41 for 7 yards (D.King).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,4,Baltimore Ravens,1,5,0,9 Yard Pass,1st & 10 at BAL 41,"08:04 4th No Huddle, Shotgun",— L.Jackson pass short middle to J.Brown to 50 for 9 yards (C.Hayward; J.Addae).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,4,Baltimore Ravens,1,6,0,-10 Yard Sack,2nd & 1 at 50,"07:39 4th No Huddle, Shotgun",— L.Jackson sacked at BAL 40 for -10 yards (I.Rochell).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,4,Baltimore Ravens,1,7,0,Pass Incomplete,3rd & 11 at BAL 40,"07:07 4th No Huddle, Shotgun",— L.Jackson pass incomplete short middle to H.Hurst (A.Phillips).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,4,Baltimore Ravens,1,8,0,29 Yard Pass,4th & 11 at BAL 40,07:02 4th Shotgun,"— L.Jackson pass deep middle to W.Snead IV to LAC 31 for 29 yards (R.Jenkins). Penalty on LAC-J.Bosa, Defensive Offside, declined."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,4,Baltimore Ravens,1,9,1,Touchdown,1st & 10 at LAC 31,06:40 4th Shotgun,"— L.Jackson pass deep right to M.Crabtree for 31 yards, TOUCHDOWN."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,4,Baltimore Ravens,1,10,1,Extra Point,,06:33 4th,"— J.Tucker extra point is GOOD, Center-M.Cox, Holder-S.Koch."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,5,Los Angeles Chargers,0,1,0,Kickoff from BAL 35,,Kickoff,"— J.Tucker kicks onside 10 yards from BAL 35 to BAL 45. R.Jenkins (didn't try to advance) to BAL 45 for no gain. PENALTY on LAC-K.Emanuel, Illegal Formation, 5 yards, enforced at BAL 35 - No Play."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,5,Los Angeles Chargers,0,2,0,Kickoff from BAL 40,,Kickoff,— J.Tucker kicks onside 11 yards from BAL 40 to LAC 49. K.Allen (didn't try to advance) ran ob at 50 for 1 yard.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,5,Los Angeles Chargers,0,3,0,6 Yard Run,1st & 10 at 50,06:29 4th,— A.Ekeler left tackle to BAL 44 for 6 yards (C.Mosley).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,5,Los Angeles Chargers,0,4,0,0 Yard Run,2nd & 4 at BAL 44,05:43 4th,"— A.Ekeler left guard to BAL 44 for no gain (E.Weddle, B.Williams)."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,5,Los Angeles Chargers,0,5,0,-1 Yard Pass,3rd & 4 at BAL 44,05:01 4th,— P.Rivers pass short right to K.Allen to BAL 45 for -1 yards (E.Weddle).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,5,Los Angeles Chargers,0,6,0,Timeout,,04:55 4th,— Timeout #1 by BAL at 04:55.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,5,Los Angeles Chargers,0,7,0,Punt,4th & 5 at BAL 45,04:55 4th Punt formation,"— D.Jones punts 45 yards to end zone, Center-M.Windt, Touchback."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,6,Baltimore Ravens,1,1,0,Pass Incomplete,1st & 10 at BAL 20,04:47 4th Shotgun,— L.Jackson pass incomplete short right to M.Crabtree [J.Bosa].
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,6,Baltimore Ravens,1,2,0,4 Yard Pass,2nd & 10 at BAL 20,04:43 4th Shotgun,"— L.Jackson pass short left to K.Dixon to BAL 24 for 4 yards (R.Jenkins, Ju.Jones)."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,6,Baltimore Ravens,1,3,0,10 Yard Pass,3rd & 6 at BAL 24,"04:16 4th No Huddle, Shotgun",— L.Jackson pass short middle to K.Dixon to BAL 34 for 10 yards (C.Hayward).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,6,Baltimore Ravens,1,4,0,9 Yard Pass,1st & 10 at BAL 34,03:49 4th Shotgun,— L.Jackson pass short left to M.Andrews ran ob at BAL 43 for 9 yards.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,6,Baltimore Ravens,1,5,0,Pass Incomplete,2nd & 1 at BAL 43,03:45 4th Shotgun,— L.Jackson pass incomplete short left to M.Andrews.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,6,Baltimore Ravens,1,6,0,7 Yard Run,3rd & 1 at BAL 43,03:41 4th Shotgun,— L.Jackson up the middle to 50 for 7 yards (D.James).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,6,Baltimore Ravens,1,7,0,Pass Incomplete,1st & 10 at 50,03:22 4th,— L.Jackson spiked the ball to stop the clock.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,6,Baltimore Ravens,1,8,0,39 Yard Pass,2nd & 10 at 50,03:21 4th Shotgun,— L.Jackson pass short middle to K.Dixon to LAC 11 for 39 yards (D.James).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,6,Baltimore Ravens,1,9,0,-5 Yard Penalty,1st & 10 at LAC 11,"02:43 4th No Huddle, Shotgun","— PENALTY on BAL-R.Stanley, False Start, 5 yards, enforced at LAC 11 - No Play."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,6,Baltimore Ravens,1,10,0,Pass Incomplete,1st & 15 at LAC 16,02:41 4th Shotgun,— L.Jackson pass incomplete short middle to J.Brown (M.Davis).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,6,Baltimore Ravens,1,11,0,Pass Incomplete,2nd & 15 at LAC 16,02:38 4th Shotgun,— L.Jackson pass incomplete deep middle to M.Andrews (M.Davis).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,6,Baltimore Ravens,1,12,0,9 Yard Pass,3rd & 15 at LAC 16,02:32 4th Shotgun,— L.Jackson pass short middle to M.Andrews to LAC 7 for 9 yards (D.James).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,6,Baltimore Ravens,1,13,1,Touchdown,4th & 6 at LAC 7,02:06 4th Shotgun,"— L.Jackson pass short right to M.Crabtree to LAC 1 for 6 yards (J.Addae). Baltimore challenged the short of the goal line ruling, and the play was REVERSED. (Shotgun) L.Jackson pass short right to M.Crabtree for 7 yards, TOUCHDOWN."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,6,Baltimore Ravens,1,14,1,Extra Point,,01:59 4th,"— J.Tucker extra point is GOOD, Center-M.Cox, Holder-S.Koch."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,7,Los Angeles Chargers,0,1,0,Kickoff from BAL 35,,Kickoff,— J.Tucker kicks 49 yards from BAL 35 to LAC 16. T.Benjamin to LAC 22 for 6 yards.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,7,Los Angeles Chargers,0,2,0,2 Yard Run,1st & 10 at LAC 22,01:56 4th,— T.Scott reported in as eligible. M.Gordon left guard to LAC 24 for 2 yards (C.Mosley).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,7,Los Angeles Chargers,0,3,0,Timeout,,01:51 4th,— Timeout #2 by BAL at 01:51.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,7,Los Angeles Chargers,0,4,0,2 Yard Run,2nd & 8 at LAC 24,01:51 4th,— M.Gordon right guard to LAC 26 for 2 yards (E.Weddle).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,7,Los Angeles Chargers,0,5,0,Timeout,,01:47 4th,— Timeout #3 by BAL at 01:47.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,7,Los Angeles Chargers,0,6,0,-10 Yard Penalty,3rd & 6 at LAC 26,01:47 4th Shotgun,"— M.Gordon left end to LAC 37 for 11 yards (M.Judon). PENALTY on LAC-R.Okung, Offensive Holding, 10 yards, enforced at LAC 26 - No Play."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,7,Los Angeles Chargers,0,7,0,9 Yard Pass,3rd & 16 at LAC 16,01:41 4th Shotgun,— P.Rivers pass short middle to A.Gates to LAC 25 for 9 yards (T.Jefferson).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,7,Los Angeles Chargers,0,8,0,Timeout,,00:54 4th,— Timeout #2 by LAC at 00:54.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,7,Los Angeles Chargers,0,9,0,Punt,4th & 7 at LAC 25,00:54 4th Punt formation,"— D.Jones punts 41 yards to BAL 34, Center-M.Windt, out of bounds."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,8,Baltimore Ravens,0,1,0,13 Yard Pass,1st & 10 at BAL 34,00:45 4th Shotgun,— L.Jackson pass short middle to M.Andrews to BAL 47 for 13 yards (J.Addae).
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,8,Baltimore Ravens,0,2,0,Pass Incomplete,1st & 10 at BAL 47,00:29 4th,— L.Jackson spiked the ball to stop the clock.
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,8,Baltimore Ravens,0,3,0,Fumble,2nd & 10 at BAL 47,00:28 4th Shotgun,"— L.Jackson sacked at BAL 38 for -9 yards (U.Nwosu). FUMBLES (U.Nwosu), RECOVERED by LAC-M.Ingram at BAL 29. M.Ingram to BAL 29 for no gain (M.Yanda)."
+2018,Wild Card,SUN,01/06,Chargers,Ravens,4th Quarter,9,Los Angeles Chargers,0,1,0,-1 Yard Run,1st & 10 at BAL 29,00:19 4th,— P.Rivers kneels to BAL 30 for -1 yards.
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,1,Philadelphia Eagles,1,1,0,Kickoff from CHI 35,,Kickoff,"— C.Parkey kicks 65 yards from CHI 35 to end zone, Touchback."
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,1,Philadelphia Eagles,1,2,0,2 Yard Run,1st & 10 at PHI 25,15:00 1st Shotgun,— W.Smallwood right guard to PHI 27 for 2 yards (R.Smith).
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,1,Philadelphia Eagles,1,3,0,22 Yard Pass,2nd & 8 at PHI 27,14:23 1st,— N.Foles pass short right to W.Smallwood to PHI 49 for 22 yards (K.Fuller).
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,1,Philadelphia Eagles,1,4,0,17 Yard Pass,1st & 10 at PHI 49,"13:43 1st No Huddle, Shotgun",— N.Foles pass short middle to Z.Ertz to CHI 34 for 17 yards (K.Fuller).
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,1,Philadelphia Eagles,1,5,0,Pass Incomplete,1st & 10 at CHI 34,"13:12 1st No Huddle, Shotgun",— N.Foles pass incomplete short right to N.Agholor.
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,1,Philadelphia Eagles,1,6,0,2 Yard Run,2nd & 10 at CHI 34,"13:08 1st No Huddle, Shotgun",— J.Adams right guard to CHI 32 for 2 yards (K.Mack).
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,1,Philadelphia Eagles,1,7,0,12 Yard Pass,3rd & 8 at CHI 32,12:24 1st Shotgun,— N.Foles pass short middle to A.Jeffery to CHI 20 for 12 yards (K.Fuller).
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,1,Philadelphia Eagles,1,8,0,-3 Yard Run,1st & 10 at CHI 20,11:46 1st Shotgun,— D.Sproles left guard to CHI 23 for -3 yards (K.Mack).
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,1,Philadelphia Eagles,1,9,0,6 Yard Pass,2nd & 13 at CHI 23,11:01 1st Shotgun,— N.Foles pass short middle to Z.Ertz to CHI 17 for 6 yards (R.Smith).
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,1,Philadelphia Eagles,1,10,0,-8 Yard Sack,3rd & 7 at CHI 17,10:17 1st Shotgun,— N.Foles sacked at CHI 25 for -8 yards (L.Floyd).
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,1,Philadelphia Eagles,1,11,1,Field Goal,4th & 15 at CHI 25,09:37 1st,"— J.Elliott 43 yard field goal is GOOD, Center-R.Lovato, Holder-C.Johnston."
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,2,Chicago Bears,0,1,0,Kickoff from PHI 35,,Kickoff,— J.Elliott kicks 60 yards from PHI 35 to CHI 5. J.Bellamy to CHI 21 for 16 yards (De.Hall; K.Grugier-Hill).
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,2,Chicago Bears,0,2,0,6 Yard Run,1st & 10 at CHI 21,09:24 1st,— J.Howard right guard to CHI 27 for 6 yards (N.Bradham).
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,2,Chicago Bears,0,3,0,5 Yard Pass,2nd & 4 at CHI 27,08:49 1st Shotgun,— M.Trubisky pass short middle to T.Gabriel to CHI 32 for 5 yards (R.Douglas).
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,2,Chicago Bears,0,4,0,6 Yard Pass,1st & 10 at CHI 32,08:09 1st Shotgun,— M.Trubisky pass short middle to B.Braunecker to CHI 38 for 6 yards (C.Graham).
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,2,Chicago Bears,0,5,0,-1 Yard Run,2nd & 4 at CHI 38,07:32 1st Shotgun,— T.Mizzell right tackle to CHI 37 for -1 yards (M.Bennett).
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,2,Chicago Bears,0,6,0,8 Yard Pass,3rd & 5 at CHI 37,06:54 1st Shotgun,— M.Trubisky pass short right to A.Robinson II to CHI 45 for 8 yards (A.Maddox).
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,2,Chicago Bears,0,7,0,0 Yard Run,1st & 10 at CHI 45,06:13 1st,— B.Sowell reported in as eligible. J.Howard right tackle to CHI 45 for no gain (N.Bradham).
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,2,Chicago Bears,0,8,0,Pass Incomplete,2nd & 10 at CHI 45,05:32 1st Shotgun,— M.Trubisky pass incomplete deep left to T.Cohen.
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,2,Chicago Bears,0,9,0,Pass Incomplete,3rd & 10 at CHI 45,05:26 1st Shotgun,— M.Trubisky pass incomplete short right to J.Howard (A.Maddox).
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,2,Chicago Bears,0,10,0,Punt,4th & 5 at 50,05:10 1st Punt formation,"— P.O'Donnell punts 49 yards to PHI 1, Center-P.Scales, out of bounds."
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,3,Philadelphia Eagles,0,1,0,4 Yard Run,1st & 10 at PHI 1,05:01 1st Shotgun,— W.Smallwood left tackle to PHI 5 for 4 yards (D.Bush).
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,3,Philadelphia Eagles,0,2,0,Pass Incomplete,2nd & 6 at PHI 5,04:20 1st Shotgun,— N.Foles pass incomplete short middle to Z.Ertz.
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,3,Philadelphia Eagles,0,3,0,-2 Yard Pass,3rd & 6 at PHI 5,04:16 1st Shotgun,— N.Foles pass short right to W.Smallwood to PHI 3 for -2 yards (D.Trevathan).
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,3,Philadelphia Eagles,0,4,0,Punt,4th & 8 at PHI 3,03:37 1st Punt formation,"— C.Johnston punts 45 yards to PHI 48, Center-R.Lovato, fair catch by T.Cohen."
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,4,Chicago Bears,0,1,0,Pass Incomplete,1st & 10 at PHI 48,03:29 1st Shotgun,— M.Trubisky pass incomplete short middle to T.Mizzell (N.Bradham).
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,4,Chicago Bears,0,2,0,6 Yard Run,2nd & 10 at PHI 48,03:25 1st,— J.Howard left guard to PHI 42 for 6 yards (N.Bradham).
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,4,Chicago Bears,0,3,0,Pass Incomplete,3rd & 4 at PHI 42,02:46 1st Shotgun,— M.Trubisky pass incomplete short middle to T.Gabriel (N.Bradham).
+2018,Wild Card,SUN,01/06,Eagles,Bears,1st Quarter,4,Chicago Bears,0,4,0,Punt,4th & 4 at PHI 42,02:41 1st Punt formation,"— P.O'Donnell punts 35 yards to PHI 7, Center-P.Scales, downed by CHI-T.Mizzell."
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,1,Philadelphia Eagles,0,1,0,1 Yard Run,1st & 10 at PHI 7,02:28 1st,— D.Sproles right tackle to PHI 8 for 1 yard (D.Trevathan).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,1,Philadelphia Eagles,0,2,0,Pass Incomplete,2nd & 9 at PHI 8,01:46 1st Shotgun,— N.Foles pass incomplete short left to A.Jeffery.
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,1,Philadelphia Eagles,0,3,0,10 Yard Run,3rd & 9 at PHI 8,01:39 1st Shotgun,— D.Sproles left guard to PHI 18 for 10 yards (D.Bush).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,1,Philadelphia Eagles,0,4,0,-1 Yard Run,1st & 10 at PHI 18,01:01 1st,— W.Smallwood right end to PHI 17 for -1 yards (A.Hicks).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,1,Philadelphia Eagles,0,5,0,13 Yard Pass,2nd & 11 at PHI 17,00:19 1st Shotgun,— N.Foles pass short right to A.Jeffery pushed ob at PHI 30 for 13 yards (K.Fuller).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,1,Philadelphia Eagles,0,6,0,30 Yard Pass,1st & 10 at PHI 30,15:00 2nd,— N.Foles pass deep right to A.Jeffery ran ob at CHI 40 for 30 yards.
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,1,Philadelphia Eagles,0,7,0,Interception,1st & 10 at CHI 40,14:25 2nd Shotgun,— N.Foles pass short middle intended for W.Smallwood INTERCEPTED by R.Smith at CHI 35. R.Smith to CHI 35 for no gain (W.Smallwood).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,2,Chicago Bears,1,1,0,-1 Yard Run,1st & 10 at CHI 35,14:21 2nd Shotgun,— M.Trubisky left tackle to CHI 34 for -1 yards (N.Bradham).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,2,Chicago Bears,1,2,0,6 Yard Pass,2nd & 11 at CHI 34,13:43 2nd Shotgun,— M.Trubisky pass short left to A.Shaheen to CHI 40 for 6 yards (M.Jenkins).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,2,Chicago Bears,1,3,0,17 Yard Pass,3rd & 5 at CHI 40,12:58 2nd Shotgun,"— M.Trubisky pass short right to A.Miller to CHI 42 for 2 yards (C.LeBlanc). PENALTY on PHI-M.Bennett, Unnecessary Roughness, 15 yards, enforced at CHI 42."
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,2,Chicago Bears,1,4,0,19 Yard Pass,1st & 10 at PHI 43,12:26 2nd Shotgun,— M.Trubisky pass deep middle to T.Cohen to PHI 24 for 19 yards (R.Douglas).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,2,Chicago Bears,1,5,0,Timeout,,11:47 2nd,— Timeout #1 by CHI at 11:47.
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,2,Chicago Bears,1,6,0,0 Yard Run,1st & 10 at PHI 24,11:47 2nd Shotgun,— T.Cohen left end to PHI 24 for no gain (R.Douglas).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,2,Chicago Bears,1,7,0,0 Yard Pass,2nd & 10 at PHI 24,11:06 2nd,— M.Trubisky pass short left to A.Robinson II to PHI 24 for no gain (M.Jenkins).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,2,Chicago Bears,1,8,0,6 Yard Run,3rd & 10 at PHI 24,10:19 2nd Shotgun,— M.Trubisky scrambles left end ran ob at PHI 18 for 6 yards (M.Jenkins). CHI-M.Trubisky was injured during the play. His return is Questionable.
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,2,Chicago Bears,1,9,1,Field Goal,4th & 4 at PHI 18,09:42 2nd,"— C.Parkey 36 yard field goal is GOOD, Center-P.Scales, Holder-P.O'Donnell."
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,3,Philadelphia Eagles,0,1,0,Kickoff from CHI 35,,Kickoff,"— C.Parkey kicks 65 yards from CHI 35 to end zone, Touchback."
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,3,Philadelphia Eagles,0,2,0,10 Yard Run,1st & 10 at PHI 25,09:38 2nd,— W.Smallwood left guard to PHI 35 for 10 yards (A.Amos).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,3,Philadelphia Eagles,0,3,0,0 Yard Run,1st & 10 at PHI 35,09:07 2nd,— W.Smallwood right tackle to PHI 35 for no gain (E.Goldman; L.Floyd).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,3,Philadelphia Eagles,0,4,0,11 Yard Pass,2nd & 10 at PHI 35,08:25 2nd Shotgun,— N.Foles pass short right to N.Agholor ran ob at PHI 46 for 11 yards.
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,3,Philadelphia Eagles,0,5,0,5 Yard Run,1st & 10 at PHI 46,07:57 2nd,— D.Sproles left tackle to CHI 49 for 5 yards (R.Smith).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,3,Philadelphia Eagles,0,6,0,-1 Yard Run,2nd & 5 at CHI 49,07:16 2nd Shotgun,— D.Sproles left end to 50 for -1 yards (S.McManis).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,3,Philadelphia Eagles,0,7,0,28 Yard Pass,3rd & 6 at 50,06:40 2nd Shotgun,— N.Foles pass deep middle to G.Tate to CHI 22 for 28 yards (A.Amos). CHI-S.McManis was injured during the play. His return is Questionable.
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,3,Philadelphia Eagles,0,8,0,1 Yard Run,1st & 10 at CHI 22,06:02 2nd Shotgun,— D.Sproles right guard to CHI 21 for 1 yard (E.Goldman).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,3,Philadelphia Eagles,0,9,0,Interception,2nd & 9 at CHI 21,05:27 2nd Shotgun,— N.Foles pass deep right intended for N.Agholor INTERCEPTED by A.Amos [A.Hicks] at CHI -3. Touchback.
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,4,Chicago Bears,0,1,0,1 Yard Run,1st & 10 at CHI 20,05:18 2nd,— J.Howard left end to CHI 21 for 1 yard (N.Bradham).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,4,Chicago Bears,0,2,0,Pass Incomplete,2nd & 9 at CHI 21,04:36 2nd Shotgun,"— M.Trubisky pass short right intended for A.Robinson II INTERCEPTED by A.Maddox at CHI 28. A.Maddox ran ob at CHI 28 for no gain. The Replay Official reviewed the interception ruling, and the play was REVERSED. (Shotgun) M.Trubisky pass incomplete short right to A.Robinson II (A.Maddox)."
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,4,Chicago Bears,0,3,0,Pass Incomplete,3rd & 9 at CHI 21,04:31 2nd Shotgun,— M.Trubisky pass incomplete deep right to A.Robinson II (A.Maddox).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,4,Chicago Bears,0,4,0,Punt,4th & 9 at CHI 21,04:21 2nd Punt formation,"— P.O'Donnell punts 46 yards to PHI 33, Center-P.Scales. D.Sproles to PHI 32 for -1 yards (N.Kwiatkoski)."
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,5,Philadelphia Eagles,0,1,0,-2 Yard Run,1st & 10 at PHI 32,04:10 2nd,— W.Smallwood left tackle to PHI 30 for -2 yards (R.Smith; A.Hicks).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,5,Philadelphia Eagles,0,2,0,Pass Incomplete,2nd & 12 at PHI 30,03:26 2nd Shotgun,— N.Foles pass incomplete short middle to D.Sproles (L.Floyd).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,5,Philadelphia Eagles,0,3,0,6 Yard Pass,3rd & 12 at PHI 30,03:22 2nd Shotgun,— N.Foles pass short middle to G.Tate to PHI 36 for 6 yards (S.McManis).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,5,Philadelphia Eagles,0,4,0,Punt,4th & 6 at PHI 36,02:45 2nd Punt formation,"— C.Johnston punts 53 yards to CHI 11, Center-R.Lovato, out of bounds."
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,6,Chicago Bears,1,1,0,1 Yard Pass,1st & 10 at CHI 11,02:38 2nd Shotgun,— M.Trubisky pass short left to T.Gabriel to CHI 12 for 1 yard (R.Douglas).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,6,Chicago Bears,1,2,0,9 Yard Pass,2nd & 9 at CHI 12,02:00 2nd Shotgun,"— M.Trubisky pass short middle to A.Miller to CHI 21 for 9 yards (C.Graham). Penalty on PHI-T.Jernigan, Defensive Offside, declined."
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,6,Chicago Bears,1,3,0,23 Yard Pass,1st & 10 at CHI 21,01:52 2nd Shotgun,— M.Trubisky pass deep middle to A.Miller to CHI 44 for 23 yards (T.Sullivan).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,6,Chicago Bears,1,4,0,7 Yard Pass,1st & 10 at CHI 44,"01:27 2nd No Huddle, Shotgun",— M.Trubisky pass short left to A.Robinson II to PHI 49 for 7 yards (R.Douglas).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,6,Chicago Bears,1,5,0,Pass Incomplete,2nd & 3 at PHI 49,"01:07 2nd No Huddle, Shotgun",— M.Trubisky pass incomplete deep middle to A.Shaheen (T.Sullivan).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,6,Chicago Bears,1,6,0,7 Yard Run,3rd & 3 at PHI 49,01:04 2nd Shotgun,"— B.Cunningham right guard to PHI 47 for 2 yards (B.Graham). PENALTY on PHI-N.Bradham, Illegal Use of Hands, 5 yards, enforced at PHI 47."
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,6,Chicago Bears,1,7,0,7 Yard Pass,1st & 10 at PHI 42,00:59 2nd Shotgun,— M.Trubisky pass short left to A.Robinson II to PHI 35 for 7 yards (C.Graham).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,6,Chicago Bears,1,8,0,Pass Incomplete,2nd & 3 at PHI 35,"00:36 2nd No Huddle, Shotgun","— M.Trubisky pass incomplete deep right to A.Miller (C.LeBlanc). The Replay Official reviewed the incomplete pass ruling, and the play was Upheld. The ruling on the field stands."
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,6,Chicago Bears,1,9,0,12 Yard Pass,3rd & 3 at PHI 35,00:26 2nd Shotgun,— M.Trubisky pass short middle to T.Gabriel to PHI 23 for 12 yards (R.Douglas).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,6,Chicago Bears,1,10,0,Timeout,,00:21 2nd,— Timeout #2 by CHI at 00:21.
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,6,Chicago Bears,1,11,0,Pass Incomplete,1st & 10 at PHI 23,00:21 2nd Shotgun,— M.Trubisky pass incomplete deep middle to T.Gabriel (T.Sullivan).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,6,Chicago Bears,1,12,0,Pass Incomplete,2nd & 10 at PHI 23,00:13 2nd Shotgun,— M.Trubisky pass incomplete short middle to T.Cohen.
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,6,Chicago Bears,1,13,0,12 Yard Run,3rd & 10 at PHI 23,00:09 2nd Shotgun,— J.Howard right guard to PHI 11 for 12 yards (T.Sullivan).
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,6,Chicago Bears,1,14,0,Timeout,,00:03 2nd,— Timeout #3 by CHI at 00:03.
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,6,Chicago Bears,1,15,0,Timeout,,00:03 2nd,— Timeout #1 by PHI at 00:03.
+2018,Wild Card,SUN,01/06,Eagles,Bears,2nd Quarter,6,Chicago Bears,1,16,1,Field Goal,1st & 10 at PHI 11,00:03 2nd,"— C.Parkey 29 yard field goal is GOOD, Center-P.Scales, Holder-P.O'Donnell."
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,1,Chicago Bears,0,1,0,Kickoff from PHI 35,,Kickoff,— J.Elliott kicks 62 yards from PHI 35 to CHI 3. J.Bellamy to CHI 17 for 14 yards (De.Hall).
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,1,Chicago Bears,0,2,0,-1 Yard Run,1st & 10 at CHI 17,14:53 3rd,— J.Howard left guard to CHI 16 for -1 yards (F.Cox).
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,1,Chicago Bears,0,3,0,21 Yard Run,2nd & 11 at CHI 16,14:15 3rd Shotgun,— T.Gabriel right end to CHI 37 for 21 yards (R.Douglas).
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,1,Chicago Bears,0,4,0,0 Yard Pass,1st & 10 at CHI 37,13:28 3rd Shotgun,— M.Trubisky pass short middle to A.Shaheen to CHI 37 for no gain (N.Bradham).
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,1,Chicago Bears,0,5,0,9 Yard Pass,2nd & 10 at CHI 37,12:49 3rd Shotgun,— M.Trubisky pass short left to A.Robinson II to CHI 46 for 9 yards (R.Douglas).
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,1,Chicago Bears,0,6,0,5 Yard Run,3rd & 1 at CHI 46,12:05 3rd Shotgun,— J.Howard left guard to PHI 49 for 5 yards (M.Jenkins).
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,1,Chicago Bears,0,7,0,-5 Yard Sack,1st & 10 at PHI 49,11:24 3rd Shotgun,— M.Trubisky sacked at CHI 46 for -5 yards (sack split by T.Jernigan and B.Graham).
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,1,Chicago Bears,0,8,0,9 Yard Pass,2nd & 15 at CHI 46,10:38 3rd Shotgun,— M.Trubisky pass short middle to B.Braunecker to PHI 45 for 9 yards (J.Hicks).
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,1,Chicago Bears,0,9,0,Pass Incomplete,3rd & 6 at PHI 45,09:59 3rd Shotgun,— M.Trubisky pass incomplete short left.
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,1,Chicago Bears,0,10,0,Punt,4th & 6 at PHI 45,09:51 3rd Punt formation,"— P.O'Donnell punts 28 yards to PHI 17, Center-P.Scales, fair catch by D.Sproles."
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,2,Philadelphia Eagles,1,1,0,5 Yard Pass,1st & 10 at PHI 17,09:43 3rd Shotgun,— N.Foles pass short middle to Z.Ertz to PHI 22 for 5 yards (D.Trevathan).
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,2,Philadelphia Eagles,1,2,0,-1 Yard Run,2nd & 5 at PHI 22,09:06 3rd,— D.Sproles left tackle to PHI 21 for -1 yards (E.Goldman).
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,2,Philadelphia Eagles,1,3,0,14 Yard Penalty,3rd & 6 at PHI 21,08:21 3rd Shotgun,"— N.Foles pass incomplete deep left to Z.Ertz. PENALTY on CHI-A.Amos, Unnecessary Roughness, 14 yards, enforced at PHI 21 - No Play."
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,2,Philadelphia Eagles,1,4,0,4 Yard Pass,1st & 10 at PHI 35,08:14 3rd Shotgun,— N.Foles pass short left to D.Sproles pushed ob at PHI 39 for 4 yards (A.Amos).
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,2,Philadelphia Eagles,1,5,0,1 Yard Pass,2nd & 6 at PHI 39,"07:53 3rd No Huddle, Shotgun",— N.Foles pass short middle to G.Tate to PHI 40 for 1 yard (D.Trevathan).
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,2,Philadelphia Eagles,1,6,0,9 Yard Pass,3rd & 5 at PHI 40,07:09 3rd Shotgun,— N.Foles pass short left to G.Tate ran ob at PHI 49 for 9 yards.
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,2,Philadelphia Eagles,1,7,0,5 Yard Penalty,1st & 10 at PHI 49,06:37 3rd,"— PENALTY on CHI, Defensive Too Many Men on Field, 5 yards, enforced at PHI 49 - No Play."
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,2,Philadelphia Eagles,1,8,0,3 Yard Run,1st & 5 at CHI 46,06:15 3rd No Huddle,— D.Sproles left tackle to CHI 43 for 3 yards (R.Smith).
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,2,Philadelphia Eagles,1,9,0,33 Yard Penalty,2nd & 2 at CHI 43,05:32 3rd Shotgun,"— N.Foles pass incomplete deep left to J.Matthews. PENALTY on CHI-P.Amukamara, Defensive Pass Interference, 33 yards, enforced at CHI 43 - No Play."
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,2,Philadelphia Eagles,1,10,1,Touchdown,1st & 10 at CHI 10,05:26 3rd Shotgun,"— N.Foles pass short middle to D.Goedert for 10 yards, TOUCHDOWN."
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,2,Philadelphia Eagles,1,11,1,Extra Point,,05:20 3rd,"— J.Elliott extra point is GOOD, Center-R.Lovato, Holder-C.Johnston."
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,3,Chicago Bears,0,1,0,Kickoff from PHI 35,,Kickoff,"— J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback."
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,3,Chicago Bears,0,2,0,Pass Incomplete,1st & 10 at CHI 25,05:20 3rd Shotgun,— M.Trubisky pass incomplete short middle to T.Gabriel (R.Douglas).
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,3,Chicago Bears,0,3,0,2 Yard Run,2nd & 10 at CHI 25,05:15 3rd Shotgun,"— J.Howard right guard to CHI 27 for 2 yards (M.Bennett, F.Cox)."
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,3,Chicago Bears,0,4,0,7 Yard Pass,3rd & 8 at CHI 27,04:38 3rd Shotgun,— M.Trubisky pass short middle to A.Shaheen to CHI 34 for 7 yards (C.LeBlanc) [C.Long].
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,3,Chicago Bears,0,5,0,Punt,4th & 1 at CHI 34,03:58 3rd Punt formation,"— P.O'Donnell punts 49 yards to PHI 17, Center-P.Scales, out of bounds."
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,4,Philadelphia Eagles,0,1,0,11 Yard Pass,1st & 10 at PHI 17,03:47 3rd Shotgun,— N.Foles pass short right to Z.Ertz pushed ob at PHI 28 for 11 yards (K.Fuller).
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,4,Philadelphia Eagles,0,2,0,10 Yard Pass,1st & 10 at PHI 28,03:13 3rd Shotgun,— N.Foles pass short right to D.Sproles to PHI 38 for 10 yards (R.Smith).
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,4,Philadelphia Eagles,0,3,0,2 Yard Run,1st & 10 at PHI 38,02:25 3rd,— D.Sproles left tackle to PHI 40 for 2 yards (K.Mack).
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,4,Philadelphia Eagles,0,4,0,Pass Incomplete,2nd & 8 at PHI 40,01:52 3rd Shotgun,— N.Foles pass incomplete deep left to A.Jeffery (P.Amukamara).
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,4,Philadelphia Eagles,0,5,0,Pass Incomplete,3rd & 8 at PHI 40,01:46 3rd Shotgun,— N.Foles pass incomplete short middle to G.Tate (A.Amos).
+2018,Wild Card,SUN,01/06,Eagles,Bears,3rd Quarter,4,Philadelphia Eagles,0,6,0,Punt,4th & 8 at PHI 40,01:42 3rd Punt formation,"— C.Johnston punts 38 yards to CHI 22, Center-R.Lovato, fair catch by T.Cohen."
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,1,Chicago Bears,1,1,0,12 Yard Pass,1st & 10 at CHI 22,01:33 3rd Shotgun,— M.Trubisky pass short middle to A.Robinson II to CHI 34 for 12 yards (A.Maddox).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,1,Chicago Bears,1,2,0,45 Yard Pass,1st & 10 at CHI 34,00:58 3rd Shotgun,— M.Trubisky pass deep right to A.Robinson II to PHI 21 for 45 yards (T.Sullivan).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,1,Chicago Bears,1,3,0,Pass Incomplete,1st & 10 at PHI 21,00:14 3rd Shotgun,— M.Trubisky pass incomplete deep right to A.Robinson II.
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,1,Chicago Bears,1,4,0,1 Yard Pass,2nd & 10 at PHI 21,00:09 3rd Shotgun,— M.Trubisky pass short right to T.Cohen to PHI 20 for 1 yard (C.Graham).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,1,Chicago Bears,1,5,0,4 Yard Run,3rd & 9 at PHI 20,15:00 4th Shotgun,— M.Trubisky scrambles left tackle to PHI 16 for 4 yards (M.Jenkins).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,1,Chicago Bears,1,6,1,Field Goal,4th & 5 at PHI 16,14:17 4th,"— C.Parkey 34 yard field goal is GOOD, Center-P.Scales, Holder-P.O'Donnell."
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,2,Philadelphia Eagles,0,1,0,Kickoff from CHI 35,,Kickoff,— C.Parkey kicks 60 yards from CHI 35 to PHI 5. B.Scott to PHI 26 for 21 yards (D.Houston-Carson).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,2,Philadelphia Eagles,0,2,0,1 Yard Pass,1st & 10 at PHI 26,14:06 4th Shotgun,— N.Foles pass short left to A.Jeffery to PHI 27 for 1 yard (L.Floyd).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,2,Philadelphia Eagles,0,3,0,6 Yard Run,2nd & 9 at PHI 27,13:28 4th,— W.Smallwood right guard to PHI 33 for 6 yards (D.Trevathan).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,2,Philadelphia Eagles,0,4,0,2 Yard Run,3rd & 3 at PHI 33,12:43 4th Shotgun,— D.Sproles right guard to PHI 35 for 2 yards (K.Mack).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,2,Philadelphia Eagles,0,5,0,Punt,4th & 1 at PHI 35,12:08 4th Punt formation,"— C.Johnston punts 45 yards to CHI 20, Center-R.Lovato, fair catch by T.Cohen."
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,3,Chicago Bears,1,1,0,-1 Yard Run,1st & 10 at CHI 20,12:00 4th,— T.Gabriel right end to CHI 19 for -1 yards (J.Hicks).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,3,Chicago Bears,1,2,0,Pass Incomplete,2nd & 11 at CHI 19,11:16 4th Shotgun,— M.Trubisky pass incomplete short left to T.Gabriel.
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,3,Chicago Bears,1,3,0,19 Yard Pass,3rd & 11 at CHI 19,11:13 4th Shotgun,— M.Trubisky pass deep middle to T.Gabriel to CHI 38 for 19 yards (C.Graham) [F.Cox].
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,3,Chicago Bears,1,4,0,6 Yard Run,1st & 10 at CHI 38,10:36 4th Shotgun,— J.Howard left guard to CHI 44 for 6 yards (J.Hicks).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,3,Chicago Bears,1,5,0,34 Yard Pass,2nd & 4 at CHI 44,09:54 4th Shotgun,— M.Trubisky pass deep right to J.Bellamy to PHI 22 for 34 yards (A.Maddox).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,3,Chicago Bears,1,6,1,Touchdown,1st & 10 at PHI 22,09:09 4th Shotgun,"— M.Trubisky pass deep right to A.Robinson II for 22 yards, TOUCHDOWN. Penalty on PHI-A.Maddox, Defensive Pass Interference, declined."
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,3,Chicago Bears,1,7,0,2PT Conversion Fails,,09:04 4th,— TWO-POINT CONVERSION ATTEMPT. M.Trubisky pass to T.Gabriel is complete. ATTEMPT FAILS. #52 Mack and #79 Sowell report in as eligble
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,4,Philadelphia Eagles,0,1,0,Kickoff from CHI 35,,Kickoff,— C.Parkey kicks 65 yards from CHI 35 to PHI 0. B.Scott to PHI 14 for 14 yards (J.Bellamy; B.Cunningham).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,4,Philadelphia Eagles,0,2,0,Pass Incomplete,1st & 10 at PHI 14,08:57 4th Shotgun,— N.Foles pass incomplete short right to Z.Ertz [K.Mack].
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,4,Philadelphia Eagles,0,3,0,Pass Incomplete,2nd & 10 at PHI 14,08:52 4th Shotgun,— N.Foles pass incomplete deep middle to G.Tate (S.McManis).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,4,Philadelphia Eagles,0,4,0,13 Yard Pass,3rd & 10 at PHI 14,08:46 4th Shotgun,— N.Foles pass short middle to N.Agholor to PHI 27 for 13 yards (A.Amos).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,4,Philadelphia Eagles,0,5,0,2 Yard Run,1st & 10 at PHI 27,08:07 4th,— D.Sproles right guard to PHI 29 for 2 yards (A.Hicks).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,4,Philadelphia Eagles,0,6,0,Pass Incomplete,2nd & 8 at PHI 29,07:23 4th,— N.Foles pass incomplete deep left to G.Tate.
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,4,Philadelphia Eagles,0,7,0,Pass Incomplete,3rd & 8 at PHI 29,07:15 4th Shotgun,— N.Foles pass incomplete short left to D.Goedert.
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,4,Philadelphia Eagles,0,8,0,Punt,4th & 8 at PHI 29,07:10 4th Punt formation,"— C.Johnston punts 45 yards to CHI 26, Center-R.Lovato, fair catch by T.Cohen."
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,5,Chicago Bears,0,1,0,-2 Yard Run,1st & 10 at CHI 26,07:02 4th,— J.Howard left guard to CHI 24 for -2 yards (N.Bradham).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,5,Chicago Bears,0,2,0,-7 Yard Sack,2nd & 12 at CHI 24,06:22 4th Shotgun,— M.Trubisky sacked at CHI 17 for -7 yards (M.Bennett).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,5,Chicago Bears,0,3,0,7 Yard Pass,3rd & 19 at CHI 17,05:38 4th Shotgun,— M.Trubisky pass short middle to T.Cohen pushed ob at CHI 24 for 7 yards (C.LeBlanc).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,5,Chicago Bears,0,4,0,Punt,4th & 12 at CHI 24,04:57 4th Punt formation,"— P.O'Donnell punts 36 yards to PHI 40, Center-P.Scales, out of bounds."
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,6,Philadelphia Eagles,1,1,0,15 Yard Pass,1st & 10 at PHI 40,04:48 4th Shotgun,— N.Foles pass short middle to A.Jeffery to CHI 45 for 15 yards (D.Trevathan).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,6,Philadelphia Eagles,1,2,0,Pass Incomplete,1st & 10 at CHI 45,04:05 4th Shotgun,— N.Foles pass incomplete short right to D.Goedert (S.McManis).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,6,Philadelphia Eagles,1,3,0,10 Yard Pass,2nd & 10 at CHI 45,04:00 4th Shotgun,— N.Foles pass short middle to D.Goedert to CHI 35 for 10 yards (D.Bush).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,6,Philadelphia Eagles,1,4,0,8 Yard Pass,1st & 10 at CHI 35,03:20 4th Shotgun,— N.Foles pass short right to N.Agholor pushed ob at CHI 27 for 8 yards (R.Smith).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,6,Philadelphia Eagles,1,5,0,13 Yard Pass,2nd & 2 at CHI 27,03:13 4th Shotgun,— N.Foles pass short middle to Z.Ertz to CHI 14 for 13 yards (A.Amos; S.McManis) [K.Mack].
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,6,Philadelphia Eagles,1,6,0,1 Yard Run,1st & 10 at CHI 14,02:35 4th Shotgun,— W.Smallwood left guard to CHI 13 for 1 yard (A.Hicks).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,6,Philadelphia Eagles,1,7,0,Pass Incomplete,2nd & 9 at CHI 13,02:00 4th Shotgun,— N.Foles pass incomplete short middle to N.Agholor (S.McManis).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,6,Philadelphia Eagles,1,8,0,11 Yard Pass,3rd & 9 at CHI 13,01:55 4th Shotgun,— N.Foles pass short middle to A.Jeffery to CHI 2 for 11 yards (A.Amos).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,6,Philadelphia Eagles,1,9,0,0 Yard Run,1st & 2 at CHI 2,01:14 4th Shotgun,— D.Sproles right guard to CHI 2 for no gain (K.Mack).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,6,Philadelphia Eagles,1,10,0,Timeout,,01:10 4th,— Timeout #1 by CHI at 01:10.
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,6,Philadelphia Eagles,1,11,0,0 Yard Run,2nd & 2 at CHI 2,01:10 4th Shotgun,— D.Sproles right guard to CHI 2 for no gain (K.Mack; E.Goldman).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,6,Philadelphia Eagles,1,12,0,Timeout,,01:05 4th,— Timeout #2 by CHI at 01:05.
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,6,Philadelphia Eagles,1,13,0,Pass Incomplete,3rd & 2 at CHI 2,01:05 4th Shotgun,— N.Foles pass incomplete short right to A.Jeffery (K.Fuller).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,6,Philadelphia Eagles,1,14,0,Timeout,,01:01 4th,— Timeout #1 by PHI at 01:01.
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,6,Philadelphia Eagles,1,15,1,Touchdown,4th & 2 at CHI 2,01:01 4th Shotgun,"— N.Foles pass short right to G.Tate for 2 yards, TOUCHDOWN [L.Floyd]."
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,6,Philadelphia Eagles,1,16,0,2PT Conversion Fails,,00:56 4th,"— TWO-POINT CONVERSION ATTEMPT. W.Smallwood rushes up the middle. ATTEMPT FAILS. The Replay Official reviewed the short of the goal line ruling, and the play was Upheld. The ruling on the field stands."
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,7,Chicago Bears,0,1,0,Kickoff from PHI 35,,Kickoff,— J.Elliott kicks 58 yards from PHI 35 to CHI 7. T.Cohen pushed ob at CHI 42 for 35 yards (T.Sullivan).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,7,Chicago Bears,0,2,0,Pass Incomplete,1st & 10 at CHI 42,00:48 4th Shotgun,— M.Trubisky pass incomplete short left to T.Gabriel (T.Sullivan).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,7,Chicago Bears,0,3,0,25 Yard Pass,2nd & 10 at CHI 42,00:44 4th Shotgun,— M.Trubisky pass deep right to A.Robinson II to PHI 33 for 25 yards (A.Maddox) [C.Long].
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,7,Chicago Bears,0,4,0,Timeout,,00:35 4th,— Timeout #3 by CHI at 00:35.
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,7,Chicago Bears,0,5,0,8 Yard Pass,1st & 10 at PHI 33,00:35 4th Shotgun,— M.Trubisky pass short right to A.Robinson II to PHI 25 for 8 yards (A.Maddox).
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,7,Chicago Bears,0,6,0,Pass Incomplete,2nd & 2 at PHI 25,00:16 4th No Huddle,— M.Trubisky spiked the ball to stop the clock.
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,7,Chicago Bears,0,7,0,Pass Incomplete,3rd & 2 at PHI 25,00:15 4th Shotgun,— M.Trubisky pass incomplete deep middle to A.Miller.
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,7,Chicago Bears,0,8,0,Timeout,,00:10 4th,— Timeout #3 by PHI at 00:10.
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,7,Chicago Bears,0,9,0,Field Goal No Good,4th & 2 at PHI 25,00:10 4th Field Goal formation,"— C.Parkey 43 yard field goal is BLOCKED (T.Hester), Center-P.Scales, Holder-P.O'Donnell."
+2018,Wild Card,SUN,01/06,Eagles,Bears,4th Quarter,8,Philadelphia Eagles,0,1,0,-1 Yard Run,1st & 10 at PHI 33,00:05 4th,— N.Foles kneels to PHI 32 for -1 yards.
