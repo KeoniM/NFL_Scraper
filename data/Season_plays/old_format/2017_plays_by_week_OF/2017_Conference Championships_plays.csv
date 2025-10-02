@@ -1,0 +1,335 @@
+Season,Week,Day,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayDescription,PlayStart
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,1,NE,1,1,0,Kickoff,"J.Lambo kicks 65 yards from JAC 35 to end zone, Touchback. Patriots 14th conference title game appearance, ties Dallas for 3rd all-time (Pittsburgh 16 & SF 15). Patriots 7th-straight conference title game appearance, extends NFL record. NE Belichick 12th conference championship game & 38th postseason game as a head coach, extends NFL records.",Kickoff from JAC 35
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,1,NE,1,2,0,5 Yard Pass,"(15:00) (Shotgun) T.Brady pass short right to D.Lewis to NE 30 for 5 yards (T.Smith). NE 12-Brady 36th career postseason game, extends his NFL record. NE 12-Brady 36th career postseason QB start, extends his NFL record.",1st & 10 at NE 25
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,1,NE,1,3,0,31 Yard Pass,(14:18) (Shotgun) T.Brady pass deep right to B.Cooks to JAC 39 for 31 yards (T.Smith).,2nd & 5 at NE 30
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,1,NE,1,4,0,1 Yard Run,"(13:47) (No Huddle, Shotgun) T.Brady scrambles right end ran ob at JAC 38 for 1 yard.",1st & 10 at JAC 39
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,1,NE,1,5,0,5 Yard Run,(13:10) R.Burkhead left end to JAC 33 for 5 yards (M.Jack). reverse,2nd & 9 at JAC 38
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,1,NE,1,6,0,3 Yard Pass,(12:33) (Shotgun) T.Brady pass short right to C.Hogan to JAC 30 for 3 yards (J.Ramsey).,3rd & 4 at JAC 33
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,1,NE,1,7,0,20 Yard Pass,(11:49) (Shotgun) T.Brady pass deep left to D.Amendola ran ob at JAC 10 for 20 yards.,4th & 1 at JAC 30
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,1,NE,1,8,0,-2 Yard Pass,(11:21) (Shotgun) T.Brady pass short left to D.Lewis to JAC 12 for -2 yards (B.Church).,1st & 10 at JAC 10
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,1,NE,1,9,0,Pass for No Gain,(10:46) (Shotgun) T.Brady pass short left to D.Lewis to JAC 12 for no gain (T.Smith).,2nd & 12 at JAC 12
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,1,NE,1,10,0,-1 Yard Sack,(10:02) (Shotgun) T.Brady sacked at JAC 13 for -1 yards (D.Fowler).,3rd & 12 at JAC 12
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,1,NE,1,11,1,Field Goal,"(9:25) S.Gostkowski 31 yard field goal is GOOD, Center-J.Cardona, Holder-R.Allen. NE 3-Gostkowski 24th consecutive postseason game with a point, ties Akers for 2nd all-time (Vinatieri 30). NE 3-Gostkowski 32nd career postseason FG, tied for 3rd all-time (Gary Anderson).",4th & 13 at JAC 13
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,2,JAX,0,1,0,Kickoff,S.Gostkowski kicks 64 yards from NE 35 to JAC 1. C.Grant to JAC 26 for 25 yards (G.Grissom).,Kickoff from NE 35
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,2,JAX,0,2,0,2 Yard Run,"(9:14) L.Fournette left tackle to JAC 28 for 2 yards (R.Jean Francois, K.Van Noy).",1st & 10 at JAC 26
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,2,JAX,0,3,0,8 Yard Pass,(8:35) B.Bortles pass short right to L.Fournette to JAC 36 for 8 yards (M.Butler).,2nd & 8 at JAC 28
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,2,JAX,0,4,0,3 Yard Run,"(7:48) L.Fournette left tackle to JAC 39 for 3 yards (T.Flowers, P.Chung).",1st & 10 at JAC 36
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,2,JAX,0,5,0,5 Yard Pass,(7:11) B.Bortles pass short right to L.Fournette pushed ob at JAC 44 for 5 yards (T.Flowers).,2nd & 7 at JAC 39
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,2,JAX,0,6,0,3 Yard Pass,(6:31) (Shotgun) B.Bortles pass short right to A.Hurns pushed ob at JAC 47 for 3 yards (J.Harrison).,3rd & 2 at JAC 44
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,2,JAX,0,7,0,2 Yard Run,"(6:01) T.Yeldon left tackle to JAC 49 for 2 yards (R.Jean Francois, P.Chung).",1st & 10 at JAC 47
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,2,JAX,0,8,0,Pass Incomplete,(5:20) (Shotgun) B.Bortles pass incomplete deep left to T.Yeldon (K.Van Noy) [T.Flowers].,2nd & 8 at JAC 49
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,2,JAX,0,9,0,Pass Incomplete,(5:14) (Shotgun) B.Bortles pass incomplete short left to M.Lee (M.Butler).,3rd & 8 at JAC 49
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,2,JAX,0,10,0,Punt,"(5:09) B.Nortman punts 37 yards to NE 14, Center-C.Holba, fair catch by D.Amendola.",4th & 8 at JAC 49
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,3,NE,0,1,0,11 Yard Pass,(5:01) T.Brady pass short left to B.Cooks pushed ob at NE 25 for 11 yards (A.Bouye).,1st & 10 at NE 14
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,3,NE,0,2,0,4 Yard Run,(4:40) (Shotgun) D.Lewis up the middle to NE 29 for 4 yards (A.Jones).,1st & 10 at NE 25
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,3,NE,0,3,0,3 Yard Run,(4:13) D.Amendola right end to NE 32 for 3 yards (T.Smith).,2nd & 6 at NE 29
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,3,NE,0,4,0,2 Yard Run,(3:37) (Shotgun) J.White left tackle to NE 34 for 2 yards (A.Bouye).,3rd & 3 at NE 32
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,1ST QUARTER,3,NE,0,5,0,Punt,"(2:58) R.Allen punts 42 yards to JAC 24, Center-J.Cardona, out of bounds.",4th & 1 at NE 34
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,1,JAX,1,1,0,20 Yard Pass,(2:51) (Shotgun) B.Bortles pass short left to C.Grant to JAC 44 for 20 yards (D.Harmon).,1st & 10 at JAC 24
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,1,JAX,1,2,0,7 Yard Pass,(2:10) (Shotgun) B.Bortles pass short left to M.Lee to NE 49 for 7 yards (E.Roberts).,1st & 10 at JAC 44
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,1,JAX,1,3,0,6 Yard Run,"(1:36) (Shotgun) L.Fournette up the middle to NE 43 for 6 yards (E.Roberts, L.Guy).",2nd & 3 at NE 49
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,1,JAX,1,4,0,4 Yard Run,(1:01) L.Fournette up the middle to NE 39 for 4 yards (J.Harrison).,1st & 10 at NE 43
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,1,JAX,1,5,0,11 Yard Pass,(:23) B.Bortles pass short right to K.Cole to NE 28 for 11 yards (S.Gilmore).,2nd & 6 at NE 39
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,1,JAX,1,6,0,24 Yard Pass,(15:00) B.Bortles pass short right to C.Grant pushed ob at NE 4 for 24 yards (D.McCourty).,1st & 10 at NE 28
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,1,JAX,1,7,0,Touchdown Jaguars,"(14:22) (Shotgun) B.Bortles pass short right to M.Lewis for 4 yards, TOUCHDOWN.",1st & 4 at NE 4
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,1,JAX,1,8,1,Extra Point Good,"J.Lambo extra point is GOOD, Center-C.Holba, Holder-B.Nortman.",XP attempt from NE 15
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,2,NE,0,1,0,Kickoff,J.Lambo kicks 63 yards from JAC 35 to NE 2. D.Lewis to NE 25 for 23 yards (C.Grant).,Kickoff from JAC 35
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,2,NE,0,2,0,Pass Incomplete,(14:07) T.Brady pass incomplete short right to D.Lewis.,1st & 10 at NE 25
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,2,NE,0,3,0,-1 Yard Run,"(14:03) (Shotgun) D.Lewis up the middle to NE 24 for -1 yards (M.Dareus, C.Campbell).",2nd & 10 at NE 25
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,2,NE,0,4,0,Pass Incomplete,(13:28) (Shotgun) T.Brady pass incomplete deep middle to C.Hogan [Y.Ngakoue].,3rd & 11 at NE 24
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,2,NE,0,5,0,Punt,"(13:21) R.Allen punts 53 yards to JAC 23, Center-J.Cardona, fair catch by J.Mickens.",4th & 11 at NE 24
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,3,JAX,1,1,0,-5 Yard Penalty,"(13:13) (Shotgun) PENALTY on JAC-C.Robinson, False Start, 5 yards, enforced at JAC 23 - No Play.",1st & 10 at JAC 23
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,3,JAX,1,2,0,15 Yard Pass,(13:13) (Shotgun) B.Bortles pass short left to C.Grant to JAC 33 for 15 yards (D.McCourty).,1st & 15 at JAC 18
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,3,JAX,1,3,0,27 Yard Pass,(12:34) (Shotgun) B.Bortles pass deep right to A.Hurns pushed ob at NE 40 for 27 yards (D.McCourty).,1st & 10 at JAC 33
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,3,JAX,1,4,0,8 Yard Pass,(11:55) (Shotgun) B.Bortles pass short middle to A.Hurns to NE 32 for 8 yards (K.Van Noy; E.Roberts).,1st & 10 at NE 40
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,3,JAX,1,5,0,Run for No Gain,"(11:08) (Shotgun) L.Fournette right guard to NE 32 for no gain (R.Jean Francois, L.Guy).",2nd & 2 at NE 32
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,3,JAX,1,6,0,4 Yard Run,"(10:27) L.Fournette up the middle to NE 28 for 4 yards (E.Roberts, K.Van Noy).",3rd & 2 at NE 32
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,3,JAX,1,7,0,13 Yard Run,(9:55) (Shotgun) L.Fournette right guard to NE 15 for 13 yards (S.Gilmore).,1st & 10 at NE 28
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,3,JAX,1,8,0,-3 Yard Pass,(9:15) (Shotgun) B.Bortles pass short left to T.Yeldon to NE 18 for -3 yards (K.Van Noy).,1st & 10 at NE 15
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,3,JAX,1,9,0,12 Yard Run,(8:35) (Shotgun) T.Yeldon left end pushed ob at NE 6 for 12 yards (D.McCourty).,2nd & 13 at NE 18
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,3,JAX,1,10,0,2 Yard Run,"(7:58) L.Fournette left guard to NE 4 for 2 yards (K.Van Noy, M.Butler).",3rd & 1 at NE 6
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,3,JAX,1,11,0,Touchdown Jaguars,"(7:11) L.Fournette up the middle for 4 yards, TOUCHDOWN.",1st & 4 at NE 4
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,3,JAX,1,12,1,Extra Point Good,"J.Lambo extra point is GOOD, Center-C.Holba, Holder-B.Nortman.",XP attempt from NE 15
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,4,NE,0,1,0,Kickoff,"J.Lambo kicks 55 yards from JAC 35 to NE 10. D.Lewis to NE 21 for 11 yards (D.Payne).
+PENALTY on NE-M.Flowers, Offensive Holding, 10 yards, enforced at NE 21.",Kickoff from JAC 35
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,4,NE,0,2,0,Pass Incomplete,(7:00) (Shotgun) T.Brady pass incomplete deep right to R.Gronkowski [M.Jackson].,1st & 10 at NE 11
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,4,NE,0,3,0,21 Yard Pass,"(6:54) T.Brady pass deep right to R.Gronkowski to NE 32 for 21 yards (J.Ramsey) [D.Fowler]. NE 87-Gronkowski 856 career postseason rec yds, most all-time by a TE (Dallas Clark, 847).",2nd & 10 at NE 11
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,4,NE,0,4,0,Pass Incomplete,(6:17) T.Brady pass incomplete short left to R.Gronkowski.,1st & 10 at NE 32
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,4,NE,0,5,0,Pass Incomplete,(6:12) (Shotgun) T.Brady pass incomplete short middle to R.Burkhead (T.Smith).,2nd & 10 at NE 32
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,4,NE,0,6,0,-3 Yard Sack,(6:06) (Shotgun) T.Brady sacked at NE 29 for -3 yards (D.Fowler).,3rd & 10 at NE 32
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,4,NE,0,7,0,Punt,"(5:32) R.Allen punts 46 yards to JAC 25, Center-J.Cardona, out of bounds.",4th & 13 at NE 29
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,5,JAX,0,1,0,1 Yard Run,"(5:26) (Shotgun) L.Fournette up the middle to JAC 26 for 1 yard (T.Flowers, R.Jean Francois).",1st & 10 at JAC 25
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,5,JAX,0,2,0,1 Yard Run,(4:51) (Shotgun) L.Fournette up the middle to JAC 27 for 1 yard (M.Brown).,2nd & 9 at JAC 26
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,5,JAX,0,3,0,26 Yard Pass,(4:11) (Shotgun) B.Bortles pass deep right to K.Cole pushed ob at NE 47 for 26 yards (M.Butler).,3rd & 8 at JAC 27
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,5,JAX,0,4,0,-5 Yard Penalty,"(3:52) L.Fournette up the middle to NE 45 for 2 yards (K.Van Noy).
+PENALTY on JAC, Illegal Shift, 5 yards, enforced at NE 47 - No Play.",1st & 10 at NE 47
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,5,JAX,0,5,0,4 Yard Run,"(3:28) (Shotgun) T.Yeldon left guard to NE 48 for 4 yards (P.Chung, E.Roberts).",1st & 15 at JAC 48
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,5,JAX,0,6,0,4 Yard Run,"(2:43) (Shotgun) T.Yeldon up the middle to NE 44 for 4 yards (E.Lee, M.Butler).",2nd & 11 at NE 48
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,5,JAX,0,7,0,-5 Yard Penalty,"(2:23) (Shotgun) B.Bortles pass short right to M.Lewis to NE 32 for 12 yards (P.Chung) [D.Wise].
+PENALTY on JAC-B.Bortles, Delay of Game, 5 yards, enforced at NE 44 - No Play.",3rd & 7 at NE 44
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,5,JAX,0,8,0,-6 Yard Sack,"(2:23) (Shotgun) B.Bortles sacked at JAC 45 for -6 yards (A.Butler).
+Penalty on JAC-C.Robinson, Offensive Holding, declined.",3rd & 12 at NE 49
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,5,JAX,0,9,0,Punt,"(2:09) B.Nortman punts 40 yards to NE 15, Center-C.Holba, fair catch by D.Amendola.",4th & 18 at JAC 45
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,6,NE,1,1,0,2 Yard Run,(2:02) D.Lewis right guard to NE 17 for 2 yards (D.Fowler).,1st & 10 at NE 15
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,6,NE,1,2,0,10 Yard Pass,(1:57) (Shotgun) T.Brady pass short left to B.Cooks pushed ob at NE 27 for 10 yards (A.Bouye).,2nd & 8 at NE 17
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,6,NE,1,3,0,8 Yard Pass,(1:52) (Shotgun) T.Brady pass short left to D.Amendola to NE 35 for 8 yards (M.Jack).,1st & 10 at NE 27
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,6,NE,1,4,0,5 Yard Pass,"(1:34) (No Huddle, Shotgun) T.Brady pass short left to J.White pushed ob at NE 40 for 5 yards (T.Smith).",2nd & 2 at NE 35
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,6,NE,1,5,0,15 Yard Penalty,"(1:28) (Shotgun) T.Brady pass incomplete deep right to R.Gronkowski. NE-R.Gronkowski was injured during the play. He is Out. 
+PENALTY on JAC-B.Church, Unnecessary Roughness, 15 yards, enforced at NE 40 - No Play.",1st & 10 at NE 40
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,6,NE,1,6,0,32 Yard Penalty,"(1:23) (Shotgun) T.Brady pass incomplete deep left to B.Cooks.
+PENALTY on JAC-A.Bouye, Defensive Pass Interference, 32 yards, enforced at JAC 45 - No Play.",1st & 10 at JAC 45
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,6,NE,1,7,0,12 Yard Pass,(1:17) (Shotgun) T.Brady pass short left to B.Cooks to JAC 1 for 12 yards (A.Bouye).,1st & 10 at JAC 13
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,6,NE,1,8,0,Touchdown Patriots,"(:58) (No Huddle) J.White left guard for 1 yard, TOUCHDOWN.",1st & 1 at JAC 1
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,6,NE,1,9,1,Extra Point Good,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",XP attempt from JAC 15
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,7,JAX,0,1,0,Kickoff,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",Kickoff from NE 35
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,7,JAX,0,2,0,-1 Yard Run,(:55) B.Bortles kneels to JAC 24 for -1 yards.,1st & 10 at JAC 25
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,2ND QUARTER,7,JAX,0,3,0,-1 Yard Run,(:33) B.Bortles kneels to JAC 23 for -1 yards.,2nd & 11 at JAC 24
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,1,JAX,1,1,0,Kickoff,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",Kickoff from NE 35
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,1,JAX,1,2,0,2 Yard Run,"(15:00) L.Fournette left tackle to JAC 27 for 2 yards (J.Harrison, T.Flowers).",1st & 10 at JAC 25
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,1,JAX,1,3,0,20 Yard Pass,(14:23) B.Bortles pass short right to T.Bohanon to JAC 47 for 20 yards (P.Chung).,2nd & 8 at JAC 27
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,1,JAX,1,4,0,1 Yard Run,(13:41) L.Fournette left end to JAC 48 for 1 yard (T.Flowers).,1st & 10 at JAC 47
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,1,JAX,1,5,0,1 Yard Run,"(13:00) L.Fournette right guard to JAC 49 for 1 yard (M.Butler, E.Lee).",2nd & 9 at JAC 48
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,1,JAX,1,6,0,9 Yard Pass,"(12:18) (Shotgun) B.Bortles pass short left to T.Yeldon to NE 42 for 9 yards (K.Van Noy, M.Flowers). JAC-C.Robinson was injured during the play. His return is Questionable.",3rd & 8 at JAC 49
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,1,JAX,1,7,0,3 Yard Run,"(11:52) L.Fournette up the middle to NE 39 for 3 yards (L.Guy, K.Van Noy).",1st & 10 at NE 42
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,1,JAX,1,8,0,3 Yard Run,"(11:13) L.Fournette left guard to NE 36 for 3 yards (L.Guy, T.Flowers).",2nd & 7 at NE 39
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,1,JAX,1,9,0,Pass Incomplete,(10:33) (Shotgun) B.Bortles pass incomplete short right to M.Lee (T.Flowers).,3rd & 4 at NE 36
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,1,JAX,1,10,1,Field Goal,"(10:28) J.Lambo 54 yard field goal is GOOD, Center-C.Holba, Holder-B.Nortman.",4th & 4 at NE 36
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,2,NE,0,1,0,Kickoff,"J.Lambo kicks 65 yards from JAC 35 to end zone, Touchback.",Kickoff from JAC 35
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,2,NE,0,2,0,5 Yard Run,(10:23) D.Lewis right guard to NE 30 for 5 yards (T.Smith).,1st & 10 at NE 25
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,2,NE,0,3,0,Pass Incomplete,(9:51) T.Brady pass incomplete deep middle to B.Cooks.,2nd & 5 at NE 30
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,2,NE,0,4,0,17 Yard Pass,(9:43) (Shotgun) T.Brady pass short middle to C.Hogan to NE 47 for 17 yards (T.Smith).,3rd & 5 at NE 30
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,2,NE,0,5,0,Pass Incomplete,(9:04) T.Brady pass incomplete deep left to B.Cooks.,1st & 10 at NE 47
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,2,NE,0,6,0,4 Yard Pass,(8:56) T.Brady pass short right to D.Lewis pushed ob at JAC 49 for 4 yards (A.Jones).,2nd & 10 at NE 47
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,2,NE,0,7,0,2 Yard Pass,(8:20) (Shotgun) T.Brady pass short middle to J.White to JAC 47 for 2 yards (C.Campbell).,3rd & 6 at JAC 49
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,2,NE,0,8,0,Punt,"(7:39) R.Allen punts 37 yards to JAC 10, Center-J.Cardona, fair catch by D.Westbrook.",4th & 4 at JAC 47
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,3,JAX,0,1,0,Pass Incomplete,(7:31) B.Bortles pass incomplete short right to M.Lee.,1st & 10 at JAC 10
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,3,JAX,0,2,0,-5 Yard Sack,(7:26) B.Bortles sacked at JAC 5 for -5 yards (L.Guy).,2nd & 10 at JAC 10
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,3,JAX,0,3,0,3 Yard Run,"(6:47) (Shotgun) T.Yeldon left guard to JAC 8 for 3 yards (D.Wise, T.Flowers).",3rd & 15 at JAC 5
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,3,JAX,0,4,0,Punt,"(6:15) B.Nortman punts 51 yards to NE 41, Center-C.Holba. D.Amendola to NE 46 for 5 yards (C.Grant, L.McCray).",4th & 12 at JAC 8
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,4,NE,0,1,0,3 Yard Run,"(6:04) D.Lewis left guard to NE 49 for 3 yards (M.Dareus, M.Jack).",1st & 10 at NE 46
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,4,NE,0,2,0,4 Yard Pass,"(5:46) (No Huddle, Shotgun) T.Brady pass short middle to D.Lewis to JAC 47 for 4 yards (P.Posluszny).",2nd & 7 at NE 49
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,4,NE,0,3,0,1 Yard Pass,"(5:23) (No Huddle, Shotgun) T.Brady pass short right to D.Lewis to JAC 46 for 1 yard (M.Jack).",3rd & 3 at JAC 47
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,3RD QUARTER,4,NE,0,4,0,Punt,"(4:47) R.Allen punts 37 yards to JAC 9, Center-J.Cardona, fair catch by D.Westbrook.",4th & 2 at JAC 46
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,1,JAX,1,1,0,Run for No Gain,"(4:41) L.Fournette up the middle to JAC 9 for no gain (L.Guy, E.Roberts).",1st & 10 at JAC 9
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,1,JAX,1,2,0,7 Yard Run,(4:04) (Shotgun) L.Fournette left end to JAC 16 for 7 yards (S.Gilmore).,2nd & 10 at JAC 9
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,1,JAX,1,3,0,18 Yard Pass,(3:21) (Shotgun) B.Bortles pass short left to M.Lee pushed ob at JAC 34 for 18 yards (M.Butler).,3rd & 3 at JAC 16
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,1,JAX,1,4,0,15 Yard Pass,(2:48) B.Bortles pass short right to A.Hurns to JAC 49 for 15 yards (E.Rowe). flea flicker handoff to 24-Yeldon and pitch back to 5-Bortles,1st & 10 at JAC 34
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,1,JAX,1,5,0,2 Yard Run,"(2:06) L.Fournette left guard to NE 49 for 2 yards (M.Brown, R.Jean Francois).",1st & 10 at JAC 49
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,1,JAX,1,6,0,8 Yard Pass,(1:28) (Shotgun) B.Bortles pass short right to M.Lee to NE 41 for 8 yards (E.Rowe).,2nd & 8 at NE 49
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,1,JAX,1,7,0,14 Yard Run,(:48) (Shotgun) L.Fournette left end pushed ob at NE 27 for 14 yards (P.Chung). NE-T.Flowers was injured during the play.,1st & 10 at NE 41
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,1,JAX,1,8,0,Pass Incomplete,(:12) B.Bortles pass incomplete short right to B.Koyack.,1st & 10 at NE 27
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,1,JAX,1,9,0,2 Yard Run,"(:05) (Shotgun) C.Grant right guard to NE 25 for 2 yards (K.Van Noy, D.Wise).",2nd & 10 at NE 27
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,1,JAX,1,10,0,Pass Incomplete,(15:00) (Shotgun) B.Bortles pass incomplete short left to M.Lee.,3rd & 8 at NE 25
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,1,JAX,1,11,1,Field Goal,"(14:56) J.Lambo 43 yard field goal is GOOD, Center-C.Holba, Holder-B.Nortman.",4th & 8 at NE 25
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,2,NE,0,1,0,Kickoff,"J.Lambo kicks 65 yards from JAC 35 to end zone, Touchback.",Kickoff from JAC 35
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,2,NE,0,2,0,2 Yard Run,(14:52) D.Lewis left end to NE 27 for 2 yards (T.Smith).,1st & 10 at NE 25
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,2,NE,0,3,0,18 Yard Pass,(14:19) (Shotgun) T.Brady pass deep left to B.Cooks ran ob at NE 45 for 18 yards.,2nd & 8 at NE 27
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,3,JAX,0,1,0,2 Yard Run,"(13:37) (Shotgun) L.Fournette up the middle to JAC 35 for 2 yards (M.Brown, E.Lee).",1st & 10 at JAC 33
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,3,JAX,0,2,0,Pass Incomplete,(13:04) (Shotgun) B.Bortles pass incomplete short middle to M.Lewis.,2nd & 8 at JAC 35
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,3,JAX,0,3,0,7 Yard Pass,"(13:00) (Shotgun) B.Bortles pass short left to A.Hurns to JAC 42 for 7 yards (D.McCourty, E.Rowe).",3rd & 8 at JAC 35
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,3,JAX,0,4,0,Punt,"(12:11) B.Nortman punts 43 yards to NE 15, Center-C.Holba, fair catch by D.Amendola.",4th & 1 at JAC 42
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,4,NE,1,1,0,18 Yard Pass,(12:03) (Shotgun) T.Brady pass deep left to B.Cooks to NE 33 for 18 yards (A.Bouye). NE 14-Cooks 1st career postseason 100-yard game.,1st & 10 at NE 15
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,4,NE,1,2,0,-8 Yard Sack,"(11:35) (No Huddle, Shotgun) T.Brady sacked at NE 25 for -8 yards (M.Dareus).",1st & 10 at NE 33
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,4,NE,1,3,0,Pass Incomplete,(10:56) (Shotgun) T.Brady pass incomplete deep middle to C.Hogan.,2nd & 18 at NE 25
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,4,NE,1,4,0,21 Yard Pass,(10:49) (Shotgun) T.Brady pass deep middle to D.Amendola to NE 46 for 21 yards (T.Gipson).,3rd & 18 at NE 25
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,4,NE,1,5,0,31 Yard Pass,(10:19) (No Huddle) T.Brady pass deep left to P.Dorsett to JAC 23 for 31 yards (M.Jack). flea flicker,1st & 10 at NE 46
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,4,NE,1,6,0,Pass Incomplete,(9:30) (Shotgun) T.Brady pass incomplete short middle to D.Amendola.,1st & 10 at JAC 23
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,4,NE,1,7,0,14 Yard Pass,(9:25) (Shotgun) T.Brady pass short left to D.Amendola to JAC 9 for 14 yards (A.Bouye).,2nd & 10 at JAC 23
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,4,NE,1,8,0,Touchdown Patriots,"(8:53) (Shotgun) T.Brady pass short left to D.Amendola for 9 yards, TOUCHDOWN.",1st & 9 at JAC 9
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,4,NE,1,9,1,Extra Point Good,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",XP attempt from JAC 15
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,5,JAX,0,1,0,Kickoff,"S.Gostkowski kicks 65 yards from NE 35 to JAC 0. C.Grant to JAC 16 for 16 yards (M.Slater, G.Grissom).",Kickoff from NE 35
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,5,JAX,0,2,0,1 Yard Run,"(8:38) (Shotgun) L.Fournette left tackle to JAC 17 for 1 yard (M.Brown, E.Roberts).",1st & 10 at JAC 16
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,5,JAX,0,3,0,20 Yard Pass,(7:59) (Shotgun) B.Bortles pass short middle to A.Hurns to JAC 37 for 20 yards (D.McCourty).,2nd & 9 at JAC 17
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,5,JAX,0,4,0,1 Yard Run,"(7:19) (Shotgun) L.Fournette left tackle to JAC 38 for 1 yard (P.Chung, T.Flowers).",1st & 10 at JAC 37
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,5,JAX,0,5,0,Pass Incomplete,(6:41) B.Bortles pass incomplete deep left to D.Westbrook (S.Gilmore).,2nd & 9 at JAC 38
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,5,JAX,0,6,0,Pass Incomplete,(6:34) (Shotgun) B.Bortles pass incomplete short right to M.Lewis.,3rd & 9 at JAC 38
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,5,JAX,0,7,0,Punt,"(6:30) B.Nortman punts 43 yards to NE 19, Center-C.Holba, fair catch by D.Amendola.",4th & 9 at JAC 38
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,6,NE,0,1,0,36 Yard Penalty,"(6:21) (Shotgun) T.Brady pass incomplete deep left to B.Cooks.
+PENALTY on JAC-J.Ramsey, Defensive Pass Interference, 36 yards, enforced at NE 19 - No Play.",1st & 10 at NE 19
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,6,NE,0,2,0,Pass Incomplete,(6:15) (Shotgun) T.Brady pass incomplete deep left to J.White.,1st & 10 at JAC 45
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,6,NE,0,3,0,Pass Incomplete,(6:10) (Shotgun) T.Brady pass incomplete short middle to D.Amendola [M.Jack].,2nd & 10 at JAC 45
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,6,NE,0,4,0,Pass Incomplete,(6:06) (Shotgun) T.Brady pass incomplete short left to J.White (T.Smith).,3rd & 10 at JAC 45
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,6,NE,0,5,0,Punt,"(6:00) R.Allen punts 35 yards to JAC 10, Center-J.Cardona, fair catch by D.Westbrook.",4th & 10 at JAC 45
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,7,JAX,0,1,0,-1 Yard Run,(5:53) (Shotgun) L.Fournette up the middle to JAC 9 for -1 yards (P.Chung).,1st & 10 at JAC 10
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,7,JAX,0,2,0,Pass Incomplete,(5:23) B.Bortles pass incomplete deep left to A.Hurns (E.Rowe).,2nd & 11 at JAC 9
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,7,JAX,0,3,0,Pass Incomplete,(5:13) (Shotgun) B.Bortles pass incomplete short middle to K.Cole [T.Flowers].,3rd & 11 at JAC 9
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,7,JAX,0,4,0,Punt,"(5:10) B.Nortman punts 41 yards to 50, Center-C.Holba. D.Amendola to JAC 30 for 20 yards (D.Smoot).",4th & 11 at JAC 9
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,8,NE,1,1,0,15 Yard Pass,(4:58) (Shotgun) T.Brady pass short left to J.White to JAC 15 for 15 yards (M.Dareus).,1st & 10 at JAC 30
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,8,NE,1,2,0,8 Yard Pass,(4:19) (Shotgun) T.Brady pass short middle to D.Amendola to JAC 7 for 8 yards (M.Jack). JAC-M.Jack was injured during the play.,1st & 10 at JAC 15
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,8,NE,1,3,0,2 Yard Run,"(3:57) T.Brady up the middle to JAC 5 for 2 yards (P.Posluszny, M.Dareus). JAC-M.Dareus was injured during the play.",2nd & 2 at JAC 7
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,8,NE,1,4,0,1 Yard Run,(3:29) (Shotgun) J.White left guard to JAC 4 for 1 yard (C.Campbell).,1st & 5 at JAC 5
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,8,NE,1,5,0,Touchdown Patriots,"(2:56) T.Brady pass short left to D.Amendola for 4 yards, TOUCHDOWN. NE 12-Brady 22nd career postseason game with 2 pass TD, extends his NFL record (Favre, 15).",2nd & 4 at JAC 4
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,8,NE,1,6,1,Extra Point Good,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",XP attempt from JAC 15
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,9,JAX,0,1,0,Kickoff,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",Kickoff from NE 35
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,9,JAX,0,2,0,8 Yard Pass,(2:48) (Shotgun) B.Bortles pass short middle to M.Lee to JAC 33 for 8 yards (S.Gilmore).,1st & 10 at JAC 25
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,9,JAX,0,3,0,29 Yard Pass,"(2:24) (No Huddle, Shotgun) B.Bortles pass deep left to D.Westbrook pushed ob at NE 38 for 29 yards (S.Gilmore) [T.Flowers].",2nd & 2 at JAC 33
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,9,JAX,0,4,0,Pass Incomplete,(2:12) (Shotgun) B.Bortles pass incomplete deep left to L.Fournette.,1st & 10 at NE 38
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,9,JAX,0,5,0,-9 Yard Sack,"(2:07) (Shotgun) B.Bortles sacked at NE 45 for -7 yards (K.Van Noy). FUMBLES (K.Van Noy) [J.Harrison], recovered by JAC-C.Robinson at NE 47. C.Robinson to NE 47 for no gain (T.Flowers).",2nd & 10 at NE 38
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,9,JAX,0,6,0,4 Yard Pass,(2:00) (Shotgun) B.Bortles pass short right to J.O'Shaughnessy pushed ob at NE 43 for 4 yards (E.Rowe).,3rd & 19 at NE 47
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,9,JAX,0,7,0,Turnover on Downs,(1:53) (Shotgun) B.Bortles pass incomplete deep right to D.Westbrook (S.Gilmore) [T.Flowers].,4th & 15 at NE 43
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,10,NE,0,1,0,-3 Yard Run,(1:47) D.Lewis left tackle to NE 40 for -3 yards (M.Jackson).,1st & 10 at NE 43
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,10,NE,0,2,0,4 Yard Run,(1:42) D.Lewis right guard to NE 44 for 4 yards (A.Jones).,2nd & 13 at NE 40
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,10,NE,0,3,0,18 Yard Run,(1:38) D.Lewis left end to JAC 38 for 18 yards (P.Posluszny).,3rd & 9 at NE 44
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,10,NE,0,4,0,-1 Yard Run,(1:30) T.Brady kneels to JAC 39 for -1 yards.,1st & 10 at JAC 38
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,10,NE,0,5,0,-1 Yard Run,(:51) T.Brady kneels to JAC 40 for -1 yards.,2nd & 11 at JAC 39
+2017,Conference Championships,SUN,01/21,Jaguars,Patriots,4TH QUARTER,10,NE,0,6,0,-1 Yard Run,(:23) T.Brady kneels to JAC 41 for -1 yards.,3rd & 12 at JAC 40
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,1,MIN,1,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.",Kickoff from PHI 35
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,1,MIN,1,2,0,6 Yard Run,(15:00) L.Murray up the middle to MIN 31 for 6 yards (F.Cox).,1st & 10 at MIN 25
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,1,MIN,1,3,0,2 Yard Run,(14:24) L.Murray left tackle to MIN 33 for 2 yards (J.Mills).,2nd & 4 at MIN 31
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,1,MIN,1,4,0,2 Yard Run,(13:46) (Shotgun) J.McKinnon up the middle to MIN 35 for 2 yards (N.Bradham).,3rd & 2 at MIN 33
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,1,MIN,1,5,0,11 Yard Pass,(13:02) (Shotgun) C.Keenum pass short left to L.Murray pushed ob at MIN 46 for 11 yards (M.Kendricks).,1st & 10 at MIN 35
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,1,MIN,1,6,0,3 Yard Run,(12:28) L.Murray left end to MIN 49 for 3 yards (N.Goode).,1st & 10 at MIN 46
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,1,MIN,1,7,0,12 Yard Pass,(11:55) C.Keenum pass short left to A.Thielen ran ob at PHI 39 for 12 yards (R.Darby).,2nd & 7 at MIN 49
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,1,MIN,1,8,0,10 Yard Run,(11:21) (Shotgun) J.McKinnon left end pushed ob at PHI 29 for 10 yards (R.Darby).,1st & 10 at PHI 39
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,1,MIN,1,9,0,4 Yard Run,(10:59) (Shotgun) J.McKinnon left end to PHI 25 for 4 yards (R.Darby).,1st & 10 at PHI 29
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,1,MIN,1,10,0,Touchdown Vikings,"(10:20) (Shotgun) C.Keenum pass deep left to K.Rudolph for 25 yards, TOUCHDOWN.",2nd & 6 at PHI 25
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,1,MIN,1,11,1,Extra Point Good,"K.Forbath extra point is GOOD, Center-J.Overbaugh, Holder-R.Quigley.",XP attempt from PHI 15
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,2,PHI,0,1,0,Kickoff,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback.",Kickoff from MIN 35
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,2,PHI,0,2,0,11 Yard Pass,(10:14) (Shotgun) N.Foles pass short right to N.Agholor to PHI 36 for 11 yards (T.Newman).,1st & 10 at PHI 25
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,2,PHI,0,3,0,Pass Incomplete,(9:36) (Shotgun) N.Foles pass incomplete deep right to T.Smith (T.Waynes).,1st & 10 at PHI 36
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,2,PHI,0,4,0,6 Yard Pass,(9:28) (Shotgun) N.Foles pass short left to N.Agholor to PHI 42 for 6 yards (A.Sendejo).,2nd & 10 at PHI 36
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,2,PHI,0,5,0,Pass Incomplete,(8:46) (Shotgun) N.Foles pass incomplete deep right to T.Burton.,3rd & 4 at PHI 42
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,2,PHI,0,6,0,Punt,"(8:40) D.Jones punts 44 yards to MIN 14, Center-R.Lovato, fair catch by M.Sherels.
+PENALTY on PHI-S.Gibson, Fair Catch Interference, 15 yards, enforced at MIN 14.",4th & 4 at PHI 42
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,3,PHI,1,1,0,Pass Incomplete,(8:29) (Shotgun) C.Keenum pass incomplete short left to S.Diggs (R.Darby).,1st & 10 at MIN 29
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,3,PHI,1,2,0,Run for No Gain,(8:24) (Shotgun) J.McKinnon left tackle to MIN 29 for no gain (F.Cox).,2nd & 10 at MIN 29
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,3,PHI,1,3,0,12 Yard Pass,(7:45) (Shotgun) C.Keenum pass short left to S.Diggs ran ob at MIN 41 for 12 yards.,3rd & 10 at MIN 29
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,3,PHI,1,4,0,2 Yard Run,(7:15) L.Murray left guard to MIN 43 for 2 yards (F.Cox).,1st & 10 at MIN 41
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,3,PHI,1,5,0,Pass Incomplete,(6:47) (Shotgun) C.Keenum pass incomplete short left to S.Diggs. MIN-S.Diggs was injured during the play.,2nd & 8 at MIN 43
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,3,PHI,1,6,1,Touchdown Eagles,"(6:42) (Shotgun) C.Keenum pass short right intended for A.Thielen INTERCEPTED by P.Robinson (C.Long) at 50. P.Robinson for 50 yards, TOUCHDOWN. Quarterback's arm hit by #56 Chris Long.",3rd & 8 at MIN 43
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,4,MIN,0,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.",Kickoff from PHI 35
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,4,MIN,0,2,0,4 Yard Run,(6:26) L.Murray right tackle to MIN 29 for 4 yards (M.Jenkins; N.Goode).,1st & 10 at MIN 25
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,4,MIN,0,3,0,Pass Incomplete,(5:50) (Shotgun) C.Keenum pass incomplete short right to K.Rudolph [C.Long].,2nd & 6 at MIN 29
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,4,MIN,0,4,0,1 Yard Pass,(5:47) (Shotgun) C.Keenum pass short right to S.Diggs to MIN 30 for 1 yard (M.Jenkins).,3rd & 6 at MIN 29
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,1ST QUARTER,4,MIN,0,5,0,Punt,"(5:05) R.Quigley punts 45 yards to PHI 25, Center-J.Overbaugh, fair catch by K.Barner.",4th & 5 at MIN 30
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,1,PHI,1,1,0,13 Yard Run,(4:57) (Shotgun) J.Ajayi left end to PHI 38 for 13 yards (D.Hunter).,1st & 10 at PHI 25
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,1,PHI,1,2,0,7 Yard Run,(4:15) (Shotgun) J.Ajayi up the middle to PHI 45 for 7 yards (T.Johnson).,1st & 10 at PHI 38
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,1,PHI,1,3,0,8 Yard Pass,(3:35) N.Foles pass short right to A.Jeffery to MIN 47 for 8 yards (X.Rhodes) [L.Joseph].,2nd & 3 at PHI 45
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,1,PHI,1,4,0,Run for No Gain,(2:57) N.Agholor left end pushed ob at MIN 47 for no gain (A.Barr).,1st & 10 at MIN 47
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,1,PHI,1,5,0,Pass Incomplete,(2:26) N.Foles pass incomplete short middle to B.Celek (E.Kendricks) [E.Griffen].,2nd & 10 at MIN 47
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,1,PHI,1,6,0,11 Yard Pass,(2:18) (Shotgun) N.Foles pass short middle to Z.Ertz to MIN 36 for 11 yards (M.Alexander).,3rd & 10 at MIN 47
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,1,PHI,1,7,0,8 Yard Pass,(1:36) (Shotgun) N.Foles pass short middle to Z.Ertz to MIN 28 for 8 yards (H.Smith).,1st & 10 at MIN 36
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,1,PHI,1,8,0,2 Yard Run,(1:03) L.Blount right tackle to MIN 26 for 2 yards (A.Barr; D.Hunter).,2nd & 2 at MIN 28
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,1,PHI,1,9,0,9 Yard Pass,(:17) (Shotgun) N.Foles pass short right to A.Jeffery to MIN 17 for 9 yards (X.Rhodes).,1st & 10 at MIN 26
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,1,PHI,1,10,0,Run for No Gain,(15:00) J.Ajayi up the middle to MIN 17 for no gain (T.Johnson).,2nd & 1 at MIN 17
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,1,PHI,1,11,0,6 Yard Pass,(14:15) (Shotgun) N.Foles pass short right to Z.Ertz pushed ob at MIN 11 for 6 yards (H.Smith).,3rd & 1 at MIN 17
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,1,PHI,1,12,0,Touchdown Eagles,"(13:42) L.Blount right tackle for 11 yards, TOUCHDOWN.",1st & 10 at MIN 11
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,1,PHI,1,13,1,Extra Point Good,"J.Elliott extra point is GOOD, Center-R.Lovato, Holder-D.Jones.",XP attempt from MIN 15
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,2,MIN,0,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.",Kickoff from PHI 35
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,2,MIN,0,2,0,1 Yard Run,"(13:37) L.Murray right end to MIN 26 for 1 yard (M.Kendricks, V.Curry).",1st & 10 at MIN 25
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,2,MIN,0,3,0,7 Yard Pass,(12:56) (Shotgun) C.Keenum pass short right to S.Diggs to MIN 33 for 7 yards (J.Mills) [V.Curry].,2nd & 9 at MIN 26
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,2,MIN,0,4,0,Pass Incomplete,(12:11) (Shotgun) C.Keenum pass incomplete short left to J.McKinnon.,3rd & 2 at MIN 33
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,2,MIN,0,5,0,Punt,"(12:07) R.Quigley punts 47 yards to PHI 20, Center-J.Overbaugh. K.Barner to PHI 30 for 10 yards (A.Harris).",4th & 2 at MIN 33
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,3,PHI,0,1,0,2 Yard Run,(11:54) L.Blount up the middle to PHI 32 for 2 yards (L.Joseph).,1st & 10 at PHI 30
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,3,PHI,0,2,0,Pass Incomplete,(11:15) (Shotgun) N.Foles pass incomplete short right to N.Agholor.,2nd & 8 at PHI 32
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,3,PHI,0,3,0,15 Yard Pass,(11:12) (Shotgun) N.Foles pass short right to Z.Ertz to PHI 47 for 15 yards (A.Sendejo).,3rd & 8 at PHI 32
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,3,PHI,0,4,0,3 Yard Run,(10:38) (Shotgun) J.Ajayi up the middle to 50 for 3 yards (A.Sendejo).,1st & 10 at PHI 47
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,3,PHI,0,5,0,Pass Incomplete,(10:10) (Shotgun) N.Foles pass incomplete right (E.Kendricks).,2nd & 7 at 50
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,3,PHI,0,6,0,-6 Yard Sack,(10:05) (Shotgun) N.Foles sacked at PHI 44 for -6 yards (D.Hunter).,3rd & 7 at 50
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,3,PHI,0,7,0,Punt,"(9:27) D.Jones punts 41 yards to MIN 15, Center-R.Lovato, fair catch by M.Sherels.",4th & 13 at PHI 44
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,4,MIN,0,1,0,2 Yard Run,(9:19) J.McKinnon left tackle to MIN 17 for 2 yards (R.Darby).,1st & 10 at MIN 15
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,4,MIN,0,2,0,22 Yard Pass,(8:44) (Shotgun) C.Keenum pass deep right to S.Diggs to MIN 39 for 22 yards (M.Jenkins).,2nd & 8 at MIN 17
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,4,MIN,0,3,0,Pass Incomplete,(8:03) (Shotgun) C.Keenum pass incomplete short right.,1st & 10 at MIN 39
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,4,MIN,0,4,0,4 Yard Run,(7:54) J.Wright left end to MIN 43 for 4 yards (M.Kendricks).,2nd & 10 at MIN 39
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,4,MIN,0,5,0,8 Yard Pass,(7:08) (Shotgun) C.Keenum pass short right to S.Diggs ran ob at PHI 49 for 8 yards (J.Mills).,3rd & 6 at MIN 43
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,4,MIN,0,6,0,12 Yard Pass,(6:36) C.Keenum pass short left to A.Thielen to PHI 37 for 12 yards (R.Darby).,1st & 10 at PHI 49
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,4,MIN,0,7,0,3 Yard Run,(5:57) J.McKinnon left tackle to PHI 34 for 3 yards (C.Long).,1st & 10 at PHI 37
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,4,MIN,0,8,0,13 Yard Pass,(5:21) (Shotgun) C.Keenum pass short left to J.McKinnon to PHI 21 for 13 yards (C.Long).,2nd & 7 at PHI 34
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,4,MIN,0,9,0,1 Yard Run,(4:49) (No Huddle) J.McKinnon left end to PHI 20 for 1 yard (M.Kendricks; B.Allen).,1st & 10 at PHI 21
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,4,MIN,0,10,0,4 Yard Pass,(4:07) (Shotgun) C.Keenum pass short left to J.McKinnon to PHI 16 for 4 yards (M.Kendricks).,2nd & 9 at PHI 20
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,4,MIN,0,11,0,Fumble,"(3:25) (Shotgun) C.Keenum sacked at PHI 25 for -9 yards (D.Barnett). FUMBLES (D.Barnett) [D.Barnett], RECOVERED by PHI-C.Long at PHI 24. C.Long to PHI 24 for no gain (R.Hill).",3rd & 5 at PHI 16
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,5,PHI,1,1,0,2 Yard Pass,(3:16) N.Foles pass short right to J.Ajayi to PHI 26 for 2 yards (M.Alexander; L.Joseph).,1st & 10 at PHI 24
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,5,PHI,1,2,0,2 Yard Run,(2:34) (Shotgun) L.Blount left end to PHI 28 for 2 yards (D.Hunter).,2nd & 8 at PHI 26
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,5,PHI,1,3,0,8 Yard Pass,(2:00) (Shotgun) N.Foles pass short left to C.Clement pushed ob at PHI 36 for 8 yards (A.Sendejo).,3rd & 6 at PHI 28
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,5,PHI,1,4,0,11 Yard Pass,"(1:54) (No Huddle, Shotgun) N.Foles pass short right to T.Smith to PHI 47 for 11 yards (E.Kendricks).",1st & 10 at PHI 36
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,5,PHI,1,5,0,Pass Incomplete,"(1:32) (No Huddle, Shotgun) N.Foles pass incomplete deep left to T.Smith.",1st & 10 at PHI 47
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,5,PHI,1,6,0,Pass Incomplete,(1:25) (Shotgun) N.Foles pass incomplete short left to M.Hollins [E.Griffen].,2nd & 10 at PHI 47
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,5,PHI,1,7,0,Touchdown Eagles,"(1:18) (Shotgun) N.Foles pass deep right to A.Jeffery for 53 yards, TOUCHDOWN.",3rd & 10 at PHI 47
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,5,PHI,1,8,1,Extra Point Good,"J.Elliott extra point is GOOD, Center-R.Lovato, Holder-D.Jones.",XP attempt from MIN 15
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,6,MIN,0,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.",Kickoff from PHI 35
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,6,MIN,0,2,0,2 Yard Pass,(1:09) (Shotgun) C.Keenum pass short right to J.McKinnon pushed ob at MIN 27 for 2 yards (C.Graham).,1st & 10 at MIN 25
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,6,MIN,0,3,0,5 Yard Pass,(1:04) (Shotgun) C.Keenum pass short right to J.McKinnon pushed ob at MIN 32 for 5 yards (C.Graham).,2nd & 8 at MIN 27
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,6,MIN,0,4,0,11 Yard Pass,(:58) (Shotgun) C.Keenum pass short middle to J.Wright to MIN 43 for 11 yards (C.Graham).,3rd & 3 at MIN 32
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,6,MIN,0,5,0,4 Yard Pass,(:54) (Shotgun) C.Keenum pass short right to J.McKinnon pushed ob at MIN 47 for 4 yards (C.Graham).,1st & 10 at MIN 43
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,6,MIN,0,6,0,Pass Incomplete,(:48) (Shotgun) C.Keenum pass incomplete short right to S.Diggs.,2nd & 6 at MIN 47
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,6,MIN,0,7,0,Pass Incomplete,(:44) (Shotgun) C.Keenum pass incomplete short right to K.Rudolph [C.Long].,3rd & 6 at MIN 47
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,6,MIN,0,8,0,Punt,"(:38) R.Quigley punts 53 yards to end zone, Center-J.Overbaugh, Touchback.",4th & 6 at MIN 47
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,7,PHI,1,1,0,11 Yard Pass,(:29) (Shotgun) N.Foles pass short left to J.Ajayi ran ob at PHI 31 for 11 yards (H.Smith).,1st & 10 at PHI 20
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,7,PHI,1,2,0,36 Yard Pass,(:23) (Shotgun) N.Foles pass deep left to Z.Ertz ran ob at MIN 33 for 36 yards.,1st & 10 at PHI 31
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,7,PHI,1,3,0,13 Yard Pass,(:15) (Shotgun) N.Foles pass short left to J.Ajayi to MIN 20 for 13 yards (H.Smith).,1st & 10 at MIN 33
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,2ND QUARTER,7,PHI,1,4,1,Field Goal,"(:04) J.Elliott 38 yard field goal is GOOD, Center-R.Lovato, Holder-D.Jones.",1st & 10 at MIN 20
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,3RD QUARTER,1,PHI,1,1,0,Kickoff,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback.",Kickoff from MIN 35
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,3RD QUARTER,1,PHI,1,2,0,4 Yard Pass,(15:00) (Shotgun) N.Foles pass short left to T.Smith to PHI 29 for 4 yards (T.Waynes).,1st & 10 at PHI 25
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,3RD QUARTER,1,PHI,1,3,0,6 Yard Pass,(14:26) (Shotgun) N.Foles pass short left to T.Smith to PHI 35 for 6 yards (T.Waynes).,2nd & 6 at PHI 29
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,3RD QUARTER,1,PHI,1,4,0,3 Yard Run,(13:47) (Shotgun) J.Ajayi up the middle to PHI 38 for 3 yards (T.Newman).,1st & 10 at PHI 35
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,3RD QUARTER,1,PHI,1,5,0,10 Yard Pass,(13:07) (Shotgun) N.Foles pass short left to A.Jeffery to PHI 48 for 10 yards (H.Smith) [A.Barr].,2nd & 7 at PHI 38
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,3RD QUARTER,1,PHI,1,6,0,5 Yard Run,(12:22) (Shotgun) J.Ajayi up the middle to MIN 47 for 5 yards (A.Barr; L.Joseph).,1st & 10 at PHI 48
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,3RD QUARTER,1,PHI,1,7,0,-1 Yard Run,(11:41) L.Blount up the middle to MIN 48 for -1 yards (T.Newman).,2nd & 5 at MIN 47
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,3RD QUARTER,1,PHI,1,8,0,7 Yard Pass,(10:57) (Shotgun) N.Foles pass short right to T.Smith to MIN 41 for 7 yards (A.Harris).,3rd & 6 at MIN 48
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,3RD QUARTER,1,PHI,1,9,0,Touchdown Eagles,"(10:13) N.Foles pass deep left to T.Smith for 41 yards, TOUCHDOWN.",1st & 10 at MIN 41
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,3RD QUARTER,1,PHI,1,10,1,Extra Point Good,"J.Elliott extra point is GOOD, Center-R.Lovato, Holder-D.Jones.",XP attempt from MIN 15
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,3RD QUARTER,2,MIN,0,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.",Kickoff from PHI 35
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,3RD QUARTER,2,MIN,0,2,0,Pass for No Gain,(10:05) (Shotgun) C.Keenum pass short right to L.Murray to MIN 25 for no gain (P.Robinson).,1st & 10 at MIN 25
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,3RD QUARTER,2,MIN,0,3,0,13 Yard Pass,(9:27) (Shotgun) C.Keenum pass short left to J.McKinnon to MIN 38 for 13 yards (R.Darby; R.McLeod).,2nd & 10 at MIN 25
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,3RD QUARTER,2,MIN,0,4,0,9 Yard Run,(8:48) (Shotgun) J.McKinnon up the middle to MIN 47 for 9 yards (R.McLeod).,1st & 10 at MIN 38
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,3RD QUARTER,2,MIN,0,5,0,2 Yard Run,"(8:21) (No Huddle, Shotgun) J.McKinnon left end to MIN 49 for 2 yards (M.Kendricks).",2nd & 1 at MIN 47
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,3RD QUARTER,2,MIN,0,6,0,33 Yard Pass,(7:53) (No Huddle) C.Keenum pass deep left to J.Wright ran ob at PHI 18 for 33 yards.,1st & 10 at MIN 49
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,3RD QUARTER,2,MIN,0,7,0,Pass Incomplete,(7:28) (Shotgun) C.Keenum pass incomplete short left to A.Thielen (R.Darby).,1st & 10 at PHI 18
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,3RD QUARTER,2,MIN,0,8,0,Pass Incomplete,(7:22) (Shotgun) C.Keenum pass incomplete short right to J.Wright [B.Graham]. MIN-P.Elflein was injured during the play.,2nd & 10 at PHI 18
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,3RD QUARTER,2,MIN,0,9,0,11 Yard Pass,(7:18) (Shotgun) C.Keenum pass short middle to J.McKinnon to PHI 7 for 11 yards (D.Barnett).,3rd & 10 at PHI 18
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,3RD QUARTER,2,MIN,0,10,0,Pass Incomplete,(6:41) (Shotgun) C.Keenum pass incomplete short right to J.Wright (J.Mills).,1st & 7 at PHI 7
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,3RD QUARTER,2,MIN,0,11,0,Pass Incomplete,(6:35) (Shotgun) C.Keenum pass incomplete short left to A.Thielen.,2nd & 7 at PHI 7
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,3RD QUARTER,2,MIN,0,12,0,Pass Incomplete,(6:31) (Shotgun) C.Keenum pass incomplete short right to A.Thielen.,3rd & 7 at PHI 7
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,3RD QUARTER,2,MIN,0,13,0,Turnover on Downs,"(6:27) (Shotgun) C.Keenum pass short left to A.Thielen for 7 yards, TOUCHDOWN.
+The Replay Official reviewed the pass completion ruling, and the play was REVERSED.
+(Shotgun) C.Keenum pass incomplete short left to A.Thielen.",4th & 7 at PHI 7
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,1,PHI,1,1,0,4 Yard Run,(6:21) J.Ajayi right end to PHI 12 for 4 yards (E.Kendricks).,1st & 10 at PHI 8
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,1,PHI,1,2,0,2 Yard Run,(5:38) (Shotgun) J.Ajayi left end to PHI 14 for 2 yards (B.Robison; J.Johnson).,2nd & 6 at PHI 12
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,1,PHI,1,3,0,6 Yard Pass,(5:00) N.Foles pass short middle to Z.Ertz to PHI 20 for 6 yards (A.Harris).,3rd & 4 at PHI 14
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,1,PHI,1,4,0,4 Yard Run,(4:19) (Shotgun) J.Ajayi right tackle to PHI 24 for 4 yards (E.Kendricks).,1st & 10 at PHI 20
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,1,PHI,1,5,0,1 Yard Run,(3:36) (Shotgun) J.Ajayi up the middle to PHI 25 for 1 yard (D.Hunter).,2nd & 6 at PHI 24
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,1,PHI,1,6,0,42 Yard Pass,(2:51) (Shotgun) N.Foles pass deep right to N.Agholor pushed ob at MIN 33 for 42 yards (T.Waynes; A.Harris).,3rd & 5 at PHI 25
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,1,PHI,1,7,0,-2 Yard Run,(2:11) J.Ajayi left end to MIN 35 for -2 yards (D.Hunter).,1st & 10 at MIN 33
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,1,PHI,1,8,0,12 Yard Pass,(1:29) (Shotgun) N.Foles pass short middle to T.Burton to MIN 23 for 12 yards (A.Harris).,2nd & 12 at MIN 35
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,1,PHI,1,9,0,18 Yard Run,"(:40) (Shotgun) C.Clement right end pushed ob at MIN 9 for 14 yards (E.Kendricks).
+PENALTY on MIN-S.Weatherly, Illegal Use of Hands, 4 yards, enforced at MIN 9.",1st & 10 at MIN 23
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,1,PHI,1,10,0,3 Yard Run,(:16) (Shotgun) J.Ajayi up the middle to MIN 2 for 3 yards (A.Harris).,1st & 5 at MIN 5
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,1,PHI,1,11,0,-3 Yard Run,(15:00) J.Ajayi up the middle to MIN 5 for -3 yards (L.Joseph).,2nd & 2 at MIN 2
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,1,PHI,1,12,0,Touchdown Eagles,"(14:15) (Shotgun) N.Foles pass short middle to A.Jeffery for 5 yards, TOUCHDOWN.",3rd & 5 at MIN 5
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,1,PHI,1,13,1,Extra Point Good,"J.Elliott extra point is GOOD, Center-R.Lovato, Holder-D.Jones.
+PENALTY on MIN-A.Barr, Unnecessary Roughness, 15 yards, enforced between downs.",XP attempt from MIN 15
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,2,MIN,0,1,0,Kickoff,"J.Elliott kicks 50 yards from 50 to end zone, Touchback.
+PENALTY on PHI-J.Watkins, Unnecessary Roughness, 15 yards, enforced at MIN 25.",Kickoff from 50
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,2,MIN,0,2,0,5 Yard Pass,(14:10) (Shotgun) C.Keenum pass short middle to S.Diggs to MIN 45 for 5 yards (N.Bradham).,1st & 10 at MIN 40
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,2,MIN,0,3,0,7 Yard Pass,"(13:44) (No Huddle, Shotgun) C.Keenum pass short right to J.Wright to PHI 48 for 7 yards (N.Bradham).",2nd & 5 at MIN 45
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,2,MIN,0,4,0,Pass Incomplete,"(13:20) (No Huddle, Shotgun) C.Keenum pass incomplete short right to K.Rudolph.",1st & 10 at PHI 48
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,2,MIN,0,5,0,Pass Incomplete,(13:17) (Shotgun) C.Keenum pass incomplete short right to L.Treadwell (C.Long).,2nd & 10 at PHI 48
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,2,MIN,0,6,0,8 Yard Run,(13:12) (Shotgun) C.Keenum scrambles right end to PHI 40 for 8 yards (V.Curry).,3rd & 10 at PHI 48
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,2,MIN,0,7,0,Turnover on Downs,(12:33) (Shotgun) C.Keenum pass incomplete short right to S.Diggs [F.Cox].,4th & 2 at PHI 40
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,3,PHI,0,1,0,4 Yard Run,(12:29) (Shotgun) J.Ajayi right end to PHI 44 for 4 yards (E.Kendricks).,1st & 10 at PHI 40
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,3,PHI,0,2,0,-10 Yard Penalty,"(11:46) (Shotgun) L.Blount up the middle to PHI 48 for 4 yards (H.Smith).
+PENALTY on PHI-B.Celek, Offensive Holding, 10 yards, enforced at PHI 44 - No Play.",2nd & 6 at PHI 44
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,3,PHI,0,3,0,5 Yard Pass,(11:18) (Shotgun) N.Foles pass short right to Z.Ertz to PHI 39 for 5 yards (J.Johnson).,2nd & 16 at PHI 34
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,3,PHI,0,4,0,6 Yard Pass,(10:30) (Shotgun) N.Foles pass short left to Z.Ertz to PHI 45 for 6 yards (E.Griffen).,3rd & 11 at PHI 39
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,3,PHI,0,5,0,Punt,"(9:45) D.Jones punts 45 yards to MIN 10, Center-R.Lovato, fair catch by M.Sherels.",4th & 5 at PHI 45
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,4,MIN,0,1,0,4 Yard Pass,(9:39) (Shotgun) C.Keenum pass short left to A.Thielen to MIN 14 for 4 yards (M.Kendricks; R.Darby).,1st & 10 at MIN 10
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,4,MIN,0,2,0,7 Yard Run,"(9:19) (No Huddle, Shotgun) J.McKinnon up the middle to MIN 21 for 7 yards (M.Kendricks).",2nd & 6 at MIN 14
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,4,MIN,0,3,0,7 Yard Pass,"(8:58) (No Huddle, Shotgun) C.Keenum pass short right to J.McKinnon to MIN 28 for 7 yards (N.Bradham).",1st & 10 at MIN 21
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,4,MIN,0,4,0,5 Yard Pass,"(8:32) (No Huddle, Shotgun) C.Keenum pass short left to J.McKinnon to MIN 33 for 5 yards (D.Vaeao) [F.Cox].",2nd & 3 at MIN 28
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,4,MIN,0,5,0,12 Yard Pass,"(8:10) (No Huddle, Shotgun) C.Keenum pass short middle to J.McKinnon ran ob at MIN 45 for 12 yards.",1st & 10 at MIN 33
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,4,MIN,0,6,0,Pass Incomplete,(7:34) (Shotgun) C.Keenum pass incomplete deep right [V.Curry].,1st & 10 at MIN 45
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,4,MIN,0,7,0,1 Yard Pass,(7:28) (Shotgun) C.Keenum pass short right to S.Diggs to MIN 46 for 1 yard (P.Robinson).,2nd & 10 at MIN 45
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,4,MIN,0,8,0,14 Yard Pass,"(6:57) (No Huddle, Shotgun) C.Keenum pass short middle to S.Diggs to PHI 40 for 14 yards (C.Graham).",3rd & 9 at MIN 46
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,4,MIN,0,9,0,25 Yard Pass,"(6:34) (No Huddle, Shotgun) C.Keenum pass short middle to J.McKinnon to PHI 30 for 10 yards (M.Jenkins).
+PENALTY on PHI-N.Bradham, Face Mask (15 Yards), 15 yards, enforced at PHI 30.",1st & 10 at PHI 40
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,4,MIN,0,10,0,Pass Incomplete,(6:04) (Shotgun) C.Keenum pass incomplete short left to J.Wright.,1st & 10 at PHI 15
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,4,MIN,0,11,0,Interception,(5:59) (Shotgun) C.Keenum pass short left intended for A.Thielen INTERCEPTED by C.Graham (R.Darby) at PHI 7. C.Graham ran ob at PHI 7 for no gain (A.Thielen).,2nd & 10 at PHI 15
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,5,PHI,0,1,0,2 Yard Run,(5:52) J.Ajayi up the middle to PHI 9 for 2 yards (E.Kendricks).,1st & 10 at PHI 7
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,5,PHI,0,2,0,9 Yard Run,(5:10) (Shotgun) J.Ajayi left end to PHI 18 for 9 yards (T.Newman). MIN-A.Barr was injured during the play.,2nd & 8 at PHI 9
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,5,PHI,0,3,0,16 Yard Run,(4:24) J.Ajayi left end pushed ob at PHI 34 for 16 yards (A.Harris).,1st & 10 at PHI 18
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,5,PHI,0,4,0,2 Yard Run,(4:16) J.Ajayi right end to PHI 36 for 2 yards (L.Joseph).,1st & 10 at PHI 34
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,5,PHI,0,5,0,5 Yard Run,(3:31) L.Blount left guard to PHI 41 for 5 yards (H.Smith).,2nd & 8 at PHI 36
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,5,PHI,0,6,0,6 Yard Run,(2:43) (Shotgun) C.Clement up the middle to PHI 47 for 6 yards (E.Griffen).,3rd & 3 at PHI 41
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,5,PHI,0,7,0,-1 Yard Run,(2:00) N.Sudfeld kneels to PHI 46 for -1 yards.,1st & 10 at PHI 47
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,5,PHI,0,8,0,-2 Yard Run,(1:19) N.Sudfeld kneels to PHI 44 for -2 yards.,2nd & 11 at PHI 46
+2017,Conference Championships,SUN,01/21,Vikings,Eagles,4TH QUARTER,5,PHI,0,9,0,-1 Yard Run,(:35) N.Sudfeld kneels to PHI 43 for -1 yards.,3rd & 13 at PHI 44

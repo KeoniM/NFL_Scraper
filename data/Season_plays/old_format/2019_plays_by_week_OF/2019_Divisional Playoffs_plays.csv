@@ -1,0 +1,684 @@
+Season,Week,Day,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayDescription,PlayStart
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,1ST QUARTER,1,MIN,0,1,0,Kickoff,"M.Wishnowsky kicks 65 yards from SF 35 to end zone, Touchback.",Kickoff from SF 35
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,1ST QUARTER,1,MIN,0,2,0,3 Yard Run,(15:00) D.Cook right tackle to MIN 28 for 3 yards (A.Armstead).,1st & 10 at MIN 25
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,1ST QUARTER,1,MIN,0,3,0,-1 Yard Run,(14:35) D.Cook right guard to MIN 27 for -1 yards (D.Buckner).,2nd & 7 at MIN 28
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,1ST QUARTER,1,MIN,0,4,0,Pass Incomplete,(13:56) (Shotgun) K.Cousins pass incomplete short left to S.Diggs.,3rd & 8 at MIN 27
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,1ST QUARTER,1,MIN,0,5,0,Punt,"(13:51) B.Colquitt punts 39 yards to SF 34, Center-A.Cutting. R.James Jr. to SF 39 for 5 yards (A.Sendejo).",4th & 8 at MIN 27
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,1ST QUARTER,2,SF,1,1,0,2 Yard Run,(13:41) M.Breida right tackle to SF 41 for 2 yards (L.Joseph).,1st & 10 at SF 39
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,1ST QUARTER,2,SF,1,2,0,10 Yard Pass,(13:03) (Shotgun) J.Garoppolo pass short middle to D.Samuel to MIN 49 for 10 yards (X.Rhodes). Caught at SF 48.  3-yac,2nd & 8 at SF 41
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,1ST QUARTER,2,SF,1,3,0,Pass Incomplete,(12:32) J.Garoppolo pass incomplete short left to G.Kittle.,1st & 10 at MIN 49
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,1ST QUARTER,2,SF,1,4,0,22 Yard Pass,(12:28) J.Garoppolo pass deep left to E.Sanders to MIN 27 for 22 yards (A.Barr). Caught at MIN 28.  1-yac,2nd & 10 at MIN 49
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,1ST QUARTER,2,SF,1,5,0,11 Yard Pass,(11:40) J.Garoppolo pass short middle to E.Sanders to MIN 16 for 11 yards (H.Smith). Caught at MIN 19.  3-yac,1st & 10 at MIN 27
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,1ST QUARTER,2,SF,1,6,0,2 Yard Run,(10:55) T.Coleman up the middle to MIN 14 for 2 yards (E.Wilson).,1st & 10 at MIN 16
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,1ST QUARTER,2,SF,1,7,0,11 Yard Pass,(10:19) (Shotgun) J.Garoppolo pass short middle to G.Kittle to MIN 3 for 11 yards (A.Harris; H.Smith). Caught at MIN 6.  3-yac,2nd & 8 at MIN 14
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,1ST QUARTER,2,SF,1,8,0,Touchdown 49ers,"(9:33) (Shotgun) J.Garoppolo pass short middle to K.Bourne for 3 yards, TOUCHDOWN.",1st & 3 at MIN 3
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,1ST QUARTER,2,SF,1,9,1,Extra Point Good,"R.Gould extra point is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",XP attempt from MIN 15
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,1ST QUARTER,3,MIN,1,1,0,Kickoff,M.Wishnowsky kicks 63 yards from SF 35 to MIN 2. A.Abdullah to MIN 21 for 19 yards (R.Mostert).,Kickoff from SF 35
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,1ST QUARTER,3,MIN,1,2,0,2 Yard Run,(9:25) D.Cook up the middle to MIN 23 for 2 yards (F.Warner).,1st & 10 at MIN 21
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,1ST QUARTER,3,MIN,1,3,0,8 Yard Penalty,"(8:53) K.Cousins pass incomplete short left to S.Diggs [D.Buckner].
+PENALTY on SF-A.Witherspoon, Defensive Pass Interference, 8 yards, enforced at MIN 23 - No Play.",2nd & 8 at MIN 23
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,1ST QUARTER,3,MIN,1,4,0,5 Yard Pass,(8:49) K.Cousins pass short right to T.Conklin to MIN 36 for 5 yards (D.Greenlaw). Caught at MIN 26.  10-yac,1st & 10 at MIN 31
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,1ST QUARTER,3,MIN,1,5,0,3 Yard Pass,(8:11) K.Cousins pass short right to I.Smith to MIN 39 for 3 yards (J.Ward; F.Warner) [A.Armstead]. Caught at MIN 33.  6-yac,2nd & 5 at MIN 36
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,1ST QUARTER,3,MIN,1,6,0,12 Yard Pass,(7:29) (Shotgun) K.Cousins pass short left to A.Thielen to SF 49 for 12 yards (J.Ward). Caught at MIN 48.  3-yac,3rd & 2 at MIN 39
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,1ST QUARTER,3,MIN,1,7,0,4 Yard Pass,(6:51) K.Cousins pass short middle to D.Cook to SF 45 for 4 yards (F.Warner). Caught at SF 46.  1-yac,1st & 10 at SF 49
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,1ST QUARTER,3,MIN,1,8,0,4 Yard Run,"(6:11) D.Cook right tackle to SF 41 for 4 yards (K.Williams, D.Greenlaw).",2nd & 6 at SF 45
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,1ST QUARTER,3,MIN,1,9,0,Touchdown Vikings,"(5:30) (Shotgun) K.Cousins pass deep left to S.Diggs for 41 yards, TOUCHDOWN. Caught at SF 19.  19-yac",3rd & 2 at SF 41
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,1ST QUARTER,3,MIN,1,10,1,Extra Point Good,"D.Bailey extra point is GOOD, Center-A.Cutting, Holder-B.Colquitt.",XP attempt from SF 15
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,1,SF,0,1,0,Kickoff,"D.Bailey kicks 65 yards from MIN 35 to end zone, Touchback.",Kickoff from MIN 35
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,1,SF,0,2,0,6 Yard Run,(5:23) R.Mostert left end to SF 31 for 6 yards (E.Wilson).,1st & 10 at SF 25
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,1,SF,0,3,0,4 Yard Run,(4:44) R.Mostert right tackle to SF 35 for 4 yards (D.Hunter; L.Joseph).,2nd & 4 at SF 31
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,1,SF,0,4,0,3 Yard Run,(4:05) R.Mostert right tackle to SF 38 for 3 yards (A.Barr).,1st & 10 at SF 35
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,1,SF,0,5,0,10 Yard Run,(3:29) (Shotgun) R.Mostert up the middle to SF 48 for 10 yards (H.Smith).,2nd & 7 at SF 38
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,1,SF,0,6,0,Pass Incomplete,(2:55) (Shotgun) J.Garoppolo pass incomplete short right to D.Samuel.,1st & 10 at SF 48
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,1,SF,0,7,0,Run for No Gain,"(2:51) M.Breida right end to SF 48 for no gain (D.Hunter, A.Sendejo).",2nd & 10 at SF 48
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,1,SF,0,8,0,16 Yard Pass,(2:07) (Shotgun) J.Garoppolo pass deep right to K.Bourne to MIN 36 for 16 yards (A.Sendejo) [D.Hunter]. Caught at MIN 36.  0-yac,3rd & 10 at SF 48
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,1,SF,0,9,0,-9 Yard Sack,(1:18) J.Garoppolo sacked at MIN 45 for -9 yards (D.Hunter).,1st & 10 at MIN 36
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,1,SF,0,10,0,Pass Incomplete,(:34) (Shotgun) J.Garoppolo pass incomplete short middle to G.Kittle (E.Kendricks).,2nd & 19 at MIN 45
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,1,SF,0,11,0,-5 Yard Penalty,"(:30) (Shotgun) PENALTY on SF-M.McGlinchey, False Start, 5 yards, enforced at MIN 45 - No Play.",3rd & 19 at MIN 45
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,1,SF,0,12,0,Sack,(:30) (Shotgun) J.Garoppolo sacked ob at 50 for 0 yards (S.Weatherly).,3rd & 24 at 50
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,1,SF,0,13,0,Punt,"(15:00) M.Wishnowsky punts 37 yards to MIN 13, Center-K.Nelson. M.Sherels MUFFS catch, and recovers at MIN 12. M.Sherels to MIN 12 for no gain (T.Moore).",4th & 24 at 50
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,2,MIN,0,1,0,-8 Yard Sack,(14:52) K.Cousins sacked at MIN 4 for -8 yards (A.Armstead).,1st & 10 at MIN 12
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,2,MIN,0,2,0,3 Yard Run,(14:13) A.Mattison up the middle to MIN 7 for 3 yards (S.Thomas).,2nd & 18 at MIN 4
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,2,MIN,0,3,0,3 Yard Run,(13:30) (Shotgun) D.Cook left end pushed ob at MIN 10 for 3 yards (E.Moseley).,3rd & 15 at MIN 7
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,2,MIN,0,4,0,Punt,"(12:57) B.Colquitt punts 61 yards to SF 29, Center-A.Cutting. R.James Jr. to SF 47 for 18 yards (S.Weatherly).",4th & 12 at MIN 10
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,3,SF,1,1,0,Pass Incomplete,(12:45) (Shotgun) J.Garoppolo pass incomplete short right to K.Bourne (T.Waynes).,1st & 10 at SF 47
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,3,SF,1,2,0,3 Yard Run,(12:39) (Shotgun) R.Mostert up the middle to 50 for 3 yards (E.Griffen; E.Kendricks).,2nd & 10 at SF 47
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,3,SF,1,3,0,-5 Yard Penalty,"(12:03) (Shotgun) PENALTY on SF-D.Samuel, False Start, 5 yards, enforced at 50 - No Play.",3rd & 7 at 50
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,3,SF,1,4,0,14 Yard Pass,(11:39) (Shotgun) J.Garoppolo pass short left to D.Samuel to MIN 41 for 14 yards (A.Barr; X.Rhodes). Caught at MIN 44.  3-yac,3rd & 12 at SF 45
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,3,SF,1,5,0,6 Yard Run,"(10:49) D.Samuel left end to MIN 35 for 6 yards (X.Rhodes). FUMBLES (X.Rhodes), RECOVERED by MIN-H.Smith at MIN 35. H.Smith to MIN 35 for no gain (J.Garoppolo).
+The Replay Official reviewed the fumble ruling, and the play was REVERSED.
+D.Samuel left end to MIN 35 for 6 yards (X.Rhodes).",1st & 10 at MIN 41
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,3,SF,1,6,0,5 Yard Run,(10:33) T.Coleman right end to MIN 30 for 5 yards (L.Joseph).,2nd & 4 at MIN 35
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,3,SF,1,7,0,7 Yard Run,(9:51) T.Coleman left end to MIN 23 for 7 yards (A.Harris).,1st & 10 at MIN 30
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,3,SF,1,8,0,4 Yard Run,(9:05) T.Coleman up the middle to MIN 19 for 4 yards (E.Griffen).,2nd & 3 at MIN 23
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,3,SF,1,9,0,18 Yard Pass,"(8:19) J.Garoppolo pass short left to D.Samuel to MIN 1 for 18 yards (X.Rhodes, H.Smith). Caught at MIN 11.  10-yac",1st & 10 at MIN 19
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,3,SF,1,10,0,Run for No Gain,(7:51) (No Huddle) J.Garoppolo up the middle to MIN 1 for no gain (E.Kendricks).,1st & 1 at MIN 1
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,3,SF,1,11,0,Touchdown 49ers,"(7:13) T.Coleman left tackle for 1 yard, TOUCHDOWN.",2nd & 1 at MIN 1
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,3,SF,1,12,1,Extra Point Good,"R.Gould extra point is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",XP attempt from MIN 15
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,4,MIN,0,1,0,Kickoff,M.Wishnowsky kicks 61 yards from SF 35 to MIN 4. A.Abdullah to MIN 43 for 39 yards (J.Ward).,Kickoff from SF 35
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,4,MIN,0,2,0,Run for No Gain,(7:02) D.Cook right tackle to MIN 43 for no gain (N.Bosa).,1st & 10 at MIN 43
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,4,MIN,0,3,0,1 Yard Pass,(6:29) K.Cousins pass short middle to D.Cook to MIN 44 for 1 yard (J.Tartt). Caught at MIN 44.  0-yac,2nd & 10 at MIN 43
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,4,MIN,0,4,0,3 Yard Pass,(5:44) (Shotgun) K.Cousins pass short middle to K.Rudolph to MIN 47 for 3 yards (E.Moseley). Caught at MIN 47.  0-yac,3rd & 9 at MIN 44
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,4,MIN,0,5,0,Punt,"(4:54) B.Colquitt punts 45 yards to SF 8, Center-A.Cutting. R.James Jr. to SF 8 for no gain (K.Boyd).",4th & 6 at MIN 47
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,5,SF,0,1,0,1 Yard Run,(4:45) T.Coleman up the middle to SF 9 for 1 yard (A.Barr).,1st & 10 at SF 8
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,5,SF,0,2,0,8 Yard Run,(4:06) R.Mostert right end pushed ob at SF 17 for 8 yards (D.Hunter).,2nd & 9 at SF 9
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,5,SF,0,3,0,2 Yard Run,(3:29) J.Garoppolo up the middle to SF 19 for 2 yards (E.Kendricks; L.Joseph).,3rd & 1 at SF 17
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,5,SF,0,4,0,Interception,(2:49) J.Garoppolo pass short right intended for D.Samuel INTERCEPTED by E.Kendricks at SF 33. E.Kendricks to SF 29 for 4 yards (D.Samuel).,1st & 10 at SF 19
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,6,MIN,1,1,0,4 Yard Pass,(2:41) K.Cousins pass short right to D.Cook to SF 25 for 4 yards (S.Day) [N.Bosa]. Caught at SF 33.  8-yac,1st & 10 at SF 29
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,6,MIN,1,2,0,9 Yard Pass,(2:00) K.Cousins pass short left to A.Thielen to SF 16 for 9 yards (R.Sherman). Caught at SF 20.  4-yac,2nd & 6 at SF 25
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,6,MIN,1,3,0,-1 Yard Pass,(1:26) K.Cousins pass short left to D.Cook to SF 17 for -1 yards (S.Day). Caught at SF 20.  3-yac,1st & 10 at SF 16
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,6,MIN,1,4,0,Pass Incomplete,(:47) (Shotgun) K.Cousins pass incomplete short left to S.Diggs.,2nd & 11 at SF 17
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,6,MIN,1,5,0,-4 Yard Sack,(:44) (Shotgun) K.Cousins sacked at SF 21 for -4 yards (D.Ford).,3rd & 11 at SF 17
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,6,MIN,1,6,1,Field Goal,"(:36) D.Bailey 39 yard field goal is GOOD, Center-A.Cutting, Holder-B.Colquitt.",4th & 15 at SF 21
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,7,SF,0,1,0,Kickoff,"D.Bailey kicks 65 yards from MIN 35 to end zone, Touchback.",Kickoff from MIN 35
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,2ND QUARTER,7,SF,0,2,0,-1 Yard Run,(:31) J.Garoppolo kneels to SF 24 for -1 yards.,1st & 10 at SF 25
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,1,SF,1,1,0,Kickoff,"D.Bailey kicks 65 yards from MIN 35 to SF 0. R.James Jr. to SF 22 for 22 yards (M.Boone).
+PENALTY on MIN-H.Hill, Unnecessary Roughness, 15 yards, enforced at SF 22.",Kickoff from MIN 35
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,1,SF,1,2,0,5 Yard Run,(14:56) (Shotgun) R.Mostert up the middle to SF 42 for 5 yards (L.Joseph).,1st & 10 at SF 37
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,1,SF,1,3,0,Pass Incomplete,(14:36) (No Huddle) J.Garoppolo pass incomplete short middle to D.Samuel (X.Rhodes).,2nd & 5 at SF 42
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,1,SF,1,4,0,21 Yard Pass,(14:32) (Shotgun) J.Garoppolo pass deep middle to K.Bourne to MIN 37 for 21 yards (X.Rhodes). Caught at MIN 40.  3-yac,3rd & 5 at SF 42
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,1,SF,1,5,0,5 Yard Run,(13:42) T.Coleman left guard to MIN 32 for 5 yards (A.Barr).,1st & 10 at MIN 37
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,1,SF,1,6,0,7 Yard Run,(13:04) (Shotgun) T.Coleman right tackle to MIN 25 for 7 yards (L.Joseph).,2nd & 5 at MIN 32
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,1,SF,1,7,0,6 Yard Run,(12:18) T.Coleman left tackle to MIN 19 for 6 yards (A.Harris).,1st & 10 at MIN 25
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,1,SF,1,8,0,2 Yard Run,"(11:36) (Shotgun) R.Mostert up the middle to MIN 17 for 2 yards (E.Griffen, Jal.Johnson).",2nd & 4 at MIN 19
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,1,SF,1,9,0,Pass Incomplete,(10:54) J.Garoppolo pass incomplete short right [E.Wilson].,3rd & 2 at MIN 17
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,1,SF,1,10,1,Field Goal,"(10:47) R.Gould 35 yard field goal is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",4th & 2 at MIN 17
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,2,MIN,0,1,0,Kickoff,M.Wishnowsky kicks 63 yards from SF 35 to MIN 2. A.Abdullah to MIN 33 for 31 yards (E.Lee).,Kickoff from SF 35
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,2,MIN,0,2,0,1 Yard Run,(10:35) D.Cook up the middle to MIN 34 for 1 yard (N.Bosa).,1st & 10 at MIN 33
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,2,MIN,0,3,0,Pass Incomplete,(10:01) K.Cousins pass incomplete short right to D.Cook (N.Bosa).,2nd & 9 at MIN 34
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,2,MIN,0,4,0,Interception,"(9:56) (Shotgun) K.Cousins pass short right intended for A.Thielen INTERCEPTED by R.Sherman at MIN 42. R.Sherman to MIN 29 for 13 yards (A.Thielen). MIN-B.O'Neill was injured during the play. 
+PENALTY on SF-N.Bosa, Unnecessary Roughness, 15 yards, enforced at MIN 29.",3rd & 9 at MIN 34
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,3,SF,1,1,0,4 Yard Run,(9:49) T.Coleman up the middle to MIN 40 for 4 yards (H.Smith; E.Wilson).,1st & 10 at MIN 44
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,3,SF,1,2,0,6 Yard Run,(9:09) T.Coleman up the middle to MIN 34 for 6 yards (D.Hunter; A.Harris).,2nd & 6 at MIN 40
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,3,SF,1,3,0,6 Yard Run,(8:27) T.Coleman right tackle to MIN 28 for 6 yards (E.Wilson; L.Joseph).,1st & 10 at MIN 34
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,3,SF,1,4,0,7 Yard Run,(7:47) R.Mostert up the middle to MIN 21 for 7 yards (E.Wilson).,2nd & 4 at MIN 28
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,3,SF,1,5,0,4 Yard Run,(7:03) R.Mostert right tackle to MIN 17 for 4 yards (E.Wilson).,1st & 10 at MIN 21
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,3,SF,1,6,0,4 Yard Run,(6:21) R.Mostert left tackle to MIN 13 for 4 yards (E.Wilson).,2nd & 6 at MIN 17
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,3,SF,1,7,0,11 Yard Run,(5:39) (Shotgun) T.Coleman up the middle to MIN 2 for 11 yards (A.Harris).,3rd & 2 at MIN 13
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,3,SF,1,8,0,Touchdown 49ers,"(4:57) (Shotgun) T.Coleman right guard for 2 yards, TOUCHDOWN.",1st & 2 at MIN 2
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,3,SF,1,9,1,Extra Point Good,"R.Gould extra point is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",XP attempt from MIN 15
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,4,MIN,0,1,0,Kickoff,M.Wishnowsky kicks 66 yards from SF 35 to MIN -1. A.Abdullah to MIN 28 for 29 yards (M.Nzeocha).,Kickoff from SF 35
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,4,MIN,0,2,0,5 Yard Pass,(4:49) K.Cousins pass short left to A.Thielen to MIN 33 for 5 yards (E.Moseley). Caught at MIN 32.  1-yac,1st & 10 at MIN 28
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,4,MIN,0,3,0,1 Yard Pass,(4:23) (No Huddle) K.Cousins pass short middle to K.Rudolph to MIN 34 for 1 yard (F.Warner). Caught at MIN 33.  1-yac,2nd & 5 at MIN 33
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,4,MIN,0,4,0,Pass Incomplete,(3:44) (Shotgun) K.Cousins pass incomplete deep left to K.Rudolph (E.Moseley) [D.Ford].,3rd & 4 at MIN 34
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,4,MIN,0,5,0,Punt,"(3:37) B.Colquitt punts 49 yards to SF 17, Center-A.Cutting, downed by MIN-A.Abdullah.",4th & 4 at MIN 34
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,5,SF,0,1,0,6 Yard Run,(3:26) T.Coleman left guard to SF 23 for 6 yards (E.Wilson).,1st & 10 at SF 17
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,5,SF,0,2,0,3 Yard Run,(2:49) T.Coleman right guard to SF 26 for 3 yards (E.Kendricks).,2nd & 4 at SF 23
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,5,SF,0,3,0,Run for No Gain,(2:05) (Shotgun) T.Coleman up the middle to SF 26 for no gain (I.Odenigbo).,3rd & 1 at SF 26
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,3RD QUARTER,5,SF,0,4,0,Fumble,"(1:14) M.Wishnowsky punts 54 yards to MIN 20, Center-K.Nelson. M.Sherels MUFFS catch, touched at MIN 18, RECOVERED by SF-R.Mostert at MIN 10. R.Mostert to MIN 10 for no gain (M.Sherels).",4th & 1 at SF 26
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,1,SF,1,1,0,2 Yard Run,(1:05) R.Mostert left guard to MIN 8 for 2 yards (E.Kendricks).,1st & 10 at MIN 10
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,1,SF,1,2,0,4 Yard Pass,(:29) (Shotgun) J.Garoppolo pass short right to G.Kittle to MIN 4 for 4 yards (E.Wilson). Caught at MIN 10.  6-yac,2nd & 8 at MIN 8
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,1,SF,1,3,0,1 Yard Pass,(15:00) (Shotgun) J.Garoppolo pass short middle to G.Kittle to MIN 3 for 1 yard (H.Smith). Caught at MIN 6.  3-yac,3rd & 4 at MIN 4
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,1,SF,1,4,1,Field Goal,"(14:17) R.Gould 21 yard field goal is GOOD, Center-K.Nelson, Holder-M.Wishnowsky.",4th & 3 at MIN 3
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,2,MIN,0,1,0,Kickoff,M.Wishnowsky kicks 61 yards from SF 35 to MIN 4. A.Abdullah to MIN 34 for 30 yards (T.Moore).,Kickoff from SF 35
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,2,MIN,0,2,0,Pass Incomplete,(14:07) (Shotgun) K.Cousins pass incomplete short right to A.Thielen.,1st & 10 at MIN 34
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,2,MIN,0,3,0,2 Yard Pass,(14:03) (Shotgun) K.Cousins pass short middle to G.Bradbury to MIN 36 for 2 yards (A.Zettel). G.Bradbury made catch off a deflected pass.  Caught at MIN 33.  3-yac,2nd & 10 at MIN 34
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,2,MIN,0,4,0,-7 Yard Sack,(13:21) (Shotgun) K.Cousins sacked at MIN 29 for -7 yards (N.Bosa). SF-N.Bosa was injured during the play.,3rd & 8 at MIN 36
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,2,MIN,0,5,0,Punt,"(12:50) B.Colquitt punts 57 yards to SF 14, Center-A.Cutting, fair catch by R.James Jr..",4th & 15 at MIN 29
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,3,SF,0,1,0,2 Yard Run,(12:42) T.Coleman left tackle to SF 16 for 2 yards (E.Kendricks; A.Barr).,1st & 10 at SF 14
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,3,SF,0,2,0,4 Yard Run,(11:55) T.Coleman up the middle to SF 20 for 4 yards (H.Smith; E.Kendricks).,2nd & 8 at SF 16
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,3,SF,0,3,0,Pass Incomplete,(11:11) (Shotgun) J.Garoppolo pass incomplete short right to K.Bourne.,3rd & 4 at SF 20
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,3,SF,0,4,0,Punt,"(11:08) M.Wishnowsky punts 36 yards to MIN 44, Center-K.Nelson, fair catch by M.Sherels.",4th & 4 at SF 20
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,4,MIN,0,1,0,6 Yard Run,(11:00) (Shotgun) D.Cook left tackle to 50 for 6 yards (D.Greenlaw).,1st & 10 at MIN 44
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,4,MIN,0,2,0,-2 Yard Pass,"(10:37) (No Huddle, Shotgun) K.Cousins pass short right to D.Cook to MIN 48 for -2 yards (D.Greenlaw). FUMBLES (D.Greenlaw), and recovers at MIN 48. D.Cook to MIN 48 for no gain (S.Thomas). Caught at MIN 46.  2-yac",2nd & 4 at 50
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,4,MIN,0,3,0,-8 Yard Sack,"(9:52) (Shotgun) K.Cousins sacked at MIN 40 for -8 yards (D.Buckner). FUMBLES (D.Buckner) [D.Buckner], and recovers at MIN 40.",3rd & 6 at MIN 48
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,4,MIN,0,4,0,Punt,"(9:06) B.Colquitt punts 39 yards to SF 21, Center-A.Cutting, fair catch by R.James Jr..",4th & 14 at MIN 40
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,5,SF,0,1,0,8 Yard Run,(8:59) T.Coleman up the middle to SF 29 for 8 yards (H.Smith).,1st & 10 at SF 21
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,5,SF,0,2,0,11 Yard Run,(8:13) T.Coleman right end to SF 40 for 11 yards (A.Harris).,2nd & 2 at SF 29
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,5,SF,0,3,0,4 Yard Run,(7:25) T.Coleman up the middle to SF 44 for 4 yards (L.Joseph).,1st & 10 at SF 40
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,5,SF,0,4,0,Run for No Gain,(6:39) M.Breida right end to SF 44 for no gain (E.Kendricks).,2nd & 6 at SF 44
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,5,SF,0,5,0,5 Yard Run,(5:51) (Shotgun) M.Breida up the middle to SF 49 for 5 yards (A.Barr).,3rd & 6 at SF 44
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,5,SF,0,6,0,-5 Yard Penalty,"(5:04) (Run formation) PENALTY on SF, Delay of Game, 5 yards, enforced at SF 49 - No Play.",4th & 1 at SF 49
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,5,SF,0,7,0,Punt,"(4:41) M.Wishnowsky punts 56 yards to end zone, Center-K.Nelson, Touchback.",4th & 6 at SF 44
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,6,MIN,0,1,0,16 Yard Pass,(4:32) (Shotgun) K.Cousins pass short left to S.Diggs to MIN 36 for 16 yards (N.Bosa). Caught at MIN 26.  10-yac,1st & 10 at MIN 20
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,6,MIN,0,2,0,Pass Incomplete,"(4:09) (No Huddle, Shotgun) K.Cousins pass incomplete short middle to D.Cook.",1st & 10 at MIN 36
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,6,MIN,0,3,0,15 Yard Pass,(4:05) (Shotgun) K.Cousins pass short left to I.Smith to SF 49 for 15 yards (E.Moseley). Caught at MIN 46.  5-yac,2nd & 10 at MIN 36
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,6,MIN,0,4,0,2 Yard Pass,"(3:43) (No Huddle, Shotgun) K.Cousins pass short middle to D.Cook to SF 47 for 2 yards (F.Warner). Caught at SF 48.  1-yac",1st & 10 at SF 49
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,6,MIN,0,5,0,7 Yard Pass,"(3:21) (No Huddle, Shotgun) K.Cousins pass short left to A.Thielen to SF 40 for 7 yards (E.Moseley). Caught at SF 40.  0-yac",2nd & 8 at SF 47
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,6,MIN,0,6,0,Run for No Gain,"(2:53) (No Huddle) D.Cook left tackle to SF 40 for no gain (N.Bosa, F.Warner).",3rd & 1 at SF 40
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,6,MIN,0,7,0,Turnover on Downs,(2:35) (Shotgun) K.Cousins pass incomplete deep left to S.Diggs (E.Moseley).,4th & 1 at SF 40
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,7,SF,0,1,0,6 Yard Run,(2:29) M.Breida up the middle to SF 46 for 6 yards (S.Stephen).,1st & 10 at SF 40
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,7,SF,0,2,0,2 Yard Run,(2:00) M.Breida right end to SF 48 for 2 yards (S.Stephen).,2nd & 4 at SF 46
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,7,SF,0,3,0,1 Yard Run,(1:54) M.Breida up the middle to SF 49 for 1 yard (E.Wilson; X.Rhodes).,3rd & 2 at SF 48
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,7,SF,0,4,0,Fumble,"(1:49) M.Breida up the middle to MIN 49 for 2 yards (A.Barr). FUMBLES (A.Barr), RECOVERED by MIN-A.Barr at 50. A.Barr to 50 for no gain (M.Breida).",4th & 1 at SF 49
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,8,MIN,0,1,0,17 Yard Pass,(1:45) (Shotgun) K.Cousins pass short left to A.Thielen to SF 33 for 17 yards (A.Witherspoon). Caught at SF 37.  4-yac,1st & 10 at 50
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,8,MIN,0,2,0,-11 Yard Sack,"(1:22) (No Huddle, Shotgun) K.Cousins sacked at SF 44 for -11 yards (S.Thomas).",1st & 10 at SF 33
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,8,MIN,0,3,0,-8 Yard Sack,(1:18) (Shotgun) K.Cousins sacked at MIN 48 for -8 yards (N.Bosa).,2nd & 21 at SF 44
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,8,MIN,0,4,0,7 Yard Pass,"(:49) (No Huddle, Shotgun) K.Cousins pass short right to A.Abdullah to SF 45 for 7 yards (K.Williams; F.Warner). Caught at SF 49.  4-yac",3rd & 29 at MIN 48
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,8,MIN,0,5,0,Turnover on Downs,"(:26) (No Huddle, Shotgun) K.Cousins pass deep middle to I.Smith to SF 24 for 21 yards (J.Ward). Caught at SF 24.  0-yac",4th & 22 at SF 45
+2019,Divisional Playoffs,SAT,01/11,Vikings,49ers,4TH QUARTER,9,SF,0,1,0,-1 Yard Run,(:16) J.Garoppolo kneels to SF 23 for -1 yards.,1st & 10 at SF 24
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,1ST QUARTER,1,TEN,0,1,0,Kickoff,"J.Tucker kicks 65 yards from BAL 35 to end zone, Touchback.",Kickoff from BAL 35
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,1ST QUARTER,1,TEN,0,2,0,2 Yard Run,(15:00) D.Henry left tackle to TEN 27 for 2 yards (L.Fort).,1st & 10 at TEN 25
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,1ST QUARTER,1,TEN,0,3,0,15 Yard Pass,(14:22) R.Tannehill pass short left to M.Pruitt pushed ob at TEN 42 for 15 yards (L.Fort).,2nd & 8 at TEN 27
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,1ST QUARTER,1,TEN,0,4,0,4 Yard Run,(13:47) D.Henry right guard to TEN 46 for 4 yards (M.Pierce).,1st & 10 at TEN 42
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,1ST QUARTER,1,TEN,0,5,0,-1 Yard Pass,(13:09) R.Tannehill pass short right to D.Henry to TEN 45 for -1 yards (M.Peters).,2nd & 6 at TEN 46
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,1ST QUARTER,1,TEN,0,6,0,-5 Yard Penalty,"(12:20) (Shotgun) PENALTY on TEN, Delay of Game, 5 yards, enforced at TEN 45 - No Play.",3rd & 7 at TEN 45
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,1ST QUARTER,1,TEN,0,7,0,Pass Incomplete,(12:00) (Shotgun) R.Tannehill pass incomplete deep middle to A.Brown (J.Smith) [J.Ward].,3rd & 12 at TEN 40
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,1ST QUARTER,1,TEN,0,8,0,Punt,"(11:54) (Punt formation) B.Kern punts 60 yards to end zone, Center-B.Brinkley, Touchback.
+PENALTY on TEN-D.Cruikshank, Illegal Touch Kick, 0 yards, enforced at BAL 20. Penalty causes Touchback",4th & 12 at TEN 40
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,1ST QUARTER,2,BAL,0,1,0,4 Yard Run,(11:42) (Shotgun) L.Jackson scrambles left end pushed ob at BAL 24 for 4 yards (R.Evans).,1st & 10 at BAL 20
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,1ST QUARTER,2,BAL,0,2,0,9 Yard Run,(11:13) (Shotgun) L.Jackson left tackle to BAL 33 for 9 yards (K.Byard).,2nd & 6 at BAL 24
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,1ST QUARTER,2,BAL,0,3,0,Run for No Gain,(10:32) (Shotgun) M.Ingram II right guard to BAL 33 for no gain (R.Evans).,1st & 10 at BAL 33
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,1ST QUARTER,2,BAL,0,4,0,12 Yard Pass,(9:53) (Shotgun) L.Jackson pass short left to M.Andrews pushed ob at BAL 45 for 12 yards (K.Byard).,2nd & 10 at BAL 33
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,1ST QUARTER,2,BAL,0,5,0,19 Yard Run,(9:20) (Shotgun) G.Edwards right guard to TEN 36 for 19 yards (L.Ryan; K.Byard).,1st & 10 at BAL 45
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,1ST QUARTER,2,BAL,0,6,0,Run for No Gain,(8:40) (Shotgun) G.Edwards right guard to TEN 36 for no gain (D.Long).,1st & 10 at TEN 36
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,1ST QUARTER,2,BAL,0,7,0,Interception,"(8:02) (Shotgun) L.Jackson pass deep middle intended for M.Andrews INTERCEPTED by K.Byard at TEN 19. K.Byard pushed ob at 50 for 31 yards (L.Jackson).
+PENALTY on BAL-L.Jackson, Unnecessary Roughness, 15 yards, enforced at 50.",2nd & 10 at TEN 36
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,1ST QUARTER,3,TEN,1,1,0,3 Yard Run,(7:49) D.Henry right guard to BAL 32 for 3 yards (J.Ward).,1st & 10 at BAL 35
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,1ST QUARTER,3,TEN,1,2,0,9 Yard Run,(7:14) D.Henry right guard to BAL 23 for 9 yards (E.Thomas III; J.Bynes).,2nd & 7 at BAL 32
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,1ST QUARTER,3,TEN,1,3,0,7 Yard Run,(6:34) (No Huddle) D.Henry right guard to BAL 16 for 7 yards (P.Onwuasor).,1st & 10 at BAL 23
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,1ST QUARTER,3,TEN,1,4,0,1 Yard Run,(6:05) (No Huddle) D.Henry right guard to BAL 15 for 1 yard (E.Thomas III).,2nd & 3 at BAL 16
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,1ST QUARTER,3,TEN,1,5,0,9 Yard Run,"(5:25) (Shotgun) R.Tannehill scrambles right end pushed ob at BAL 12 for 3 yards (P.Onwuasor).
+PENALTY on BAL-P.Onwuasor, Unnecessary Roughness, 6 yards, enforced at BAL 12.",3rd & 2 at BAL 15
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,1ST QUARTER,3,TEN,1,6,0,2 Yard Run,(5:04) (Shotgun) D.Henry right guard to BAL 04 for 2 yards (J.Ferguson).,1st & 6 at BAL 6
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,1ST QUARTER,3,TEN,1,7,0,-8 Yard Sack,(4:23) R.Tannehill sacked at BAL 12 for -8 yards (E.Thomas III).,2nd & 4 at BAL 4
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,1ST QUARTER,3,TEN,1,8,0,Touchdown Titans,"(3:42) (Shotgun) R.Tannehill pass short left to J.Smith for 12 yards, TOUCHDOWN.
+The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands.",3rd & 12 at BAL 12
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,1ST QUARTER,3,TEN,1,9,1,Extra Point Good,"G.Joseph extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",XP attempt from BAL 15
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,1,BAL,0,1,0,Kickoff,G.Joseph kicks 62 yards from TEN 35 to BAL 3. D.Thomas to BAL 25 for 22 yards (L.Sims; K.Blasingame).,Kickoff from TEN 35
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,1,BAL,0,2,0,5 Yard Run,(3:31) (Shotgun) M.Ingram II right guard to BAL 30 for 5 yards (J.Casey).,1st & 10 at BAL 25
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,1,BAL,0,3,0,6 Yard Pass,(2:50) (Shotgun) L.Jackson pass short middle to W.Snead IV to BAL 36 for 6 yards (D.Long).,2nd & 5 at BAL 30
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,1,BAL,0,4,0,4 Yard Run,(2:06) (Shotgun) L.Jackson right guard to BAL 40 for 4 yards (R.Evans).,1st & 10 at BAL 36
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,1,BAL,0,5,0,1 Yard Run,(1:23) (Shotgun) M.Ingram II left guard to BAL 41 for 1 yard (H.Landry).,2nd & 6 at BAL 40
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,1,BAL,0,6,0,4 Yard Pass,(:41) (Shotgun) L.Jackson pass short left to S.Roberts to BAL 45 for 4 yards (T.Brock).,3rd & 5 at BAL 41
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,1,BAL,0,7,0,Turnover on Downs,(15:00) (Shotgun) L.Jackson right guard to BAL 45 for no gain (D.Long).,4th & 1 at BAL 45
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,2,TEN,1,1,0,Touchdown Titans,"(14:53) R.Tannehill pass deep middle to K.Raymond for 45 yards, TOUCHDOWN.",1st & 10 at BAL 45
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,2,TEN,1,2,1,Extra Point Good,"G.Joseph extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",XP attempt from BAL 15
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,3,BAL,0,1,0,Kickoff,G.Joseph kicks 66 yards from TEN 35 to BAL -1. D.Thomas to BAL 26 for 27 yards (L.Sims).,Kickoff from TEN 35
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,3,BAL,0,2,0,Pass Incomplete,(14:39) (Shotgun) L.Jackson pass incomplete deep left to S.Roberts.,1st & 10 at BAL 26
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,3,BAL,0,3,0,2 Yard Run,(14:33) (Shotgun) L.Jackson scrambles right tackle to BAL 28 for 2 yards (K.Correa).,2nd & 10 at BAL 26
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,3,BAL,0,4,0,Pass Incomplete,(13:45) (Shotgun) L.Jackson pass incomplete deep right to M.Brown [K.Vaccaro].,3rd & 8 at BAL 28
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,3,BAL,0,5,0,Punt,"(13:40) (Punt formation) S.Koch punts 44 yards to TEN 28, Center-M.Cox, fair catch by K.Raymond.",4th & 8 at BAL 28
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,4,TEN,0,1,0,9 Yard Run,(13:33) A.Brown right end to TEN 37 for 9 yards (M.Humphrey). end around,1st & 10 at TEN 28
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,4,TEN,0,2,0,4 Yard Run,(12:57) D.Henry right guard to TEN 41 for 4 yards (C.Clark).,2nd & 1 at TEN 37
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,4,TEN,0,3,0,Pass Incomplete,(12:15) (Shotgun) R.Tannehill pass incomplete deep left to T.Sharpe.,1st & 10 at TEN 41
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,4,TEN,0,4,0,-4 Yard Run,(12:09) D.Kelly reported in as eligible.  D.Henry right guard to TEN 37 for -4 yards (B.Williams).,2nd & 10 at TEN 41
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,4,TEN,0,5,0,Pass Incomplete,(11:29) (Shotgun) R.Tannehill pass incomplete deep left to T.Sharpe [J.Ward].,3rd & 14 at TEN 37
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,4,TEN,0,6,0,Punt,"(11:22) (Punt formation) B.Kern punts 63 yards to end zone, Center-B.Brinkley, Touchback.
+PENALTY on BAL-B.Trawick, Offensive Holding, 10 yards, enforced at BAL 20.",4th & 14 at TEN 37
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,5,BAL,1,1,0,6 Yard Run,(11:13) (Shotgun) M.Ingram II left guard to BAL 16 for 6 yards (D.Long).,1st & 10 at BAL 10
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,5,BAL,1,2,0,5 Yard Run,(10:42) (Shotgun) L.Jackson up the middle to BAL 21 for 5 yards (J.Casey).,2nd & 4 at BAL 16
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,5,BAL,1,3,0,Pass Incomplete,(9:57) (Shotgun) L.Jackson pass incomplete short middle to S.Roberts.,1st & 10 at BAL 21
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,5,BAL,1,4,0,Pass Incomplete,(9:52) (Shotgun) L.Jackson pass incomplete short right to M.Brown (T.Brock) [D.Jones].,2nd & 10 at BAL 21
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,5,BAL,1,5,0,30 Yard Pass,(9:48) (Shotgun) L.Jackson pass deep middle to M.Brown to TEN 49 for 30 yards (A.Hooker).,3rd & 10 at BAL 21
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,5,BAL,1,6,0,1 Yard Run,(9:03) (Shotgun) L.Jackson right guard to TEN 48 for 1 yard (L.Ryan).,1st & 10 at TEN 49
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,5,BAL,1,7,0,3 Yard Run,(8:21) (Shotgun) M.Ingram II left tackle to TEN 45 for 3 yards (J.Simmons; R.Evans).,2nd & 9 at TEN 48
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,5,BAL,1,8,0,16 Yard Pass,(7:38) (Shotgun) L.Jackson pass short middle to M.Andrews to TEN 29 for 16 yards (W.Woodyard).,3rd & 6 at TEN 45
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,5,BAL,1,9,0,Pass Incomplete,(6:47) L.Jackson pass incomplete deep right to M.Brown (A.Jackson).,1st & 10 at TEN 29
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,5,BAL,1,10,0,-2 Yard Run,(6:42) (Shotgun) L.Jackson right tackle to TEN 31 for -2 yards (L.Ryan).,2nd & 10 at TEN 29
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,5,BAL,1,11,0,Pass Incomplete,(6:05) (Shotgun) L.Jackson pass incomplete short middle to W.Snead IV.,3rd & 12 at TEN 31
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,5,BAL,1,12,1,Field Goal,"(5:57) (Field Goal formation) J.Tucker 49 yard field goal is GOOD, Center-M.Cox, Holder-S.Koch.",4th & 12 at TEN 31
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,6,TEN,0,1,0,Kickoff,J.Tucker kicks 66 yards from BAL 35 to TEN -1. D.Jennings to TEN 19 for 20 yards (C.Moore; A.Levine Sr.).,Kickoff from BAL 35
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,6,TEN,0,2,0,Pass for No Gain,(5:46) R.Tannehill pass short right to J.Smith to TEN 19 for no gain (E.Thomas III).,1st & 10 at TEN 19
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,6,TEN,0,3,0,27 Yard Run,(5:07) D.Henry left guard pushed ob at TEN 46 for 27 yards (E.Thomas III).,2nd & 10 at TEN 19
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,6,TEN,0,4,0,-5 Yard Penalty,"(4:27) PENALTY on TEN-T.Lewan, False Start, 5 yards, enforced at TEN 46 - No Play.",1st & 10 at TEN 46
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,6,TEN,0,5,0,8 Yard Pass,(4:13) R.Tannehill pass short left to D.Henry to TEN 49 for 8 yards (J.Ellis).,1st & 15 at TEN 41
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,6,TEN,0,6,0,1 Yard Run,(3:32) D.Henry left guard to 50 for 1 yard (M.Pierce; J.Bynes).,2nd & 7 at TEN 49
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,6,TEN,0,7,0,Pass Incomplete,(2:48) (Shotgun) R.Tannehill pass incomplete deep middle to C.Davis (T.Bowser).,3rd & 6 at 50
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,6,TEN,0,8,0,Punt,"(2:40) (Punt formation) B.Kern punts 50 yards to end zone, Center-B.Brinkley, Touchback.
+PENALTY on BAL-D.Thomas, Unnecessary Roughness, 15 yards, enforced at BAL 20. Penalty was 5 yards, enforced from the BAL 10 yard line.",4th & 6 at 50
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,7,BAL,1,1,0,5 Yard Pass,(2:32) (Shotgun) L.Jackson pass short middle to W.Snead IV to BAL 10 for 5 yards (L.Ryan; D.Long).,1st & 10 at BAL 5
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,7,BAL,1,2,0,5 Yard Pass,(2:00) (Shotgun) L.Jackson pass short right to J.Hill pushed ob at BAL 15 for 5 yards (K.Byard).,2nd & 5 at BAL 10
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,7,BAL,1,3,0,Pass Incomplete,(1:55) (Shotgun) L.Jackson pass incomplete short left. Jackson throws ball away to avoid sack.,1st & 10 at BAL 15
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,7,BAL,1,4,0,-6 Yard Sack,(1:47) (Shotgun) L.Jackson sacked at BAL 09 for -6 yards (K.Correa).,2nd & 10 at BAL 15
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,7,BAL,1,5,0,26 Yard Pass,(1:43) (Shotgun) L.Jackson pass deep right to S.Roberts to BAL 35 for 26 yards (K.Byard; L.Ryan).,3rd & 16 at BAL 9
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,7,BAL,1,6,0,Pass Incomplete,"(1:17) (No Huddle, Shotgun) L.Jackson pass incomplete deep left to J.Hill.",1st & 10 at BAL 35
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,7,BAL,1,7,0,16 Yard Pass,(1:08) (Shotgun) L.Jackson pass short right to M.Brown pushed ob at TEN 49 for 16 yards (A.Jackson).,2nd & 10 at BAL 35
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,7,BAL,1,8,0,7 Yard Pass,(1:03) (Shotgun) L.Jackson pass short middle to W.Snead IV to TEN 42 for 7 yards (L.Ryan; H.Landry).,1st & 10 at TEN 49
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,7,BAL,1,9,0,4 Yard Run,"(:39) (No Huddle, Shotgun) L.Jackson scrambles left end pushed ob at TEN 38 for 4 yards (R.Evans).",2nd & 3 at TEN 42
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,7,BAL,1,10,0,-8 Yard Sack,(:31) (Shotgun) L.Jackson sacked at TEN 46 for -8 yards (J.Casey).,1st & 10 at TEN 38
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,7,BAL,1,11,0,4 Yard Pass,(:26) (Shotgun) L.Jackson pass short middle to J.Hill to TEN 42 for 4 yards (K.Byard).,2nd & 18 at TEN 46
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,7,BAL,1,12,0,38 Yard Pass,(:18) (Shotgun) L.Jackson pass deep right to M.Brown to TEN 04 for 38 yards (A.Hooker).,3rd & 14 at TEN 42
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,7,BAL,1,13,0,Pass Incomplete,(:11) (Shotgun) L.Jackson pass incomplete short left [D.Roberson].,1st & 4 at TEN 4
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,2ND QUARTER,7,BAL,1,14,1,Field Goal,"(:03) (Field Goal formation) J.Tucker 22 yard field goal is GOOD, Center-M.Cox, Holder-S.Koch.",2nd & 4 at TEN 4
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,1,BAL,0,1,0,Kickoff,G.Joseph kicks 63 yards from TEN 35 to BAL 2. D.Thomas pushed ob at BAL 24 for 22 yards (D.Roberson).,Kickoff from TEN 35
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,1,BAL,0,2,0,Pass Incomplete,(14:55) (Shotgun) L.Jackson pass incomplete short middle to N.Boyle (L.Ryan).,1st & 10 at BAL 24
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,1,BAL,0,3,0,9 Yard Run,(14:49) (Shotgun) L.Jackson right end pushed ob at BAL 33 for 9 yards (K.Byard).,2nd & 10 at BAL 24
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,1,BAL,0,4,0,1 Yard Run,(14:14) (Shotgun) L.Jackson scrambles up the middle to BAL 34 for 1 yard (R.Evans).,3rd & 1 at BAL 33
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,1,BAL,0,5,0,Pass Incomplete,(13:39) (Shotgun) L.Jackson pass incomplete deep middle to N.Boyle.,1st & 10 at BAL 34
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,1,BAL,0,6,0,7 Yard Run,(13:34) (Shotgun) M.Ingram II right guard to BAL 41 for 7 yards (A.Jackson; K.Byard). BAL-N.Boyle was injured during the play.,2nd & 10 at BAL 34
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,1,BAL,0,7,0,9 Yard Pass,(13:11) (Shotgun) L.Jackson pass short middle to M.Brown to 50 for 9 yards (D.Long). BAL-M.Brown was injured during the play.,3rd & 3 at BAL 41
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,1,BAL,0,8,0,Pass Incomplete,(12:39) (Shotgun) L.Jackson pass incomplete deep left to M.Boykin (A.Jackson).,1st & 10 at 50
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,1,BAL,0,9,0,-7 Yard Run,"(12:32) (Shotgun) L.Jackson left end pushed ob at TEN 47 for 3 yards (R.Evans).
+PENALTY on BAL-M.Andrews, Offensive Holding, 10 yards, enforced at TEN 47.",2nd & 10 at 50
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,1,BAL,0,10,0,30 Yard Run,(12:16) (Shotgun) L.Jackson scrambles left guard to TEN 27 for 30 yards (L.Ryan).,2nd & 17 at BAL 43
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,1,BAL,0,11,0,Pass Incomplete,(11:09) (Shotgun) L.Jackson pass incomplete deep middle to M.Brown.,1st & 10 at TEN 27
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,1,BAL,0,12,0,8 Yard Pass,(11:04) (Shotgun) L.Jackson pass short middle to H.Hurst to TEN 19 for 8 yards (K.Byard; T.Smith).,2nd & 10 at TEN 27
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,1,BAL,0,13,0,1 Yard Run,(10:30) (Shotgun) G.Edwards up the middle to TEN 18 for 1 yard (D.Jones; J.Simmons). TEN-D.Long was injured during the play.,3rd & 2 at TEN 19
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,1,BAL,0,14,0,Turnover on Downs,(10:01) L.Jackson up the middle to TEN 18 for no gain (H.Landry).,4th & 1 at TEN 18
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,2,TEN,1,1,0,5 Yard Run,(9:55) Ball placed at 19 due to change of possession. D.Henry left guard to TEN 24 for 5 yards (M.Pierce; C.Clark).,1st & 10 at TEN 19
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,2,TEN,1,2,0,4 Yard Run,(9:16) D.Henry right guard to TEN 28 for 4 yards (J.Bynes).,2nd & 5 at TEN 24
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,2,TEN,1,3,0,66 Yard Run,(8:37) (Shotgun) D.Henry up the middle to BAL 06 for 66 yards (M.Peters).,3rd & 1 at TEN 28
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,2,TEN,1,4,0,3 Yard Run,(7:46) D.Henry right guard to BAL 03 for 3 yards (C.Wormley).,1st & 6 at BAL 6
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,2,TEN,1,5,0,Pass Incomplete,(7:02) (Shotgun) R.Tannehill pass incomplete short middle to D.Jennings (M.Peters).,2nd & 3 at BAL 3
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,2,TEN,1,6,0,Touchdown Titans,"(6:59) (Shotgun) D.Henry pass short middle to C.Davis for 3 yards, TOUCHDOWN. Direct snap",3rd & 3 at BAL 3
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,2,TEN,1,7,1,Extra Point Good,"G.Joseph extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",XP attempt from BAL 15
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,3,BAL,0,1,0,Kickoff,"G.Joseph kicks 65 yards from TEN 35 to end zone, Touchback.",Kickoff from TEN 35
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,3,BAL,0,2,0,Fumble,"(6:54) (Shotgun) L.Jackson sacked at BAL 19 for -6 yards (J.Casey). FUMBLES (J.Casey) [J.Casey], RECOVERED by TEN-J.Simmons at BAL 20. J.Simmons to BAL 20 for no gain (R.Stanley).",1st & 10 at BAL 25
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,4,TEN,1,1,0,4 Yard Run,(6:44) D.Henry left guard to BAL 16 for 4 yards (C.Wormley).,1st & 10 at BAL 20
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,4,TEN,1,2,0,Pass Incomplete,(6:04) R.Tannehill pass incomplete deep left to J.Smith (L.Fort).,2nd & 6 at BAL 16
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,4,TEN,1,3,0,9 Yard Pass,(5:59) (Shotgun) R.Tannehill pass short right to A.Brown to BAL 7 for 9 yards (J.Ward).,3rd & 6 at BAL 16
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,4,TEN,1,4,0,5 Yard Run,(5:20) D.Henry left guard to BAL 02 for 5 yards (P.Onwuasor).,1st & 7 at BAL 7
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,4,TEN,1,5,0,1 Yard Run,(4:47) D.Henry left tackle pushed ob at BAL 01 for 1 yard (M.Humphrey).,2nd & 2 at BAL 2
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,4,TEN,1,6,0,Touchdown Titans,"(4:20) (Shotgun) R.Tannehill right end for 1 yard, TOUCHDOWN.",3rd & 1 at BAL 1
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,4,TEN,1,7,1,Extra Point Good,"G.Joseph extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",XP attempt from BAL 15
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,5,BAL,0,1,0,Kickoff,"G.Joseph kicks 65 yards from TEN 35 to end zone, Touchback.",Kickoff from TEN 35
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,5,BAL,0,2,0,4 Yard Pass,(4:16) (Shotgun) L.Jackson pass short left to M.Boykin to BAL 29 for 4 yards (T.Brock).,1st & 10 at BAL 25
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,5,BAL,0,3,0,5 Yard Penalty,"(3:53) (No Huddle, Shotgun) L.Jackson pass short middle to J.Hill to BAL 33 for 4 yards (R.Evans).
+PENALTY on TEN-D.Long, Illegal Contact, 5 yards, enforced at BAL 29 - No Play.",2nd & 6 at BAL 29
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,5,BAL,0,4,0,Pass Incomplete,(3:43) (Shotgun) L.Jackson pass incomplete short right to M.Ingram II.,1st & 10 at BAL 34
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,5,BAL,0,5,0,6 Yard Run,(3:39) (Shotgun) L.Jackson left end ran ob at BAL 40 for 6 yards (T.Brock).,2nd & 10 at BAL 34
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,5,BAL,0,6,0,13 Yard Pass,(3:03) (Shotgun) L.Jackson pass short middle to M.Boykin to TEN 47 for 13 yards (L.Ryan).,3rd & 4 at BAL 40
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,5,BAL,0,7,0,11 Yard Pass,"(2:42) (No Huddle, Shotgun) L.Jackson pass short right to M.Andrews to TEN 36 for 11 yards (K.Vaccaro).",1st & 10 at TEN 47
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,5,BAL,0,8,0,Pass Incomplete,"(2:14) (No Huddle, Shotgun) L.Jackson pass incomplete short middle to W.Snead IV.",1st & 10 at TEN 36
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,5,BAL,0,9,0,5 Yard Pass,"(2:10) (No Huddle, Shotgun) L.Jackson pass short middle to W.Snead IV to TEN 31 for 5 yards (T.Brock).",2nd & 10 at TEN 36
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,3RD QUARTER,5,BAL,0,10,0,Interception,(1:50) (Shotgun) L.Jackson pass short left intended for M.Boykin INTERCEPTED by K.Vaccaro at TEN 24. K.Vaccaro pushed ob at TEN 27 for 3 yards (M.Boykin).,3rd & 5 at TEN 31
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,1,TEN,0,1,0,23 Yard Run,(1:45) D.Henry left guard to 50 for 23 yards (E.Thomas III).,1st & 10 at TEN 27
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,1,TEN,0,2,0,6 Yard Run,(:59) D.Henry left guard to BAL 44 for 6 yards (D.Peko).,1st & 10 at 50
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,1,TEN,0,3,0,Run for No Gain,(:17) D.Henry right guard to BAL 44 for no gain (P.Onwuasor; M.Judon).,2nd & 4 at BAL 44
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,1,TEN,0,4,0,Pass Incomplete,(15:00) (Shotgun) R.Tannehill pass incomplete short right to A.Brown [J.Ferguson].,3rd & 4 at BAL 44
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,1,TEN,0,5,0,Punt,"(14:56) (Punt formation) B.Kern punts 32 yards to BAL 12, Center-B.Brinkley, out of bounds.",4th & 4 at BAL 44
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,2,BAL,1,1,0,11 Yard Run,(14:49) (Shotgun) L.Jackson scrambles left guard ran ob at BAL 23 for 11 yards (L.Ryan).,1st & 10 at BAL 12
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,2,BAL,1,2,0,3 Yard Pass,(14:18) (Shotgun) L.Jackson pass short right to J.Hill pushed ob at BAL 26 for 3 yards (K.Vaccaro).,1st & 10 at BAL 23
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,2,BAL,1,3,0,5 Yard Penalty,"(13:53) (Shotgun) PENALTY on TEN-H.Landry, Neutral Zone Infraction, 5 yards, enforced at BAL 26 - No Play.",2nd & 7 at BAL 26
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,2,BAL,1,4,0,Pass Incomplete,(13:47) (Shotgun) L.Jackson pass incomplete deep middle to H.Hurst.,2nd & 2 at BAL 31
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,2,BAL,1,5,0,27 Yard Run,(13:41) (Shotgun) L.Jackson right guard pushed ob at TEN 42 for 27 yards (W.Woodyard).,3rd & 2 at BAL 31
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,2,BAL,1,6,0,Pass for No Gain,(13:07) (Shotgun) L.Jackson pass short right to M.Andrews to TEN 42 for no gain (K.Byard).,1st & 10 at TEN 42
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,2,BAL,1,7,0,9 Yard Pass,"(12:42) (No Huddle, Shotgun) L.Jackson pass short left to M.Boykin pushed ob at TEN 33 for 9 yards (T.Brock).",2nd & 10 at TEN 42
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,2,BAL,1,8,0,2 Yard Run,"(12:20) (No Huddle, Shotgun) L.Jackson right guard to TEN 31 for 2 yards (K.Vaccaro).",3rd & 1 at TEN 33
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,2,BAL,1,9,0,9 Yard Pass,"(11:59) (No Huddle, Shotgun) L.Jackson pass short middle to M.Ingram II to TEN 22 for 9 yards (W.Woodyard).",1st & 10 at TEN 31
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,2,BAL,1,10,0,7 Yard Pass,"(11:33) (No Huddle, Shotgun) L.Jackson pass short middle to W.Snead IV to TEN 15 for 7 yards (L.Ryan).",2nd & 1 at TEN 22
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,2,BAL,1,11,0,Touchdown Ravens,"(11:09) (No Huddle, Shotgun) L.Jackson pass short middle to H.Hurst for 15 yards, TOUCHDOWN.",1st & 10 at TEN 15
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,2,BAL,1,12,1,2PT Conversion Fails,TWO-POINT CONVERSION ATTEMPT. L.Jackson pass to M.Boykin is incomplete. ATTEMPT FAILS.,XP attempt from TEN 2
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,3,TEN,0,1,0,Kickoff,J.Tucker kicks 55 yards from BAL 35 to TEN 10. K.Raymond to TEN 17 for 7 yards (A.Levine Sr.).,Kickoff from BAL 35
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,3,TEN,0,2,0,8 Yard Run,(11:00) D.Henry right tackle to TEN 25 for 8 yards (B.Williams).,1st & 10 at TEN 17
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,3,TEN,0,3,0,1 Yard Run,(10:14) D.Henry right guard to TEN 26 for 1 yard (B.Williams).,2nd & 2 at TEN 25
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,3,TEN,0,4,0,2 Yard Run,(9:32) R.Tannehill up the middle to TEN 28 for 2 yards (B.Williams).,3rd & 1 at TEN 26
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,3,TEN,0,5,0,9 Yard Run,(8:49) R.Tannehill right end to TEN 37 for 9 yards (E.Thomas III).,1st & 10 at TEN 28
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,3,TEN,0,6,0,1 Yard Run,(8:10) D.Henry left guard to TEN 38 for 1 yard (B.Williams; J.Bynes).,2nd & 1 at TEN 37
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,3,TEN,0,7,0,3 Yard Run,(7:27) D.Henry left guard to TEN 41 for 3 yards (B.Williams).,1st & 10 at TEN 38
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,3,TEN,0,8,0,2 Yard Run,(7:22) D.Henry left guard to TEN 43 for 2 yards (J.Bynes; C.Wormley).,2nd & 7 at TEN 41
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,3,TEN,0,9,0,2 Yard Run,(6:38) D.Henry left guard to TEN 45 for 2 yards (M.Judon).,3rd & 5 at TEN 43
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,3,TEN,0,10,0,Punt,"(6:33) (Punt formation) B.Kern punts 55 yards to end zone, Center-B.Brinkley, Touchback.",4th & 3 at TEN 45
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,4,BAL,0,1,0,Pass Incomplete,(6:25) (Shotgun) L.Jackson pass incomplete short right. Jackson throws pass to avoid sack.,1st & 10 at BAL 20
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,4,BAL,0,2,0,Pass Incomplete,(6:17) (Shotgun) L.Jackson pass incomplete short middle to M.Andrews.,2nd & 10 at BAL 20
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,4,BAL,0,3,0,26 Yard Pass,(6:13) (Shotgun) L.Jackson pass deep middle to W.Snead IV to BAL 46 for 26 yards (K.Byard).,3rd & 10 at BAL 20
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,4,BAL,0,4,0,7 Yard Pass,"(5:50) (No Huddle, Shotgun) L.Jackson pass short middle to M.Brown to TEN 47 for 7 yards (L.Ryan).",1st & 10 at BAL 46
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,4,BAL,0,5,0,9 Yard Pass,"(5:30) (No Huddle, Shotgun) L.Jackson pass short right to M.Brown to TEN 38 for 9 yards (K.Vaccaro).",2nd & 3 at TEN 47
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,4,BAL,0,6,0,-5 Yard Penalty,"(5:06) (No Huddle, Shotgun) PENALTY on BAL-M.Yanda, False Start, 5 yards, enforced at TEN 38 - No Play.",1st & 10 at TEN 38
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,4,BAL,0,7,0,22 Yard Run,(5:04) (Shotgun) L.Jackson scrambles up the middle pushed ob at TEN 21 for 22 yards (L.Ryan).,1st & 15 at TEN 43
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,4,BAL,0,8,0,Pass Incomplete,(4:53) (Shotgun) L.Jackson pass incomplete deep middle to H.Hurst.,1st & 10 at TEN 21
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,4,BAL,0,9,0,5 Yard Run,(4:49) (Shotgun) L.Jackson scrambles right tackle pushed ob at TEN 16 for 5 yards (W.Woodyard).,2nd & 10 at TEN 21
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,4,BAL,0,10,0,Pass Incomplete,(4:43) (Shotgun) L.Jackson pass incomplete short right.,3rd & 5 at TEN 16
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,4,BAL,0,11,0,Turnover on Downs,(4:31) (Shotgun) L.Jackson pass incomplete short middle to M.Andrews (D.Cruikshank).,4th & 5 at TEN 16
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,5,TEN,0,1,0,1 Yard Run,(4:27) D.Henry left guard to TEN 17 for 1 yard (M.Pierce).,1st & 10 at TEN 16
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,5,TEN,0,2,0,4 Yard Run,(4:21) D.Henry left guard to TEN 21 for 4 yards (M.Pierce; M.Judon).,2nd & 9 at TEN 17
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,5,TEN,0,3,0,Run for No Gain,(3:36) D.Henry right guard to TEN 21 for no gain (J.Bynes).,3rd & 5 at TEN 21
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,5,TEN,0,4,0,Punt,"(2:53) (Punt formation) B.Kern punts 55 yards to BAL 24, Center-B.Brinkley, out of bounds.",4th & 5 at TEN 21
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,6,BAL,0,1,0,18 Yard Pass,(2:45) (Shotgun) L.Jackson pass short right to H.Hurst to BAL 42 for 18 yards (L.Ryan).,1st & 10 at BAL 24
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,6,BAL,0,2,0,Pass Incomplete,(2:26) (No Huddle) L.Jackson spiked the ball to stop the clock.,1st & 10 at BAL 42
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,6,BAL,0,3,0,-5 Yard Penalty,"(2:25) (Shotgun) PENALTY on BAL-W.Snead IV, False Start, 5 yards, enforced at BAL 42 - No Play.",2nd & 10 at BAL 42
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,6,BAL,0,4,0,14 Yard Pass,(2:25) (Shotgun) L.Jackson pass short middle to J.Hill to TEN 49 for 14 yards (K.Vaccaro).,2nd & 15 at BAL 37
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,6,BAL,0,5,0,12 Yard Pass,(2:04) (Shotgun) L.Jackson pass short middle to H.Hurst to TEN 37 for 12 yards (W.Woodyard).,3rd & 1 at TEN 49
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,6,BAL,0,6,0,Pass Incomplete,(1:58) (Shotgun) L.Jackson pass incomplete deep middle to M.Boykin.,1st & 10 at TEN 37
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,6,BAL,0,7,0,17 Yard Pass,(1:52) (Shotgun) L.Jackson pass deep right to M.Brown to TEN 20 for 17 yards (A.Jackson).,2nd & 10 at TEN 37
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,6,BAL,0,8,0,-1 Yard Sack,"(1:29) (No Huddle, Shotgun) L.Jackson sacked at TEN 21 for -1 yards (H.Landry).",1st & 10 at TEN 20
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,6,BAL,0,9,0,Pass Incomplete,"(1:05) (No Huddle, Shotgun) L.Jackson pass incomplete deep left.",2nd & 11 at TEN 21
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,6,BAL,0,10,0,Pass Incomplete,(1:00) (Shotgun) L.Jackson pass incomplete deep middle to C.Moore (A.Jackson).,3rd & 11 at TEN 21
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,6,BAL,0,11,0,Turnover on Downs,(:55) (Shotgun) L.Jackson pass incomplete short right to M.Boykin.,4th & 11 at TEN 21
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,7,TEN,0,1,0,-1 Yard Run,(:49) Ball placed at 22 due to change of possession. R.Tannehill kneels to TEN 21 for -1 yards.,1st & 10 at TEN 22
+2019,Divisional Playoffs,SAT,01/11,Titans,Ravens,4TH QUARTER,7,TEN,0,2,0,-1 Yard Run,(:29) R.Tannehill kneels to TEN 20 for -1 yards.,2nd & 11 at TEN 21
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,1,HOU,1,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,1,HOU,1,2,0,1 Yard Pass,(15:00) (Shotgun) D.Watson pass short left to D.Hopkins to HOU 26 for 1 yard (A.Hitchens).,1st & 10 at HOU 25
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,1,HOU,1,3,0,2 Yard Run,(14:29) (Shotgun) C.Hyde left guard to HOU 28 for 2 yards (D.Wilson).,2nd & 9 at HOU 26
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,1,HOU,1,4,0,9 Yard Pass,(13:48) (Shotgun) D.Watson pass short middle to W.Fuller to HOU 37 for 9 yards (T.Mathieu).,3rd & 7 at HOU 28
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,1,HOU,1,5,0,2 Yard Pass,(13:11) (Shotgun) D.Watson pass short right to C.Hyde to HOU 39 for 2 yards (R.Ragland).,1st & 10 at HOU 37
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,1,HOU,1,6,0,7 Yard Run,(12:35) C.Hyde up the middle to HOU 46 for 7 yards (M.Pennel). HOU-C.Clark was injured during the play.,2nd & 8 at HOU 39
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,1,HOU,1,7,0,Touchdown Texans,"(12:07) (Shotgun) D.Watson pass deep left to K.Stills for 54 yards, TOUCHDOWN.",3rd & 1 at HOU 46
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,1,HOU,1,8,1,Extra Point Good,"K.Fairbairn extra point is GOOD, Center-J.Weeks, Holder-B.Anger.",XP attempt from KC 15
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,2,HOU,1,1,0,Kickoff,K.Fairbairn kicks 61 yards from HOU 35 to KC 4. M.Hardman to KC 21 for 17 yards (P.Kalambayi).,Kickoff from HOU 35
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,2,HOU,1,2,0,3 Yard Run,(11:54) (Shotgun) Dam.Williams left guard to KC 24 for 3 yards (D.Reader).,1st & 10 at KC 21
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,2,HOU,1,3,0,-5 Yard Penalty,"(11:23) (Shotgun) PENALTY on KC-E.Fisher, False Start, 5 yards, enforced at KC 24 - No Play.",2nd & 7 at KC 24
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,2,HOU,1,4,0,6 Yard Pass,(11:06) (Shotgun) P.Mahomes pass short right to M.Hardman to KC 25 for 6 yards (V.Hargreaves).,2nd & 12 at KC 19
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,2,HOU,1,5,0,Pass Incomplete,(10:19) (Shotgun) P.Mahomes pass incomplete short middle to T.Kelce.,3rd & 6 at KC 25
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,2,HOU,1,6,1,Touchdown Texans,"(10:13) D.Colquitt punt is BLOCKED by B.Mingo, Center-J.Winchester, RECOVERED by HOU-L.Johnson at KC 10. L.Johnson for 10 yards, TOUCHDOWN.",4th & 6 at KC 25
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,3,KC,0,1,0,Kickoff,K.Fairbairn kicks 63 yards from HOU 35 to KC 2. M.Hardman pushed ob at KC 18 for 16 yards (G.Howell).,Kickoff from HOU 35
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,3,KC,0,2,0,17 Yard Pass,(10:01) (Shotgun) P.Mahomes pass short right to T.Hill to KC 35 for 17 yards (B.Roby).,1st & 10 at KC 18
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,3,KC,0,3,0,Run for No Gain,(9:26) Dam.Williams left tackle to KC 35 for no gain (A.Blackson).,1st & 10 at KC 35
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,3,KC,0,4,0,15 Yard Pass,(8:49) (Shotgun) P.Mahomes pass short left to T.Kelce to 50 for 15 yards (G.Conley).,2nd & 10 at KC 35
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,3,KC,0,5,0,Pass Incomplete,(8:06) (Shotgun) P.Mahomes pass incomplete short right to Dam.Williams.,1st & 10 at 50
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,3,KC,0,6,0,5 Yard Pass,(7:58) (Shotgun) P.Mahomes pass short right to T.Kelce to HOU 45 for 5 yards (L.Johnson).,2nd & 10 at 50
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,3,KC,0,7,0,Pass Incomplete,(7:20) (Shotgun) P.Mahomes pass incomplete short right to D.Robinson.,3rd & 5 at HOU 45
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,3,KC,0,8,0,Punt,"(7:15) D.Colquitt punts 30 yards to HOU 15, Center-J.Winchester, fair catch by D.Carter.",4th & 5 at HOU 45
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,4,HOU,0,1,0,11 Yard Run,(7:08) (Shotgun) D.Johnson left end to HOU 26 for 11 yards (D.Wilson).,1st & 10 at HOU 15
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,4,HOU,0,2,0,7 Yard Run,(6:23) (Shotgun) D.Watson scrambles left end pushed ob at HOU 33 for 7 yards (T.Mathieu).,1st & 10 at HOU 26
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,4,HOU,0,3,0,7 Yard Run,(5:52) (Shotgun) C.Hyde left end to HOU 40 for 7 yards (T.Suggs; D.Sorensen).,2nd & 3 at HOU 33
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,4,HOU,0,4,0,5 Yard Run,(5:18) C.Hyde up the middle to HOU 45 for 5 yards (B.Breeland).,1st & 10 at HOU 40
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,4,HOU,0,5,0,6 Yard Pass,(4:37) (Shotgun) D.Watson pass short left to W.Fuller to KC 49 for 6 yards (D.Wilson).,2nd & 5 at HOU 45
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,4,HOU,0,6,0,-1 Yard Pass,(4:01) D.Watson pass short right to D.Johnson to 50 for -1 yards (R.Ragland).,1st & 10 at KC 49
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,4,HOU,0,7,0,Pass Incomplete,(3:13) (Shotgun) D.Watson pass incomplete deep right to K.Stills.,2nd & 11 at 50
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,4,HOU,0,8,0,-6 Yard Sack,(3:08) (Shotgun) D.Watson sacked at HOU 44 for -6 yards (F.Clark).,3rd & 11 at 50
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,4,HOU,0,9,0,Fumble,"(2:20) B.Anger punts 47 yards to KC 9, Center-J.Weeks. T.Hill MUFFS catch, RECOVERED by HOU-K.Crossen at KC 6.",4th & 17 at HOU 44
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,5,HOU,1,1,0,2 Yard Run,(2:09) (Shotgun) D.Watson right end to KC 4 for 2 yards (D.Sorensen; T.Kpassagnon).,1st & 6 at KC 6
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,5,HOU,1,2,0,Touchdown Texans,"(1:24) (Shotgun) D.Watson pass short middle to D.Fells for 4 yards, TOUCHDOWN.",2nd & 4 at KC 4
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,5,HOU,1,3,1,Extra Point Good,"K.Fairbairn extra point is GOOD, Center-J.Weeks, Holder-B.Anger.",XP attempt from KC 15
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,6,KC,0,1,0,Kickoff,"K.Fairbairn kicks 64 yards from HOU 35 to KC 1. M.Hardman MUFFS catch, and recovers at KC 4. M.Hardman pushed ob at KC 19 for 15 yards (T.Jones).",Kickoff from HOU 35
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,6,KC,0,2,0,Pass Incomplete,(1:14) (Shotgun) P.Mahomes pass incomplete short right to Dam.Williams.,1st & 10 at KC 19
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,6,KC,0,3,0,Pass Incomplete,(1:09) (Shotgun) P.Mahomes pass incomplete short middle to D.Robinson.,2nd & 10 at KC 19
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,6,KC,0,4,0,Pass Incomplete,(1:05) (Shotgun) P.Mahomes pass incomplete deep right to T.Hill (J.Reid) [W.Mercilus]. KC-T.Hill was injured during the play.,3rd & 10 at KC 19
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,1ST QUARTER,6,KC,0,5,0,Punt,"(1:00) D.Colquitt punts 43 yards to HOU 38, Center-J.Winchester. D.Carter to HOU 49 for 11 yards (D.O'Daniel).",4th & 10 at KC 19
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,1,HOU,1,1,0,7 Yard Run,(:49) (Shotgun) C.Hyde right guard to KC 44 for 7 yards (B.Breeland; A.Hitchens).,1st & 10 at HOU 49
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,1,HOU,1,2,0,2 Yard Run,(:10) C.Hyde left tackle to KC 42 for 2 yards (D.Wilson; D.Nnadi).,2nd & 3 at KC 44
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,1,HOU,1,3,0,-10 Yard Penalty,"(15:00) D.Watson right end pushed ob at KC 39 for 3 yards (T.Mathieu).
+PENALTY on HOU-R.Johnson, Offensive Holding, 10 yards, enforced at KC 42 - No Play.",3rd & 1 at KC 42
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,1,HOU,1,4,0,13 Yard Pass,(14:31) (Shotgun) D.Watson pass short left to D.Hopkins to KC 39 for 13 yards (C.Ward).,3rd & 11 at HOU 48
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,1,HOU,1,5,0,2 Yard Run,(13:47) (Shotgun) C.Hyde left guard to KC 37 for 2 yards (D.Wilson; D.Sorensen).,1st & 10 at KC 39
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,1,HOU,1,6,0,15 Yard Pass,(13:04) (Shotgun) D.Watson pass short middle to K.Stills to KC 22 for 15 yards (K.Fuller).,2nd & 8 at KC 37
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,1,HOU,1,7,0,1 Yard Run,(12:28) C.Hyde right tackle to KC 21 for 1 yard (K.Saunders).,1st & 10 at KC 22
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,1,HOU,1,8,0,Pass Incomplete,(11:53) (Shotgun) D.Watson pass incomplete short right to D.Fells [T.Kpassagnon].,2nd & 9 at KC 21
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,1,HOU,1,9,0,8 Yard Pass,(11:46) (Shotgun) D.Watson pass short left to D.Johnson to KC 13 for 8 yards (D.Sorensen; C.Ward).,3rd & 9 at KC 21
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,1,HOU,1,10,1,Field Goal,"(10:58) K.Fairbairn 31 yard field goal is GOOD, Center-J.Weeks, Holder-B.Anger.",4th & 1 at KC 13
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,2,KC,1,1,0,Kickoff,K.Fairbairn kicks 65 yards from HOU 35 to KC 0. M.Hardman ran ob at HOU 42 for 58 yards (L.Johnson). HOU-L.Johnson was injured during the play.,Kickoff from HOU 35
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,2,KC,1,2,0,25 Yard Pass,(10:46) (Shotgun) P.Mahomes pass short right to T.Kelce to HOU 17 for 25 yards (J.Reid).,1st & 10 at HOU 42
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,2,KC,1,3,0,Touchdown Chiefs,"(10:00) (Shotgun) P.Mahomes pass short left to Dam.Williams for 17 yards, TOUCHDOWN.",1st & 10 at HOU 17
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,2,KC,1,4,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",XP attempt from HOU 15
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,3,HOU,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,3,HOU,0,2,0,5 Yard Run,(9:55) C.Hyde up the middle to HOU 30 for 5 yards (X.Williams; D.Wilson).,1st & 10 at HOU 25
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,3,HOU,0,3,0,1 Yard Run,(9:16) (Shotgun) C.Hyde up the middle to HOU 31 for 1 yard (D.Wilson).,2nd & 5 at HOU 30
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,3,HOU,0,4,0,Pass Incomplete,(8:35) (Shotgun) D.Watson pass incomplete short left to W.Fuller.,3rd & 4 at HOU 31
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,4,KC,1,1,0,Pass Incomplete,(8:28) (Shotgun) P.Mahomes pass incomplete deep right to M.Hardman.,1st & 10 at HOU 33
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,4,KC,1,2,0,28 Yard Penalty,"(8:23) (Shotgun) P.Mahomes pass incomplete deep left to T.Kelce.
+PENALTY on HOU-L.Johnson, Defensive Pass Interference, 28 yards, enforced at HOU 33 - No Play.",2nd & 10 at HOU 33
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,4,KC,1,3,0,Pass Incomplete,(8:17) (Shotgun) P.Mahomes pass incomplete short right to T.Kelce (V.Hargreaves).,1st & 5 at HOU 5
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,4,KC,1,4,0,Touchdown Chiefs,"(8:11) (Shotgun) P.Mahomes pass short right to T.Kelce for 5 yards, TOUCHDOWN.",2nd & 5 at HOU 5
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,4,KC,1,5,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",XP attempt from HOU 15
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,5,HOU,0,1,0,Fumble,"H.Butker kicks 65 yards from KC 35 to HOU 0. D.Carter to HOU 21 for 21 yards (D.Sorensen). FUMBLES (D.Sorensen), RECOVERED by KC-D.Thompson at HOU 24. D.Thompson pushed ob at HOU 6 for 18 yards (K.Crossen).",Kickoff from KC 35
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,5,HOU,0,2,0,2 Yard Pass,(7:56) (Shotgun) P.Mahomes pass short right to T.Kelce to HOU 4 for 2 yards (L.Johnson).,1st & 6 at HOU 6
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,6,KC,1,1,0,-2 Yard Run,(7:20) (Shotgun) Dam.Williams left end to HOU 6 for -2 yards (Z.Cunningham).,2nd & 4 at HOU 4
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,6,KC,1,2,0,Touchdown Chiefs,"(6:37) (Shotgun) P.Mahomes pass short right to T.Kelce for 6 yards, TOUCHDOWN.",3rd & 6 at HOU 6
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,6,KC,1,3,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",XP attempt from HOU 15
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,7,HOU,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,7,HOU,0,2,0,9 Yard Pass,(6:31) (Shotgun) D.Watson pass short left to D.Hopkins to HOU 34 for 9 yards (D.Sorensen).,1st & 10 at HOU 25
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,7,HOU,0,3,0,10 Yard Run,(5:51) (Shotgun) D.Watson left end to HOU 44 for 10 yards (D.Sorensen).,2nd & 1 at HOU 34
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,7,HOU,0,4,0,10 Yard Pass,(5:04) (Shotgun) D.Watson pass short middle to C.Hyde to KC 46 for 10 yards (D.Wilson).,1st & 10 at HOU 44
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,7,HOU,0,5,0,Run for No Gain,(4:28) (Shotgun) C.Hyde right guard to KC 46 for no gain (D.Nnadi).,1st & 10 at KC 46
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,7,HOU,0,6,0,-2 Yard Pass,"(3:44) (Shotgun) D.Watson pass short left to D.Hopkins to HOU 49 for -5 yards. FUMBLES, recovered by HOU-D.Watson at KC 48.",2nd & 10 at KC 46
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,7,HOU,0,7,0,Pass Incomplete,(3:02) (Shotgun) D.Watson pass incomplete short middle to D.Hopkins (T.Mathieu).,3rd & 12 at KC 48
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,7,HOU,0,8,0,Punt,"(2:57) B.Anger punts 39 yards to KC 9, Center-J.Weeks. M.Hardman ran ob at KC 10 for 1 yard (K.Crossen).",4th & 12 at KC 48
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,8,KC,1,1,0,15 Yard Penalty,"(2:47) (Shotgun) P.Mahomes pass incomplete deep right to T.Kelce.
+PENALTY on HOU-L.Johnson, Defensive Pass Interference, 15 yards, enforced at KC 10 - No Play.",1st & 10 at KC 10
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,8,KC,1,2,0,20 Yard Pass,(2:43) (Shotgun) P.Mahomes pass short left to T.Hill to KC 45 for 20 yards (B.Roby).,1st & 10 at KC 25
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,8,KC,1,3,0,21 Yard Run,(2:05) (Shotgun) P.Mahomes scrambles right end ran ob at HOU 34 for 21 yards (G.Conley).,1st & 10 at KC 45
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,8,KC,1,4,0,-5 Yard Sack,(1:55) S.Watkins sacked ob at HOU 39 for -5 yards (G.Conley).,1st & 10 at HOU 34
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,8,KC,1,5,0,20 Yard Pass,(1:48) (Shotgun) P.Mahomes pass deep right to T.Kelce to HOU 19 for 20 yards (V.Hargreaves).,2nd & 15 at HOU 39
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,8,KC,1,6,0,14 Yard Run,(1:05) (Shotgun) P.Mahomes scrambles right end ran ob at HOU 5 for 14 yards (B.McKinney).,1st & 10 at HOU 19
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,8,KC,1,7,0,Pass Incomplete,(:58) (Shotgun) P.Mahomes pass incomplete short left to Dam.Williams.,1st & 5 at HOU 5
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,8,KC,1,8,0,Pass Incomplete,(:55) (Shotgun) P.Mahomes pass incomplete short right to D.Robinson [C.Omenihu].,2nd & 5 at HOU 5
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,8,KC,1,9,0,Touchdown Chiefs,"(:50) (Shotgun) P.Mahomes pass short left to T.Kelce for 5 yards, TOUCHDOWN [Z.Cunningham].
+The Replay Official reviewed the legal forward pass ruling, and the play was Upheld. The ruling on the field stands.",3rd & 5 at HOU 5
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,8,KC,1,10,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",XP attempt from HOU 15
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,9,HOU,0,1,0,Kickoff,H.Butker kicks 46 yards from KC 35 to HOU 19. C.Gillaspia to HOU 23 for 4 yards (R.Fenton).,Kickoff from KC 35
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,9,HOU,0,2,0,38 Yard Pass,(:38) (Shotgun) D.Watson pass deep left to D.Hopkins to KC 39 for 38 yards (C.Ward).,1st & 10 at HOU 23
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,9,HOU,0,3,0,Pass Incomplete,(:20) D.Watson spiked the ball to stop the clock.,1st & 10 at KC 39
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,9,HOU,0,4,0,Pass Incomplete,(:19) (Shotgun) D.Watson pass incomplete short left to D.Johnson.,2nd & 10 at KC 39
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,9,HOU,0,5,0,6 Yard Run,(:11) (Shotgun) D.Watson scrambles left end ran ob at KC 33 for 6 yards (B.Niemann).,3rd & 10 at KC 39
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,2ND QUARTER,9,HOU,0,6,0,Field Goal No Good,"(:03) K.Fairbairn 51 yard field goal is No Good, Wide Right, Center-J.Weeks, Holder-B.Anger.",4th & 4 at KC 33
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,1,KC,1,1,0,Kickoff,K.Fairbairn kicks 62 yards from HOU 35 to KC 3. M.Hardman to KC 15 for 12 yards (T.Jones).,Kickoff from HOU 35
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,1,KC,1,2,0,11 Yard Pass,(14:55) (Shotgun) P.Mahomes pass short left to D.Yelder to KC 26 for 11 yards (M.Adams).,1st & 10 at KC 15
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,1,KC,1,3,0,Run for No Gain,(14:19) Dam.Williams right end to KC 26 for no gain (B.Scarlett).,1st & 10 at KC 26
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,1,KC,1,4,0,48 Yard Pass,"(13:37) (Shotgun) P.Mahomes pass deep right to S.Watkins ran ob at HOU 26 for 48 yards (Z.Cunningham).
+Penalty on HOU-W.Mercilus, Defensive Offside, declined.",2nd & 10 at KC 26
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,1,KC,1,5,0,14 Yard Run,"(13:05) (Shotgun) P.Mahomes scrambles right guard to HOU 12 for 14 yards. FUMBLES, ball out of bounds at HOU 12.",1st & 10 at HOU 26
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,1,KC,1,6,0,4 Yard Pass,(12:28) (Shotgun) P.Mahomes pass short right to T.Hill ran ob at HOU 8 for 4 yards (B.McKinney).,1st & 10 at HOU 12
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,1,KC,1,7,0,7 Yard Run,(11:57) (Shotgun) P.Mahomes scrambles right end pushed ob at HOU 1 for 7 yards (J.Reid).,2nd & 6 at HOU 8
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,1,KC,1,8,0,Touchdown Chiefs,"(11:28) (Shotgun) Dam.Williams left guard for 1 yard, TOUCHDOWN.
+PENALTY on KC-Dam.Williams, Taunting, 15 yards, enforced between downs.",1st & 1 at HOU 1
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,1,KC,1,9,1,Extra Point No Good,"H.Butker extra point is No Good, Wide Left, Center-J.Winchester, Holder-D.Colquitt.",XP attempt from HOU 15
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,2,HOU,0,1,0,Kickoff,H.Butker kicks 80 yards from KC 20 to HOU 0. D.Carter to HOU 26 for 26 yards (B.Pringle).,Kickoff from KC 20
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,2,HOU,0,2,0,-5 Yard Penalty,"(11:18) (Shotgun) D.Watson scrambles left end ran ob at HOU 34 for 8 yards (T.Mathieu).
+PENALTY on HOU, Illegal Formation, 5 yards, enforced at HOU 26 - No Play.",1st & 10 at HOU 26
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,2,HOU,0,3,0,9 Yard Pass,(10:44) (Shotgun) D.Watson pass short left to D.Hopkins to HOU 30 for 9 yards (C.Ward).,1st & 15 at HOU 21
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,2,HOU,0,4,0,1 Yard Run,(10:09) (Shotgun) C.Hyde left guard to HOU 31 for 1 yard (M.Pennel).,2nd & 6 at HOU 30
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,2,HOU,0,5,0,-2 Yard Sack,(9:28) (Shotgun) D.Watson sacked at HOU 29 for -2 yards (F.Clark).,3rd & 5 at HOU 31
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,2,HOU,0,6,0,Punt,"(8:42) B.Anger punts 48 yards to KC 23, Center-J.Weeks, fair catch by T.Hill.",4th & 7 at HOU 29
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,3,KC,1,1,0,28 Yard Pass,(8:34) P.Mahomes pass deep right to T.Kelce to HOU 49 for 28 yards (M.Adams).,1st & 10 at KC 23
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,3,KC,1,2,0,5 Yard Penalty,"(7:48) (Shotgun) PENALTY on HOU-C.Omenihu, Neutral Zone Infraction, 5 yards, enforced at HOU 49 - No Play.",1st & 10 at HOU 49
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,3,KC,1,3,0,14 Yard Run,(7:30) S.Watkins right end to HOU 30 for 14 yards (B.Roby).,1st & 5 at HOU 44
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,3,KC,1,4,0,4 Yard Pass,(6:47) (Shotgun) P.Mahomes pass short left to D.Robinson to HOU 26 for 4 yards (V.Hargreaves).,1st & 10 at HOU 30
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,3,KC,1,5,0,19 Yard Penalty,"(6:09) (Shotgun) P.Mahomes pass incomplete deep right to T.Hill.
+PENALTY on HOU-B.Roby, Defensive Pass Interference, 19 yards, enforced at HOU 26 - No Play.",2nd & 6 at HOU 26
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,3,KC,1,6,0,Pass Incomplete,(6:03) (Shotgun) P.Mahomes pass incomplete short right to M.Hardman (Z.Cunningham).,1st & 7 at HOU 7
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,3,KC,1,7,0,2 Yard Run,(5:56) (Shotgun) Dam.Williams up the middle to HOU 5 for 2 yards (B.McKinney; Z.Cunningham).,2nd & 7 at HOU 7
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,3,KC,1,8,0,-5 Yard Penalty,"(5:15) (Shotgun) PENALTY on KC-M.Schwartz, False Start, 5 yards, enforced at HOU 5 - No Play.",3rd & 5 at HOU 5
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,3,KC,1,9,0,5 Yard Penalty,"(4:51) (Shotgun) P.Mahomes pass incomplete short right [W.Mercilus].
+PENALTY on HOU-Z.Cunningham, Defensive Holding, 5 yards, enforced at HOU 10 - No Play.",3rd & 10 at HOU 10
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,3,KC,1,10,0,Touchdown Chiefs,"(4:43) Dam.Williams up the middle for 5 yards, TOUCHDOWN.",1st & 5 at HOU 5
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,3,KC,1,11,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",XP attempt from HOU 15
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,4,HOU,1,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,4,HOU,1,2,0,21 Yard Pass,(4:39) (Shotgun) D.Watson pass deep right to D.Hopkins to HOU 46 for 21 yards (A.Hitchens).,1st & 10 at HOU 25
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,4,HOU,1,3,0,Pass Incomplete,(4:10) (No Huddle) D.Watson pass incomplete short left to C.Hyde.,1st & 10 at HOU 46
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,4,HOU,1,4,0,11 Yard Pass,(4:02) (Shotgun) D.Watson pass short middle to K.Stills to KC 43 for 11 yards (R.Fenton).,2nd & 10 at HOU 46
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,4,HOU,1,5,0,4 Yard Run,(3:19) (Shotgun) C.Hyde left tackle to KC 39 for 4 yards (F.Clark).,1st & 10 at KC 43
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,4,HOU,1,6,0,Pass Incomplete,(2:42) (Shotgun) D.Watson pass incomplete deep left.,2nd & 6 at KC 39
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,4,HOU,1,7,0,9 Yard Pass,(2:34) (Shotgun) D.Watson pass short right to D.Hopkins to KC 30 for 9 yards (B.Breeland).,3rd & 6 at KC 39
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,4,HOU,1,8,0,-14 Yard Sack,(1:52) K.Stills sacked at KC 44 for -14 yards (R.Fenton).,1st & 10 at KC 30
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,4,HOU,1,9,0,39 Yard Pass,(1:10) (Shotgun) D.Watson pass deep left to W.Fuller to KC 5 for 39 yards (R.Fenton).,2nd & 24 at KC 44
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,4,HOU,1,10,0,Touchdown Texans,"(:29) (Shotgun) D.Watson left end for 5 yards, TOUCHDOWN.",1st & 5 at KC 5
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,3RD QUARTER,4,HOU,1,11,1,Extra Point Good,"K.Fairbairn extra point is GOOD, Center-J.Weeks, Holder-B.Anger.",XP attempt from KC 15
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,1,KC,1,1,0,Kickoff,K.Fairbairn kicks 61 yards from HOU 35 to KC 4. M.Hardman to KC 28 for 24 yards (B.Scarlett).,Kickoff from HOU 35
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,1,KC,1,2,0,23 Yard Pass,(:17) (Shotgun) P.Mahomes pass short left to T.Kelce to HOU 49 for 23 yards (Z.Cunningham).,1st & 10 at KC 28
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,1,KC,1,3,0,13 Yard Pass,(15:00) (Shotgun) P.Mahomes pass short middle to M.Hardman pushed ob at HOU 36 for 13 yards (G.Conley).,1st & 10 at HOU 49
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,1,KC,1,4,0,28 Yard Pass,"(14:22) (Shotgun) P.Mahomes pass deep right to S.Watkins to HOU 8 for 28 yards (B.Roby).
+Penalty on HOU-D.Reader, Defensive Offside, declined.",1st & 10 at HOU 36
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,1,KC,1,5,0,Touchdown Chiefs,"(13:56) (Shotgun) P.Mahomes pass short left to B.Bell for 8 yards, TOUCHDOWN.",1st & 8 at HOU 8
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,1,KC,1,6,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",XP attempt from HOU 15
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,2,HOU,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,2,HOU,0,2,0,7 Yard Pass,(13:52) D.Watson pass short left to J.Thomas pushed ob at HOU 32 for 7 yards (R.Fenton).,1st & 10 at HOU 25
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,2,HOU,0,3,0,20 Yard Pass,(13:19) D.Watson pass deep right to D.Hopkins to KC 48 for 20 yards (B.Breeland).,2nd & 3 at HOU 32
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,2,HOU,0,4,0,6 Yard Pass,(12:34) (Shotgun) D.Watson pass short middle to C.Hyde to KC 42 for 6 yards (T.Mathieu).,1st & 10 at KC 48
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,2,HOU,0,5,0,Pass Incomplete,(11:57) D.Watson pass incomplete deep left to D.Hopkins.,2nd & 4 at KC 42
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,2,HOU,0,6,0,Pass Incomplete,(11:49) (Shotgun) D.Watson pass incomplete short right to K.Stills.,3rd & 4 at KC 42
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,2,HOU,0,7,0,Turnover on Downs,(11:45) (Shotgun) D.Watson pass incomplete short middle to D.Hopkins [T.Suggs].,4th & 4 at KC 42
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,3,KC,1,1,0,7 Yard Pass,(11:37) (Shotgun) P.Mahomes pass short right to B.Bell to KC 49 for 7 yards (L.Johnson).,1st & 10 at KC 42
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,3,KC,1,2,0,11 Yard Run,(10:56) (Shotgun) Dam.Williams right end ran ob at HOU 40 for 11 yards (G.Conley).,2nd & 3 at KC 49
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,3,KC,1,3,0,26 Yard Run,(10:19) Dam.Williams left end pushed ob at HOU 14 for 26 yards (J.Reid).,1st & 10 at HOU 40
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,3,KC,1,4,0,4 Yard Run,(9:40) T.Hill right end pushed ob at HOU 10 for 4 yards (Z.Cunningham).,1st & 10 at HOU 14
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,3,KC,1,5,0,Pass Incomplete,(9:03) (Shotgun) P.Mahomes pass incomplete short right to Dam.Williams (J.Watt).,2nd & 6 at HOU 10
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,3,KC,1,6,0,4 Yard Pass,(8:59) (Shotgun) P.Mahomes pass short left to Dam.Williams to HOU 6 for 4 yards (Z.Cunningham).,3rd & 6 at HOU 10
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,3,KC,1,7,1,Field Goal,"(8:10) H.Butker 24 yard field goal is GOOD, Center-J.Winchester, Holder-D.Colquitt.",4th & 2 at HOU 6
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,4,HOU,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,4,HOU,0,2,0,Pass Incomplete,(8:06) (Shotgun) D.Watson pass incomplete short right to D.Fells (T.Mathieu).,1st & 10 at HOU 25
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,4,HOU,0,3,0,7 Yard Run,(8:03) (Shotgun) D.Watson scrambles right end ran ob at HOU 32 for 7 yards (B.Breeland).,2nd & 10 at HOU 25
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,4,HOU,0,4,0,Pass Incomplete,(7:27) (Shotgun) D.Watson pass incomplete short middle to K.Stills.,3rd & 3 at HOU 32
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,4,HOU,0,5,0,6 Yard Pass,(7:22) (Shotgun) D.Watson pass short right to D.Johnson pushed ob at HOU 38 for 6 yards (B.Niemann).,4th & 3 at HOU 32
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,4,HOU,0,6,0,Pass Incomplete,(6:51) (Shotgun) D.Watson pass incomplete deep middle to D.Fells.,1st & 10 at HOU 38
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,4,HOU,0,7,0,12 Yard Penalty,"(6:46) (Shotgun) D.Watson pass incomplete deep left to W.Fuller.
+PENALTY on KC-T.Mathieu, Defensive Pass Interference, 12 yards, enforced at HOU 38 - No Play.",2nd & 10 at HOU 38
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,4,HOU,0,8,0,Pass Incomplete,(6:42) (Shotgun) D.Watson pass incomplete short right to D.Fells.,1st & 10 at 50
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,4,HOU,0,9,0,-1 Yard Sack,(6:35) (Shotgun) D.Watson sacked at HOU 49 for -1 yards (D.O'Daniel).,2nd & 10 at 50
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,4,HOU,0,10,0,9 Yard Pass,(5:48) (Shotgun) D.Watson pass short left to D.Fells to KC 42 for 9 yards (B.Niemann; D.O'Daniel).,3rd & 11 at HOU 49
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,4,HOU,0,11,0,Turnover on Downs,(5:01) (Shotgun) D.Watson pass incomplete short middle to D.Hopkins.,4th & 2 at KC 42
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,5,KC,0,1,0,3 Yard Run,(4:53) Dam.Williams up the middle to KC 45 for 3 yards (B.McKinney; Z.Cunningham).,1st & 10 at KC 42
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,5,KC,0,2,0,-3 Yard Run,(4:10) Dam.Williams right end to KC 42 for -3 yards (J.Martin).,2nd & 7 at KC 45
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,5,KC,0,3,0,1 Yard Run,(4:03) Dam.Williams left end to KC 43 for 1 yard (W.Mercilus).,3rd & 10 at KC 42
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,5,KC,0,4,0,Punt,"(3:57) D.Colquitt punts 50 yards to HOU 7, Center-J.Winchester, downed by KC-B.Pringle.",4th & 9 at KC 43
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,6,HOU,0,1,0,9 Yard Pass,(3:49) (Shotgun) D.Watson pass short left to D.Johnson to HOU 16 for 9 yards (B.Niemann; R.Ragland).,1st & 10 at HOU 7
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,6,HOU,0,2,0,Pass Incomplete,"(3:23) (No Huddle, Shotgun) D.Watson pass incomplete deep right to W.Fuller (R.Fenton).",2nd & 1 at HOU 16
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,6,HOU,0,3,0,5 Yard Pass,(3:16) (Shotgun) D.Watson pass short right to W.Fuller to HOU 21 for 5 yards (B.Breeland).,3rd & 1 at HOU 16
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,6,HOU,0,4,0,Pass Incomplete,(2:48) (Shotgun) D.Watson pass incomplete short left to D.Johnson.,1st & 10 at HOU 21
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,6,HOU,0,5,0,30 Yard Pass,(2:44) (Shotgun) D.Watson pass deep right to W.Fuller pushed ob at KC 49 for 30 yards (D.Sorensen).,2nd & 10 at HOU 21
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,6,HOU,0,6,0,1 Yard Pass,(2:38) (Shotgun) D.Watson pass short left to D.Johnson pushed ob at KC 48 for 1 yard (R.Fenton).,1st & 10 at KC 49
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,6,HOU,0,7,0,17 Yard Pass,(2:31) (Shotgun) D.Watson pass deep right to D.Carter ran ob at KC 31 for 17 yards.,2nd & 9 at KC 48
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,6,HOU,0,8,0,9 Yard Pass,"(2:22) (No Huddle, Shotgun) D.Watson pass short right to D.Fells to KC 22 for 9 yards (B.Breeland).",1st & 10 at KC 31
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,6,HOU,0,9,0,14 Yard Pass,"(2:02) (No Huddle, Shotgun) D.Watson pass short middle to T.Jones to KC 8 for 14 yards (R.Ragland).",2nd & 1 at KC 22
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,6,HOU,0,10,0,Pass Incomplete,(1:54) (Shotgun) D.Watson pass incomplete short left to D.Johnson.,1st & 8 at KC 8
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,6,HOU,0,11,0,Pass Incomplete,(1:47) (Shotgun) D.Watson pass incomplete short left to D.Hopkins (C.Ward).,2nd & 8 at KC 8
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,6,HOU,0,12,0,Pass Incomplete,(1:43) (Shotgun) D.Watson pass incomplete short right to W.Fuller (B.Breeland) [F.Clark].,3rd & 8 at KC 8
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,6,HOU,0,13,0,Turnover on Downs,(1:40) (Shotgun) D.Watson sacked at KC 25 for -17 yards (F.Clark).,4th & 8 at KC 8
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,7,KC,0,1,0,-1 Yard Run,(1:34) P.Mahomes kneels to KC 24 for -1 yards.,1st & 10 at KC 25
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,7,KC,0,2,0,-1 Yard Run,(:52) P.Mahomes kneels to KC 23 for -1 yards.,2nd & 11 at KC 24
+2019,Divisional Playoffs,SUN,01/12,Texans,Chiefs,4TH QUARTER,7,KC,0,3,0,-1 Yard Run,(:30) P.Mahomes kneels to KC 22 for -1 yards.,3rd & 12 at KC 23
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,1,GB,1,1,0,Kickoff,"J.Myers kicks 65 yards from SEA 35 to end zone, Touchback.",Kickoff from SEA 35
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,1,GB,1,2,0,23 Yard Run,(15:00) A.Jones left end to GB 48 for 23 yards (Q.Diggs).,1st & 10 at GB 25
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,1,GB,1,3,0,14 Yard Pass,(14:21) A.Rodgers pass short right to D.Adams pushed ob at SEA 38 for 14 yards (T.Flowers).,1st & 10 at GB 48
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,1,GB,1,4,0,Pass Incomplete,(13:45) (Shotgun) A.Rodgers pass incomplete short left.,1st & 10 at SEA 38
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,1,GB,1,5,0,2 Yard Run,(13:36) (Shotgun) A.Jones right guard to SEA 36 for 2 yards (B.Wagner).,2nd & 10 at SEA 38
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,1,GB,1,6,0,13 Yard Pass,(12:51) (Shotgun) A.Rodgers pass short middle to J.Graham to SEA 23 for 13 yards (B.McDougald).,3rd & 8 at SEA 36
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,1,GB,1,7,0,7 Yard Run,(12:11) T.Ervin left end to SEA 16 for 7 yards (C.Barton; K.Wright).,1st & 10 at SEA 23
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,1,GB,1,8,0,-4 Yard Run,(11:28) A.Jones right end to SEA 20 for -4 yards (J.Clowney).,2nd & 3 at SEA 16
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,1,GB,1,9,0,Touchdown Packers,"(10:42) (Shotgun) A.Rodgers pass deep left to D.Adams for 20 yards, TOUCHDOWN.",3rd & 7 at SEA 20
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,1,GB,1,10,1,Extra Point Good,"M.Crosby extra point is GOOD, Center-H.Bradley, Holder-J.Scott.",XP attempt from SEA 15
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,2,SEA,0,1,0,Kickoff,M.Crosby kicks 60 yards from GB 35 to SEA 5. T.Homer to SEA 30 for 25 yards (T.Summers; O.Burks).,Kickoff from GB 35
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,2,SEA,0,2,0,11 Yard Pass,"(10:30) R.Wilson pass short middle to J.Hollister to SEA 41 for 11 yards (J.Alexander).
+Green Bay challenged the runner was down by contact ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2.)",1st & 10 at SEA 30
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,2,SEA,0,3,0,Run for No Gain,(9:50) (Shotgun) M.Lynch right guard to SEA 41 for no gain (B.Martinez).,1st & 10 at SEA 41
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,2,SEA,0,4,0,Sack,(9:07) (Shotgun) R.Wilson sacked at SEA 41 for 0 yards (Z.Smith).,2nd & 10 at SEA 41
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,2,SEA,0,5,0,Pass Incomplete,(8:24) (Shotgun) R.Wilson pass incomplete deep left to DK.Metcalf (J.Alexander).,3rd & 10 at SEA 41
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,2,SEA,0,6,0,Punt,"(8:14) M.Dickson punts 54 yards to GB 5, Center-T.Ott. T.Ervin to GB 11 for 6 yards (J.Brown).",4th & 10 at SEA 41
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,3,GB,0,1,0,Pass Incomplete,(8:03) (Shotgun) A.Rodgers pass incomplete short left to A.Jones [Q.Jefferson].,1st & 10 at GB 11
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,3,GB,0,2,0,1 Yard Run,(8:00) A.Jones left end to GB 12 for 1 yard (T.Flowers; C.Barton).,2nd & 10 at GB 11
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,3,GB,0,3,0,Pass Incomplete,(7:13) (Shotgun) A.Rodgers pass incomplete deep right.,3rd & 9 at GB 12
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,3,GB,0,4,0,Punt,"(7:06) J.Scott punts 55 yards to SEA 33, Center-H.Bradley, fair catch by D.Moore.",4th & 9 at GB 12
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,4,SEA,0,1,0,8 Yard Run,(6:57) M.Lynch right guard to SEA 41 for 8 yards (D.Lowry).,1st & 10 at SEA 33
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,4,SEA,0,2,0,1 Yard Run,(6:29) M.Lynch right guard to SEA 42 for 1 yard (B.Goodson).,2nd & 2 at SEA 41
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,4,SEA,0,3,0,Run for No Gain,(5:44) (Shotgun) M.Lynch right guard to SEA 42 for no gain (K.Clark).,3rd & 1 at SEA 42
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,4,SEA,0,4,0,Punt,"(4:57) M.Dickson punts 43 yards to GB 15, Center-T.Ott, fair catch by T.Ervin.",4th & 1 at SEA 42
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,5,GB,0,1,0,3 Yard Run,(4:50) (Shotgun) J.Williams left end to GB 18 for 3 yards (J.Reed; B.Mone).,1st & 10 at GB 15
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,5,GB,0,2,0,5 Yard Run,(4:14) A.Lazard right end to GB 23 for 5 yards (K.Wright).,2nd & 7 at GB 18
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,5,GB,0,3,0,-10 Yard Penalty,"(3:34) (Shotgun) A.Rodgers pass short left to G.Allison to GB 29 for 6 yards (T.Flowers).
+PENALTY on GB-A.Lazard, Offensive Pass Interference, 10 yards, enforced at GB 23 - No Play.",3rd & 2 at GB 23
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,5,GB,0,4,0,9 Yard Pass,(3:05) (Shotgun) A.Rodgers pass short right to J.Williams to GB 22 for 9 yards (B.McDougald).,3rd & 12 at GB 13
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,5,GB,0,5,0,Punt,"(2:18) J.Scott punts 46 yards to SEA 32, Center-H.Bradley. D.Moore to SEA 42 for 10 yards (O.Burks).",4th & 3 at GB 22
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,6,SEA,1,1,0,Pass Incomplete,(2:06) G.Fant reported in as eligible.  R.Wilson pass incomplete deep left to M.Turner.,1st & 10 at SEA 42
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,6,SEA,1,2,0,28 Yard Pass,"(2:00) (Shotgun) R.Wilson pass deep left to T.Lockett ran ob at GB 30 for 28 yards (D.Savage).
+Penalty on GB-K.King, Defensive Holding, declined.",2nd & 10 at SEA 42
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,6,SEA,1,3,0,Pass Incomplete,(1:32) R.Wilson pass incomplete deep right.,1st & 10 at GB 30
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,6,SEA,1,4,0,4 Yard Run,(1:22) (Shotgun) M.Lynch up the middle to GB 26 for 4 yards (K.Clark).,2nd & 10 at GB 30
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,6,SEA,1,5,0,Pass Incomplete,(:38) (Shotgun) R.Wilson pass incomplete short left to J.Hollister.,3rd & 6 at GB 26
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,1ST QUARTER,6,SEA,1,6,1,Field Goal,"(:33) J.Myers 45 yard field goal is GOOD, Center-T.Ott, Holder-M.Dickson.",4th & 6 at GB 26
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,1,GB,1,1,0,Kickoff,"J.Myers kicks 65 yards from SEA 35 to end zone, Touchback.",Kickoff from SEA 35
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,1,GB,1,2,0,11 Yard Pass,(:28) A.Rodgers pass short middle to D.Adams to GB 36 for 11 yards (Sl.Griffin).,1st & 10 at GB 25
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,1,GB,1,3,0,18 Yard Pass,(15:00) A.Rodgers pass short right to D.Adams pushed ob at SEA 46 for 18 yards (B.McDougald).,1st & 10 at GB 36
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,1,GB,1,4,0,15 Yard Pass,(14:24) A.Rodgers pass short middle to D.Adams to SEA 31 for 15 yards (K.Wright).,1st & 10 at SEA 46
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,1,GB,1,5,0,8 Yard Pass,(13:41) A.Rodgers pass short right to M.Valdes-Scantling to SEA 23 for 8 yards (Sl.Griffin).,1st & 10 at SEA 31
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,1,GB,1,6,0,-10 Yard Penalty,"(12:57) A.Rodgers pass short left to A.Jones to SEA 10 for 13 yards (T.Flowers; J.Reed).
+PENALTY on GB-E.Jenkins, Illegal Block Above the Waist, 10 yards, enforced at SEA 23 - No Play.",2nd & 2 at SEA 23
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,1,GB,1,7,0,18 Yard Penalty,"(12:22) (Shotgun) A.Rodgers pass incomplete deep right to D.Adams.
+PENALTY on SEA-Sl.Griffin, Defensive Pass Interference, 18 yards, enforced at SEA 33 - No Play.",2nd & 12 at SEA 33
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,1,GB,1,8,0,4 Yard Run,(12:17) A.Jones left end to SEA 11 for 4 yards (J.Reed).,1st & 10 at SEA 15
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,1,GB,1,9,0,5 Yard Penalty,"(11:37) A.Rodgers pass incomplete short middle to D.Adams.
+PENALTY on SEA-P.Ford, Defensive Offside, 5 yards, enforced at SEA 11 - No Play.",2nd & 6 at SEA 11
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,1,GB,1,10,0,5 Yard Run,(11:33) A.Jones left end to SEA 1 for 5 yards (K.Wright).,2nd & 1 at SEA 6
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,1,GB,1,11,0,Pass Incomplete,(10:51) (Shotgun) A.Rodgers pass incomplete short middle to D.Adams.,1st & 1 at SEA 1
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,1,GB,1,12,0,Run for No Gain,(10:49) L.Patrick reported in as eligible.  A.Jones left tackle to SEA 1 for no gain (B.Wagner).,2nd & 1 at SEA 1
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,1,GB,1,13,0,Touchdown Packers,"(9:55) A.Jones left guard for 1 yard, TOUCHDOWN.",3rd & 1 at SEA 1
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,1,GB,1,14,1,Extra Point Good,"M.Crosby extra point is GOOD, Center-H.Bradley, Holder-J.Scott.",XP attempt from SEA 15
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,2,SEA,0,1,0,Kickoff,M.Crosby kicks 64 yards from GB 35 to SEA 1. T.Homer to SEA 18 for 17 yards (O.Burks).,Kickoff from GB 35
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,2,SEA,0,2,0,1 Yard Run,(9:44) M.Lynch left guard to SEA 19 for 1 yard (K.King).,1st & 10 at SEA 18
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,2,SEA,0,3,0,31 Yard Pass,"(9:09) (Shotgun) R.Wilson pass deep left to T.Lockett to 50 for 31 yards (D.Savage). GB-D.Savage was injured during the play. 
+Penalty on GB-J.Alexander, Defensive Holding, declined.",2nd & 9 at SEA 19
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,2,SEA,0,4,0,3 Yard Run,(8:44) G.Fant reported in as eligible.  R.Wilson scrambles right end to GB 47 for 3 yards (T.Lancaster).,1st & 10 at 50
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,2,SEA,0,5,0,13 Yard Pass,(8:02) R.Wilson pass short right to DK.Metcalf ran ob at GB 34 for 13 yards (K.King).,2nd & 7 at GB 47
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,2,SEA,0,6,0,6 Yard Run,(7:24) D.Moore right end to GB 28 for 6 yards (J.Alexander).,1st & 10 at GB 34
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,2,SEA,0,7,0,-4 Yard Sack,(6:40) (Shotgun) R.Wilson sacked at GB 32 for -4 yards (Z.Smith).,2nd & 4 at GB 28
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,2,SEA,0,8,0,Pass Incomplete,(5:54) (Shotgun) R.Wilson pass incomplete short left to T.Homer.,3rd & 8 at GB 32
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,2,SEA,0,9,0,Field Goal No Good,"(5:48) J.Myers 50 yard field goal is No Good, Wide Right, Center-T.Ott, Holder-M.Dickson.",4th & 8 at GB 32
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,3,GB,1,1,0,18 Yard Run,(5:43) T.Ervin left end to SEA 42 for 18 yards (B.Wagner).,1st & 10 at GB 40
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,3,GB,1,2,0,3 Yard Run,(5:04) A.Jones right end to SEA 39 for 3 yards (Sl.Griffin). GB-A.Lazard was injured during the play.,1st & 10 at SEA 42
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,3,GB,1,3,0,10 Yard Pass,(4:34) (Shotgun) A.Rodgers pass short middle to D.Adams to SEA 29 for 10 yards (Q.Diggs).,2nd & 7 at SEA 39
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,3,GB,1,4,0,Pass Incomplete,(3:50) (Shotgun) A.Rodgers pass incomplete short left to J.Kumerow.,1st & 10 at SEA 29
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,3,GB,1,5,0,16 Yard Pass,"(3:46) (Shotgun) A.Rodgers pass short left to J.Sternberger pushed ob at SEA 27 for 2 yards (J.Clowney).
+PENALTY on SEA-J.Clowney, Face Mask (15 Yards), 14 yards, enforced at SEA 27.",2nd & 10 at SEA 29
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,3,GB,1,6,0,Sack,(3:17) (Shotgun) A.Rodgers sacked at SEA 13 for 0 yards (sack split by J.Clowney and K.Wright).,1st & 10 at SEA 13
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,3,GB,1,7,0,9 Yard Run,(2:33) A.Jones left tackle to SEA 4 for 9 yards (T.Flowers).,2nd & 10 at SEA 13
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,3,GB,1,8,0,2 Yard Run,(2:00) A.Rodgers up the middle to SEA 2 for 2 yards (J.Reed).,3rd & 1 at SEA 4
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,3,GB,1,9,0,1 Yard Run,(1:50) (Shotgun) A.Jones right guard to SEA 1 for 1 yard (J.Clowney; B.Wagner).,1st & 2 at SEA 2
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,3,GB,1,10,0,Run for No Gain,(1:40) A.Jones left tackle to SEA 1 for no gain (T.Flowers; Q.Diggs).,2nd & 1 at SEA 1
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,3,GB,1,11,0,Penalty,"(1:33) (Shotgun) PENALTY on SEA-J.Clowney, Neutral Zone Infraction, 0 yards, enforced at SEA 1 - No Play.",3rd & 1 at SEA 1
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,3,GB,1,12,0,Touchdown Packers,"(1:33) (Shotgun) A.Jones left guard for 1 yard, TOUCHDOWN.",3rd & 1 at SEA 1
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,3,GB,1,13,1,Extra Point Good,"M.Crosby extra point is GOOD, Center-H.Bradley, Holder-J.Scott.",XP attempt from SEA 15
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,4,SEA,0,1,0,Kickoff,M.Crosby kicks 65 yards from GB 35 to SEA 0. T.Homer to SEA 24 for 24 yards (J.Kumerow; T.Summers).,Kickoff from GB 35
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,4,SEA,0,2,0,14 Yard Pass,(1:22) (Shotgun) R.Wilson pass short middle to T.Lockett to SEA 38 for 14 yards (D.Savage).,1st & 10 at SEA 24
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,4,SEA,0,3,0,8 Yard Pass,"(1:03) (No Huddle, Shotgun) R.Wilson pass short left to DK.Metcalf pushed ob at SEA 46 for 8 yards (J.Alexander).",1st & 10 at SEA 38
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,4,SEA,0,4,0,-5 Yard Penalty,"(:57) (Shotgun) PENALTY on SEA-D.Brown, False Start, 5 yards, enforced at SEA 46 - No Play.",2nd & 2 at SEA 46
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,4,SEA,0,5,0,-2 Yard Sack,(:57) (Shotgun) R.Wilson sacked at SEA 39 for -2 yards (K.Clark).,2nd & 7 at SEA 41
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,4,SEA,0,6,0,13 Yard Run,"(:25) (No Huddle, Shotgun) R.Wilson scrambles up the middle to GB 48 for 13 yards (B.Martinez).",3rd & 9 at SEA 39
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,4,SEA,0,7,0,Pass Incomplete,(:11) (No Huddle) R.Wilson spiked the ball to stop the clock.,1st & 10 at GB 48
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,4,SEA,0,8,0,5 Yard Penalty,"(:10) (Shotgun) PENALTY on GB, Defensive Too Many Men on Field, 5 yards, enforced at GB 48 - No Play.",2nd & 10 at GB 48
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,2ND QUARTER,4,SEA,0,9,0,Pass Incomplete,(:10) (Shotgun) R.Wilson pass incomplete deep right (A.Amos) [Z.Smith].,2nd & 5 at GB 43
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,1,SEA,1,1,0,Kickoff,M.Crosby kicks 55 yards from GB 35 to SEA 10. T.Homer to SEA 31 for 21 yards (J.Sternberger).,Kickoff from GB 35
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,1,SEA,1,2,0,Pass Incomplete,(14:53) (Shotgun) R.Wilson pass incomplete short right to M.Turner [P.Smith].,1st & 10 at SEA 31
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,1,SEA,1,3,0,4 Yard Run,(14:46) (Shotgun) M.Lynch up the middle to SEA 35 for 4 yards (B.Martinez; O.Burks).,2nd & 10 at SEA 31
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,1,SEA,1,4,0,22 Yard Run,(14:06) (Shotgun) R.Wilson scrambles up the middle to GB 43 for 22 yards (J.Alexander).,3rd & 6 at SEA 35
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,1,SEA,1,5,0,5 Yard Run,(13:25) T.Homer right tackle to GB 38 for 5 yards (B.Martinez).,1st & 10 at GB 43
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,1,SEA,1,6,0,24 Yard Pass,(12:38) G.Fant reported in as eligible.  R.Wilson pass short right to DK.Metcalf pushed ob at GB 14 for 24 yards (A.Amos).,2nd & 5 at GB 38
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,1,SEA,1,7,0,6 Yard Pass,(12:03) R.Wilson pass short left to T.Lockett to GB 8 for 6 yards (J.Alexander).,1st & 10 at GB 14
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,1,SEA,1,8,0,Run for No Gain,(11:21) (Shotgun) G.Fant reported in as eligible.  M.Lynch up the middle to GB 8 for no gain (B.Martinez).,2nd & 4 at GB 8
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,1,SEA,1,9,0,3 Yard Pass,(10:39) (Shotgun) R.Wilson pass short right to J.Hollister to GB 5 for 3 yards (C.Sullivan). GB-C.Sullivan was injured during the play.,3rd & 4 at GB 8
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,1,SEA,1,10,0,4 Yard Pass,(10:13) R.Wilson pass short right to T.Lockett to GB 1 for 4 yards (A.Amos; J.Alexander).,4th & 1 at GB 5
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,1,SEA,1,11,0,Touchdown Seahawks,"(9:49) (No Huddle, Shotgun) M.Lynch up the middle for 1 yard, TOUCHDOWN.",1st & 1 at GB 1
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,1,SEA,1,12,1,Extra Point Good,"J.Myers extra point is GOOD, Center-T.Ott, Holder-M.Dickson.",XP attempt from GB 15
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,2,GB,1,1,0,Kickoff,"J.Myers kicks 65 yards from SEA 35 to end zone, Touchback.",Kickoff from SEA 35
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,2,GB,1,2,0,Pass Incomplete,(9:44) (Shotgun) A.Rodgers pass incomplete deep left.,1st & 10 at GB 25
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,2,GB,1,3,0,4 Yard Pass,(9:35) (Shotgun) A.Rodgers pass short middle to A.Jones to GB 29 for 4 yards (B.Wagner).,2nd & 10 at GB 25
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,2,GB,1,4,0,27 Yard Pass,(8:50) (Shotgun) A.Rodgers pass deep middle to J.Graham to SEA 44 for 27 yards (Q.Diggs).,3rd & 6 at GB 29
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,2,GB,1,5,0,4 Yard Run,(8:02) A.Jones up the middle to SEA 40 for 4 yards (K.Wright; B.Mone).,1st & 10 at SEA 44
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,2,GB,1,6,0,Touchdown Packers,"(7:21) A.Rodgers pass deep left to D.Adams for 40 yards, TOUCHDOWN.",2nd & 6 at SEA 40
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,2,GB,1,7,1,Extra Point Good,"M.Crosby extra point is GOOD, Center-H.Bradley, Holder-J.Scott.",XP attempt from SEA 15
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,3,SEA,1,1,0,Kickoff,M.Crosby kicks 59 yards from GB 35 to SEA 6. T.Homer to SEA 16 for 10 yards (J.Kumerow).,Kickoff from GB 35
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,3,SEA,1,2,0,Pass Incomplete,(7:03) (Shotgun) R.Wilson pass incomplete short right to T.Lockett.,1st & 10 at SEA 16
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,3,SEA,1,3,0,5 Yard Penalty,"(6:58) (Shotgun) PENALTY on GB-Z.Smith, Encroachment, 5 yards, enforced at SEA 16 - No Play.",2nd & 10 at SEA 16
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,3,SEA,1,4,0,5 Yard Run,(6:58) (Shotgun) R.Wilson scrambles right tackle to SEA 26 for 5 yards (D.Savage).,2nd & 5 at SEA 21
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,3,SEA,1,5,0,2 Yard Run,(6:20) (Shotgun) M.Lynch left tackle to SEA 28 for 2 yards (O.Burks; K.Clark).,1st & 10 at SEA 26
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,3,SEA,1,6,0,13 Yard Pass,(5:38) (Shotgun) G.Fant reported in as eligible.  R.Wilson pass short right to T.Lockett to SEA 41 for 13 yards (J.Alexander).,2nd & 8 at SEA 28
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,3,SEA,1,7,0,11 Yard Pass,(4:59) R.Wilson pass short right to T.Homer pushed ob at GB 48 for 11 yards (I.Campbell).,1st & 10 at SEA 41
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,3,SEA,1,8,0,9 Yard Pass,(4:27) (Shotgun) R.Wilson pass short right to J.Hollister to GB 39 for 9 yards (J.Alexander; B.Martinez).,1st & 10 at GB 48
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,3,SEA,1,9,0,3 Yard Run,"(4:04) (No Huddle, Shotgun) T.Homer up the middle to GB 36 for 3 yards (B.Martinez).",2nd & 1 at GB 39
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,3,SEA,1,10,0,11 Yard Run,"(3:33) (No Huddle, Shotgun) R.Wilson scrambles right end to GB 25 for 11 yards (D.Savage).",1st & 10 at GB 36
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,3,SEA,1,11,0,8 Yard Pass,(2:57) (Shotgun) R.Wilson pass short middle to L.Willson to GB 17 for 8 yards (B.Martinez; O.Burks) [P.Smith].,1st & 10 at GB 25
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,3,SEA,1,12,0,1 Yard Run,"(2:21) (No Huddle, Shotgun) R.Wilson scrambles right guard to GB 16 for 1 yard (R.Gary; D.Lowry).",2nd & 2 at GB 17
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,3,SEA,1,13,0,9 Yard Run,(1:33) R.Wilson scrambles right end to GB 7 for 9 yards (A.Amos).,3rd & 1 at GB 16
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,3,SEA,1,14,0,Touchdown Seahawks,"(:47) (Shotgun) R.Wilson pass short right to T.Lockett for 7 yards, TOUCHDOWN [M.Adams].",1st & 7 at GB 7
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,3RD QUARTER,3,SEA,1,15,1,Extra Point Good,"J.Myers extra point is GOOD, Center-T.Ott, Holder-M.Dickson.",XP attempt from GB 15
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,1,GB,0,1,0,Kickoff,J.Myers kicks 49 yards from SEA 35 to GB 16. B.Goodson to GB 26 for 10 yards (J.Brown; D.Hill).,Kickoff from SEA 35
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,1,GB,0,2,0,8 Yard Run,(:33) A.Jones left end to GB 34 for 8 yards (T.Flowers).,1st & 10 at GB 26
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,1,GB,0,3,0,-2 Yard Run,(15:00) A.Jones left end to GB 32 for -2 yards (B.McDougald).,2nd & 2 at GB 34
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,1,GB,0,4,0,Pass Incomplete,(14:15) (Shotgun) A.Rodgers pass incomplete short right to D.Adams (B.Wagner).,3rd & 4 at GB 32
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,1,GB,0,5,0,Punt,"(14:12) J.Scott punts 47 yards to SEA 21, Center-H.Bradley, downed by GB-H.Bradley.",4th & 4 at GB 32
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,2,SEA,1,1,0,19 Yard Pass,"(14:01) (Shotgun) R.Wilson pass deep left to T.Lockett to SEA 40 for 19 yards (K.King). GB-K.King was injured during the play. 
+Penalty on GB-K.Clark, Defensive Offside, declined.",1st & 10 at SEA 21
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,2,SEA,1,2,0,Sack,(13:42) (Shotgun) R.Wilson sacked at SEA 40 for 0 yards (P.Smith).,1st & 10 at SEA 40
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,2,SEA,1,3,0,14 Yard Pass,(13:05) (Shotgun) R.Wilson pass short right to DK.Metcalf to GB 46 for 14 yards (J.Alexander).,2nd & 10 at SEA 40
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,2,SEA,1,4,0,1 Yard Run,(12:29) (Shotgun) G.Fant reported in as eligible.  L.Willson right end to GB 45 for 1 yard (K.King).,1st & 10 at GB 46
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,2,SEA,1,5,0,19 Yard Pass,(11:44) (Shotgun) R.Wilson pass deep right to J.Hollister pushed ob at GB 26 for 19 yards (A.Amos).,2nd & 9 at GB 45
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,2,SEA,1,6,0,5 Yard Run,(11:14) (Shotgun) T.Homer right guard to GB 21 for 5 yards (R.Gary; T.Lancaster). GB-T.Lancaster was injured during the play.,1st & 10 at GB 26
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,2,SEA,1,7,0,16 Yard Pass,(10:40) R.Wilson pass short right to T.Homer ran ob at GB 5 for 16 yards (B.Martinez). GB-P.Smith was injured during the play.,2nd & 5 at GB 21
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,2,SEA,1,8,0,4 Yard Run,(10:03) (Shotgun) M.Lynch up the middle to GB 1 for 4 yards (A.Amos).,1st & 5 at GB 5
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,2,SEA,1,9,0,Touchdown Seahawks,"(9:37) (No Huddle, Shotgun) M.Lynch left guard for 1 yard, TOUCHDOWN.",2nd & 1 at GB 1
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,2,SEA,1,10,1,2PT Conversion Fails,TWO-POINT CONVERSION ATTEMPT. R.Wilson is sacked. ATTEMPT FAILS.,XP attempt from GB 2
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,3,GB,0,1,0,Kickoff,J.Myers kicks 50 yards from SEA 35 to GB 15. T.Ervin to GB 27 for 12 yards (A.King).,Kickoff from SEA 35
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,3,GB,0,2,0,Pass Incomplete,(9:28) A.Rodgers pass incomplete short left to J.Graham (B.McDougald).,1st & 10 at GB 27
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,3,GB,0,3,0,Pass Incomplete,(9:23) (Shotgun) A.Rodgers pass incomplete short right to D.Adams (Sl.Griffin).,2nd & 10 at GB 27
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,3,GB,0,4,0,11 Yard Pass,(9:19) (Shotgun) A.Rodgers pass short middle to G.Allison to GB 38 for 11 yards (T.Flowers).,3rd & 10 at GB 27
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,3,GB,0,5,0,2 Yard Run,(8:35) A.Jones left tackle to GB 40 for 2 yards (J.Clowney; B.Jackson).,1st & 10 at GB 38
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,3,GB,0,6,0,19 Yard Run,"(7:51) A.Rodgers scrambles right end to SEA 46 for 14 yards (K.Wright).
+PENALTY on SEA-J.Clowney, Defensive Holding, 5 yards, enforced at SEA 46.",2nd & 8 at GB 40
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,3,GB,0,7,0,1 Yard Run,(7:18) A.Jones left tackle to SEA 40 for 1 yard (C.Barton; P.Ford).,1st & 10 at SEA 41
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,3,GB,0,8,0,Pass Incomplete,(6:32) (Shotgun) A.Rodgers pass incomplete short right.,2nd & 9 at SEA 40
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,3,GB,0,9,0,-8 Yard Sack,(6:27) (Shotgun) A.Rodgers sacked at SEA 48 for -8 yards (Sm.Griffin).,3rd & 9 at SEA 40
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,3,GB,0,10,0,Punt,"(5:04) J.Scott punts 25 yards to SEA 23, Center-H.Bradley, out of bounds.",4th & 17 at SEA 48
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,4,SEA,0,1,0,14 Yard Pass,(4:54) R.Wilson pass short right to T.Lockett to SEA 37 for 14 yards (B.Martinez).,1st & 10 at SEA 23
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,4,SEA,0,2,0,Pass Incomplete,(4:13) (Shotgun) R.Wilson pass incomplete short middle to M.Turner [Z.Smith].,1st & 10 at SEA 37
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,4,SEA,0,3,0,5 Yard Pass,(4:08) (Shotgun) R.Wilson pass short right to J.Hollister to SEA 42 for 5 yards (K.King).,2nd & 10 at SEA 37
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,4,SEA,0,4,0,-6 Yard Sack,(3:22) (Shotgun) R.Wilson sacked at SEA 36 for -6 yards (P.Smith).,3rd & 5 at SEA 42
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,4,SEA,0,5,0,Punt,"(2:41) M.Dickson punts 64 yards to end zone, Center-T.Ott, Touchback.",4th & 11 at SEA 36
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,5,GB,0,1,0,2 Yard Run,(2:32) A.Jones up the middle to GB 22 for 2 yards (J.Clowney).,1st & 10 at GB 20
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,5,GB,0,2,0,Pass Incomplete,(2:26) A.Rodgers pass incomplete short right [J.Clowney].,2nd & 8 at GB 22
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,5,GB,0,3,0,32 Yard Pass,(2:19) (Shotgun) A.Rodgers pass deep right to D.Adams pushed ob at SEA 46 for 32 yards (U.Amadi).,3rd & 8 at GB 22
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,5,GB,0,4,0,1 Yard Run,(2:12) A.Jones right guard to SEA 45 for 1 yard (J.Clowney).,1st & 10 at SEA 46
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,5,GB,0,5,0,Run for No Gain,(2:08) A.Jones left end to SEA 45 for no gain (T.Flowers).,2nd & 9 at SEA 45
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,5,GB,0,6,0,9 Yard Pass,"(2:00) (Shotgun) A.Rodgers pass short middle to J.Graham to SEA 36 for 9 yards (D.Hill) [B.Wagner].
+The Replay Official reviewed the first down ruling, and the play was Upheld. The ruling on the field stands.",3rd & 9 at SEA 45
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,5,GB,0,7,0,Run for No Gain,(1:48) A.Rodgers kneels to SEA 36 for no gain.,1st & 10 at SEA 36
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,5,GB,0,8,0,-1 Yard Run,(1:14) A.Rodgers kneels to SEA 37 for -1 yards.,2nd & 10 at SEA 36
+2019,Divisional Playoffs,SUN,01/12,Seahawks,Packers,4TH QUARTER,5,GB,0,9,0,-1 Yard Run,(:38) A.Rodgers kneels to SEA 38 for -1 yards.,3rd & 11 at SEA 37

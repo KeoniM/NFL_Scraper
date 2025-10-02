@@ -1,0 +1,717 @@
+Season,Week,Day,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayDescription,PlayStart
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,1,IND,0,1,0,Kickoff,"H.Butker kicks 64 yards from KC 35 to IND 1. Z.Pascal to IND 20 for 19 yards (A.Sherman, E.Murray).",Kickoff from KC 35
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,1,IND,0,2,0,-3 Yard Run,(14:55) (Shotgun) M.Mack up the middle to IND 17 for -3 yards (D.Ford).,1st & 10 at IND 20
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,1,IND,0,3,0,10 Yard Run,(14:14) M.Mack right end to IND 27 for 10 yards (D.Sorensen; J.Lucas).,2nd & 13 at IND 17
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,1,IND,0,4,0,Pass Incomplete,(13:27) (Shotgun) A.Luck pass incomplete short middle to E.Ebron.,3rd & 3 at IND 27
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,1,IND,0,5,0,Punt,"(13:22) R.Sanchez punts 53 yards to KC 20, Center-L.Rhodes. T.Hill pushed ob at KC 46 for 26 yards (N.Goode).
+PENALTY on KC-Tr. Smith, Offensive Holding, 10 yards, enforced at KC 20.",4th & 3 at IND 27
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,2,KC,1,1,0,11 Yard Pass,(13:05) (Shotgun) P.Mahomes pass short middle to T.Hill to KC 21 for 11 yards (J.Wilcox).,1st & 10 at KC 10
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,2,KC,1,2,0,5 Yard Penalty,"(12:30) (Shotgun) PENALTY on IND-D.Autry, Neutral Zone Infraction, 5 yards, enforced at KC 21 - No Play.",1st & 10 at KC 21
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,2,KC,1,3,0,4 Yard Run,(12:08) (Shotgun) Dam. Williams left tackle to KC 30 for 4 yards (D.Leonard).,1st & 5 at KC 26
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,2,KC,1,4,0,16 Yard Pass,(11:25) (Shotgun) P.Mahomes pass short left to T.Kelce to KC 46 for 16 yards (K.Moore II; C.Geathers).,2nd & 1 at KC 30
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,2,KC,1,5,0,44 Yard Pass,"(10:42) (Shotgun) P.Mahomes pass short middle to S.Watkins pushed ob at IND 20 for 34 yards (J.Wilcox).
+PENALTY on IND-J.Wilcox, Horse Collar Tackle, 10 yards, enforced at IND 20.",1st & 10 at KC 46
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,2,KC,1,6,0,Touchdown Chiefs,"(10:11) (Shotgun) Dam. Williams right tackle for 10 yards, TOUCHDOWN.",1st & 10 at IND 10
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,2,KC,1,7,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",XP attempt from IND 15
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,3,IND,0,1,0,Kickoff,H.Butker kicks 62 yards from KC 35 to IND 3. Z.Pascal to IND 26 for 23 yards (E.Murray).,Kickoff from KC 35
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,3,IND,0,2,0,Pass Incomplete,(9:59) A.Luck pass incomplete short left to T.Hilton (C.Jones).,1st & 10 at IND 26
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,3,IND,0,3,0,Pass Incomplete,(9:53) (Shotgun) A.Luck pass incomplete short left to R.Hewitt (J.Houston).,2nd & 10 at IND 26
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,3,IND,0,4,0,Pass Incomplete,(9:48) (Shotgun) A.Luck pass incomplete deep right to Z.Pascal (C.Ward).,3rd & 10 at IND 26
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,3,IND,0,5,0,Punt,"(9:40) R.Sanchez punts 43 yards to KC 31, Center-L.Rhodes. T.Hill to KC 30 for -1 yards (C.Milton).",4th & 10 at IND 26
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,4,KC,1,1,0,4 Yard Pass,(9:32) (Shotgun) P.Mahomes pass short left to Dam. Williams to KC 34 for 4 yards (M.Adams; A.Walker).,1st & 10 at KC 30
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,4,KC,1,2,0,Pass Incomplete,(8:54) (Shotgun) P.Mahomes pass incomplete short right to C.Conley (P.Desir).,2nd & 6 at KC 34
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,4,KC,1,3,0,10 Yard Pass,(8:49) (Shotgun) P.Mahomes pass short middle to T.Hill to KC 44 for 10 yards (D.Leonard).,3rd & 6 at KC 34
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,4,KC,1,4,0,Pass Incomplete,(8:12) (Shotgun) P.Mahomes pass incomplete deep right to T.Hill.,1st & 10 at KC 44
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,4,KC,1,5,0,Pass Incomplete,(8:06) (Shotgun) P.Mahomes pass incomplete short right to S.Watkins.,2nd & 10 at KC 44
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,4,KC,1,6,0,5 Yard Penalty,"(8:02) (Shotgun) P.Mahomes pass incomplete short middle to D.Robinson.
+PENALTY on IND-K.Moore II, Defensive Offside, 5 yards, enforced at KC 44 - No Play.",3rd & 10 at KC 44
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,4,KC,1,7,0,4 Yard Run,(7:57) (Shotgun) P.Mahomes scrambles up the middle to IND 47 for 4 yards (J.Sheard).,3rd & 5 at KC 49
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,4,KC,1,8,0,11 Yard Run,(7:15) Dam. Williams up the middle to IND 36 for 11 yards (P.Desir).,4th & 1 at IND 47
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,4,KC,1,9,0,Touchdown Chiefs,"(6:39) T.Hill left end for 36 yards, TOUCHDOWN.",1st & 10 at IND 36
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,4,KC,1,10,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",XP attempt from IND 15
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,5,IND,0,1,0,Kickoff,H.Butker kicks 53 yards from KC 35 to IND 12. J.Wilkins to IND 23 for 11 yards (Dar.Williams).,Kickoff from KC 35
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,5,IND,0,2,0,6 Yard Run,(6:22) M.Mack up the middle to IND 29 for 6 yards (X.Williams; D.Nnadi).,1st & 10 at IND 23
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,5,IND,0,3,0,2 Yard Run,(5:37) (Shotgun) M.Mack up the middle to IND 31 for 2 yards (D.Ford).,2nd & 4 at IND 29
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,5,IND,0,4,0,-3 Yard Sack,(4:54) (Shotgun) A.Luck sacked at IND 28 for -3 yards (J.Houston).,3rd & 2 at IND 31
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,1ST QUARTER,5,IND,0,5,0,Punt,"(4:21) R.Sanchez punts 46 yards to KC 26, Center-L.Rhodes, fair catch by T.Hill.",4th & 5 at IND 28
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,1,KC,1,1,0,Pass Incomplete,(4:12) (Shotgun) P.Mahomes pass incomplete short right to T.Kelce (K.Moore II).,1st & 10 at KC 26
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,1,KC,1,2,0,14 Yard Pass,(4:08) (Shotgun) P.Mahomes pass short middle to T.Kelce to KC 40 for 14 yards (G.Stewart).,2nd & 10 at KC 26
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,1,KC,1,3,0,Pass Incomplete,(3:25) (Shotgun) P.Mahomes pass incomplete deep left to T.Hill.,1st & 10 at KC 40
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,1,KC,1,4,0,16 Yard Pass,(3:19) P.Mahomes pass deep right to T.Kelce to IND 44 for 16 yards (J.Wilcox; K.Moore II).,2nd & 10 at KC 40
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,1,KC,1,5,0,7 Yard Pass,(2:35) (Shotgun) P.Mahomes pass short middle to T.Hill pushed ob at IND 37 for 7 yards (A.Muhammad).,1st & 10 at IND 44
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,1,KC,1,6,0,2 Yard Run,"(2:04) (Shotgun) Dam. Williams left guard to IND 35 for 2 yards (C.Geathers, A.Muhammad).",2nd & 3 at IND 37
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,1,KC,1,7,0,Pass Incomplete,(1:23) (Shotgun) P.Mahomes pass incomplete short right to D.Harris [D.Autry].,3rd & 1 at IND 35
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,1,KC,1,8,0,4 Yard Run,"(1:15) Dam. Williams up the middle to IND 31 for 4 yards (C.Geathers, D.Autry).",4th & 1 at IND 35
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,1,KC,1,9,0,2 Yard Run,(:38) Dar.Williams up the middle to IND 29 for 2 yards (K.Moore II).,1st & 10 at IND 31
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,1,KC,1,10,0,Pass Incomplete,(15:00) (Shotgun) P.Mahomes pass incomplete deep middle to T.Hill.,2nd & 8 at IND 29
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,1,KC,1,11,0,10 Yard Pass,(14:55) (Shotgun) P.Mahomes pass short left to T.Kelce to IND 19 for 10 yards (J.Wilcox).,3rd & 8 at IND 29
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,1,KC,1,12,0,-7 Yard Sack,(14:10) (Shotgun) P.Mahomes sacked at IND 26 for -7 yards (J.Sheard).,1st & 10 at IND 19
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,1,KC,1,13,0,5 Yard Penalty,"(13:28) (Shotgun) PENALTY on IND-M.Hunt, Encroachment, 5 yards, enforced at IND 26 - No Play.",2nd & 17 at IND 26
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,1,KC,1,14,0,Pass Incomplete,(13:07) (Shotgun) P.Mahomes pass incomplete short right to C.Conley [D.Autry].,2nd & 12 at IND 21
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,1,KC,1,15,0,Pass for No Gain,(13:01) (Shotgun) P.Mahomes pass short right to Dam. Williams to IND 21 for no gain (D.Leonard; K.Moore II).,3rd & 12 at IND 21
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,1,KC,1,16,1,Field Goal,"(12:18) H.Butker 39 yard field goal is GOOD, Center-J.Winchester, Holder-D.Colquitt.",4th & 12 at IND 21
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,2,IND,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,2,IND,0,2,0,-6 Yard Run,(12:13) (Shotgun) M.Mack left end to IND 19 for -6 yards (D.Nnadi).,1st & 10 at IND 25
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,2,IND,0,3,0,10 Yard Pass,(11:39) (Shotgun) A.Luck pass short right to T.Hilton to IND 29 for 10 yards (J.Lucas; C.Ward).,2nd & 16 at IND 19
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,2,IND,0,4,0,5 Yard Pass,(10:54) (Shotgun) A.Luck pass short right to E.Ebron to IND 34 for 5 yards (C.Ward; A.Hitchens).,3rd & 6 at IND 29
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,2,IND,0,5,0,Punt,"(10:19) R.Sanchez punts 51 yards to KC 15, Center-L.Rhodes. T.Hill to KC 18 for 3 yards (N.Hairston).",4th & 1 at IND 34
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,3,IND,1,1,0,Pass for No Gain,(10:06) (Shotgun) P.Mahomes pass short right to T.Hill to KC 18 for no gain (A.Walker).,1st & 10 at KC 18
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,3,IND,1,2,0,6 Yard Run,(9:31) (Shotgun) Dam. Williams up the middle to KC 24 for 6 yards (A.Muhammad).,2nd & 10 at KC 18
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,3,IND,1,3,0,5 Yard Penalty,"(8:42) (Shotgun) PENALTY on IND-J.Sheard, Neutral Zone Infraction, 5 yards, enforced at KC 24 - No Play.",3rd & 4 at KC 24
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,3,IND,1,4,0,-5 Yard Penalty,"(8:19) (Shotgun) PENALTY on KC-E.Fisher, False Start, 5 yards, enforced at KC 29 - No Play.",1st & 10 at KC 29
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,3,IND,1,5,0,-10 Yard Penalty,"(7:59) (Shotgun) P.Mahomes pass short left to T.Hill to KC 26 for 2 yards (D.Autry).
+PENALTY on KC-E.Fisher, Offensive Holding, 10 yards, enforced at KC 24 - No Play.",1st & 15 at KC 24
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,3,IND,1,6,0,1 Yard Run,(7:33) (Shotgun) Dam. Williams right guard to KC 15 for 1 yard (D.Leonard; M.Hunt).,1st & 25 at KC 14
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,3,IND,1,7,0,4 Yard Pass,(6:51) (Shotgun) P.Mahomes pass short right to Dam. Williams to KC 19 for 4 yards (P.Desir).,2nd & 24 at KC 15
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,3,IND,1,8,0,Pass Incomplete,(6:11) (Shotgun) P.Mahomes pass incomplete deep right to T.Kelce.,3rd & 20 at KC 19
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,3,IND,1,9,1,Touchdown Colts,"(6:04) D.Colquitt punt is BLOCKED by N.Goode, Center-J.Winchester, RECOVERED by IND-Z.Pascal at KC -2. TOUCHDOWN.",4th & 20 at KC 19
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,4,KC,1,1,0,Kickoff,"R.Sanchez kicks 65 yards from IND 35 to end zone, Touchback.",Kickoff from IND 35
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,4,KC,1,2,0,30 Yard Pass,(5:56) P.Mahomes pass short middle to T.Kelce to IND 45 for 30 yards (C.Geathers).,1st & 10 at KC 25
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,4,KC,1,3,0,5 Yard Pass,(5:15) (Shotgun) P.Mahomes pass short right to S.Watkins to IND 40 for 5 yards (C.Geathers).,1st & 10 at IND 45
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,4,KC,1,4,0,14 Yard Pass,(4:34) (Shotgun) P.Mahomes pass short middle to T.Hill to IND 26 for 14 yards (C.Geathers) [H.Ridgeway].,2nd & 5 at IND 40
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,4,KC,1,5,0,7 Yard Run,(4:00) Dam. Williams right tackle to IND 19 for 7 yards (C.Geathers).,1st & 10 at IND 26
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,4,KC,1,6,0,-3 Yard Run,(3:24) (Shotgun) Dam. Williams right end to IND 22 for -3 yards (D.Autry).,2nd & 3 at IND 19
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,4,KC,1,7,0,7 Yard Pass,(2:41) (Shotgun) P.Mahomes pass short middle to T.Kelce to IND 15 for 7 yards (K.Moore II).,3rd & 6 at IND 22
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,4,KC,1,8,0,9 Yard Pass,(2:00) P.Mahomes pass short right to Dam. Williams to IND 6 for 9 yards (P.Desir; D.Leonard).,1st & 10 at IND 15
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,4,KC,1,9,0,4 Yard Pass,(1:54) (Shotgun) P.Mahomes pass short middle to S.Watkins to IND 2 for 4 yards (A.Walker).,2nd & 1 at IND 6
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,4,KC,1,10,0,-2 Yard Run,(1:50) S.Watkins right end to IND 4 for -2 yards (G.Odum).,1st & 2 at IND 2
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,4,KC,1,11,0,Touchdown Chiefs,"(1:46) (Shotgun) P.Mahomes scrambles right end for 4 yards, TOUCHDOWN.",2nd & 4 at IND 4
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,4,KC,1,12,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",XP attempt from IND 15
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,5,IND,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,5,IND,0,2,0,21 Yard Pass,(1:40) (Shotgun) A.Luck pass deep middle to E.Ebron to IND 46 for 21 yards (A.Hitchens; E.Murray).,1st & 10 at IND 25
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,5,IND,0,3,0,12 Yard Pass,"(1:18) (No Huddle, Shotgun) A.Luck pass short left to D.Inman to KC 42 for 12 yards (S.Nelson) [D.Ford].",1st & 10 at IND 46
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,5,IND,0,4,0,4 Yard Pass,(:51) (Shotgun) A.Luck pass short right to E.Ebron pushed ob at KC 38 for 4 yards (A.Hitchens).,1st & 10 at KC 42
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,5,IND,0,5,0,11 Yard Pass,(:43) (Shotgun) A.Luck pass short left to C.Rogers to KC 27 for 11 yards (E.Murray).,2nd & 6 at KC 38
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,5,IND,0,6,0,13 Yard Pass,"(:21) (No Huddle, Shotgun) A.Luck pass short left to D.Inman pushed ob at KC 14 for 13 yards (S.Nelson).",1st & 10 at KC 27
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,5,IND,0,7,0,9 Yard Run,(:15) (Shotgun) A.Luck scrambles left end ran ob at KC 5 for 9 yards (A.Hitchens).,1st & 10 at KC 14
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,5,IND,0,8,0,Pass Incomplete,(:08) (Shotgun) A.Luck pass incomplete short left to M.Alie-Cox (S.Nelson).,2nd & 1 at KC 5
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,2ND QUARTER,5,IND,0,9,0,Field Goal No Good,"(:03) A.Vinatieri 23 yard field goal is No Good, Hit Left Upright, Center-L.Rhodes, Holder-R.Sanchez.",3rd & 1 at KC 5
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,1,KC,0,1,0,Kickoff,R.Sanchez kicks 67 yards from IND 35 to KC -2. Tr. Smith to KC 14 for 16 yards (C.Moore).,Kickoff from IND 35
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,1,KC,0,2,0,9 Yard Pass,(14:56) (Shotgun) P.Mahomes pass short left to S.Watkins pushed ob at KC 23 for 9 yards (K.Moore II).,1st & 10 at KC 14
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,1,KC,0,3,0,5 Yard Run,(14:24) (Shotgun) Dam. Williams left guard to KC 28 for 5 yards (D.Leonard).,2nd & 1 at KC 23
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,1,KC,0,4,0,Pass Incomplete,(13:48) (Shotgun) P.Mahomes pass incomplete deep middle to T.Hill (J.Wilcox).,1st & 10 at KC 28
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,1,KC,0,5,0,11 Yard Run,(13:40) (Shotgun) Dam. Williams left end pushed ob at KC 39 for 11 yards (K.Moore II).,2nd & 10 at KC 28
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,1,KC,0,6,0,1 Yard Run,(13:03) Dam. Williams up the middle to KC 40 for 1 yard (J.Sheard; D.Autry).,1st & 10 at KC 39
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,1,KC,0,7,0,11 Yard Pass,(12:27) (Shotgun) P.Mahomes pass short right to G.Dieter to IND 49 for 11 yards (D.Leonard).,2nd & 9 at KC 40
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,1,KC,0,8,0,Run for No Gain,"(11:44) (Shotgun) P.Mahomes FUMBLES (Aborted) at KC 46, and recovers at KC 44. P.Mahomes to KC 44 for no gain (H.Ridgeway).",1st & 10 at IND 49
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,1,KC,0,9,0,15 Yard Pass,(11:05) (Shotgun) P.Mahomes pass short right to T.Kelce to IND 41 for 15 yards (P.Desir).,2nd & 17 at KC 44
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,1,KC,0,10,0,1 Yard Run,(10:21) Dar.Williams up the middle to IND 40 for 1 yard (C.Geathers; Q.Wilson).,3rd & 2 at IND 41
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,1,KC,0,11,0,2 Yard Run,(9:50) Dam. Williams up the middle to IND 38 for 2 yards (D.Leonard).,4th & 1 at IND 40
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,1,KC,0,12,0,Pass Incomplete,(9:05) (Shotgun) P.Mahomes pass incomplete short right to Dam. Williams.,1st & 10 at IND 38
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,1,KC,0,13,0,Pass Incomplete,(9:00) (Shotgun) P.Mahomes pass incomplete short left to S.Watkins.,2nd & 10 at IND 38
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,1,KC,0,14,0,5 Yard Penalty,"(8:56) (Shotgun) P.Mahomes pass deep left intended for T.Hill INTERCEPTED by P.Desir at IND 1. P.Desir to IND 1 for no gain (T.Hill).
+PENALTY on IND-M.Hunt, Defensive Offside, 5 yards, enforced at IND 38 - No Play.",3rd & 10 at IND 38
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,1,KC,0,15,0,Pass Incomplete,(8:47) (Shotgun) P.Mahomes pass incomplete deep right to T.Kelce.,3rd & 5 at IND 33
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,1,KC,0,16,0,Turnover on Downs,"(8:40) (Shotgun) P.Mahomes sacked at IND 38 for -5 yards (D.Autry).
+PENALTY on IND-D.Autry, Unsportsmanlike Conduct, 15 yards, enforced between downs.",4th & 5 at IND 33
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,2,IND,0,1,0,4 Yard Pass,(8:32) (Shotgun) A.Luck pass short right to C.Rogers to IND 27 for 4 yards (K.Fuller).,1st & 10 at IND 23
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,2,IND,0,2,0,10 Yard Pass,"(8:10) (No Huddle, Shotgun) A.Luck pass short right to D.Inman to IND 37 for 10 yards (C.Ward).",2nd & 6 at IND 27
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,2,IND,0,3,0,Pass Incomplete,"(7:46) (No Huddle, Shotgun) A.Luck pass incomplete short right to E.Ebron (C.Ward).",1st & 10 at IND 37
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,2,IND,0,4,0,Pass Incomplete,(7:39) (Shotgun) A.Luck pass incomplete short left to C.Rogers.,2nd & 10 at IND 37
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,2,IND,0,5,0,Pass for No Gain,(7:34) (Shotgun) A.Luck pass short left to C.Rogers to IND 37 for no gain (D.Sorensen) [C.Jones].,3rd & 10 at IND 37
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,2,IND,0,6,0,Punt,"(6:49) R.Sanchez punts 45 yards to KC 18, Center-L.Rhodes. T.Hill to KC 18 for no gain (C.Milton). FUMBLES (C.Milton), recovered by KC-Tr. Smith at KC 21. Tr. Smith to KC 21 for no gain (C.Geathers).",4th & 10 at IND 37
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,3,KC,0,1,0,11 Yard Pass,(6:38) (Shotgun) P.Mahomes pass short left to T.Hill to KC 32 for 11 yards (K.Moore II).,1st & 10 at KC 21
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,3,KC,0,2,0,-5 Yard Run,(6:02) (Shotgun) Dam. Williams left end to KC 27 for -5 yards (D.Leonard).,1st & 10 at KC 32
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,3,KC,0,3,0,10 Yard Pass,(5:25) (Shotgun) P.Mahomes pass short right to S.Watkins pushed ob at KC 37 for 10 yards (Q.Wilson).,2nd & 15 at KC 27
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,3,KC,0,4,0,-5 Yard Penalty,"(4:45) (Shotgun) PENALTY on KC-C.Erving, False Start, 5 yards, enforced at KC 37 - No Play.",3rd & 5 at KC 37
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,3,KC,0,5,0,2 Yard Pass,(4:24) (Shotgun) P.Mahomes pass short middle to T.Hill to KC 34 for 2 yards (K.Moore II).,3rd & 10 at KC 32
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,3,KC,0,6,0,Punt,"(3:52) D.Colquitt punts 35 yards to IND 31, Center-J.Winchester, fair catch by C.Rogers.",4th & 8 at KC 34
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,4,IND,0,1,0,20 Yard Pass,(3:45) (Shotgun) A.Luck pass deep middle to D.Inman to KC 49 for 20 yards (C.Ward).,1st & 10 at IND 31
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,4,IND,0,2,0,3 Yard Run,(3:19) (Shotgun) M.Mack up the middle to KC 46 for 3 yards (A.Hitchens).,1st & 10 at KC 49
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,4,IND,0,3,0,-10 Yard Penalty,"(2:52) (No Huddle, Shotgun) M.Mack up the middle to KC 32 for 14 yards (J.Lucas; A.Hitchens).
+PENALTY on IND-B.Smith, Offensive Holding, 10 yards, enforced at KC 46 - No Play.",2nd & 7 at KC 46
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,4,IND,0,4,0,11 Yard Pass,(2:24) (Shotgun) A.Luck pass short right to T.Hilton to KC 45 for 11 yards (A.Hitchens).,2nd & 17 at IND 44
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,4,IND,0,5,0,-12 Yard Sack,(1:52) (Shotgun) A.Luck sacked at IND 43 for -12 yards (J.Houston).,3rd & 6 at KC 45
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,4,IND,0,6,0,Punt,"(1:15) R.Sanchez punts 57 yards to end zone, Center-L.Rhodes, Touchback.",4th & 18 at IND 43
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,5,KC,0,1,0,Fumble,"(1:05) (Shotgun) P.Mahomes pass short middle to S.Watkins to KC 19 for -1 yards (D.Leonard). FUMBLES (D.Leonard), RECOVERED by IND-D.Leonard at KC 20. D.Leonard to KC 20 for no gain (S.Watkins).",1st & 10 at KC 20
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,6,IND,0,1,0,Pass Incomplete,(1:00) (Shotgun) A.Luck pass incomplete deep left to T.Hilton (K.Fuller).,1st & 10 at KC 20
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,3RD QUARTER,6,IND,0,2,0,Fumble,"(:55) (Shotgun) A.Luck sacked at KC 29 for -9 yards (D.Ford). FUMBLES (D.Ford), touched at KC 29, RECOVERED by KC-J.Houston at KC 32. J.Houston to KC 32 for no gain (A.Luck).",2nd & 10 at KC 20
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,1,KC,0,1,0,17 Yard Pass,(:50) P.Mahomes pass deep right to T.Hill to KC 49 for 17 yards (P.Desir).,1st & 10 at KC 32
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,1,KC,0,2,0,14 Yard Run,"(15:00) Dam. Williams up the middle to IND 37 for 14 yards (D.Leonard, K.Moore II).",1st & 10 at KC 49
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,1,KC,0,3,0,-10 Yard Penalty,"(14:15) (Shotgun) P.Mahomes pass incomplete short middle to T.Kelce (D.Autry).
+PENALTY on KC-C.Erving, Illegal Use of Hands, 10 yards, enforced at IND 37 - No Play.",1st & 10 at IND 37
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,1,KC,0,4,0,5 Yard Run,(14:11) (Shotgun) Dam. Williams left guard to IND 42 for 5 yards (A.Walker).,1st & 20 at IND 47
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,1,KC,0,5,0,8 Yard Pass,(13:35) P.Mahomes pass short left to Dam. Williams to IND 34 for 8 yards (D.Leonard; P.Desir).,2nd & 15 at IND 42
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,1,KC,0,6,0,-8 Yard Sack,(12:54) P.Mahomes sacked at IND 42 for -8 yards (K.Moore II).,3rd & 7 at IND 34
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,1,KC,0,7,0,Punt,"(12:18) D.Colquitt punts 25 yards to IND 17, Center-J.Winchester, out of bounds.",4th & 15 at IND 42
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,2,IND,0,1,0,3 Yard Run,(12:11) (Shotgun) M.Mack right guard to IND 20 for 3 yards (X.Williams).,1st & 10 at IND 17
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,2,IND,0,2,0,8 Yard Run,(11:42) (Shotgun) A.Luck scrambles up the middle to IND 28 for 8 yards (D.Ford).,2nd & 7 at IND 20
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,2,IND,0,3,0,Pass Incomplete,"(11:13) (No Huddle, Shotgun) A.Luck pass incomplete short right to T.Hilton (C.Ward).",1st & 10 at IND 28
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,2,IND,0,4,0,-5 Yard Penalty,"(11:07) (Shotgun) PENALTY on IND-E.Ebron, False Start, 5 yards, enforced at IND 28 - No Play.",2nd & 10 at IND 28
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,2,IND,0,5,0,Pass Incomplete,(11:07) (Shotgun) A.Luck pass incomplete short left to T.Hilton (C.Jones).,2nd & 15 at IND 23
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,2,IND,0,6,0,Pass Incomplete,(11:02) (Shotgun) A.Luck pass incomplete short left to T.Hilton.,3rd & 15 at IND 23
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,2,IND,0,7,0,Punt,"(10:55) R.Sanchez punts 43 yards to KC 34, Center-L.Rhodes. T.Hill ran ob at KC 38 for 4 yards.",4th & 15 at IND 23
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,3,KC,0,1,0,4 Yard Run,(10:42) (Shotgun) Dam. Williams left end to KC 42 for 4 yards (A.Walker).,1st & 10 at KC 38
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,3,KC,0,2,0,Run for No Gain,(10:05) Dam. Williams up the middle to KC 42 for no gain (D.Leonard).,2nd & 6 at KC 42
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,3,KC,0,3,0,-5 Yard Sack,(9:24) (Shotgun) P.Mahomes sacked at KC 37 for -5 yards (K.Moore II).,3rd & 6 at KC 42
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,3,KC,0,4,0,Punt,"(8:45) D.Colquitt punts 50 yards to IND 13, Center-J.Winchester, fair catch by C.Rogers.",4th & 11 at KC 37
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,4,IND,1,1,0,Pass Incomplete,(8:35) (Shotgun) A.Luck pass incomplete short right to T.Hilton [D.Ford].,1st & 10 at IND 13
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,4,IND,1,2,0,20 Yard Run,(8:31) (Shotgun) M.Mack right end pushed ob at IND 33 for 20 yards (J.Lucas). IND-R.Kelly was injured during the play.,2nd & 10 at IND 13
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,4,IND,1,3,0,11 Yard Run,(8:01) (Shotgun) M.Mack up the middle to IND 44 for 11 yards (D.Sorensen; A.Hitchens).,1st & 10 at IND 33
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,4,IND,1,4,0,Pass Incomplete,(7:29) (Shotgun) A.Luck pass incomplete short left to J.Wilkins.,1st & 10 at IND 44
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,4,IND,1,5,0,14 Yard Run,(7:24) (Shotgun) N.Hines up the middle to KC 42 for 14 yards (J.Lucas).,2nd & 10 at IND 44
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,4,IND,1,6,0,Pass Incomplete,"(6:57) (No Huddle, Shotgun) A.Luck pass incomplete deep right to E.Ebron (J.Lucas).",1st & 10 at KC 42
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,4,IND,1,7,0,1 Yard Run,(6:48) (Shotgun) N.Hines up the middle to KC 41 for 1 yard (E.Murray).,2nd & 10 at KC 42
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,4,IND,1,8,0,Pass Incomplete,(6:09) (Shotgun) A.Luck pass incomplete short right to T.Hilton (C.Jones).,3rd & 9 at KC 41
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,4,IND,1,9,0,12 Yard Pass,(6:04) (Shotgun) A.Luck pass short left to C.Rogers to KC 29 for 12 yards (K.Fuller).,4th & 9 at KC 41
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,4,IND,1,10,0,Touchdown Colts,"(5:37) (No Huddle, Shotgun) A.Luck pass deep left to T.Hilton for 29 yards, TOUCHDOWN.",1st & 10 at KC 29
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,4,IND,1,11,1,Extra Point No Good,"A.Vinatieri extra point is No Good, Wide Right, Center-L.Rhodes, Holder-R.Sanchez.",XP attempt from KC 15
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,5,KC,1,1,0,Kickoff,R.Sanchez kicks 49 yards from IND 35 to KC 16. Tr. Smith pushed ob at KC 39 for 23 yards (N.Hairston).,Kickoff from IND 35
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,5,KC,1,2,0,4 Yard Run,(5:25) (Shotgun) Dam. Williams left end to KC 43 for 4 yards (C.Geathers).,1st & 10 at KC 39
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,5,KC,1,3,0,12 Yard Run,(4:44) (Shotgun) Dam. Williams left tackle to IND 45 for 12 yards (C.Geathers).,2nd & 6 at KC 43
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,5,KC,1,4,0,3 Yard Run,(4:00) (Shotgun) Dam. Williams left end to IND 42 for 3 yards (K.Moore II; J.Sheard).,1st & 10 at IND 45
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,5,KC,1,5,0,4 Yard Run,(3:54) (Shotgun) Dam. Williams right end to IND 38 for 4 yards (J.Wilcox).,2nd & 7 at IND 42
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,5,KC,1,6,0,Pass Incomplete,(3:48) (Shotgun) P.Mahomes pass incomplete deep left to T.Hill.,3rd & 3 at IND 38
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,5,KC,1,7,0,24 Yard Run,(3:32) Dam. Williams up the middle pushed ob at IND 9 for 24 yards (J.Wilcox).,1st & 10 at IND 33
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,5,KC,1,8,0,4 Yard Run,(3:24) Dam. Williams up the middle to IND 5 for 4 yards (D.Leonard).,1st & 9 at IND 9
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,5,KC,1,9,0,-1 Yard Run,(3:17) Dam. Williams up the middle to IND 6 for -1 yards (A.Walker).,2nd & 5 at IND 5
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,5,KC,1,10,0,Touchdown Chiefs,"(2:32) Dar.Williams up the middle for 6 yards, TOUCHDOWN.",3rd & 6 at IND 6
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,5,KC,1,11,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",XP attempt from IND 15
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,6,IND,0,1,0,Kickoff,H.Butker kicks 60 yards from KC 35 to IND 5. Z.Pascal to IND 32 for 27 yards (F.Zombo).,Kickoff from KC 35
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,6,IND,0,2,0,9 Yard Run,(2:16) (Shotgun) N.Hines up the middle to IND 41 for 9 yards (K.Fuller; E.Murray).,1st & 10 at IND 32
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,6,IND,0,3,0,10 Yard Pass,(2:00) (Shotgun) A.Luck pass short left to T.Hilton to KC 49 for 10 yards (E.Murray).,2nd & 1 at IND 41
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,6,IND,0,4,0,4 Yard Pass,"(1:36) (No Huddle, Shotgun) A.Luck pass short right to E.Ebron to KC 45 for 4 yards (Tr. Smith).",1st & 10 at KC 49
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,6,IND,0,5,0,17 Yard Pass,"(1:12) (No Huddle, Shotgun) A.Luck pass short left to E.Ebron ran ob at KC 28 for 17 yards.",2nd & 6 at KC 45
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,6,IND,0,6,0,3 Yard Pass,(1:07) (Shotgun) A.Luck pass short right to C.Rogers to KC 25 for 3 yards (R.Ragland).,1st & 10 at KC 28
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,6,IND,0,7,0,14 Yard Penalty,"(:41) (No Huddle, Shotgun) A.Luck pass incomplete deep right to D.Fountain.
+PENALTY on KC-C.Ward, Defensive Pass Interference, 14 yards, enforced at KC 25 - No Play.",2nd & 7 at KC 25
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,6,IND,0,8,0,Pass Incomplete,(:34) (Shotgun) A.Luck pass incomplete short right to E.Ebron.,1st & 10 at KC 11
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,6,IND,0,9,0,Pass Incomplete,(:29) (Shotgun) A.Luck pass incomplete short middle to Z.Pascal (C.Ward).,2nd & 10 at KC 11
+2018,Divisional Playoffs,SAT,01/12,Colts,Chiefs,4TH QUARTER,6,IND,0,10,0,7 Yard Pass,(:24) (Shotgun) A.Luck pass short right to Z.Pascal to KC 4 for 7 yards (R.Ragland).,3rd & 10 at KC 11
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,1ST QUARTER,1,LA,1,1,0,Kickoff,"B.Maher kicks 65 yards from DAL 35 to end zone, Touchback.",Kickoff from DAL 35
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,1ST QUARTER,1,LA,1,2,0,3 Yard Run,(15:00) T.Gurley left guard to LAR 28 for 3 yards (J.Smith).,1st & 10 at LAR 25
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,1ST QUARTER,1,LA,1,3,0,19 Yard Pass,(14:34) J.Goff pass short right to T.Higbee pushed ob at LAR 47 for 19 yards (X.Woods).,2nd & 7 at LAR 28
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,1ST QUARTER,1,LA,1,4,0,3 Yard Run,(13:59) T.Gurley right tackle to 50 for 3 yards (M.Collins).,1st & 10 at LAR 47
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,1ST QUARTER,1,LA,1,5,0,5 Yard Penalty,"(13:25) PENALTY on DAL-A.Woods, Neutral Zone Infraction, 5 yards, enforced at 50 - No Play.",2nd & 7 at 50
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,1ST QUARTER,1,LA,1,6,0,4 Yard Run,(13:07) T.Gurley left tackle to DAL 41 for 4 yards (J.Smith).,2nd & 2 at DAL 45
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,1ST QUARTER,1,LA,1,7,0,9 Yard Run,(12:31) T.Gurley left tackle to DAL 32 for 9 yards (L.Vander Esch).,1st & 10 at DAL 41
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,1ST QUARTER,1,LA,1,8,0,6 Yard Penalty,"(12:04) (No Huddle) PENALTY on DAL-D.Lawrence, Neutral Zone Infraction, 6 yards, enforced at DAL 32 - No Play.",2nd & 1 at DAL 32
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,1ST QUARTER,1,LA,1,9,0,Pass Incomplete,(11:46) J.Goff pass incomplete short right to J.Reynolds.,1st & 10 at DAL 26
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,1ST QUARTER,1,LA,1,10,0,12 Yard Run,"(11:44) (Shotgun) C.Anderson up the middle to DAL 14 for 12 yards (L.Vander Esch, J.Heath).",2nd & 10 at DAL 26
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,1ST QUARTER,1,LA,1,11,0,3 Yard Run,"(11:05) C.Anderson up the middle to DAL 11 for 3 yards (C.Awuzie, X.Woods).",1st & 10 at DAL 14
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,1ST QUARTER,1,LA,1,12,0,4 Yard Run,(10:33) C.Anderson left guard to DAL 7 for 4 yards (C.Reid).,2nd & 7 at DAL 11
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,1ST QUARTER,1,LA,1,13,0,Pass Incomplete,(9:50) (Shotgun) J.Goff pass incomplete short left to G.Everett.,3rd & 3 at DAL 7
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,1ST QUARTER,1,LA,1,14,1,Field Goal,"(9:47) G.Zuerlein 25 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",4th & 3 at DAL 7
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,1ST QUARTER,2,DAL,1,1,0,Kickoff,G.Zuerlein kicks 64 yards from LAR 35 to DAL 1. J.Lewis to DAL 29 for 28 yards (M.Kiser).,Kickoff from LAR 35
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,1ST QUARTER,2,DAL,1,2,0,Run for No Gain,(9:39) E.Elliott right tackle to DAL 29 for no gain (N.Suh).,1st & 10 at DAL 29
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,1ST QUARTER,2,DAL,1,3,0,13 Yard Pass,(9:02) (Shotgun) D.Prescott pass short left to B.Jarwin pushed ob at DAL 42 for 13 yards (M.Barron).,2nd & 10 at DAL 29
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,1ST QUARTER,2,DAL,1,4,0,2 Yard Run,(8:33) E.Elliott left guard to DAL 44 for 2 yards (M.Brockers; C.Littleton).,1st & 10 at DAL 42
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,1ST QUARTER,2,DAL,1,5,0,1 Yard Run,(7:55) (Shotgun) E.Elliott left tackle to DAL 45 for 1 yard (D.Fowler).,2nd & 8 at DAL 44
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,1ST QUARTER,2,DAL,1,6,0,6 Yard Pass,(7:13) (Shotgun) D.Prescott pass short middle to A.Cooper to LAR 49 for 6 yards (J.Johnson).,3rd & 7 at DAL 45
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,1ST QUARTER,2,DAL,1,7,0,20 Yard Run,"(6:28) E.Elliott up the middle to LAR 44 for 5 yards (C.Littleton, J.Johnson).
+PENALTY on LAR-M.Peters, Unnecessary Roughness, 15 yards, enforced at LAR 44.",4th & 1 at LAR 49
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,1ST QUARTER,2,DAL,1,8,0,Touchdown Cowboys,"(6:10) (Shotgun) D.Prescott pass short middle to A.Cooper for 29 yards, TOUCHDOWN.",1st & 10 at LAR 29
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,1ST QUARTER,2,DAL,1,9,1,Extra Point Good,"B.Maher extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",XP attempt from LAR 15
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,1,LA,1,1,0,Kickoff,"B.Maher kicks 65 yards from DAL 35 to end zone, Touchback.",Kickoff from DAL 35
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,1,LA,1,2,0,3 Yard Run,(6:03) T.Gurley up the middle to LAR 28 for 3 yards (D.Lawrence).,1st & 10 at LAR 25
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,1,LA,1,3,0,3 Yard Run,(5:24) T.Gurley right end to LAR 31 for 3 yards (A.Woods).,2nd & 7 at LAR 28
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,1,LA,1,4,0,5 Yard Pass,(4:43) (Shotgun) J.Goff pass short left to R.Woods to LAR 36 for 5 yards (J.Lewis).,3rd & 4 at LAR 31
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,1,LA,1,5,0,Pass Incomplete,(4:05) J.Goff pass incomplete deep left to T.Higbee [J.Smith].,1st & 10 at LAR 36
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,1,LA,1,6,0,Pass Incomplete,(4:00) (Shotgun) J.Goff pass incomplete short middle to R.Woods (J.Heath).,2nd & 10 at LAR 36
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,1,LA,1,7,0,9 Yard Pass,(3:55) (Shotgun) J.Goff pass short middle to B.Cooks to LAR 45 for 9 yards (B.Jones).,3rd & 10 at LAR 36
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,1,LA,1,8,0,3 Yard Run,(3:15) J.Goff up the middle to LAR 48 for 3 yards (M.Collins).,4th & 1 at LAR 45
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,1,LA,1,9,0,9 Yard Run,(2:44) (No Huddle) J.Reynolds left end to DAL 43 for 9 yards (J.Heath).,1st & 10 at LAR 48
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,1,LA,1,10,0,15 Yard Run,(2:03) (No Huddle) C.Anderson up the middle to DAL 28 for 15 yards (J.Heath).,2nd & 1 at DAL 43
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,1,LA,1,11,0,9 Yard Pass,(1:16) J.Goff pass short right to R.Woods to DAL 19 for 9 yards (C.Awuzie).,1st & 10 at DAL 28
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,1,LA,1,12,0,-1 Yard Run,(:31) C.Anderson up the middle to DAL 20 for -1 yards (M.Collins).,2nd & 1 at DAL 19
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,1,LA,1,13,0,11 Yard Run,(15:00) (Shotgun) C.Anderson up the middle to DAL 9 for 11 yards (J.Heath; L.Vander Esch).,3rd & 2 at DAL 20
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,1,LA,1,14,0,Pass Incomplete,"(14:26) J.Goff pass short right to B.Cooks for 9 yards, TOUCHDOWN.
+The Replay Official reviewed the pass completion ruling, and the play was REVERSED.
+J.Goff pass incomplete short right to B.Cooks (B.Jones).",1st & 9 at DAL 9
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,1,LA,1,15,0,4 Yard Run,(14:21) C.Anderson left tackle to DAL 5 for 4 yards (J.Smith).,2nd & 9 at DAL 9
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,1,LA,1,16,0,Pass Incomplete,(13:48) (Shotgun) J.Goff pass incomplete short left to B.Cooks.,3rd & 5 at DAL 5
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,1,LA,1,17,1,Field Goal,"(13:43) G.Zuerlein 23 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",4th & 5 at DAL 5
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,2,DAL,0,1,0,Kickoff,G.Zuerlein kicks 62 yards from LAR 35 to DAL 3. J.Lewis to DAL 17 for 14 yards (T.Hill).,Kickoff from LAR 35
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,2,DAL,0,2,0,20 Yard Pass,(13:35) D.Prescott pass short middle to D.Schultz to DAL 37 for 20 yards (L.Joyner).,1st & 10 at DAL 17
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,2,DAL,0,3,0,3 Yard Run,(12:57) (Shotgun) E.Elliott left end to DAL 40 for 3 yards (C.Littleton).,1st & 10 at DAL 37
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,2,DAL,0,4,0,-2 Yard Pass,(12:18) (Shotgun) D.Prescott pass short right to T.Austin to DAL 38 for -2 yards (S.Ebukam).,2nd & 7 at DAL 40
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,2,DAL,0,5,0,Pass Incomplete,(11:37) (Shotgun) D.Prescott pass incomplete short right to M.Gallup [N.Suh].,3rd & 9 at DAL 38
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,2,DAL,0,6,0,Punt,"(11:31) C.Jones punts 38 yards to LAR 24, Center-L.Ladouceur, downed by DAL-J.Thomas.",4th & 9 at DAL 38
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,3,LA,1,1,0,4 Yard Run,(11:20) T.Gurley left end to LAR 28 for 4 yards (A.Woods; S.Lee). DAL-A.Woods was injured during the play. His return is Probable.,1st & 10 at LAR 24
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,3,LA,1,2,0,20 Yard Pass,(10:48) J.Goff pass deep left to B.Cooks to LAR 48 for 20 yards (B.Jones).,2nd & 6 at LAR 28
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,3,LA,1,3,0,16 Yard Pass,(10:02) (No Huddle) J.Goff pass short middle to R.Woods to DAL 36 for 16 yards (S.Lee).,1st & 10 at LAR 48
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,3,LA,1,4,0,11 Yard Pass,(9:29) J.Goff pass short left to T.Higbee to DAL 25 for 11 yards (J.Smith).,1st & 10 at DAL 36
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,3,LA,1,5,0,8 Yard Run,(8:45) T.Gurley right tackle to DAL 17 for 8 yards (S.Lee; J.Smith).,1st & 10 at DAL 25
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,3,LA,1,6,0,2 Yard Run,(8:03) C.Anderson right tackle to DAL 15 for 2 yards (S.Lee; D.Wilson).,2nd & 2 at DAL 17
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,3,LA,1,7,0,Pass Incomplete,(7:30) (Shotgun) J.Goff pass incomplete short right to T.Higbee.,1st & 10 at DAL 15
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,3,LA,1,8,0,14 Yard Run,(7:26) C.Anderson up the middle to DAL 1 for 14 yards (X.Woods).,2nd & 10 at DAL 15
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,3,LA,1,9,0,Touchdown Rams,"(7:05) (No Huddle) C.Anderson left guard for 1 yard, TOUCHDOWN.",1st & 1 at DAL 1
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,3,LA,1,10,1,Extra Point Good,"G.Zuerlein extra point is GOOD, Center-J.McQuaide, Holder-J.Hekker.",XP attempt from DAL 15
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,4,DAL,0,1,0,Kickoff,"G.Zuerlein kicks 65 yards from LAR 35 to end zone, Touchback.",Kickoff from LAR 35
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,4,DAL,0,2,0,5 Yard Run,(7:00) E.Elliott up the middle to DAL 30 for 5 yards (C.Littleton).,1st & 10 at DAL 25
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,4,DAL,0,3,0,Pass Incomplete,(6:23) (Shotgun) D.Prescott pass incomplete short left to A.Cooper (S.Ebukam).,2nd & 5 at DAL 30
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,4,DAL,0,4,0,Pass Incomplete,(6:20) (Shotgun) D.Prescott pass incomplete short middle to A.Cooper.,3rd & 5 at DAL 30
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,4,DAL,0,5,0,Punt,"(6:16) C.Jones punts 46 yards to LAR 24, Center-L.Ladouceur. J.Natson to LAR 36 for 12 yards (J.Thomas; L.Ladouceur).",4th & 5 at DAL 30
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,5,LA,1,1,0,6 Yard Run,(6:05) C.Anderson left guard to LAR 42 for 6 yards (A.Woods).,1st & 10 at LAR 36
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,5,LA,1,2,0,7 Yard Run,"(5:27) (No Huddle) C.Anderson right guard to LAR 49 for 7 yards (S.Lee, X.Woods).",2nd & 4 at LAR 42
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,5,LA,1,3,0,Pass Incomplete,(5:01) (No Huddle) J.Goff pass incomplete short left to C.Anderson.,1st & 10 at LAR 49
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,5,LA,1,4,0,-4 Yard Pass,(4:54) J.Goff pass short left to T.Gurley to LAR 45 for -4 yards (A.Brown; C.Reid).,2nd & 10 at LAR 49
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,5,LA,1,5,0,5 Yard Penalty,"(4:13) (Shotgun) J.Goff pass incomplete short right to G.Everett.
+PENALTY on DAL-B.Jones, Illegal Use of Hands, 5 yards, enforced at LAR 45 - No Play.",3rd & 14 at LAR 45
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,5,LA,1,6,0,15 Yard Pass,(4:08) J.Goff pass short middle to B.Cooks to DAL 35 for 15 yards (C.Awuzie).,1st & 10 at 50
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,5,LA,1,7,0,Touchdown Rams,"(3:35) (No Huddle) T.Gurley right guard for 35 yards, TOUCHDOWN.",1st & 10 at DAL 35
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,5,LA,1,8,1,Extra Point Good,"G.Zuerlein extra point is GOOD, Center-J.McQuaide, Holder-J.Hekker.",XP attempt from DAL 15
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,6,DAL,0,1,0,Kickoff,G.Zuerlein kicks 64 yards from LAR 35 to DAL 1. J.Lewis to DAL 19 for 18 yards (J.Kelly).,Kickoff from LAR 35
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,6,DAL,0,2,0,12 Yard Pass,(3:22) D.Prescott pass short right to E.Elliott to DAL 31 for 12 yards (A.Talib).,1st & 10 at DAL 19
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,6,DAL,0,3,0,5 Yard Pass,"(2:54) (No Huddle, Shotgun) D.Prescott pass short right to A.Cooper to DAL 36 for 5 yards (A.Talib, C.Littleton).",1st & 10 at DAL 31
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,6,DAL,0,4,0,15 Yard Run,(2:25) (No Huddle) E.Elliott right guard ran ob at LAR 49 for 15 yards (A.Talib).,2nd & 5 at DAL 36
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,6,DAL,0,5,0,6 Yard Run,"(2:00) (Shotgun) E.Elliott up the middle to LAR 43 for 6 yards (N.Suh, M.Brockers).",1st & 10 at LAR 49
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,6,DAL,0,6,0,Pass Incomplete,(1:37) (No Huddle) D.Prescott pass incomplete short right to A.Cooper.,2nd & 4 at LAR 43
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,6,DAL,0,7,0,4 Yard Pass,(1:31) (Shotgun) D.Prescott pass short right to B.Jarwin pushed ob at LAR 39 for 4 yards (J.Johnson).,3rd & 4 at LAR 43
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,6,DAL,0,8,0,3 Yard Run,(1:26) (No Huddle) E.Elliott right end to LAR 36 for 3 yards (A.Talib).,1st & 10 at LAR 39
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,6,DAL,0,9,0,Pass Incomplete,"(:55) (No Huddle, Shotgun) D.Prescott pass incomplete short right to M.Gallup.",2nd & 7 at LAR 36
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,6,DAL,0,10,0,-8 Yard Sack,"(:52) (No Huddle, Shotgun) D.Prescott sacked at LAR 44 for -8 yards (D.Fowler).",3rd & 7 at LAR 36
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,6,DAL,0,11,0,Punt,"(:44) C.Jones punts 35 yards to LAR 9, Center-L.Ladouceur. S.Shields to LAR 26 for 17 yards (N.Brown).",4th & 15 at LAR 44
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,7,LA,0,1,0,8 Yard Run,(:35) T.Gurley left tackle ran ob at LAR 34 for 8 yards.,1st & 10 at LAR 26
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,7,LA,0,2,0,7 Yard Pass,(:28) (Shotgun) J.Goff pass short middle to T.Gurley to LAR 41 for 7 yards (A.Brown).,2nd & 2 at LAR 34
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,7,LA,0,3,0,Pass Incomplete,(:21) (Shotgun) J.Goff pass incomplete deep right to J.Reynolds (C.Awuzie).,1st & 10 at LAR 41
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,7,LA,0,4,0,14 Yard Pass,(:17) (Shotgun) J.Goff pass short middle to R.Woods to DAL 45 for 14 yards (J.Smith).,2nd & 10 at LAR 41
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,7,LA,0,5,0,Pass Incomplete,(:03) J.Goff spiked the ball to stop the clock.,1st & 10 at DAL 45
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,2ND QUARTER,7,LA,0,6,0,Field Goal No Good,"(:01) G.Zuerlein 63 yard field goal is No Good, Wide Right, Center-J.McQuaide, Holder-J.Hekker.",2nd & 10 at DAL 45
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,1,DAL,0,1,0,Kickoff,"G.Zuerlein kicks 65 yards from LAR 35 to end zone, Touchback.",Kickoff from LAR 35
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,1,DAL,0,2,0,3 Yard Run,(15:00) (Shotgun) E.Elliott right tackle to DAL 28 for 3 yards (A.Donald).,1st & 10 at DAL 25
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,1,DAL,0,3,0,Pass Incomplete,(14:24) (Shotgun) D.Prescott pass incomplete short right to E.Elliott.,2nd & 7 at DAL 28
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,1,DAL,0,4,0,Pass Incomplete,(14:20) (Shotgun) D.Prescott pass incomplete short middle to E.Elliott.,3rd & 7 at DAL 28
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,1,DAL,0,5,0,Punt,"(14:15) C.Jones punts 46 yards to LAR 26, Center-L.Ladouceur. J.Natson ran ob at LAR 26 for no gain.",4th & 7 at DAL 28
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,2,LA,1,1,0,6 Yard Run,"(14:07) T.Gurley up the middle to LAR 32 for 6 yards (A.Brown, J.Smith).",1st & 10 at LAR 26
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,2,LA,1,2,0,Pass Incomplete,(13:38) (No Huddle) J.Goff pass incomplete short left to J.Reynolds.,2nd & 4 at LAR 32
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,2,LA,1,3,0,21 Yard Pass,(13:33) (Shotgun) J.Goff pass deep left to B.Cooks to DAL 47 for 21 yards (B.Jones).,3rd & 4 at LAR 32
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,2,LA,1,4,0,18 Yard Run,(12:50) T.Gurley left end ran ob at DAL 29 for 18 yards (J.Heath).,1st & 10 at DAL 47
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,2,LA,1,5,0,6 Yard Run,"(12:12) C.Anderson left tackle to DAL 23 for 6 yards (J.Lewis, R.Gregory).",1st & 10 at DAL 29
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,2,LA,1,6,0,1 Yard Run,(11:30) (No Huddle) C.Anderson right guard to DAL 22 for 1 yard (C.Reid).,2nd & 4 at DAL 23
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,2,LA,1,7,0,Run for No Gain,"(10:48) (Shotgun) J.Goff FUMBLES (Aborted) at DAL 26, and recovers at DAL 26. J.Goff to DAL 26 for no gain (D.Lawrence).",3rd & 3 at DAL 22
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,2,LA,1,8,1,Field Goal,"(10:08) G.Zuerlein 44 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",4th & 7 at DAL 26
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,3,DAL,1,1,0,Kickoff,"G.Zuerlein kicks 65 yards from LAR 35 to end zone, Touchback.",Kickoff from LAR 35
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,3,DAL,1,2,0,-2 Yard Run,(10:03) E.Elliott right end to DAL 23 for -2 yards (N.Suh).,1st & 10 at DAL 25
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,3,DAL,1,3,0,27 Yard Pass,"(9:23) (Shotgun) D.Prescott pass short left to M.Gallup to 50 for 27 yards (N.Robey, L.Joyner).",2nd & 12 at DAL 23
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,3,DAL,1,4,0,-1 Yard Pass,(8:40) (Shotgun) D.Prescott pass short left to M.Gallup to DAL 49 for -1 yards (M.Peters).,1st & 10 at 50
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,3,DAL,1,5,0,Pass Incomplete,(8:00) (Shotgun) D.Prescott pass incomplete short middle to C.Beasley.,2nd & 11 at DAL 49
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,3,DAL,1,6,0,10 Yard Pass,"(7:56) (Shotgun) D.Prescott pass short left to M.Gallup to LAR 41 for 10 yards (L.Joyner, M.Barron).",3rd & 11 at DAL 49
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,3,DAL,1,7,0,5 Yard Run,(7:12) C.Fleming reported in as eligible.  E.Elliott right end to LAR 36 for 5 yards (D.Fowler; A.Talib).,4th & 1 at LAR 41
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,3,DAL,1,8,0,-10 Yard Penalty,"(6:33) (Shotgun) D.Prescott pass incomplete deep right to E.Elliott (C.Littleton).
+PENALTY on DAL-C.Williams, Offensive Holding, 10 yards, enforced at LAR 36 - No Play.",1st & 10 at LAR 36
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,3,DAL,1,9,0,44 Yard Pass,"(6:27) (Shotgun) D.Prescott pass deep left to M.Gallup to LAR 2 for 44 yards (L.Joyner).
+Los Angeles Rams challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",1st & 20 at LAR 46
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,3,DAL,1,10,0,1 Yard Run,(5:55) (Shotgun) E.Elliott up the middle to LAR 1 for 1 yard (J.Johnson).,1st & 2 at LAR 2
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,3,DAL,1,11,0,Touchdown Cowboys,"(5:23) C.Fleming reported in as eligible.  E.Elliott up the middle for 1 yard, TOUCHDOWN.",2nd & 1 at LAR 1
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,3,DAL,1,12,1,5 Yard Penalty,"(Pass formation) TWO-POINT CONVERSION ATTEMPT. D.Prescott pass to A.Cooper is complete. ATTEMPT SUCCEEDS.
+PENALTY on LAR-L.Joyner, Defensive Offside, 5 yards, enforced between downs.",
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,4,LA,0,1,0,Kickoff,"B.Maher kicks 60 yards from DAL 40 to end zone, Touchback.",Kickoff from DAL 40
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,4,LA,0,2,0,1 Yard Run,(5:20) T.Gurley left end ran ob at LAR 26 for 1 yard (X.Woods).,1st & 10 at LAR 25
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,4,LA,0,3,0,19 Yard Pass,(4:41) (Shotgun) J.Goff pass short left to J.Reynolds to LAR 45 for 19 yards (X.Woods).,2nd & 9 at LAR 26
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,4,LA,0,4,0,8 Yard Run,"(3:59) (No Huddle) T.Gurley right end to DAL 47 for 8 yards (C.Awuzie, J.Smith).",1st & 10 at LAR 45
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,4,LA,0,5,0,Pass Incomplete,(3:23) (No Huddle) J.Goff pass incomplete short middle to R.Woods.,2nd & 2 at DAL 47
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,4,LA,0,6,0,Pass Incomplete,"(3:20) (Shotgun) J.Goff pass incomplete short left to G.Everett.
+Penalty on LAR-R.Saffold, Offensive Holding, declined.
+Penalty on LAR-G.Everett, Offensive Pass Interference, declined.",3rd & 2 at DAL 47
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,3RD QUARTER,4,LA,0,7,0,Punt,"(3:14) J.Hekker punts 29 yards to DAL 23, Center-J.McQuaide, out of bounds.",4th & 7 at LAR 48
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,1,DAL,0,1,0,3 Yard Run,(3:10) E.Elliott up the middle to DAL 26 for 3 yards (J.Johnson; N.Suh).,1st & 10 at DAL 23
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,1,DAL,0,2,0,15 Yard Pass,(2:32) (Shotgun) D.Prescott pass short left to M.Gallup ran ob at DAL 41 for 15 yards.,2nd & 7 at DAL 26
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,1,DAL,0,3,0,Pass Incomplete,(1:57) D.Prescott pass incomplete short middle to R.Gathers.,1st & 10 at DAL 41
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,1,DAL,0,4,0,15 Yard Pass,(1:52) (Shotgun) D.Prescott pass short right to C.Beasley to LAR 44 for 15 yards (C.Littleton).,2nd & 10 at DAL 41
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,1,DAL,0,5,0,-4 Yard Run,(1:15) (No Huddle) E.Elliott right tackle to LAR 48 for -4 yards (A.Donald).,1st & 10 at LAR 44
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,1,DAL,0,6,0,Pass Incomplete,(:32) (Shotgun) D.Prescott pass incomplete deep right to D.Schultz.,2nd & 14 at LAR 48
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,1,DAL,0,7,0,13 Yard Pass,(:28) (Shotgun) D.Prescott pass short right to N.Brown ran ob at LAR 35 for 13 yards (L.Joyner).,3rd & 14 at LAR 48
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,1,DAL,0,8,0,Turnover on Downs,(15:00) E.Elliott up the middle to LAR 35 for no gain (L.Joyner; J.Johnson).,4th & 1 at LAR 35
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,2,LA,1,1,0,9 Yard Run,(14:52) R.Woods left end to LAR 44 for 9 yards (T.Crawford).,1st & 10 at LAR 35
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,2,LA,1,2,0,3 Yard Run,(14:11) C.Anderson up the middle to LAR 47 for 3 yards (T.Crawford).,2nd & 1 at LAR 44
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,2,LA,1,3,0,7 Yard Run,(13:29) C.Anderson right tackle to DAL 46 for 7 yards (C.Awuzie).,1st & 10 at LAR 47
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,2,LA,1,4,0,9 Yard Run,(12:47) C.Anderson left tackle pushed ob at DAL 37 for 9 yards (L.Vander Esch).,2nd & 3 at DAL 46
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,2,LA,1,5,0,18 Yard Pass,(12:10) J.Goff pass short right to R.Woods to DAL 19 for 18 yards (J.Smith).,1st & 10 at DAL 37
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,2,LA,1,6,0,1 Yard Run,(11:23) T.Gurley left end to DAL 18 for 1 yard (B.Jones).,1st & 10 at DAL 19
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,2,LA,1,7,0,7 Yard Pass,(10:39) (Shotgun) J.Goff pass short right to R.Woods to DAL 11 for 7 yards (J.Heath).,2nd & 9 at DAL 18
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,2,LA,1,8,0,5 Yard Run,"(9:54) B.Cooks left end to DAL 6 for 5 yards (C.Awuzie, X.Woods).",3rd & 2 at DAL 11
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,2,LA,1,9,0,Run for No Gain,(9:19) C.Anderson left tackle to DAL 6 for no gain (M.Collins; A.Woods).,1st & 6 at DAL 6
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,2,LA,1,10,0,5 Yard Run,"(8:41) C.Anderson up the middle to DAL 1 for 5 yards (A.Brown, J.Heath).",2nd & 6 at DAL 6
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,2,LA,1,11,0,Run for No Gain,(8:06) J.Goff up the middle to DAL 1 for no gain (M.Collins).,3rd & 1 at DAL 1
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,2,LA,1,12,0,Touchdown Rams,"(7:20) C.Anderson left tackle for 1 yard, TOUCHDOWN.",4th & 1 at DAL 1
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,2,LA,1,13,1,Extra Point Good,"G.Zuerlein extra point is GOOD, Center-J.McQuaide, Holder-J.Hekker.",XP attempt from DAL 15
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,3,DAL,1,1,0,Kickoff,"G.Zuerlein kicks 65 yards from LAR 35 to end zone, Touchback.",Kickoff from LAR 35
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,3,DAL,1,2,0,24 Yard Pass,(7:16) (Shotgun) D.Prescott pass deep middle to M.Gallup to DAL 49 for 24 yards (J.Johnson).,1st & 10 at DAL 25
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,3,DAL,1,3,0,Pass Incomplete,"(6:47) (No Huddle, Shotgun) D.Prescott pass incomplete short right to M.Gallup (M.Peters) [N.Suh].",1st & 10 at DAL 49
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,3,DAL,1,4,0,2 Yard Run,(6:42) (Shotgun) E.Elliott up the middle to LAR 49 for 2 yards (M.Barron).,2nd & 10 at DAL 49
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,3,DAL,1,5,0,7 Yard Pass,"(6:13) (No Huddle, Shotgun) D.Prescott pass short right to A.Cooper pushed ob at LAR 42 for 7 yards (N.Robey, A.Talib).",3rd & 8 at LAR 49
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,3,DAL,1,6,0,2 Yard Run,(5:41) C.Fleming reported in as eligible.  D.Prescott scrambles right end to LAR 40 for 2 yards (S.Ebukam).,4th & 1 at LAR 42
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,3,DAL,1,7,0,9 Yard Pass,"(5:12) (No Huddle, Shotgun) D.Prescott pass short right to A.Cooper to LAR 31 for 9 yards (A.Talib). FUMBLES (A.Talib), ball out of bounds at LAR 31.",1st & 10 at LAR 40
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,3,DAL,1,8,0,7 Yard Pass,(4:32) (Shotgun) D.Prescott pass short middle to E.Elliott to LAR 24 for 7 yards (M.Barron).,2nd & 1 at LAR 31
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,3,DAL,1,9,0,9 Yard Pass,"(3:58) (No Huddle, Shotgun) D.Prescott pass short middle to A.Cooper to LAR 15 for 9 yards (M.Barron).",1st & 10 at LAR 24
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,3,DAL,1,10,0,-2 Yard Run,"(3:30) (No Huddle, Shotgun) E.Elliott left end to LAR 17 for -2 yards (C.Littleton).",2nd & 1 at LAR 15
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,3,DAL,1,11,0,Pass Incomplete,"(2:58) (No Huddle, Shotgun) D.Prescott pass incomplete short middle to E.Elliott (C.Littleton).",3rd & 3 at LAR 17
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,3,DAL,1,12,0,16 Yard Penalty,"(2:53) (Shotgun) D.Prescott pass incomplete deep right to A.Cooper [N.Suh].
+PENALTY on LAR-A.Talib, Defensive Pass Interference, 16 yards, enforced at LAR 17 - No Play.",4th & 3 at LAR 17
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,3,DAL,1,13,0,Run for No Gain,(2:43) C.Fleming reported in as eligible.  E.Elliott right tackle to LAR 1 for no gain (B.Hager).,1st & 1 at LAR 1
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,3,DAL,1,14,0,Touchdown Cowboys,"(2:17) (No Huddle, Shotgun) D.Prescott right tackle for 1 yard, TOUCHDOWN.
+The Replay Official reviewed the runner broke the plane ruling, and the play was Upheld. The ruling on the field stands.",2nd & 1 at LAR 1
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,3,DAL,1,15,1,Extra Point Good,"B.Maher extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",XP attempt from LAR 15
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,4,LA,0,1,0,Kickoff,"B.Maher kicks 65 yards from DAL 35 to end zone, Touchback.",Kickoff from DAL 35
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,4,LA,0,2,0,1 Yard Run,"(2:11) T.Gurley up the middle to LAR 26 for 1 yard (D.Lawrence, M.Collins).",1st & 10 at LAR 25
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,4,LA,0,3,0,2 Yard Run,(2:08) C.Anderson up the middle to LAR 28 for 2 yards (S.Lee).,2nd & 9 at LAR 26
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,4,LA,0,4,0,11 Yard Run,(2:00) J.Goff scrambles right end to LAR 39 for 11 yards (S.Lee).,3rd & 7 at LAR 28
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,4,LA,0,5,0,5 Yard Run,(1:51) C.Anderson up the middle to LAR 44 for 5 yards (J.Heath; C.Reid).,1st & 10 at LAR 39
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,4,LA,0,6,0,6 Yard Run,(1:46) C.Anderson up the middle to 50 for 6 yards (X.Woods).,2nd & 5 at LAR 44
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,4,LA,0,7,0,-1 Yard Run,(1:03) J.Goff kneels to LAR 49 for -1 yards.,1st & 10 at 50
+2018,Divisional Playoffs,SAT,01/12,Cowboys,Rams,4TH QUARTER,4,LA,0,8,0,-1 Yard Run,(:38) J.Goff kneels to LAR 48 for -1 yards.,2nd & 11 at LAR 49
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,1,NE,1,1,0,Kickoff,"N.Rose kicks 49 yards from LAC 35 to NE 16. J.Develin MUFFS catch, ball out of bounds at NE 17. Bill Belichick 40th career postseason game, extends NFL record (Landry & Shula, 36).",Kickoff from LAC 35
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,1,NE,1,2,0,8 Yard Pass,"(14:59) (Shotgun) T.Brady pass short right to J.White to NE 25 for 8 yards (B.Mebane). NE 12-Brady 38th career postseason game & QB start, extends his NFL records.",1st & 10 at NE 17
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,1,NE,1,3,0,-1 Yard Run,"(14:16) S.Michel right guard to NE 24 for -1 yards (A.Phillips, K.Emanuel).",2nd & 2 at NE 25
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,1,NE,1,4,0,6 Yard Pass,(13:40) (Shotgun) T.Brady pass short right to J.Edelman pushed ob at NE 30 for 6 yards (D.King).,3rd & 3 at NE 24
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,1,NE,1,5,0,-1 Yard Run,(13:11) S.Michel up the middle to NE 29 for -1 yards (D.James).,1st & 10 at NE 30
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,1,NE,1,6,0,9 Yard Pass,(12:37) T.Brady pass short right to S.Michel to NE 38 for 9 yards (D.Philon).,2nd & 11 at NE 29
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,1,NE,1,7,0,10 Yard Pass,"(11:58) (Shotgun) T.Brady pass short left to J.White to NE 48 for 10 yards (J.Addae, R.Jenkins).",3rd & 2 at NE 38
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,1,NE,1,8,0,17 Yard Pass,"(11:20) (Shotgun) T.Brady pass short middle to J.White to LAC 35 for 17 yards (R.Jenkins, A.Phillips). LAC-A.Phillips was injured during the play. His return is Probable.",1st & 10 at NE 48
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,1,NE,1,9,0,11 Yard Run,(11:02) S.Michel right end to LAC 24 for 11 yards (D.James; J.Addae).,1st & 10 at LAC 35
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,1,NE,1,10,0,5 Yard Run,(10:28) S.Michel left end to LAC 19 for 5 yards (Ju.Jones).,1st & 10 at LAC 24
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,1,NE,1,11,0,Pass Incomplete,(9:46) (Shotgun) T.Brady pass incomplete short right to J.Edelman.,2nd & 5 at LAC 19
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,1,NE,1,12,0,6 Yard Pass,(9:43) (Shotgun) T.Brady pass short middle to J.White to LAC 13 for 6 yards (D.King; J.Addae).,3rd & 5 at LAC 19
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,1,NE,1,13,0,Run for No Gain,(9:08) S.Michel right end to LAC 13 for no gain (H.Pullard).,1st & 10 at LAC 13
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,1,NE,1,14,0,4 Yard Pass,(8:34) (Shotgun) T.Brady pass short right to J.White to LAC 9 for 4 yards (J.Addae).,2nd & 10 at LAC 13
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,1,NE,1,15,0,8 Yard Penalty,"(7:56) (Shotgun) T.Brady pass incomplete short right to R.Gronkowski.
+PENALTY on LAC-C.Hayward, Defensive Pass Interference, 8 yards, enforced at LAC 9 - No Play.",3rd & 6 at LAC 9
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,1,NE,1,16,0,Touchdown Patriots,"(7:52) L.Waddle reported in as eligible.  S.Michel up the middle for 1 yard, TOUCHDOWN.",1st & 1 at LAC 1
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,1,NE,1,17,1,Extra Point Good,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen. NE 3-Gostkowski 26th career postseason game, ties Romanowski & Cole for 6th all-time. NE 3-Gostkowski 26th consecutive postseason game with a point, 2nd all-time (Vinatieri 32).",XP attempt from LAC 15
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,2,LAC,1,1,0,Kickoff,S.Gostkowski kicks 49 yards from NE 35 to LAC 16. J.Jackson to LAC 33 for 17 yards (N.Ebner).,Kickoff from NE 35
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,2,LAC,1,2,0,Run for No Gain,(7:44) M.Gordon right end to LAC 33 for no gain (K.Van Noy).,1st & 10 at LAC 33
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,2,LAC,1,3,0,Pass Incomplete,(6:59) P.Rivers pass incomplete deep middle to M.Williams.,2nd & 10 at LAC 33
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,2,LAC,1,4,0,-5 Yard Penalty,"(6:52) (Shotgun) PENALTY on LAC, Delay of Game, 5 yards, enforced at LAC 33 - No Play.",3rd & 10 at LAC 33
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,2,LAC,1,5,0,18 Yard Pass,(6:52) (Shotgun) P.Rivers pass deep right to M.Williams to LAC 46 for 18 yards (J.McCourty). LAC-M.Williams was injured during the play.,3rd & 15 at LAC 28
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,2,LAC,1,6,0,3 Yard Pass,(6:30) (Shotgun) P.Rivers pass short middle to A.Ekeler to LAC 49 for 3 yards (S.Gilmore).,1st & 10 at LAC 46
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,2,LAC,1,7,0,8 Yard Run,(5:47) M.Gordon left tackle to NE 43 for 8 yards (E.Roberts; D.McCourty).,2nd & 7 at LAC 49
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,2,LAC,1,8,0,Touchdown Chargers,"(5:03) (Shotgun) P.Rivers pass deep right to K.Allen for 43 yards, TOUCHDOWN.",1st & 10 at NE 43
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,2,LAC,1,9,1,Extra Point Good,"M.Badgley extra point is GOOD, Center-M.Windt, Holder-D.Jones.",XP attempt from NE 15
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,3,NE,1,1,0,Kickoff,N.Rose kicks 55 yards from LAC 35 to NE 10. C.Patterson pushed ob at NE 33 for 23 yards (D.King).,Kickoff from LAC 35
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,3,NE,1,2,0,Pass Incomplete,(4:51) (Shotgun) T.Brady pass incomplete short left to J.White.,1st & 10 at NE 33
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,3,NE,1,3,0,12 Yard Run,(4:49) S.Michel up the middle to NE 45 for 12 yards (K.Emanuel; R.Jenkins).,2nd & 10 at NE 33
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,3,NE,1,4,0,-3 Yard Pass,(4:15) T.Brady pass short right to J.White to NE 42 for -3 yards (J.Addae).,1st & 10 at NE 45
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,3,NE,1,5,0,14 Yard Pass,(3:34) T.Brady pass short right to J.Edelman to LAC 44 for 14 yards (D.James).,2nd & 13 at NE 42
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,3,NE,1,6,0,2 Yard Run,"(2:55) S.Michel up the middle to LAC 42 for 2 yards (K.Emanuel, I.Rochell).",1st & 10 at LAC 44
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,3,NE,1,7,0,28 Yard Pass,"(2:19) T.Brady pass deep middle to J.Edelman to LAC 14 for 28 yards (R.Jenkins). NE 11-Edelman 1,072 career postseason rec yards, passes Monk for 10th all-time.",2nd & 8 at LAC 42
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,3,NE,1,8,0,Touchdown Patriots,"(1:42) S.Michel right tackle for 14 yards, TOUCHDOWN.",1st & 10 at LAC 14
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,3,NE,1,9,1,Extra Point Good,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",XP attempt from LAC 15
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,4,LAC,0,1,0,Kickoff,S.Gostkowski kicks 60 yards from NE 35 to LAC 5. D.King to LAC 25 for 20 yards (R.Burkhead; P.Chung).,Kickoff from NE 35
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,4,LAC,0,2,0,1 Yard Run,(1:27) M.Gordon left guard to LAC 26 for 1 yard (E.Roberts).,1st & 10 at LAC 25
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,4,LAC,0,3,0,Pass Incomplete,(:47) (Shotgun) P.Rivers pass incomplete deep middle to M.Williams [A.Clayborn].,2nd & 9 at LAC 26
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,4,LAC,0,4,0,Pass Incomplete,(:42) (Shotgun) P.Rivers pass incomplete short right. thrown away from outside the pocket,3rd & 9 at LAC 26
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,1ST QUARTER,4,LAC,0,5,0,Punt,"(:34) D.Jones punts 38 yards to NE 36, Center-M.Windt. J.Edelman to NE 42 for 6 yards (J.Richards).",4th & 9 at LAC 26
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,1,NE,1,1,0,Pass Incomplete,(:24) T.Brady pass incomplete short left to J.Edelman (M.Ingram).,1st & 10 at NE 42
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,1,NE,1,2,0,11 Yard Pass,"(:22) (Shotgun) T.Brady pass short left to J.Edelman to LAC 47 for 11 yards (D.King). NE 11-Edelman 93rd career postseason reception, tied for 2nd all-time (Reggie Wayne).",2nd & 10 at NE 42
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,1,NE,1,3,0,17 Yard Pass,"(15:00) T.Brady pass short left to J.Edelman to LAC 30 for 17 yards (J.Addae). NE 11-Edelman 94th career postseason reception, 2nd all-time (Jerry Rice, 151).",1st & 10 at LAC 47
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,1,NE,1,4,0,Pass Incomplete,(14:25) T.Brady pass incomplete short right to C.Hogan.,1st & 10 at LAC 30
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,1,NE,1,5,0,11 Yard Pass,(14:23) (Shotgun) T.Brady pass short middle to P.Dorsett to LAC 19 for 11 yards (R.Jenkins).,2nd & 10 at LAC 30
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,1,NE,1,6,0,4 Yard Run,(13:49) S.Michel up the middle to LAC 15 for 4 yards (D.Square).,1st & 10 at LAC 19
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,1,NE,1,7,0,5 Yard Pass,(13:15) (Shotgun) T.Brady pass short left to C.Hogan to LAC 10 for 5 yards (C.Hayward).,2nd & 6 at LAC 15
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,1,NE,1,8,0,-5 Yard Penalty,"(12:45) (Shotgun) PENALTY on NE-C.Hogan, False Start, 5 yards, enforced at LAC 10 - No Play.",3rd & 1 at LAC 10
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,1,NE,1,9,0,Touchdown Patriots,"(12:22) (Shotgun) T.Brady pass short left to P.Dorsett for 15 yards, TOUCHDOWN. NE 12-Brady 13th consecutive postseason game with a pass TD, ties Marino & P. Manning for 3rd-longest streak all-time.",3rd & 6 at LAC 15
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,1,NE,1,10,1,Extra Point Good,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",XP attempt from LAC 15
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,2,LAC,0,1,0,Kickoff,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",Kickoff from NE 35
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,2,LAC,0,2,0,11 Yard Pass,(12:17) P.Rivers pass short left to M.Gordon pushed ob at LAC 36 for 11 yards (P.Chung).,1st & 10 at LAC 25
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,2,LAC,0,3,0,8 Yard Run,(11:47) M.Gordon right guard to LAC 44 for 8 yards (P.Chung; D.McCourty).,1st & 10 at LAC 36
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,2,LAC,0,4,0,Pass Incomplete,(11:01) T.Scott reported in as eligible.  P.Rivers pass incomplete deep left to M.Williams.,2nd & 2 at LAC 44
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,2,LAC,0,5,0,-5 Yard Penalty,"(10:55) (Shotgun) PENALTY on LAC, Delay of Game, 5 yards, enforced at LAC 44 - No Play.",3rd & 2 at LAC 44
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,2,LAC,0,6,0,10 Yard Pass,(10:55) (Shotgun) P.Rivers pass short middle to M.Williams to LAC 49 for 10 yards (J.Jackson).,3rd & 7 at LAC 39
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,2,LAC,0,7,0,Run for No Gain,(10:14) (Shotgun) M.Gordon up the middle to LAC 49 for no gain (K.Van Noy).,1st & 10 at LAC 49
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,2,LAC,0,8,0,Pass Incomplete,(9:31) (Shotgun) P.Rivers pass incomplete short right. thrown away from outside the pocket,2nd & 10 at LAC 49
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,2,LAC,0,9,0,Pass Incomplete,(9:25) (Shotgun) P.Rivers pass incomplete short right to A.Gates (D.McCourty) [P.Chung].,3rd & 10 at LAC 49
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,2,LAC,0,10,0,Punt,"(9:19) D.Jones punts 38 yards to NE 13, Center-M.Windt, fair catch by J.Edelman.",4th & 10 at LAC 49
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,3,NE,1,1,0,25 Yard Pass,(9:12) (Shotgun) T.Brady pass short left to J.White pushed ob at NE 38 for 25 yards (R.Jenkins).,1st & 10 at NE 13
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,3,NE,1,2,0,6 Yard Run,(8:40) S.Michel up the middle to NE 44 for 6 yards (B.Mebane).,1st & 10 at NE 38
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,3,NE,1,3,0,2 Yard Run,(8:04) S.Michel left guard to NE 46 for 2 yards (Ju.Jones; A.Phillips).,2nd & 4 at NE 44
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,3,NE,1,4,0,5 Yard Penalty,"(7:29) (Shotgun) T.Brady pass incomplete deep right to C.Hogan (M.Davis).
+PENALTY on LAC-D.King, Defensive Holding, 5 yards, enforced at NE 46 - No Play.",3rd & 2 at NE 46
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,3,NE,1,5,0,40 Yard Run,(7:20) S.Michel right tackle to LAC 9 for 40 yards (D.James).,1st & 10 at LAC 49
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,3,NE,1,6,0,3 Yard Run,(6:40) R.Burkhead up the middle to LAC 6 for 3 yards (D.Square; A.Phillips).,1st & 9 at LAC 9
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,3,NE,1,7,0,Touchdown Patriots,"(6:09) R.Burkhead left tackle for 6 yards, TOUCHDOWN.",2nd & 6 at LAC 6
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,3,NE,1,8,1,Extra Point Good,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",XP attempt from LAC 15
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,4,LAC,0,1,0,Kickoff,S.Gostkowski kicks 61 yards from NE 35 to LAC 4. D.King to LAC 21 for 17 yards (K.Crossen).,Kickoff from NE 35
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,4,LAC,0,2,0,26 Yard Pass,(5:59) P.Rivers pass deep left to Ty.Williams to LAC 47 for 26 yards (J.McCourty).,1st & 10 at LAC 21
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,4,LAC,0,3,0,Run for No Gain,(5:22) M.Gordon up the middle to LAC 47 for no gain (J.Simon; L.Guy).,1st & 10 at LAC 47
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,4,LAC,0,4,0,Pass Incomplete,(4:40) (Shotgun) P.Rivers pass incomplete deep right to Ty.Williams (S.Gilmore) [T.Flowers].,2nd & 10 at LAC 47
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,4,LAC,0,5,0,Pass Incomplete,(4:33) (Shotgun) P.Rivers pass incomplete short right to M.Gordon.,3rd & 10 at LAC 47
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,4,LAC,0,6,0,Punt,"(4:28) D.Jones punts 41 yards to NE 12, Center-M.Windt. J.Edelman to NE 21 for 9 yards (U.Nwosu; N.Dzubnar).",4th & 10 at LAC 47
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,5,NE,0,1,0,Pass Incomplete,(4:16) (Shotgun) T.Brady pass incomplete deep right to P.Dorsett.,1st & 10 at NE 21
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,5,NE,0,2,0,3 Yard Run,(4:11) S.Michel up the middle to NE 24 for 3 yards (C.Hayward).,2nd & 10 at NE 21
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,5,NE,0,3,0,Pass Incomplete,(3:36) (Shotgun) T.Brady pass incomplete short middle to J.White.,3rd & 7 at NE 24
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,5,NE,0,4,0,Fumble,"(3:32) R.Allen punts 48 yards to LAC 28, Center-J.Cardona. D.King MUFFS catch, ball out of bounds at LAC 35.
+New England challenged the loose ball recovery ruling, and the play was REVERSED.
+R.Allen punts 48 yards to LAC 28, Center-J.Cardona. D.King MUFFS catch, RECOVERED by NE-A.McClellan at LAC 35. A.McClellan to LAC 35 for no gain (G.Davis).",4th & 7 at NE 24
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,6,NE,1,1,0,19 Yard Pass,(3:23) T.Brady pass deep middle to J.Edelman to LAC 16 for 19 yards (R.Jenkins; M.Davis).,1st & 10 at LAC 35
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,6,NE,1,2,0,2 Yard Run,(2:39) S.Michel up the middle to LAC 14 for 2 yards (M.Ingram).,1st & 10 at LAC 16
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,6,NE,1,3,0,9 Yard Pass,(2:00) (Shotgun) T.Brady pass short right to P.Dorsett to LAC 5 for 9 yards (M.Davis).,2nd & 8 at LAC 14
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,6,NE,1,4,0,Touchdown Patriots,"(1:47) S.Michel up the middle for 5 yards, TOUCHDOWN.",1st & 5 at LAC 5
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,6,NE,1,5,1,Extra Point Good,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",XP attempt from LAC 15
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,7,LAC,0,1,0,Kickoff,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",Kickoff from NE 35
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,7,LAC,0,2,0,-10 Yard Sack,(1:43) (Shotgun) P.Rivers sacked at LAC 15 for -10 yards (T.Flowers).,1st & 10 at LAC 25
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,7,LAC,0,3,0,10 Yard Pass,(1:36) (Shotgun) P.Rivers pass short middle to A.Gates to LAC 25 for 10 yards (D.McCourty).,2nd & 20 at LAC 15
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,7,LAC,0,4,0,Pass Incomplete,(1:06) (Shotgun) P.Rivers pass incomplete short left to M.Williams (J.Jackson).,3rd & 10 at LAC 25
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,7,LAC,0,5,0,Punt,"(1:01) D.Jones punts 43 yards to NE 32, Center-M.Windt. J.Edelman to NE 48 for 16 yards (K.Emanuel).",4th & 10 at LAC 25
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,8,NE,0,1,0,Pass for No Gain,(:51) (Shotgun) T.Brady pass short left to J.White to NE 48 for no gain (B.Mebane).,1st & 10 at NE 48
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,8,NE,0,2,0,12 Yard Pass,"(:31) (No Huddle, Shotgun) T.Brady pass short middle to J.Edelman to LAC 40 for 12 yards (J.Addae). NE 11-Edelman 1,131 career postseason rec yards, passes Warfield for 9th all-time. NE 11-Edelman 5th career postseason 100-yard game, new franchise record (Branch & Gronkowski, 4).",2nd & 10 at NE 48
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,8,NE,0,3,0,2 Yard Pass,(:26) (Shotgun) T.Brady pass short left to J.White pushed ob at LAC 38 for 2 yards (C.Hayward).,1st & 10 at LAC 40
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,8,NE,0,4,0,2 Yard Pass,(:21) (Shotgun) T.Brady pass short left to J.White to LAC 36 for 2 yards (J.Addae).,2nd & 8 at LAC 38
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,2ND QUARTER,8,NE,0,5,0,6 Yard Pass,(:15) (Shotgun) T.Brady pass short right to P.Dorsett to LAC 30 for 6 yards (M.Davis).,3rd & 6 at LAC 36
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,1,LAC,0,1,0,Kickoff,S.Gostkowski kicks 62 yards from NE 35 to LAC 3. D.King to LAC 31 for 28 yards (R.Humber).,Kickoff from NE 35
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,1,LAC,0,2,0,Pass Incomplete,(14:53) (Shotgun) P.Rivers pass incomplete short right to K.Allen.,1st & 10 at LAC 31
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,1,LAC,0,3,0,Pass Incomplete,(14:48) (Shotgun) P.Rivers pass incomplete short right. thrown away from outside the pocket,2nd & 10 at LAC 31
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,1,LAC,0,4,0,3 Yard Pass,(14:44) (Shotgun) P.Rivers pass short right to Ty.Williams to LAC 34 for 3 yards (J.McCourty).,3rd & 10 at LAC 31
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,1,LAC,0,5,0,Punt,"(14:03) D.Jones punts 34 yards to NE 32, Center-M.Windt. J.Edelman to NE 33 for 1 yard (N.Dzubnar).",4th & 7 at LAC 34
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,2,NE,1,1,0,7 Yard Run,(13:53) J.Edelman right end to NE 40 for 7 yards (D.King; J.Addae).,1st & 10 at NE 33
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,2,NE,1,2,0,-1 Yard Run,(13:17) R.Burkhead right end to NE 39 for -1 yards (M.Ingram).,2nd & 3 at NE 40
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,2,NE,1,3,0,25 Yard Pass,"(12:33) (Shotgun) T.Brady pass short middle to R.Gronkowski to LAC 36 for 25 yards (A.Phillips). NE 87-Gronkowski 997 career postseason rec yds, 15th all-time (Moss, 977). NE 87-Gronkowski 69th career postseason rec, ties Monk for 12th all-time.",3rd & 4 at NE 39
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,2,NE,1,4,0,5 Yard Run,(11:44) S.Michel right tackle to LAC 31 for 5 yards (D.Philon).,1st & 10 at LAC 36
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,2,NE,1,5,0,4 Yard Pass,(11:12) (Shotgun) T.Brady pass short right to J.White to LAC 27 for 4 yards (A.Phillips; D.James).,2nd & 5 at LAC 31
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,2,NE,1,6,0,3 Yard Run,(10:36) J.Develin up the middle to LAC 24 for 3 yards (H.Pullard; K.Emanuel).,3rd & 1 at LAC 27
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,2,NE,1,7,0,Pass Incomplete,(10:02) T.Brady pass incomplete short middle to J.Edelman [M.Ingram].,1st & 10 at LAC 24
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,2,NE,1,8,0,7 Yard Pass,(9:57) (Shotgun) T.Brady pass short right to R.Burkhead pushed ob at LAC 17 for 7 yards (U.Nwosu).,2nd & 10 at LAC 24
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,2,NE,1,9,0,1 Yard Pass,(9:20) (Shotgun) T.Brady pass short left to J.White to LAC 16 for 1 yard (D.King).,3rd & 3 at LAC 17
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,2,NE,1,10,0,7 Yard Run,(8:38) S.Michel left tackle to LAC 9 for 7 yards (R.Jenkins; K.Emanuel).,4th & 2 at LAC 16
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,2,NE,1,11,0,Run for No Gain,(7:59) S.Michel left guard to LAC 9 for no gain (D.James).,1st & 9 at LAC 9
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,2,NE,1,12,0,-1 Yard Pass,(7:20) (Shotgun) T.Brady pass short left to J.White to LAC 10 for -1 yards (D.James).,2nd & 9 at LAC 9
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,2,NE,1,13,0,Pass Incomplete,"(6:40) (Shotgun) T.Brady pass incomplete short left to C.Hogan [D.King]. NE 12-Brady 1,500th career postseason pass attempt, extends his NFL record (P. Manning, 1,027).",3rd & 10 at LAC 10
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,2,NE,1,14,1,Field Goal,"(6:34) S.Gostkowski 28 yard field goal is GOOD, Center-J.Cardona, Holder-R.Allen.",4th & 10 at LAC 10
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,3,LAC,1,1,0,Kickoff,S.Gostkowski kicks 58 yards from NE 35 to LAC 7. D.King to LAC 28 for 21 yards (M.Slater).,Kickoff from NE 35
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,3,LAC,1,2,0,Pass Incomplete,(6:23) (Shotgun) P.Rivers pass incomplete short left. thrown away from outside the pocket,1st & 10 at LAC 28
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,3,LAC,1,3,0,15 Yard Penalty,"(6:17) (Shotgun) P.Rivers sacked at LAC 18 for -10 yards (T.Flowers).
+PENALTY on NE-T.Flowers, Roughing the Passer, 15 yards, enforced at LAC 28 - No Play.",2nd & 10 at LAC 28
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,3,LAC,1,4,0,20 Yard Pass,(5:52) (Shotgun) P.Rivers pass deep middle to M.Williams to NE 37 for 20 yards (D.McCourty).,1st & 10 at LAC 43
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,3,LAC,1,5,0,5 Yard Pass,(5:15) (Shotgun) P.Rivers pass short right to M.Williams to NE 32 for 5 yards (J.Jackson; P.Chung).,1st & 10 at NE 37
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,3,LAC,1,6,0,-3 Yard Run,"(4:13) (Shotgun) M.Gordon right end to NE 20 for -3 yards (J.Simon, A.Clayborn).",1st & 10 at NE 17
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,3,LAC,1,7,0,Pass Incomplete,(3:34) (Shotgun) P.Rivers pass incomplete deep right to A.Ekeler.,2nd & 13 at NE 20
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,3,LAC,1,8,0,5 Yard Penalty,"(3:29) (Shotgun) P.Rivers pass incomplete deep left to M.Williams.
+PENALTY on NE-S.Gilmore, Defensive Holding, 5 yards, enforced at NE 20 - No Play.",3rd & 13 at NE 20
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,3,LAC,1,9,0,-3 Yard Pass,(3:23) (Shotgun) P.Rivers pass short right to A.Gates to NE 18 for -3 yards (P.Chung).,1st & 10 at NE 15
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,3,LAC,1,10,0,17 Yard Pass,(2:40) (Shotgun) P.Rivers pass deep left to Ty.Williams pushed ob at NE 1 for 17 yards (J.Jackson).,2nd & 13 at NE 18
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,3,LAC,1,11,0,Run for No Gain,(2:01) T.Scott reported in as eligible.  M.Gordon right guard to NE 1 for no gain (E.Roberts).,1st & 1 at NE 1
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,3,LAC,1,12,0,Touchdown Chargers,"(1:18) M.Gordon up the middle for 1 yard, TOUCHDOWN.",2nd & 1 at NE 1
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,3RD QUARTER,3,LAC,1,13,1,Extra Point Good,"M.Badgley extra point is GOOD, Center-M.Windt, Holder-D.Jones.",XP attempt from NE 15
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,1,NE,1,1,0,Kickoff,"N.Rose kicks 65 yards from LAC 35 to end zone, Touchback.",Kickoff from LAC 35
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,1,NE,1,2,0,9 Yard Pass,"(1:16) (Shotgun) T.Brady pass short middle to J.Edelman to NE 34 for 9 yards (U.Nwosu; K.Emanuel). NE 11-Edelman 1,140 career postseason rec yards, passes Pearson for 8th all-time.",1st & 10 at NE 25
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,1,NE,1,3,0,2 Yard Run,"(:34) J.Develin up the middle to NE 36 for 2 yards (B.Mebane, H.Pullard).",2nd & 1 at NE 34
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,1,NE,1,4,0,35 Yard Pass,"(15:00) T.Brady pass deep left to J.Edelman to LAC 29 for 35 yards (R.Jenkins). NE 12-Brady 15th career 300-yard postseason game, extends NFL record (Peyton Manning 9). NE 11-Edelman 1,175 career postseason rec yards, passes Biletnikoff for 7th all-time.",1st & 10 at NE 36
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,1,NE,1,5,0,-10 Yard Penalty,"(14:11) C.Patterson right end pushed ob at LAC 14 for 15 yards (D.James).
+PENALTY on NE-J.Edelman, Offensive Holding, 10 yards, enforced at LAC 29 - No Play.",1st & 10 at LAC 29
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,1,NE,1,6,0,23 Yard Pass,"(13:49) (Shotgun) T.Brady pass short left to J.White to LAC 16 for 23 yards (D.King). NE-S.Mason was injured during the play.  NE 28-White 14th rec, ties postseason career high set in Super Bowl 51.",1st & 20 at LAC 39
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,1,NE,1,7,0,Pass Incomplete,(13:13) (Shotgun) T.Brady pass incomplete short right to C.Patterson.,1st & 10 at LAC 16
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,1,NE,1,8,0,Pass Incomplete,(13:09) T.Brady pass incomplete short left to J.Edelman.,2nd & 10 at LAC 16
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,1,NE,1,9,0,4 Yard Pass,(13:05) (Shotgun) T.Brady pass short right to C.Hogan to LAC 12 for 4 yards (M.Davis; J.Addae).,3rd & 10 at LAC 16
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,1,NE,1,10,1,Field Goal,"(12:27) S.Gostkowski 30 yard field goal is GOOD, Center-J.Cardona, Holder-R.Allen.",4th & 6 at LAC 12
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,2,LAC,0,1,0,Kickoff,S.Gostkowski kicks 62 yards from NE 35 to LAC 3. D.King to LAC 24 for 21 yards (M.Slater; R.Humber).,Kickoff from NE 35
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,2,LAC,0,2,0,-10 Yard Penalty,"(12:18) (Shotgun) P.Rivers pass incomplete short right. thrown away from outside the pocket
+PENALTY on LAC-D.Feeney, Offensive Holding, 10 yards, enforced at LAC 24 - No Play.",1st & 10 at LAC 24
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,2,LAC,0,3,0,Pass Incomplete,(12:13) (Shotgun) P.Rivers pass incomplete deep left to K.Allen [A.Butler].,1st & 20 at LAC 14
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,2,LAC,0,4,0,Pass Incomplete,(12:08) (Shotgun) P.Rivers pass incomplete deep left to H.Henry (K.Van Noy).,2nd & 20 at LAC 14
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,2,LAC,0,5,0,Pass Incomplete,(12:01) (Shotgun) P.Rivers pass incomplete deep left to Ty.Williams (J.McCourty).,3rd & 20 at LAC 14
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,2,LAC,0,6,0,Punt,"(11:55) D.Jones punts 43 yards to NE 43, Center-M.Windt. J.Edelman ran ob at NE 48 for 5 yards.
+Penalty on NE-J.Jones, Running Into the Kicker, declined.",4th & 20 at LAC 14
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,3,NE,0,1,0,6 Yard Run,(11:47) S.Michel left guard to LAC 46 for 6 yards (J.Addae).,1st & 10 at NE 48
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,3,NE,0,2,0,3 Yard Run,(11:09) S.Michel up the middle to LAC 43 for 3 yards (J.Addae; D.James).,2nd & 4 at LAC 46
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,3,NE,0,3,0,Run for No Gain,(10:36) (Shotgun) S.Michel left guard to LAC 43 for no gain (D.James; J.Bosa). measurement,3rd & 1 at LAC 43
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,3,NE,0,4,0,Punt,"(9:48) R.Allen punts 43 yards to end zone, Center-J.Cardona, Touchback.",4th & 1 at LAC 43
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,4,LAC,1,1,0,29 Yard Pass,(9:39) (Shotgun) P.Rivers pass deep middle to Ty.Williams to LAC 49 for 29 yards (J.McCourty).,1st & 10 at LAC 20
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,4,LAC,1,2,0,Pass Incomplete,"(9:11) (No Huddle, Shotgun) P.Rivers pass incomplete short right to J.Jackson.",1st & 10 at LAC 49
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,4,LAC,1,3,0,12 Yard Penalty,"(9:07) (Shotgun) P.Rivers pass incomplete short left to Ty.Williams (J.Jackson).
+PENALTY on NE-J.Jackson, Defensive Pass Interference, 12 yards, enforced at LAC 49 - No Play.",2nd & 10 at LAC 49
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,4,LAC,1,4,0,4 Yard Run,"(9:02) (Shotgun) J.Jackson left tackle to NE 35 for 4 yards (D.McCourty, A.Butler).",1st & 10 at NE 39
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,4,LAC,1,5,0,2 Yard Pass,"(8:32) (No Huddle, Shotgun) P.Rivers pass short left to J.Jackson to NE 33 for 2 yards (K.Van Noy).",2nd & 6 at NE 35
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,4,LAC,1,6,0,32 Yard Pass,"(7:51) (Shotgun) P.Rivers pass incomplete deep right to K.Allen (J.McCourty).
+Los Angeles Chargers challenged the incomplete pass ruling, and the play was REVERSED.
+(Shotgun) P.Rivers pass deep right to K.Allen to NE 1 for 32 yards (J.McCourty).",3rd & 4 at NE 33
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,4,LAC,1,7,0,Touchdown Chargers,"(7:42) T.Scott and M.Ingram reported in as eligible.  P.Rivers pass short left to V.Green for 1 yard, TOUCHDOWN.",1st & 1 at NE 1
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,4,LAC,1,8,1,2PT Conversion Success,(Shotgun) TWO-POINT CONVERSION ATTEMPT. P.Rivers pass to K.Allen is complete. ATTEMPT SUCCEEDS.,XP attempt from NE 2
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,5,NE,0,1,0,Kickoff,(Onside Kick formation) M.Badgley kicks onside 9 yards from LAC 35 to LAC 44. N.Ebner (didn't try to advance) to LAC 44 for no gain.,Kickoff from LAC 35
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,5,NE,0,2,0,1 Yard Run,(7:37) S.Michel up the middle to LAC 43 for 1 yard (M.Davis).,1st & 10 at LAC 44
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,5,NE,0,3,0,4 Yard Pass,"(6:59) (Shotgun) T.Brady pass short left to C.Hogan to LAC 39 for 4 yards (C.Hayward). NE 12-Brady 227th consecutive postseason pass without an Int, new NFL record (Brees, 226).",2nd & 9 at LAC 43
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,5,NE,0,4,0,-1 Yard Pass,"(6:17) (Shotgun) T.Brady pass short middle to J.White to LAC 40 for -1 yards (U.Nwosu). NE 28-White 15th rec, ties NFL postseason record (Sproles).",3rd & 5 at LAC 39
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,5,NE,0,5,0,Punt,"(5:13) R.Allen punts 43 yards to LAC 2, Center-J.Cardona, downed by NE-M.Slater.",4th & 11 at LAC 45
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,6,LAC,0,1,0,Pass Incomplete,(5:04) (Shotgun) P.Rivers pass incomplete short right to M.Williams (J.Jackson).,1st & 10 at LAC 2
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,6,LAC,0,2,0,Pass Incomplete,(5:00) (Shotgun) P.Rivers pass incomplete short left to K.Allen.,2nd & 10 at LAC 2
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,6,LAC,0,3,0,12 Yard Pass,(4:56) (Shotgun) P.Rivers pass short middle to A.Gates to LAC 14 for 12 yards (D.Hightower).,3rd & 10 at LAC 2
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,6,LAC,0,4,0,Pass Incomplete,"(4:28) (No Huddle, Shotgun) P.Rivers pass incomplete deep middle to A.Gates.",1st & 10 at LAC 14
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,6,LAC,0,5,0,Pass Incomplete,(4:22) (Shotgun) P.Rivers pass incomplete short left to T.Benjamin.,2nd & 10 at LAC 14
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,6,LAC,0,6,0,Interception,(4:18) (Shotgun) P.Rivers pass deep right intended for K.Allen INTERCEPTED by S.Gilmore at LAC 33. S.Gilmore to LAC 33 for no gain (K.Allen).,3rd & 10 at LAC 14
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,7,NE,0,1,0,-10 Yard Penalty,"(4:12) S.Michel right end to LAC 31 for 2 yards (H.Pullard).
+PENALTY on NE-J.Thuney, Offensive Holding, 10 yards, enforced at LAC 33 - No Play.",1st & 10 at LAC 33
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,7,NE,0,2,0,2 Yard Run,(4:06) S.Michel left tackle to LAC 41 for 2 yards (B.Mebane).,1st & 20 at LAC 43
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,7,NE,0,3,0,3 Yard Run,(4:01) C.Patterson right end to LAC 38 for 3 yards (J.Addae; D.King).,2nd & 18 at LAC 41
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,7,NE,0,4,0,4 Yard Run,(3:53) (Shotgun) R.Burkhead left guard to LAC 34 for 4 yards (I.Rochell).,3rd & 15 at LAC 38
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,7,NE,0,5,0,Punt,"(3:06) R.Allen punts 39 yards to end zone, Center-J.Cardona, Touchback.",4th & 16 at LAC 39
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,8,LAC,1,1,0,Pass Incomplete,(2:59) (Shotgun) P.Rivers pass incomplete short left to M.Williams.,1st & 10 at LAC 20
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,8,LAC,1,2,0,Pass Incomplete,(2:54) (Shotgun) P.Rivers pass incomplete short left to A.Ekeler.,2nd & 10 at LAC 20
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,8,LAC,1,3,0,Pass Incomplete,(2:50) (Shotgun) P.Rivers pass incomplete deep middle to T.Benjamin (D.McCourty).,3rd & 10 at LAC 20
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,8,LAC,1,4,0,14 Yard Pass,(2:43) (Shotgun) P.Rivers pass short left to A.Gates pushed ob at LAC 34 for 14 yards (P.Chung) [A.Clayborn].,4th & 10 at LAC 20
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,8,LAC,1,5,0,7 Yard Pass,"(2:37) (No Huddle, Shotgun) P.Rivers pass short middle to A.Ekeler to LAC 41 for 7 yards (D.Hightower).",1st & 10 at LAC 34
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,8,LAC,1,6,0,-5 Yard Sack,"(2:08) (No Huddle, Shotgun) P.Rivers sacked at LAC 36 for -5 yards (A.Clayborn).",2nd & 3 at LAC 41
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,8,LAC,1,7,0,19 Yard Pass,(2:00) (Shotgun) P.Rivers pass short left to Ty.Williams pushed ob at NE 45 for 19 yards (D.McCourty).,3rd & 8 at LAC 36
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,8,LAC,1,8,0,Pass for No Gain,(1:53) (Shotgun) P.Rivers pass short right to J.Jackson to NE 45 for no gain (K.Van Noy).,1st & 10 at NE 45
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,8,LAC,1,9,0,20 Yard Pass,"(1:23) (No Huddle, Shotgun) P.Rivers pass short left to J.Jackson pushed ob at NE 25 for 20 yards (D.McCourty).",2nd & 10 at NE 45
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,8,LAC,1,10,0,Pass Incomplete,(1:17) (Shotgun) P.Rivers pass incomplete short middle to A.Gates.,1st & 10 at NE 25
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,8,LAC,1,11,0,17 Yard Pass,"(1:13) (Shotgun) P.Rivers pass short right to A.Ekeler pushed ob at NE 16 for 9 yards (P.Chung).
+PENALTY on NE-D.Hightower, Roughing the Passer, 8 yards, enforced at NE 16.",2nd & 10 at NE 25
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,8,LAC,1,12,0,Touchdown Chargers,"(1:04) (Shotgun) P.Rivers pass short right to A.Gates for 8 yards, TOUCHDOWN.",1st & 8 at NE 8
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,8,LAC,1,13,1,2PT Conversion Fails,(Shotgun) TWO-POINT CONVERSION ATTEMPT. P.Rivers pass to M.Williams is incomplete. ATTEMPT FAILS.,XP attempt from NE 2
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,9,NE,0,1,0,Kickoff,(Onside Kick formation) M.Badgley kicks onside 14 yards from LAC 35 to LAC 49. N.Ebner (didn't try to advance) to LAC 49 for no gain.,Kickoff from LAC 35
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,9,NE,0,2,0,Run for No Gain,(:58) T.Brady kneels to LAC 49 for no gain.,1st & 10 at LAC 49
+2018,Divisional Playoffs,SUN,01/13,Chargers,Patriots,4TH QUARTER,9,NE,0,3,0,-1 Yard Run,"(:35) T.Brady kneels to 50 for -1 yards. Patriots 35th postseason win, tied with Dallas for 2nd all-time (Pittsburgh, 36). Patriots 15th Conference Championship Game, ties SF for 2nd all-time (Steelers, 16). Patriots 8th consecutive Conference Championship Game, extends NFL record.",2nd & 10 at LAC 49
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,1,NO,0,1,0,Kickoff,J.Elliott kicks 57 yards from PHI 35 to NO 8. A.Kamara ran ob at NO 35 for 27 yards (C.LeBlanc).,Kickoff from PHI 35
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,1,NO,0,2,0,Interception,(14:56) (Shotgun) D.Brees pass deep middle intended for T.Ginn INTERCEPTED by C.LeBlanc at PHI 24. C.LeBlanc to PHI 24 for no gain (M.Thomas).,1st & 10 at NO 35
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,2,PHI,1,1,0,6 Yard Pass,"(14:46) (Shotgun) N.Foles pass short left to G.Tate ran ob at PHI 30 for 6 yards (P.Williams). Pass 1, YAC 5",1st & 10 at PHI 24
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,2,PHI,1,2,0,3 Yard Run,(14:10) W.Smallwood right tackle to PHI 33 for 3 yards (A.Okafor; V.Bell).,2nd & 4 at PHI 30
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,2,PHI,1,3,0,11 Yard Pass,"(13:29) (Shotgun) N.Foles pass short right to Z.Ertz pushed ob at PHI 44 for 11 yards (V.Bell). Pass 2, YAC 9",3rd & 1 at PHI 33
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,2,PHI,1,4,0,5 Yard Pass,"(12:50) (Shotgun) N.Foles pass short right to D.Sproles pushed ob at PHI 49 for 5 yards (D.Davis). Pass 1, YAC 4",1st & 10 at PHI 44
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,2,PHI,1,5,0,6 Yard Pass,"(12:13) H.Vaitai reported in as eligible.  N.Foles pass short right to W.Smallwood to NO 45 for 6 yards (C.Jordan) [P.Williams]. Pass -4, YAC 10",2nd & 5 at PHI 49
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,2,PHI,1,6,0,8 Yard Run,"(11:32) (Shotgun) W.Smallwood left guard to NO 37 for 8 yards (M.Williams, V.Bell).",1st & 10 at NO 45
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,2,PHI,1,7,0,Touchdown Eagles,"(10:49) N.Foles pass deep left to J.Matthews for 37 yards, TOUCHDOWN [A.Okafor]. Pass 30, YAC 7",2nd & 2 at NO 37
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,2,PHI,1,8,1,Extra Point Good,"J.Elliott extra point is GOOD, Center-R.Lovato, Holder-C.Johnston.",XP attempt from NO 15
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,3,NO,0,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.",Kickoff from PHI 35
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,3,NO,0,2,0,Run for No Gain,(10:41) (Shotgun) M.Ingram right guard to NO 25 for no gain (M.Bennett).,1st & 10 at NO 25
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,3,NO,0,3,0,Pass Incomplete,(10:09) (Shotgun) D.Brees pass incomplete short left to T.Ginn.,2nd & 10 at NO 25
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,3,NO,0,4,0,Pass Incomplete,(10:04) (Shotgun) D.Brees pass incomplete deep right to M.Thomas.,3rd & 10 at NO 25
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,3,NO,0,5,0,Punt,"(9:58) T.Morstead punts 50 yards to PHI 25, Center-Z.Wood, out of bounds.",4th & 10 at NO 25
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,4,PHI,1,1,0,12 Yard Run,"(9:51) N.Agholor right end to PHI 37 for 12 yards (M.Lattimore, D.Davis).",1st & 10 at PHI 25
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,4,PHI,1,2,0,3 Yard Run,(9:12) (Shotgun) W.Smallwood left guard to PHI 40 for 3 yards (T.Stallworth; D.Onyemata).,1st & 10 at PHI 37
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,4,PHI,1,3,0,12 Yard Pass,"(8:33) (Shotgun) N.Foles pass short left to G.Tate pushed ob at NO 48 for 12 yards (E.Apple). Pass 12, YAC 0",2nd & 7 at PHI 40
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,4,PHI,1,4,0,5 Yard Run,"(7:53) W.Smallwood right tackle to NO 43 for 5 yards (E.Apple, D.Davis).",1st & 10 at NO 48
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,4,PHI,1,5,0,6 Yard Pass,"(7:13) (Shotgun) N.Foles pass short right to N.Agholor to NO 37 for 6 yards (D.Davis). NO-S.Rankins was injured during the play.  Pass 3, YAC 3",2nd & 5 at NO 43
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,4,PHI,1,6,0,3 Yard Run,(6:52) (Shotgun) D.Sproles right end to NO 34 for 3 yards (D.Davis).,1st & 10 at NO 37
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,4,PHI,1,7,0,Pass Incomplete,(6:11) (Shotgun) N.Foles pass incomplete deep right to Z.Ertz. PHI-B.Brooks was injured during the play.,2nd & 7 at NO 34
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,4,PHI,1,8,0,30 Yard Pass,"(6:05) (Shotgun) N.Foles pass deep right to A.Jeffery pushed ob at NO 4 for 30 yards (M.Lattimore). Pass 24, YAC 6",3rd & 7 at NO 34
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,4,PHI,1,9,0,3 Yard Run,(5:23) (Shotgun) W.Smallwood right guard to NO 1 for 3 yards (E.Apple; A.Anzalone).,1st & 4 at NO 4
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,4,PHI,1,10,0,Touchdown Eagles,"(4:39) N.Foles up the middle for 1 yard, TOUCHDOWN.",2nd & 1 at NO 1
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,4,PHI,1,11,1,Extra Point Good,"J.Elliott extra point is GOOD, Center-R.Lovato, Holder-C.Johnston.",XP attempt from NO 15
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,5,NO,0,1,0,Kickoff,"J.Elliott kicks 67 yards from PHI 35 to NO -2. A.Kamara to NO 16 for 18 yards (K.Grugier-Hill; D.Alexander).
+PENALTY on NO-Z.Line, Unnecessary Roughness, 8 yards, enforced at NO 16.",Kickoff from PHI 35
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,5,NO,0,2,0,14 Yard Run,"(4:31) A.Kamara right guard to NO 7 for -1 yards (B.Graham).
+PENALTY on PHI-T.Jernigan, Taunting, 15 yards, enforced at NO 7.",1st & 10 at NO 8
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,5,NO,0,3,0,Run for No Gain,"(4:06) D.Brees FUMBLES (Aborted) at NO 21, and recovers at NO 20. D.Brees to NO 18 for -2 yards (M.Jenkins).",1st & 10 at NO 22
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,5,NO,0,4,0,-5 Yard Penalty,"(3:18) (Shotgun) PENALTY on NO, Delay of Game, 5 yards, enforced at NO 18 - No Play.",2nd & 14 at NO 18
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,5,NO,0,5,0,9 Yard Pass,"(2:57) (Shotgun) D.Brees pass short right to M.Thomas to NO 22 for 9 yards (M.Jenkins; J.Hicks). Pass 7, YAC 2",2nd & 19 at NO 13
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,5,NO,0,6,0,21 Yard Pass,"(2:18) (Shotgun) D.Brees pass short middle to M.Thomas to NO 43 for 21 yards (C.Graham) [M.Bennett]. Pass 14, YAC 7",3rd & 10 at NO 22
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,5,NO,0,7,0,2 Yard Run,"(1:36) M.Ingram right guard to NO 45 for 2 yards (T.Hester, H.Ngata).",1st & 10 at NO 43
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,5,NO,0,8,0,Pass Incomplete,(:52) (Shotgun) D.Brees pass incomplete short right to T.Ginn (C.LeBlanc).,2nd & 8 at NO 45
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,5,NO,0,9,0,-10 Yard Sack,"(:48) (Shotgun) D.Brees sacked at NO 37 for -8 yards (B.Graham). FUMBLES (B.Graham), RECOVERED by PHI-B.Graham at NO 35. B.Graham to NO 34 for 1 yard (T.Armstead). FUMBLES (T.Armstead), RECOVERED by NO-R.Ramczyk at NO 31.
+The Replay Official reviewed the loose ball recovery ruling, and the play was REVERSED.
+(Shotgun) D.Brees sacked at NO 37 for -8 yards (B.Graham). FUMBLES (B.Graham), touched at NO 35, recovered by NO-R.Ramczyk at NO 31.",3rd & 8 at NO 45
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,1ST QUARTER,5,NO,0,10,0,Punt,"(:34) T.Morstead punts 39 yards to PHI 30, Center-Z.Wood, fair catch by D.Sproles.",4th & 22 at NO 31
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,1,PHI,0,1,0,2 Yard Run,(:29) (Shotgun) W.Smallwood right guard to PHI 32 for 2 yards (D.Onyemata).,1st & 10 at PHI 30
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,1,PHI,0,2,0,14 Yard Pass,"(15:00) (Shotgun) N.Foles pass short right to A.Jeffery to PHI 46 for 14 yards (M.Lattimore). Pass 11, YAC 3",2nd & 8 at PHI 32
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,1,PHI,0,3,0,2 Yard Run,(14:28) W.Smallwood left end to PHI 48 for 2 yards (P.Williams).,1st & 10 at PHI 46
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,1,PHI,0,4,0,Interception,(13:45) (Shotgun) N.Foles pass deep left intended for Z.Ertz INTERCEPTED by M.Lattimore at NO 21. M.Lattimore to NO 21 for no gain (Z.Ertz).,2nd & 8 at PHI 48
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,2,NO,1,1,0,8 Yard Pass,"(13:35) D.Brees pass short left to M.Ingram to NO 29 for 8 yards (J.Hawkins, M.Jenkins). Pass 2, YAC 6",1st & 10 at NO 21
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,2,NO,1,2,0,1 Yard Run,(12:54) A.Kamara left guard to NO 30 for 1 yard (T.Jernigan; B.Graham).,2nd & 2 at NO 29
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,2,NO,1,3,0,Run for No Gain,"(12:09) M.Ingram right guard to NO 30 for no gain (A.Maddox; N.Bradham).
+Penalty on NO-R.Ramczyk, Offensive Holding, declined.",3rd & 1 at NO 30
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,2,NO,1,4,0,42 Yard Pass,"(11:20) D.Brees pass deep middle to M.Thomas pushed ob at PHI 24 for 42 yards (A.Maddox). Pass 21, YAC 21
+Penalty on PHI-T.Hester, Defensive Offside, declined.",1st & 10 at NO 34
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,2,NO,1,5,0,5 Yard Run,(10:56) M.Ingram right tackle to PHI 19 for 5 yards (A.Maddox). PHI-M.Bennett was injured during the play.,1st & 10 at PHI 24
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,2,NO,1,6,0,4 Yard Run,(10:31) (Shotgun) T.Hill scrambles right end pushed ob at PHI 15 for 4 yards (J.Hicks). NO-T.Hill in at QB,2nd & 5 at PHI 19
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,2,NO,1,7,0,7 Yard Run,(9:53) A.Kamara right end to PHI 8 for 7 yards (N.Bradham).,3rd & 1 at PHI 15
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,2,NO,1,8,0,-5 Yard Penalty,"(9:13) (Shotgun) PENALTY on NO-A.Peat, False Start, 5 yards, enforced at PHI 8 - No Play.",1st & 8 at PHI 8
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,2,NO,1,9,0,Pass Incomplete,(8:50) (Shotgun) D.Brees pass incomplete short left to T.Ginn.,1st & 13 at PHI 13
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,2,NO,1,10,0,4 Yard Pass,"(8:45) (Shotgun) D.Brees pass short middle to M.Thomas to PHI 9 for 4 yards (J.Hicks). Pass 4, YAC 0",2nd & 13 at PHI 13
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,2,NO,1,11,0,7 Yard Pass,"(8:07) (Shotgun) D.Brees pass short middle to M.Thomas to PHI 2 for 7 yards (C.LeBlanc). Pass 6, YAC 1",3rd & 9 at PHI 9
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,2,NO,1,12,0,Touchdown Saints,"(7:28) D.Brees pass short left to K.Kirkwood for 2 yards, TOUCHDOWN. Pass 2, YAC 0",4th & 2 at PHI 2
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,2,NO,1,13,1,Extra Point Good,"W.Lutz extra point is GOOD, Center-Z.Wood, Holder-T.Morstead.",XP attempt from PHI 15
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,3,PHI,0,1,0,Kickoff,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",Kickoff from NO 35
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,3,PHI,0,2,0,14 Yard Pass,"(7:23) N.Foles pass short left to D.Sproles to PHI 39 for 14 yards (T.Davison). Pass -8, YAC 22",1st & 10 at PHI 25
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,3,PHI,0,3,0,1 Yard Run,(6:37) H.Vaitai reported in as eligible.  W.Smallwood right guard to PHI 40 for 1 yard (C.Jordan).,1st & 10 at PHI 39
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,3,PHI,0,4,0,4 Yard Pass,"(5:57) (Shotgun) N.Foles pass short left to Z.Ertz to PHI 44 for 4 yards (D.Davis). Pass 3, YAC 1",2nd & 9 at PHI 40
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,3,PHI,0,5,0,-5 Yard Penalty,"(5:13) (Shotgun) PENALTY on PHI-J.Peters, False Start, 5 yards, enforced at PHI 44 - No Play.",3rd & 5 at PHI 44
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,3,PHI,0,6,0,Pass Incomplete,(4:47) (Shotgun) N.Foles pass incomplete short right to D.Sproles [M.Davenport].,3rd & 10 at PHI 39
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,3,PHI,0,7,0,Punt,"(4:42) C.Johnston punts 49 yards to NO 12, Center-R.Lovato. T.Lewis pushed ob at NO 20 for 8 yards (T.Sullivan).",4th & 10 at PHI 39
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,4,NO,0,1,0,13 Yard Run,(4:33) A.Kamara left tackle to NO 33 for 13 yards (J.Hicks).,1st & 10 at NO 20
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,4,NO,0,2,0,3 Yard Pass,"(3:51) D.Brees pass short right to J.Hill to NO 36 for 3 yards (M.Jenkins, N.Bradham). Pass -3, YAC 6",1st & 10 at NO 33
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,4,NO,0,3,0,4 Yard Pass,"(3:11) (Shotgun) D.Brees pass short left to M.Thomas ran ob at NO 40 for 4 yards (N.Bradham). Pass 3, YAC 1",2nd & 7 at NO 36
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,4,NO,0,4,0,Sack,(2:30) (Shotgun) D.Brees sacked at NO 32 for -8 yards (sack split by T.Jernigan and C.Long).,3rd & 3 at NO 40
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,4,NO,0,5,0,Punt,"(2:00) T.Morstead punts 45 yards to PHI 23, Center-Z.Wood, fair catch by D.Sproles.",4th & 11 at NO 32
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,5,PHI,0,1,0,11 Yard Pass,"(1:51) (Shotgun) N.Foles pass short right to A.Jeffery pushed ob at PHI 34 for 11 yards (V.Bell). Pass 10, YAC 1",1st & 10 at PHI 23
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,5,PHI,0,2,0,Pass Incomplete,(1:47) (Shotgun) N.Foles pass incomplete short left to Z.Ertz.,1st & 10 at PHI 34
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,5,PHI,0,3,0,1 Yard Run,(1:41) (Shotgun) D.Sproles left tackle to PHI 35 for 1 yard (T.Stallworth).,2nd & 10 at PHI 34
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,5,PHI,0,4,0,Pass Incomplete,(1:34) (Shotgun) N.Foles pass incomplete short right to N.Agholor (C.Jordan).,3rd & 9 at PHI 35
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,5,PHI,0,5,0,Punt,"(1:29) C.Johnston punts 54 yards to NO 11, Center-R.Lovato. T.Lewis ran ob at NO 26 for 15 yards (D.Goedert; L.Reynolds).
+PENALTY on NO-C.Banjo, Illegal Block Above the Waist, 5 yards, enforced at NO 11.",4th & 9 at PHI 35
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,6,NO,1,1,0,12 Yard Pass,"(1:18) (Shotgun) D.Brees pass short middle to B.Watson ran ob at NO 18 for 12 yards (J.Hawkins). Pass 5, YAC 7",1st & 10 at NO 6
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,6,NO,1,2,0,21 Yard Pass,"(1:12) (Shotgun) D.Brees pass deep right to T.Ginn ran ob at NO 39 for 21 yards (A.Maddox). Pass 21, YAC 0",1st & 10 at NO 18
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,6,NO,1,3,0,6 Yard Run,(1:07) (Shotgun) A.Kamara right tackle to NO 45 for 6 yards (C.Long).,1st & 10 at NO 39
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,6,NO,1,4,0,23 Yard Pass,"(:48) (No Huddle, Shotgun) D.Brees pass short right to A.Kamara to PHI 32 for 23 yards (T.Sullivan). Pass 2, YAC 21",2nd & 4 at NO 45
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,6,NO,1,5,0,-10 Yard Penalty,"(:35) (Shotgun) D.Brees pass short middle to M.Thomas to PHI 23 for 9 yards (C.LeBlanc).
+PENALTY on NO-A.Peat, Offensive Holding, 10 yards, enforced at PHI 32 - No Play.",1st & 10 at PHI 32
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,6,NO,1,6,0,15 Yard Pass,"(:28) (Shotgun) D.Brees pass short middle to T.Ginn to PHI 27 for 15 yards (T.Sullivan). Pass 15, YAC 0",1st & 20 at PHI 42
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,6,NO,1,7,0,Pass Incomplete,(:12) D.Brees spiked the ball to stop the clock.,2nd & 5 at PHI 27
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,6,NO,1,8,1,Field Goal,"(:11) W.Lutz 45 yard field goal is GOOD, Center-Z.Wood, Holder-T.Morstead.",3rd & 5 at PHI 27
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,7,PHI,0,1,0,Kickoff,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",Kickoff from NO 35
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,2ND QUARTER,7,PHI,0,2,0,-1 Yard Run,(:06) N.Foles kneels to PHI 24 for -1 yards.,1st & 10 at PHI 25
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,1,PHI,0,1,0,Kickoff,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",Kickoff from NO 35
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,1,PHI,0,2,0,3 Yard Run,(15:00) W.Smallwood right guard to PHI 28 for 3 yards (C.Jordan).,1st & 10 at PHI 25
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,1,PHI,0,3,0,3 Yard Pass,"(14:11) (Shotgun) N.Foles pass short left to A.Jeffery to PHI 31 for 3 yards (E.Apple). Pass 2, YAC 1",2nd & 7 at PHI 28
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,1,PHI,0,4,0,Pass Incomplete,(13:28) (Shotgun) N.Foles pass incomplete deep right to A.Jeffery (V.Bell).,3rd & 4 at PHI 31
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,1,PHI,0,5,0,Punt,"(13:22) C.Johnston punts 54 yards to NO 15, Center-R.Lovato. T.Lewis pushed ob at NO 30 for 15 yards (N.Gerry).
+PENALTY on NO-Z.Line, Offensive Holding, 7 yards, enforced at NO 15.",4th & 4 at PHI 31
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,2,NO,1,1,0,1 Yard Run,(13:09) M.Ingram left tackle to NO 9 for 1 yard (M.Bennett; F.Cox).,1st & 10 at NO 8
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,2,NO,1,2,0,5 Yard Penalty,"(12:31) D.Brees pass incomplete short left to M.Ingram.
+PENALTY on PHI-R.Douglas, Defensive Holding, 5 yards, enforced at NO 9 - No Play.",2nd & 9 at NO 9
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,2,NO,1,3,0,4 Yard Run,(12:26) M.Ingram right guard to NO 18 for 4 yards (H.Ngata).,1st & 10 at NO 14
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,2,NO,1,4,0,8 Yard Pass,"(11:51) (Shotgun) D.Brees pass short right to T.Ginn pushed ob at NO 26 for 8 yards (A.Maddox). Pass 7, YAC 1",2nd & 6 at NO 18
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,2,NO,1,5,0,1 Yard Run,(11:11) A.Kamara right guard to NO 27 for 1 yard (N.Bradham; J.Hicks).,1st & 10 at NO 26
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,2,NO,1,6,0,11 Yard Pass,"(10:28) (Shotgun) D.Brees pass short middle to M.Thomas to NO 38 for 11 yards (N.Bradham). Pass 3, YAC 8",2nd & 9 at NO 27
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,2,NO,1,7,0,6 Yard Pass,"(9:49) (Shotgun) D.Brees pass short middle to K.Kirkwood to NO 44 for 6 yards (J.Hicks). Pass 6, YAC 0",1st & 10 at NO 38
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,2,NO,1,8,0,1 Yard Run,(9:10) A.Kamara left tackle to NO 45 for 1 yard (C.Long).,2nd & 4 at NO 44
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,2,NO,1,9,0,9 Yard Pass,"(8:30) (Shotgun) D.Brees pass short right to J.Hill to PHI 46 for 9 yards (M.Jenkins). Pass 1, YAC 8",3rd & 3 at NO 45
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,2,NO,1,10,0,Pass Incomplete,(7:45) D.Brees pass incomplete deep middle to T.Hill (A.Maddox).,1st & 10 at PHI 46
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,2,NO,1,11,0,-10 Yard Penalty,"(7:38) (Shotgun) T.Hill pass deep middle to A.Kamara for 46 yards, TOUCHDOWN NULLIFIED by Penalty.
+PENALTY on NO-A.Peat, Offensive Holding, 10 yards, enforced at PHI 46 - No Play.",2nd & 10 at PHI 46
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,2,NO,1,12,0,20 Yard Pass,"(7:31) (Shotgun) D.Brees pass deep middle to M.Thomas to PHI 36 for 20 yards (M.Jenkins). Pass 19, YAC 1",2nd & 20 at NO 44
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,2,NO,1,13,0,5 Yard Run,(6:48) T.Smith left end to PHI 31 for 5 yards (R.Douglas).,1st & 10 at PHI 36
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,2,NO,1,14,0,4 Yard Run,(6:07) A.Kamara left end to PHI 27 for 4 yards (R.Douglas).,2nd & 5 at PHI 31
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,2,NO,1,15,0,1 Yard Run,(5:25) A.Kamara right guard to PHI 26 for 1 yard (M.Jenkins).,3rd & 1 at PHI 27
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,2,NO,1,16,0,-10 Yard Penalty,"(4:46) (Shotgun) T.Hill right end to PHI 23 for 3 yards (N.Bradham).
+PENALTY on NO-M.Unger, Offensive Holding, 10 yards, enforced at PHI 26 - No Play.",1st & 10 at PHI 26
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,2,NO,1,17,0,Pass Incomplete,(4:15) (Shotgun) D.Brees pass incomplete short right to M.Thomas.,1st & 20 at PHI 36
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,2,NO,1,18,0,4 Yard Pass,"(4:10) (Shotgun) D.Brees pass short right to A.Kamara to PHI 32 for 4 yards (J.Hicks). Pass -4, YAC 8",2nd & 20 at PHI 36
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,2,NO,1,19,0,20 Yard Pass,"(3:21) (Shotgun) D.Brees pass short right to M.Thomas to PHI 12 for 20 yards (T.Sullivan). Pass 14, YAC 6",3rd & 16 at PHI 32
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,2,NO,1,20,0,-5 Yard Penalty,"(2:39) (Shotgun) PENALTY on NO-A.Peat, False Start, 5 yards, enforced at PHI 12 - No Play.",1st & 10 at PHI 12
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,2,NO,1,21,0,15 Yard Run,(2:14) (Shotgun) A.Kamara right tackle pushed ob at PHI 2 for 15 yards (A.Maddox).,1st & 15 at PHI 17
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,2,NO,1,22,0,Touchdown Saints,"(1:44) D.Brees pass short left to M.Thomas for 2 yards, TOUCHDOWN. Pass 2, YAC 0",1st & 2 at PHI 2
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,3RD QUARTER,2,NO,1,23,1,Extra Point Good,"W.Lutz extra point is GOOD, Center-Z.Wood, Holder-T.Morstead.",XP attempt from PHI 15
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,1,PHI,0,1,0,Kickoff,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",Kickoff from NO 35
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,1,PHI,0,2,0,3 Yard Run,"(1:40) (Shotgun) W.Smallwood right guard to PHI 28 for 3 yards (D.Onyemata, T.Davison).",1st & 10 at PHI 25
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,1,PHI,0,3,0,-5 Yard Penalty,"(1:01) (Shotgun) PENALTY on PHI-I.Seumalo, False Start, 5 yards, enforced at PHI 28 - No Play.",2nd & 7 at PHI 28
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,1,PHI,0,4,0,17 Yard Pass,"(:36) (Shotgun) N.Foles pass short middle to Z.Ertz to PHI 40 for 17 yards (M.Williams). Pass 14, YAC 3",2nd & 12 at PHI 23
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,1,PHI,0,5,0,Pass Incomplete,(15:00) (Shotgun) N.Foles pass incomplete deep left to A.Jeffery [P.Williams].,1st & 10 at PHI 40
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,1,PHI,0,6,0,2 Yard Pass,"(14:55) (Shotgun) N.Foles pass short right to D.Sproles to PHI 42 for 2 yards (M.Lattimore). Pass -5, YAC 7",2nd & 10 at PHI 40
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,1,PHI,0,7,0,Pass Incomplete,(14:13) (Shotgun) N.Foles pass incomplete deep right to G.Tate (P.Williams).,3rd & 8 at PHI 42
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,1,PHI,0,8,0,Punt,"(14:06) C.Johnston punts 41 yards to NO 17, Center-R.Lovato, fair catch by T.Lewis. PHI-K.Grugier-Hill was injured during the play.",4th & 8 at PHI 42
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,2,NO,1,1,0,5 Yard Pass,"(13:59) (Shotgun) D.Brees pass short right to A.Kamara ran ob at NO 22 for 5 yards (T.Sullivan). Pass -6, YAC 11",1st & 10 at NO 17
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,2,NO,1,2,0,Pass Incomplete,(13:26) (Shotgun) D.Brees pass incomplete short right to M.Thomas.,2nd & 5 at NO 22
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,2,NO,1,3,0,15 Yard Pass,"(13:21) (Shotgun) D.Brees pass short right to T.Smith to NO 37 for 15 yards (T.Sullivan) [M.Bennett]. Pass 13, YAC 2",3rd & 5 at NO 22
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,2,NO,1,4,0,36 Yard Run,(12:35) M.Ingram right guard to PHI 27 for 36 yards (C.LeBlanc; C.Graham).,1st & 10 at NO 37
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,2,NO,1,5,0,3 Yard Run,(11:53) M.Ingram right guard to PHI 24 for 3 yards (N.Bradham).,1st & 10 at PHI 27
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,2,NO,1,6,0,Pass Incomplete,(11:12) (Shotgun) D.Brees pass incomplete deep right to M.Thomas.,2nd & 7 at PHI 24
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,2,NO,1,7,0,3 Yard Pass,"(11:07) (Shotgun) D.Brees pass short left to A.Kamara pushed ob at PHI 21 for 3 yards (C.LeBlanc). Pass -4, YAC 7",3rd & 7 at PHI 24
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,2,NO,1,8,1,Field Goal,"(10:32) W.Lutz 39 yard field goal is GOOD, Center-Z.Wood, Holder-T.Morstead.",4th & 4 at PHI 21
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,3,PHI,0,1,0,Kickoff,W.Lutz kicks 63 yards from NO 35 to PHI 2. B.Scott to PHI 21 for 19 yards (T.Hill; K.Coleman).,Kickoff from NO 35
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,3,PHI,0,2,0,5 Yard Pass,"(10:21) (Shotgun) N.Foles pass short middle to A.Jeffery to PHI 26 for 5 yards (P.Williams; D.Davis). Pass 4, YAC 1",1st & 10 at PHI 21
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,3,PHI,0,3,0,Pass Incomplete,(9:41) (Shotgun) N.Foles pass incomplete deep left to N.Agholor.,2nd & 5 at PHI 26
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,3,PHI,0,4,0,4 Yard Penalty,"(9:37) (Shotgun) N.Foles pass incomplete short right to Z.Ertz.
+PENALTY on NO-P.Williams, Defensive Pass Interference, 4 yards, enforced at PHI 26 - No Play.",3rd & 5 at PHI 26
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,3,PHI,0,5,0,2 Yard Pass,"(9:33) (Shotgun) N.Foles pass short right to Z.Ertz to PHI 32 for 2 yards (D.Davis). Pass 1, YAC 1",1st & 10 at PHI 30
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,3,PHI,0,6,0,Pass Incomplete,(8:56) (Shotgun) N.Foles pass incomplete short right to G.Tate (E.Apple).,2nd & 8 at PHI 32
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,3,PHI,0,7,0,Pass Incomplete,(8:50) (Shotgun) N.Foles pass incomplete short left to J.Matthews.,3rd & 8 at PHI 32
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,3,PHI,0,8,0,Punt,"(8:45) C.Johnston punts 43 yards to NO 25, Center-R.Lovato, fair catch by T.Lewis.",4th & 8 at PHI 32
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,4,NO,0,1,0,9 Yard Pass,"(8:38) D.Brees pass short right to M.Thomas to NO 34 for 9 yards (N.Bradham; A.Maddox). Pass 5, YAC 4",1st & 10 at NO 25
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,4,NO,0,2,0,1 Yard Run,(7:59) D.Brees left guard to NO 35 for 1 yard (N.Bradham).,2nd & 1 at NO 34
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,4,NO,0,3,0,2 Yard Run,(7:20) M.Ingram right tackle to NO 37 for 2 yards (A.Maddox). PHI-A.Maddox was injured during the play.,1st & 10 at NO 35
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,4,NO,0,4,0,-5 Yard Pass,"(6:50) D.Brees pass short right to J.Hill to NO 32 for -5 yards (M.Jenkins). Pass -5, YAC 0",2nd & 8 at NO 37
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,4,NO,0,5,0,22 Yard Pass,"(6:06) (Shotgun) D.Brees pass deep middle to M.Thomas to PHI 46 for 22 yards (J.Hawkins). Pass 18, YAC 4",3rd & 13 at NO 32
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,4,NO,0,6,0,13 Yard Run,"(5:22) A.Kamara left tackle to PHI 33 for 13 yards (M.Jenkins, C.Graham).",1st & 10 at PHI 46
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,4,NO,0,7,0,1 Yard Run,(4:34) A.Kamara left tackle to PHI 32 for 1 yard (F.Cox).,1st & 10 at PHI 33
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,4,NO,0,8,0,1 Yard Pass,"(3:53) (Shotgun) D.Brees pass short middle to M.Ingram to PHI 31 for 1 yard (J.Hicks) [C.Long]. Pass 1, YAC 0",2nd & 9 at PHI 32
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,4,NO,0,9,0,-3 Yard Run,(3:08) A.Kamara right tackle to PHI 34 for -3 yards (M.Bennett).,3rd & 8 at PHI 31
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,4,NO,0,10,0,Field Goal No Good,"(3:03) W.Lutz 52 yard field goal is No Good, Wide Right, Center-Z.Wood, Holder-T.Morstead.",4th & 11 at PHI 34
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,5,PHI,0,1,0,Pass Incomplete,(2:58) (Shotgun) N.Foles pass incomplete short middle to G.Tate.,1st & 10 at PHI 42
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,5,PHI,0,2,0,16 Yard Pass,"(2:53) (Shotgun) N.Foles pass short middle to Z.Ertz to NO 42 for 16 yards (M.Davenport). Pass 13, YAC 3",2nd & 10 at PHI 42
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,5,PHI,0,3,0,15 Yard Penalty,"(2:28) (No Huddle, Shotgun) N.Foles pass incomplete short left to Z.Ertz [M.Davenport].
+PENALTY on NO-M.Davenport, Roughing the Passer, 15 yards, enforced at NO 42 - No Play.",1st & 10 at NO 42
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,5,PHI,0,4,0,Run for No Gain,(2:25) (Shotgun) D.Sproles right guard to NO 27 for no gain (T.Stallworth).,1st & 10 at NO 27
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,5,PHI,0,5,0,Interception,"(2:01) (No Huddle, Shotgun) N.Foles pass short left intended for A.Jeffery INTERCEPTED by M.Lattimore at NO 19. M.Lattimore to NO 33 for 14 yards (G.Tate).",2nd & 10 at NO 27
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,6,NO,0,1,0,Run for No Gain,(1:52) A.Kamara right tackle to NO 33 for no gain (F.Cox).,1st & 10 at NO 33
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,6,NO,0,2,0,Run for No Gain,(1:47) A.Kamara left tackle to NO 33 for no gain (J.Hicks; L.Reynolds).,2nd & 10 at NO 33
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,6,NO,0,3,0,12 Yard Run,(1:03) A.Kamara right guard to NO 45 for 12 yards (M.Jenkins).,3rd & 10 at NO 33
+2018,Divisional Playoffs,SUN,01/13,Eagles,Saints,4TH QUARTER,6,NO,0,4,0,-1 Yard Run,(:16) D.Brees kneels to NO 44 for -1 yards.,1st & 10 at NO 45

@@ -1,0 +1,183 @@
+Season,Week,Day,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayDescription,PlayStart
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,1,TB,0,1,0,Kickoff,H.Butker kicks 68 yards from KC 35 to TB -3. J.Mickens to TB 23 for 26 yards (D.O'Daniel).,Kickoff from KC 35
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,1,TB,0,2,0,1 Yard Pass,(14:56) T.Brady pass short left to C.Godwin to TB 24 for 1 yard (B.Breeland).,1st & 10 at TB 23
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,1,TB,0,3,0,3 Yard Run,(14:23) L.Fournette right tackle to TB 27 for 3 yards (C.Jones).,2nd & 9 at TB 24
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,1,TB,0,4,0,Pass Incomplete,(13:48) (Shotgun) T.Brady pass incomplete short left to C.Godwin.,3rd & 6 at TB 27
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,1,TB,0,5,0,Punt,"(13:43) B.Pinion punts 40 yards to KC 33, Center-Z.Triner, downed by TB-K.Minter.",4th & 6 at TB 27
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,2,KC,0,1,0,3 Yard Pass,(13:33) (Shotgun) P.Mahomes pass short right to B.Pringle to KC 36 for 3 yards (C.Davis; S.Murphy-Bunting).,1st & 10 at KC 33
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,2,KC,0,2,0,Pass Incomplete,(12:52) (Shotgun) P.Mahomes pass incomplete short middle [S.Barrett].,2nd & 7 at KC 36
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,2,KC,0,3,0,11 Yard Run,(12:48) (Shotgun) P.Mahomes scrambles left end ran ob at KC 47 for 11 yards (A.Winfield).,3rd & 7 at KC 36
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,2,KC,0,4,0,2 Yard Run,(12:11) (Shotgun) P.Mahomes scrambles left end ran ob at KC 49 for 2 yards (J.Pierre-Paul).,1st & 10 at KC 47
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,2,KC,0,5,0,Pass Incomplete,(11:38) (Shotgun) P.Mahomes pass incomplete deep left to M.Hardman.,2nd & 8 at KC 49
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,2,KC,0,6,0,Pass Incomplete,(11:34) (Shotgun) P.Mahomes pass incomplete deep right to M.Hardman.,3rd & 8 at KC 49
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,2,KC,0,7,0,Punt,"(11:29) T.Townsend punts 51 yards to end zone, Center-J.Winchester, Touchback.",4th & 8 at KC 49
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,3,TB,0,1,0,13 Yard Run,(11:21) R.Jones right tackle to TB 33 for 13 yards (T.Mathieu).,1st & 10 at TB 20
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,3,TB,0,2,0,-3 Yard Run,(10:41) S.Miller left end to TB 30 for -3 yards (F.Clark).,1st & 10 at TB 33
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,3,TB,0,3,0,5 Yard Pass,(10:03) (Shotgun) T.Brady pass short left to C.Brate to TB 35 for 5 yards (D.Wilson).,2nd & 13 at TB 30
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,3,TB,0,4,0,-6 Yard Sack,(9:22) (Shotgun) T.Brady sacked at TB 29 for -6 yards (F.Clark).,3rd & 8 at TB 35
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,3,TB,0,5,0,Punt,"(8:41) B.Pinion punts 33 yards to KC 38, Center-Z.Triner, out of bounds.",4th & 14 at TB 29
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,4,KC,1,1,0,5 Yard Run,(8:33) T.Hill left end ran ob at KC 43 for 5 yards (J.Dean).,1st & 10 at KC 38
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,4,KC,1,2,0,5 Yard Run,(8:03) (Shotgun) C.Edwards-Helaire right guard to KC 48 for 5 yards (D.White).,2nd & 5 at KC 43
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,4,KC,1,3,0,11 Yard Run,(7:21) (Shotgun) P.Mahomes scrambles left end ran ob at TB 41 for 11 yards (L.David).,1st & 10 at KC 48
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,4,KC,1,4,0,6 Yard Run,(6:51) (Shotgun) C.Edwards-Helaire up the middle to TB 35 for 6 yards (J.Whitehead).,1st & 10 at TB 41
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,4,KC,1,5,0,5 Yard Penalty,"(6:13) (Shotgun) P.Mahomes pass incomplete deep middle to B.Pringle (S.Murphy-Bunting).
+PENALTY on TB-J.Pierre-Paul, Defensive Offside, 5 yards, enforced at TB 35 - No Play.",2nd & 4 at TB 35
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,4,KC,1,6,0,Pass Incomplete,(6:06) (Shotgun) P.Mahomes pass incomplete short left to M.Hardman.,1st & 10 at TB 30
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,4,KC,1,7,0,-1 Yard Run,(6:03) (Shotgun) C.Edwards-Helaire left end to TB 31 for -1 yards (D.White).,2nd & 10 at TB 30
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,4,KC,1,8,0,Pass Incomplete,(5:22) (Shotgun) P.Mahomes pass incomplete deep left to T.Hill.,3rd & 11 at TB 31
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,4,KC,1,9,1,Field Goal,"(5:14) H.Butker 49 yard field goal is GOOD, Center-J.Winchester, Holder-T.Townsend.",4th & 11 at TB 31
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,5,TB,1,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,5,TB,1,2,0,3 Yard Run,(5:10) J.Haeg reported in as eligible.  L.Fournette up the middle to TB 28 for 3 yards (T.Kpassagnon).,1st & 10 at TB 25
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,5,TB,1,3,0,6 Yard Run,(4:37) L.Fournette right guard to TB 34 for 6 yards (M.Danna; T.Wharton).,2nd & 7 at TB 28
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,5,TB,1,4,0,6 Yard Run,(3:56) L.Fournette left guard to TB 40 for 6 yards (D.Sorensen; T.Wharton).,3rd & 1 at TB 34
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,5,TB,1,5,0,5 Yard Penalty,"(3:19) J.Haeg reported in as eligible.  T.Brady pass incomplete deep left to M.Evans.
+PENALTY on KC-B.Breeland, Defensive Holding, 5 yards, enforced at TB 40 - No Play.",1st & 10 at TB 40
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,5,TB,1,6,0,16 Yard Pass,(3:14) T.Brady pass deep right to A.Brown to KC 39 for 16 yards (C.Ward).,1st & 10 at TB 45
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,5,TB,1,7,0,15 Yard Pass,(2:34) T.Brady pass short left to C.Brate to KC 24 for 15 yards (D.Wilson).,1st & 10 at KC 39
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,5,TB,1,8,0,11 Yard Run,(1:54) L.Fournette right guard to KC 13 for 11 yards (C.Ward; L.Sneed).,1st & 10 at KC 24
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,5,TB,1,9,0,5 Yard Pass,(1:11) T.Brady pass short left to A.Brown pushed ob at KC 8 for 5 yards (B.Breeland).,1st & 10 at KC 13
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,5,TB,1,10,0,Touchdown Buccaneers,"(:41) (Shotgun) T.Brady pass short left to R.Gronkowski for 8 yards, TOUCHDOWN.",2nd & 5 at KC 8
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,1ST QUARTER,5,TB,1,11,1,Extra Point Good,"R.Succop extra point is GOOD, Center-Z.Triner, Holder-B.Pinion.",XP attempt from KC 15
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,1,KC,0,1,0,Kickoff,B.Pinion kicks 69 yards from TB 35 to KC -4. B.Pringle pushed ob at KC 37 for 41 yards (B.Pinion).,Kickoff from TB 35
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,1,KC,0,2,0,Pass Incomplete,(:30) (Shotgun) P.Mahomes pass incomplete short right to Darr.Williams (J.Pierre-Paul).,1st & 10 at KC 37
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,1,KC,0,3,0,6 Yard Pass,(:26) (Shotgun) P.Mahomes pass short right to T.Kelce to KC 43 for 6 yards (L.David).,2nd & 10 at KC 37
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,1,KC,0,4,0,Pass Incomplete,(15:00) (Shotgun) P.Mahomes pass incomplete short right to Darr.Williams.,3rd & 4 at KC 43
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,1,KC,0,5,0,Punt,"(14:56) T.Townsend punts 27 yards to TB 30, Center-J.Winchester, out of bounds.",4th & 4 at KC 43
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,2,TB,0,1,0,Pass Incomplete,(14:50) T.Brady pass incomplete short right to R.Jones.,1st & 10 at TB 30
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,2,TB,0,2,0,18 Yard Pass,"(14:46) (Shotgun) T.Brady pass short right to R.Gronkowski pushed ob at TB 33 for 3 yards (D.Wilson).
+PENALTY on KC-C.Jones, Unnecessary Roughness, 15 yards, enforced at TB 33.",2nd & 10 at TB 30
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,2,TB,0,3,0,7 Yard Run,(14:24) J.Haeg reported in as eligible.  R.Jones right tackle to KC 45 for 7 yards (B.Niemann; D.Sorensen).,1st & 10 at TB 48
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,2,TB,0,4,0,8 Yard Run,(13:43) R.Jones right tackle to KC 37 for 8 yards (A.Okafor; C.Ward).,2nd & 3 at KC 45
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,2,TB,0,5,0,31 Yard Pass,(13:06) J.Haeg reported in as eligible.  T.Brady pass deep middle to M.Evans pushed ob at KC 6 for 31 yards (D.Sorensen).,1st & 10 at KC 37
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,2,TB,0,6,0,4 Yard Run,(12:25) R.Jones up the middle to KC 2 for 4 yards (C.Jones).,1st & 6 at KC 6
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,2,TB,0,7,0,Pass Incomplete,(11:46) J.Haeg and V.Vea reported in as eligible.  T.Brady pass incomplete short left to J.Haeg (A.Hitchens).,2nd & 2 at KC 2
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,2,TB,0,8,0,1 Yard Run,(11:42) J.Haeg and V.Vea reported in as eligible.  R.Jones right guard to KC 1 for 1 yard (D.Wilson; T.Kpassagnon).,3rd & 2 at KC 2
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,2,TB,0,9,0,Turnover on Downs,"(10:55) J.Haeg and V.Vea reported in as eligible.  R.Jones right guard to KC 1 for no gain (D.Wilson; B.Niemann).
+Tampa Bay challenged the short of the goal line ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2 at 10:50.)",4th & 1 at KC 1
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,3,KC,0,1,0,14 Yard Pass,(10:50) (Shotgun) P.Mahomes pass short middle to T.Hill to KC 15 for 14 yards (J.Whitehead).,1st & 10 at KC 1
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,3,KC,0,2,0,Pass Incomplete,(10:09) (Shotgun) P.Mahomes pass incomplete short right to M.Hardman.,1st & 10 at KC 15
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,3,KC,0,3,0,2 Yard Run,(10:05) (Shotgun) Darr.Williams right tackle to KC 17 for 2 yards (V.Vea).,2nd & 10 at KC 15
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,3,KC,0,4,0,Pass Incomplete,(9:24) (Shotgun) P.Mahomes pass incomplete deep right to T.Kelce [A.Nelson].,3rd & 8 at KC 17
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,3,KC,0,5,0,Punt,"(9:09) T.Townsend punts 29 yards to KC 38, Center-J.Winchester, out of bounds.",4th & 16 at KC 9
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,4,TB,1,1,0,-3 Yard Pass,(9:03) (Shotgun) T.Brady pass short middle to A.Brown to KC 41 for -3 yards (D.Wilson).,1st & 10 at KC 38
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,4,TB,1,2,0,9 Yard Pass,(8:25) (Shotgun) T.Brady pass short right to R.Gronkowski pushed ob at KC 32 for 9 yards (D.Sorensen).,2nd & 13 at KC 41
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,4,TB,1,3,0,5 Yard Penalty,"(7:55) (Shotgun) T.Brady pass short right intended for M.Evans INTERCEPTED by T.Mathieu (C.Jones) at KC 30. T.Mathieu to KC 30 for no gain (L.Fournette).
+PENALTY on KC-C.Ward, Defensive Holding, 5 yards, enforced at KC 32 - No Play.",3rd & 4 at KC 32
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,4,TB,1,4,0,1 Yard Run,(7:47) L.Fournette up the middle to KC 26 for 1 yard (C.Jones).,1st & 10 at KC 27
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,4,TB,1,5,0,4 Yard Pass,(7:05) (Shotgun) T.Brady pass short right to L.Fournette to KC 22 for 4 yards (B.Niemann).,2nd & 9 at KC 26
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,4,TB,1,6,0,Pass Incomplete,(6:19) (Shotgun) T.Brady pass incomplete short middle to T.Johnson.,3rd & 5 at KC 22
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,4,TB,1,7,0,Touchdown Buccaneers,"(6:11) T.Brady pass deep right to R.Gronkowski for 17 yards, TOUCHDOWN.
+Penalty on KC-B.Breeland, Defensive Holding, declined.",1st & 10 at KC 17
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,4,TB,1,8,1,Extra Point Good,"R.Succop extra point is GOOD, Center-Z.Triner, Holder-B.Pinion.",XP attempt from KC 15
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,5,KC,1,1,0,Kickoff,"B.Pinion kicks 65 yards from TB 35 to end zone, Touchback.",Kickoff from TB 35
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,5,KC,1,2,0,13 Yard Pass,(6:05) (Shotgun) P.Mahomes pass short middle to T.Kelce to KC 38 for 13 yards (D.White).,1st & 10 at KC 25
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,5,KC,1,3,0,4 Yard Pass,(5:25) (Shotgun) P.Mahomes pass short left to M.Hardman to KC 42 for 4 yards (D.White; S.Murphy-Bunting).,1st & 10 at KC 38
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,5,KC,1,4,0,12 Yard Pass,(4:46) (Shotgun) P.Mahomes pass short middle to T.Kelce to TB 46 for 12 yards (L.David) [S.McLendon].,2nd & 6 at KC 42
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,5,KC,1,5,0,10 Yard Run,(4:00) (Shotgun) P.Mahomes scrambles left end ran ob at TB 36 for 10 yards (L.David).,1st & 10 at TB 46
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,5,KC,1,6,0,7 Yard Run,(3:24) (Shotgun) C.Edwards-Helaire up the middle to TB 29 for 7 yards (J.Dean).,1st & 10 at TB 36
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,5,KC,1,7,0,11 Yard Pass,(2:42) (Shotgun) P.Mahomes pass short middle to T.Kelce to TB 18 for 11 yards (J.Pierre-Paul).,2nd & 3 at TB 29
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,5,KC,1,8,0,-1 Yard Pass,(2:00) (Shotgun) P.Mahomes pass short right to T.Hill pushed ob at TB 19 for -1 yards (D.White).,1st & 10 at TB 18
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,5,KC,1,9,0,5 Yard Pass,(1:52) (Shotgun) P.Mahomes pass short left to T.Kelce to TB 14 for 5 yards (L.David).,2nd & 11 at TB 19
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,5,KC,1,10,0,Pass Incomplete,(1:10) (Shotgun) P.Mahomes pass incomplete short right.,3rd & 6 at TB 14
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,5,KC,1,11,1,Field Goal,"(1:04) H.Butker 34 yard field goal is GOOD, Center-J.Winchester, Holder-T.Townsend.",4th & 6 at TB 14
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,6,TB,1,1,0,Kickoff,H.Butker kicks 64 yards from KC 35 to TB 1. J.Mickens to TB 29 for 28 yards (A.Sherman).,Kickoff from KC 35
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,6,TB,1,2,0,Run for No Gain,(:55) (Shotgun) L.Fournette up the middle to TB 29 for no gain (F.Clark; C.Jones).,1st & 10 at TB 29
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,6,TB,1,3,0,8 Yard Pass,(:49) (Shotgun) T.Brady pass short right to C.Godwin to TB 37 for 8 yards (L.Sneed).,2nd & 10 at TB 29
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,6,TB,1,4,0,5 Yard Pass,(:44) (Shotgun) T.Brady pass short right to R.Gronkowski to TB 42 for 5 yards (C.Ward).,3rd & 2 at TB 37
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,6,TB,1,5,0,34 Yard Penalty,"(:24) (No Huddle, Shotgun) T.Brady pass incomplete deep left to M.Evans.
+PENALTY on KC-B.Breeland, Defensive Pass Interference, 34 yards, enforced at TB 42 - No Play.",1st & 10 at TB 42
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,6,TB,1,6,0,15 Yard Pass,(:18) (Shotgun) T.Brady pass short middle to L.Fournette to KC 9 for 15 yards (B.Niemann).,1st & 10 at KC 24
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,6,TB,1,7,0,8 Yard Penalty,"(:13) (Shotgun) T.Brady pass incomplete short middle to M.Evans.
+PENALTY on KC-T.Mathieu, Defensive Pass Interference, 8 yards, enforced at KC 9 - No Play.",1st & 9 at KC 9
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,6,TB,1,8,0,Touchdown Buccaneers,"(:10) J.Haeg reported in as eligible.  T.Brady pass short right to A.Brown for 1 yard, TOUCHDOWN.
+PENALTY on KC-T.Mathieu, Unsportsmanlike Conduct, 15 yards, enforced between downs.",1st & 1 at KC 1
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,6,TB,1,9,1,Extra Point Good,"R.Succop extra point is GOOD, Center-Z.Triner, Holder-B.Pinion.",XP attempt from KC 15
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,7,KC,0,1,0,Kickoff,"B.Pinion kicks 50 yards from 50 to end zone, Touchback.",Kickoff from 50
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,2ND QUARTER,7,KC,0,2,0,-1 Yard Run,(:06) P.Mahomes kneels to KC 24 for -1 yards.,1st & 10 at KC 25
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,1,KC,1,1,0,Kickoff,B.Pinion kicks 67 yards from TB 35 to KC -2. B.Pringle pushed ob at KC 19 for 21 yards (C.Davis).,Kickoff from TB 35
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,1,KC,1,2,0,26 Yard Run,(14:54) (Shotgun) C.Edwards-Helaire up the middle to KC 45 for 26 yards (D.White).,1st & 10 at KC 19
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,1,KC,1,3,0,8 Yard Pass,(14:15) (Shotgun) P.Mahomes pass short middle to T.Kelce to TB 47 for 8 yards (D.White).,1st & 10 at KC 45
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,1,KC,1,4,0,10 Yard Run,(13:38) (Shotgun) C.Edwards-Helaire right tackle to TB 37 for 10 yards (A.Winfield).,2nd & 2 at TB 47
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,1,KC,1,5,0,3 Yard Run,"(12:58) (Shotgun) Darr.Williams right end to TB 34 for 3 yards (S.McLendon, D.White).",1st & 10 at TB 37
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,1,KC,1,6,0,Pass for No Gain,(12:18) (Shotgun) P.Mahomes pass short right to M.Hardman to TB 34 for no gain (C.Davis).,2nd & 7 at TB 34
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,1,KC,1,7,0,Pass Incomplete,(11:38) (Shotgun) P.Mahomes pass incomplete short middle to T.Kelce (L.David) [S.Barrett].,3rd & 7 at TB 34
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,1,KC,1,8,1,Field Goal,"(11:31) H.Butker 52 yard field goal is GOOD, Center-J.Winchester, Holder-T.Townsend.",4th & 7 at TB 34
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,2,TB,1,1,0,Kickoff,H.Butker kicks 60 yards from KC 35 to TB 5. J.Mickens to TB 26 for 21 yards (A.Watts).,Kickoff from KC 35
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,2,TB,1,2,0,3 Yard Run,(11:22) (Shotgun) L.Fournette left guard to TB 29 for 3 yards (D.Nnadi; C.Jones).,1st & 10 at TB 26
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,2,TB,1,3,0,3 Yard Pass,(10:39) (Shotgun) T.Brady pass short left to A.Brown to TB 32 for 3 yards (D.Sorensen).,2nd & 7 at TB 29
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,2,TB,1,4,0,12 Yard Pass,(9:55) (Shotgun) T.Brady pass short middle to L.Fournette to TB 44 for 12 yards (B.Niemann).,3rd & 4 at TB 32
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,2,TB,1,5,0,4 Yard Run,(9:17) J.Haeg reported in as eligible.  L.Fournette left end to TB 48 for 4 yards (D.Wilson; A.Hitchens).,1st & 10 at TB 44
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,2,TB,1,6,0,25 Yard Pass,(8:28) (Shotgun) T.Brady pass short middle to R.Gronkowski to KC 27 for 25 yards (J.Thornhill).,2nd & 6 at TB 48
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,2,TB,1,7,0,Touchdown Buccaneers,"(7:51) J.Haeg reported in as eligible.  L.Fournette right end for 27 yards, TOUCHDOWN.",1st & 10 at KC 27
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,2,TB,1,8,1,Extra Point Good,"R.Succop extra point is GOOD, Center-Z.Triner, Holder-B.Pinion.",XP attempt from KC 15
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,3,KC,0,1,0,Kickoff,B.Pinion kicks 65 yards from TB 35 to KC 0. B.Pringle to KC 25 for 25 yards (C.Gill).,Kickoff from TB 35
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,3,KC,0,2,0,3 Yard Run,(7:41) (Shotgun) C.Edwards-Helaire up the middle to KC 28 for 3 yards (J.Pierre-Paul).,1st & 10 at KC 25
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,3,KC,0,3,0,-6 Yard Sack,"(7:10) (No Huddle, Shotgun) P.Mahomes sacked at KC 22 for -6 yards (S.Barrett).",2nd & 7 at KC 28
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,3,KC,0,4,0,Interception,"(6:30) (Shotgun) P.Mahomes pass deep right intended for T.Hill INTERCEPTED by A.Winfield (M.Edwards) at KC 45. A.Winfield to KC 45 for no gain (T.Hill).
+Penalty on KC-A.Reiter, Offensive Holding, declined.",3rd & 13 at KC 22
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,4,TB,1,1,0,15 Yard Pass,(6:20) T.Brady pass short left to L.Fournette pushed ob at KC 30 for 15 yards (B.Breeland).,1st & 10 at KC 45
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,4,TB,1,2,0,6 Yard Run,(5:41) J.Haeg reported in as eligible.  L.Fournette right tackle to KC 24 for 6 yards (T.Mathieu).,1st & 10 at KC 30
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,4,TB,1,3,0,3 Yard Run,(4:57) J.Haeg reported in as eligible.  R.Jones right tackle to KC 21 for 3 yards (D.Nnadi).,2nd & 4 at KC 24
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,4,TB,1,4,0,2 Yard Run,(4:18) R.Jones right end pushed ob at KC 19 for 2 yards (L.Sneed).,3rd & 1 at KC 21
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,4,TB,1,5,0,Pass Incomplete,(3:44) J.Haeg reported in as eligible.  T.Brady pass incomplete deep right to T.Hudson.,1st & 10 at KC 19
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,4,TB,1,6,0,Pass Incomplete,(3:38) (Shotgun) T.Brady pass incomplete short left to C.Godwin [T.Wharton].,2nd & 10 at KC 19
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,4,TB,1,7,0,Run for No Gain,"(3:33) (Shotgun) T.Brady FUMBLES (Aborted) at KC 32, and recovers at KC 34.",3rd & 10 at KC 19
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,3RD QUARTER,4,TB,1,8,1,Field Goal,"(2:50) R.Succop 52 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",4th & 25 at KC 34
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,1,KC,0,1,0,Kickoff,"B.Pinion kicks 65 yards from TB 35 to end zone, Touchback.",Kickoff from TB 35
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,1,KC,0,2,0,5 Yard Penalty,"(2:46) (Shotgun) P.Mahomes pass incomplete deep right to T.Kelce (J.Whitehead).
+PENALTY on TB-C.Davis, Defensive Holding, 5 yards, enforced at KC 25 - No Play.",1st & 10 at KC 25
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,1,KC,0,3,0,5 Yard Pass,(2:35) (Shotgun) P.Mahomes pass short left to C.Edwards-Helaire to KC 35 for 5 yards (J.Dean).,1st & 10 at KC 30
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,1,KC,0,4,0,7 Yard Run,(2:02) (Shotgun) C.Edwards-Helaire left guard to KC 42 for 7 yards (M.Edwards).,2nd & 5 at KC 35
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,1,KC,0,5,0,-5 Yard Penalty,"(1:25) (Shotgun) PENALTY on KC-T.Hill, False Start, 5 yards, enforced at KC 42 - No Play.",1st & 10 at KC 42
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,1,KC,0,6,0,Pass Incomplete,(1:18) (Shotgun) P.Mahomes pass incomplete short middle to T.Kelce (L.David).,1st & 15 at KC 37
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,1,KC,0,7,0,21 Yard Pass,(1:13) (Shotgun) P.Mahomes pass short middle to T.Hill to TB 42 for 21 yards (S.Murphy-Bunting).,2nd & 15 at KC 37
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,1,KC,0,8,0,13 Yard Pass,(:34) (Shotgun) P.Mahomes pass short middle to S.Watkins to TB 29 for 13 yards (A.Winfield).,1st & 10 at TB 42
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,1,KC,0,9,0,Pass Incomplete,"(:05) (No Huddle, Shotgun) P.Mahomes pass incomplete short left to Darr.Williams.",1st & 10 at TB 29
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,1,KC,0,10,0,17 Yard Pass,(15:00) (Shotgun) P.Mahomes pass short middle to T.Kelce to TB 12 for 17 yards (M.Edwards).,2nd & 10 at TB 29
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,1,KC,0,11,0,1 Yard Run,"(14:43) (No Huddle, Shotgun) C.Edwards-Helaire right guard to TB 11 for 1 yard (D.White).",1st & 10 at TB 12
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,1,KC,0,12,0,Pass Incomplete,(14:05) (Shotgun) P.Mahomes pass incomplete short right to D.Robinson.,2nd & 9 at TB 11
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,1,KC,0,13,0,Pass Incomplete,(13:56) (Shotgun) P.Mahomes pass incomplete short left to B.Pringle (S.Murphy-Bunting) [S.Barrett].,3rd & 9 at TB 11
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,1,KC,0,14,0,Turnover on Downs,(13:43) (Shotgun) P.Mahomes pass incomplete short right to Darr.Williams [W.Gholston].,4th & 9 at TB 11
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,2,TB,0,1,0,4 Yard Run,"(13:32) J.Haeg reported in as eligible.  R.Jones up the middle to TB 16 for 4 yards (T.Kpassagnon, D.Wilson).",1st & 10 at TB 12
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,2,TB,0,2,0,7 Yard Run,(13:00) R.Jones left end to TB 23 for 7 yards (D.Wilson).,2nd & 6 at TB 16
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,2,TB,0,3,0,8 Yard Run,(12:20) J.Haeg reported in as eligible.  R.Jones up the middle to TB 31 for 8 yards (B.Niemann; T.Mathieu).,1st & 10 at TB 23
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,2,TB,0,4,0,4 Yard Run,(11:40) R.Jones up the middle to TB 35 for 4 yards (D.Wilson).,2nd & 2 at TB 31
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,2,TB,0,5,0,4 Yard Run,(10:56) J.Haeg reported in as eligible.  L.Fournette up the middle to TB 39 for 4 yards (D.Sorensen; B.Niemann).,1st & 10 at TB 35
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,2,TB,0,6,0,6 Yard Pass,(10:15) (Shotgun) T.Brady pass short left to C.Brate to TB 45 for 6 yards (B.Niemann).,2nd & 6 at TB 39
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,2,TB,0,7,0,8 Yard Run,(9:33) L.Fournette right end to KC 47 for 8 yards (C.Ward).,1st & 10 at TB 45
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,2,TB,0,8,0,1 Yard Run,(8:56) J.Haeg reported in as eligible.  L.Fournette left guard to KC 46 for 1 yard (F.Clark; D.Nnadi).,2nd & 2 at KC 47
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,2,TB,0,9,0,Pass Incomplete,(8:18) T.Brady pass incomplete deep left to R.Gronkowski.,3rd & 1 at KC 46
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,2,TB,0,10,0,Punt,"(8:12) B.Pinion punts 38 yards to KC 8, Center-Z.Triner, fair catch by M.Hardman.",4th & 1 at KC 46
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,3,KC,0,1,0,33 Yard Pass,(8:06) (Shotgun) P.Mahomes pass deep left to T.Kelce to KC 41 for 33 yards (A.Winfield).,1st & 10 at KC 8
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,3,KC,0,2,0,-8 Yard Sack,"(7:44) (No Huddle, Shotgun) P.Mahomes sacked at KC 33 for -8 yards (N.Suh).",1st & 10 at KC 41
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,3,KC,0,3,0,15 Yard Penalty,"(7:00) (Shotgun) P.Mahomes pass incomplete short middle to T.Kelce [J.Pierre-Paul].
+PENALTY on TB-N.Suh, Roughing the Passer, 15 yards, enforced at KC 33 - No Play.",2nd & 18 at KC 33
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,3,KC,0,4,0,12 Yard Pass,(6:52) (Shotgun) P.Mahomes pass short left to T.Kelce to TB 40 for 12 yards (D.White).,1st & 10 at KC 48
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,3,KC,0,5,0,Pass Incomplete,"(6:26) (No Huddle, Shotgun) P.Mahomes pass incomplete short left to Darr.Williams.",1st & 10 at TB 40
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,3,KC,0,6,0,9 Yard Pass,(6:22) (Shotgun) P.Mahomes pass short right to Darr.Williams to TB 31 for 9 yards (A.Winfield; C.Davis).,2nd & 10 at TB 40
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,3,KC,0,7,0,4 Yard Pass,(5:43) (Shotgun) P.Mahomes pass short middle to T.Hill to TB 27 for 4 yards (D.White; M.Edwards).,3rd & 1 at TB 31
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,3,KC,0,8,0,-10 Yard Penalty,"(5:18) (No Huddle, Shotgun) P.Mahomes pass short right to T.Hill to TB 20 for 7 yards (S.Murphy-Bunting).
+PENALTY on KC-M.Remmers, Offensive Holding, 10 yards, enforced at TB 27 - No Play.",1st & 10 at TB 27
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,3,KC,0,9,0,Pass Incomplete,(5:09) (Shotgun) P.Mahomes pass incomplete deep middle to T.Kelce (J.Dean).,1st & 20 at TB 37
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,3,KC,0,10,0,Sack,"(5:03) (Shotgun) P.Mahomes sacked at 50 for -13 yards (sack split by C.Gill and N.Suh). FUMBLES (C.Gill) [N.Suh], and recovers at 50.",2nd & 20 at TB 37
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,3,KC,0,11,0,23 Yard Pass,(4:17) (Shotgun) P.Mahomes pass short right to T.Hill pushed ob at TB 27 for 23 yards (S.Murphy-Bunting).,3rd & 33 at 50
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,3,KC,0,12,0,Turnover on Downs,"(4:06) (Shotgun) P.Mahomes pass incomplete deep right to T.Hill (A.Winfield).
+PENALTY on TB-A.Winfield, Taunting, 14 yards, enforced between downs.",4th & 10 at TB 27
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,4,TB,0,1,0,1 Yard Run,(3:58) J.Haeg reported in as eligible.  L.Fournette up the middle to TB 14 for 1 yard (D.Nnadi; B.Niemann).,1st & 10 at TB 13
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,4,TB,0,2,0,5 Yard Run,(3:52) L.Fournette up the middle to TB 19 for 5 yards (B.Breeland; D.Nnadi).,2nd & 9 at TB 14
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,4,TB,0,3,0,Pass Incomplete,(3:46) (Shotgun) T.Brady pass incomplete deep right to A.Brown.,3rd & 4 at TB 19
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,4,TB,0,4,0,Punt,"(3:41) B.Pinion punts 39 yards to KC 42, Center-Z.Triner. T.Hill ran ob at KC 42 for no gain (A.Nelson).",4th & 4 at TB 19
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,5,KC,0,1,0,Pass Incomplete,(3:30) (Shotgun) P.Mahomes pass incomplete short left to C.Edwards-Helaire.,1st & 10 at KC 42
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,5,KC,0,2,0,8 Yard Pass,(3:25) (Shotgun) P.Mahomes pass short middle to T.Hill to 50 for 8 yards (D.White; A.Winfield).,2nd & 10 at KC 42
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,5,KC,0,3,0,18 Yard Pass,"(3:05) (No Huddle, Shotgun) P.Mahomes pass short left to C.Edwards-Helaire to TB 32 for 18 yards (M.Edwards; S.Murphy-Bunting).",3rd & 2 at 50
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,5,KC,0,4,0,-10 Yard Penalty,"(2:41) (No Huddle, Shotgun) P.Mahomes pass incomplete short right to D.Robinson (C.Davis). TB-C.Davis was injured during the play. His return is Questionable. 
+PENALTY on KC-M.Remmers, Offensive Holding, 10 yards, enforced at TB 32 - No Play.",1st & 10 at TB 32
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,5,KC,0,5,0,16 Yard Pass,(2:37) (Shotgun) P.Mahomes pass deep left to T.Kelce to TB 26 for 16 yards (S.Murphy-Bunting).,1st & 20 at TB 42
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,5,KC,0,6,0,Pass Incomplete,"(2:21) (No Huddle, Shotgun) P.Mahomes pass incomplete deep left.",2nd & 4 at TB 26
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,5,KC,0,7,0,1 Yard Pass,(2:12) (Shotgun) P.Mahomes pass short left to Darr.Williams pushed ob at TB 25 for 1 yard (J.Dean).,3rd & 4 at TB 26
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,5,KC,0,8,0,11 Yard Pass,(2:07) (Shotgun) P.Mahomes pass short right to D.Robinson to TB 14 for 11 yards (C.Davis).,4th & 3 at TB 25
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,5,KC,0,9,0,4 Yard Pass,(2:00) (Shotgun) P.Mahomes pass short right to T.Hill to TB 10 for 4 yards (L.David).,1st & 10 at TB 14
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,5,KC,0,10,0,Interception,"(1:40) (No Huddle, Shotgun) P.Mahomes pass short right intended for T.Kelce INTERCEPTED by D.White at TB 0. Touchback.",2nd & 6 at TB 10
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,6,TB,0,1,0,-1 Yard Run,(1:33) T.Brady kneels to TB 19 for -1 yards.,1st & 10 at TB 20
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,6,TB,0,2,0,Run for No Gain,(:50) T.Brady kneels to TB 19 for no gain.,2nd & 11 at TB 19
+2020,Super Bowl,SUN,02/07,Chiefs,Buccaneers,4TH QUARTER,6,TB,0,3,0,-1 Yard Run,(:30) T.Brady kneels to TB 18 for -1 yards.,3rd & 11 at TB 19

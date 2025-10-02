@@ -1,0 +1,373 @@
+Season,Week,Day,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayDescription,PlayStart
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,1,WAS,1,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the WAS 30.",Kickoff from PHI 35
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,1,WAS,1,2,0,1 Yard Run,(15:00) (Shotgun) J.Daniels scrambles up the middle to WAS 31 for 1 yard (N.Smith; J.Davis).,1st & 10 at WAS 30
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,1,WAS,1,3,0,3 Yard Pass,"(14:25) (No Huddle, Shotgun) J.Daniels pass short right to Z.Ertz to WAS 34 for 3 yards (D.Slay).",2nd & 9 at WAS 31
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,1,WAS,1,4,0,7 Yard Pass,"(13:52) (No Huddle, Shotgun) J.Daniels pass short left to T.McLaurin to WAS 41 for 7 yards (Q.Mitchell).",3rd & 6 at WAS 34
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,1,WAS,1,5,0,Pass Incomplete,"(13:31) (No Huddle, Shotgun) J.Daniels pass incomplete short middle to A.Ekeler (M.Williams).",1st & 10 at WAS 41
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,1,WAS,1,6,0,4 Yard Pass,"(13:29) (No Huddle, Shotgun) J.Daniels pass short right to J.Bates to WAS 45 for 4 yards (C.Gardner-Johnson).",2nd & 10 at WAS 41
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,1,WAS,1,7,0,7 Yard Pass,"(12:48) (No Huddle, Shotgun) J.Daniels pass short left to O.Zaccheaus to PHI 48 for 7 yards (Z.Baun).",3rd & 6 at WAS 45
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,1,WAS,1,8,0,5 Yard Run,"(12:16) (No Huddle, Shotgun) B.Robinson left tackle to PHI 43 for 5 yards (Z.Baun; J.Sweat).",1st & 10 at PHI 48
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,1,WAS,1,9,0,Pass Incomplete,"(11:41) (No Huddle, Shotgun) J.Daniels pass incomplete short left to Z.Ertz.",2nd & 5 at PHI 43
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,1,WAS,1,10,0,Pass Incomplete,"(11:37) (No Huddle, Shotgun) J.Daniels pass incomplete deep right to A.Ekeler (C.DeJean).",3rd & 5 at PHI 43
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,1,WAS,1,11,0,7 Yard Pass,"(11:28) (No Huddle, Shotgun) J.Daniels pass short left to Z.Ertz pushed ob at PHI 36 for 7 yards (Z.Baun).",4th & 5 at PHI 43
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,1,WAS,1,12,0,5 Yard Pass,"(10:58) (No Huddle, Shotgun) J.Daniels pass short right to O.Zaccheaus to PHI 31 for 5 yards (Z.Baun).",1st & 10 at PHI 36
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,1,WAS,1,13,0,3 Yard Run,"(10:26) (No Huddle, Shotgun) B.Robinson right tackle to PHI 28 for 3 yards (M.Williams).",2nd & 5 at PHI 31
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,1,WAS,1,14,0,Pass Incomplete,"(9:55) (No Huddle, Shotgun) J.Daniels pass incomplete short left to O.Zaccheaus (Q.Mitchell).",3rd & 2 at PHI 28
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,1,WAS,1,15,0,5 Yard Run,"(9:50) (No Huddle, Shotgun) J.Daniels scrambles up the middle to PHI 23 for 5 yards (C.DeJean).",4th & 2 at PHI 28
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,1,WAS,1,16,0,1 Yard Run,"(9:10) (No Huddle, Shotgun) A.Ekeler left guard to PHI 22 for 1 yard (J.Carter; R.Blankenship).",1st & 10 at PHI 23
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,1,WAS,1,17,0,Pass Incomplete,"(8:33) (No Huddle, Shotgun) J.Daniels pass incomplete short right to J.Crowder.",2nd & 9 at PHI 22
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,1,WAS,1,18,0,6 Yard Pass,"(8:30) (No Huddle, Shotgun) J.Daniels pass short left to A.Ekeler pushed ob at PHI 16 for 6 yards (O.Burks; Q.Mitchell).",3rd & 9 at PHI 22
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,1,WAS,1,19,1,Field Goal,"(8:01) Z.Gonzalez 34 yard field goal is GOOD, Center-T.Ott, Holder-T.Way.",4th & 3 at PHI 16
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,2,PHI,1,1,0,Kickoff,Z.Gonzalez kicks 60 yards from WAS 35 to PHI 5. W.Shipley to PHI 40 for 35 yards (Q.Martin).,Kickoff from WAS 35
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,2,PHI,1,2,0,Touchdown Eagles,"(7:51) S.Barkley left end for 60 yards, TOUCHDOWN.",1st & 10 at PHI 40
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,2,PHI,1,3,1,Extra Point Good,"J.Elliott extra point is GOOD, Center-R.Lovato, Holder-B.Mann.",XP attempt from WAS 15
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,3,WAS,0,1,0,Kickoff,J.Elliott kicks 61 yards from PHI 35 to WAS 4. L.McCaffrey to WAS 27 for 23 yards (J.Hunt).,Kickoff from PHI 35
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,3,WAS,0,2,0,4 Yard Run,(7:31) (Shotgun) A.Ekeler left tackle to WAS 31 for 4 yards (O.Burks; Q.Mitchell).,1st & 10 at WAS 27
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,3,WAS,0,3,0,5 Yard Pass,"(7:03) (No Huddle, Shotgun) J.Daniels pass short middle to Z.Ertz to WAS 36 for 5 yards (Z.Baun).",2nd & 6 at WAS 31
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,3,WAS,0,4,0,3 Yard Run,"(6:19) (No Huddle, Shotgun) B.Robinson left guard to WAS 39 for 3 yards (C.Gardner-Johnson; Z.Baun).",3rd & 1 at WAS 36
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,3,WAS,0,5,0,Fumble,"(5:54) (No Huddle, Shotgun) J.Daniels pass short right to D.Brown to WAS 45 for 6 yards (Z.Baun; C.DeJean). FUMBLES (Z.Baun), RECOVERED by PHI-R.Blankenship at WAS 48.",1st & 10 at WAS 39
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,4,PHI,1,1,0,Pass Incomplete,(5:45) (Shotgun) J.Hurts pass incomplete short left to A.Brown (M.Lattimore).,1st & 10 at WAS 48
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,4,PHI,1,2,0,10 Yard Pass,"(5:38) (No Huddle, Shotgun) J.Hurts pass short right to D.Goedert to WAS 38 for 10 yards (M.Sainristil; J.Chinn).",2nd & 10 at WAS 48
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,4,PHI,1,3,0,20 Yard Pass,"(5:08) (No Huddle, Shotgun) J.Hurts pass deep left to D.Smith ran ob at WAS 18 for 20 yards.",1st & 10 at WAS 38
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,4,PHI,1,4,0,3 Yard Run,"(4:47) (No Huddle, Shotgun) K.Gainwell up the middle to WAS 15 for 3 yards (J.Allen).",1st & 10 at WAS 18
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,4,PHI,1,5,0,11 Yard Pass,"(4:14) (No Huddle, Shotgun) J.Hurts pass short right to A.Brown ran ob at WAS 4 for 11 yards (Q.Martin).",2nd & 7 at WAS 15
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,4,PHI,1,6,0,Touchdown Eagles,"(3:47) (No Huddle, Shotgun) S.Barkley right end for 4 yards, TOUCHDOWN.",1st & 4 at WAS 4
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,1ST QUARTER,4,PHI,1,7,1,Extra Point Good,"J.Elliott extra point is GOOD, Center-R.Lovato, Holder-B.Mann.",XP attempt from WAS 15
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,1,WAS,1,1,0,Kickoff,J.Elliott kicks 64 yards from PHI 35 to WAS 1. L.McCaffrey to WAS 27 for 26 yards (S.Brown; T.McCollum).,Kickoff from PHI 35
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,1,WAS,1,2,0,2 Yard Run,(3:37) (Shotgun) B.Robinson right guard to WAS 29 for 2 yards (N.Smith; M.Ojomo).,1st & 10 at WAS 27
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,1,WAS,1,3,0,2 Yard Run,"(3:08) (No Huddle, Shotgun) B.Robinson left guard to WAS 31 for 2 yards (O.Burks; M.Ojomo).",2nd & 8 at WAS 29
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,1,WAS,1,4,0,Pass Incomplete,(2:32) (Shotgun) J.Daniels pass incomplete deep right to T.McLaurin.,3rd & 6 at WAS 31
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,1,WAS,1,5,0,-6 Yard Sack,(1:42) (Shotgun) J.Daniels sacked at WAS 48 for -6 yards (O.Burks).,1st & 10 at PHI 46
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,1,WAS,1,6,0,24 Yard Pass,"(1:03) (No Huddle, Shotgun) J.Daniels pass short right to D.Brown to PHI 28 for 24 yards (O.Burks).",2nd & 16 at WAS 48
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,1,WAS,1,7,0,Run for No Gain,"(:26) (No Huddle, Shotgun) B.Robinson right guard to PHI 28 for no gain (Z.Baun).",1st & 10 at PHI 28
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,1,WAS,1,8,0,Pass Incomplete,(15:00) (Shotgun) J.Daniels pass incomplete deep right to D.Brown.,2nd & 10 at PHI 28
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,1,WAS,1,9,0,Pass Incomplete,"(14:54) (No Huddle, Shotgun) J.Daniels pass incomplete short left.",3rd & 10 at PHI 28
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,1,WAS,1,10,1,Field Goal,"(14:46) Z.Gonzalez 46 yard field goal is GOOD, Center-T.Ott, Holder-T.Way.",4th & 10 at PHI 28
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,2,PHI,0,1,0,Kickoff,Z.Gonzalez kicks 61 yards from WAS 35 to PHI 4. W.Shipley to PHI 29 for 25 yards (J.Chinn).,Kickoff from WAS 35
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,2,PHI,0,2,0,-3 Yard Run,(14:37) (Shotgun) S.Barkley up the middle to PHI 26 for -3 yards (J.Allen).,1st & 10 at PHI 29
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,2,PHI,0,3,0,15 Yard Pass,(14:00) (Shotgun) J.Hurts pass short right to A.Brown to PHI 41 for 15 yards (J.Chinn).,2nd & 13 at PHI 26
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,2,PHI,0,4,0,Pass Incomplete,"(13:29) (No Huddle, Shotgun) J.Hurts pass incomplete deep right to A.Brown (M.Sainristil).",1st & 10 at PHI 41
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,2,PHI,0,5,0,-5 Yard Penalty,"(13:21) (No Huddle, Shotgun) PENALTY on PHI-T.Steen, False Start, 5 yards, enforced at PHI 41 - No Play.",2nd & 10 at PHI 41
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,2,PHI,0,6,0,8 Yard Pass,(13:21) (Shotgun) J.Hurts pass short middle to K.Gainwell to PHI 44 for 8 yards (Q.Martin; F.Luvu).,2nd & 15 at PHI 36
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,2,PHI,0,7,0,15 Yard Pass,(12:33) (Shotgun) J.Hurts pass short left to D.Goedert to WAS 41 for 15 yards (B.Wagner).,3rd & 7 at PHI 44
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,2,PHI,0,8,0,1 Yard Run,"(11:59) (No Huddle, Shotgun) K.Gainwell left guard to WAS 40 for 1 yard (B.Wagner).",1st & 10 at WAS 41
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,2,PHI,0,9,0,8 Yard Pass,"(11:30) (No Huddle, Shotgun) J.Hurts pass short right to K.Gainwell to WAS 32 for 8 yards (Q.Martin; B.Wagner).",2nd & 9 at WAS 40
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,2,PHI,0,10,0,1 Yard Run,(11:02) (No Huddle) J.Hurts up the middle to WAS 31 for 1 yard (D.Fowler; C.Davis).,3rd & 1 at WAS 32
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,2,PHI,0,11,0,4 Yard Run,"(10:26) (No Huddle, Shotgun) K.Gainwell left guard to WAS 27 for 4 yards (C.Davis).",1st & 10 at WAS 31
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,2,PHI,0,12,0,Pass Incomplete,"(9:51) (No Huddle, Shotgun) J.Hurts pass incomplete short right.",2nd & 6 at WAS 27
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,2,PHI,0,13,0,-9 Yard Sack,(9:43) (Shotgun) J.Hurts sacked at WAS 36 for -9 yards (F.Luvu).,3rd & 6 at WAS 27
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,2,PHI,0,14,0,Field Goal No Good,"(8:55) J.Elliott 54 yard field goal is No Good, Wide Right, Center-R.Lovato, Holder-B.Mann.",4th & 15 at WAS 36
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,3,WAS,1,1,0,6 Yard Run,(8:49) (Shotgun) J.Daniels scrambles right end ran ob at 50 for 6 yards (O.Burks; J.Hunt).,1st & 10 at WAS 44
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,3,WAS,1,2,0,7 Yard Pass,"(8:19) (No Huddle, Shotgun) J.Daniels pass short middle to J.Bates to PHI 43 for 7 yards (R.Blankenship).",2nd & 4 at 50
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,3,WAS,1,3,0,7 Yard Run,"(7:55) (No Huddle, Shotgun) B.Robinson left tackle to PHI 36 for 7 yards (Z.Baun).",1st & 10 at PHI 43
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,3,WAS,1,4,0,Pass Incomplete,"(7:18) (No Huddle, Shotgun) J.Daniels pass incomplete short right to D.Brown (C.DeJean).",2nd & 3 at PHI 36
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,3,WAS,1,5,0,Touchdown Commanders,"(7:15) (No Huddle, Shotgun) J.Daniels pass short right to T.McLaurin for 36 yards, TOUCHDOWN.",3rd & 3 at PHI 36
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,3,WAS,1,6,1,2PT Conversion Fails,TWO-POINT CONVERSION ATTEMPT. J.Daniels pass to A.Ekeler is complete. ATTEMPT FAILS.,XP attempt from PHI 2
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,4,PHI,1,1,0,Kickoff,"Z.Gonzalez kicks 60 yards from WAS 35 to PHI 5. K.Gainwell MUFFS catch, and recovers at PHI 8. K.Gainwell to PHI 28 for 20 yards (K.Seymour; D.Forrest).",Kickoff from WAS 35
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,4,PHI,1,2,0,8 Yard Pass,(7:00) (Shotgun) J.Hurts pass short middle to D.Smith to PHI 36 for 8 yards (M.Sainristil; F.Luvu).,1st & 10 at PHI 28
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,4,PHI,1,3,0,1 Yard Run,(6:20) (Shotgun) S.Barkley left guard to PHI 37 for 1 yard (J.Holmes).,2nd & 2 at PHI 36
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,4,PHI,1,4,0,1 Yard Run,(5:44) J.Hurts up the middle to PHI 38 for 1 yard (C.Davis; J.Jean-Baptiste).,3rd & 1 at PHI 37
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,4,PHI,1,5,0,2 Yard Run,(4:59) F.Johnson reported in as eligible.  J.Hurts scrambles up the middle to PHI 40 for 2 yards (J.Allen).,1st & 10 at PHI 38
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,4,PHI,1,6,0,10 Yard Run,(4:13) (Shotgun) S.Barkley right end to 50 for 10 yards (M.Sainristil).,2nd & 8 at PHI 40
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,4,PHI,1,7,0,Run for No Gain,"(3:42) (No Huddle, Shotgun) J.Hurts left end to 50 for no gain (B.Wagner).",1st & 10 at 50
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,4,PHI,1,8,0,5 Yard Run,(2:57) (Shotgun) S.Barkley up the middle to WAS 45 for 5 yards (N.Igbinoghene; B.Wagner).,2nd & 10 at 50
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,4,PHI,1,9,0,Pass Incomplete,(2:20) (Shotgun) J.Hurts pass incomplete short right to S.Barkley (M.Sainristil).,3rd & 5 at WAS 45
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,4,PHI,1,10,0,31 Yard Pass,(2:14) (Shotgun) J.Hurts pass deep left to A.Brown pushed ob at WAS 14 for 31 yards (M.Lattimore).,4th & 5 at WAS 45
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,4,PHI,1,11,0,2 Yard Run,(2:00) S.Barkley left tackle to WAS 12 for 2 yards (C.Ferrell; J.Allen).,1st & 10 at WAS 14
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,4,PHI,1,12,0,Pass Incomplete,(1:56) (Shotgun) J.Hurts pass incomplete short middle to D.Goedert (M.Lattimore).,2nd & 8 at WAS 12
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,4,PHI,1,13,0,-5 Yard Penalty,"(1:51) (Shotgun) PENALTY on PHI-J.Hurts, False Start, 5 yards, enforced at WAS 12 - No Play.",3rd & 8 at WAS 12
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,4,PHI,1,14,0,16 Yard Penalty,"(1:51) (Shotgun) J.Hurts pass incomplete deep right to D.Smith (M.Lattimore).
+PENALTY on WAS-M.Lattimore, Defensive Pass Interference, 16 yards, enforced at WAS 17 - No Play.",3rd & 13 at WAS 17
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,4,PHI,1,15,0,Touchdown Eagles,"(1:45) J.Hurts up the middle for 1 yard, TOUCHDOWN.
+PENALTY on WAS-M.Lattimore, Unnecessary Roughness, 1 yard, enforced between downs.",1st & 1 at WAS 1
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,4,PHI,1,16,1,2PT Conversion Fails,TWO-POINT CONVERSION ATTEMPT. J.Hurts rushes up the middle. ATTEMPT FAILS.,XP attempt from WAS 1
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,5,WAS,0,1,0,Fumble,"J.Elliott kicks 60 yards from PHI 35 to WAS 5. J.McNichols to WAS 22 for 17 yards (W.Shipley). FUMBLES (W.Shipley), touched at WAS 22, RECOVERED by PHI-K.Gainwell at WAS 24.",Kickoff from PHI 35
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,6,PHI,1,1,0,7 Yard Pass,(1:36) (Shotgun) J.Hurts pass short right to D.Goedert to WAS 17 for 7 yards (J.Chinn).,1st & 10 at WAS 24
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,6,PHI,1,2,0,-7 Yard Run,"(1:12) (No Huddle, Shotgun) J.Hurts right end for 17 yards, TOUCHDOWN NULLIFIED by Penalty.
+PENALTY on PHI-L.Dickerson, Offensive Holding, 10 yards, enforced at WAS 14.",2nd & 3 at WAS 17
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,6,PHI,1,3,0,Pass Incomplete,(1:06) (Shotgun) J.Hurts pass incomplete short left.,2nd & 10 at WAS 24
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,6,PHI,1,4,0,14 Yard Pass,"(:57) (Shotgun) J.Hurts pass short right to S.Barkley ran ob at WAS 20 for 4 yards (M.Sainristil).
+PENALTY on WAS-M.Sainristil, Unnecessary Roughness, 10 yards, enforced at WAS 20.",3rd & 10 at WAS 24
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,6,PHI,1,5,0,6 Yard Run,(:52) (Shotgun) S.Barkley left guard to WAS 4 for 6 yards (J.Newton).,1st & 10 at WAS 10
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,6,PHI,1,6,0,Run for No Gain,(:47) (Shotgun) S.Barkley up the middle to WAS 4 for no gain (C.Davis).,2nd & 4 at WAS 4
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,6,PHI,1,7,0,Touchdown Eagles,"(:43) (Shotgun) J.Hurts pass short right to A.Brown for 4 yards, TOUCHDOWN.",3rd & 4 at WAS 4
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,6,PHI,1,8,1,Extra Point Good,"J.Elliott extra point is GOOD, Center-R.Lovato, Holder-B.Mann.",XP attempt from WAS 15
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,7,WAS,1,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the WAS 30.",Kickoff from PHI 35
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,7,WAS,1,2,0,3 Yard Pass,(:39) (Shotgun) J.Daniels pass short right to A.Ekeler pushed ob at WAS 33 for 3 yards (O.Burks).,1st & 10 at WAS 30
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,7,WAS,1,3,0,8 Yard Pass,"(:34) (No Huddle, Shotgun) J.Daniels pass short middle to Z.Ertz to WAS 41 for 8 yards (Z.Baun).",2nd & 7 at WAS 33
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,7,WAS,1,4,0,5 Yard Penalty,"(:21) (No Huddle) PENALTY on PHI-J.Carter, Encroachment, 5 yards, enforced at WAS 41 - No Play.",1st & 10 at WAS 41
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,7,WAS,1,5,0,19 Yard Run,"(:21) (No Huddle, Shotgun) J.Daniels scrambles left end pushed ob at PHI 35 for 19 yards (R.Blankenship).",1st & 5 at WAS 46
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,7,WAS,1,6,0,11 Yard Pass,(:13) (Shotgun) J.Daniels pass short left to Z.Ertz pushed ob at PHI 24 for 11 yards (I.Rodgers).,1st & 10 at PHI 35
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,7,WAS,1,7,1,Field Goal,"(:06) Z.Gonzalez 42 yard field goal is GOOD, Center-T.Ott, Holder-T.Way.",1st & 10 at PHI 24
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,2ND QUARTER,8,PHI,0,1,0,Kickoff,Z.Gonzalez kicks 66 yards from WAS 35 to PHI -1. K.Gainwell to PHI 18 for 19 yards (P.Butler).,Kickoff from WAS 35
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,1,PHI,0,1,0,Kickoff,Z.Gonzalez kicks 62 yards from WAS 35 to PHI 3. W.Shipley to PHI 31 for 28 yards (M.Walker). PHI-K.Gainwell was injured during the play.,Kickoff from WAS 35
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,1,PHI,0,2,0,-2 Yard Run,(14:55) (Shotgun) J.Hurts right end pushed ob at PHI 29 for -2 yards (B.Wagner).,1st & 10 at PHI 31
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,1,PHI,0,3,0,-7 Yard Sack,(14:15) (Shotgun) J.Hurts sacked at PHI 22 for -7 yards (D.Armstrong).,2nd & 12 at PHI 29
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,1,PHI,0,4,0,9 Yard Pass,(13:34) (Shotgun) J.Hurts pass short left to D.Goedert to PHI 31 for 9 yards (J.Allen; B.Wagner).,3rd & 19 at PHI 22
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,1,PHI,0,5,0,Punt,"(12:50) B.Mann punts 43 yards to WAS 26, Center-R.Lovato, downed by PHI-K.Blasingame.",4th & 10 at PHI 31
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,2,WAS,0,1,0,2 Yard Run,(12:39) (Shotgun) B.Robinson right tackle to WAS 28 for 2 yards (N.Smith).,1st & 10 at WAS 26
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,2,WAS,0,2,0,-12 Yard Sack,"(12:13) (No Huddle, Shotgun) J.Daniels sacked at WAS 16 for -12 yards (J.Davis).",2nd & 8 at WAS 28
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,2,WAS,0,3,0,7 Yard Pass,"(11:35) (No Huddle, Shotgun) J.Daniels pass short left to A.Ekeler to WAS 23 for 7 yards (M.Williams).",3rd & 20 at WAS 16
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,2,WAS,0,4,0,Punt,"(10:57) T.Way punts 45 yards to PHI 32, Center-T.Ott. C.DeJean to PHI 42 for 10 yards (C.Yankoff; N.Bellore).",4th & 13 at WAS 23
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,3,PHI,1,1,0,16 Yard Pass,(10:47) (Shotgun) J.Hurts pass short right to A.Brown to WAS 42 for 16 yards (M.Sainristil).,1st & 10 at PHI 42
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,3,PHI,1,2,0,7 Yard Pass,"(10:15) (No Huddle, Shotgun) J.Hurts pass short left to D.Goedert to WAS 35 for 7 yards (N.Igbinoghene).",1st & 10 at WAS 42
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,3,PHI,1,3,0,26 Yard Pass,"(9:44) (No Huddle, Shotgun) J.Hurts pass deep left to D.Goedert pushed ob at WAS 9 for 26 yards (M.Lattimore).",2nd & 3 at WAS 35
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,3,PHI,1,4,0,Touchdown Eagles,"(9:04) (No Huddle, Shotgun) J.Hurts left guard for 9 yards, TOUCHDOWN.",1st & 9 at WAS 9
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,3,PHI,1,5,1,Extra Point Good,"J.Elliott extra point is GOOD, Center-R.Lovato, Holder-B.Mann.",XP attempt from WAS 15
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,4,WAS,1,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the WAS 30.",Kickoff from PHI 35
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,4,WAS,1,2,0,12 Yard Pass,(8:58) (Shotgun) J.Daniels pass short middle to D.Brown to WAS 42 for 12 yards (D.Slay).,1st & 10 at WAS 30
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,4,WAS,1,3,0,6 Yard Run,"(8:27) (No Huddle, Shotgun) B.Robinson left guard to WAS 48 for 6 yards (C.Gardner-Johnson). PHI-J.Carter was injured during the play.",1st & 10 at WAS 42
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,4,WAS,1,4,0,21 Yard Pass,(8:02) (Shotgun) J.Daniels pass deep right to Z.Ertz pushed ob at PHI 31 for 21 yards (C.Gardner-Johnson).,2nd & 4 at WAS 48
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,4,WAS,1,5,0,4 Yard Run,"(7:25) (No Huddle, Shotgun) B.Robinson right guard to PHI 27 for 4 yards (Z.Baun; J.Carter). ** Injury Update: PHI-J.Carter has returned to the game.",1st & 10 at PHI 31
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,4,WAS,1,6,0,8 Yard Pass,"(6:50) (No Huddle, Shotgun) J.Daniels pass short left to O.Zaccheaus to PHI 19 for 8 yards (J.Sweat).",2nd & 6 at PHI 27
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,4,WAS,1,7,0,7 Yard Run,"(6:17) (No Huddle, Shotgun) J.Daniels up the middle to PHI 12 for 7 yards (R.Blankenship).",1st & 10 at PHI 19
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,4,WAS,1,8,0,2 Yard Run,"(5:36) (No Huddle, Shotgun) B.Robinson left guard to PHI 10 for 2 yards (C.Gardner-Johnson; C.DeJean).",2nd & 3 at PHI 12
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,4,WAS,1,9,0,Touchdown Commanders,"(5:07) (No Huddle, Shotgun) J.Daniels right tackle for 10 yards, TOUCHDOWN.",3rd & 1 at PHI 10
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,4,WAS,1,10,1,2PT Conversion Success,TWO-POINT CONVERSION ATTEMPT. J.Daniels pass to O.Zaccheaus is complete. ATTEMPT SUCCEEDS.,XP attempt from PHI 2
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,5,PHI,0,1,0,Kickoff,Z.Gonzalez kicks 58 yards from WAS 35 to PHI 7. I.Rodgers pushed ob at PHI 31 for 24 yards (J.Chinn; D.Forrest).,Kickoff from WAS 35
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,5,PHI,0,2,0,5 Yard Run,(4:58) (Shotgun) S.Barkley right tackle to PHI 36 for 5 yards (Q.Martin).,1st & 10 at PHI 31
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,5,PHI,0,3,0,Pass Incomplete,"(4:31) (No Huddle, Shotgun) J.Hurts pass incomplete short right [C.Ferrell].",2nd & 5 at PHI 36
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,5,PHI,0,4,0,11 Yard Pass,(4:22) (Shotgun) J.Hurts pass short right to D.Smith ran ob at PHI 47 for 11 yards (M.Lattimore).,3rd & 5 at PHI 36
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,5,PHI,0,5,0,11 Yard Pass,"(3:45) (No Huddle, Shotgun) J.Hurts pass short right to D.Goedert to WAS 42 for 11 yards (J.Chinn).",1st & 10 at PHI 47
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,5,PHI,0,6,0,Pass Incomplete,"(3:17) (No Huddle, Shotgun) J.Hurts pass incomplete short right.",1st & 10 at WAS 42
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,5,PHI,0,7,0,5 Yard Run,(3:08) S.Barkley left end to WAS 37 for 5 yards (B.St-Juste).,2nd & 10 at WAS 42
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,5,PHI,0,8,0,-3 Yard Run,"(2:29) (No Huddle, Shotgun) S.Barkley left guard to WAS 40 for -3 yards (F.Luvu).",3rd & 5 at WAS 37
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,5,PHI,0,9,0,Punt,"(1:44) B.Mann punts 40 yards to end zone, Center-R.Lovato, Touchback.",4th & 8 at WAS 40
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,6,WAS,0,1,0,16 Yard Pass,(1:34) (Shotgun) J.Daniels pass short middle to Z.Ertz to WAS 36 for 16 yards (R.Blankenship).,1st & 10 at WAS 20
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,6,WAS,0,2,0,Pass Incomplete,"(1:10) (No Huddle, Shotgun) J.Daniels pass incomplete short left to T.McLaurin (J.Davis).",1st & 10 at WAS 36
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,6,WAS,0,3,0,Pass Incomplete,"(1:06) (No Huddle, Shotgun) J.Daniels pass incomplete short left to Z.Ertz [J.Hunt].",2nd & 10 at WAS 36
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,6,WAS,0,4,0,13 Yard Pass,"(1:02) (No Huddle, Shotgun) J.Daniels pass short middle to Z.Ertz to WAS 49 for 13 yards (R.Blankenship).",3rd & 10 at WAS 36
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,3RD QUARTER,6,WAS,0,5,0,Fumble,"(:32) (No Huddle, Shotgun) J.Daniels pass short right to A.Ekeler to 50 for 1 yard (O.Burks). FUMBLES (O.Burks), touched at 50, RECOVERED by PHI-Z.Baun at PHI 49.",1st & 10 at WAS 49
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,1,PHI,1,1,0,19 Yard Pass,(:22) (Shotgun) J.Hurts pass short right to A.Brown pushed ob at WAS 32 for 19 yards (N.Igbinoghene).,1st & 10 at PHI 49
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,1,PHI,1,2,0,9 Yard Run,(15:00) D.Goedert right end to WAS 23 for 9 yards (J.Chinn).,1st & 10 at WAS 32
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,1,PHI,1,3,0,22 Yard Run,(14:17) (Shotgun) S.Barkley left tackle to WAS 1 for 22 yards (J.Chinn).,2nd & 1 at WAS 23
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,1,PHI,1,4,0,Penalty,"(13:43) (No Huddle, Shotgun) J.Hurts up the middle to WAS 1 for no gain (J.Newton; C.Ferrell).
+PENALTY on WAS-J.Allen, Defensive Offside, 0 yards, enforced at WAS 1 - No Play.",1st & 1 at WAS 1
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,1,PHI,1,5,0,Run for No Gain,(13:34) J.Hurts up the middle to WAS 1 for no gain (D.Armstrong; J.Chinn).,1st & 1 at WAS 1
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,1,PHI,1,6,0,Penalty,"(12:58) PENALTY on WAS-F.Luvu, Encroachment, 0 yards, enforced at WAS 1 - No Play.",2nd & 1 at WAS 1
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,1,PHI,1,7,0,Penalty,"(12:45) PENALTY on WAS-F.Luvu, Encroachment, 0 yards, enforced at WAS 1 - No Play.",2nd & 1 at WAS 1
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,1,PHI,1,8,0,Penalty,"(12:35) PENALTY on WAS-J.Allen, Encroachment, 0 yards, enforced at WAS 1 - No Play.",2nd & 1 at WAS 1
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,1,PHI,1,9,0,Touchdown Eagles,"(12:26) J.Hurts up the middle for 1 yard, TOUCHDOWN.",2nd & 1 at WAS 1
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,1,PHI,1,10,1,Extra Point Good,"J.Elliott extra point is GOOD, Center-R.Lovato, Holder-B.Mann.",XP attempt from WAS 15
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,2,WAS,0,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the WAS 30.",Kickoff from PHI 35
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,2,WAS,0,2,0,Pass Incomplete,(12:24) (Shotgun) J.Daniels pass incomplete short right.,1st & 10 at WAS 30
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,2,WAS,0,3,0,Pass Incomplete,"(12:18) (No Huddle, Shotgun) J.Daniels pass incomplete short right to Z.Ertz.",2nd & 10 at WAS 30
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,2,WAS,0,4,0,4 Yard Pass,"(12:14) (No Huddle, Shotgun) J.Daniels pass short right to J.Crowder to WAS 34 for 4 yards (C.DeJean).",3rd & 10 at WAS 30
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,2,WAS,0,5,0,7 Yard Pass,"(11:28) (No Huddle, Shotgun) J.Daniels pass short right to Z.Ertz to WAS 41 for 7 yards (R.Blankenship).",4th & 6 at WAS 34
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,2,WAS,0,6,0,Pass Incomplete,"(11:05) (No Huddle, Shotgun) J.Daniels pass incomplete short middle to J.Crowder.",1st & 10 at WAS 41
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,2,WAS,0,7,0,-1 Yard Run,"(11:01) (No Huddle, Shotgun) A.Ekeler left guard to WAS 40 for -1 yards (Z.Baun).",2nd & 10 at WAS 41
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,2,WAS,0,8,0,Pass Incomplete,"(10:30) (No Huddle, Shotgun) J.Daniels pass incomplete short right to L.McCaffrey (D.Slay).",3rd & 11 at WAS 40
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,2,WAS,0,9,0,Turnover on Downs,"(10:24) (No Huddle, Shotgun) J.Daniels sacked at WAS 31 for -9 yards (N.Smith).",4th & 11 at WAS 40
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,3,PHI,1,1,0,6 Yard Pass,(10:19) (Shotgun) J.Hurts pass short middle to D.Smith to WAS 25 for 6 yards (B.Wagner).,1st & 10 at WAS 31
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,3,PHI,1,2,0,Run for No Gain,(9:34) (Shotgun) S.Barkley left end to WAS 25 for no gain (J.Holmes).,2nd & 4 at WAS 25
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,3,PHI,1,3,0,17 Yard Penalty,"(8:50) (Shotgun) J.Hurts pass incomplete deep right to D.Goedert (J.Chinn).
+PENALTY on WAS-J.Chinn, Defensive Pass Interference, 17 yards, enforced at WAS 25 - No Play.",3rd & 4 at WAS 25
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,3,PHI,1,4,0,4 Yard Run,(8:45) D.Goedert right end to WAS 4 for 4 yards (B.Wagner; C.Davis).,1st & 8 at WAS 8
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,3,PHI,1,5,0,Touchdown Eagles,"(8:02) (Shotgun) S.Barkley right end for 4 yards, TOUCHDOWN.",2nd & 4 at WAS 4
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,3,PHI,1,6,1,Extra Point Good,"J.Elliott extra point is GOOD, Center-R.Lovato, Holder-B.Mann.",XP attempt from WAS 15
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,4,WAS,0,1,0,Kickoff,J.Elliott kicks 62 yards from PHI 35 to WAS 3. A.Ekeler to WAS 35 for 32 yards (J.Trotter).,Kickoff from PHI 35
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,4,WAS,0,2,0,8 Yard Pass,(7:51) (Shotgun) J.Daniels pass short right to T.McLaurin to WAS 43 for 8 yards (D.Slay).,1st & 10 at WAS 35
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,4,WAS,0,3,0,3 Yard Pass,"(7:33) (No Huddle, Shotgun) J.Daniels pass short left to Z.Ertz pushed ob at WAS 46 for 3 yards (Q.Mitchell).",2nd & 2 at WAS 43
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,4,WAS,0,4,0,5 Yard Penalty,"(7:06) (No Huddle, Shotgun) J.Daniels pass short left to Z.Ertz to PHI 49 for 5 yards (R.Blankenship).
+PENALTY on PHI-M.Ojomo, Defensive Offside, 5 yards, enforced at WAS 46 - No Play.",1st & 10 at WAS 46
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,4,WAS,0,5,0,Pass Incomplete,"(6:55) (No Huddle, Shotgun) J.Daniels pass incomplete short left to Z.Ertz (M.Williams).",1st & 5 at PHI 49
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,4,WAS,0,6,0,6 Yard Pass,"(6:52) (No Huddle, Shotgun) J.Daniels pass short left to O.Zaccheaus pushed ob at PHI 43 for 6 yards (C.DeJean).",2nd & 5 at PHI 49
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,4,WAS,0,7,0,Pass Incomplete,"(6:29) (No Huddle, Shotgun) J.Daniels pass incomplete short left to T.McLaurin.",1st & 10 at PHI 43
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,4,WAS,0,8,0,4 Yard Run,"(6:23) (No Huddle, Shotgun) A.Ekeler left tackle to PHI 39 for 4 yards (J.Hunt).",2nd & 10 at PHI 43
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,4,WAS,0,9,0,10 Yard Pass,"(5:54) (No Huddle, Shotgun) J.Daniels pass short right to Z.Ertz pushed ob at PHI 29 for 10 yards (C.DeJean). WAS-T.Biadasz was injured during the play. PHI-D.Slay was injured during the play.",3rd & 6 at PHI 39
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,4,WAS,0,10,0,Pass Incomplete,(5:36) (Shotgun) J.Daniels pass incomplete deep left to Z.Ertz.,1st & 10 at PHI 29
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,4,WAS,0,11,0,Pass for No Gain,"(5:31) (No Huddle, Shotgun) J.Daniels pass short right to A.Ekeler to PHI 29 for no gain (O.Burks). ** Injury Update: WAS-T.Biadasz has returned to the game.",2nd & 10 at PHI 29
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,4,WAS,0,12,0,Interception,"(4:57) (No Huddle, Shotgun) J.Daniels pass deep left intended for T.McLaurin INTERCEPTED by Q.Mitchell at PHI -2. Touchback.",3rd & 10 at PHI 29
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,5,PHI,1,1,0,16 Yard Run,(4:51) (Shotgun) W.Shipley left guard to PHI 36 for 16 yards (P.Butler).,1st & 10 at PHI 20
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,5,PHI,1,2,0,57 Yard Run,(4:44) (Shotgun) W.Shipley left tackle to WAS 7 for 57 yards (B.St-Juste).,1st & 10 at PHI 36
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,5,PHI,1,3,0,2 Yard Run,(3:53) (Shotgun) W.Shipley left guard to WAS 5 for 2 yards (J.Newton).,1st & 7 at WAS 7
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,5,PHI,1,4,0,3 Yard Penalty,"(3:11) (Shotgun) W.Shipley right tackle to WAS 6 for -1 yards (F.Luvu, J.Jean-Baptiste).
+PENALTY on WAS-F.Luvu, Defensive Offside, 3 yards, enforced at WAS 5 - No Play.",2nd & 5 at WAS 5
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,5,PHI,1,5,0,Touchdown Eagles,"(3:07) (Shotgun) W.Shipley left guard for 2 yards, TOUCHDOWN.",2nd & 2 at WAS 2
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,5,PHI,1,6,1,Extra Point Good,"J.Elliott extra point is GOOD, Center-R.Lovato, Holder-B.Mann.",XP attempt from WAS 15
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,6,WAS,0,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the WAS 30.",Kickoff from PHI 35
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,6,WAS,0,2,0,3 Yard Run,(3:03) (Shotgun) A.Ekeler up the middle to WAS 33 for 3 yards (J.Hunt).,1st & 10 at WAS 30
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,6,WAS,0,3,0,3 Yard Run,(2:24) (Shotgun) A.Ekeler up the middle to WAS 36 for 3 yards (J.Hunt).,2nd & 7 at WAS 33
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,6,WAS,0,4,0,1 Yard Run,(2:00) (Shotgun) A.Ekeler up the middle to WAS 37 for 1 yard (N.Morrow).,3rd & 4 at WAS 36
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,6,WAS,0,5,0,Turnover on Downs,(1:20) (Shotgun) A.Ekeler up the middle to WAS 37 for no gain (M.Ojomo).,4th & 3 at WAS 37
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,7,PHI,0,1,0,-2 Yard Run,(1:14) K.Pickett kneels to WAS 39 for -2 yards.,1st & 10 at WAS 37
+2024,Conference Championships,SUN,01/26,Commanders,Eagles,4TH QUARTER,7,PHI,0,2,0,-1 Yard Run,(:34) K.Pickett kneels to WAS 40 for -1 yards.,2nd & 12 at WAS 39
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,1,BUF,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback to the BUF 30.",Kickoff from KC 35
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,1,BUF,0,2,0,4 Yard Run,(15:00) (Shotgun) J.Allen right end to BUF 34 for 4 yards (D.Tranquill; M.Pennel).,1st & 10 at BUF 30
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,1,BUF,0,3,0,Pass Incomplete,(14:22) (Shotgun) J.Allen pass incomplete deep right to M.Hollins [C.Jones].,2nd & 6 at BUF 34
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,1,BUF,0,4,0,Pass Incomplete,(14:17) (Shotgun) J.Allen pass incomplete deep left to K.Coleman (N.Johnson).,3rd & 6 at BUF 34
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,1,BUF,0,5,0,Punt,"(14:08) S.Martin punts 56 yards to KC 10, Center-R.Ferguson, fair catch by N.Remigio.",4th & 6 at BUF 34
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,2,KC,1,1,0,11 Yard Pass,(14:01) (Shotgun) P.Mahomes pass short left to M.Brown to KC 21 for 11 yards (M.Milano).,1st & 10 at KC 10
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,2,KC,1,2,0,9 Yard Pass,(13:29) (Shotgun) P.Mahomes pass short middle to M.Brown to KC 30 for 9 yards (C.Benford).,1st & 10 at KC 21
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,2,KC,1,3,0,4 Yard Run,(12:56) (Shotgun) P.Mahomes scrambles right end to KC 34 for 4 yards (A.Epenesa).,2nd & 1 at KC 30
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,2,KC,1,4,0,10 Yard Pass,(12:10) (Shotgun) P.Mahomes pass short left to X.Worthy to KC 44 for 10 yards (C.Benford).,1st & 10 at KC 34
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,2,KC,1,5,0,3 Yard Run,(11:31) (Shotgun) I.Pacheco right guard to KC 47 for 3 yards (V.Miller; E.Oliver).,1st & 10 at KC 44
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,2,KC,1,6,0,31 Yard Pass,(10:57) (Shotgun) P.Mahomes pass short middle to J.Smith-Schuster to BUF 22 for 31 yards (R.Douglas).,2nd & 7 at KC 47
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,2,KC,1,7,0,8 Yard Run,(10:13) K.Hunt right end to BUF 14 for 8 yards (C.Bishop).,1st & 10 at BUF 22
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,2,KC,1,8,0,2 Yard Run,(9:38) (Shotgun) K.Hunt left guard to BUF 12 for 2 yards (G.Rousseau).,2nd & 2 at BUF 14
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,2,KC,1,9,0,Touchdown Chiefs,"(9:02) (Shotgun) K.Hunt left guard for 12 yards, TOUCHDOWN.",1st & 10 at BUF 12
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,2,KC,1,10,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-M.Araiza.",XP attempt from BUF 15
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,3,BUF,1,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback to the BUF 30.",Kickoff from KC 35
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,3,BUF,1,2,0,-5 Yard Penalty,"(8:56) J.Cook right end to BUF 34 for 4 yards (L.Chenal; J.Reid). KC-J.Reid was injured during the play. 
+PENALTY on BUF, Illegal Formation, 5 yards, enforced at BUF 30 - No Play.",1st & 10 at BUF 30
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,3,BUF,1,3,0,11 Yard Pass,(8:28) (Shotgun) J.Allen pass short middle to D.Kincaid to BUF 36 for 11 yards (N.Bolton).,1st & 15 at BUF 25
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,3,BUF,1,4,0,1 Yard Run,"(8:09) (No Huddle, Shotgun) Ty.Johnson left guard to BUF 37 for 1 yard (G.Karlaftis; T.Wharton). ** Injury Update: KC-J.Reid has returned to the game.",2nd & 4 at BUF 36
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,3,BUF,1,5,0,12 Yard Pass,(7:30) (Shotgun) J.Allen pass short middle to K.Shakir ran ob at BUF 49 for 12 yards (T.McDuffie).,3rd & 3 at BUF 37
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,3,BUF,1,6,0,Pass Incomplete,(6:54) A.Anderson reported in as eligible.  J.Allen pass incomplete deep right [G.Karlaftis].,1st & 10 at BUF 49
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,3,BUF,1,7,0,9 Yard Pass,(6:45) (Shotgun) J.Allen pass short left to A.Cooper to KC 42 for 9 yards (T.McDuffie).,2nd & 10 at BUF 49
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,3,BUF,1,8,0,2 Yard Run,(6:24) (No Huddle) J.Allen left guard to KC 40 for 2 yards (M.Pennel).,3rd & 1 at KC 42
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,3,BUF,1,9,0,5 Yard Run,(5:49) A.Anderson reported in as eligible.  J.Cook up the middle to KC 35 for 5 yards (D.Tranquill).,1st & 10 at KC 40
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,3,BUF,1,10,0,Run for No Gain,"(5:12) (Shotgun) J.Allen FUMBLES (Aborted) at KC 40, and recovers at KC 39.",2nd & 5 at KC 35
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,3,BUF,1,11,0,4 Yard Pass,(4:34) (Shotgun) J.Allen pass short right to K.Shakir to KC 35 for 4 yards (J.Watson; C.Conner).,3rd & 9 at KC 39
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,3,BUF,1,12,1,Field Goal,"(3:49) T.Bass 53 yard field goal is GOOD, Center-R.Ferguson, Holder-S.Martin.",4th & 5 at KC 35
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,4,KC,0,1,0,Kickoff,T.Bass kicks 66 yards from BUF 35 to KC -1. N.Remigio to KC 32 for 33 yards (J.Andreessen). KC-N.Remigio was injured during the play.,Kickoff from BUF 35
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,4,KC,0,2,0,Pass Incomplete,(3:39) (Shotgun) P.Mahomes pass incomplete deep right to M.Brown (C.Benford).,1st & 10 at KC 32
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,4,KC,0,3,0,12 Yard Run,(3:33) (Shotgun) P.Mahomes scrambles right end ran ob at KC 44 for 12 yards (Ta.Johnson).,2nd & 10 at KC 32
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,4,KC,0,4,0,8 Yard Run,(2:58) (Shotgun) X.Worthy left end to BUF 48 for 8 yards (C.Benford; D.Hamlin). BUF-C.Benford was injured during the play.,1st & 10 at KC 44
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,4,KC,0,5,0,5 Yard Penalty,"(2:28) (Shotgun) P.Mahomes sacked at KC 44 for -8 yards (Da.Jones). FUMBLES (Da.Jones), touched at KC 35, RECOVERED by BUF-A.Epenesa at KC 35.
+PENALTY on BUF-E.Oliver, Defensive Offside, 5 yards, enforced at BUF 48 - No Play.",2nd & 2 at BUF 48
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,4,KC,0,6,0,12 Yard Run,(2:19) (Shotgun) K.Hunt up the middle to BUF 31 for 12 yards (D.Hamlin; C.Bishop).,1st & 10 at BUF 43
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,4,KC,0,7,0,8 Yard Run,(1:40) (Shotgun) X.Worthy left end ran ob at BUF 23 for 8 yards (C.Bishop).,1st & 10 at BUF 31
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,1ST QUARTER,4,KC,0,8,0,Fumble,"(1:03) (Shotgun) P.Mahomes to BUF 28 for -5 yards. FUMBLES, RECOVERED by BUF-E.Oliver at BUF 28.",2nd & 2 at BUF 23
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,1,BUF,1,1,0,9 Yard Run,(:57) (Shotgun) J.Cook right tackle to BUF 37 for 9 yards (J.Reid).,1st & 10 at BUF 28
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,1,BUF,1,2,0,3 Yard Run,(:22) J.Cook right end to BUF 40 for 3 yards (C.Conner).,2nd & 1 at BUF 37
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,1,BUF,1,3,0,17 Yard Pass,(15:00) (Shotgun) J.Allen pass short left to J.Cook pushed ob at KC 43 for 17 yards (N.Johnson).,1st & 10 at BUF 40
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,1,BUF,1,4,0,5 Yard Penalty,"(14:22) (Shotgun) J.Allen pass incomplete deep right to K.Coleman (J.Hicks).
+PENALTY on KC-N.Bolton, Defensive Holding, 5 yards, enforced at KC 43 - No Play.",1st & 10 at KC 43
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,1,BUF,1,5,0,4 Yard Run,(14:09) R.Davis right guard to KC 34 for 4 yards (N.Bolton).,1st & 10 at KC 38
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,1,BUF,1,6,0,-3 Yard Pass,(13:28) (Shotgun) J.Allen pass short left to K.Shakir to KC 37 for -3 yards (J.Reid).,2nd & 6 at KC 34
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,1,BUF,1,7,0,10 Yard Pass,(12:46) (Shotgun) J.Allen pass short right to A.Cooper to KC 27 for 10 yards (B.Cook).,3rd & 9 at KC 37
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,1,BUF,1,8,0,-10 Yard Sack,"(12:01) (Shotgun) J.Allen sacked at KC 36 for -9 yards (M.Danna). FUMBLES (M.Danna) [M.Danna], and recovers at KC 37.",1st & 10 at KC 27
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,1,BUF,1,9,0,7 Yard Pass,(11:17) (Shotgun) J.Allen pass short left to M.Hollins to KC 30 for 7 yards (N.Johnson).,2nd & 20 at KC 37
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,1,BUF,1,10,0,24 Yard Pass,"(10:53) (No Huddle, Shotgun) J.Allen pass deep middle to K.Shakir to KC 6 for 24 yards (J.Hicks).",3rd & 13 at KC 30
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,1,BUF,1,11,0,Touchdown Bills,"(10:30) (No Huddle, Shotgun) J.Cook left end for 6 yards, TOUCHDOWN. KC-N.Bolton was injured during the play.",1st & 6 at KC 6
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,1,BUF,1,12,1,Extra Point Good,"T.Bass extra point is GOOD, Center-R.Ferguson, Holder-S.Martin.",XP attempt from KC 15
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,2,KC,1,1,0,Kickoff,"T.Bass kicks 65 yards from BUF 35 to end zone, Touchback to the KC 30. ** Injury Update: KC-N.Remigio has returned to the game.",Kickoff from BUF 35
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,2,KC,1,2,0,8 Yard Pass,(10:25) (Shotgun) P.Mahomes pass short right to T.Kelce to KC 38 for 8 yards (D.Hamlin).,1st & 10 at KC 30
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,2,KC,1,3,0,1 Yard Run,(9:50) (Shotgun) K.Hunt up the middle to KC 39 for 1 yard (T.Bernard; E.Oliver).,2nd & 2 at KC 38
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,2,KC,1,4,0,Run for No Gain,(9:15) (Shotgun) K.Hunt right guard to KC 39 for no gain (M.Milano).,3rd & 1 at KC 39
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,2,KC,1,5,0,6 Yard Run,(8:29) P.Mahomes scrambles right end to KC 45 for 6 yards (Ta.Johnson).,4th & 1 at KC 39
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,2,KC,1,6,0,1 Yard Run,(7:55) (Shotgun) K.Hunt up the middle to KC 46 for 1 yard (T.Bernard; Da.Jones).,1st & 10 at KC 45
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,2,KC,1,7,0,10 Yard Pass,(7:18) (Shotgun) P.Mahomes pass short left to X.Worthy pushed ob at BUF 44 for 10 yards (K.Elam).,2nd & 9 at KC 46
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,2,KC,1,8,0,11 Yard Pass,(6:39) (Shotgun) P.Mahomes pass short right to D.Hopkins pushed ob at BUF 33 for 11 yards (K.Elam).,1st & 10 at BUF 44
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,2,KC,1,9,0,1 Yard Run,(6:06) (Shotgun) I.Pacheco up the middle to BUF 32 for 1 yard (E.Oliver; A.Johnson).,1st & 10 at BUF 33
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,2,KC,1,10,0,5 Yard Run,(5:27) (Shotgun) I.Pacheco right tackle to BUF 27 for 5 yards (C.Bishop).,2nd & 9 at BUF 32
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,2,KC,1,11,0,16 Yard Pass,"(4:41) (Shotgun) P.Mahomes pass short right to X.Worthy pushed ob at BUF 22 for 5 yards (R.Douglas).
+PENALTY on BUF-K.Elam, Face Mask, 11 yards, enforced at BUF 22.",3rd & 4 at BUF 27
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,2,KC,1,12,0,Touchdown Chiefs,"(4:18) (Shotgun) P.Mahomes pass short left to X.Worthy for 11 yards, TOUCHDOWN.",1st & 10 at BUF 11
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,2,KC,1,13,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-M.Araiza.",XP attempt from BUF 15
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,3,BUF,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback to the BUF 30.",Kickoff from KC 35
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,3,BUF,0,2,0,Pass Incomplete,"(4:13) J.Allen pass incomplete deep left to D.Kincaid (N.Bolton). ** Injury Update: KC-N.Bolton has returned to the game. 
+Penalty on BUF-A.Anderson, Illegal Formation, declined.",1st & 10 at BUF 30
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,3,BUF,0,3,0,Pass Incomplete,(4:06) (Shotgun) J.Allen pass incomplete short left to C.Samuel.,2nd & 10 at BUF 30
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,3,BUF,0,4,0,Pass Incomplete,(4:02) (Shotgun) J.Allen pass incomplete deep left to K.Coleman.,3rd & 10 at BUF 30
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,3,BUF,0,5,0,Punt,"(3:56) S.Martin punts 45 yards to KC 25, Center-R.Ferguson. N.Remigio to BUF 34 for 41 yards (Do.Williams).",4th & 10 at BUF 30
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,4,KC,1,1,0,5 Yard Run,(3:39) K.Hunt right tackle to BUF 29 for 5 yards (R.Douglas). KC-K.Hunt was injured during the play.,1st & 10 at BUF 34
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,4,KC,1,2,0,Pass Incomplete,(3:16) (Shotgun) P.Mahomes pass incomplete short left to T.Kelce.,2nd & 5 at BUF 29
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,4,KC,1,3,0,26 Yard Pass,"(3:13) (Shotgun) P.Mahomes pass deep right to X.Worthy to BUF 3 for 26 yards (C.Bishop) [D.Smoot].
+Penalty on BUF-D.Hamlin, Defensive Holding, declined.
+Buffalo challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",3rd & 5 at BUF 29
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,4,KC,1,4,0,Pass Incomplete,(2:49) (Shotgun) P.Mahomes pass incomplete short right to D.Hopkins. ** Injury Update: KC-K.Hunt has returned to the game.,1st & 3 at BUF 3
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,4,KC,1,5,0,2 Yard Run,(2:47) (Shotgun) Direct snap to I.Pacheco.  I.Pacheco left end to BUF 1 for 2 yards (K.Elam; J.Phillips).,2nd & 3 at BUF 3
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,4,KC,1,6,0,Touchdown Chiefs,"(2:00) P.Mahomes scrambles right end for 1 yard, TOUCHDOWN.
+PENALTY on BUF-J.Phillips, Unnecessary Roughness, 8 yards, enforced between downs.",3rd & 1 at BUF 1
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,4,KC,1,7,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-M.Araiza.",XP attempt from BUF 7
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,5,BUF,1,1,0,Kickoff,H.Butker kicks 66 yards from KC 35 to BUF -1. R.Davis to BUF 27 for 28 yards (L.Chenal; S.Bozeman).,Kickoff from KC 35
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,5,BUF,1,2,0,4 Yard Pass,(1:48) (Shotgun) J.Allen pass short left to K.Shakir to BUF 31 for 4 yards (N.Bolton).,1st & 10 at BUF 27
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,5,BUF,1,3,0,5 Yard Penalty,"(1:27) (No Huddle, Shotgun) J.Allen pass short right to K.Coleman to BUF 36 for 5 yards (J.Watson).
+PENALTY on KC-J.Watson, Defensive Pass Interference, 5 yards, enforced at BUF 31 - No Play.",2nd & 6 at BUF 31
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,5,BUF,1,4,0,9 Yard Pass,(1:23) (Shotgun) J.Allen pass short left to A.Cooper ran ob at BUF 45 for 9 yards (J.Watson).,1st & 10 at BUF 36
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,5,BUF,1,5,0,6 Yard Run,"(1:17) (No Huddle, Shotgun) Ty.Johnson left guard to KC 49 for 6 yards (J.Hicks).",2nd & 1 at BUF 45
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,5,BUF,1,6,0,3 Yard Run,"(1:01) (No Huddle, Shotgun) Ty.Johnson left end to KC 46 for 3 yards (J.Hicks; M.Danna).",1st & 10 at KC 49
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,5,BUF,1,7,0,12 Yard Pass,"(:43) (No Huddle, Shotgun) J.Allen pass short right to K.Coleman pushed ob at KC 34 for 12 yards (T.McDuffie).",2nd & 7 at KC 46
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,5,BUF,1,8,0,Pass Incomplete,(:35) (Shotgun) J.Allen pass incomplete deep right [G.Karlaftis].,1st & 10 at KC 34
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,5,BUF,1,9,0,Touchdown Bills,"(:29) (Shotgun) J.Allen pass deep left to M.Hollins for 34 yards, TOUCHDOWN [C.Jones].
+Penalty on KC-T.McDuffie, Defensive Pass Interference, declined.",2nd & 10 at KC 34
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,5,BUF,1,10,0,Extra Point No Good,"T.Bass extra point is GOOD, Center-R.Ferguson, Holder-S.Martin.
+PENALTY on KC-J.Reid, Defensive Offside, 1 yard, enforced at KC 15 - No Play.",XP attempt from KC 15
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,5,BUF,1,11,1,2PT Conversion Fails,TWO-POINT CONVERSION ATTEMPT. C.Samuel rushes right guard. ATTEMPT FAILS.,XP attempt from KC 1
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,6,KC,0,1,0,Kickoff,T.Bass kicks 73 yards from BUF 35 to KC -8. N.Remigio to KC 22 for 30 yards (Do.Williams).,Kickoff from BUF 35
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,2ND QUARTER,6,KC,0,2,0,-1 Yard Run,(:18) P.Mahomes kneels to KC 21 for -1 yards.,1st & 10 at KC 22
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,1,KC,0,1,0,Kickoff,T.Bass kicks 62 yards from BUF 35 to KC 3. N.Remigio to KC 25 for 22 yards (C.Lewis).,Kickoff from BUF 35
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,1,KC,0,2,0,11 Yard Run,(14:55) (Shotgun) P.Mahomes scrambles right end to KC 36 for 11 yards (R.Douglas).,1st & 10 at KC 25
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,1,KC,0,3,0,3 Yard Run,(14:20) (Shotgun) K.Hunt right tackle to KC 39 for 3 yards (T.Bernard).,1st & 10 at KC 36
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,1,KC,0,4,0,4 Yard Penalty,"(13:42) (Shotgun) P.Mahomes pass incomplete short left to M.Brown.
+PENALTY on BUF-K.Elam, Defensive Pass Interference, 4 yards, enforced at KC 39 - No Play.",2nd & 7 at KC 39
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,1,KC,0,5,0,2 Yard Pass,(13:39) P.Mahomes pass short right to I.Pacheco to KC 45 for 2 yards (Ta.Johnson; T.Bernard).,1st & 10 at KC 43
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,1,KC,0,6,0,4 Yard Run,(12:58) (Shotgun) K.Hunt right tackle to KC 49 for 4 yards (M.Milano; A.Johnson).,2nd & 8 at KC 45
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,1,KC,0,7,0,15 Yard Pass,(12:21) (Shotgun) P.Mahomes pass short right to M.Brown pushed ob at BUF 36 for 15 yards (C.Bishop).,3rd & 4 at KC 49
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,1,KC,0,8,0,-1 Yard Run,"(11:44) (Shotgun) K.Hunt up the middle to BUF 37 for -1 yards (A.Johnson, T.Bernard).",1st & 10 at BUF 36
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,1,KC,0,9,0,Pass Incomplete,(11:08) (Shotgun) P.Mahomes pass incomplete short middle to J.Smith-Schuster.,2nd & 11 at BUF 37
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,1,KC,0,10,0,-5 Yard Sack,(11:01) (Shotgun) P.Mahomes sacked at BUF 42 for -5 yards (M.Milano).,3rd & 11 at BUF 37
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,1,KC,0,11,0,Punt,"(10:08) M.Araiza punts 42 yards to end zone, Center-J.Winchester, Touchback.",4th & 16 at BUF 42
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,2,BUF,1,1,0,5 Yard Run,(10:01) A.Anderson reported in as eligible.  J.Cook up the middle to BUF 25 for 5 yards (J.Reid; D.Tranquill).,1st & 10 at BUF 20
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,2,BUF,1,2,0,33 Yard Run,(9:22) J.Cook left end pushed ob at KC 42 for 33 yards (J.Reid).,2nd & 5 at BUF 25
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,2,BUF,1,3,0,5 Yard Run,(8:37) J.Cook right guard to KC 37 for 5 yards (M.Danna; C.Conner).,1st & 10 at KC 42
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,2,BUF,1,4,0,2 Yard Run,(7:51) A.Anderson reported in as eligible.  Ty.Johnson right end to KC 35 for 2 yards (J.Reid).,2nd & 5 at KC 37
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,2,BUF,1,5,0,2 Yard Run,(7:08) (Shotgun) J.Allen left guard to KC 33 for 2 yards (G.Karlaftis).,3rd & 3 at KC 35
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,2,BUF,1,6,0,3 Yard Run,(6:28) (Shotgun) J.Allen right end to KC 30 for 3 yards (N.Bolton; G.Karlaftis).,4th & 1 at KC 33
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,2,BUF,1,7,0,8 Yard Run,(5:48) Ty.Johnson left end to KC 22 for 8 yards (M.Pennel).,1st & 10 at KC 30
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,2,BUF,1,8,0,13 Yard Run,"(5:15) (No Huddle, Shotgun) J.Allen right guard to KC 9 for 13 yards (T.McDuffie; C.Conner).",2nd & 2 at KC 22
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,2,BUF,1,9,0,7 Yard Pass,"(4:42) (No Huddle, Shotgun) J.Allen pass short right to D.Knox pushed ob at KC 2 for 7 yards (J.Hicks).",1st & 9 at KC 9
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,2,BUF,1,10,0,1 Yard Run,(4:02) J.Cook left guard to KC 1 for 1 yard (C.Conner; C.Omenihu).,2nd & 2 at KC 2
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,2,BUF,1,11,0,Run for No Gain,(3:37) (No Huddle) J.Allen left guard to KC 1 for no gain (C.Conner).,3rd & 1 at KC 1
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,2,BUF,1,12,0,Touchdown Bills,"(3:01) (Shotgun) J.Cook right end for 1 yard, TOUCHDOWN.",4th & 1 at KC 1
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,2,BUF,1,13,1,2PT Conversion Fails,TWO-POINT CONVERSION ATTEMPT. J.Allen is sacked. ATTEMPT FAILS.,XP attempt from KC 2
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,3,KC,0,1,0,Kickoff,"T.Bass kicks 65 yards from BUF 35 to end zone, Touchback to the KC 30.",Kickoff from BUF 35
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,3,KC,0,2,0,Run for No Gain,(2:56) (Shotgun) K.Hunt left guard to KC 30 for no gain (E.Oliver; G.Rousseau).,1st & 10 at KC 30
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,3,KC,0,3,0,Pass Incomplete,(2:18) (Shotgun) P.Mahomes pass incomplete short middle to T.Kelce [E.Oliver].,2nd & 10 at KC 30
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,3,KC,0,4,0,-5 Yard Penalty,"(2:13) (Shotgun) PENALTY on KC-M.Caliendo, False Start, 5 yards, enforced at KC 30 - No Play.",3rd & 10 at KC 30
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,3,KC,0,5,0,Pass Incomplete,(2:13) (Shotgun) P.Mahomes pass incomplete deep left to M.Brown.,3rd & 15 at KC 25
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,3RD QUARTER,3,KC,0,6,0,Punt,"(2:07) M.Araiza punts 51 yards to BUF 24, Center-J.Winchester. K.Shakir pushed ob at BUF 30 for 6 yards (J.Williams).",4th & 15 at KC 25
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,1,BUF,0,1,0,9 Yard Run,"(1:56) A.Anderson reported in as eligible.  J.Cook up the middle to BUF 34 for 4 yards (L.Chenal).
+PENALTY on KC-C.Omenihu, Illegal Use of Hands, 5 yards, enforced at BUF 34.",1st & 10 at BUF 30
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,1,BUF,0,2,0,9 Yard Run,(1:34) (Shotgun) J.Cook right end to BUF 48 for 9 yards (N.Bolton; D.Tranquill).,1st & 10 at BUF 39
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,1,BUF,0,3,0,Run for No Gain,"(:56) (Shotgun) R.Davis left guard to BUF 47 for -1 yards (C.Conner). FUMBLES (C.Conner), and recovers at BUF 48.",2nd & 1 at BUF 48
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,1,BUF,0,4,0,Run for No Gain,(:28) (No Huddle) J.Allen up the middle to BUF 48 for no gain (C.Jones; D.Tranquill).,3rd & 1 at BUF 48
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,1,BUF,0,5,0,2 Yard Run,"(15:00) (Shotgun) J.Allen up the middle to 50 for 2 yards (D.Tranquill). FUMBLES (D.Tranquill), and recovers at 50. KC-C.Jones was injured during the play.",4th & 1 at BUF 48
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,1,BUF,0,6,0,2 Yard Run,(14:30) A.Anderson reported in as eligible.  J.Cook right guard to KC 48 for 2 yards (M.Pennel).,1st & 10 at 50
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,1,BUF,0,7,0,5 Yard Pass,(13:47) (Shotgun) J.Allen pass short left to K.Shakir to KC 43 for 5 yards (M.Danna). ** Injury Update: KC-C.Jones has returned to the game.,2nd & 8 at KC 48
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,1,BUF,0,8,0,2 Yard Pass,"(13:21) (No Huddle, Shotgun) J.Allen pass short right to D.Kincaid to KC 41 for 2 yards (C.Conner).",3rd & 3 at KC 43
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,1,BUF,0,9,0,Turnover on Downs,"(13:01) (No Huddle) J.Allen left guard to KC 41 for no gain (N.Bolton).
+The Replay Official reviewed the short of the line to gain ruling, and the play was Upheld. The ruling on the field stands.",4th & 1 at KC 41
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,2,KC,1,1,0,7 Yard Run,(12:55) (Shotgun) P.Mahomes scrambles right end to KC 48 for 7 yards (R.Douglas).,1st & 10 at KC 41
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,2,KC,1,2,0,29 Yard Pass,(12:15) (Shotgun) P.Mahomes pass short middle to J.Smith-Schuster pushed ob at BUF 23 for 29 yards (C.Bishop) [D.Smoot].,2nd & 3 at KC 48
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,2,KC,1,3,0,7 Yard Run,(11:30) (Shotgun) K.Hunt left end to BUF 16 for 7 yards (T.Bernard).,1st & 10 at BUF 23
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,2,KC,1,4,0,6 Yard Run,(10:55) (Shotgun) K.Hunt left end to BUF 10 for 6 yards (M.Milano).,2nd & 3 at BUF 16
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,2,KC,1,5,0,Touchdown Chiefs,"(10:20) (Shotgun) P.Mahomes right end for 10 yards, TOUCHDOWN.",1st & 10 at BUF 10
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,2,KC,1,6,1,2PT Conversion Success,TWO-POINT CONVERSION ATTEMPT. P.Mahomes pass to Ju.Watson is complete. ATTEMPT SUCCEEDS.,XP attempt from BUF 2
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,3,BUF,1,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback to the BUF 30.",Kickoff from KC 35
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,3,BUF,1,2,0,9 Yard Pass,(10:14) (Shotgun) A.Anderson reported in as eligible.  J.Allen pass short left to J.Cook pushed ob at BUF 39 for 9 yards (D.Tranquill).,1st & 10 at BUF 30
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,3,BUF,1,3,0,23 Yard Pass,(9:37) J.Allen pass short right to J.Cook ran ob at KC 38 for 23 yards (B.Cook).,2nd & 1 at BUF 39
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,3,BUF,1,4,0,2 Yard Run,(9:00) (Shotgun) J.Cook left guard to KC 36 for 2 yards (F.Anudike-Uzomah; D.Tranquill).,1st & 10 at KC 38
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,3,BUF,1,5,0,Pass for No Gain,(8:21) (Shotgun) J.Allen pass short right to Ty.Johnson pushed ob at KC 36 for no gain (J.Watson).,2nd & 8 at KC 36
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,3,BUF,1,6,0,32 Yard Pass,(7:38) (Shotgun) J.Allen pass deep middle to M.Hollins to KC 4 for 32 yards (B.Cook).,3rd & 8 at KC 36
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,3,BUF,1,7,0,Sack,"(7:15) (No Huddle, Shotgun) J.Allen sacked at KC 4 for 0 yards (T.Wharton).",1st & 4 at KC 4
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,3,BUF,1,8,0,Pass Incomplete,(6:32) (Shotgun) J.Allen pass incomplete short right [M.Danna].,2nd & 4 at KC 4
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,3,BUF,1,9,0,Pass Incomplete,(6:23) (Shotgun) J.Allen pass incomplete short right to K.Coleman.,3rd & 4 at KC 4
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,3,BUF,1,10,0,Touchdown Bills,"(6:20) (Shotgun) J.Allen pass short right to C.Samuel for 4 yards, TOUCHDOWN.",4th & 4 at KC 4
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,3,BUF,1,11,1,Extra Point Good,"T.Bass extra point is GOOD, Center-R.Ferguson, Holder-S.Martin.",XP attempt from KC 15
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,4,KC,1,1,0,Kickoff,T.Bass kicks 55 yards from BUF 35 to KC 10. N.Remigio ran ob at KC 32 for 22 yards (J.Ingram).,Kickoff from BUF 35
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,4,KC,1,2,0,21 Yard Pass,"(6:11) (Shotgun) P.Mahomes pass short right to K.Hunt to KC 38 for 6 yards (M.Milano).
+PENALTY on BUF-M.Milano, Face Mask, 15 yards, enforced at KC 38.",1st & 10 at KC 32
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,4,KC,1,3,0,11 Yard Pass,(5:50) (Shotgun) P.Mahomes pass short right to T.Kelce to BUF 36 for 11 yards (M.Milano).,1st & 10 at BUF 47
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,4,KC,1,4,0,3 Yard Run,(5:10) (Shotgun) K.Hunt right guard to BUF 33 for 3 yards (M.Milano).,1st & 10 at BUF 36
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,4,KC,1,5,0,23 Yard Pass,(4:35) (Shotgun) P.Mahomes pass short right to X.Worthy ran ob at BUF 10 for 23 yards (C.Bishop).,2nd & 7 at BUF 33
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,4,KC,1,6,0,-7 Yard Sack,(4:28) (Shotgun) P.Mahomes sacked at BUF 17 for -7 yards (J.Phillips).,1st & 10 at BUF 10
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,4,KC,1,7,0,Pass Incomplete,(3:44) (Shotgun) P.Mahomes pass incomplete short right to X.Worthy.,2nd & 17 at BUF 17
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,4,KC,1,8,0,Pass Incomplete,(3:42) (Shotgun) P.Mahomes pass incomplete short right [E.Oliver].,3rd & 17 at BUF 17
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,4,KC,1,9,1,Field Goal,"(3:37) H.Butker 35 yard field goal is GOOD, Center-J.Winchester, Holder-M.Araiza.",4th & 17 at BUF 17
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,5,BUF,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback to the BUF 30.",Kickoff from KC 35
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,5,BUF,0,2,0,-1 Yard Run,"(3:33) Ty.Johnson right end to BUF 29 for -1 yards (C.Omenihu, D.Tranquill).",1st & 10 at BUF 30
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,5,BUF,0,3,0,13 Yard Run,(2:55) (Shotgun) J.Allen scrambles right tackle to BUF 42 for 13 yards (C.Conner).,2nd & 11 at BUF 29
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,5,BUF,0,4,0,Pass Incomplete,"(2:25) (No Huddle, Shotgun) J.Allen pass incomplete deep middle to K.Shakir.",1st & 10 at BUF 42
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,5,BUF,0,5,0,Pass Incomplete,(2:21) (Shotgun) J.Allen pass incomplete short middle to C.Samuel (C.Omenihu).,2nd & 10 at BUF 42
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,5,BUF,0,6,0,5 Yard Pass,(2:17) (Shotgun) J.Allen pass short right to A.Cooper to BUF 47 for 5 yards (G.Karlaftis).,3rd & 10 at BUF 42
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,5,BUF,0,7,0,Turnover on Downs,(2:00) (Shotgun) J.Allen pass incomplete deep right to D.Kincaid [G.Karlaftis].,4th & 5 at BUF 47
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,6,KC,0,1,0,1 Yard Run,(1:54) K.Hunt left guard to BUF 46 for 1 yard (G.Rousseau; R.Douglas).,1st & 10 at BUF 47
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,6,KC,0,2,0,10 Yard Pass,(1:50) P.Mahomes pass short right to I.Pacheco pushed ob at BUF 36 for 10 yards (C.Bishop).,2nd & 9 at BUF 46
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,6,KC,0,3,0,1 Yard Run,(1:45) (Shotgun) I.Pacheco up the middle to BUF 35 for 1 yard (R.Douglas).,1st & 10 at BUF 36
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,6,KC,0,4,0,Run for No Gain,(1:38) K.Suamataia reported in as eligible.  K.Hunt right tackle to BUF 35 for no gain (M.Milano).,2nd & 9 at BUF 35
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,6,KC,0,5,0,17 Yard Pass,(1:35) (Shotgun) P.Mahomes pass short left to S.Perine to BUF 18 for 17 yards (C.Bishop) [A.Epenesa].,3rd & 9 at BUF 35
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,6,KC,0,6,0,-1 Yard Run,(:49) P.Mahomes kneels to BUF 19 for -1 yards.,1st & 10 at BUF 18
+2024,Conference Championships,SUN,01/26,Bills,Chiefs,4TH QUARTER,6,KC,0,7,0,-1 Yard Run,(:20) P.Mahomes kneels to BUF 20 for -1 yards.,2nd & 11 at BUF 19

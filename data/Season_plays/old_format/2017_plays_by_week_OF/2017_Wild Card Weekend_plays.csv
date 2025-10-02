@@ -1,0 +1,711 @@
+Season,Week,Day,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayDescription,PlayStart
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,1,KC,0,1,0,Kickoff,"R.Succop kicks 68 yards from TEN 35 to KC -3. T.Hill to KC 18 for 21 yards (B.Trawick).
+PENALTY on KC-O.Charles, Illegal Block Above the Waist, 7 yards, enforced at KC 14.",Kickoff from TEN 35
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,1,KC,0,2,0,Pass Incomplete,(14:55) (Shotgun) A.Smith pass incomplete deep left to T.Hill.,1st & 10 at KC 7
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,1,KC,0,3,0,4 Yard Pass,(14:49) (Shotgun) A.Smith pass short left to T.Hill pushed ob at KC 11 for 4 yards (L.Ryan).,2nd & 10 at KC 7
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,1,KC,0,4,0,14 Yard Pass,(14:10) (Shotgun) A.Smith pass short right to T.Kelce to KC 25 for 14 yards (A.Jackson).,3rd & 6 at KC 11
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,1,KC,0,5,0,5 Yard Run,(13:29) (Shotgun) K.Hunt up the middle to KC 30 for 5 yards (D.Morgan; J.Casey).,1st & 10 at KC 25
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,1,KC,0,6,0,-1 Yard Run,(12:49) (Shotgun) K.Hunt left guard to KC 29 for -1 yards (S.Williams).,2nd & 5 at KC 30
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,1,KC,0,7,0,Pass Incomplete,(12:04) (Shotgun) A.Smith pass incomplete short left. No intended receiver. Intentionally threw away pass over head of C.West.,3rd & 6 at KC 29
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,1,KC,0,8,0,Punt,"(11:57) D.Colquitt punts 51 yards to TEN 20, Center-J.Winchester. A.Jackson to TEN 25 for 5 yards (M.Kemp).",4th & 6 at KC 29
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,2,TEN,0,1,0,Pass Incomplete,(11:46) (Shotgun) M.Mariota pass incomplete short middle to J.Smith (J.Houston) [J.Houston].,1st & 10 at TEN 25
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,2,TEN,0,2,0,7 Yard Run,(11:42) D.Henry left tackle to TEN 32 for 7 yards (F.Zombo; D.Johnson).,2nd & 10 at TEN 25
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,2,TEN,0,3,0,Pass Incomplete,(10:57) (Shotgun) M.Mariota pass incomplete deep left to C.Davis.,3rd & 3 at TEN 32
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,2,TEN,0,4,0,Punt,"(10:52) B.Kern punts 57 yards to KC 11, Center-B.Brinkley. T.Hill to KC 19 for 8 yards (B.Trawick).",4th & 3 at TEN 32
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,3,KC,1,1,0,Pass Incomplete,(10:33) (Shotgun) A.Smith pass incomplete short left to T.Hill.,1st & 10 at KC 19
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,3,KC,1,2,0,7 Yard Pass,(10:29) (Shotgun) A.Smith pass short right to K.Hunt to KC 26 for 7 yards (A.Jackson).,2nd & 10 at KC 19
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,3,KC,1,3,0,45 Yard Pass,(9:46) (Shotgun) A.Smith pass short right to T.Hill pushed ob at TEN 29 for 45 yards (D.Searcy).,3rd & 3 at KC 26
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,3,KC,1,4,0,27 Yard Pass,(9:02) A.Smith pass deep right to T.Kelce pushed ob at TEN 2 for 27 yards (T.Smith).,1st & 10 at TEN 29
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,3,KC,1,5,0,1 Yard Run,(8:22) (Shotgun) K.Hunt up the middle to TEN 1 for 1 yard (K.Byard).,1st & 2 at TEN 2
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,3,KC,1,6,0,Touchdown Chiefs,"(7:42) (Shotgun) K.Hunt up the middle for 1 yard, TOUCHDOWN.",2nd & 1 at TEN 1
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,3,KC,1,7,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",XP attempt from TEN 15
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,4,TEN,0,1,0,Kickoff,H.Butker kicks 66 yards from KC 35 to TEN -1. A.Jackson to TEN 23 for 24 yards (T.Smith).,Kickoff from KC 35
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,4,TEN,0,2,0,-10 Yard Run,"(7:30) D.Henry left tackle to TEN 26 for 3 yards (R.Ragland).
+PENALTY on TEN-B.Jones, Unnecessary Roughness, 13 yards, enforced at TEN 26.",1st & 10 at TEN 23
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,4,TEN,0,3,0,Run for No Gain,(7:07) (Shotgun) D.Henry left guard to TEN 13 for no gain (C.Jones).,2nd & 20 at TEN 13
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,4,TEN,0,4,0,12 Yard Pass,(6:24) (Shotgun) M.Mariota pass short middle to D.Walker to TEN 25 for 12 yards (S.Nelson).,3rd & 20 at TEN 13
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,4,TEN,0,5,0,Punt,"(5:46) B.Kern punts 36 yards to KC 39, Center-B.Brinkley, out of bounds.
+PENALTY on KC-K.Reaser, Unnecessary Roughness, 15 yards, enforced at KC 39.",4th & 8 at TEN 25
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,5,KC,1,1,0,26 Yard Pass,(5:39) (Shotgun) A.Smith pass short middle to T.Hill to 50 for 26 yards (A.Jackson).,1st & 10 at KC 24
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,5,KC,1,2,0,-5 Yard Penalty,"(5:01) (Shotgun) PENALTY on KC-D.Robinson, False Start, 5 yards, enforced at 50 - No Play.",1st & 10 at 50
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,5,KC,1,3,0,18 Yard Pass,(4:36) (Shotgun) A.Smith pass short left to A.Wilson pushed ob at TEN 37 for 18 yards (E.Walden).,1st & 15 at KC 45
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,5,KC,1,4,0,3 Yard Run,(3:53) (Shotgun) K.Hunt up the middle to TEN 34 for 3 yards (D.Morgan).,1st & 10 at TEN 37
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,5,KC,1,5,0,5 Yard Penalty,"(3:09) A.Smith pass incomplete deep right to T.Kelce.
+PENALTY on TEN-A.Jackson, Illegal Use of Hands, 5 yards, enforced at TEN 34 - No Play.",2nd & 7 at TEN 34
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,5,KC,1,6,0,16 Yard Run,(3:02) (Shotgun) K.Hunt left end to TEN 13 for 16 yards (K.Byard).,1st & 10 at TEN 29
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,5,KC,1,7,0,Touchdown Chiefs,"(2:19) (Shotgun) A.Smith pass short left to T.Kelce for 13 yards, TOUCHDOWN.",1st & 10 at TEN 13
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,1ST QUARTER,5,KC,1,8,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",XP attempt from TEN 15
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,1,TEN,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,1,TEN,0,2,0,3 Yard Run,"(2:15) D.Henry right end to TEN 31 for 6 yards (K.Pierre-Louis). FUMBLES (K.Pierre-Louis), ball out of bounds at TEN 28.",1st & 10 at TEN 25
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,1,TEN,0,3,0,4 Yard Pass,(1:37) (Shotgun) M.Mariota pass short right to T.Taylor pushed ob at TEN 32 for 4 yards (M.Peters).,2nd & 7 at TEN 28
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,1,TEN,0,4,0,12 Yard Run,(:52) (Shotgun) M.Mariota scrambles right end to TEN 44 for 12 yards (R.Parker).,3rd & 3 at TEN 32
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,1,TEN,0,5,0,4 Yard Run,(:14) (Shotgun) D.Henry left guard to TEN 48 for 4 yards (F.Zombo).,1st & 10 at TEN 44
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,1,TEN,0,6,0,2 Yard Run,(15:00) (Shotgun) D.Henry up the middle to 50 for 2 yards (R.Ragland; F.Zombo).,2nd & 6 at TEN 48
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,1,TEN,0,7,0,Pass Incomplete,(14:18) (Shotgun) M.Mariota pass incomplete short right to E.Decker [J.Houston].,3rd & 4 at 50
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,1,TEN,0,8,0,Punt,"(14:11) B.Kern punts 38 yards to KC 12, Center-B.Brinkley. T.Hill pushed ob at KC 12 for no gain (D.Fluellen).",4th & 4 at 50
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,2,KC,0,1,0,14 Yard Run,(13:59) T.Hill left end to KC 26 for 14 yards (K.Byard).,1st & 10 at KC 12
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,2,KC,0,2,0,-10 Yard Penalty,"(13:15) (Shotgun) C.West up the middle to KC 28 for 2 yards (W.Woodyard).
+PENALTY on KC-B.Witzmann, Offensive Holding, 10 yards, enforced at KC 26 - No Play.",1st & 10 at KC 26
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,2,KC,0,3,0,Pass for No Gain,(12:46) (Shotgun) A.Smith pass short left to K.Hunt to KC 16 for no gain (K.Byard).,1st & 20 at KC 16
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,2,KC,0,4,0,-2 Yard Pass,(12:05) (Shotgun) A.Smith pass short right to K.Hunt to KC 14 for -2 yards (A.Johnson; E.Walden).,2nd & 20 at KC 16
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,2,KC,0,5,0,-2 Yard Pass,(11:20) (Shotgun) A.Smith pass short right to C.West to KC 12 for -2 yards (D.Searcy).,3rd & 22 at KC 14
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,2,KC,0,6,0,Punt,"(10:37) D.Colquitt punts 46 yards to TEN 42, Center-J.Winchester, fair catch by A.Jackson.",4th & 24 at KC 12
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,3,TEN,0,1,0,7 Yard Pass,(10:29) M.Mariota pass short left to D.Walker to TEN 49 for 7 yards (K.Pierre-Louis).,1st & 10 at TEN 42
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,3,TEN,0,2,0,10 Yard Pass,(9:48) (Shotgun) M.Mariota pass short middle to D.Walker to KC 41 for 10 yards (K.Pierre-Louis; F.Zombo).,2nd & 3 at TEN 49
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,3,TEN,0,3,0,5 Yard Run,(9:15) (Shotgun) D.Henry up the middle to KC 36 for 5 yards (R.Ragland).,1st & 10 at KC 41
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,3,TEN,0,4,0,15 Yard Pass,(8:34) (Shotgun) M.Mariota pass short left to R.Matthews to KC 21 for 15 yards (D.Revis).,2nd & 5 at KC 36
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,3,TEN,0,5,0,Pass Incomplete,"(7:54) (No Huddle, Shotgun) M.Mariota pass incomplete deep right to E.Decker.",1st & 10 at KC 21
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,3,TEN,0,6,0,Interception,(7:48) (Shotgun) M.Mariota pass short right intended for D.Walker INTERCEPTED by M.Peters at KC 9. M.Peters to KC 37 for 28 yards (R.Matthews).,2nd & 10 at KC 21
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,4,KC,0,1,0,Sack,(7:37) (Shotgun) A.Smith sacked ob at KC 37 for 0 yards (S.Williams).,1st & 10 at KC 37
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,4,KC,0,2,0,1 Yard Pass,(7:03) (Shotgun) A.Smith pass short right to T.Hill to KC 38 for 1 yard (T.Smith).,2nd & 10 at KC 37
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,4,KC,0,3,0,Pass Incomplete,(6:16) (Shotgun) A.Smith pass incomplete deep right to T.Hill.,3rd & 9 at KC 38
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,4,KC,0,4,0,Punt,"(6:09) D.Colquitt punts 54 yards to TEN 8, Center-J.Winchester. A.Jackson pushed ob at TEN 21 for 13 yards (J.Chesson).",4th & 9 at KC 38
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,5,TEN,1,1,0,8 Yard Run,(5:57) (Shotgun) D.Henry up the middle to TEN 29 for 8 yards (R.Ragland; S.Nelson).,1st & 10 at TEN 21
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,5,TEN,1,2,0,22 Yard Pass,(5:19) (Shotgun) M.Mariota pass short right to D.Walker pushed ob at KC 49 for 22 yards (R.Parker).,2nd & 2 at TEN 29
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,5,TEN,1,3,0,9 Yard Run,(4:50) (Shotgun) D.Henry left guard to KC 40 for 9 yards (R.Ragland).,1st & 10 at KC 49
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,5,TEN,1,4,0,12 Yard Pass,"(4:05) (No Huddle, Shotgun) M.Mariota pass short right to C.Davis to KC 28 for 12 yards (R.Ragland).",2nd & 1 at KC 40
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,5,TEN,1,5,0,1 Yard Run,"(3:22) (No Huddle, Shotgun) D.Henry up the middle to KC 27 for 1 yard (C.Jones; A.Bailey).",1st & 10 at KC 28
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,5,TEN,1,6,0,5 Yard Penalty,"(3:01) (No Huddle, Shotgun) M.Mariota sacked at KC 34 for -7 yards (C.Jones).
+PENALTY on KC-A.Bailey, Defensive 12 On-field, 5 yards, enforced at KC 27 - No Play.",2nd & 9 at KC 27
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,5,TEN,1,7,0,Pass Incomplete,(2:48) (Shotgun) M.Mariota pass incomplete deep left to D.Walker.,2nd & 4 at KC 22
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,5,TEN,1,8,0,-9 Yard Sack,(2:41) (Shotgun) M.Mariota sacked at KC 31 for -9 yards (D.Johnson).,3rd & 4 at KC 22
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,5,TEN,1,9,1,Field Goal,"(2:00) R.Succop 49 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",4th & 13 at KC 31
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,6,KC,1,1,0,Kickoff,R.Succop kicks 66 yards from TEN 35 to KC -1. C.West to KC 21 for 22 yards (D.Searcy).,Kickoff from TEN 35
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,6,KC,1,2,0,Sack,(1:48) (Shotgun) A.Smith sacked at KC 13 for -8 yards (sack split by W.Woodyard and B.Orakpo).,1st & 10 at KC 21
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,6,KC,1,3,0,12 Yard Pass,(1:40) (Shotgun) A.Smith pass short middle to T.Kelce to KC 25 for 12 yards (J.Brown). KC-T.Kelce was injured during the play.,2nd & 18 at KC 13
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,6,KC,1,4,0,13 Yard Pass,(1:25) (Shotgun) A.Smith pass short middle to D.Robinson to KC 38 for 13 yards (T.Smith).,3rd & 6 at KC 25
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,6,KC,1,5,0,2 Yard Run,"(1:02) (No Huddle, Shotgun) A.Smith scrambles right end pushed ob at KC 40 for 2 yards (J.Cyprien).",1st & 10 at KC 38
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,6,KC,1,6,0,15 Yard Pass,"(:53) (Shotgun) A.Smith pass short right to D.Robinson ran ob at TEN 45 for 15 yards.
+The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands.",2nd & 8 at KC 40
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,6,KC,1,7,0,8 Yard Pass,"(:48) (Shotgun) A.Smith pass short middle to T.Hill to TEN 37 for 8 yards (W.Woodyard, D.King).",1st & 10 at TEN 45
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,6,KC,1,8,0,3 Yard Pass,(:41) (Shotgun) A.Smith pass short right to C.West pushed ob at TEN 34 for 3 yards (J.Cyprien).,2nd & 2 at TEN 37
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,6,KC,1,9,0,5 Yard Penalty,"(:36) (Shotgun) A.Smith pass short right to C.West pushed ob at TEN 34 for no gain (J.Cyprien).
+PENALTY on TEN-D.Morgan, Defensive Holding, 5 yards, enforced at TEN 34 - No Play.",1st & 10 at TEN 34
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,6,KC,1,10,0,15 Yard Pass,(:30) (Shotgun) A.Smith pass short left to D.Robinson to TEN 14 for 15 yards (L.Ryan).,1st & 10 at TEN 29
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,6,KC,1,11,0,Touchdown Chiefs,"(:08) (Shotgun) A.Smith pass short left to D.Robinson for 14 yards, TOUCHDOWN.",1st & 10 at TEN 14
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,6,KC,1,12,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",XP attempt from TEN 15
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,2ND QUARTER,7,TEN,0,1,0,Kickoff,H.Butker kicks 50 yards from KC 35 to TEN 15. D.Fluellen to TEN 27 for 12 yards (J.Chesson).,Kickoff from KC 35
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,1,TEN,1,1,0,Kickoff,"H.Butker kicks 67 yards from KC 35 to TEN -2. A.Jackson to TEN 17 for 19 yards (K.Pierre-Louis).
+PENALTY on TEN-E.Weems, Illegal Block Above the Waist, 8 yards, enforced at TEN 17.",Kickoff from KC 35
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,1,TEN,1,2,0,6 Yard Run,(14:56) D.Henry up the middle to TEN 15 for 6 yards (R.Ragland; D.Johnson). KC-C.Jones was injured during the play.,1st & 10 at TEN 9
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,1,TEN,1,3,0,4 Yard Run,(14:28) D.Henry up the middle to TEN 19 for 4 yards (F.Zombo; B.Logan).,2nd & 4 at TEN 15
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,1,TEN,1,4,0,Pass Incomplete,(13:52) (Shotgun) M.Mariota pass incomplete deep right to C.Davis.,1st & 10 at TEN 19
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,1,TEN,1,5,0,6 Yard Pass,(13:45) (Shotgun) M.Mariota pass short right to D.Henry to TEN 25 for 6 yards (J.Houston).,2nd & 10 at TEN 19
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,1,TEN,1,6,0,-5 Yard Penalty,"(12:55) (Shotgun) PENALTY on TEN-M.Mariota, Delay of Game, 5 yards, enforced at TEN 25 - No Play.",3rd & 4 at TEN 25
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,1,TEN,1,7,0,11 Yard Run,(12:30) (Shotgun) M.Mariota scrambles up the middle to TEN 31 for 11 yards (D.Johnson).,3rd & 9 at TEN 20
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,1,TEN,1,8,0,4 Yard Run,(11:53) (Shotgun) D.Henry left end to TEN 35 for 4 yards (S.Nelson).,1st & 10 at TEN 31
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,1,TEN,1,9,0,6 Yard Pass,"(11:20) (No Huddle, Shotgun) M.Mariota pass short right to C.Davis to TEN 39 for 4 yards (D.Johnson).
+Tennessee challenged the short of the line to gain ruling, and the play was REVERSED.
+(No Huddle, Shotgun) M.Mariota pass short right to C.Davis to TEN 41 for 6 yards (D.Johnson).",2nd & 6 at TEN 35
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,1,TEN,1,10,0,4 Yard Pass,(10:46) (Shotgun) M.Mariota pass short left to C.Davis to TEN 45 for 4 yards (D.Revis).,1st & 10 at TEN 41
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,1,TEN,1,11,0,29 Yard Pass,(10:14) (Shotgun) M.Mariota pass short right to D.Henry to KC 26 for 29 yards (D.Sorensen).,2nd & 6 at TEN 45
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,1,TEN,1,12,0,12 Yard Run,"(9:27) (No Huddle, Shotgun) D.Henry up the middle to KC 14 for 12 yards (D.Johnson).",1st & 10 at KC 26
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,1,TEN,1,13,0,Pass Incomplete,(8:43) (Shotgun) M.Mariota pass incomplete short left to R.Matthews.,1st & 10 at KC 14
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,1,TEN,1,14,0,10 Yard Run,(8:37) (Shotgun) M.Mariota right end to KC 4 for 10 yards (R.Parker).,2nd & 10 at KC 14
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,1,TEN,1,15,0,3 Yard Run,(7:54) (Shotgun) D.Henry up the middle to KC 1 for 3 yards (R.Ragland; D.Sorensen).,1st & 4 at KC 4
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,1,TEN,1,16,0,-4 Yard Penalty,"(7:18) (Run formation) D.Henry left end for 1 yard, TOUCHDOWN NULLIFIED by Penalty.
+PENALTY on TEN-D.Walker, False Start, 4 yards, enforced at KC 1 - No Play. Line of scrimmage was past the one yard line so statistically penalty is for only 4 yards since new line of scrimmage is the 5.",2nd & 1 at KC 1
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,1,TEN,1,17,0,-1 Yard Sack,(7:12) M.Mariota sacked ob at KC 6 for -1 yards (J.Houston).,2nd & 5 at KC 5
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,1,TEN,1,18,0,Touchdown Titans,"(6:44) (Shotgun) M.Mariota pass short left to M.Mariota for 6 yards, TOUCHDOWN. Pass deflected by D.Revis back to M.Mariota",3rd & 6 at KC 6
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,1,TEN,1,19,1,Extra Point Good,"R.Succop extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",XP attempt from KC 15
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,2,KC,0,1,0,Kickoff,R.Succop kicks 61 yards from TEN 35 to KC 4. C.West to KC 19 for 15 yards (D.Bates).,Kickoff from TEN 35
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,2,KC,0,2,0,Pass Incomplete,(6:25) (Shotgun) A.Smith pass incomplete short left to A.Wilson [J.Casey].,1st & 10 at KC 19
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,2,KC,0,3,0,9 Yard Run,(6:21) (Shotgun) K.Hunt left guard to KC 28 for 9 yards (K.Byard).,2nd & 10 at KC 19
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,2,KC,0,4,0,-1 Yard Run,(5:43) A.Smith right end to KC 27 for -1 yards (J.Casey).,3rd & 1 at KC 28
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,2,KC,0,5,0,Penalty,"(5:02) D.Colquitt punts 43 yards to TEN 30, Center-J.Winchester. A.Jackson to KC 47 for 23 yards (K.Reaser).
+Penalty on TEN-B.Trawick, Running Into the Kicker, offsetting, enforced at KC 27 - No Play.
+Penalty on KC-U.Eligwe, Unnecessary Roughness, offsetting.",4th & 2 at KC 27
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,2,KC,0,6,0,Fumble,"(4:49) D.Colquitt punts 44 yards to TEN 29, Center-J.Winchester. A.Jackson MUFFS catch, RECOVERED by KC-K.Reaser at TEN 28. K.Reaser to TEN 28 for no gain (B.Trawick).",4th & 2 at KC 27
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,3,KC,0,1,0,-1 Yard Run,(4:34) (Shotgun) K.Hunt right end to TEN 29 for -1 yards (W.Woodyard; A.Williamson).,1st & 10 at TEN 28
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,3,KC,0,2,0,-2 Yard Pass,(3:53) (Shotgun) A.Smith pass short right to T.Hill ran ob at TEN 31 for -2 yards (L.Ryan).,2nd & 11 at TEN 29
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,3,KC,0,3,0,1 Yard Run,(3:14) (Shotgun) A.Smith scrambles up the middle to TEN 30 for 1 yard (D.King).,3rd & 13 at TEN 31
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,3RD QUARTER,3,KC,0,4,0,Field Goal No Good,"(2:31) H.Butker 48 yard field goal is No Good, Hit Left Upright, Center-J.Winchester, Holder-D.Colquitt.",4th & 12 at TEN 30
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,1,TEN,1,1,0,13 Yard Pass,(2:25) (Shotgun) M.Mariota pass short left to C.Davis to KC 49 for 13 yards (F.Zombo).,1st & 10 at TEN 38
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,1,TEN,1,2,0,-5 Yard Penalty,"(1:48) (Shotgun) PENALTY on TEN-T.Lewan, False Start, 5 yards, enforced at KC 49 - No Play.",1st & 10 at KC 49
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,1,TEN,1,3,0,5 Yard Pass,(1:20) (Shotgun) M.Mariota pass short left to J.Smith to KC 49 for 5 yards (K.Pierre-Louis).,1st & 15 at TEN 46
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,1,TEN,1,4,0,Pass Incomplete,(:41) (Shotgun) M.Mariota pass incomplete deep right.,2nd & 10 at KC 49
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,1,TEN,1,5,0,14 Yard Pass,(:31) (Shotgun) M.Mariota pass short middle to D.Walker to KC 35 for 14 yards (E.Murray).,3rd & 10 at KC 49
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,1,TEN,1,6,0,Run for No Gain,(15:00) (Shotgun) D.Henry left end to KC 35 for no gain (D.Revis; K.Pierre-Louis).,1st & 10 at KC 35
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,1,TEN,1,7,0,Touchdown Titans,"(14:17) (Shotgun) D.Henry up the middle for 35 yards, TOUCHDOWN.",2nd & 10 at KC 35
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,1,TEN,1,8,1,2PT Conversion Fails,"TWO-POINT CONVERSION ATTEMPT. M.Mariota pass to R.Matthews is complete. ATTEMPT FAILS.
+Penalty on TEN, Illegal Shift, declined.",XP attempt from KC 2
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,2,KC,0,1,0,Kickoff,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback.",Kickoff from TEN 35
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,2,KC,0,2,0,5 Yard Pass,(14:08) (Shotgun) A.Smith pass short left to T.Hill to KC 30 for 5 yards (A.Jackson).,1st & 10 at KC 25
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,2,KC,0,3,0,8 Yard Pass,(13:26) (Shotgun) A.Smith pass short left to A.Wilson pushed ob at KC 38 for 8 yards (J.Cyprien).,2nd & 5 at KC 30
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,2,KC,0,4,0,7 Yard Run,(12:52) (Shotgun) K.Hunt up the middle to KC 45 for 7 yards (W.Woodyard; J.Casey).,1st & 10 at KC 38
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,2,KC,0,5,0,1 Yard Run,(12:16) K.Hunt right tackle to KC 46 for 1 yard (D.Morgan; A.Johnson).,2nd & 3 at KC 45
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,2,KC,0,6,0,Pass Incomplete,(11:30) (Shotgun) A.Smith pass incomplete short right to O.Charles.,3rd & 2 at KC 46
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,2,KC,0,7,0,Punt,"(11:26) D.Colquitt punts 54 yards to end zone, Center-J.Winchester, Touchback.",4th & 2 at KC 46
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,3,TEN,1,1,0,Pass Incomplete,(11:15) (Shotgun) M.Mariota pass incomplete short middle to J.Smith.,1st & 10 at TEN 20
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,3,TEN,1,2,0,7 Yard Run,(11:11) (Shotgun) D.Henry up the middle to TEN 27 for 7 yards (R.Ragland).,2nd & 10 at TEN 20
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,3,TEN,1,3,0,9 Yard Pass,(10:31) (Shotgun) M.Mariota pass short middle to D.Walker to TEN 36 for 9 yards (D.Johnson).,3rd & 3 at TEN 27
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,3,TEN,1,4,0,Pass Incomplete,"(9:54) (No Huddle, Shotgun) M.Mariota pass incomplete deep right to E.Decker (S.Nelson).",1st & 10 at TEN 36
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,3,TEN,1,5,0,2 Yard Run,(9:46) (Shotgun) M.Mariota scrambles right end to TEN 38 for 2 yards (D.Johnson).,2nd & 10 at TEN 36
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,3,TEN,1,6,0,22 Yard Run,"(8:56) (Shotgun) M.Mariota scrambles right end to KC 45 for 17 yards (R.Parker).
+PENALTY on KC-M.Peters, Defensive Holding, 5 yards, enforced at KC 45.",3rd & 8 at TEN 38
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,3,TEN,1,7,0,9 Yard Run,(8:24) (Shotgun) D.Henry left tackle to KC 31 for 9 yards (D.Sorensen).,1st & 10 at KC 40
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,3,TEN,1,8,0,-1 Yard Pass,(7:42) (Shotgun) M.Mariota pass short right to E.Decker to KC 32 for -1 yards (M.Peters).,2nd & 1 at KC 31
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,3,TEN,1,9,0,10 Yard Pass,(6:55) (Shotgun) M.Mariota pass short right to J.Smith to KC 22 for 10 yards (M.Peters).,3rd & 2 at KC 32
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,3,TEN,1,10,0,Pass Incomplete,(6:17) (Shotgun) M.Mariota pass incomplete deep right to C.Davis.,1st & 10 at KC 22
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,3,TEN,1,11,0,Touchdown Titans,"(6:10) (Shotgun) M.Mariota pass deep middle to E.Decker for 22 yards, TOUCHDOWN.",2nd & 10 at KC 22
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,3,TEN,1,12,1,2PT Conversion Fails,TWO-POINT CONVERSION ATTEMPT. M.Mariota is sacked. ATTEMPT FAILS. Sack by D.Sorenson ruled forward progress stopped negating D.Sorenson 58 yard return.,XP attempt from KC 2
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,4,KC,0,1,0,Kickoff,R.Succop kicks 67 yards from TEN 35 to KC -2. C.West to KC 27 for 29 yards (D.Searcy).,Kickoff from TEN 35
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,4,KC,0,2,0,13 Yard Pass,(5:58) (Shotgun) A.Smith pass short right to D.Harris to KC 40 for 13 yards (J.Brown; T.Smith).,1st & 10 at KC 27
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,4,KC,0,3,0,1 Yard Run,"(5:20) (Shotgun) A.Smith right end pushed ob at TEN 42 for 18 yards (J.Cyprien).
+PENALTY on KC-D.Harris, Offensive Holding, 10 yards, enforced at TEN 49.",1st & 10 at KC 40
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,4,KC,0,4,0,Pass Incomplete,(4:50) (Shotgun) A.Smith pass incomplete short middle to T.Hill (J.Casey).,1st & 9 at KC 41
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,4,KC,0,5,0,Sack,(4:46) (Shotgun) A.Smith sacked at KC 41 for 0 yards (B.Orakpo).,2nd & 9 at KC 41
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,4,KC,0,6,0,5 Yard Penalty,"(4:01) (Shotgun) PENALTY on TEN-J.Casey, Neutral Zone Infraction, 5 yards, enforced at KC 41 - No Play.",3rd & 9 at KC 41
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,4,KC,0,7,0,9 Yard Pass,(4:01) (Shotgun) A.Smith pass short right to D.Harris to TEN 45 for 9 yards (J.Brown).,3rd & 4 at KC 46
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,4,KC,0,8,0,1 Yard Run,(3:27) (Shotgun) K.Hunt up the middle to TEN 44 for 1 yard (J.Casey; W.Woodyard). KC-D.Robinson was injured during the play.,1st & 10 at TEN 45
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,4,KC,0,9,0,Pass Incomplete,(2:56) (Shotgun) A.Smith pass incomplete short left to D.Harris (J.Cyprien).,2nd & 9 at TEN 44
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,4,KC,0,10,0,Sack,(2:51) (Shotgun) A.Smith sacked at TEN 44 for 0 yards (D.Morgan).,3rd & 9 at TEN 44
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,4,KC,0,11,0,Turnover on Downs,(2:15) (Shotgun) A.Smith pass incomplete deep middle to A.Wilson.,4th & 9 at TEN 44
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,5,TEN,0,1,0,12 Yard Run,(2:09) D.Henry left end to KC 44 for 12 yards (F.Zombo).,1st & 10 at TEN 44
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,5,TEN,0,2,0,-2 Yard Run,"(2:00) D.Henry up the middle to KC 46 for -2 yards (M.Peters). FUMBLES (M.Peters), RECOVERED by KC-D.Johnson at KC 44. D.Johnson for 56 yards, TOUCHDOWN.
+The Replay Official reviewed the fumble ruling, and the play was REVERSED.
+D.Henry up the middle to KC 46 for -2 yards (M.Peters).",1st & 10 at KC 44
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,5,TEN,0,3,0,2 Yard Run,(1:57) D.Henry up the middle to KC 44 for 2 yards (J.Hamilton).,2nd & 12 at KC 46
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,5,TEN,0,4,0,33 Yard Run,"(1:53) (Shotgun) D.Henry left end to KC 22 for 22 yards (R.Parker).
+PENALTY on KC-M.Peters, Unnecessary Roughness, 11 yards, enforced at KC 22.",3rd & 10 at KC 44
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,5,TEN,0,5,0,-2 Yard Run,(1:40) M.Mariota kneels to KC 13 for -2 yards.,1st & 10 at KC 11
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,5,TEN,0,6,0,-2 Yard Run,(:54) M.Mariota kneels to KC 15 for -2 yards.,2nd & 12 at KC 13
+2017,Wild Card Weekend,SAT,01/06,Titans,Chiefs,4TH QUARTER,5,TEN,0,7,0,-2 Yard Run,(:27) M.Mariota kneels to KC 17 for -2 yards.,3rd & 14 at KC 15
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,1,LA,0,1,0,Kickoff,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback.",Kickoff from ATL 35
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,1,LA,0,2,0,4 Yard Run,(15:00) T.Gurley left guard to LAR 29 for 4 yards (K.Neal).,1st & 10 at LAR 25
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,1,LA,0,3,0,Pass Incomplete,(14:20) (No Huddle) J.Goff pass incomplete short left to T.Gurley.,2nd & 6 at LAR 29
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,1,LA,0,4,0,-1 Yard Sack,(14:16) (Shotgun) J.Goff sacked at LAR 28 for -1 yards (V.Beasley).,3rd & 6 at LAR 29
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,1,LA,0,5,0,Punt,"(13:41) J.Hekker punts 66 yards to ATL 6, Center-J.McQuaide, downed by LAR-C.Davis.",4th & 7 at LAR 28
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,2,ATL,0,1,0,Pass Incomplete,(13:26) M.Ryan pass incomplete short middle to M.Sanu (T.Hill).,1st & 10 at ATL 6
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,2,ATL,0,2,0,Pass Incomplete,(13:21) (Shotgun) M.Ryan pass incomplete deep right.,2nd & 10 at ATL 6
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,2,ATL,0,3,0,6 Yard Pass,(13:13) (Shotgun) M.Ryan pass short right to Ju.Jones to ATL 12 for 6 yards (M.Barron).,3rd & 10 at ATL 6
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,2,ATL,0,4,0,Punt,"(12:37) M.Bosher punts 51 yards to LAR 37, Center-J.Harris. P.Cooper to LAR 46 for 9 yards (D.Riley).",4th & 4 at ATL 12
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,3,LA,0,1,0,8 Yard Run,(12:22) T.Gurley left end pushed ob at ATL 46 for 8 yards (D.Jones).,1st & 10 at LAR 46
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,3,LA,0,2,0,Pass Incomplete,(11:52) J.Goff pass incomplete short left to C.Kupp.,2nd & 2 at ATL 46
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,3,LA,0,3,0,-5 Yard Sack,(11:48) (Shotgun) J.Goff sacked at LAR 49 for -5 yards (T.McKinley).,3rd & 2 at ATL 46
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,3,LA,0,4,0,Punt,"(11:05) J.Hekker punts 45 yards to ATL 6, Center-J.McQuaide. A.Roberts ran ob at ATL 10 for 4 yards (C.Littleton).",4th & 7 at LAR 49
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,4,ATL,0,1,0,-3 Yard Run,"(10:55) D.Freeman left end to ATL 7 for -3 yards (R.Quinn, E.Westbrooks).",1st & 10 at ATL 10
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,4,ATL,0,2,0,4 Yard Run,(10:12) (Shotgun) M.Ryan scrambles left end to ATL 11 for 4 yards (A.Ogletree).,2nd & 13 at ATL 7
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,4,ATL,0,3,0,3 Yard Pass,(9:37) (Shotgun) M.Ryan pass short left to D.Freeman to ATL 14 for 3 yards (T.Johnson).,3rd & 9 at ATL 11
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,4,ATL,0,4,0,Fumble,"(8:56) M.Bosher punts 43 yards to LAR 43, Center-J.Harris. B.Countess MUFFS catch, touched at LAR 30, RECOVERED by ATL-L.Reynolds at LAR 17. L.Reynolds to LAR 17 for no gain (J.Reynolds).
+The Replay Official reviewed the kick touched ruling, and the play was Upheld. The ruling on the field was confirmed.",4th & 6 at ATL 14
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,5,ATL,1,1,0,3 Yard Run,(8:40) T.Sambrailo reported in as eligible.  T.Coleman left end to LAR 14 for 3 yards (T.Hill).,1st & 10 at LAR 17
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,5,ATL,1,2,0,Pass Incomplete,(8:02) M.Ryan pass incomplete short left to M.Sanu.,2nd & 7 at LAR 14
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,5,ATL,1,3,0,3 Yard Run,(7:56) (Shotgun) M.Ryan scrambles up the middle to LAR 11 for 3 yards (R.Quinn).,3rd & 7 at LAR 14
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,5,ATL,1,4,1,Field Goal,"(7:17) M.Bryant 29 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",4th & 4 at LAR 11
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,6,LA,0,1,0,Kickoff,"M.Bosher kicks 61 yards from ATL 35 to LAR 4. P.Cooper to LAR 17 for 13 yards (D.Kazee). LAR-P.Cooper was injured during the play. His return is Probable. 
+PENALTY on ATL-D.Kazee, Low Block, 15 yards, enforced at LAR 17.",Kickoff from ATL 35
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,6,LA,0,2,0,5 Yard Penalty,"(7:07) PENALTY on ATL-B.Reed, Neutral Zone Infraction, 5 yards, enforced at LAR 32 - No Play.",1st & 10 at LAR 32
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,6,LA,0,3,0,5 Yard Run,(7:07) T.Gurley up the middle to LAR 42 for 5 yards (C.Upshaw; K.Neal).,1st & 5 at LAR 37
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,6,LA,0,4,0,3 Yard Pass,(6:33) (No Huddle) J.Goff pass short left to T.Gurley to LAR 45 for 3 yards (B.Poole).,1st & 10 at LAR 42
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,6,LA,0,5,0,Pass Incomplete,(5:54) (No Huddle) J.Goff pass incomplete deep left to S.Watkins (R.Alford).,2nd & 7 at LAR 45
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,6,LA,0,6,0,Pass Incomplete,(5:47) (Shotgun) J.Goff pass incomplete short left to C.Kupp (D.Trufant).,3rd & 7 at LAR 45
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,6,LA,0,7,0,Punt,"(5:41) J.Hekker punts 45 yards to ATL 10, Center-J.McQuaide, fair catch by A.Roberts.",4th & 7 at LAR 45
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,7,ATL,1,1,0,4 Yard Run,(5:35) T.Sambrailo reported in as eligible.  D.Freeman up the middle to ATL 14 for 4 yards (A.Ogletree).,1st & 10 at ATL 10
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,7,ATL,1,2,0,3 Yard Run,(4:53) D.Freeman up the middle to ATL 17 for 3 yards (E.Westbrooks).,2nd & 6 at ATL 14
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,7,ATL,1,3,0,6 Yard Pass,(4:13) (Shotgun) M.Ryan pass short middle to M.Sanu to ATL 23 for 6 yards (N.Robey).,3rd & 3 at ATL 17
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,7,ATL,1,4,0,27 Yard Pass,(3:31) M.Ryan pass deep left to Ju.Jones ran ob at 50 for 27 yards (L.Joyner).,1st & 10 at ATL 23
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,7,ATL,1,5,0,13 Yard Run,(2:53) Ju.Jones right end to LAR 37 for 13 yards (L.Joyner).,1st & 10 at 50
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,7,ATL,1,6,0,4 Yard Run,(2:11) T.Coleman right end pushed ob at LAR 33 for 4 yards (S.Ebukam).,1st & 10 at LAR 37
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,7,ATL,1,7,0,Pass Incomplete,(1:39) (Shotgun) M.Ryan pass incomplete short middle to M.Sanu (N.Robey).,2nd & 6 at LAR 33
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,7,ATL,1,8,0,Pass Incomplete,(1:33) (Shotgun) M.Ryan pass incomplete short right to D.Freeman.,3rd & 6 at LAR 33
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,7,ATL,1,9,1,Field Goal,"(1:28) M.Bryant 51 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",4th & 6 at LAR 33
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,1ST QUARTER,8,LA,0,1,0,Fumble,"M.Bosher kicks 58 yards from ATL 35 to LAR 7. P.Cooper to LAR 28 for 21 yards (D.Kazee). FUMBLES (D.Kazee), RECOVERED by ATL-K.Ishmael at LAR 32. K.Ishmael to LAR 32 for no gain (B.Hager).",Kickoff from ATL 35
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,1,ATL,1,1,0,1 Yard Run,(1:15) D.Freeman up the middle to LAR 31 for 1 yard (A.Ogletree).,1st & 10 at LAR 32
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,1,ATL,1,2,0,7 Yard Run,(:38) D.Freeman left end to LAR 24 for 7 yards (A.Donald).,2nd & 9 at LAR 31
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,1,ATL,1,3,0,6 Yard Pass,(15:00) (Shotgun) M.Ryan pass short right to M.Sanu ran ob at LAR 18 for 6 yards (N.Robey).,3rd & 2 at LAR 24
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,1,ATL,1,4,0,Run for No Gain,(14:28) D.Freeman right end to LAR 18 for no gain (M.Fox).,1st & 10 at LAR 18
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,1,ATL,1,5,0,6 Yard Pass,(13:45) (Shotgun) M.Ryan pass short left to T.Coleman to LAR 12 for 6 yards (M.Barron).,2nd & 10 at LAR 18
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,1,ATL,1,6,0,5 Yard Pass,(12:59) (Shotgun) M.Ryan pass short middle to A.Hooper to LAR 7 for 5 yards (J.Johnson).,3rd & 4 at LAR 12
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,1,ATL,1,7,0,4 Yard Pass,(12:20) (Shotgun) M.Ryan pass short right to Ju.Jones pushed ob at LAR 3 for 4 yards (N.Robey).,1st & 7 at LAR 7
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,1,ATL,1,8,0,Touchdown Falcons,"(11:40) D.Freeman up the middle for 3 yards, TOUCHDOWN.",2nd & 3 at LAR 3
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,1,ATL,1,9,1,Extra Point Good,"M.Bryant extra point is GOOD, Center-J.Harris, Holder-M.Bosher.",XP attempt from LAR 15
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,2,LA,0,1,0,Kickoff,M.Bosher kicks 61 yards from ATL 35 to LAR 4. P.Cooper pushed ob at LAR 22 for 18 yards (K.Neal; L.Reynolds).,Kickoff from ATL 35
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,2,LA,0,2,0,Run for No Gain,"(11:29) T.Gurley up the middle to LAR 22 for no gain (D.Poe, T.McKinley).",1st & 10 at LAR 22
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,2,LA,0,3,0,17 Yard Pass,"(10:56) (No Huddle, Shotgun) J.Goff pass short right to R.Woods pushed ob at LAR 39 for 17 yards (K.Neal).",2nd & 10 at LAR 22
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,2,LA,0,4,0,-3 Yard Run,(10:21) (No Huddle) T.Gurley left end to LAR 36 for -3 yards (A.Clayborn).,1st & 10 at LAR 39
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,2,LA,0,5,0,Pass Incomplete,(9:44) (Shotgun) J.Goff pass incomplete short left to T.Gurley.,2nd & 13 at LAR 36
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,2,LA,0,6,0,15 Yard Pass,"(9:41) (Shotgun) J.Goff pass short left to R.Woods to ATL 49 for 15 yards (R.Alford).
+Penalty on ATL-R.Alford, Defensive Holding, declined.",3rd & 13 at LAR 36
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,2,LA,0,7,0,Pass Incomplete,(9:16) J.Goff pass incomplete short right to T.Gurley.,1st & 10 at ATL 49
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,2,LA,0,8,0,1 Yard Run,(9:10) (Shotgun) T.Gurley up the middle to ATL 48 for 1 yard (V.Beasley; D.Jones).,2nd & 10 at ATL 49
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,2,LA,0,9,0,Pass Incomplete,(8:46) (Shotgun) J.Goff pass incomplete short middle to T.Gurley [D.Campbell].,3rd & 9 at ATL 48
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,2,LA,0,10,0,Punt,"(8:43) J.Hekker punts 35 yards to ATL 13, Center-J.McQuaide, fair catch by A.Roberts.",4th & 9 at ATL 48
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,3,ATL,0,1,0,11 Yard Pass,(8:34) (Shotgun) M.Ryan pass short right to M.Sanu to ATL 24 for 11 yards (M.Barron).,1st & 10 at ATL 13
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,3,ATL,0,2,0,2 Yard Run,(7:56) T.Coleman up the middle to ATL 26 for 2 yards (A.Donald).,1st & 10 at ATL 24
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,3,ATL,0,3,0,5 Yard Pass,"(7:14) (Shotgun) M.Ryan pass short middle to A.Hooper to ATL 31 for 5 yards (M.Barron, L.Joyner).",2nd & 8 at ATL 26
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,3,ATL,0,4,0,Sack,"(6:28) (Shotgun) M.Ryan sacked at ATL 24 for -7 yards (sack split by A.Donald and M.Brockers). LAR-M.Brockers was injured during the play. He is Out.  LAR #90 M.Brockers, knee injury.",3rd & 3 at ATL 31
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,3,ATL,0,5,0,Punt,"(5:54) M.Bosher punts 55 yards to LAR 21, Center-J.Harris. P.Cooper to LAR 21 for no gain (T.Ward).",4th & 10 at ATL 24
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,4,LA,1,1,0,4 Yard Run,"(5:39) T.Gurley right tackle to LAR 25 for 4 yards (V.Beasley, C.Upshaw).",1st & 10 at LAR 21
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,4,LA,1,2,0,41 Yard Run,"(4:59) T.Gurley up the middle pushed ob at ATL 49 for 26 yards (R.Alford).
+PENALTY on ATL-R.Allen, Unnecessary Roughness, 15 yards, enforced at ATL 49.",2nd & 6 at LAR 25
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,4,LA,1,3,0,Pass Incomplete,(4:36) (Shotgun) J.Goff pass incomplete deep left to R.Woods.,1st & 10 at ATL 34
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,4,LA,1,4,0,15 Yard Pass,(4:31) (Shotgun) J.Goff pass short middle to C.Kupp to ATL 19 for 15 yards (B.Poole).,2nd & 10 at ATL 34
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,4,LA,1,5,0,2 Yard Pass,(4:00) (No Huddle) J.Goff pass short right to R.Woods to ATL 17 for 2 yards (B.Poole).,1st & 10 at ATL 19
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,4,LA,1,6,0,3 Yard Run,(3:23) M.Brown up the middle to ATL 14 for 3 yards (D.Jones; D.Poe).,2nd & 8 at ATL 17
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,4,LA,1,7,0,Touchdown Rams,"(2:40) (Shotgun) J.Goff pass short left to C.Kupp for 14 yards, TOUCHDOWN.",3rd & 5 at ATL 14
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,4,LA,1,8,1,Extra Point Good,"S.Ficken extra point is GOOD, Center-J.McQuaide, Holder-J.Hekker.",XP attempt from ATL 15
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,5,ATL,0,1,0,Kickoff,S.Ficken kicks 62 yards from LAR 35 to ATL 3. A.Roberts to ATL 10 for 7 yards (C.Davis).,Kickoff from LAR 35
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,5,ATL,0,2,0,6 Yard Run,"(2:30) T.Coleman right guard to ATL 16 for 6 yards (M.Barron, C.Barwin).",1st & 10 at ATL 10
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,5,ATL,0,3,0,7 Yard Pass,(2:09) M.Ryan pass short left to Ju.Jones ran ob at ATL 23 for 7 yards (T.Johnson).,2nd & 4 at ATL 16
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,5,ATL,0,4,0,4 Yard Run,(2:00) (Shotgun) D.Freeman up the middle to ATL 27 for 4 yards (M.Barron).,1st & 10 at ATL 23
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,5,ATL,0,5,0,-10 Yard Sack,(1:38) (No Huddle) M.Ryan sacked at ATL 17 for -10 yards (R.Quinn).,2nd & 6 at ATL 27
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,5,ATL,0,6,0,Sack,(1:34) (Shotgun) M.Ryan sacked at ATL 14 for -3 yards (sack split by M.Fox and C.Barwin).,3rd & 16 at ATL 17
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,5,ATL,0,7,0,Punt,"(1:29) M.Bosher punts 60 yards to LAR 26, Center-J.Harris. P.Cooper to LAR 40 for 14 yards (D.Kazee).
+PENALTY on LAR-C.Littleton, Offensive Holding, 10 yards, enforced at LAR 26.",4th & 19 at ATL 14
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,6,LA,1,1,0,5 Yard Pass,(1:15) (Shotgun) J.Goff pass short middle to C.Kupp to LAR 21 for 5 yards (D.Jones).,1st & 10 at LAR 16
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,6,LA,1,2,0,10 Yard Pass,(1:10) (Shotgun) J.Goff pass short middle to C.Kupp to LAR 31 for 10 yards (K.Neal).,2nd & 5 at LAR 21
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,6,LA,1,3,0,8 Yard Pass,"(:53) (No Huddle, Shotgun) J.Goff pass short right to R.Woods ran ob at LAR 39 for 8 yards.",1st & 10 at LAR 31
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,6,LA,1,4,0,16 Yard Penalty,"(:48) (Shotgun) J.Goff pass incomplete deep right to G.Everett.
+PENALTY on ATL-B.Wreh-Wilson, Defensive Pass Interference, 16 yards, enforced at LAR 39 - No Play.",2nd & 2 at LAR 39
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,6,LA,1,5,0,38 Yard Pass,"(:43) (No Huddle, Shotgun) J.Goff pass deep middle to R.Woods to ATL 7 for 38 yards (D.Trufant).
+The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands.",1st & 10 at ATL 45
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,6,LA,1,6,0,Pass Incomplete,"(:18) (Shotgun) J.Goff pass short left to T.Gurley to ATL 3 for 4 yards (R.Alford).
+The Replay Official reviewed the pass completion ruling, and the play was REVERSED.
+(Shotgun) J.Goff pass incomplete short left to T.Gurley.",1st & 7 at ATL 7
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,6,LA,1,7,0,-10 Yard Penalty,"(:14) (Shotgun) J.Goff pass incomplete short right to S.Watkins.
+PENALTY on LAR-R.Havenstein, Offensive Holding, 10 yards, enforced at ATL 7 - No Play.",2nd & 7 at ATL 7
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,6,LA,1,8,1,Field Goal,"(:08) S.Ficken 35 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2nd & 17 at ATL 17
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,7,ATL,0,1,0,Kickoff,"S.Ficken kicks 65 yards from LAR 35 to end zone, Touchback.",Kickoff from LAR 35
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,2ND QUARTER,7,ATL,0,2,0,-1 Yard Run,(:03) M.Ryan kneels to ATL 24 for -1 yards.,1st & 10 at ATL 25
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,1,ATL,1,1,0,Kickoff,S.Ficken kicks 66 yards from LAR 35 to ATL -1. A.Roberts to ATL 17 for 18 yards (B.Hager; B.Countess).,Kickoff from LAR 35
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,1,ATL,1,2,0,1 Yard Run,(14:54) D.Freeman left end pushed ob at ATL 18 for 1 yard (T.Hill).,1st & 10 at ATL 17
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,1,ATL,1,3,0,22 Yard Run,(14:17) D.Freeman left tackle to ATL 40 for 22 yards (L.Joyner).,2nd & 9 at ATL 18
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,1,ATL,1,4,0,Pass Incomplete,(13:35) M.Ryan pass incomplete short right to Ju.Jones [M.Fox].,1st & 10 at ATL 40
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,1,ATL,1,5,0,1 Yard Run,"(13:30) T.Coleman up the middle to ATL 41 for 1 yard (E.Westbrooks, M.Barron).",2nd & 10 at ATL 40
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,1,ATL,1,6,0,14 Yard Pass,(12:54) (Shotgun) M.Ryan pass short middle to T.Coleman to LAR 45 for 14 yards (M.Barron).,3rd & 9 at ATL 41
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,1,ATL,1,7,0,5 Yard Penalty,"(12:27) T.Coleman right tackle to LAR 45 for no gain (M.Barron).
+PENALTY on LAR-E.Westbrooks, Defensive Offside, 5 yards, enforced at LAR 45 - No Play.
+Penalty on LAR-E.Westbrooks, Defensive 12 On-field, declined.",1st & 10 at LAR 45
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,1,ATL,1,8,0,10 Yard Run,(12:15) D.Freeman right tackle to LAR 30 for 10 yards (L.Joyner).,1st & 5 at LAR 40
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,1,ATL,1,9,0,4 Yard Run,(11:32) D.Freeman right tackle to LAR 26 for 4 yards (T.Walker).,1st & 10 at LAR 30
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,1,ATL,1,10,0,5 Yard Run,(10:50) (Shotgun) D.Freeman right end to LAR 21 for 5 yards (M.Fox).,2nd & 6 at LAR 26
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,1,ATL,1,11,0,Run for No Gain,(10:04) (Shotgun) T.Coleman up the middle to LAR 21 for no gain (M.Fox).,3rd & 1 at LAR 21
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,1,ATL,1,12,0,1 Yard Run,(9:43) (No Huddle) M.Ryan up the middle to LAR 20 for 1 yard (A.Ogletree).,4th & 1 at LAR 21
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,1,ATL,1,13,0,5 Yard Run,(9:05) T.Coleman up the middle to LAR 15 for 5 yards (C.Barwin).,1st & 10 at LAR 20
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,1,ATL,1,14,0,6 Yard Run,"(8:31) T.Coleman right tackle to LAR 9 for 6 yards (A.Ogletree, T.Walker).",2nd & 5 at LAR 15
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,1,ATL,1,15,0,Run for No Gain,(7:54) D.Freeman right end pushed ob at LAR 9 for no gain (M.Barron). LAR-L.Joyner was injured during the play. His return is Probable.,1st & 9 at LAR 9
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,1,ATL,1,16,0,2 Yard Pass,(7:36) M.Ryan pass short left to Ju.Jones to LAR 7 for 2 yards (B.Countess).,2nd & 9 at LAR 9
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,1,ATL,1,17,0,Pass Incomplete,(6:54) (Shotgun) M.Ryan pass incomplete short middle to A.Hooper.,3rd & 7 at LAR 7
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,1,ATL,1,18,1,Field Goal,"(6:48) M.Bryant 25 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",4th & 7 at LAR 7
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,2,LA,0,1,0,Kickoff,M.Bosher kicks 61 yards from ATL 35 to LAR 4. P.Cooper pushed ob at LAR 26 for 22 yards (K.Ishmael).,Kickoff from ATL 35
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,2,LA,0,2,0,Pass Incomplete,(6:40) J.Goff pass incomplete short left to C.Kupp (R.Alford).,1st & 10 at LAR 26
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,2,LA,0,3,0,Pass Incomplete,(6:33) (Shotgun) J.Goff pass incomplete short middle to C.Kupp.,2nd & 10 at LAR 26
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,2,LA,0,4,0,25 Yard Pass,(6:27) (Shotgun) J.Goff pass deep right to R.Woods pushed ob at ATL 49 for 25 yards (B.Wreh-Wilson).,3rd & 10 at LAR 26
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,2,LA,0,5,0,3 Yard Run,(5:52) T.Gurley right tackle to ATL 46 for 3 yards (T.McKinley).,1st & 10 at ATL 49
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,2,LA,0,6,0,Pass Incomplete,(5:28) (No Huddle) J.Goff pass incomplete deep right to R.Woods (D.Trufant).,2nd & 7 at ATL 46
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,2,LA,0,7,0,Pass Incomplete,(5:22) (Shotgun) J.Goff pass incomplete short left to T.Gurley (T.McKinley).,3rd & 7 at ATL 46
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,2,LA,0,8,0,Punt,"(5:18) J.Hekker punts 27 yards to ATL 19, Center-J.McQuaide, fair catch by A.Roberts.",4th & 7 at ATL 46
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,3,ATL,1,1,0,Pass Incomplete,(5:11) M.Ryan pass incomplete short left to A.Hooper (T.Hill).,1st & 10 at ATL 19
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,3,ATL,1,2,0,12 Yard Pass,(5:04) M.Ryan pass short right to Ju.Jones to ATL 31 for 12 yards (J.Johnson).,2nd & 10 at ATL 19
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,3,ATL,1,3,0,3 Yard Run,(4:29) D.Freeman left guard to ATL 34 for 3 yards (J.Johnson).,1st & 10 at ATL 31
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,3,ATL,1,4,0,16 Yard Pass,"(3:52) M.Ryan pass short right to Ju.Jones to 50 for 16 yards (L.Joyner, T.Johnson).",2nd & 7 at ATL 34
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,3,ATL,1,5,0,7 Yard Run,(3:14) T.Coleman right tackle to LAR 43 for 7 yards (A.Donald).,1st & 10 at 50
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,3,ATL,1,6,0,3 Yard Run,(2:38) T.Coleman left tackle to LAR 40 for 3 yards (M.Fox).,2nd & 3 at LAR 43
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,3,ATL,1,7,0,3 Yard Pass,(1:56) M.Ryan pass short right to J.Hardy to LAR 37 for 3 yards (T.Hill).,1st & 10 at LAR 40
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,3,ATL,1,8,0,1 Yard Run,(1:13) T.Coleman up the middle to LAR 36 for 1 yard (J.Johnson).,2nd & 7 at LAR 37
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,3,ATL,1,9,0,Pass Incomplete,(:31) (Shotgun) M.Ryan pass incomplete short middle to M.Sanu (T.Hill).,3rd & 6 at LAR 36
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,3RD QUARTER,3,ATL,1,10,1,Field Goal,"(:24) M.Bryant 54 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",4th & 6 at LAR 36
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,1,LA,1,1,0,Kickoff,M.Bosher kicks 71 yards from ATL 35 to LAR -6. P.Cooper to LAR 20 for 26 yards (K.Ishmael).,Kickoff from ATL 35
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,1,LA,1,2,0,-5 Yard Run,(:12) T.Gurley right end to LAR 15 for -5 yards (D.Jones).,1st & 10 at LAR 20
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,1,LA,1,3,0,Pass Incomplete,(15:00) (Shotgun) J.Goff pass incomplete short left to C.Kupp (C.Upshaw).,2nd & 15 at LAR 15
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,1,LA,1,4,0,18 Yard Pass,(14:56) (Shotgun) J.Goff pass deep right to R.Woods to LAR 33 for 18 yards (D.Campbell).,3rd & 15 at LAR 15
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,1,LA,1,5,0,14 Yard Run,(14:16) T.Gurley left tackle to LAR 47 for 14 yards (D.Jones).,1st & 10 at LAR 33
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,1,LA,1,6,0,33 Yard Run,(13:37) T.Gurley left tackle to ATL 20 for 33 yards (R.Allen).,1st & 10 at LAR 47
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,1,LA,1,7,0,3 Yard Run,(12:53) T.Gurley up the middle to ATL 17 for 3 yards (D.Poe).,1st & 10 at ATL 20
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,1,LA,1,8,0,-7 Yard Sack,(12:13) (Shotgun) J.Goff sacked at ATL 24 for -7 yards (D.Campbell).,2nd & 7 at ATL 17
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,1,LA,1,9,0,11 Yard Run,(11:32) (Shotgun) M.Brown up the middle to ATL 13 for 11 yards (K.Neal).,3rd & 14 at ATL 24
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,1,LA,1,10,1,Field Goal,"(10:54) S.Ficken 32 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",4th & 3 at ATL 13
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,2,ATL,1,1,0,Kickoff,S.Ficken kicks 55 yards from LAR 35 to ATL 10. A.Roberts to ATL 17 for 7 yards (C.Davis).,Kickoff from LAR 35
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,2,ATL,1,2,0,12 Yard Pass,(10:47) M.Ryan pass short left to Ju.Jones to ATL 29 for 12 yards (L.Joyner).,1st & 10 at ATL 17
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,2,ATL,1,3,0,8 Yard Pass,(10:06) M.Ryan pass short right to T.Coleman to ATL 37 for 8 yards (T.Hill; J.Johnson).,1st & 10 at ATL 29
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,2,ATL,1,4,0,-1 Yard Run,"(9:24) T.Coleman left end pushed ob at ATL 36 for -1 yards (T.Hill, M.Barron).",2nd & 2 at ATL 37
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,2,ATL,1,5,0,5 Yard Pass,(8:45) (Shotgun) M.Ryan pass short left to A.Hooper to ATL 41 for 5 yards (L.Joyner).,3rd & 3 at ATL 36
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,2,ATL,1,6,0,-3 Yard Run,(8:05) D.Freeman left tackle to ATL 38 for -3 yards (A.Donald).,1st & 10 at ATL 41
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,2,ATL,1,7,0,52 Yard Pass,(7:22) (Shotgun) M.Ryan pass short right to M.Sanu to LAR 10 for 52 yards (L.Joyner).,2nd & 13 at ATL 38
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,2,ATL,1,8,0,2 Yard Run,"(6:35) T.Sambrailo reported in as eligible.  D.Freeman right end to LAR 8 for 2 yards (T.Hill, J.Johnson).",1st & 10 at LAR 10
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,2,ATL,1,9,0,Touchdown Falcons,"(5:54) (Shotgun) M.Ryan pass short right to Ju.Jones for 8 yards, TOUCHDOWN [C.Barwin].",2nd & 8 at LAR 8
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,2,ATL,1,10,1,Extra Point Good,"M.Bryant extra point is GOOD, Center-J.Harris, Holder-M.Bosher.",XP attempt from LAR 15
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,3,LA,0,1,0,Kickoff,M.Bosher kicks 63 yards from ATL 35 to LAR 2. P.Cooper pushed ob at LAR 22 for 20 yards (L.Toilolo).,Kickoff from ATL 35
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,3,LA,0,2,0,14 Yard Pass,(5:43) (Shotgun) J.Goff pass short middle to C.Kupp to LAR 36 for 14 yards (D.Jones) [A.Clayborn].,1st & 10 at LAR 22
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,3,LA,0,3,0,Pass Incomplete,"(5:23) (No Huddle, Shotgun) J.Goff pass incomplete short right to R.Woods.",1st & 10 at LAR 36
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,3,LA,0,4,0,-5 Yard Penalty,"(5:19) (Shotgun) PENALTY on LAR-R.Woods, False Start, 5 yards, enforced at LAR 36 - No Play.",2nd & 10 at LAR 36
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,3,LA,0,5,0,-4 Yard Pass,"(5:19) (Shotgun) J.Goff pass short right to T.Higbee to ATL 45 for 24 yards (D.Jones; D.Trufant).
+PENALTY on LAR-R.Woods, Unnecessary Roughness, 15 yards, enforced at LAR 42.",2nd & 15 at LAR 31
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,3,LA,0,6,0,23 Yard Pass,(4:46) (Shotgun) J.Goff pass deep middle to S.Watkins to 50 for 23 yards (D.Trufant).,2nd & 19 at LAR 27
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,3,LA,0,7,0,13 Yard Pass,"(4:32) (No Huddle, Shotgun) J.Goff pass short right to R.Woods ran ob at ATL 37 for 13 yards.",1st & 10 at 50
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,3,LA,0,8,0,5 Yard Pass,(4:28) (Shotgun) J.Goff pass short middle to C.Kupp to ATL 32 for 5 yards (D.Jones).,1st & 10 at ATL 37
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,3,LA,0,9,0,4 Yard Pass,"(4:12) (No Huddle, Shotgun) J.Goff pass short right to G.Everett to ATL 28 for 4 yards (D.Trufant).",2nd & 5 at ATL 32
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,3,LA,0,10,0,8 Yard Run,"(3:49) (No Huddle, Shotgun) T.Gurley up the middle to ATL 20 for 8 yards (D.Riley).",3rd & 1 at ATL 28
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,3,LA,0,11,0,3 Yard Pass,"(3:29) (No Huddle, Shotgun) J.Goff pass short left to T.Gurley to ATL 17 for 3 yards (B.Poole).",1st & 10 at ATL 20
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,3,LA,0,12,0,Pass for No Gain,"(3:12) (No Huddle, Shotgun) J.Goff pass short right to T.Gurley to ATL 17 for no gain (K.Neal).",2nd & 7 at ATL 17
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,3,LA,0,13,0,4 Yard Pass,"(2:52) (No Huddle, Shotgun) J.Goff pass short middle to C.Kupp to ATL 13 for 4 yards (D.Jones).",3rd & 7 at ATL 17
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,3,LA,0,14,0,6 Yard Pass,"(2:33) (No Huddle, Shotgun) J.Goff pass short right to R.Woods ran ob at ATL 7 for 6 yards (D.Trufant).",4th & 3 at ATL 13
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,3,LA,0,15,0,2 Yard Pass,"(2:26) (No Huddle, Shotgun) J.Goff pass short left to C.Kupp pushed ob at ATL 5 for 2 yards (R.Alford).",1st & 7 at ATL 7
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,3,LA,0,16,0,Pass Incomplete,(2:22) (Shotgun) J.Goff pass incomplete short left to R.Woods.,2nd & 5 at ATL 5
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,3,LA,0,17,0,Pass Incomplete,"(2:16) (Shotgun) J.Goff pass short middle to T.Higbee for 5 yards, TOUCHDOWN.
+The Replay Official reviewed the pass completion ruling, and the play was REVERSED.
+(Shotgun) J.Goff pass incomplete short middle to T.Higbee (K.Neal).",3rd & 5 at ATL 5
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,3,LA,0,18,0,Turnover on Downs,(2:11) (Shotgun) J.Goff pass incomplete short middle to S.Watkins (D.Jones) [G.Jarrett].,4th & 5 at ATL 5
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,4,ATL,0,1,0,3 Yard Run,(2:05) T.Sambrailo reported in as eligible.  D.Freeman up the middle to ATL 8 for 3 yards (L.Joyner).,1st & 10 at ATL 5
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,4,ATL,0,2,0,4 Yard Run,(2:00) T.Coleman up the middle to ATL 12 for 4 yards (L.Joyner).,2nd & 7 at ATL 8
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,4,ATL,0,3,0,-1 Yard Run,(1:56) T.Sambrailo and D.Poe reported in as eligible.  T.Coleman right guard to ATL 11 for -1 yards (T.Walker).,3rd & 3 at ATL 12
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,4,ATL,0,4,0,Punt,"(1:53) M.Bosher punts 36 yards to ATL 47, Center-J.Harris. P.Cooper to ATL 49 for -2 yards (K.Ishmael, L.Reynolds).",4th & 4 at ATL 11
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,5,LA,0,1,0,Pass Incomplete,(1:42) (Shotgun) J.Goff pass incomplete deep left to S.Watkins (R.Alford).,1st & 10 at ATL 49
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,5,LA,0,2,0,Pass Incomplete,(1:35) (Shotgun) J.Goff pass incomplete short right to G.Everett.,2nd & 10 at ATL 49
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,5,LA,0,3,0,4 Yard Pass,(1:27) (Shotgun) J.Goff pass short middle to T.Gurley to ATL 45 for 4 yards (K.Neal).,3rd & 10 at ATL 49
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,5,LA,0,4,0,Turnover on Downs,(1:14) (Shotgun) J.Goff pass incomplete short middle to R.Woods (V.Beasley).,4th & 6 at ATL 45
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,6,ATL,0,1,0,-1 Yard Run,(1:08) M.Ryan kneels to ATL 44 for -1 yards.,1st & 10 at ATL 45
+2017,Wild Card Weekend,SAT,01/06,Falcons,Rams,4TH QUARTER,6,ATL,0,2,0,-1 Yard Run,(:38) M.Ryan kneels to ATL 43 for -1 yards.,2nd & 11 at ATL 44
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,1,BUF,0,1,0,Kickoff,"J.Lambo kicks 65 yards from JAC 35 to end zone, Touchback.",Kickoff from JAC 35
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,1,BUF,0,2,0,Pass for No Gain,(15:00) T.Taylor pass short right to C.Clay to BUF 25 for no gain (T.Gipson).,1st & 10 at BUF 25
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,1,BUF,0,3,0,3 Yard Run,(14:27) (Shotgun) L.McCoy up the middle to BUF 28 for 3 yards (B.Church).,2nd & 10 at BUF 25
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,1,BUF,0,4,0,15 Yard Pass,(13:50) (Shotgun) T.Taylor pass short left to Z.Jones ran ob at BUF 43 for 15 yards.,3rd & 7 at BUF 28
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,1,BUF,0,5,0,Pass Incomplete,(13:16) T.Taylor pass incomplete short right.,1st & 10 at BUF 43
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,1,BUF,0,6,0,3 Yard Run,(13:08) L.McCoy right guard to BUF 46 for 3 yards (M.Dareus).,2nd & 10 at BUF 43
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,1,BUF,0,7,0,-8 Yard Sack,(12:27) (Shotgun) T.Taylor sacked at BUF 38 for -8 yards (M.Jackson).,3rd & 7 at BUF 46
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,1,BUF,0,8,0,Punt,"(11:47) C.Schmidt punts 53 yards to JAC 9, Center-R.Ferguson. J.Mickens MUFFS catch, ball out of bounds at JAC 9.",4th & 15 at BUF 38
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,2,JAX,0,1,0,2 Yard Run,(11:39) L.Fournette up the middle to JAC 11 for 2 yards (E.Yarbrough).,1st & 10 at JAC 9
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,2,JAX,0,2,0,4 Yard Pass,(11:04) B.Bortles pass short left to D.Westbrook pushed ob at JAC 15 for 4 yards (E.Gaines).,2nd & 8 at JAC 11
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,2,JAX,0,3,0,Pass Incomplete,(10:27) (Shotgun) B.Bortles pass incomplete short middle to L.Fournette.,3rd & 4 at JAC 15
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,2,JAX,0,4,0,Punt,"(10:23) B.Nortman punts 51 yards to BUF 34, Center-C.Holba. B.Tate, dead ball declared at BUF 34 for no gain.",4th & 4 at JAC 15
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,3,BUF,0,1,0,1 Yard Run,(10:13) L.McCoy up the middle to BUF 35 for 1 yard (C.Campbell).,1st & 10 at BUF 34
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,3,BUF,0,2,0,-1 Yard Run,(9:39) L.McCoy right end to BUF 34 for -1 yards (A.Bouye).,2nd & 9 at BUF 35
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,3,BUF,0,3,0,9 Yard Pass,(9:00) (Shotgun) T.Taylor pass short right to D.Thompson ran ob at BUF 43 for 9 yards.,3rd & 10 at BUF 34
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,3,BUF,0,4,0,Punt,"(8:20) (Punt formation) C.Schmidt punts 44 yards to JAC 13, Center-R.Ferguson, fair catch by J.Mickens.",4th & 1 at BUF 43
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,4,JAX,0,1,0,4 Yard Run,(8:11) (Shotgun) L.Fournette up the middle to JAC 17 for 4 yards (R.Davis).,1st & 10 at JAC 13
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,4,JAX,0,2,0,11 Yard Pass,"(7:35) (Shotgun) B.Bortles pass short middle to D.Westbrook to JAC 28 for 11 yards (L.Alexander, P.Brown).",2nd & 6 at JAC 17
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,4,JAX,0,3,0,5 Yard Run,(7:03) M.Lee right end ran ob at JAC 33 for 5 yards (L.Alexander).,1st & 10 at JAC 28
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,4,JAX,0,4,0,1 Yard Run,(6:36) L.Fournette up the middle to JAC 34 for 1 yard (J.Poyer; J.Hughes).,2nd & 5 at JAC 33
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,4,JAX,0,5,0,Pass Incomplete,(5:52) (Shotgun) B.Bortles pass incomplete short middle to D.Westbrook [K.Williams].,3rd & 4 at JAC 34
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,4,JAX,0,6,0,Punt,"(5:47) (Punt formation) B.Nortman punts 62 yards to BUF 4, Center-C.Holba, downed by JAC-P.Thompson.",4th & 4 at JAC 34
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,5,BUF,0,1,0,Pass Incomplete,(5:36) T.Taylor pass incomplete short left to P.DiMarco [C.Campbell].,1st & 10 at BUF 4
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,5,BUF,0,2,0,3 Yard Run,(5:32) M.Tolbert up the middle to BUF 7 for 3 yards (M.Jack).,2nd & 10 at BUF 4
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,5,BUF,0,3,0,10 Yard Pass,(5:04) (Shotgun) T.Taylor pass short middle to M.Tolbert to BUF 17 for 10 yards (T.Smith) [C.Campbell]. BUF-R.Incognito was injured during the play.,3rd & 7 at BUF 7
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,5,BUF,0,4,0,3 Yard Pass,(4:27) T.Taylor pass short right to L.McCoy pushed ob at BUF 20 for 3 yards (A.Bouye).,1st & 10 at BUF 17
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,5,BUF,0,5,0,9 Yard Pass,(3:49) T.Taylor pass short left to K.Benjamin to BUF 29 for 9 yards (T.Smith).,2nd & 7 at BUF 20
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,5,BUF,0,6,0,5 Yard Run,(3:15) T.Taylor scrambles right end pushed ob at BUF 34 for 5 yards (T.Smith).,1st & 10 at BUF 29
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,5,BUF,0,7,0,-2 Yard Run,(2:45) L.McCoy left end to BUF 32 for -2 yards (M.Dareus).,2nd & 5 at BUF 34
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,5,BUF,0,8,0,9 Yard Pass,(2:02) (Shotgun) T.Taylor pass short right to N.O'Leary to BUF 41 for 9 yards (T.Gipson).,3rd & 7 at BUF 32
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,5,BUF,0,9,0,3 Yard Run,(1:27) L.McCoy left guard to BUF 44 for 3 yards (C.Campbell; B.Church).,1st & 10 at BUF 41
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,5,BUF,0,10,0,5 Yard Run,(:54) L.McCoy up the middle to BUF 49 for 5 yards (M.Jack).,2nd & 7 at BUF 44
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,5,BUF,0,11,0,Pass Incomplete,(:11) T.Taylor pass incomplete short right.,3rd & 2 at BUF 49
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,1ST QUARTER,5,BUF,0,12,0,Punt,"(:02) (Punt formation) C.Schmidt punts 40 yards to JAC 11, Center-R.Ferguson, fair catch by J.Mickens.",4th & 2 at BUF 49
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,1,JAX,0,1,0,7 Yard Run,(15:00) L.Fournette up the middle to JAC 18 for 7 yards (R.Hatley; T.White).,1st & 10 at JAC 11
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,1,JAX,0,2,0,2 Yard Run,(14:25) L.Fournette up the middle to JAC 20 for 2 yards (P.Brown).,2nd & 3 at JAC 18
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,1,JAX,0,3,0,3 Yard Run,(13:47) B.Bortles up the middle to JAC 23 for 3 yards (R.Hatley).,3rd & 1 at JAC 20
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,1,JAX,0,4,0,4 Yard Pass,(13:07) B.Bortles pass short left to M.Lewis to JAC 27 for 4 yards (L.Alexander).,1st & 10 at JAC 23
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,1,JAX,0,5,0,Pass Incomplete,(12:28) B.Bortles pass incomplete short right to T.Bohanon.,2nd & 6 at JAC 27
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,1,JAX,0,6,0,Pass Incomplete,(12:23) (Shotgun) B.Bortles pass incomplete short right to A.Hurns.,3rd & 6 at JAC 27
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,1,JAX,0,7,0,Punt,"(12:19) B.Nortman punts 52 yards to BUF 21, Center-C.Holba. B.Tate to BUF 39 for 18 yards (C.Grant).
+PENALTY on BUF-B.Borders, Illegal Block Above the Waist, 10 yards, enforced at BUF 24.",4th & 6 at JAC 27
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,2,BUF,0,1,0,13 Yard Pass,(12:07) T.Taylor pass short right to N.O'Leary to BUF 27 for 13 yards (A.Jones).,1st & 10 at BUF 14
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,2,BUF,0,2,0,Interception,(11:32) (Shotgun) T.Taylor pass short middle intended for L.Thomas INTERCEPTED by A.Colvin (M.Jack) at BUF 35. A.Colvin to BUF 35 for no gain (L.Thomas).,1st & 10 at BUF 27
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,3,JAX,0,1,0,Run for No Gain,(11:25) L.Fournette right guard to BUF 35 for no gain (K.Williams).,1st & 10 at BUF 35
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,3,JAX,0,2,0,-3 Yard Pass,"(10:53) B.Bortles pass short left to M.Lewis to BUF 38 for -3 yards (P.Brown, L.Alexander).",2nd & 10 at BUF 35
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,3,JAX,0,3,0,Pass Incomplete,(10:07) (Shotgun) B.Bortles pass incomplete short left to C.Ivory.,3rd & 13 at BUF 38
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,3,JAX,0,4,0,Punt,"(10:02) B.Nortman punts 22 yards to BUF 16, Center-C.Holba, fair catch by B.Tate.",4th & 13 at BUF 38
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,4,BUF,1,1,0,12 Yard Run,(9:55) L.McCoy up the middle to BUF 28 for 12 yards (A.Bouye).,1st & 10 at BUF 16
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,4,BUF,1,2,0,2 Yard Run,(9:15) L.McCoy up the middle to BUF 30 for 2 yards (C.Campbell).,1st & 10 at BUF 28
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,4,BUF,1,3,0,9 Yard Pass,(8:36) (Shotgun) T.Taylor pass short middle to L.McCoy to BUF 39 for 9 yards (A.Colvin).,2nd & 8 at BUF 30
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,4,BUF,1,4,0,4 Yard Run,(8:01) L.McCoy up the middle to BUF 43 for 4 yards (T.Smith).,1st & 10 at BUF 39
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,4,BUF,1,5,0,Pass Incomplete,(7:27) T.Taylor pass incomplete deep left to D.Thompson.,2nd & 6 at BUF 43
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,4,BUF,1,6,0,5 Yard Penalty,"(7:21) (Shotgun) T.Taylor pass incomplete short left to Z.Jones [M.Jackson].
+PENALTY on JAC-A.Bouye, Defensive Holding, 5 yards, enforced at BUF 43 - No Play.",3rd & 6 at BUF 43
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,4,BUF,1,7,0,2 Yard Run,(7:16) M.Tolbert up the middle to 50 for 2 yards (T.Smith).,1st & 10 at BUF 48
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,4,BUF,1,8,0,3 Yard Run,(6:42) L.McCoy up the middle to JAC 47 for 3 yards (B.Brown; M.Dareus).,2nd & 8 at 50
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,4,BUF,1,9,0,24 Yard Run,"(6:03) T.Taylor scrambles up the middle to JAC 38 for 9 yards.
+PENALTY on JAC-Y.Ngakoue, Unnecessary Roughness, 15 yards, enforced at JAC 38.",3rd & 5 at JAC 47
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,4,BUF,1,10,0,Pass Incomplete,(5:41) T.Taylor pass incomplete deep middle to N.O'Leary.,1st & 10 at JAC 23
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,4,BUF,1,11,0,3 Yard Run,(5:35) (Shotgun) L.McCoy up the middle to JAC 20 for 3 yards (T.Patmon).,2nd & 10 at JAC 23
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,4,BUF,1,12,0,8 Yard Run,(4:55) (Shotgun) T.Taylor scrambles up the middle to JAC 12 for 8 yards (M.Jack).,3rd & 7 at JAC 20
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,4,BUF,1,13,0,8 Yard Pass,(4:09) (Shotgun) T.Taylor pass short left to L.McCoy pushed ob at JAC 4 for 8 yards (T.Gipson).,1st & 10 at JAC 12
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,4,BUF,1,14,0,Pass Incomplete,(3:42) T.Taylor pass incomplete short left to K.Benjamin [C.Campbell].,2nd & 2 at JAC 4
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,4,BUF,1,15,0,1 Yard Run,(3:37) (Shotgun) T.Taylor left end to JAC 3 for 1 yard (C.Campbell).,3rd & 2 at JAC 4
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,4,BUF,1,16,0,-10 Yard Penalty,"(2:53) T.Taylor pass incomplete short left to K.Benjamin (J.Ramsey).
+PENALTY on BUF-K.Benjamin, Offensive Pass Interference, 10 yards, enforced at JAC 1 - No Play.",1st & 1 at JAC 1
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,4,BUF,1,17,0,-2 Yard Run,(2:49) (Shotgun) T.Taylor left end to JAC 13 for -2 yards (B.Church).,1st & 11 at JAC 11
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,4,BUF,1,18,0,Pass Incomplete,(2:05) (Shotgun) T.Taylor pass incomplete short left.,2nd & 13 at JAC 13
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,4,BUF,1,19,0,Pass Incomplete,(1:56) (Shotgun) T.Taylor pass incomplete short middle to N.O'Leary.,3rd & 13 at JAC 13
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,4,BUF,1,20,1,Field Goal,"(1:53) S.Hauschka 31 yard field goal is GOOD, Center-R.Ferguson, Holder-C.Schmidt.",4th & 13 at JAC 13
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,5,JAX,0,1,0,Kickoff,"S.Hauschka kicks 65 yards from BUF 35 to end zone, Touchback.",Kickoff from BUF 35
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,5,JAX,0,2,0,10 Yard Pass,(1:49) (Shotgun) B.Bortles pass short left to D.Westbrook pushed ob at JAC 35 for 10 yards (L.Johnson).,1st & 10 at JAC 25
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,5,JAX,0,3,0,Pass Incomplete,(1:42) (Shotgun) B.Bortles pass incomplete short right to K.Cole.,1st & 10 at JAC 35
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,5,JAX,0,4,0,7 Yard Pass,(1:38) (Shotgun) B.Bortles pass short middle to L.Fournette to JAC 42 for 7 yards (L.Johnson).,2nd & 10 at JAC 35
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,5,JAX,0,5,0,Pass Incomplete,"(1:18) (No Huddle, Shotgun) B.Bortles pass incomplete short right to D.Westbrook (T.White).",3rd & 3 at JAC 42
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,5,JAX,0,6,0,Punt,"(1:12) B.Nortman punts 36 yards to BUF 22, Center-C.Holba. B.Tate to BUF 16 for -6 yards (L.McCray; B.Brown).
+PENALTY on BUF-B.Borders, Face Mask (15 Yards), 12 yards, enforced at BUF 22.",4th & 3 at JAC 42
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,6,BUF,0,1,0,4 Yard Run,(1:02) (Shotgun) T.Taylor up the middle to BUF 14 for 4 yards (Y.Ngakoue).,1st & 10 at BUF 10
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,6,BUF,0,2,0,Pass Incomplete,(:56) (Shotgun) T.Taylor pass incomplete short left to D.Thompson (A.Bouye).,2nd & 6 at BUF 14
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,6,BUF,0,3,0,5 Yard Pass,"(:51) (Shotgun) T.Taylor pass short right to Z.Jones pushed ob at BUF 19 for 5 yards (J.Ramsey).
+The Replay Official reviewed the short of the line to gain ruling, and the play was Upheld. The ruling on the field stands.",3rd & 6 at BUF 14
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,6,BUF,0,4,0,Punt,"(:47) C.Schmidt punts 34 yards to JAC 47, Center-R.Ferguson, out of bounds.",4th & 1 at BUF 19
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,7,JAX,1,1,0,20 Yard Run,(:40) (Shotgun) B.Bortles scrambles up the middle to BUF 33 for 20 yards.,1st & 10 at JAC 47
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,7,JAX,1,2,0,Pass Incomplete,(:32) (Shotgun) B.Bortles pass incomplete short middle to M.Lee [R.Davis].,1st & 10 at BUF 33
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,7,JAX,1,3,0,12 Yard Run,(:28) (Shotgun) B.Bortles scrambles left end to BUF 21 for 12 yards (R.Humber; J.Hughes).,2nd & 10 at BUF 33
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,7,JAX,1,4,0,-5 Yard Sack,(:19) (Shotgun) B.Bortles sacked at BUF 26 for -5 yards (L.Alexander).,1st & 10 at BUF 21
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,7,JAX,1,5,0,Pass Incomplete,"(:08) (No Huddle, Shotgun) B.Bortles spiked the ball to stop the clock.",2nd & 15 at BUF 26
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,7,JAX,1,6,1,Field Goal,"(:07) J.Lambo 44 yard field goal is GOOD, Center-C.Holba, Holder-B.Nortman.",3rd & 15 at BUF 26
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,2ND QUARTER,8,BUF,0,1,0,Kickoff,J.Lambo kicks 59 yards from JAC 35 to BUF 6. B.Tate to BUF 16 for 10 yards (D.Payne; L.McCray).,Kickoff from JAC 35
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,1,JAX,0,1,0,Kickoff,"S.Hauschka kicks 65 yards from BUF 35 to end zone, Touchback.",Kickoff from BUF 35
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,1,JAX,0,2,0,20 Yard Pass,(15:00) B.Bortles pass deep middle to D.Westbrook to JAC 45 for 20 yards (R.Humber).,1st & 10 at JAC 25
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,1,JAX,0,3,0,Pass Incomplete,(14:28) B.Bortles pass incomplete short right to L.Fournette.,1st & 10 at JAC 45
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,1,JAX,0,4,0,3 Yard Run,(14:23) (Shotgun) C.Grant up the middle to JAC 48 for 3 yards (J.Hughes).,2nd & 10 at JAC 45
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,1,JAX,0,5,0,3 Yard Pass,(13:46) (Shotgun) B.Bortles pass short right to D.Westbrook to BUF 49 for 3 yards (M.Hyde). BUF-M.Hyde was injured during the play.,3rd & 7 at JAC 48
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,1,JAX,0,6,0,Punt,"(13:17) B.Nortman punts 41 yards to BUF 8, Center-C.Holba, fair catch by B.Tate.",4th & 4 at BUF 49
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,2,BUF,0,1,0,2 Yard Run,(13:09) L.McCoy up the middle to BUF 10 for 2 yards (T.Smith).,1st & 10 at BUF 8
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,2,BUF,0,2,0,5 Yard Pass,(12:36) T.Taylor pass short middle to L.McCoy to BUF 15 for 5 yards (T.Smith; C.Campbell).,2nd & 8 at BUF 10
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,2,BUF,0,3,0,7 Yard Penalty,"(11:51) (Shotgun) T.Taylor pass incomplete short left to L.McCoy [C.Campbell].
+PENALTY on JAC-M.Jack, Defensive Pass Interference, 7 yards, enforced at BUF 15 - No Play.",3rd & 3 at BUF 15
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,2,BUF,0,4,0,3 Yard Run,(11:46) L.McCoy up the middle to BUF 25 for 3 yards (M.Dareus).,1st & 10 at BUF 22
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,2,BUF,0,5,0,25 Yard Run,(11:12) L.McCoy right end ran ob at 50 for 25 yards (T.Gipson).,2nd & 7 at BUF 25
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,2,BUF,0,6,0,Pass Incomplete,(10:36) T.Taylor pass incomplete short middle to N.O'Leary (M.Jack).,1st & 10 at 50
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,2,BUF,0,7,0,-1 Yard Run,(10:28) (Shotgun) M.Tolbert up the middle to BUF 49 for -1 yards (A.Jones).,2nd & 10 at 50
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,2,BUF,0,8,0,Pass Incomplete,(9:53) (Shotgun) T.Taylor pass incomplete short right to C.Clay.,3rd & 11 at BUF 49
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,2,BUF,0,9,0,Punt,"(9:46) C.Schmidt punts 39 yards to JAC 12, impetus ends at JAC 8, Center-R.Ferguson. D.Westbrook to JAC 14 for 2 yards (T.Vallejo).",4th & 11 at BUF 49
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,3,JAX,1,1,0,9 Yard Run,(9:34) (Shotgun) B.Bortles scrambles up the middle to JAC 23 for 9 yards (P.Brown).,1st & 10 at JAC 14
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,3,JAX,1,2,0,2 Yard Run,(9:03) L.Fournette right end to JAC 25 for 2 yards (L.Alexander; E.Yarbrough).,2nd & 1 at JAC 23
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,3,JAX,1,3,0,16 Yard Run,(8:23) L.Fournette left end to JAC 41 for 16 yards (M.Hyde).,1st & 10 at JAC 25
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,3,JAX,1,4,0,12 Yard Pass,(7:43) B.Bortles pass short right to L.Fournette pushed ob at BUF 47 for 12 yards (M.Hyde) [C.Thornton].,1st & 10 at JAC 41
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,3,JAX,1,5,0,2 Yard Run,(7:14) L.Fournette up the middle to BUF 45 for 2 yards (N.Capi).,1st & 10 at BUF 47
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,3,JAX,1,6,0,16 Yard Pass,(6:37) B.Bortles pass short middle to M.Lewis to BUF 29 for 16 yards (M.Hyde). BUF-M.Hyde was injured during the play.,2nd & 8 at BUF 45
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,3,JAX,1,7,0,1 Yard Run,(6:07) B.Bortles scrambles right end ran ob at BUF 28 for 1 yard (J.Poyer).,1st & 10 at BUF 29
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,3,JAX,1,8,0,10 Yard Run,(5:29) (Shotgun) B.Bortles scrambles left end to BUF 18 for 10 yards (A.Washington).,2nd & 9 at BUF 28
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,3,JAX,1,9,0,6 Yard Run,(4:48) L.Fournette up the middle to BUF 12 for 6 yards (C.Anderson; E.Gaines).,1st & 10 at BUF 18
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,3,JAX,1,10,0,1 Yard Run,(4:02) L.Fournette up the middle to BUF 11 for 1 yard (R.Humber).,2nd & 4 at BUF 12
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,3,JAX,1,11,0,6 Yard Run,(3:23) (Shotgun) L.Fournette up the middle to BUF 5 for 6 yards (C.Anderson).,3rd & 3 at BUF 11
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,3,JAX,1,12,0,2 Yard Run,(2:43) (Shotgun) C.Ivory up the middle to BUF 3 for 2 yards (J.Poyer).,1st & 5 at BUF 5
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,3,JAX,1,13,0,2 Yard Run,(2:04) L.Fournette up the middle to BUF 1 for 2 yards (R.Humber; E.Yarbrough).,2nd & 3 at BUF 3
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,3,JAX,1,14,0,Run for No Gain,(1:25) L.Fournette up the middle to BUF 1 for no gain (L.Alexander; P.Brown).,3rd & 1 at BUF 1
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,3,JAX,1,15,0,Touchdown Jaguars,"(:49) B.Bortles pass short middle to B.Koyack for 1 yard, TOUCHDOWN.",4th & 1 at BUF 1
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,3RD QUARTER,3,JAX,1,16,1,Extra Point Good,"J.Lambo extra point is GOOD, Center-C.Holba, Holder-B.Nortman.",XP attempt from BUF 15
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,1,BUF,0,1,0,Kickoff,"J.Lambo kicks 65 yards from JAC 35 to end zone, Touchback.",Kickoff from JAC 35
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,1,BUF,0,2,0,Pass Incomplete,(:42) T.Taylor pass incomplete short left.,1st & 10 at BUF 25
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,1,BUF,0,3,0,3 Yard Pass,(:34) (Shotgun) T.Taylor pass short middle to L.McCoy to BUF 28 for 3 yards (T.Smith).,2nd & 10 at BUF 25
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,1,BUF,0,4,0,10 Yard Pass,(15:00) (Shotgun) T.Taylor pass short right to C.Clay to BUF 38 for 10 yards (T.Gipson).,3rd & 7 at BUF 28
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,1,BUF,0,5,0,4 Yard Run,(14:29) L.McCoy up the middle to BUF 42 for 4 yards (B.Brown).,1st & 10 at BUF 38
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,1,BUF,0,6,0,5 Yard Run,(13:56) L.McCoy right guard to BUF 47 for 5 yards (M.Jack).,2nd & 6 at BUF 42
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,1,BUF,0,7,0,1 Yard Run,(13:20) L.McCoy left end to BUF 48 for 1 yard (M.Jack; A.Bouye).,3rd & 1 at BUF 47
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,1,BUF,0,8,0,-1 Yard Run,(12:49) L.McCoy right end to BUF 47 for -1 yards (T.Smith; C.Campbell).,1st & 10 at BUF 48
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,1,BUF,0,9,0,5 Yard Pass,(12:11) T.Taylor pass short left to L.Thomas to JAC 48 for 5 yards (B.Brown).,2nd & 11 at BUF 47
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,1,BUF,0,10,0,Pass Incomplete,(11:29) (Shotgun) T.Taylor pass incomplete short right to N.O'Leary.,3rd & 6 at JAC 48
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,1,BUF,0,11,0,Punt,"(11:25) (Punt formation) C.Schmidt punts 37 yards to JAC 11, Center-R.Ferguson, fair catch by D.Westbrook.",4th & 6 at JAC 48
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,2,JAX,0,1,0,3 Yard Run,(11:18) L.Fournette right end to JAC 14 for 3 yards (L.Alexander).,1st & 10 at JAC 11
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,2,JAX,0,2,0,-5 Yard Penalty,"(10:38) (Shotgun) PENALTY on JAC-B.Linder, False Start, 5 yards, enforced at JAC 14 - No Play.",2nd & 7 at JAC 14
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,2,JAX,0,3,0,12 Yard Run,(10:27) (Shotgun) B.Bortles right end pushed ob at JAC 21 for 12 yards (E.Yarbrough).,2nd & 12 at JAC 9
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,2,JAX,0,4,0,Pass Incomplete,(9:56) B.Bortles pass incomplete short middle to D.Westbrook. BUF-C.Anderson was injured during the play.,1st & 10 at JAC 21
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,2,JAX,0,5,0,3 Yard Run,(9:51) (Shotgun) B.Bortles left end pushed ob at JAC 24 for 3 yards (L.Alexander).,2nd & 10 at JAC 21
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,2,JAX,0,6,0,-7 Yard Sack,"(9:11) (Shotgun) B.Bortles sacked at JAC 19 for -5 yards (L.Johnson). FUMBLES (L.Johnson) [L.Johnson], recovered by JAC-L.Fournette at JAC 17. L.Fournette to JAC 17 for no gain (R.Humber).",3rd & 7 at JAC 24
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,2,JAX,0,7,0,Punt,"(8:37) (Punt formation) B.Nortman punts 57 yards to BUF 26, Center-C.Holba, out of bounds.",4th & 14 at JAC 17
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,3,BUF,0,1,0,6 Yard Pass,"(8:29) (Shotgun) T.Taylor pass short right to L.McCoy ran ob at JAC 35 for 39 yards (B.Church).
+PENALTY on BUF-D.Thompson, Offensive Holding, 10 yards, enforced at BUF 42.",1st & 10 at BUF 26
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,3,BUF,0,2,0,9 Yard Run,(7:58) D.Thompson left end to BUF 41 for 9 yards (J.Ramsey).,1st & 4 at BUF 32
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,3,BUF,0,3,0,11 Yard Run,(7:17) M.Tolbert up the middle to JAC 48 for 11 yards (B.Church).,1st & 10 at BUF 41
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,3,BUF,0,4,0,Pass Incomplete,(6:39) T.Taylor pass incomplete deep right to Z.Jones.,1st & 10 at JAC 48
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,3,BUF,0,5,0,Pass Incomplete,"(6:32) (Shotgun) T.Taylor pass short left to C.Clay pushed ob at JAC 37 for 11 yards (T.Gipson).
+Jacksonville challenged the pass completion ruling, and the play was REVERSED.
+(Shotgun) T.Taylor pass incomplete short left to C.Clay.",2nd & 10 at JAC 48
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,3,BUF,0,6,0,-7 Yard Sack,(6:27) (Shotgun) T.Taylor sacked at BUF 45 for -7 yards (M.Jack).,3rd & 10 at JAC 48
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,3,BUF,0,7,0,Punt,"(5:59) (Punt formation) C.Schmidt punts 55 yards to end zone, Center-R.Ferguson, Touchback.",4th & 17 at BUF 45
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,4,JAX,0,1,0,-5 Yard Run,(5:50) L.Fournette left end to JAC 15 for -5 yards (P.Brown).,1st & 10 at JAC 20
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,4,JAX,0,2,0,19 Yard Run,"(5:09) (Shotgun) B.Bortles FUMBLES (Aborted) at JAC 8, and recovers at JAC 8. B.Bortles pushed ob at JAC 34 for 26 yards (J.Poyer).",2nd & 15 at JAC 15
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,4,JAX,0,3,0,Run for No Gain,(4:26) L.Fournette up the middle to JAC 34 for no gain (S.Thomas).,1st & 10 at JAC 34
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,4,JAX,0,4,0,1 Yard Run,"(3:49) L.Fournette up the middle to JAC 35 for 1 yard (R.Hatley, S.Thomas).",2nd & 10 at JAC 34
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,4,JAX,0,5,0,2 Yard Pass,(3:44) (Shotgun) B.Bortles pass short right to L.Fournette to JAC 37 for 2 yards (L.Johnson).,3rd & 9 at JAC 35
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,4,JAX,0,6,0,Punt,"(3:36) (Punt formation) B.Nortman punts 40 yards to BUF 23, Center-C.Holba. B.Tate to BUF 34 for 11 yards (D.Payne).",4th & 7 at JAC 37
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,5,BUF,0,1,0,Pass Incomplete,(3:24) (Shotgun) T.Taylor pass incomplete short middle to L.McCoy.,1st & 10 at BUF 34
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,5,BUF,0,2,0,Pass Incomplete,(3:21) (Shotgun) T.Taylor pass incomplete deep right to D.Thompson.,2nd & 10 at BUF 34
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,5,BUF,0,3,0,Pass Incomplete,(3:14) (Shotgun) T.Taylor pass incomplete short left to Z.Jones (T.Patmon).,3rd & 10 at BUF 34
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,5,BUF,0,4,0,Punt,"(3:09) (Punt formation) C.Schmidt punts 41 yards to JAC 25, Center-R.Ferguson, downed by BUF-S.Thomas.",4th & 10 at BUF 34
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,6,JAX,0,1,0,-1 Yard Run,(3:01) L.Fournette right end to JAC 24 for -1 yards (E.Yarbrough).,1st & 10 at JAC 25
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,6,JAX,0,2,0,-2 Yard Run,(2:57) L.Fournette up the middle to JAC 22 for -2 yards (L.Alexander).,2nd & 11 at JAC 24
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,6,JAX,0,3,0,10 Yard Run,(2:17) (Shotgun) L.Fournette up the middle to JAC 32 for 10 yards (R.Humber; J.Poyer).,3rd & 13 at JAC 22
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,6,JAX,0,4,0,Punt,"(2:00) (Punt formation) B.Nortman punts 38 yards to BUF 30, Center-C.Holba. B.Tate to BUF 37 for 7 yards (P.Thompson; B.Brown).",4th & 3 at JAC 32
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,7,BUF,0,1,0,Pass Incomplete,(1:51) (Shotgun) T.Taylor pass incomplete short middle to L.McCoy (M.Jackson).,1st & 10 at BUF 37
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,7,BUF,0,2,0,5 Yard Pass,(1:47) (Shotgun) T.Taylor pass short left to C.Clay ran ob at BUF 42 for 5 yards (A.Bouye).,2nd & 10 at BUF 37
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,7,BUF,0,3,0,2 Yard Run,(1:43) (Shotgun) T.Taylor scrambles up the middle to BUF 44 for 2 yards (D.Fowler). BUF-T.Taylor was injured during the play.,3rd & 5 at BUF 42
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,7,BUF,0,4,0,4 Yard Run,"(1:17) (Shotgun) N.Peterman scrambles left end to BUF 48 for 4 yards (T.Smith). FUMBLES (T.Smith), ball out of bounds at BUF 48.",4th & 3 at BUF 44
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,7,BUF,0,5,0,14 Yard Pass,"(1:07) (No Huddle, Shotgun) N.Peterman pass short left to D.Thompson to JAC 38 for 14 yards (T.Smith).",1st & 10 at BUF 48
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,7,BUF,0,6,0,Pass Incomplete,"(:48) (No Huddle, Shotgun) N.Peterman pass incomplete short middle [C.Campbell].
+PENALTY on BUF-N.Peterman, Intentional Grounding, 10 yards, enforced at JAC 38.",1st & 10 at JAC 38
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,7,BUF,0,7,0,Interception,"(:32) (Shotgun) N.Peterman pass short right intended for D.Thompson INTERCEPTED by J.Ramsey at JAC 48. J.Ramsey to 50 for 2 yards (D.Thompson).
+The Replay Official reviewed the pass interception ruling, and the play was Upheld. The ruling on the field stands.",2nd & 20 at JAC 48
+2017,Wild Card Weekend,SUN,01/07,Bills,Jaguars,4TH QUARTER,8,JAX,0,1,0,-1 Yard Run,(:26) B.Bortles kneels to JAC 49 for -1 yards.,1st & 10 at 50
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,1,NO,0,1,0,Kickoff,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",Kickoff from CAR 35
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,1,NO,0,2,0,6 Yard Pass,"(15:00) (Shotgun) D.Brees pass short left to B.Coleman to NO 31 for 6 yards (L.Kuechly). Pass 4, YAC 2",1st & 10 at NO 25
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,1,NO,0,3,0,2 Yard Run,(14:23) (Shotgun) M.Ingram right guard to NO 33 for 2 yards (K.Short; S.Thompson).,2nd & 4 at NO 31
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,1,NO,0,4,0,-4 Yard Run,(13:49) T.Lewis right end to NO 29 for -4 yards (J.Bradberry).,3rd & 2 at NO 33
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,1,NO,0,5,0,Punt,"(13:13) T.Morstead punts 44 yards to CAR 27, Center-Z.Wood, fair catch by C.McCaffrey.",4th & 6 at NO 29
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,2,CAR,0,1,0,11 Yard Run,(13:04) J.Stewart right guard to CAR 38 for 11 yards (M.Williams; V.Bell).,1st & 10 at CAR 27
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,2,CAR,0,2,0,3 Yard Run,(12:23) (Shotgun) J.Stewart right tackle to CAR 41 for 3 yards (S.Rankins).,1st & 10 at CAR 38
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,2,CAR,0,3,0,2 Yard Run,(11:50) (Shotgun) C.Newton right end to CAR 43 for 2 yards (V.Bell).,2nd & 7 at CAR 41
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,2,CAR,0,4,0,Pass Incomplete,(11:05) (Shotgun) C.Newton pass incomplete short right to D.Funchess (M.Lattimore). CAR-D.Funchess was injured during the play.,3rd & 5 at CAR 43
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,2,CAR,0,5,0,Punt,"(11:00) M.Palardy punts 41 yards to NO 16, Center-J.Jansen, fair catch by T.Lewis.",4th & 5 at CAR 43
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,3,NO,0,1,0,5 Yard Penalty,"(10:51) (Shotgun) D.Brees pass incomplete short left to M.Thomas.
+PENALTY on CAR-D.Worley, Defensive Holding, 5 yards, enforced at NO 16 - No Play.",1st & 10 at NO 16
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,3,NO,0,2,0,Run for No Gain,(10:47) A.Kamara right tackle to NO 21 for no gain (T.Davis).,1st & 10 at NO 21
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,3,NO,0,3,0,Pass Incomplete,(10:04) (Shotgun) D.Brees pass incomplete deep right to A.Kamara.,2nd & 10 at NO 21
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,3,NO,0,4,0,Pass Incomplete,(9:58) (Shotgun) D.Brees pass incomplete short right to J.Hill.,3rd & 10 at NO 21
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,3,NO,0,5,0,Punt,"(9:52) T.Morstead punts 48 yards to CAR 31, Center-Z.Wood. K.Clay to CAR 30 for -1 yards (J.Hardee).",4th & 10 at NO 21
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,4,CAR,0,1,0,Pass Incomplete,(9:41) C.Newton pass incomplete short left to C.McCaffrey (C.Jordan).,1st & 10 at CAR 30
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,4,CAR,0,2,0,2 Yard Run,(9:36) J.Stewart left tackle to CAR 32 for 2 yards (T.Hendrickson).,2nd & 10 at CAR 30
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,4,CAR,0,3,0,15 Yard Run,"(8:58) (Shotgun) C.Newton scrambles left end to CAR 42 for 10 yards (V.Bell).
+PENALTY on NO-P.Williams, Defensive Holding, 5 yards, enforced at CAR 42.",3rd & 8 at CAR 32
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,4,CAR,0,4,0,8 Yard Pass,"(8:31) C.Newton pass short middle to C.McCaffrey to NO 45 for 8 yards (C.Robertson; M.Te'o). Pass 4, YAC 4",1st & 10 at CAR 47
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,4,CAR,0,5,0,3 Yard Run,(7:52) (Shotgun) F.Whittaker left end to NO 42 for 3 yards (M.Williams; C.Robertson).,2nd & 2 at NO 45
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,4,CAR,0,6,0,3 Yard Run,(7:14) (Shotgun) C.Newton right guard to NO 39 for 3 yards (T.Davison; C.Robertson).,1st & 10 at NO 42
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,4,CAR,0,7,0,4 Yard Run,(6:30) (Shotgun) C.Newton scrambles up the middle to NO 35 for 4 yards (C.Jordan).,2nd & 7 at NO 39
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,4,CAR,0,8,0,10 Yard Pass,"(5:48) (Shotgun) C.Newton pass short left to G.Olsen to NO 25 for 10 yards (K.Crawley). Pass 10, YAC 0",3rd & 3 at NO 35
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,4,CAR,0,9,0,-1 Yard Run,(5:08) C.McCaffrey left tackle to NO 26 for -1 yards (M.Te'o).,1st & 10 at NO 25
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,4,CAR,0,10,0,Pass Incomplete,(4:27) (Shotgun) C.Newton pass incomplete short middle to E.Dickson.,2nd & 11 at NO 26
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,4,CAR,0,11,0,11 Yard Pass,"(4:23) (Shotgun) C.Newton pass short right to K.Clay to NO 15 for 11 yards (M.Williams). Pass -2, YAC 13",3rd & 11 at NO 26
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,4,CAR,0,12,0,Run for No Gain,(3:39) T.Moton reported in as eligible.  J.Stewart left end to NO 15 for no gain (K.Crawley; D.Onyemata).,1st & 10 at NO 15
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,4,CAR,0,13,0,8 Yard Pass,"(2:58) (Shotgun) C.Newton pass short middle to G.Olsen to NO 7 for 8 yards (V.Bell). Pass 6, YAC 2",2nd & 10 at NO 15
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,4,CAR,0,14,0,Pass Incomplete,(2:12) (Shotgun) C.Newton pass incomplete short left to K.Clay.,3rd & 2 at NO 7
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,4,CAR,0,15,0,Field Goal No Good,"(2:07) G.Gano 25 yard field goal is No Good, Wide Right, Center-J.Jansen, Holder-M.Palardy.",4th & 2 at NO 7
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,5,NO,1,1,0,Pass Incomplete,(2:04) S.Kelemete reported in as eligible.  D.Brees pass incomplete short right [V.Butler].,1st & 10 at NO 20
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,5,NO,1,2,0,Touchdown Saints,"(1:58) (Shotgun) D.Brees pass deep right to T.Ginn for 80 yards, TOUCHDOWN. Pass 41, YAC 39",2nd & 10 at NO 20
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,1ST QUARTER,5,NO,1,3,1,Extra Point Good,"W.Lutz extra point is GOOD, Center-Z.Wood, Holder-T.Morstead.",XP attempt from CAR 15
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,1,CAR,1,1,0,Kickoff,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",Kickoff from NO 35
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,1,CAR,1,2,0,22 Yard Pass,"(1:46) (Shotgun) C.Newton pass short right to G.Olsen pushed ob at CAR 47 for 22 yards (M.Williams). Pass 12, YAC 10",1st & 10 at CAR 25
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,1,CAR,1,3,0,1 Yard Run,(1:15) (Shotgun) J.Stewart right tackle to CAR 48 for 1 yard (T.Davison; G.Johnson).,1st & 10 at CAR 47
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,1,CAR,1,4,0,39 Yard Penalty,"(:37) (Shotgun) C.Newton pass incomplete deep middle to K.Clay [C.Robertson].
+PENALTY on NO-K.Crawley, Defensive Pass Interference, 39 yards, enforced at CAR 48 - No Play.",2nd & 9 at CAR 48
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,1,CAR,1,5,0,3 Yard Run,(:28) T.Moton reported in as eligible.  J.Stewart left guard to NO 10 for 3 yards (J.Freeny; T.Davison).,1st & 10 at NO 13
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,1,CAR,1,6,0,1 Yard Run,(15:00) T.Moton reported in as eligible.  J.Stewart left guard to NO 9 for 1 yard (C.Robertson).,2nd & 7 at NO 10
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,1,CAR,1,7,0,Pass Incomplete,(14:20) (Shotgun) C.Newton pass incomplete short right to G.Olsen.,3rd & 6 at NO 9
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,1,CAR,1,8,1,Field Goal,"(14:15) G.Gano 27 yard field goal is GOOD, Center-J.Jansen, Holder-M.Palardy.",4th & 6 at NO 9
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,2,NO,1,1,0,Kickoff,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",Kickoff from CAR 35
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,2,NO,1,2,0,5 Yard Pass,"(14:12) D.Brees pass short right to T.Ginn to NO 30 for 5 yards (J.Bradberry). Pass 5, YAC 0",1st & 10 at NO 25
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,2,NO,1,3,0,19 Yard Pass,"(13:27) (Shotgun) D.Brees pass short right to M.Thomas to NO 49 for 19 yards (M.Adams; J.Bradberry). Pass 14, YAC 5",2nd & 5 at NO 30
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,2,NO,1,4,0,3 Yard Run,(12:49) (Shotgun) A.Kamara left guard to CAR 48 for 3 yards (D.Worley). NO-A.Peat was injured during the play. His return is Doubtful.,1st & 10 at NO 49
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,2,NO,1,5,0,13 Yard Pass,"(12:24) D.Brees pass short left to M.Ingram ran ob at CAR 35 for 13 yards (L.Kuechly). NO-A.Peat was injured during the play. He is Out.  Pass -7, YAC 20",2nd & 7 at CAR 48
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,2,NO,1,6,0,8 Yard Pass,"(11:52) J.LeRibeus reported in as eligible.  D.Brees pass short right to M.Thomas to CAR 27 for 8 yards (S.Thompson). Pass 5, YAC 3",1st & 10 at CAR 35
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,2,NO,1,7,0,5 Yard Run,(11:16) M.Ingram right guard to CAR 22 for 5 yards (L.Kuechly). CAR-K.Short was injured during the play. His return is Probable.,2nd & 2 at CAR 27
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,2,NO,1,8,0,-10 Yard Penalty,"(10:51) A.Kamara right end ran ob at CAR 18 for 4 yards (T.Davis).
+PENALTY on NO-Z.Line, Offensive Holding, 10 yards, enforced at CAR 22 - No Play.",1st & 10 at CAR 22
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,2,NO,1,9,0,10 Yard Pass,"(10:27) (Shotgun) D.Brees pass short left to A.Kamara to CAR 22 for 10 yards (T.Davis). Pass -4, YAC 14",1st & 20 at CAR 32
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,2,NO,1,10,0,13 Yard Pass,"(9:51) D.Brees pass short left to M.Thomas to CAR 9 for 13 yards (D.Worley). Pass 5, YAC 8",2nd & 10 at CAR 22
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,2,NO,1,11,0,Touchdown Saints,"(9:09) J.LeRibeus reported in as eligible.  D.Brees pass short left to J.Hill for 9 yards, TOUCHDOWN. Pass 9, YAC 0",1st & 9 at CAR 9
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,2,NO,1,12,1,Extra Point Good,"W.Lutz extra point is GOOD, Center-Z.Wood, Holder-T.Morstead.",XP attempt from CAR 15
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,3,CAR,1,1,0,Kickoff,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",Kickoff from NO 35
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,3,CAR,1,2,0,17 Yard Pass,"(9:04) (Shotgun) C.Newton pass short right to C.McCaffrey to CAR 42 for 17 yards (M.Te'o; R.Bush). Pass 5, YAC 12",1st & 10 at CAR 25
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,3,CAR,1,3,0,-1 Yard Run,(8:22) (Shotgun) J.Stewart left tackle to CAR 41 for -1 yards (M.Williams).,1st & 10 at CAR 42
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,3,CAR,1,4,0,10 Yard Pass,"(7:42) (Shotgun) C.Newton pass short middle to G.Olsen to NO 49 for 10 yards (V.Bell). Pass 9, YAC 1",2nd & 11 at CAR 41
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,3,CAR,1,5,0,Run for No Gain,(6:59) J.Stewart right guard to NO 49 for no gain (V.Bell; S.Rankins).,3rd & 1 at NO 49
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,3,CAR,1,6,0,1 Yard Run,(6:31) T.Moton reported in as eligible.  C.Newton up the middle to NO 48 for 1 yard (J.Freeny; M.Te'o).,4th & 1 at NO 49
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,3,CAR,1,7,0,Pass Incomplete,(5:45) (Shotgun) C.Newton pass incomplete short right.,1st & 10 at NO 48
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,3,CAR,1,8,0,2 Yard Run,(5:41) C.McCaffrey right tackle to NO 46 for 2 yards (G.Johnson).,2nd & 10 at NO 48
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,3,CAR,1,9,0,19 Yard Pass,"(4:55) (Shotgun) C.Newton pass short middle to B.Bersin to NO 27 for 19 yards (M.Lattimore). Pass 3, YAC 16",3rd & 8 at NO 46
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,3,CAR,1,10,0,3 Yard Run,(4:12) C.McCaffrey left end to NO 24 for 3 yards (S.Rankins).,1st & 10 at NO 27
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,3,CAR,1,11,0,Pass Incomplete,(3:37) (Shotgun) C.Newton pass incomplete deep left to G.Olsen (K.Crawley).,2nd & 7 at NO 24
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,3,CAR,1,12,0,3 Yard Pass,"(3:31) (Shotgun) C.Newton pass short right to E.Dickson to NO 21 for 3 yards (R.Bush). Pass 2, YAC 1",3rd & 7 at NO 24
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,3,CAR,1,13,1,Field Goal,"(2:51) G.Gano 39 yard field goal is GOOD, Center-J.Jansen, Holder-M.Palardy.",4th & 4 at NO 21
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,4,NO,1,1,0,Kickoff,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",Kickoff from CAR 35
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,4,NO,1,2,0,7 Yard Run,"(2:47) M.Ingram left tackle to NO 32 for 7 yards (D.Worley).
+INJURY UPDATE: NO #75, A.Peat, shin, QUESTIONABLE to return.",1st & 10 at NO 25
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,4,NO,1,3,0,10 Yard Pass,"(2:11) (Shotgun) D.Brees pass short right to M.Thomas to NO 42 for 10 yards (J.Bradberry). Pass 7, YAC 3",2nd & 3 at NO 32
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,4,NO,1,4,0,Pass Incomplete,(2:00) D.Brees pass incomplete deep left to T.Ginn (K.Coleman).,1st & 10 at NO 42
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,4,NO,1,5,0,18 Yard Pass,"(1:52) (Shotgun) D.Brees pass short left to B.Coleman to CAR 40 for 18 yards (D.Worley). Pass 8, YAC 10",2nd & 10 at NO 42
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,4,NO,1,6,0,Pass Incomplete,(1:26) (Shotgun) D.Brees pass incomplete short left to M.Thomas (D.Worley).,1st & 10 at CAR 40
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,4,NO,1,7,0,25 Yard Pass,"(1:22) (Shotgun) D.Brees pass deep middle to J.Hill to CAR 15 for 25 yards (M.Adams). Pass 22, YAC 3",2nd & 10 at CAR 40
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,4,NO,1,8,0,14 Yard Pass,"(1:10) (Shotgun) D.Brees pass short right to M.Thomas to CAR 1 for 14 yards (J.Bradberry). Pass 14, YAC 0",1st & 10 at CAR 15
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,4,NO,1,9,0,Touchdown Saints,"(:46) J.LeRibeus reported in as eligible.  Z.Line right guard for 1 yard, TOUCHDOWN.",1st & 1 at CAR 1
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,4,NO,1,10,1,Extra Point Good,"W.Lutz extra point is GOOD, Center-Z.Wood, Holder-T.Morstead.",XP attempt from CAR 15
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,5,CAR,1,1,0,Kickoff,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",Kickoff from NO 35
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,5,CAR,1,2,0,24 Yard Pass,"(:43) (Shotgun) C.Newton pass deep left to D.Funchess to CAR 49 for 24 yards (M.Williams). Pass 21, YAC 3",1st & 10 at CAR 25
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,5,CAR,1,3,0,Pass Incomplete,(:35) (Shotgun) C.Newton pass incomplete deep right to R.Shepard.,1st & 10 at CAR 49
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,5,CAR,1,4,0,8 Yard Pass,"(:29) (No Huddle, Shotgun) C.Newton pass short left to B.Bersin to NO 43 for 8 yards (P.Williams). Pass 5, YAC 3",2nd & 10 at CAR 49
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,5,CAR,1,5,0,3 Yard Pass,"(:10) (No Huddle, Shotgun) C.Newton pass short left to C.McCaffrey ran ob at NO 40 for 3 yards (R.Bush).",3rd & 2 at NO 43
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,2ND QUARTER,5,CAR,1,6,1,Field Goal,"(:03) G.Gano 58 yard field goal is GOOD, Center-J.Jansen, Holder-M.Palardy.",1st & 10 at NO 40
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,1,CAR,1,1,0,Kickoff,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",Kickoff from NO 35
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,1,CAR,1,2,0,17 Yard Pass,"(15:00) C.Newton pass short middle to D.Funchess to CAR 42 for 17 yards (K.Crawley). Pass 15, YAC 2",1st & 10 at CAR 25
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,1,CAR,1,3,0,29 Yard Run,(14:28) (Shotgun) J.Stewart right end to NO 29 for 29 yards (K.Crawley).,1st & 10 at CAR 42
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,1,CAR,1,4,0,Pass Incomplete,(13:59) (Shotgun) C.Newton pass incomplete short left to R.Shepard (P.Williams).,1st & 10 at NO 29
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,1,CAR,1,5,0,8 Yard Run,(13:54) (Shotgun) C.Newton left guard to NO 21 for 8 yards (M.Williams).,2nd & 10 at NO 29
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,1,CAR,1,6,0,11 Yard Pass,"(13:18) (Shotgun) C.Newton pass short middle to C.McCaffrey to NO 10 for 11 yards (V.Bell). NO-P.Williams was injured during the play.  Pass 11, YAC 0",3rd & 2 at NO 21
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,1,CAR,1,7,0,Pass Incomplete,(12:35) (Shotgun) C.Newton pass incomplete short middle to G.Olsen (M.Williams).,1st & 10 at NO 10
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,1,CAR,1,8,0,6 Yard Run,(12:31) (Shotgun) C.Newton right guard to NO 4 for 6 yards (S.Rankins).,2nd & 10 at NO 10
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,1,CAR,1,9,0,-7 Yard Sack,(11:46) (Shotgun) C.Newton sacked at NO 11 for -7 yards (J.Freeny).,3rd & 4 at NO 4
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,1,CAR,1,10,1,Field Goal,"(11:01) G.Gano 29 yard field goal is GOOD, Center-J.Jansen, Holder-M.Palardy.",4th & 11 at NO 11
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,2,NO,1,1,0,Kickoff,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",Kickoff from CAR 35
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,2,NO,1,2,0,18 Yard Pass,"(10:58) D.Brees pass deep left to T.Ginn ran ob at NO 43 for 18 yards (D.Worley). Pass 18, YAC 0",1st & 10 at NO 25
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,2,NO,1,3,0,3 Yard Run,(10:27) A.Kamara left guard to NO 46 for 3 yards (S.Thompson).,1st & 10 at NO 43
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,2,NO,1,4,0,3 Yard Run,(9:45) M.Ingram right tackle to NO 49 for 3 yards (K.Short).,2nd & 7 at NO 46
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,2,NO,1,5,0,12 Yard Pass,"(9:06) (Shotgun) D.Brees pass short right to T.Ginn to CAR 39 for 12 yards (J.Bradberry). Pass 12, YAC 0",3rd & 4 at NO 49
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,2,NO,1,6,0,4 Yard Run,(8:26) M.Ingram left tackle to CAR 35 for 4 yards (D.Worley). CAR-D.Worley was injured during the play. His return is Questionable.,1st & 10 at CAR 39
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,2,NO,1,7,0,8 Yard Pass,"(7:52) D.Brees pass short right to B.Coleman to CAR 27 for 8 yards (K.Coleman). FUMBLES (K.Coleman), recovered by NO-M.Ingram at CAR 27. M.Ingram to CAR 27 for no gain (B.Cox). Pass 11, YAC -3",2nd & 6 at CAR 35
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,2,NO,1,8,0,Pass Incomplete,(7:05) (Shotgun) D.Brees pass incomplete deep left to T.Ginn.,1st & 10 at CAR 27
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,2,NO,1,9,0,5 Yard Pass,"(6:58) (Shotgun) D.Brees pass short left to M.Thomas to CAR 22 for 5 yards (L.Gunter). Pass 5, YAC 0",2nd & 10 at CAR 27
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,2,NO,1,10,0,Pass Incomplete,"(6:16) (Shotgun) D.Brees pass incomplete short left [L.Kuechly].
+Penalty on NO-R.Ramczyk, Offensive Holding, declined.
+PENALTY on NO-D.Brees, Intentional Grounding, 17 yards, enforced at CAR 22.",3rd & 5 at CAR 22
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,2,NO,1,11,1,Field Goal,"(6:09) W.Lutz 57 yard field goal is GOOD, Center-Z.Wood, Holder-T.Morstead.",4th & 22 at CAR 39
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,3,CAR,0,1,0,Kickoff,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",Kickoff from NO 35
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,3,CAR,0,2,0,Pass for No Gain,"(6:05) (Shotgun) C.Newton pass short right to K.Clay to CAR 25 for no gain (K.Crawley). Pass -2, YAC 2",1st & 10 at CAR 25
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,3,CAR,0,3,0,-9 Yard Sack,(5:27) (Shotgun) C.Newton sacked at CAR 16 for -9 yards (C.Jordan).,2nd & 10 at CAR 25
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,3,CAR,0,4,0,6 Yard Pass,"(4:39) (Shotgun) C.Newton pass short middle to C.McCaffrey to CAR 22 for 6 yards (K.Crawley; C.Robertson). Pass 5, YAC 1",3rd & 19 at CAR 16
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,3,CAR,0,5,0,Punt,"(3:56) M.Palardy punts 51 yards to NO 27, Center-J.Jansen. T.Lewis to NO 33 for 6 yards (F.Whittaker).
+PENALTY on NO-S.Moore, Illegal Block Above the Waist, 10 yards, enforced at NO 33.",4th & 13 at CAR 22
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,4,NO,0,1,0,5 Yard Run,"(3:44) A.Kamara right guard to NO 28 for 5 yards (J.Bradberry).
+INJURY UPDATE: CAR #26 D.Worley, evaluated for concussion, CLEARED to return.",1st & 10 at NO 23
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,4,NO,0,2,0,2 Yard Run,(3:03) M.Ingram right end to NO 30 for 2 yards (S.Lotulelei).,2nd & 5 at NO 28
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,4,NO,0,3,0,-7 Yard Sack,(2:19) (Shotgun) D.Brees sacked at NO 23 for -7 yards (K.Short).,3rd & 3 at NO 30
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,3RD QUARTER,4,NO,0,4,0,Punt,"(1:45) T.Morstead punts 57 yards to CAR 20, Center-Z.Wood. K.Clay to CAR 32 for 12 yards (Z.Wood).",4th & 10 at NO 23
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,1,CAR,1,1,0,1 Yard Run,(1:32) (Shotgun) C.McCaffrey right guard to CAR 33 for 1 yard (G.Johnson; T.Davison).,1st & 10 at CAR 32
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,1,CAR,1,2,0,16 Yard Pass,"(:52) (Shotgun) C.Newton pass short middle to G.Olsen to CAR 49 for 16 yards (R.Bush). Pass 14, YAC 2",2nd & 9 at CAR 33
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,1,CAR,1,3,0,7 Yard Run,(:08) (Shotgun) C.McCaffrey left guard to NO 44 for 7 yards (S.Rankins).,1st & 10 at CAR 49
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,1,CAR,1,4,0,2 Yard Run,(15:00) (Shotgun) J.Stewart right guard to NO 42 for 2 yards (C.Jordan; T.Davison).,2nd & 3 at NO 44
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,1,CAR,1,5,0,24 Yard Pass,"(14:17) T.Moton reported in as eligible.  C.Newton pass short right to G.Olsen pushed ob at NO 18 for 24 yards (R.Bush). Pass 15, YAC 9",3rd & 1 at NO 42
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,1,CAR,1,6,0,Pass Incomplete,(13:38) C.Newton pass incomplete short left.,1st & 10 at NO 18
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,1,CAR,1,7,0,4 Yard Run,(13:31) (Shotgun) C.McCaffrey right tackle to NO 14 for 4 yards (V.Bell).,2nd & 10 at NO 18
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,1,CAR,1,8,0,Touchdown Panthers,"(12:52) (Shotgun) C.Newton pass short right to G.Olsen for 14 yards, TOUCHDOWN.",3rd & 6 at NO 14
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,1,CAR,1,9,1,Extra Point Good,"G.Gano extra point is GOOD, Center-J.Jansen, Holder-M.Palardy.",XP attempt from NO 15
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,2,NO,0,1,0,Kickoff,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",Kickoff from CAR 35
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,2,NO,0,2,0,15 Yard Pass,"(12:47) D.Brees pass short middle to J.Hill to NO 40 for 15 yards (S.Thompson). Pass 4, YAC 11",1st & 10 at NO 25
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,2,NO,0,3,0,4 Yard Run,(12:04) (Shotgun) A.Kamara left guard to NO 44 for 4 yards (B.Cox).,1st & 10 at NO 40
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,2,NO,0,4,0,7 Yard Pass,"(11:33) (Shotgun) D.Brees pass short left to W.Snead to CAR 49 for 7 yards (S.Thompson). Pass 7, YAC 0",2nd & 6 at NO 44
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,2,NO,0,5,0,Pass Incomplete,(10:53) (Shotgun) D.Brees pass incomplete deep middle to B.Coleman.,1st & 10 at CAR 49
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,2,NO,0,6,0,-2 Yard Run,(10:47) A.Kamara left guard to NO 49 for -2 yards (T.Davis).,2nd & 10 at CAR 49
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,2,NO,0,7,0,Pass Incomplete,(10:01) (Shotgun) D.Brees pass incomplete short right.,3rd & 12 at NO 49
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,2,NO,0,8,0,Punt,"(9:52) T.Morstead punts 34 yards to CAR 17, Center-Z.Wood, fair catch by K.Clay.",4th & 12 at NO 49
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,3,CAR,0,1,0,3 Yard Run,(9:43) C.Newton left tackle to CAR 20 for 3 yards (M.Te'o).,1st & 10 at CAR 17
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,3,CAR,0,2,0,-10 Yard Sack,(9:12) (Shotgun) C.Newton sacked at CAR 10 for -10 yards (T.Davison). CAR-C.Newton was injured during the play. His return is Probable.,2nd & 7 at CAR 20
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,3,CAR,0,3,0,Pass Incomplete,(8:26) New quarterback for Carolina is #3 D.Anderson. (Shotgun) D.Anderson pass incomplete short right to C.McCaffrey (C.Jordan).,3rd & 17 at CAR 10
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,3,CAR,0,4,0,Punt,"(8:23) M.Palardy punts 53 yards to NO 37, Center-J.Jansen. T.Lewis to NO 48 for 11 yards (A.Gachkar).
+PENALTY on NO-A.Maulet, Offensive Holding, 10 yards, enforced at NO 48.",4th & 17 at CAR 10
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,4,NO,1,1,0,-1 Yard Run,(8:10) M.Ingram right guard to NO 37 for -1 yards (J.Peppers).,1st & 10 at NO 38
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,4,NO,1,2,0,12 Yard Pass,"(7:29) (Shotgun) D.Brees pass short middle to B.Coleman to NO 49 for 12 yards (J.Bradberry). Pass 10, YAC 2",2nd & 11 at NO 37
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,4,NO,1,3,0,46 Yard Pass,"(6:43) D.Brees pass deep right to M.Thomas to CAR 5 for 46 yards (L.Kuechly). Pass 23, YAC 23",1st & 10 at NO 49
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,4,NO,1,4,0,3 Yard Run,"(5:51) J.LeRibeus reported in as eligible.  A.Kamara right guard to CAR 2 for 3 yards (T.Davis).
+INJURY UPDATE: CAR #1 C.Newton, evaluated for concussion, CLEARED to return.",1st & 5 at CAR 5
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,4,NO,1,5,0,Touchdown Saints,"(5:12) J.LeRibeus reported in as eligible.  A.Kamara right guard for 2 yards, TOUCHDOWN. NO-S.Kelemete was injured during the play. His return is Probable.",2nd & 2 at CAR 2
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,4,NO,1,6,1,Extra Point Good,"W.Lutz extra point is GOOD, Center-Z.Wood, Holder-T.Morstead.",XP attempt from CAR 15
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,5,CAR,1,1,0,Kickoff,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",Kickoff from NO 35
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,5,CAR,1,2,0,Penalty,"(5:08) Newton returns at quarterback for the Panthers. (Shotgun) C.Newton pass incomplete deep middle to K.Clay (K.Crawley) [D.Onyemata].
+Penalty on CAR-T.Turner, Offensive Holding, offsetting, enforced at CAR 25 - No Play.
+Penalty on NO-K.Crawley, Defensive Pass Interference, offsetting.",1st & 10 at CAR 25
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,5,CAR,1,3,0,19 Yard Pass,"(4:56) (Shotgun) C.Newton pass deep right to D.Funchess to CAR 44 for 19 yards (M.Williams). Pass 16, YAC 3",1st & 10 at CAR 25
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,5,CAR,1,4,0,Pass Incomplete,(4:27) (Shotgun) C.Newton pass incomplete deep left to D.Funchess. CAR-D.Funchess was injured during the play.,1st & 10 at CAR 44
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,5,CAR,1,5,0,Touchdown Panthers,"(4:20) (Shotgun) C.Newton pass short right to C.McCaffrey for 56 yards, TOUCHDOWN. Pass 6, YAC 50",2nd & 10 at CAR 44
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,5,CAR,1,6,1,Extra Point Good,"G.Gano extra point is GOOD, Center-J.Jansen, Holder-M.Palardy.",XP attempt from NO 15
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,6,NO,0,1,0,Kickoff,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",Kickoff from CAR 35
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,6,NO,0,2,0,7 Yard Pass,"(4:09) D.Brees pass short right to Z.Line to NO 32 for 7 yards (S.Thompson). Pass 2, YAC 5",1st & 10 at NO 25
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,6,NO,0,3,0,-3 Yard Run,(3:25) M.Ingram right guard to NO 29 for -3 yards (M.Adams).,2nd & 3 at NO 32
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,6,NO,0,4,0,16 Yard Pass,"(3:22) (Shotgun) D.Brees pass deep left to M.Thomas to NO 45 for 16 yards (C.Munnerlyn). Pass 16, YAC 0",3rd & 6 at NO 29
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,6,NO,0,5,0,5 Yard Run,(2:36) J.LeRibeus reported in as eligible.  A.Kamara right tackle to 50 for 5 yards (S.Thompson).,1st & 10 at NO 45
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,6,NO,0,6,0,3 Yard Run,(2:31) M.Ingram right guard to CAR 47 for 3 yards (M.Adams).,2nd & 5 at 50
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,6,NO,0,7,0,Run for No Gain,(2:27) J.LeRibeus reported in as eligible.  A.Kamara right tackle to CAR 47 for no gain (J.Peppers; S.Thompson).,3rd & 2 at CAR 47
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,6,NO,0,8,0,Interception,"(2:00) (Shotgun) D.Brees pass deep right intended for A.Kamara INTERCEPTED by M.Adams [S.Lotulelei] at CAR 30. M.Adams to CAR 31 for 1 yard (A.Kamara). FUMBLES (A.Kamara), ball out of bounds at CAR 31.",4th & 2 at CAR 47
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,7,CAR,0,1,0,19 Yard Pass,"(1:51) (Shotgun) C.Newton pass deep right to D.Funchess to 50 for 19 yards (M.Lattimore). Pass 17, YAC 2",1st & 10 at CAR 31
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,7,CAR,0,2,0,3 Yard Pass,"(1:29) (No Huddle, Shotgun) C.Newton pass short right to G.Olsen to NO 47 for 3 yards (K.Crawley). Pass 2, YAC 1",1st & 10 at 50
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,7,CAR,0,3,0,21 Yard Pass,"(1:05) (No Huddle, Shotgun) C.Newton pass deep right to K.Clay ran ob at NO 26 for 21 yards. Pass 21, YAC 0",2nd & 7 at NO 47
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,7,CAR,0,4,0,Pass Incomplete,(:58) (Shotgun) C.Newton pass incomplete short right to G.Olsen.,1st & 10 at NO 26
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,7,CAR,0,5,0,5 Yard Penalty,"(:52) (Shotgun) C.Newton pass incomplete deep right to C.McCaffrey.
+PENALTY on NO-R.Bush, Defensive Holding, 5 yards, enforced at NO 26 - No Play.",2nd & 10 at NO 26
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,7,CAR,0,6,0,Pass Incomplete,(:46) (Shotgun) C.Newton pass incomplete deep middle to D.Funchess (M.Lattimore) [D.Onyemata].,1st & 10 at NO 21
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,7,CAR,0,7,0,Pass Incomplete,"(:41) (Shotgun) C.Newton pass incomplete short right [C.Jordan].
+PENALTY on CAR-C.Newton, Intentional Grounding, 13 yards, enforced at NO 21.",2nd & 10 at NO 21
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,7,CAR,0,8,0,Pass Incomplete,(:19) (Shotgun) C.Newton pass incomplete deep right to D.Funchess.,3rd & 23 at NO 34
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,7,CAR,0,9,0,Turnover on Downs,(:11) (Shotgun) C.Newton sacked at CAR 49 for -17 yards (V.Bell).,4th & 23 at NO 34
+2017,Wild Card Weekend,SUN,01/07,Panthers,Saints,4TH QUARTER,8,NO,0,1,0,-1 Yard Run,(:06) D.Brees kneels to 50 for -1 yards.,1st & 10 at CAR 49

@@ -1,0 +1,717 @@
+Season,Week,Day,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayDescription,PlayStart
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,1,TB,0,1,0,Kickoff,"G.Zuerlein kicks 65 yards from DAL 35 to end zone, Touchback.",Kickoff from DAL 35
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,1,TB,0,2,0,5 Yard Run,(15:00) (Shotgun) L.Fournette up the middle to TB 30 for 5 yards (O.Odighizuwa; M.Parsons).,1st & 10 at TB 25
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,1,TB,0,3,0,3 Yard Run,(14:17) L.Fournette right guard to TB 33 for 3 yards (L.Vander Esch).,2nd & 5 at TB 30
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,1,TB,0,4,0,Pass Incomplete,(13:33) (Shotgun) T.Brady pass incomplete deep right to C.Godwin.,3rd & 2 at TB 33
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,1,TB,0,5,0,Punt,"(13:26) B.Pinion punts 65 yards to DAL 2, Center-Z.Triner, out of bounds.",4th & 2 at TB 33
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,2,DAL,0,1,0,28 Yard Pass,(13:18) (Shotgun) D.Prescott pass deep left to A.Cooper pushed ob at DAL 30 for 28 yards (A.Winfield).,1st & 10 at DAL 2
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,2,DAL,0,2,0,4 Yard Run,(12:51) E.Elliott up the middle to DAL 34 for 4 yards (D.White).,1st & 10 at DAL 30
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,2,DAL,0,3,0,5 Yard Pass,(12:23) (Shotgun) D.Prescott pass short middle to D.Schultz to DAL 39 for 5 yards (D.White).,2nd & 6 at DAL 34
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,2,DAL,0,4,0,2 Yard Run,(11:48) E.Elliott left guard to DAL 41 for 2 yards (L.David; D.White).,3rd & 1 at DAL 39
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,2,DAL,0,5,0,4 Yard Run,(11:04) E.Elliott right end to DAL 45 for 4 yards (M.Edwards; D.White).,1st & 10 at DAL 41
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,2,DAL,0,6,0,16 Yard Pass,(10:31) D.Prescott pass short right to D.Schultz pushed ob at TB 39 for 16 yards (D.White).,2nd & 6 at DAL 45
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,2,DAL,0,7,0,Pass Incomplete,(9:56) D.Prescott pass incomplete deep left to C.Lamb.,1st & 10 at TB 39
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,2,DAL,0,8,0,Pass Incomplete,(9:49) (Shotgun) D.Prescott pass incomplete short left to C.Lamb.,2nd & 10 at TB 39
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,2,DAL,0,9,0,-5 Yard Penalty,"(9:46) (Shotgun) PENALTY on DAL, False Start, 5 yards, enforced at TB 39 - No Play.",3rd & 10 at TB 39
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,2,DAL,0,10,0,Pass Incomplete,(9:46) (Shotgun) D.Prescott pass incomplete short left to C.Lamb [L.David].,3rd & 15 at TB 44
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,2,DAL,0,11,0,Punt,"(9:42) B.Anger punts 38 yards to TB 6, Center-J.McQuaide, out of bounds.",4th & 15 at TB 44
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,3,TB,1,1,0,5 Yard Run,(9:32) R.Jones left guard to TB 11 for 5 yards (D.Lawrence).,1st & 10 at TB 6
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,3,TB,1,2,0,10 Yard Pass,(8:53) (Shotgun) T.Brady pass short middle to M.Evans to TB 21 for 10 yards (T.Diggs).,2nd & 5 at TB 11
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,3,TB,1,3,0,Pass Incomplete,"(8:24) (No Huddle, Shotgun) T.Brady pass incomplete short left to M.Evans.",1st & 10 at TB 21
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,3,TB,1,4,0,19 Yard Pass,(8:20) (Shotgun) T.Brady pass deep middle to R.Gronkowski to TB 40 for 19 yards (D.Kazee).,2nd & 10 at TB 21
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,3,TB,1,5,0,28 Yard Pass,"(7:53) (No Huddle, Shotgun) T.Brady pass deep right to A.Brown ran ob at DAL 32 for 28 yards (A.Brown).",1st & 10 at TB 40
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,3,TB,1,6,0,16 Yard Pass,"(7:30) (No Huddle, Shotgun) T.Brady pass short right to A.Brown pushed ob at DAL 16 for 16 yards (A.Brown; K.Neal).",1st & 10 at DAL 32
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,3,TB,1,7,0,3 Yard Run,(6:55) L.Fournette left tackle to DAL 13 for 3 yards (K.Neal; D.Armstrong).,1st & 10 at DAL 16
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,3,TB,1,8,0,8 Yard Pass,(6:13) (Shotgun) T.Brady pass short right to C.Godwin to DAL 5 for 8 yards (A.Brown).,2nd & 7 at DAL 13
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,3,TB,1,9,0,Touchdown Buccaneers,"(5:26) (Shotgun) T.Brady pass short middle to C.Godwin for 5 yards, TOUCHDOWN.",1st & 5 at DAL 5
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,3,TB,1,10,1,Extra Point Good,"R.Succop extra point is GOOD, Center-Z.Triner, Holder-B.Pinion.",XP attempt from DAL 15
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,4,DAL,1,1,0,Kickoff,"B.Pinion kicks 65 yards from TB 35 to end zone, Touchback.",Kickoff from TB 35
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,4,DAL,1,2,0,11 Yard Pass,(5:23) (Shotgun) D.Prescott pass short left to T.Pollard to DAL 36 for 11 yards (A.Winfield; J.Dean).,1st & 10 at DAL 25
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,4,DAL,1,3,0,8 Yard Pass,(4:53) (Shotgun) D.Prescott pass short left to M.Gallup to DAL 44 for 8 yards (J.Pierre-Paul; S.Murphy-Bunting).,1st & 10 at DAL 36
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,4,DAL,1,4,0,12 Yard Pass,(4:15) (Shotgun) D.Prescott pass short right to M.Gallup to TB 44 for 12 yards (A.Winfield).,2nd & 2 at DAL 44
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,4,DAL,1,5,0,7 Yard Pass,(3:30) (Shotgun) D.Prescott pass short middle to T.Pollard to TB 37 for 7 yards (S.Murphy-Bunting).,1st & 10 at TB 44
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,4,DAL,1,6,0,8 Yard Pass,(2:45) (Shotgun) D.Prescott pass short right to M.Gallup ran ob at TB 29 for 8 yards.,2nd & 3 at TB 37
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,4,DAL,1,7,0,7 Yard Pass,(2:22) (No Huddle) D.Prescott pass short right to B.Jarwin to TB 22 for 7 yards (C.Davis).,1st & 10 at TB 29
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,4,DAL,1,8,0,Touchdown Cowboys,"(1:43) (Shotgun) D.Prescott pass short left to C.Lamb for 22 yards, TOUCHDOWN [R.Nunez-Roches]. TB-S.Murphy-Bunting was injured during the play. His return is Questionable.",2nd & 3 at TB 22
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,1ST QUARTER,4,DAL,1,9,1,Extra Point Good,"G.Zuerlein extra point is GOOD, Center-J.McQuaide, Holder-B.Anger.",XP attempt from TB 15
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,1,TB,0,1,0,Kickoff,"G.Zuerlein kicks 65 yards from DAL 35 to end zone, Touchback.",Kickoff from DAL 35
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,1,TB,0,2,0,3 Yard Run,(1:35) R.Jones right tackle to TB 28 for 3 yards (A.Brown).,1st & 10 at TB 25
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,1,TB,0,3,0,27 Yard Pass,"(:59) T.Brady pass deep middle to A.Brown to DAL 45 for 27 yards (J.Kearse).
+Penalty on DAL-T.Diggs, Illegal Use of Hands, declined.",2nd & 7 at TB 28
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,1,TB,0,4,0,5 Yard Run,(:45) R.Jones up the middle to DAL 40 for 5 yards (T.Basham; B.Urban).,1st & 10 at DAL 45
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,1,TB,0,5,0,Pass Incomplete,(:11) T.Brady pass incomplete short middle to L.Fournette (M.Parsons).,2nd & 5 at DAL 40
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,1,TB,0,6,0,Pass Incomplete,(:05) (Shotgun) T.Brady pass incomplete short middle to A.Brown (D.Kazee).,3rd & 5 at DAL 40
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,1,TB,0,7,0,Punt,"(14:53) B.Pinion punts 42 yards to DAL 8, Center-Z.Triner. C.Wilson to DAL 11 for 3 yards (G.Stuard).
+PENALTY on DAL-N.Wright, Illegal Block Above the Waist, 5 yards, enforced at DAL 10.",4th & 15 at 50
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,2,DAL,0,1,0,2 Yard Pass,(14:42) (Shotgun) D.Prescott pass short left to C.Wilson to DAL 7 for 2 yards (L.David).,1st & 10 at DAL 5
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,2,DAL,0,2,0,5 Yard Pass,"(14:21) (No Huddle, Shotgun) D.Prescott pass short middle to T.Pollard to DAL 12 for 5 yards (D.White).",2nd & 8 at DAL 7
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,2,DAL,0,3,0,Run for No Gain,"(13:49) (No Huddle, Shotgun) T.Pollard left tackle to DAL 12 for no gain (N.Suh; J.Pierre-Paul).",3rd & 3 at DAL 12
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,2,DAL,0,4,0,Punt,"(12:55) B.Anger punts 47 yards to TB 46, Center-J.McQuaide. J.Mickens to DAL 30 for 24 yards (C.Clement).
+PENALTY on TB-A.Adams, Offensive Holding, 10 yards, enforced at DAL 40.",4th & 8 at DAL 7
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,3,TB,1,1,0,2 Yard Run,(12:41) L.Fournette right guard to DAL 48 for 2 yards (D.Lawrence; R.Gregory).,1st & 10 at 50
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,3,TB,1,2,0,5 Yard Pass,(12:07) (Shotgun) T.Brady pass short middle to R.Gronkowski to DAL 43 for 5 yards (D.Lawrence).,2nd & 8 at DAL 48
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,3,TB,1,3,0,19 Yard Pass,"(11:29) (Shotgun) T.Brady pass short right to C.Godwin pushed ob at DAL 24 for 19 yards (J.Kearse).
+Penalty on TB-R.Jensen, Taunting, offsetting.
+Penalty on DAL-C.Watkins, Unnecessary Roughness, offsetting.",3rd & 3 at DAL 43
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,3,TB,1,4,0,17 Yard Pass,(11:13) T.Brady pass short right to C.Godwin to DAL 7 for 17 yards (A.Brown).,1st & 10 at DAL 24
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,3,TB,1,5,0,5 Yard Run,(10:36) L.Fournette right guard to DAL 2 for 5 yards (T.Basham; B.Urban).,1st & 7 at DAL 7
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,3,TB,1,6,0,Touchdown Buccaneers,"(9:53) T.Brady pass short right to R.Gronkowski for 2 yards, TOUCHDOWN.",2nd & 2 at DAL 2
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,3,TB,1,7,1,Extra Point Good,"R.Succop extra point is GOOD, Center-Z.Triner, Holder-B.Pinion.",XP attempt from DAL 15
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,4,DAL,0,1,0,Kickoff,"B.Pinion kicks 65 yards from TB 35 to end zone, Touchback.",Kickoff from TB 35
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,4,DAL,0,2,0,22 Yard Pass,(9:48) D.Prescott pass short right to C.Lamb to DAL 47 for 22 yards (D.White).,1st & 10 at DAL 25
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,4,DAL,0,3,0,14 Yard Penalty,"(9:09) (Shotgun) D.Prescott pass incomplete short left to A.Cooper.
+PENALTY on TB-C.Davis, Defensive Pass Interference, 14 yards, enforced at DAL 47 - No Play.",1st & 10 at DAL 47
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,4,DAL,0,4,0,6 Yard Pass,"(9:04) D.Prescott pass short right to B.Jarwin pushed ob at TB 33 for 6 yards (J.Pierre-Paul).
+Tampa Bay challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",1st & 10 at TB 39
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,4,DAL,0,5,0,8 Yard Pass,(8:57) (Shotgun) D.Prescott pass short left to M.Gallup to TB 25 for 8 yards (S.Barrett).,2nd & 4 at TB 33
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,4,DAL,0,6,0,5 Yard Penalty,"(8:16) (Shotgun) D.Prescott pass incomplete deep left to M.Gallup.
+PENALTY on TB-J.Dean, Defensive Holding, 5 yards, enforced at TB 25 - No Play.",1st & 10 at TB 25
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,4,DAL,0,7,0,3 Yard Pass,(8:09) (Shotgun) D.Prescott pass short left to E.Elliott to TB 17 for 3 yards (J.Pierre-Paul).,1st & 10 at TB 20
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,4,DAL,0,8,0,4 Yard Pass,(7:27) (Shotgun) D.Prescott pass short right to A.Cooper to TB 13 for 4 yards (R.Cockrell).,2nd & 7 at TB 17
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,4,DAL,0,9,0,Pass Incomplete,(6:46) (Shotgun) D.Prescott pass incomplete short left to C.Lamb.,3rd & 3 at TB 13
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,4,DAL,0,10,0,Field Goal No Good,"(6:41) G.Zuerlein 31 yard field goal is No Good, Wide Left, Center-J.McQuaide, Holder-B.Anger.",4th & 3 at TB 13
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,5,TB,0,1,0,Fumble,"(6:36) R.Jones right tackle to TB 22 for 1 yard (D.Lawrence). FUMBLES (D.Lawrence), RECOVERED by DAL-R.Gregory at TB 27. R.Gregory to TB 27 for no gain (C.Godwin).",1st & 10 at TB 21
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,6,DAL,1,1,0,2 Yard Run,(6:28) E.Elliott up the middle to TB 25 for 2 yards (R.Nunez-Roches; L.David).,1st & 10 at TB 27
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,6,DAL,1,2,0,Pass Incomplete,(5:43) (Shotgun) D.Prescott pass incomplete deep left to C.Lamb.,2nd & 8 at TB 25
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,6,DAL,1,3,0,13 Yard Pass,(5:37) (Shotgun) D.Prescott pass short middle to C.Wilson to TB 12 for 13 yards (A.Winfield).,3rd & 8 at TB 25
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,6,DAL,1,4,0,7 Yard Run,(4:59) (Shotgun) D.Prescott scrambles left end ran ob at TB 5 for 7 yards (J.Tryon).,1st & 10 at TB 12
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,6,DAL,1,5,0,Touchdown Cowboys,"(4:25) (Shotgun) D.Prescott to TB 10 for -5 yards. FUMBLES, and recovers at TB 10. D.Prescott pass short left to A.Cooper for 5 yards, TOUCHDOWN.",2nd & 3 at TB 5
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,6,DAL,1,6,1,Extra Point No Good,"G.Zuerlein extra point is No Good, Hit Left Upright, Center-J.McQuaide, Holder-B.Anger.",XP attempt from TB 15
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,7,TB,0,1,0,Kickoff,G.Zuerlein kicks 65 yards from DAL 35 to TB 0. J.Mickens to TB 20 for 20 yards (J.Kearse).,Kickoff from DAL 35
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,7,TB,0,2,0,Interception,(4:14) T.Brady pass short left intended for L.Fournette INTERCEPTED by T.Diggs at TB 21. T.Diggs to TB 21 for no gain (L.Fournette; A.Marpet).,1st & 10 at TB 20
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,8,DAL,1,1,0,4 Yard Pass,(4:08) D.Prescott pass short left to C.Lamb to TB 17 for 4 yards (J.Dean).,1st & 10 at TB 21
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,8,DAL,1,2,0,Pass Incomplete,(3:30) (Shotgun) D.Prescott pass incomplete deep left to M.Gallup.,2nd & 6 at TB 17
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,8,DAL,1,3,0,Pass Incomplete,(3:26) (Shotgun) D.Prescott pass incomplete short middle to C.Lamb (L.David).,3rd & 6 at TB 17
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,8,DAL,1,4,1,Field Goal,"(3:21) G.Zuerlein 35 yard field goal is GOOD, Center-J.McQuaide, Holder-B.Anger.",4th & 6 at TB 17
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,9,TB,1,1,0,Kickoff,G.Zuerlein kicks 63 yards from DAL 35 to TB 2. J.Mickens ran ob at TB 43 for 41 yards (J.Kearse).,Kickoff from DAL 35
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,9,TB,1,2,0,10 Yard Pass,(3:08) (Shotgun) T.Brady pass short middle to C.Godwin to DAL 47 for 10 yards (J.Smith; J.Lewis).,1st & 10 at TB 43
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,9,TB,1,3,0,Touchdown Buccaneers,"(2:45) (No Huddle, Shotgun) T.Brady pass deep right to A.Brown for 47 yards, TOUCHDOWN.",1st & 10 at DAL 47
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,9,TB,1,4,1,Extra Point Good,"R.Succop extra point is GOOD, Center-Z.Triner, Holder-B.Pinion.",XP attempt from DAL 15
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,10,DAL,0,1,0,Kickoff,"B.Pinion kicks 65 yards from TB 35 to end zone, Touchback.",Kickoff from TB 35
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,10,DAL,0,2,0,11 Yard Pass,(2:38) (Shotgun) D.Prescott pass short left to A.Cooper to DAL 36 for 11 yards (M.Edwards; J.Dean).,1st & 10 at DAL 25
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,10,DAL,0,3,0,26 Yard Penalty,"(2:00) (Shotgun) D.Prescott pass short left to M.Gallup pushed ob at DAL 44 for 8 yards (J.Dean).
+PENALTY on TB-J.Dean, Defensive Pass Interference, 11 yards, enforced at DAL 36 - No Play.
+PENALTY on TB-J.Dean, Face Mask (15 Yards), 15 yards, enforced between downs.",1st & 10 at DAL 36
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,10,DAL,0,4,0,7 Yard Pass,(1:54) (Shotgun) D.Prescott pass short left to A.Cooper pushed ob at TB 31 for 7 yards (J.Dean).,1st & 10 at TB 38
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,10,DAL,0,5,0,Pass Incomplete,(1:50) (Shotgun) D.Prescott pass incomplete short left to M.Gallup (J.Dean).,2nd & 3 at TB 31
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,10,DAL,0,6,0,10 Yard Pass,(1:43) (Shotgun) D.Prescott pass short right to C.Lamb to TB 21 for 10 yards (D.White).,3rd & 3 at TB 31
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,10,DAL,0,7,0,Pass Incomplete,"(1:16) (No Huddle, Shotgun) D.Prescott pass incomplete short right.",1st & 10 at TB 21
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,10,DAL,0,8,0,-12 Yard Sack,(1:11) (Shotgun) D.Prescott sacked at TB 33 for -12 yards (S.Barrett).,2nd & 10 at TB 21
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,10,DAL,0,9,0,-10 Yard Penalty,"(:35) (No Huddle, Shotgun) D.Prescott scrambles up the middle to TB 29 for 4 yards (J.Tryon).
+PENALTY on DAL-C.Williams, Offensive Holding, 10 yards, enforced at TB 33 - No Play.",3rd & 22 at TB 33
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,10,DAL,0,10,0,1 Yard Run,(:28) (Shotgun) D.Prescott scrambles left end pushed ob at TB 42 for 1 yard (S.Barrett; W.Gholston). TB-W.Gholston was injured during the play. His return is Questionable.,3rd & 32 at TB 43
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,10,DAL,0,11,0,Field Goal No Good,"(:20) G.Zuerlein 60 yard field goal is No Good, Short, Center-J.McQuaide, Holder-B.Anger.",4th & 31 at TB 42
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,11,TB,0,1,0,Pass Incomplete,(:15) (Shotgun) T.Brady pass incomplete deep right to G.Bernard.,1st & 10 at 50
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,11,TB,0,2,0,Pass Incomplete,(:09) (Shotgun) T.Brady pass incomplete short right to T.Johnson [M.Parsons].,2nd & 10 at 50
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,2ND QUARTER,11,TB,0,3,0,Interception,(:06) (Shotgun) T.Brady pass deep right INTERCEPTED by J.Lewis at DAL -8. J.Lewis to TB 42 for 66 yards (A.Marpet).,3rd & 10 at 50
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,1,DAL,1,1,0,Kickoff,"B.Pinion kicks 65 yards from TB 35 to end zone, Touchback.",Kickoff from TB 35
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,1,DAL,1,2,0,Pass Incomplete,(15:00) (Shotgun) D.Prescott pass incomplete short left to A.Cooper (C.Davis).,1st & 10 at DAL 25
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,1,DAL,1,3,0,5 Yard Pass,(14:57) (Shotgun) D.Prescott pass short left to D.Schultz to DAL 30 for 5 yards (M.Edwards). TB-M.Edwards was injured during the play. His return is Questionable.,2nd & 10 at DAL 25
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,1,DAL,1,4,0,16 Yard Pass,(14:27) (Shotgun) D.Prescott pass short right to A.Cooper pushed ob at DAL 46 for 16 yards (J.Dean) [N.Suh].,3rd & 5 at DAL 30
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,1,DAL,1,5,0,6 Yard Pass,(14:03) (Shotgun) D.Prescott pass short right to A.Cooper to TB 48 for 6 yards (C.Davis).,1st & 10 at DAL 46
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,1,DAL,1,6,0,Run for No Gain,(13:24) E.Elliott up the middle to TB 48 for no gain (A.Adams).,2nd & 4 at TB 48
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,1,DAL,1,7,0,14 Yard Pass,(12:44) (Shotgun) D.Prescott pass short middle to A.Cooper to TB 34 for 14 yards (A.Adams).,3rd & 4 at TB 48
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,1,DAL,1,8,0,Pass Incomplete,"(12:14) (No Huddle, Shotgun) D.Prescott pass incomplete short right to M.Gallup (C.Davis).",1st & 10 at TB 34
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,1,DAL,1,9,0,16 Yard Penalty,"(12:10) (Shotgun) D.Prescott pass incomplete deep middle to B.Jarwin.
+PENALTY on TB-A.Adams, Defensive Pass Interference, 16 yards, enforced at TB 34 - No Play.",2nd & 10 at TB 34
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,1,DAL,1,10,0,6 Yard Pass,(12:05) (Shotgun) D.Prescott pass short right to T.Pollard to TB 12 for 6 yards (L.David; R.Cockrell).,1st & 10 at TB 18
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,1,DAL,1,11,0,4 Yard Pass,(11:26) (Shotgun) D.Prescott pass short left to A.Cooper to TB 8 for 4 yards (R.Cockrell) [A.Adams].,2nd & 4 at TB 12
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,1,DAL,1,12,0,3 Yard Run,"(11:09) (No Huddle, Shotgun) D.Prescott up the middle to TB 5 for 3 yards (L.David).",1st & 8 at TB 8
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,1,DAL,1,13,0,3 Yard Pass,(10:32) D.Prescott pass short right to E.Elliott ran ob at TB 2 for 3 yards [S.Barrett].,2nd & 5 at TB 5
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,1,DAL,1,14,0,-1 Yard Run,(10:00) (Shotgun) E.Elliott left end to TB 3 for -1 yards (A.Adams).,3rd & 2 at TB 2
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,1,DAL,1,15,1,Field Goal,"(9:19) G.Zuerlein 21 yard field goal is GOOD, Center-J.McQuaide, Holder-B.Anger.",4th & 3 at TB 3
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,2,TB,0,1,0,Kickoff,G.Zuerlein kicks 63 yards from DAL 35 to TB 2. J.Mickens to TB 33 for 31 yards (K.Neal).,Kickoff from DAL 35
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,2,TB,0,2,0,Pass Incomplete,(9:08) (Shotgun) T.Brady pass incomplete short left to C.Godwin.,1st & 10 at TB 33
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,2,TB,0,3,0,Pass Incomplete,(9:04) (Shotgun) T.Brady pass incomplete short middle to C.Godwin.,2nd & 10 at TB 33
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,2,TB,0,4,0,Pass Incomplete,"(9:00) (Shotgun) T.Brady pass incomplete short right.
+Penalty on TB-T.Wirfs, Offensive Holding, declined.",3rd & 10 at TB 33
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,2,TB,0,5,0,Punt,"(8:54) B.Pinion punts 49 yards to DAL 13, Center-Z.Triner. C.Lamb to DAL 25 for 12 yards (K.Minter; R.Cockrell).",4th & 5 at TB 38
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,3,DAL,0,1,0,Interception,"(8:44) D.Prescott pass deep middle intended for C.Lamb INTERCEPTED by C.Davis [J.Tryon] at 50. C.Davis to DAL 19 for 31 yards (L.Collins).
+Penalty on DAL-T.Pollard, Tripping, declined.
+PENALTY on TB-S.Barrett, Illegal Block Above the Waist, 10 yards, enforced at DAL 25.",1st & 10 at DAL 25
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,4,TB,1,1,0,20 Yard Pass,(8:31) (Shotgun) T.Brady pass deep right to R.Gronkowski to DAL 15 for 20 yards (K.Neal).,1st & 10 at DAL 35
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,4,TB,1,2,0,2 Yard Pass,(7:52) T.Brady pass short left to C.Godwin to DAL 13 for 2 yards (A.Brown; J.Kearse).,1st & 10 at DAL 15
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,4,TB,1,3,0,2 Yard Pass,(7:12) (Shotgun) T.Brady pass short left to L.Fournette to DAL 11 for 2 yards (M.Parsons).,2nd & 8 at DAL 13
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,4,TB,1,4,0,Touchdown Buccaneers,"(6:28) (Shotgun) T.Brady pass short middle to R.Gronkowski for 11 yards, TOUCHDOWN [D.Wilson].",3rd & 6 at DAL 11
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,4,TB,1,5,1,Extra Point Good,"R.Succop extra point is GOOD, Center-Z.Triner, Holder-B.Pinion.",XP attempt from DAL 15
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,5,DAL,1,1,0,Kickoff,"B.Pinion kicks 65 yards from TB 35 to end zone, Touchback.",Kickoff from TB 35
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,5,DAL,1,2,0,13 Yard Run,(6:23) E.Elliott left end pushed ob at DAL 38 for 13 yards (A.Winfield).,1st & 10 at DAL 25
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,5,DAL,1,3,0,7 Yard Pass,"(5:59) (No Huddle, Shotgun) D.Prescott pass short middle to B.Jarwin to DAL 45 for 7 yards (L.David; J.Tryon).",1st & 10 at DAL 38
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,5,DAL,1,4,0,3 Yard Run,(5:23) T.Pollard left guard to DAL 48 for 3 yards (L.David).,2nd & 3 at DAL 45
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,5,DAL,1,5,0,10 Yard Pass,(4:49) (Shotgun) D.Prescott pass short right to D.Schultz to TB 42 for 10 yards (J.Pierre-Paul).,1st & 10 at DAL 48
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,5,DAL,1,6,0,Run for No Gain,(4:12) E.Elliott left guard to TB 42 for no gain (D.White).,1st & 10 at TB 42
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,5,DAL,1,7,0,9 Yard Pass,(3:26) (Shotgun) D.Prescott pass short right to C.Lamb to TB 33 for 9 yards (R.Cockrell).,2nd & 10 at TB 42
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,5,DAL,1,8,0,6 Yard Pass,(2:43) D.Prescott pass short right to D.Schultz to TB 27 for 6 yards (L.David).,3rd & 1 at TB 33
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,5,DAL,1,9,0,2 Yard Run,(2:03) (Shotgun) D.Prescott scrambles up the middle to TB 25 for 2 yards (D.White).,1st & 10 at TB 27
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,5,DAL,1,10,0,4 Yard Run,(1:23) E.Elliott left end to TB 21 for 4 yards (J.Dean; A.Winfield).,2nd & 8 at TB 25
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,5,DAL,1,11,0,Touchdown Cowboys,"(:39) (Shotgun) D.Prescott pass deep right to A.Cooper for 21 yards, TOUCHDOWN.",3rd & 4 at TB 21
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,3RD QUARTER,5,DAL,1,12,1,Extra Point Good,"G.Zuerlein extra point is GOOD, Center-J.McQuaide, Holder-B.Anger.",XP attempt from TB 15
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,1,TB,0,1,0,Kickoff,"G.Zuerlein kicks 65 yards from DAL 35 to end zone, Touchback.",Kickoff from DAL 35
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,1,TB,0,2,0,10 Yard Pass,(:33) (Shotgun) T.Brady pass short left to L.Fournette pushed ob at TB 35 for 10 yards (L.Vander Esch).,1st & 10 at TB 25
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,1,TB,0,3,0,5 Yard Penalty,"(:06) (Shotgun) L.Fournette left end to TB 33 for -2 yards (L.Vander Esch; D.Lawrence).
+PENALTY on DAL-T.Diggs, Illegal Use of Hands, 5 yards, enforced at TB 35 - No Play.",1st & 10 at TB 35
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,1,TB,0,4,0,7 Yard Run,(15:00) L.Fournette up the middle to TB 47 for 7 yards (J.Kearse; J.Smith).,1st & 10 at TB 40
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,1,TB,0,5,0,1 Yard Pass,(14:20) (Shotgun) T.Brady pass short left to L.Fournette to TB 48 for 1 yard (J.Smith).,2nd & 3 at TB 47
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,1,TB,0,6,0,5 Yard Pass,(13:38) (Shotgun) T.Brady pass short left to M.Evans to DAL 47 for 5 yards (J.Smith).,3rd & 2 at TB 48
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,1,TB,0,7,0,Run for No Gain,(12:56) L.Fournette left guard to DAL 47 for no gain (M.Parsons; J.Kearse).,1st & 10 at DAL 47
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,1,TB,0,8,0,Pass Incomplete,(12:11) (Shotgun) T.Brady pass incomplete short right to M.Evans (J.Lewis).,2nd & 10 at DAL 47
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,1,TB,0,9,0,Pass Incomplete,(12:06) (Shotgun) T.Brady pass incomplete deep right to C.Godwin.,3rd & 10 at DAL 47
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,1,TB,0,10,0,Punt,"(12:00) B.Pinion punts 41 yards to DAL 6, Center-Z.Triner, fair catch by C.Lamb.",4th & 10 at DAL 47
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,2,DAL,0,1,0,2 Yard Pass,(11:53) D.Prescott pass short left to A.Cooper to DAL 8 for 2 yards (J.Dean).,1st & 10 at DAL 6
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,2,DAL,0,2,0,Pass Incomplete,(11:15) (Shotgun) D.Prescott pass incomplete short left to A.Cooper.,2nd & 8 at DAL 8
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,2,DAL,0,3,0,Pass Incomplete,(11:10) (Shotgun) D.Prescott pass incomplete short right to A.Cooper.,3rd & 8 at DAL 8
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,2,DAL,0,4,0,Punt,"(11:05) B.Anger punts 62 yards to TB 30, Center-J.McQuaide. J.Mickens to TB 37 for 7 yards (C.Wilson).",4th & 8 at DAL 8
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,3,TB,0,1,0,7 Yard Pass,(10:54) T.Brady pass short right to R.Gronkowski to TB 44 for 7 yards (A.Brown; J.Lewis).,1st & 10 at TB 37
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,3,TB,0,2,0,9 Yard Pass,(10:13) (Shotgun) T.Brady pass short left to C.Godwin to DAL 47 for 9 yards (C.Watkins).,2nd & 3 at TB 44
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,3,TB,0,3,0,6 Yard Run,(9:37) A.Brown right end to DAL 41 for 6 yards (K.Neal).,1st & 10 at DAL 47
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,3,TB,0,4,0,7 Yard Pass,(8:56) (Shotgun) T.Brady pass short right to L.Fournette to DAL 34 for 7 yards (M.Parsons).,2nd & 4 at DAL 41
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,3,TB,0,5,0,-5 Yard Penalty,"(8:10) (Shotgun) PENALTY on TB-A.Marpet, False Start, 5 yards, enforced at DAL 34 - No Play.",1st & 10 at DAL 34
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,3,TB,0,6,0,9 Yard Pass,(8:10) (Shotgun) T.Brady pass short middle to M.Evans to DAL 30 for 9 yards (D.Armstrong; M.Parsons).,1st & 15 at DAL 39
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,3,TB,0,7,0,7 Yard Pass,(7:23) T.Brady pass short left to L.Fournette pushed ob at DAL 23 for 7 yards (J.Kearse; A.Brown).,2nd & 6 at DAL 30
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,3,TB,0,8,0,3 Yard Pass,(6:55) T.Brady pass short left to A.Brown pushed ob at DAL 20 for 3 yards (A.Brown).,1st & 10 at DAL 23
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,3,TB,0,9,0,6 Yard Run,(6:25) L.Fournette left guard to DAL 14 for 6 yards (D.Lawrence).,2nd & 7 at DAL 20
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,3,TB,0,10,0,1 Yard Run,(5:47) L.Fournette up the middle to DAL 13 for 1 yard (M.Parsons; K.Neal).,3rd & 1 at DAL 14
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,3,TB,0,11,0,Fumble,"(5:04) (Shotgun) T.Brady pass short right to C.Godwin to DAL 2 for 11 yards (D.Kazee). FUMBLES (D.Kazee), RECOVERED by DAL-J.Lewis at DAL 0. J.Lewis to DAL 10 for 10 yards (M.Evans).",1st & 10 at DAL 13
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,4,DAL,1,1,0,1 Yard Run,(4:52) (Shotgun) E.Elliott left end to DAL 11 for 1 yard (J.Pierre-Paul; L.David).,1st & 10 at DAL 10
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,4,DAL,1,2,0,3 Yard Pass,(4:14) (Shotgun) D.Prescott pass short left to D.Schultz to DAL 14 for 3 yards (L.David).,2nd & 9 at DAL 11
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,4,DAL,1,3,0,5 Yard Penalty,"(3:36) (No Huddle, Shotgun) PENALTY on TB-N.Suh, Neutral Zone Infraction, 5 yards, enforced at DAL 14 - No Play.",3rd & 6 at DAL 14
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,4,DAL,1,4,0,6 Yard Pass,(3:36) (Shotgun) D.Prescott pass short right to C.Lamb to DAL 25 for 6 yards (L.David; J.Dean).,3rd & 1 at DAL 19
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,4,DAL,1,5,0,11 Yard Pass,(3:02) (Shotgun) D.Prescott pass short left to A.Cooper to DAL 36 for 11 yards (J.Dean; A.Winfield).,1st & 10 at DAL 25
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,4,DAL,1,6,0,Pass Incomplete,(2:27) (Shotgun) D.Prescott pass incomplete short right to A.Cooper.,1st & 10 at DAL 36
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,4,DAL,1,7,0,-10 Yard Penalty,"(2:23) (Shotgun) D.Prescott pass deep left to C.Lamb to TB 41 for 23 yards (A.Winfield).
+PENALTY on DAL-T.Smith, Offensive Holding, 10 yards, enforced at DAL 36 - No Play.",2nd & 10 at DAL 36
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,4,DAL,1,8,0,9 Yard Pass,(2:17) (Shotgun) D.Prescott pass short right to C.Wilson to DAL 35 for 9 yards (R.Cockrell).,2nd & 20 at DAL 26
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,4,DAL,1,9,0,31 Yard Pass,(2:00) (Shotgun) D.Prescott pass short left to C.Lamb pushed ob at TB 34 for 31 yards (A.Winfield).,3rd & 11 at DAL 35
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,4,DAL,1,10,0,Pass Incomplete,(1:51) (Shotgun) D.Prescott pass incomplete short right to C.Lamb.,1st & 10 at TB 34
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,4,DAL,1,11,0,4 Yard Run,(1:48) E.Elliott right tackle to TB 30 for 4 yards (S.McLendon).,2nd & 10 at TB 34
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,4,DAL,1,12,0,-10 Yard Penalty,"(1:43) (Shotgun) D.Prescott pass short right to E.Elliott pushed ob at TB 30 for no gain (C.Davis) [S.Barrett].
+PENALTY on DAL-C.Williams, Offensive Holding, 10 yards, enforced at TB 30 - No Play.",3rd & 6 at TB 30
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,4,DAL,1,13,0,10 Yard Pass,(1:37) (Shotgun) D.Prescott pass short left to A.Cooper to TB 30 for 10 yards (M.Edwards).,3rd & 16 at TB 40
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,4,DAL,1,14,1,Field Goal,"(1:29) G.Zuerlein 48 yard field goal is GOOD, Center-J.McQuaide, Holder-B.Anger.",4th & 6 at TB 30
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,5,TB,1,1,0,Kickoff,"G.Zuerlein kicks 65 yards from DAL 35 to end zone, Touchback.",Kickoff from DAL 35
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,5,TB,1,2,0,8 Yard Pass,(1:24) (Shotgun) T.Brady pass short left to G.Bernard pushed ob at TB 33 for 8 yards (M.Parsons).,1st & 10 at TB 25
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,5,TB,1,3,0,Pass Incomplete,"(1:18) (No Huddle, Shotgun) T.Brady pass incomplete short left to M.Evans (T.Diggs).",2nd & 2 at TB 33
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,5,TB,1,4,0,4 Yard Pass,(1:13) (Shotgun) T.Brady pass short left to G.Bernard to TB 37 for 4 yards (J.Kearse).,3rd & 2 at TB 33
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,5,TB,1,5,0,-5 Yard Penalty,"(:55) (No Huddle, Shotgun) PENALTY on TB-D.Smith, False Start, 5 yards, enforced at TB 37 - No Play.",1st & 10 at TB 37
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,5,TB,1,6,0,6 Yard Pass,(:55) (Shotgun) T.Brady pass short right to R.Gronkowski pushed ob at TB 38 for 6 yards (A.Brown).,1st & 15 at TB 32
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,5,TB,1,7,0,20 Yard Pass,(:49) (Shotgun) T.Brady pass short middle to R.Gronkowski to DAL 42 for 20 yards (J.Kearse; A.Brown).,2nd & 9 at TB 38
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,5,TB,1,8,0,Pass Incomplete,"(:30) (No Huddle, Shotgun) T.Brady pass incomplete deep right to A.Brown.",1st & 10 at DAL 42
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,5,TB,1,9,0,24 Yard Pass,(:24) (Shotgun) T.Brady pass deep left to C.Godwin ran ob at DAL 18 for 24 yards.,2nd & 10 at DAL 42
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,5,TB,1,10,0,Pass Incomplete,(:18) (Shotgun) T.Brady pass incomplete short left.,1st & 10 at DAL 18
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,5,TB,1,11,0,Pass Incomplete,(:14) (Shotgun) T.Brady pass incomplete short left.,2nd & 10 at DAL 18
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,5,TB,1,12,0,Pass Incomplete,(:10) (Shotgun) T.Brady pass incomplete short left.,3rd & 10 at DAL 18
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,5,TB,1,13,1,Field Goal,"(:07) R.Succop 36 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",4th & 10 at DAL 18
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,6,DAL,0,1,0,Kickoff,"B.Pinion kicks 65 yards from TB 35 to end zone, Touchback.",Kickoff from TB 35
+2021,Divisional Playoffs,THU,09/09,Cowboys,Buccaneers,4TH QUARTER,6,DAL,0,2,0,11 Yard Run,(:02) (Shotgun) Direct snap to T.Pollard.  T.Pollard right end to DAL 36 for 11 yards (S.Barrett).,1st & 10 at DAL 25
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,1,GB,1,1,0,Kickoff,R.Gould kicks 49 yards from SF 35 to GB 16. Am.Rodgers to GB 31 for 15 yards (D.Flannigan-Fowles).,Kickoff from SF 35
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,1,GB,1,2,0,4 Yard Run,(14:56) (Shotgun) A.Jones up the middle to GB 35 for 4 yards (D.Jones).,1st & 10 at GB 31
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,1,GB,1,3,0,14 Yard Pass,(14:22) (Shotgun) A.Rodgers pass short right to D.Adams to GB 49 for 14 yards (D.Johnson).,2nd & 6 at GB 35
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,1,GB,1,4,0,-1 Yard Run,(13:46) A.Jones up the middle to GB 48 for -1 yards (F.Warner).,1st & 10 at GB 49
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,1,GB,1,5,0,19 Yard Pass,"(13:03) (Shotgun) A.Rodgers pass short right to A.Jones to SF 33 for 19 yards (F.Warner, D.Greenlaw).",2nd & 11 at GB 48
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,1,GB,1,6,0,Pass Incomplete,(12:18) A.Rodgers pass incomplete short middle to A.Jones.,1st & 10 at SF 33
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,1,GB,1,7,0,10 Yard Pass,(12:15) (Shotgun) A.Rodgers pass short middle to D.Adams to SF 23 for 10 yards (D.Johnson).,2nd & 10 at SF 33
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,1,GB,1,8,0,1 Yard Run,(11:30) E.St. Brown right end pushed ob at SF 22 for 1 yard (N.Bosa).,1st & 10 at SF 23
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,1,GB,1,9,0,11 Yard Pass,(10:53) (Shotgun) A.Rodgers pass short middle to D.Adams to SF 11 for 11 yards (K.Williams).,2nd & 9 at SF 22
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,1,GB,1,10,0,5 Yard Run,"(10:10) (Shotgun) A.Dillon right guard to SF 6 for 5 yards (A.Armstead, D.Johnson).",1st & 10 at SF 11
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,1,GB,1,11,0,Touchdown Packers,"(9:30) A.Dillon up the middle for 6 yards, TOUCHDOWN.",2nd & 5 at SF 6
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,1,GB,1,12,1,Extra Point Good,"M.Crosby extra point is GOOD, Center-S.Wirtel, Holder-C.Bojorquez.",XP attempt from SF 15
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,2,SF,0,1,0,Kickoff,M.Crosby kicks 57 yards from GB 35 to SF 8. J.Hasty to SF 40 for 32 yards (R.Douglas).,Kickoff from GB 35
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,2,SF,0,2,0,1 Yard Run,(9:20) E.Mitchell left end to SF 41 for 1 yard (K.Clark; P.Smith).,1st & 10 at SF 40
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,2,SF,0,3,0,-5 Yard Penalty,"(8:41) PENALTY on SF-D.Brunskill, False Start, 5 yards, enforced at SF 41 - No Play.",2nd & 9 at SF 41
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,2,SF,0,4,0,2 Yard Run,"(8:22) D.Samuel up the middle to SF 38 for 2 yards (P.Smith, D.Lowry).",2nd & 14 at SF 36
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,2,SF,0,5,0,-9 Yard Sack,(7:36) (Shotgun) J.Garoppolo sacked at SF 29 for -9 yards (Z.Smith).,3rd & 12 at SF 38
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,2,SF,0,6,0,Punt,"(6:56) M.Wishnowsky punts 46 yards to GB 25, Center-T.Pepper, downed by SF-R.Cracraft.",4th & 21 at SF 29
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,3,GB,0,1,0,7 Yard Pass,(6:45) (Shotgun) A.Rodgers pass short left to D.Adams to GB 32 for 7 yards (A.Al-Shaair).,1st & 10 at GB 25
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,3,GB,0,2,0,14 Yard Run,(6:06) (Shotgun) A.Jones right end to GB 46 for 14 yards (J.Tartt; D.Greenlaw).,2nd & 3 at GB 32
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,3,GB,0,3,0,9 Yard Pass,(5:20) (Shotgun) A.Rodgers pass short right to A.Jones to SF 45 for 9 yards (J.Ward; F.Warner).,1st & 10 at GB 46
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,3,GB,0,4,0,3 Yard Run,(4:40) (Shotgun) A.Dillon right guard to SF 42 for 3 yards (K.Street).,2nd & 1 at SF 45
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,3,GB,0,5,0,Fumble,"(4:00) A.Rodgers pass short left to M.Lewis to SF 41 for 1 yard (F.Warner). FUMBLES (F.Warner), RECOVERED by SF-D.Greenlaw at SF 42. D.Greenlaw to SF 42 for no gain (M.Lewis).",1st & 10 at SF 42
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,4,SF,0,1,0,5 Yard Run,"(3:51) (Shotgun) D.Samuel left guard to SF 47 for 5 yards (K.Clark, P.Smith).",1st & 10 at SF 42
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,4,SF,0,2,0,Pass Incomplete,"(3:06) (Shotgun) J.Garoppolo pass short middle to B.Aiyuk to GB 43 for 10 yards (R.Douglas). FUMBLES (R.Douglas), RECOVERED by GB-K.Barnes at GB 39. K.Barnes to SF 40 for 21 yards (D.Brunskill; B.Aiyuk).
+The Replay Official reviewed the pass completion ruling, and the play was REVERSED.
+(Shotgun) J.Garoppolo pass incomplete short middle to B.Aiyuk (R.Douglas).",2nd & 5 at SF 47
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,4,SF,0,3,0,-5 Yard Sack,(3:03) (Shotgun) J.Garoppolo sacked at SF 42 for -5 yards (R.Gary).,3rd & 5 at SF 47
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,4,SF,0,4,0,Punt,"(2:30) M.Wishnowsky punts 42 yards to GB 16, Center-T.Pepper, fair catch by Am.Rodgers.",4th & 10 at SF 42
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,5,GB,0,1,0,4 Yard Run,(2:20) (Shotgun) A.Dillon up the middle to GB 20 for 4 yards (D.Jones; A.Key).,1st & 10 at GB 16
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,5,GB,0,2,0,Pass Incomplete,(1:41) A.Rodgers pass incomplete short left to D.Dafney (K.Williams).,2nd & 6 at GB 20
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,5,GB,0,3,0,Pass Incomplete,"(1:37) (No Huddle, Shotgun) A.Rodgers pass incomplete deep right to D.Dafney.",3rd & 6 at GB 20
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,5,GB,0,4,0,Punt,"(1:28) C.Bojorquez punts 42 yards to SF 38, Center-S.Wirtel, downed by GB-E.St. Brown.",4th & 6 at GB 20
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,6,SF,0,1,0,-1 Yard Run,(1:16) E.Mitchell right end to SF 37 for -1 yards (K.Barnes).,1st & 10 at SF 38
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,6,SF,0,2,0,Pass Incomplete,(:34) (Shotgun) J.Garoppolo pass incomplete deep middle to G.Kittle.,2nd & 11 at SF 37
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,6,SF,0,3,0,Pass Incomplete,(:29) (Shotgun) J.Garoppolo pass incomplete short middle to J.Jennings [A.Amos].,3rd & 11 at SF 37
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,1ST QUARTER,6,SF,0,4,0,Punt,"(:25) M.Wishnowsky punts 52 yards to GB 11, Center-T.Pepper. Am.Rodgers pushed ob at GB 17 for 6 yards (M.Nzeocha).",4th & 11 at SF 37
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,1,GB,0,1,0,3 Yard Pass,(:15) (Shotgun) A.Rodgers pass short left to A.Jones pushed ob at GB 20 for 3 yards (J.Ward).,1st & 10 at GB 17
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,1,GB,0,2,0,4 Yard Run,"(15:00) (Shotgun) A.Jones left tackle to GB 24 for 4 yards (S.Ebukam, F.Warner).",2nd & 7 at GB 20
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,1,GB,0,3,0,-5 Yard Penalty,"(14:18) (Shotgun) PENALTY on GB-A.Lazard, False Start, 5 yards, enforced at GB 24 - No Play.",3rd & 3 at GB 24
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,1,GB,0,4,0,-6 Yard Sack,(14:01) (Shotgun) A.Rodgers sacked at GB 13 for -6 yards (S.Ebukam).,3rd & 8 at GB 19
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,1,GB,0,5,0,Punt,"(13:19) C.Bojorquez punts 59 yards to SF 28, Center-S.Wirtel. T.Benjamin to SF 34 for 6 yards (E.St. Brown, O.Burks).",4th & 14 at GB 13
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,2,SF,0,1,0,Pass Incomplete,(13:07) (Shotgun) J.Garoppolo pass incomplete short right to D.Samuel.,1st & 10 at SF 34
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,2,SF,0,2,0,2 Yard Run,"(13:03) (Shotgun) E.Mitchell left tackle to SF 36 for 2 yards (P.Smith, D.Lowry).",2nd & 10 at SF 34
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,2,SF,0,3,0,-5 Yard Sack,(12:17) (Shotgun) J.Garoppolo sacked at SF 31 for -5 yards (R.Gary).,3rd & 8 at SF 36
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,2,SF,0,4,0,Punt,"(11:46) M.Wishnowsky punts 49 yards to GB 20, Center-T.Pepper. Am.Rodgers ran ob at GB 25 for 5 yards (T.Sherfield).",4th & 13 at SF 31
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,3,GB,0,1,0,3 Yard Run,"(11:38) (Shotgun) A.Dillon left guard to GB 28 for 3 yards (J.Tartt, A.Armstead).",1st & 10 at GB 25
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,3,GB,0,2,0,2 Yard Run,"(10:57) A.Dillon up the middle to GB 30 for 2 yards (D.Greenlaw, D.Jones).",2nd & 7 at GB 28
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,3,GB,0,3,0,8 Yard Pass,(10:11) (Shotgun) A.Rodgers pass short right to D.Adams to GB 38 for 8 yards (K.Williams).,3rd & 5 at GB 30
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,3,GB,0,4,0,-1 Yard Run,(9:24) A.Jones up the middle to GB 37 for -1 yards (J.Tartt).,1st & 10 at GB 38
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,3,GB,0,5,0,Sack,(8:44) (Shotgun) A.Rodgers sacked at GB 37 for 0 yards (N.Bosa).,2nd & 11 at GB 37
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,3,GB,0,6,0,9 Yard Pass,(7:56) (Shotgun) A.Rodgers pass short right to A.Jones to GB 46 for 9 yards (J.Ward).,3rd & 11 at GB 37
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,3,GB,0,7,0,-5 Yard Penalty,"(7:04) (Shotgun) PENALTY on GB, Delay of Game, 5 yards, enforced at GB 46 - No Play.",4th & 2 at GB 46
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,3,GB,0,8,0,Punt,"(6:46) C.Bojorquez punts 36 yards to SF 23, Center-S.Wirtel, out of bounds.",4th & 7 at GB 41
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,4,SF,0,1,0,Pass Incomplete,(6:41) J.Garoppolo pass incomplete short middle to E.Mitchell (D.Lowry).,1st & 10 at SF 23
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,4,SF,0,2,0,15 Yard Pass,(6:36) (Shotgun) J.Garoppolo pass short left to G.Kittle pushed ob at SF 38 for 15 yards (R.Douglas).,2nd & 10 at SF 23
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,4,SF,0,3,0,2 Yard Run,(6:00) (Shotgun) D.Samuel right tackle to SF 40 for 2 yards (D.Campbell).,1st & 10 at SF 38
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,4,SF,0,4,0,7 Yard Run,(5:14) E.Mitchell right tackle to SF 47 for 7 yards (P.Smith).,2nd & 8 at SF 40
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,4,SF,0,5,0,4 Yard Run,(4:27) T.Williams reported in as eligible.  E.Mitchell right end to GB 49 for 4 yards (A.Amos).,3rd & 1 at SF 47
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,4,SF,0,6,0,2 Yard Run,"(3:43) E.Mitchell left tackle to GB 47 for 2 yards (T.Lancaster, D.Lowry).",1st & 10 at GB 49
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,4,SF,0,7,0,16 Yard Pass,(2:59) J.Garoppolo pass short right to E.Mitchell to GB 31 for 16 yards (E.Stokes; P.Smith).,2nd & 8 at GB 47
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,4,SF,0,8,0,6 Yard Run,(2:14) E.Mitchell left end to GB 25 for 6 yards (C.Sullivan).,1st & 10 at GB 31
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,4,SF,0,9,0,4 Yard Run,"(2:00) D.Samuel up the middle to GB 21 for 4 yards (D.Campbell, A.Amos).",2nd & 4 at GB 25
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,4,SF,0,10,0,12 Yard Pass,(1:18) (Shotgun) J.Garoppolo pass short middle to G.Kittle to GB 9 for 12 yards (P.Smith).,1st & 10 at GB 21
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,4,SF,0,11,0,-10 Yard Penalty,"(1:09) E.Mitchell left guard to GB 4 for 5 yards (P.Smith).
+PENALTY on SF-T.Williams, Offensive Holding, 10 yards, enforced at GB 9 - No Play.",1st & 9 at GB 9
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,4,SF,0,12,0,Interception,(1:05) (Shotgun) J.Garoppolo pass short right intended for G.Kittle INTERCEPTED by A.Amos at GB 4. A.Amos to GB 4 for no gain (G.Kittle).,1st & 19 at GB 19
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,5,GB,0,1,0,2 Yard Run,(:56) (Shotgun) A.Dillon right guard to GB 6 for 2 yards (F.Warner).,1st & 10 at GB 4
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,5,GB,0,2,0,5 Yard Pass,(:44) (Shotgun) A.Rodgers pass short right to A.Jones pushed ob at GB 11 for 5 yards (D.Greenlaw).,2nd & 8 at GB 6
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,5,GB,0,3,0,75 Yard Pass,(:40) (Shotgun) A.Rodgers pass deep right to A.Jones to SF 14 for 75 yards (J.Tartt).,3rd & 3 at GB 11
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,5,GB,0,4,0,-5 Yard Sack,"(:26) (Shotgun) A.Rodgers sacked at SF 22 for -8 yards (N.Bosa). FUMBLES (N.Bosa) [N.Bosa], touched at SF 19, recovered by GB-L.Patrick at SF 21.",1st & 10 at SF 14
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,5,GB,0,5,0,Pass Incomplete,(:04) (No Huddle) A.Rodgers spiked the ball to stop the clock.,2nd & 17 at SF 21
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,2ND QUARTER,5,GB,0,6,0,Field Goal No Good,"(:03) M.Crosby 39 yard field goal is BLOCKED (J.Ward), Center-S.Wirtel, Holder-C.Bojorquez, recovered by GB-C.Bojorquez at SF 29.",3rd & 17 at SF 21
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,3RD QUARTER,1,SF,1,1,0,Kickoff,M.Crosby kicks 60 yards from GB 35 to SF 5. D.Samuel pushed ob at 50 for 45 yards (K.King).,Kickoff from GB 35
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,3RD QUARTER,1,SF,1,2,0,5 Yard Run,(14:50) E.Mitchell right end to GB 45 for 5 yards (A.Amos).,1st & 10 at 50
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,3RD QUARTER,1,SF,1,3,0,4 Yard Run,"(14:09) D.Samuel left end to GB 41 for 4 yards (K.Clark, K.Barnes).",2nd & 5 at GB 45
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,3RD QUARTER,1,SF,1,4,0,5 Yard Run,(13:27) E.Mitchell left guard to GB 36 for 5 yards (P.Smith).,3rd & 1 at GB 41
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,3RD QUARTER,1,SF,1,5,0,1 Yard Run,(12:41) E.Mitchell left end to GB 35 for 1 yard (K.Clark).,1st & 10 at GB 36
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,3RD QUARTER,1,SF,1,6,0,18 Yard Pass,(12:00) J.Garoppolo pass short right to D.Samuel to GB 17 for 18 yards (R.Douglas).,2nd & 9 at GB 35
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,3RD QUARTER,1,SF,1,7,0,5 Yard Run,(11:15) (Shotgun) D.Samuel left tackle to GB 12 for 5 yards (D.Campbell).,1st & 10 at GB 17
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,3RD QUARTER,1,SF,1,8,0,-9 Yard Run,"(10:37) (Shotgun) E.Mitchell right end pushed ob at GB 3 for 9 yards (E.Stokes).
+PENALTY on SF-E.Mitchell, Face Mask (15 Yards), 15 yards, enforced at GB 6.",2nd & 5 at GB 12
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,3RD QUARTER,1,SF,1,9,0,-5 Yard Penalty,"(10:04) (Shotgun) J.Garoppolo pass short left to J.Jennings pushed ob at GB 12 for 9 yards (R.Douglas).
+PENALTY on SF, Illegal Formation, 5 yards, enforced at GB 21 - No Play.",2nd & 14 at GB 21
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,3RD QUARTER,1,SF,1,10,0,3 Yard Pass,"(9:34) (Shotgun) J.Garoppolo pass short right to E.Mitchell pushed ob at GB 23 for 3 yards (E.Stokes, K.Barnes).",2nd & 19 at GB 26
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,3RD QUARTER,1,SF,1,11,0,12 Yard Pass,(8:53) (Shotgun) J.Garoppolo pass short left to D.Samuel to GB 11 for 12 yards (K.Barnes). SF-D.Samuel was injured during the play.,3rd & 16 at GB 23
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,3RD QUARTER,1,SF,1,12,1,Field Goal,"(8:18) R.Gould 29 yard field goal is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.",4th & 4 at GB 11
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,3RD QUARTER,2,GB,0,1,0,Kickoff,R.Gould kicks 59 yards from SF 35 to GB 6. Am.Rodgers to GB 32 for 26 yards (J.Norman).,Kickoff from SF 35
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,3RD QUARTER,2,GB,0,2,0,Pass Incomplete,(8:08) A.Rodgers pass incomplete short right.,1st & 10 at GB 32
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,3RD QUARTER,2,GB,0,3,0,Pass Incomplete,(8:00) (Shotgun) A.Rodgers pass incomplete deep middle to J.Deguara.,2nd & 10 at GB 32
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,3RD QUARTER,2,GB,0,4,0,6 Yard Pass,"(7:54) (Shotgun) A.Rodgers pass short middle to A.Jones to GB 38 for 6 yards (D.Greenlaw, A.Armstead).",3rd & 10 at GB 32
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,3RD QUARTER,2,GB,0,5,0,Punt,"(7:13) C.Bojorquez punts 41 yards to SF 21, Center-S.Wirtel. T.Benjamin to SF 28 for 7 yards (O.Burks).",4th & 4 at GB 38
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,3RD QUARTER,3,SF,0,1,0,Pass Incomplete,(7:02) J.Garoppolo pass incomplete short right to C.Woerner (D.Campbell).,1st & 10 at SF 28
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,3RD QUARTER,3,SF,0,2,0,5 Yard Run,(6:57) E.Mitchell left end to SF 33 for 5 yards (K.Barnes).,2nd & 10 at SF 28
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,3RD QUARTER,3,SF,0,3,0,-6 Yard Sack,(6:11) (Shotgun) J.Garoppolo sacked at SF 27 for -6 yards (K.Clark).,3rd & 5 at SF 33
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,3RD QUARTER,3,SF,0,4,0,Punt,"(5:35) M.Wishnowsky punts 45 yards to GB 28, Center-T.Pepper, fair catch by Am.Rodgers.",4th & 11 at SF 27
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,1,GB,1,1,0,6 Yard Pass,"(5:28) (Shotgun) A.Rodgers pass short right to D.Adams to GB 34 for 6 yards (D.Johnson, A.Al-Shaair).",1st & 10 at GB 28
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,1,GB,1,2,0,3 Yard Run,(4:56) A.Jones left end to GB 37 for 3 yards (E.Moseley).,2nd & 4 at GB 34
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,1,GB,1,3,0,2 Yard Run,(4:11) (Shotgun) A.Jones up the middle to GB 39 for 2 yards (S.Ebukam).,3rd & 1 at GB 37
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,1,GB,1,4,0,5 Yard Run,(3:23) A.Jones up the middle to GB 44 for 5 yards (A.Al-Shaair).,1st & 10 at GB 39
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,1,GB,1,5,0,4 Yard Run,(2:46) (Shotgun) A.Jones left guard to GB 48 for 4 yards (K.Williams).,2nd & 5 at GB 44
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,1,GB,1,6,0,3 Yard Run,(2:02) (Shotgun) A.Jones right guard to SF 49 for 3 yards (J.Willis).,3rd & 1 at GB 48
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,1,GB,1,7,0,25 Yard Pass,(1:21) A.Rodgers pass deep right to D.Adams to SF 24 for 25 yards (J.Ward) [C.Omenihu].,1st & 10 at SF 49
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,1,GB,1,8,0,5 Yard Penalty,"(:33) A.Rodgers pass incomplete short right to D.Adams.
+PENALTY on SF-C.Omenihu, Defensive Holding, 5 yards, enforced at SF 24 - No Play.",1st & 10 at SF 24
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,1,GB,1,9,0,1 Yard Pass,"(:27) (Shotgun) A.Rodgers pass short right to A.Jones to SF 18 for 1 yard (D.Johnson, J.Willis).",1st & 10 at SF 19
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,1,GB,1,10,0,5 Yard Pass,(15:00) (Shotgun) A.Rodgers pass short left to D.Adams to SF 13 for 5 yards (E.Moseley).,2nd & 9 at SF 18
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,1,GB,1,11,0,6 Yard Pass,(14:18) (Shotgun) A.Rodgers pass short left to A.Lazard to SF 7 for 6 yards (E.Moseley).,3rd & 4 at SF 13
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,1,GB,1,12,0,2 Yard Run,"(13:35) A.Jones left tackle to SF 5 for 2 yards (E.Moseley, D.Greenlaw).",1st & 7 at SF 7
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,1,GB,1,13,0,-5 Yard Penalty,"(12:52) PENALTY on GB-D.Kelly, False Start, 5 yards, enforced at SF 5 - No Play.",2nd & 5 at SF 5
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,1,GB,1,14,0,2 Yard Pass,(12:52) (Shotgun) A.Rodgers pass short left to A.Jones to SF 8 for 2 yards (E.Moseley).,2nd & 10 at SF 10
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,1,GB,1,15,0,-7 Yard Sack,(12:11) (Shotgun) A.Rodgers sacked at SF 15 for -7 yards (A.Armstead).,3rd & 8 at SF 8
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,1,GB,1,16,1,Field Goal,"(11:30) M.Crosby 33 yard field goal is GOOD, Center-S.Wirtel, Holder-C.Bojorquez.",4th & 15 at SF 15
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,2,SF,0,1,0,Kickoff,M.Crosby kicks 51 yards from GB 35 to SF 14. D.Samuel to SF 28 for 14 yards (I.McDuffie).,Kickoff from GB 35
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,2,SF,0,2,0,8 Yard Run,(11:23) E.Mitchell left end to SF 36 for 8 yards (R.Douglas; A.Amos).,1st & 10 at SF 28
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,2,SF,0,3,0,13 Yard Run,(10:43) K.Juszczyk up the middle to SF 49 for 13 yards (H.Black; R.Douglas).,2nd & 2 at SF 36
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,2,SF,0,4,0,-1 Yard Pass,(10:00) (Shotgun) J.Garoppolo pass short right to E.Mitchell to SF 48 for -1 yards (C.Sullivan) [K.Clark].,1st & 10 at SF 49
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,2,SF,0,5,0,Pass Incomplete,(9:15) (Shotgun) J.Garoppolo pass incomplete short left [R.Gary].,2nd & 11 at SF 48
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,2,SF,0,6,0,24 Yard Pass,(9:12) (Shotgun) J.Garoppolo pass short middle to G.Kittle to GB 28 for 24 yards (E.Stokes).,3rd & 11 at SF 48
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,2,SF,0,7,0,5 Yard Run,(8:29) (Shotgun) D.Samuel right end to GB 23 for 5 yards (C.Sullivan).,1st & 10 at GB 28
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,2,SF,0,8,0,-2 Yard Run,(7:46) E.Mitchell right guard to GB 25 for -2 yards (T.Slaton).,2nd & 5 at GB 23
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,2,SF,0,9,0,6 Yard Pass,(6:59) (Shotgun) J.Garoppolo pass short middle to J.Jennings to GB 19 for 6 yards (A.Amos).,3rd & 7 at GB 25
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,2,SF,0,10,0,Turnover on Downs,"(6:14) T.Williams reported in as eligible.  E.Mitchell up the middle to GB 20 for -1 yards (R.Gary, D.Campbell).",4th & 1 at GB 19
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,3,SF,1,1,0,2 Yard Run,"(6:10) A.Jones up the middle to GB 23 for 2 yards (D.Jones, J.Tartt). SF-D.Johnson was injured during the play. SF-D.Jones was injured during the play.",1st & 10 at GB 21
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,3,SF,1,2,0,Pass Incomplete,(5:33) (Shotgun) A.Rodgers pass incomplete short right to D.Adams.,2nd & 8 at GB 23
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,3,SF,1,3,0,-11 Yard Sack,(5:29) (Shotgun) A.Rodgers sacked at GB 12 for -11 yards (A.Armstead).,3rd & 8 at GB 23
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,3,SF,1,4,1,Touchdown 49ers,"(4:50) C.Bojorquez punt is BLOCKED by J.Willis, Center-S.Wirtel, RECOVERED by SF-T.Hufanga at GB 6. T.Hufanga for 6 yards, TOUCHDOWN.",4th & 19 at GB 12
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,4,GB,0,1,0,Kickoff,R.Gould kicks 61 yards from SF 35 to GB 4. Am.Rodgers pushed ob at GB 29 for 25 yards (D.Dennard).,Kickoff from SF 35
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,4,GB,0,2,0,-5 Yard Penalty,"(4:36) (Shotgun) A.Rodgers pass incomplete short right.
+PENALTY on GB-J.Runyan, Ineligible Downfield Pass, 5 yards, enforced at GB 29 - No Play.",1st & 10 at GB 29
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,4,GB,0,3,0,4 Yard Pass,(4:28) (Shotgun) A.Rodgers pass short right to D.Adams to GB 28 for 4 yards (D.Johnson).,1st & 15 at GB 24
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,4,GB,0,4,0,Pass Incomplete,(3:44) (Shotgun) A.Rodgers pass incomplete short left to R.Cobb (K.Williams).,2nd & 11 at GB 28
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,4,GB,0,5,0,Pass Incomplete,(3:40) (Shotgun) A.Rodgers pass incomplete deep middle to D.Adams.,3rd & 11 at GB 28
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,4,GB,0,6,0,Punt,"(3:33) C.Bojorquez punts 57 yards to SF 20, Center-S.Wirtel. T.Benjamin to SF 29 for 9 yards (J.Deguara).",4th & 16 at GB 23
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,5,SF,1,1,0,12 Yard Pass,(3:20) (Shotgun) J.Garoppolo pass short middle to G.Kittle to SF 41 for 12 yards (D.Campbell).,1st & 10 at SF 29
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,5,SF,1,2,0,4 Yard Run,(2:41) E.Mitchell left end to SF 45 for 4 yards (K.Barnes).,1st & 10 at SF 41
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,5,SF,1,3,0,14 Yard Pass,(2:00) (Shotgun) J.Garoppolo pass short middle to D.Samuel to GB 41 for 14 yards (H.Black).,2nd & 6 at SF 45
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,5,SF,1,4,0,3 Yard Run,"(1:16) D.Samuel right end to GB 38 for 3 yards (D.Lowry, K.Barnes).",1st & 10 at GB 41
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,5,SF,1,5,0,Run for No Gain,"(1:10) D.Samuel up the middle to GB 38 for no gain (P.Smith, K.Clark).",2nd & 7 at GB 38
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,5,SF,1,6,0,9 Yard Run,"(1:03) (Shotgun) D.Samuel right end to GB 29 for 9 yards (D.Campbell, K.King).",3rd & 7 at GB 38
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,5,SF,1,7,0,1 Yard Run,(:20) E.Mitchell up the middle to GB 28 for 1 yard (R.Gary).,1st & 10 at GB 29
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,5,SF,1,8,0,1 Yard Run,(:13) K.Juszczyk up the middle to GB 27 for 1 yard (D.Campbell).,2nd & 9 at GB 28
+2021,Divisional Playoffs,SAT,01/22,49ers,Packers,4TH QUARTER,5,SF,1,9,1,Field Goal,"(:04) R.Gould 45 yard field goal is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.",3rd & 8 at GB 27
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,1,TB,0,1,0,Kickoff,M.Gay kicks 65 yards from LA 35 to TB 0. J.Darden pushed ob at TB 20 for 20 yards (G.Haley).,Kickoff from LA 35
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,1,TB,0,2,0,11 Yard Run,(14:56) L.Fournette right tackle to TB 31 for 11 yards (N.Scott).,1st & 10 at TB 20
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,1,TB,0,3,0,10 Yard Run,"(14:19) L.Fournette left guard to TB 41 for 10 yards (T.Burgess, A.Robinson).",1st & 10 at TB 31
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,1,TB,0,4,0,2 Yard Run,(13:37) A.Stinnie reported in as eligible.  L.Fournette up the middle to TB 43 for 2 yards (G.Gaines; A.Robinson).,1st & 10 at TB 41
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,1,TB,0,5,0,Pass Incomplete,(13:04) T.Brady pass incomplete short right to S.Miller.,2nd & 8 at TB 43
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,1,TB,0,6,0,Pass Incomplete,(12:58) (Shotgun) T.Brady pass incomplete short left to R.Gronkowski (D.Williams).,3rd & 8 at TB 43
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,1,TB,0,7,0,Punt,"(12:54) B.Pinion punts 57 yards to end zone, Center-Z.Triner, Touchback.",4th & 8 at TB 43
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,2,LA,1,1,0,6 Yard Pass,(12:45) (Shotgun) M.Stafford pass short left to O.Beckham to LA 26 for 6 yards (J.Dean).,1st & 10 at LA 20
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,2,LA,1,2,0,9 Yard Pass,(12:04) (Shotgun) M.Stafford pass short right to C.Akers to LA 35 for 9 yards (D.White).,2nd & 4 at LA 26
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,2,LA,1,3,0,17 Yard Pass,(11:16) M.Stafford pass short right to C.Kupp pushed ob at TB 48 for 17 yards (J.Whitehead).,1st & 10 at LA 35
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,2,LA,1,4,0,-10 Yard Penalty,"(10:39) C.Akers left end to TB 48 for no gain (S.Barrett, J.Whitehead).
+PENALTY on LA-B.Allen, Offensive Holding, 10 yards, enforced at TB 48 - No Play.",1st & 10 at TB 48
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,2,LA,1,5,0,20 Yard Pass,(10:07) (Shotgun) M.Stafford pass short middle to O.Beckham to TB 38 for 20 yards (D.White).,1st & 20 at LA 42
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,2,LA,1,6,0,29 Yard Pass,"(9:34) (No Huddle, Shotgun) M.Stafford pass deep middle to T.Higbee to TB 9 for 29 yards (A.Winfield).",1st & 10 at TB 38
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,2,LA,1,7,0,1 Yard Run,"(8:52) C.Akers right guard to TB 8 for 1 yard (A.Winfield, S.Murphy-Bunting).",1st & 9 at TB 9
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,2,LA,1,8,0,Pass Incomplete,(8:13) (Shotgun) M.Stafford pass incomplete short middle to C.Kupp.,2nd & 8 at TB 8
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,2,LA,1,9,0,Pass Incomplete,(8:08) (Shotgun) M.Stafford pass incomplete short right to V.Jefferson.,3rd & 8 at TB 8
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,2,LA,1,10,1,Field Goal,"(8:04) M.Gay 26 yard field goal is GOOD, Center-M.Orzech, Holder-J.Hekker.",4th & 8 at TB 8
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,3,TB,0,1,0,Kickoff,"M.Gay kicks 65 yards from LA 35 to end zone, Touchback.",Kickoff from LA 35
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,3,TB,0,2,0,1 Yard Run,"(8:01) (Shotgun) L.Fournette right tackle to TB 26 for 1 yard (G.Gaines, V.Miller).",1st & 10 at TB 25
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,3,TB,0,3,0,Pass Incomplete,(7:34) (Shotgun) T.Brady pass incomplete deep right to R.Gronkowski.,2nd & 9 at TB 26
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,3,TB,0,4,0,Pass Incomplete,(7:30) (Shotgun) T.Brady pass incomplete short left to M.Evans (A.Donald) [A.Donald].,3rd & 9 at TB 26
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,3,TB,0,5,0,Punt,"(7:26) B.Pinion punts 51 yards to LA 23, Center-Z.Triner. B.Powell to LA 29 for 6 yards (G.Stuard).",4th & 9 at TB 26
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,4,LA,1,1,0,9 Yard Pass,(7:15) M.Stafford pass short right to O.Beckham to LA 38 for 9 yards (A.Winfield).,1st & 10 at LA 29
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,4,LA,1,2,0,16 Yard Penalty,"(6:28) M.Stafford pass incomplete deep left to V.Jefferson [N.Suh].
+PENALTY on TB-J.Dean, Defensive Pass Interference, 16 yards, enforced at LA 38 - No Play.",2nd & 1 at LA 38
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,4,LA,1,3,0,9 Yard Pass,(6:22) (Shotgun) M.Stafford pass short middle to T.Higbee to TB 37 for 9 yards (L.David).,1st & 10 at TB 46
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,4,LA,1,4,0,4 Yard Run,(5:39) C.Akers up the middle to TB 33 for 4 yards (L.David).,2nd & 1 at TB 37
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,4,LA,1,5,0,Pass Incomplete,"(4:54) M.Stafford pass incomplete short right to O.Beckham [N.Suh].
+PENALTY on TB-N.Suh, Taunting, 15 yards, enforced at TB 33.",1st & 10 at TB 33
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,4,LA,1,6,0,9 Yard Run,(4:51) C.Akers left end ran ob at TB 9 for 9 yards (A.Winfield).,1st & 10 at TB 18
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,4,LA,1,7,0,2 Yard Run,(4:15) M.Stafford up the middle to TB 7 for 2 yards (L.David).,2nd & 1 at TB 9
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,4,LA,1,8,0,Touchdown Rams,"(3:34) M.Stafford pass short left to K.Blanton for 7 yards, TOUCHDOWN.",1st & 7 at TB 7
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,4,LA,1,9,1,Extra Point Good,"M.Gay extra point is GOOD, Center-M.Orzech, Holder-J.Hekker.",XP attempt from TB 15
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,5,TB,1,1,0,Kickoff,M.Gay kicks 64 yards from LA 35 to TB 1. J.Darden to TB 25 for 24 yards (O.Okoronkwo).,Kickoff from LA 35
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,5,TB,1,2,0,13 Yard Pass,(3:22) A.Stinnie reported in as eligible.  T.Brady pass short right to L.Fournette to TB 38 for 13 yards (N.Scott).,1st & 10 at TB 25
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,5,TB,1,3,0,29 Yard Pass,(2:45) T.Brady pass short middle to R.Gronkowski to LA 33 for 29 yards (T.Burgess; D.Williams).,1st & 10 at TB 38
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,5,TB,1,4,0,1 Yard Run,(2:05) (Shotgun) L.Fournette up the middle to LA 32 for 1 yard (A.Donald).,1st & 10 at LA 33
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,5,TB,1,5,0,5 Yard Pass,(1:22) (Shotgun) T.Brady pass short right to S.Miller to LA 27 for 5 yards (D.Long).,2nd & 9 at LA 32
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,5,TB,1,6,0,Pass Incomplete,(:40) (Shotgun) T.Brady pass incomplete short middle to C.Brate.,3rd & 4 at LA 27
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,1ST QUARTER,5,TB,1,7,1,Field Goal,"(:37) R.Succop 45 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",4th & 4 at LA 27
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,1,LA,1,1,0,Kickoff,"B.Pinion kicks 64 yards from TB 35 to LA 1, out of bounds.",Kickoff from TB 35
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,1,LA,1,2,0,Run for No Gain,(:32) C.Akers left guard to LA 40 for no gain (V.Vea; J.Whitehead).,1st & 10 at LA 40
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,1,LA,1,3,0,-10 Yard Sack,(15:00) (Shotgun) M.Stafford sacked at LA 30 for -10 yards (V.Vea).,2nd & 10 at LA 40
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,1,LA,1,4,0,Touchdown Rams,"(14:28) (No Huddle, Shotgun) M.Stafford pass deep right to C.Kupp for 70 yards, TOUCHDOWN [V.Vea].
+PENALTY on TB-L.David, Unsportsmanlike Conduct, 15 yards, enforced between downs.",3rd & 20 at LA 30
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,1,LA,1,5,1,Extra Point Good,"M.Gay extra point is GOOD, Center-M.Orzech, Holder-J.Hekker.",XP attempt from TB 15
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,2,TB,0,1,0,Kickoff,M.Gay kicks 40 yards from 50 to TB 10. J.Darden to TB 14 for 4 yards (C.Rozeboom).,Kickoff from 50
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,2,TB,0,2,0,3 Yard Run,(14:13) L.Fournette right tackle to TB 17 for 3 yards (A.Robinson).,1st & 10 at TB 14
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,2,TB,0,3,0,Pass Incomplete,(13:38) (Shotgun) T.Brady pass incomplete short left to M.Evans.,2nd & 7 at TB 17
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,2,TB,0,4,0,Pass Incomplete,(13:34) (Shotgun) T.Brady pass incomplete short right to M.Evans.,3rd & 7 at TB 17
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,2,TB,0,5,0,Punt,"(13:30) B.Pinion punts 55 yards to LA 28, Center-Z.Triner. B.Powell to LA 49 for 21 yards (C.Gill, M.Edwards).",4th & 7 at TB 17
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,3,LA,0,1,0,-3 Yard Run,(13:18) C.Akers left end to LA 46 for -3 yards (R.Nunez-Roches).,1st & 10 at LA 49
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,3,LA,0,2,0,Pass Incomplete,(12:51) (Shotgun) M.Stafford pass incomplete short right to T.Higbee (S.McLendon).,2nd & 13 at LA 46
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,3,LA,0,3,0,Pass Incomplete,(12:47) (Shotgun) M.Stafford pass incomplete short left to O.Beckham.,3rd & 13 at LA 46
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,3,LA,0,4,0,Punt,"(12:42) J.Hekker punts 54 yards to end zone, Center-M.Orzech, Touchback.",4th & 13 at LA 46
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,4,TB,0,1,0,Pass Incomplete,(12:32) (Shotgun) T.Brady pass incomplete short left to M.Evans.,1st & 10 at TB 20
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,4,TB,0,2,0,3 Yard Pass,(12:28) (Shotgun) T.Brady pass short middle to T.Johnson to TB 23 for 3 yards (T.Reeder).,2nd & 10 at TB 20
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,4,TB,0,3,0,9 Yard Pass,"(12:06) (No Huddle, Shotgun) T.Brady pass short middle to M.Evans to TB 32 for 9 yards (D.Long, T.Howard).",3rd & 7 at TB 23
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,4,TB,0,4,0,4 Yard Pass,"(11:42) (No Huddle, Shotgun) T.Brady pass short left to M.Evans to TB 36 for 4 yards (J.Ramsey, E.Weddle).",1st & 10 at TB 32
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,4,TB,0,5,0,Pass Incomplete,"(11:20) (No Huddle, Shotgun) T.Brady pass incomplete short left to T.Johnson.",2nd & 6 at TB 36
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,4,TB,0,6,0,21 Yard Pass,(11:15) (Shotgun) T.Brady pass short left to M.Evans to LA 43 for 21 yards (N.Scott; E.Weddle).,3rd & 6 at TB 36
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,4,TB,0,7,0,-7 Yard Pass,"(10:39) (No Huddle, Shotgun) T.Brady pass short left to M.Evans to LA 35 for 8 yards (J.Ramsey; T.Howard).
+PENALTY on TB-T.Brady, Unsportsmanlike Conduct, 15 yards, enforced at LA 35.",1st & 10 at LA 43
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,4,TB,0,8,0,19 Yard Pass,(10:18) (Shotgun) T.Brady pass short right to L.Fournette to LA 31 for 19 yards (D.Long).,2nd & 17 at 50
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,4,TB,0,9,0,1 Yard Pass,"(9:41) (No Huddle, Shotgun) T.Brady pass short right to L.Fournette to LA 30 for 1 yard (E.Weddle, L.Floyd).",1st & 10 at LA 31
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,4,TB,0,10,0,Pass Incomplete,"(9:13) (No Huddle, Shotgun) T.Brady pass incomplete short middle to T.Johnson.",2nd & 9 at LA 30
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,4,TB,0,11,0,Pass Incomplete,(9:09) (Shotgun) T.Brady pass incomplete short right to G.Bernard.,3rd & 9 at LA 30
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,4,TB,0,12,0,Field Goal No Good,"(9:05) R.Succop 48 yard field goal is No Good, Wide Right, Center-Z.Triner, Holder-B.Pinion.",4th & 9 at LA 30
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,5,LA,1,1,0,1 Yard Run,(9:00) C.Akers up the middle to LA 39 for 1 yard (L.David; S.Barrett).,1st & 10 at LA 38
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,5,LA,1,2,0,6 Yard Pass,(8:30) (Shotgun) M.Stafford pass short left to C.Akers to LA 45 for 6 yards (D.White; L.David).,2nd & 9 at LA 39
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,5,LA,1,3,0,5 Yard Pass,(7:45) (Shotgun) M.Stafford pass short left to C.Akers to 50 for 5 yards (J.Dean; D.White).,3rd & 3 at LA 45
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,5,LA,1,4,0,2 Yard Run,(6:57) C.Akers right tackle to TB 48 for 2 yards (N.Suh).,1st & 10 at 50
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,5,LA,1,5,0,3 Yard Run,"(6:31) (No Huddle, Shotgun) M.Stafford scrambles up the middle to TB 45 for 3 yards (D.White).",2nd & 8 at TB 48
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,5,LA,1,6,0,6 Yard Pass,(5:45) (Shotgun) M.Stafford pass short middle to T.Higbee to TB 39 for 6 yards (L.David).,3rd & 5 at TB 45
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,5,LA,1,7,0,4 Yard Pass,(5:00) (Shotgun) M.Stafford pass short left to C.Kupp to TB 35 for 4 yards (S.Murphy-Bunting).,1st & 10 at TB 39
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,5,LA,1,8,0,7 Yard Pass,"(4:29) (No Huddle, Shotgun) M.Stafford pass short left to O.Beckham to TB 28 for 7 yards (J.Dean).",2nd & 6 at TB 35
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,5,LA,1,9,0,Pass Incomplete,(3:42) (Shotgun) M.Stafford pass incomplete short left.,1st & 10 at TB 28
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,5,LA,1,10,0,-4 Yard Pass,(3:35) (Shotgun) M.Stafford pass short left to S.Michel to TB 32 for -4 yards (L.David).,2nd & 10 at TB 28
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,5,LA,1,11,0,11 Yard Pass,(2:53) (Shotgun) M.Stafford pass short right to C.Kupp pushed ob at TB 21 for 11 yards (D.White; A.Winfield).,3rd & 14 at TB 32
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,5,LA,1,12,1,Field Goal,"(2:23) M.Gay 40 yard field goal is GOOD, Center-M.Orzech, Holder-J.Hekker.",4th & 3 at TB 21
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,6,TB,0,1,0,Kickoff,M.Gay kicks 64 yards from LA 35 to TB 1. J.Darden to TB 15 for 14 yards (G.Haley).,Kickoff from LA 35
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,6,TB,0,2,0,-7 Yard Sack,(2:13) (Shotgun) T.Brady sacked at TB 8 for -7 yards (A.Donald).,1st & 10 at TB 15
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,6,TB,0,3,0,Interception,(2:00) (Shotgun) T.Brady pass deep right intended for R.Gronkowski INTERCEPTED by N.Scott at TB 31. N.Scott ran ob at TB 31 for no gain.,2nd & 17 at TB 8
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,7,LA,0,1,0,7 Yard Run,(1:53) C.Akers right end to TB 24 for 7 yards (C.Davis; S.Murphy-Bunting). TB-C.Davis was injured during the play. His return is Questionable.,1st & 10 at TB 31
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,7,LA,0,2,0,7 Yard Pass,(1:39) (Shotgun) M.Stafford pass short right to T.Higbee to TB 17 for 7 yards (L.David).,2nd & 3 at TB 24
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,7,LA,0,3,0,11 Yard Pass,"(1:10) (No Huddle, Shotgun) M.Stafford pass short right to V.Jefferson pushed ob at TB 6 for 11 yards (S.Murphy-Bunting).",1st & 10 at TB 17
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,7,LA,0,4,0,Run for No Gain,(1:05) C.Akers up the middle to TB 6 for no gain (N.Suh).,1st & 6 at TB 6
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,7,LA,0,5,0,Fumble,"(:24) C.Akers right end to TB 1 for 5 yards (A.Winfield).
+The Replay Official reviewed the runner was down by contact ruling, and the play was REVERSED.
+C.Akers right end to TB 1 for 5 yards (A.Winfield). FUMBLES (A.Winfield), RECOVERED by TB-A.Winfield at TB 1.",2nd & 6 at TB 6
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,2ND QUARTER,8,TB,0,1,0,Run for No Gain,(:19) T.Brady kneels to TB 1 for no gain.,1st & 10 at TB 1
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,1,LA,0,1,0,Kickoff,"B.Pinion kicks 65 yards from TB 35 to end zone, Touchback.",Kickoff from TB 35
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,1,LA,0,2,0,2 Yard Run,(15:00) C.Akers right end pushed ob at LA 27 for 2 yards (J.Whitehead).,1st & 10 at LA 25
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,1,LA,0,3,0,17 Yard Pass,(14:19) (Shotgun) M.Stafford pass short left to O.Beckham ran ob at LA 44 for 17 yards (J.Dean).,2nd & 8 at LA 27
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,1,LA,0,4,0,-3 Yard Run,"(13:41) C.Akers left end to LA 41 for -3 yards (D.White, J.Dean).",1st & 10 at LA 44
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,1,LA,0,5,0,-5 Yard Penalty,"(12:56) (Shotgun) PENALTY on LA, Delay of Game, 5 yards, enforced at LA 41 - No Play.",2nd & 13 at LA 41
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,1,LA,0,6,0,13 Yard Pass,(12:38) (Shotgun) M.Stafford pass short right to C.Kupp to LA 49 for 13 yards (L.David; J.Whitehead). TB-L.David was injured during the play. His return is Questionable.,2nd & 18 at LA 36
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,1,LA,0,7,0,Pass Incomplete,(12:05) (Shotgun) M.Stafford pass incomplete short middle to C.Kupp (D.White) [N.Suh].,3rd & 5 at LA 49
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,1,LA,0,8,0,Punt,"(12:00) J.Hekker punts 46 yards to TB 5, Center-M.Orzech, out of bounds.",4th & 5 at LA 49
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,2,TB,0,1,0,7 Yard Run,(11:51) L.Fournette up the middle to TB 12 for 7 yards (N.Scott; T.Howard).,1st & 10 at TB 5
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,2,TB,0,2,0,Run for No Gain,(11:19) L.Fournette right guard to TB 12 for no gain (V.Miller).,2nd & 3 at TB 12
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,2,TB,0,3,0,Pass Incomplete,(10:42) (Shotgun) T.Brady pass incomplete short right to T.Johnson.,3rd & 3 at TB 12
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,2,TB,0,4,0,Punt,"(10:39) B.Pinion punts 49 yards to LA 39, Center-Z.Triner. B.Powell ran ob at TB 28 for 33 yards (A.Nelson).",4th & 3 at TB 12
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,3,LA,1,1,0,11 Yard Pass,(10:25) (Shotgun) M.Stafford pass short left to K.Blanton to TB 17 for 11 yards (J.Dean).,1st & 10 at TB 28
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,3,LA,1,2,0,4 Yard Pass,(9:38) (Shotgun) M.Stafford pass short left to C.Kupp pushed ob at TB 13 for 4 yards (C.Davis).,1st & 10 at TB 17
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,3,LA,1,3,0,10 Yard Pass,(8:59) (Shotgun) M.Stafford pass short left to O.Beckham ran ob at TB 3 for 10 yards.,2nd & 6 at TB 13
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,3,LA,1,4,0,2 Yard Run,(8:21) (Shotgun) C.Akers up the middle to TB 1 for 2 yards (J.Pierre-Paul).,1st & 3 at TB 3
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,3,LA,1,5,0,Run for No Gain,(7:45) (Shotgun) C.Akers up the middle to TB 1 for no gain (J.Whitehead; R.Nunez-Roches).,2nd & 1 at TB 1
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,3,LA,1,6,0,Touchdown Rams,"(7:11) M.Stafford up the middle for 1 yard, TOUCHDOWN. TB-R.Nunez-Roches was injured during the play. His return is Questionable.",3rd & 1 at TB 1
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,3,LA,1,7,1,Extra Point Good,"M.Gay extra point is GOOD, Center-M.Orzech, Holder-J.Hekker.",XP attempt from TB 15
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,4,TB,1,1,0,Kickoff,"M.Gay kicks 65 yards from LA 35 to end zone, Touchback.",Kickoff from LA 35
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,4,TB,1,2,0,5 Yard Pass,(7:07) (Shotgun) T.Brady pass short left to M.Evans to TB 30 for 5 yards (J.Ramsey).,1st & 10 at TB 25
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,4,TB,1,3,0,7 Yard Pass,(6:30) (Shotgun) T.Brady pass short left to O.Howard to TB 37 for 7 yards (J.Ramsey).,2nd & 5 at TB 30
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,4,TB,1,4,0,-2 Yard Pass,(5:54) (Shotgun) T.Brady pass short left to S.Miller to TB 35 for -2 yards (D.Williams).,1st & 10 at TB 37
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,4,TB,1,5,0,42 Yard Pass,(5:21) (Shotgun) T.Brady pass deep left to R.Gronkowski to LA 23 for 42 yards (E.Weddle).,2nd & 12 at TB 35
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,4,TB,1,6,0,Pass Incomplete,(4:36) T.Brady pass incomplete short left to M.Evans.,1st & 10 at LA 23
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,4,TB,1,7,0,11 Yard Pass,(4:32) (Shotgun) T.Brady pass short right to M.Evans pushed ob at LA 12 for 11 yards (D.Long).,2nd & 10 at LA 23
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,4,TB,1,8,0,Pass Incomplete,(3:59) (Shotgun) T.Brady pass incomplete short left [O.Okoronkwo].,1st & 10 at LA 12
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,4,TB,1,9,0,-1 Yard Run,(3:52) (Shotgun) L.Fournette up the middle to LA 13 for -1 yards (A.Donald).,2nd & 10 at LA 12
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,4,TB,1,10,0,Pass Incomplete,(3:10) (Shotgun) T.Brady pass incomplete short middle to R.Gronkowski [A.Donald].,3rd & 11 at LA 13
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,4,TB,1,11,1,Field Goal,"(3:06) R.Succop 31 yard field goal is GOOD, Center-Z.Triner, Holder-B.Pinion.",4th & 11 at LA 13
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,5,LA,0,1,0,Kickoff,"B.Pinion kicks 63 yards from TB 35 to LA 2, out of bounds.",Kickoff from TB 35
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,5,LA,0,2,0,Fumble,"(3:02) M.Stafford pass short left to C.Kupp to LA 43 for 3 yards (J.Dean). FUMBLES (J.Dean), RECOVERED by TB-S.Murphy-Bunting at LA 40. S.Murphy-Bunting to LA 30 for 10 yards (C.Akers).",1st & 10 at LA 40
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,6,TB,1,1,0,Pass Incomplete,(2:45) (Shotgun) T.Brady pass incomplete deep left to R.Gronkowski.,1st & 10 at LA 30
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,6,TB,1,2,0,1 Yard Pass,(2:40) (Shotgun) T.Brady pass short left to R.Gronkowski to LA 29 for 1 yard (V.Miller).,2nd & 10 at LA 30
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,6,TB,1,3,0,Pass Incomplete,(2:02) (Shotgun) T.Brady pass incomplete short left to R.Gronkowski.,3rd & 9 at LA 29
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,6,TB,1,4,0,16 Yard Pass,(1:58) (Shotgun) T.Brady pass short left to S.Miller to LA 13 for 16 yards (D.Williams).,4th & 9 at LA 29
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,6,TB,1,5,0,3 Yard Pass,(1:15) (Shotgun) T.Brady pass short right to T.Johnson to LA 10 for 3 yards (D.Long).,1st & 10 at LA 13
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,6,TB,1,6,0,9 Yard Pass,(:34) (Shotgun) T.Brady pass short left to T.Johnson to LA 1 for 9 yards (D.Williams; T.Reeder). TB-T.Johnson was injured during the play. His return is Questionable.,2nd & 7 at LA 10
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,6,TB,1,7,0,Touchdown Buccaneers,"(:16) A.Stinnie reported in as eligible.  L.Fournette right tackle for 1 yard, TOUCHDOWN.",1st & 1 at LA 1
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,3RD QUARTER,6,TB,1,8,1,Extra Point Good,"R.Succop extra point is GOOD, Center-Z.Triner, Holder-B.Pinion.",XP attempt from LA 15
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,1,LA,0,1,0,Kickoff,"B.Pinion kicks 65 yards from TB 35 to end zone, Touchback.",Kickoff from TB 35
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,1,LA,0,2,0,Run for No Gain,"(:12) C.Akers up the middle to LA 25 for no gain (J.Whitehead, D.White).",1st & 10 at LA 25
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,1,LA,0,3,0,Pass Incomplete,(15:00) (Shotgun) M.Stafford pass incomplete deep middle to T.Higbee [D.White].,2nd & 10 at LA 25
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,1,LA,0,4,0,Pass Incomplete,(14:55) (Shotgun) M.Stafford pass incomplete short right to T.Higbee.,3rd & 10 at LA 25
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,1,LA,0,5,0,Punt,"(14:51) J.Hekker punts 50 yards to TB 25, Center-M.Orzech. J.Darden to TB 30 for 5 yards (B.Skowronek). TB-J.Darden was injured during the play. His return is Questionable.",4th & 10 at LA 25
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,2,TB,0,1,0,Fumble,"(14:41) T.Brady sacked at TB 23 for -7 yards (V.Miller). FUMBLES (V.Miller) [V.Miller], RECOVERED by LA-V.Miller at TB 25.",1st & 10 at TB 30
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,3,LA,0,1,0,Fumble,"(14:33) (Shotgun) M.Stafford Aborted. B.Allen FUMBLES at TB 25, RECOVERED by TB-J.Pierre-Paul at 50. J.Pierre-Paul to LA 45 for 5 yards (R.Havenstein).",1st & 10 at TB 25
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,4,TB,0,1,0,13 Yard Pass,(14:25) (Shotgun) T.Brady pass short middle to R.Gronkowski to LA 32 for 13 yards (N.Scott).,1st & 10 at LA 45
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,4,TB,0,2,0,5 Yard Pass,(13:48) (Shotgun) T.Brady pass short right to L.Fournette pushed ob at LA 27 for 5 yards (L.Floyd).,1st & 10 at LA 32
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,4,TB,0,3,0,Pass Incomplete,(13:16) (Shotgun) T.Brady pass incomplete deep right to R.Gronkowski (N.Scott).,2nd & 5 at LA 27
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,4,TB,0,4,0,-9 Yard Sack,(13:11) (Shotgun) T.Brady sacked at LA 36 for -9 yards (L.Floyd).,3rd & 5 at LA 27
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,4,TB,0,5,0,Turnover on Downs,"(12:28) (Shotgun) T.Brady pass incomplete deep left to M.Evans (J.Ramsey).
+PENALTY on LA-E.Weddle, Unnecessary Roughness, 14 yards, enforced between downs.",4th & 14 at LA 36
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,5,LA,0,1,0,3 Yard Run,(12:22) C.Akers right guard to LA 25 for 3 yards (J.Whitehead).,1st & 10 at LA 22
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,5,LA,0,2,0,15 Yard Run,(11:39) V.Jefferson left end pushed ob at LA 40 for 15 yards (A.Winfield).,2nd & 7 at LA 25
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,5,LA,0,3,0,3 Yard Run,(10:58) C.Akers up the middle to LA 43 for 3 yards (V.Vea).,1st & 10 at LA 40
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,5,LA,0,4,0,8 Yard Run,(10:14) C.Akers up the middle to TB 49 for 8 yards (S.Barrett).,2nd & 7 at LA 43
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,5,LA,0,5,0,18 Yard Pass,(9:28) M.Stafford pass short right to V.Jefferson to TB 31 for 18 yards (L.David).,1st & 10 at TB 49
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,5,LA,0,6,0,-3 Yard Run,(8:44) C.Akers left guard to TB 34 for -3 yards (R.Nunez-Roches).,1st & 10 at TB 31
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,5,LA,0,7,0,1 Yard Run,(8:02) (Shotgun) C.Akers left tackle to TB 33 for 1 yard (R.Nunez-Roches; A.Nelson).,2nd & 13 at TB 34
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,5,LA,0,8,0,4 Yard Run,(7:18) S.Michel up the middle to TB 29 for 4 yards (N.Suh; L.David).,3rd & 12 at TB 33
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,5,LA,0,9,0,Field Goal No Good,"(6:36) M.Gay 47 yard field goal is No Good, Short, Center-M.Orzech, Holder-J.Hekker.",4th & 8 at TB 29
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,6,TB,0,1,0,9 Yard Pass,(6:31) (Shotgun) T.Brady pass short left to L.Fournette to TB 46 for 9 yards (D.Williams).,1st & 10 at TB 37
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,6,TB,0,2,0,6 Yard Pass,"(6:04) (No Huddle, Shotgun) T.Brady pass short left to M.Evans to LA 48 for 6 yards (D.Williams).",2nd & 1 at TB 46
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,6,TB,0,3,0,16 Yard Penalty,"(5:41) (No Huddle, Shotgun) T.Brady pass incomplete deep left to M.Evans.
+PENALTY on LA-D.Williams, Defensive Pass Interference, 16 yards, enforced at LA 48 - No Play.",1st & 10 at LA 48
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,6,TB,0,4,0,Pass Incomplete,"(5:36) (No Huddle, Shotgun) T.Brady pass incomplete short right to S.Miller (O.Okoronkwo).",1st & 10 at LA 32
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,6,TB,0,5,0,4 Yard Pass,(5:30) (Shotgun) T.Brady pass short right to L.Fournette to LA 28 for 4 yards (O.Okoronkwo).,2nd & 10 at LA 32
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,6,TB,0,6,0,-3 Yard Pass,"(4:59) (No Huddle, Shotgun) T.Brady pass short left to L.Fournette to LA 31 for -3 yards (D.Long).",3rd & 6 at LA 28
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,6,TB,0,7,0,Turnover on Downs,"(4:31) (No Huddle, Shotgun) T.Brady pass incomplete deep middle to C.Brate.",4th & 9 at LA 31
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,7,LA,0,1,0,4 Yard Run,(4:26) C.Akers right guard to LA 35 for 4 yards (W.Gholston).,1st & 10 at LA 31
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,7,LA,0,2,0,-1 Yard Run,(4:21) C.Akers right guard to LA 34 for -1 yards (W.Gholston).,2nd & 6 at LA 35
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,7,LA,0,3,0,Pass for No Gain,"(4:16) (Shotgun) M.Stafford pass short right to S.Michel to LA 34 for no gain (A.Winfield, N.Suh).",3rd & 7 at LA 34
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,7,LA,0,4,0,Punt,"(4:07) J.Hekker punts 45 yards to TB 21, Center-M.Orzech. G.Bernard to TB 23 for 2 yards (B.Skowronek; G.Haley).",4th & 7 at LA 34
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,8,TB,1,1,0,19 Yard Pass,(3:56) (Shotgun) T.Brady pass deep left to S.Miller pushed ob at TB 42 for 19 yards (D.Williams).,1st & 10 at TB 23
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,8,TB,1,2,0,3 Yard Pass,"(3:49) (No Huddle, Shotgun) T.Brady pass short left to L.Fournette to TB 45 for 3 yards (T.Howard, T.Reeder).",1st & 10 at TB 42
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,8,TB,1,3,0,Touchdown Buccaneers,"(3:27) (No Huddle, Shotgun) T.Brady pass deep right to M.Evans for 55 yards, TOUCHDOWN.",2nd & 7 at TB 45
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,8,TB,1,4,1,Extra Point Good,"R.Succop extra point is GOOD, Center-Z.Triner, Holder-B.Pinion.",XP attempt from LA 15
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,9,LA,0,1,0,Kickoff,B.Pinion kicks 64 yards from TB 35 to LA 1. B.Powell to LA 20 for 19 yards (C.Gill).,Kickoff from TB 35
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,9,LA,0,2,0,3 Yard Run,(3:15) C.Akers up the middle to LA 23 for 3 yards (S.Barrett).,1st & 10 at LA 20
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,9,LA,0,3,0,Fumble,"(2:32) C.Akers right tackle to LA 26 for 3 yards (N.Suh). FUMBLES (N.Suh), RECOVERED by TB-L.David at LA 30.",2nd & 7 at LA 23
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,10,TB,1,1,0,5 Yard Pass,(2:25) (Shotgun) T.Brady pass short left to L.Fournette to LA 25 for 5 yards (T.Howard).,1st & 10 at LA 30
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,10,TB,1,2,0,4 Yard Run,(2:00) (Shotgun) L.Fournette up the middle to LA 21 for 4 yards (L.Floyd; A.Donald).,2nd & 5 at LA 25
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,10,TB,1,3,0,3 Yard Run,"(1:41) (No Huddle, Shotgun) L.Fournette up the middle to LA 18 for 3 yards (T.Howard; A.Donald).",3rd & 1 at LA 21
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,10,TB,1,4,0,Pass Incomplete,"(1:19) (No Huddle, Shotgun) T.Brady pass incomplete short left to M.Evans.",1st & 10 at LA 18
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,10,TB,1,5,0,Pass Incomplete,(1:15) (Shotgun) T.Brady pass incomplete deep left to M.Evans.,2nd & 10 at LA 18
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,10,TB,1,6,0,9 Yard Pass,"(1:10) (Shotgun) T.Brady pass short middle to C.Brate to LA 9 for 9 yards (D.Long).
+The Replay Official reviewed the short of the line to gain ruling, and the play was Upheld. The ruling on the field stands.",3rd & 10 at LA 18
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,10,TB,1,7,0,Touchdown Buccaneers,"(:46) L.Fournette right end for 9 yards, TOUCHDOWN.",4th & 1 at LA 9
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,10,TB,1,8,1,Extra Point Good,"R.Succop extra point is GOOD, Center-Z.Triner, Holder-B.Pinion.",XP attempt from LA 15
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,11,LA,1,1,0,Kickoff,"B.Pinion kicks 65 yards from TB 35 to end zone, Touchback.",Kickoff from TB 35
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,11,LA,1,2,0,Sack,(:42) (Shotgun) M.Stafford sacked at LA 24 for -1 yards (sack split by N.Suh and J.Pierre-Paul).,1st & 10 at LA 25
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,11,LA,1,3,0,20 Yard Pass,(:35) (Shotgun) M.Stafford pass deep left to C.Kupp pushed ob at LA 44 for 20 yards (M.Edwards).,2nd & 11 at LA 24
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,11,LA,1,4,0,44 Yard Pass,(:28) (Shotgun) M.Stafford pass deep middle to C.Kupp to TB 12 for 44 yards (A.Winfield) [N.Suh].,1st & 10 at LA 44
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,11,LA,1,5,0,Pass Incomplete,(:05) (No Huddle) M.Stafford spiked the ball to stop the clock.,1st & 10 at TB 12
+2021,Divisional Playoffs,SUN,01/23,Rams,Buccaneers,4TH QUARTER,11,LA,1,6,1,Field Goal,"(:04) M.Gay 30 yard field goal is GOOD, Center-M.Orzech, Holder-J.Hekker.",2nd & 10 at TB 12
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,1,BUF,1,1,0,Kickoff,H.Butker kicks 58 yards from KC 35 to BUF 7. I.McKenzie to BUF 29 for 22 yards (M.Kemp; D.Fountain).,Kickoff from KC 35
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,1,BUF,1,2,0,13 Yard Pass,(14:55) (Shotgun) J.Allen pass short right to D.Singletary to BUF 42 for 13 yards (M.Ingram; N.Bolton).,1st & 10 at BUF 29
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,1,BUF,1,3,0,Pass Incomplete,(14:16) J.Allen pass incomplete short middle to D.Knox.,1st & 10 at BUF 42
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,1,BUF,1,4,0,1 Yard Pass,(14:11) J.Allen pass short left to S.Diggs to BUF 43 for 1 yard (F.Clark).,2nd & 10 at BUF 42
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,1,BUF,1,5,0,7 Yard Pass,(13:27) (Shotgun) J.Allen pass short right to C.Beasley to 50 for 7 yards (L.Sneed).,3rd & 9 at BUF 43
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,1,BUF,1,6,0,10 Yard Run,(12:44) (Shotgun) J.Allen right end to KC 40 for 10 yards (T.Mathieu; J.Reed).,4th & 2 at 50
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,1,BUF,1,7,0,4 Yard Pass,(12:02) J.Allen pass short right to D.Singletary to KC 36 for 4 yards (C.Ward; N.Bolton).,1st & 10 at KC 40
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,1,BUF,1,8,0,7 Yard Run,(11:24) D.Singletary right tackle pushed ob at KC 29 for 7 yards (A.Hitchens).,2nd & 6 at KC 36
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,1,BUF,1,9,0,15 Yard Pass,(10:44) J.Allen pass short middle to D.Singletary to KC 14 for 15 yards (A.Hitchens).,1st & 10 at KC 29
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,1,BUF,1,10,0,11 Yard Run,(10:02) I.McKenzie left end ran ob at KC 3 for 11 yards (L.Sneed).,1st & 10 at KC 14
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,1,BUF,1,11,0,Pass Incomplete,(9:30) (Shotgun) J.Allen pass incomplete short middle to S.Diggs.,1st & 3 at KC 3
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,1,BUF,1,12,0,1 Yard Run,(9:27) (Shotgun) D.Singletary left tackle to KC 2 for 1 yard (J.Reed; M.Hughes).,2nd & 3 at KC 3
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,1,BUF,1,13,0,1 Yard Run,"(8:48) (Shotgun) J.Allen up the middle to KC 1 for 1 yard (J.Reed, A.Hitchens).",3rd & 2 at KC 2
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,1,BUF,1,14,0,Touchdown Bills,"(8:07) (Shotgun) D.Singletary left end for 1 yard, TOUCHDOWN.",4th & 1 at KC 1
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,1,BUF,1,15,1,Extra Point Good,"T.Bass extra point is GOOD, Center-R.Ferguson, Holder-M.Haack.",XP attempt from KC 15
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,2,KC,1,1,0,Kickoff,T.Bass kicks 65 yards from BUF 35 to KC 0. B.Pringle to KC 26 for 26 yards (T.Jones; J.Kumerow).,Kickoff from BUF 35
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,2,KC,1,2,0,4 Yard Run,(7:56) (Shotgun) J.McKinnon up the middle to KC 30 for 4 yards (H.Phillips).,1st & 10 at KC 26
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,2,KC,1,3,0,1 Yard Pass,(7:22) (Shotgun) P.Mahomes pass short left to T.Hill to KC 31 for 1 yard (L.Wallace).,2nd & 6 at KC 30
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,2,KC,1,4,0,5 Yard Pass,(6:44) (Shotgun) P.Mahomes pass short left to J.McKinnon to KC 36 for 5 yards (M.Milano) [E.Oliver].,3rd & 5 at KC 31
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,2,KC,1,5,0,Pass Incomplete,(6:03) (Shotgun) P.Mahomes pass incomplete short middle to T.Kelce.,1st & 10 at KC 36
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,2,KC,1,6,0,4 Yard Run,(5:59) (Shotgun) J.McKinnon left tackle to KC 40 for 4 yards (G.Rousseau).,2nd & 10 at KC 36
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,2,KC,1,7,0,34 Yard Run,(5:22) (Shotgun) P.Mahomes scrambles up the middle to BUF 26 for 34 yards (M.Hyde).,3rd & 6 at KC 40
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,2,KC,1,8,0,6 Yard Run,"(4:36) M.Hardman left end to BUF 20 for 6 yards (J.Poyer, M.Milano).",1st & 10 at BUF 26
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,2,KC,1,9,0,7 Yard Run,(3:57) (Shotgun) P.Mahomes scrambles left end ran ob at BUF 13 for 7 yards (C.Basham).,2nd & 4 at BUF 20
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,2,KC,1,10,0,Pass Incomplete,"(3:17) (Shotgun) P.Mahomes pass incomplete short middle to T.Hill.
+Penalty on KC-C.Humphrey, Ineligible Downfield Pass, declined.",1st & 10 at BUF 13
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,2,KC,1,11,0,5 Yard Pass,(3:13) (Shotgun) P.Mahomes pass short left to B.Pringle to BUF 8 for 5 yards (M.Milano).,2nd & 10 at BUF 13
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,2,KC,1,12,0,Touchdown Chiefs,"(2:36) (Shotgun) P.Mahomes scrambles left end for 8 yards, TOUCHDOWN.",3rd & 5 at BUF 8
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,1ST QUARTER,2,KC,1,13,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-T.Townsend.",XP attempt from BUF 15
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,1,BUF,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,1,BUF,0,2,0,3 Yard Pass,(2:26) (Shotgun) J.Allen pass short right to I.McKenzie pushed ob at BUF 28 for 3 yards (D.Sorensen).,1st & 10 at BUF 25
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,1,BUF,0,3,0,3 Yard Run,(1:48) (Shotgun) I.McKenzie up the middle to BUF 31 for 3 yards (A.Hitchens).,2nd & 7 at BUF 28
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,1,BUF,0,4,0,5 Yard Pass,(1:11) (Shotgun) J.Allen pass short left to S.Diggs to BUF 36 for 5 yards (M.Hughes).,3rd & 4 at BUF 31
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,1,BUF,0,5,0,1 Yard Pass,(:38) T.Doyle reported in as eligible.  J.Allen pass short left to D.Knox to BUF 37 for 1 yard (N.Bolton).,1st & 10 at BUF 36
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,1,BUF,0,6,0,8 Yard Pass,(15:00) (Shotgun) J.Allen pass short middle to D.Knox to BUF 45 for 8 yards (D.Sorensen; W.Gay).,2nd & 9 at BUF 37
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,1,BUF,0,7,0,14 Yard Run,(14:20) (Shotgun) T.Doyle reported in as eligible.  J.Allen left end to KC 41 for 14 yards (D.Sorensen).,3rd & 1 at BUF 45
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,1,BUF,0,8,0,1 Yard Pass,(13:39) (Shotgun) J.Allen pass short left to R.Gilliam to KC 40 for 1 yard (N.Bolton; L.Sneed).,1st & 10 at KC 41
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,1,BUF,0,9,0,Pass Incomplete,(13:02) J.Allen pass incomplete short left to G.Davis.,2nd & 9 at KC 40
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,1,BUF,0,10,0,-11 Yard Sack,"(12:59) (Shotgun) J.Allen sacked at 50 for -10 yards (M.Ingram). FUMBLES (M.Ingram) [M.Ingram], touched at 50, and recovers at BUF 49.",3rd & 9 at KC 40
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,1,BUF,0,11,0,Punt,"(12:11) M.Haack punts 50 yards to KC 1, Center-R.Ferguson, downed by BUF-R.Ferguson.",4th & 20 at BUF 49
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,2,KC,0,1,0,Pass Incomplete,(11:59) (Shotgun) P.Mahomes pass incomplete short left to B.Pringle.,1st & 10 at KC 1
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,2,KC,0,2,0,1 Yard Run,(11:56) (Shotgun) J.McKinnon right tackle to KC 2 for 1 yard (A.Epenesa; H.Phillips).,2nd & 10 at KC 1
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,2,KC,0,3,0,5 Yard Pass,(11:16) (Shotgun) P.Mahomes pass short left to T.Kelce to KC 7 for 5 yards (M.Milano).,3rd & 9 at KC 2
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,2,KC,0,4,0,Punt,"(10:38) T.Townsend punts 50 yards to BUF 43, Center-J.Winchester, fair catch by M.Hyde.",4th & 4 at KC 7
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,3,BUF,0,1,0,7 Yard Run,(10:31) D.Singletary up the middle to 50 for 7 yards (A.Hitchens; N.Bolton).,1st & 10 at BUF 43
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,3,BUF,0,2,0,1 Yard Run,(9:57) D.Singletary right end to KC 49 for 1 yard (W.Gay; J.Reed). KC-J.Reed was injured during the play. His return is Questionable.,2nd & 3 at 50
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,3,BUF,0,3,0,-2 Yard Run,"(9:32) T.Doyle reported in as eligible.  D.Singletary left end to BUF 49 for -2 yards (N.Bolton, L.Sneed).",3rd & 2 at KC 49
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,3,BUF,0,4,0,Punt,"(8:50) M.Haack punts 37 yards to KC 14, Center-R.Ferguson, fair catch by M.Hardman.",4th & 4 at BUF 49
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,4,KC,1,1,0,21 Yard Pass,"(8:43) P.Mahomes pass deep middle to T.Kelce to KC 35 for 21 yards (T.Edmunds, J.Poyer).",1st & 10 at KC 14
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,4,KC,1,2,0,12 Yard Pass,(8:04) (Shotgun) P.Mahomes pass short middle to B.Pringle to KC 47 for 12 yards (T.Edmunds).,1st & 10 at KC 35
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,4,KC,1,3,0,10 Yard Pass,(7:28) P.Mahomes pass short right to T.Hill to BUF 43 for 10 yards (L.Wallace).,1st & 10 at KC 47
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,4,KC,1,4,0,22 Yard Run,(6:49) (Shotgun) C.Edwards-Helaire left end to BUF 21 for 22 yards (J.Poyer).,1st & 10 at BUF 43
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,4,KC,1,5,0,-2 Yard Run,(6:05) T.Hill right end pushed ob at BUF 23 for -2 yards (L.Wallace).,1st & 10 at BUF 21
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,4,KC,1,6,0,9 Yard Pass,(5:28) (Shotgun) P.Mahomes pass short right to C.Edwards-Helaire to BUF 14 for 9 yards (M.Hyde).,2nd & 12 at BUF 23
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,4,KC,1,7,0,6 Yard Pass,(4:41) (Shotgun) P.Mahomes pass short right to J.McKinnon pushed ob at BUF 8 for 6 yards (D.Jackson; M.Milano).,3rd & 3 at BUF 14
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,4,KC,1,8,0,-7 Yard Sack,(4:03) (Shotgun) P.Mahomes sacked at BUF 15 for -7 yards (E.Oliver).,1st & 8 at BUF 8
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,4,KC,1,9,0,4 Yard Run,(3:20) (Shotgun) J.McKinnon right tackle to BUF 11 for 4 yards (H.Phillips).,2nd & 15 at BUF 15
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,4,KC,1,10,0,5 Yard Penalty,"(2:37) (Shotgun) P.Mahomes sacked at BUF 17 for -6 yards (M.Milano).
+PENALTY on BUF-D.Jackson, Defensive Holding, 5 yards, enforced at BUF 11 - No Play.",3rd & 11 at BUF 11
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,4,KC,1,11,0,4 Yard Run,"(2:19) C.Edwards-Helaire up the middle to BUF 2 for 4 yards (E.Obada, J.Poyer).",1st & 6 at BUF 6
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,4,KC,1,12,0,Pass Incomplete,(2:00) (Shotgun) P.Mahomes pass incomplete short middle to C.Edwards-Helaire.,2nd & 2 at BUF 2
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,4,KC,1,13,0,Touchdown Chiefs,"(1:58) (Shotgun) P.Mahomes pass short right to B.Pringle for 2 yards, TOUCHDOWN [J.Hughes].",3rd & 2 at BUF 2
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,4,KC,1,14,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-T.Townsend.",XP attempt from BUF 15
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,5,BUF,1,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,5,BUF,1,2,0,24 Yard Pass,(1:52) (Shotgun) J.Allen pass short middle to C.Beasley to BUF 49 for 24 yards (J.Thornhill; L.Sneed).,1st & 10 at BUF 25
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,5,BUF,1,3,0,1 Yard Pass,"(1:29) (No Huddle, Shotgun) J.Allen pass short right to S.Diggs pushed ob at 50 for 1 yard (C.Ward).",1st & 10 at BUF 49
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,5,BUF,1,4,0,7 Yard Pass,(1:24) (Shotgun) J.Allen pass short middle to C.Beasley to KC 43 for 7 yards (A.Watts).,2nd & 9 at 50
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,5,BUF,1,5,0,5 Yard Pass,"(1:00) (No Huddle, Shotgun) J.Allen pass short left to G.Davis to KC 38 for 5 yards (C.Ward).",3rd & 2 at KC 43
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,5,BUF,1,6,0,9 Yard Run,(:54) (Shotgun) J.Allen left end pushed ob at KC 29 for 9 yards (A.Watts; D.Sorensen).,1st & 10 at KC 38
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,5,BUF,1,7,0,11 Yard Run,(:49) (Shotgun) J.Allen left end pushed ob at KC 18 for 11 yards (M.Ingram).,2nd & 1 at KC 29
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,5,BUF,1,8,0,Touchdown Bills,"(:42) (Shotgun) J.Allen pass deep middle to G.Davis for 18 yards, TOUCHDOWN.",1st & 10 at KC 18
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,5,BUF,1,9,1,Extra Point Good,"T.Bass extra point is GOOD, Center-R.Ferguson, Holder-M.Haack.",XP attempt from KC 15
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,6,KC,0,1,0,Kickoff,"T.Bass kicks 65 yards from BUF 35 to end zone, Touchback.",Kickoff from BUF 35
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,6,KC,0,2,0,5 Yard Penalty,"(:37) (Shotgun) P.Mahomes pass incomplete short left to T.Kelce.
+PENALTY on BUF-L.Wallace, Defensive Holding, 5 yards, enforced at KC 25 - No Play.",1st & 10 at KC 25
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,6,KC,0,3,0,26 Yard Pass,(:30) (Shotgun) P.Mahomes pass short right to T.Hill ran ob at BUF 44 for 26 yards (M.Hyde).,1st & 10 at KC 30
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,6,KC,0,4,0,4 Yard Pass,(:23) (Shotgun) P.Mahomes pass short right to T.Hill ran ob at BUF 40 for 4 yards (M.Milano).,1st & 10 at BUF 44
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,6,KC,0,5,0,8 Yard Pass,(:16) (Shotgun) P.Mahomes pass short middle to T.Kelce to BUF 32 for 8 yards (Ta.Johnson; M.Milano).,2nd & 6 at BUF 40
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,6,KC,0,6,0,Pass Incomplete,(:11) (Shotgun) P.Mahomes pass incomplete short left.,1st & 10 at BUF 32
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,6,KC,0,7,0,Pass Incomplete,(:07) (Shotgun) P.Mahomes pass incomplete deep left to T.Hill.,2nd & 10 at BUF 32
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,2ND QUARTER,6,KC,0,8,0,Field Goal No Good,"(:03) H.Butker 50 yard field goal is No Good, Hit Right Upright, Center-J.Winchester, Holder-T.Townsend.",3rd & 10 at BUF 32
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,1,KC,1,1,0,Kickoff,"T.Bass kicks 65 yards from BUF 35 to end zone, Touchback.",Kickoff from BUF 35
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,1,KC,1,2,0,5 Yard Run,(15:00) (Shotgun) J.McKinnon left tackle to KC 30 for 5 yards (M.Milano; L.Wallace).,1st & 10 at KC 25
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,1,KC,1,3,0,4 Yard Run,(14:28) (Shotgun) P.Mahomes scrambles left end to KC 34 for 4 yards (M.Milano).,2nd & 5 at KC 30
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,1,KC,1,4,0,3 Yard Run,"(13:43) (Shotgun) J.McKinnon up the middle to KC 37 for 3 yards (T.Edmunds, E.Oliver).",3rd & 1 at KC 34
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,1,KC,1,5,0,7 Yard Pass,(13:10) (Shotgun) P.Mahomes pass short left to J.McKinnon to KC 44 for 7 yards (L.Wallace; T.Edmunds).,1st & 10 at KC 37
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,1,KC,1,6,0,7 Yard Pass,(12:29) (Shotgun) P.Mahomes pass short right to T.Hill pushed ob at BUF 49 for 7 yards (D.Jackson).,2nd & 3 at KC 44
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,1,KC,1,7,0,8 Yard Pass,(11:56) (Shotgun) P.Mahomes pass short left to N.Gray to BUF 41 for 8 yards (Ta.Johnson).,1st & 10 at BUF 49
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,1,KC,1,8,0,-2 Yard Run,(11:20) J.McKinnon up the middle to BUF 43 for -2 yards (E.Oliver).,2nd & 2 at BUF 41
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,1,KC,1,9,0,3 Yard Pass,(10:44) (Shotgun) P.Mahomes pass short left to T.Hill to BUF 40 for 3 yards (Ta.Johnson).,3rd & 4 at BUF 43
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,1,KC,1,10,0,20 Yard Pass,(10:06) P.Mahomes pass short right to J.McKinnon pushed ob at BUF 20 for 20 yards (D.Jackson).,4th & 1 at BUF 40
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,1,KC,1,11,0,-1 Yard Sack,(9:27) (Shotgun) P.Mahomes sacked ob at BUF 21 for -1 yards (Ta.Johnson).,1st & 10 at BUF 20
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,1,KC,1,12,0,3 Yard Run,(8:44) (Shotgun) C.Edwards-Helaire left tackle to BUF 18 for 3 yards (E.Obada).,2nd & 11 at BUF 21
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,1,KC,1,13,0,-10 Yard Penalty,"(8:06) (Shotgun) P.Mahomes scrambles right end to BUF 9 for 9 yards (J.Poyer).
+PENALTY on KC-A.Wylie, Offensive Holding, 10 yards, enforced at BUF 18 - No Play.",3rd & 8 at BUF 18
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,1,KC,1,14,0,7 Yard Run,(7:41) (Shotgun) P.Mahomes scrambles right end pushed ob at BUF 21 for 7 yards (C.Basham).,3rd & 18 at BUF 28
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,1,KC,1,15,1,Field Goal,"(7:05) H.Butker 39 yard field goal is GOOD, Center-J.Winchester, Holder-T.Townsend.",4th & 11 at BUF 21
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,2,BUF,0,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,2,BUF,0,2,0,7 Yard Pass,(7:01) J.Allen pass short left to R.Gilliam pushed ob at BUF 32 for 7 yards (D.Sorensen).,1st & 10 at BUF 25
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,2,BUF,0,3,0,1 Yard Run,"(6:23) D.Singletary left end pushed ob at BUF 33 for 1 yard (L.Sneed, D.Sorensen).",2nd & 3 at BUF 32
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,2,BUF,0,4,0,1 Yard Run,(5:43) (Shotgun) I.McKenzie right end to BUF 34 for 1 yard (N.Bolton).,3rd & 2 at BUF 33
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,2,BUF,0,5,0,Punt,"(5:00) M.Haack punts 42 yards to KC 24, Center-R.Ferguson. M.Hughes to KC 39 for 15 yards (Jaq.Johnson).",4th & 1 at BUF 34
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,3,KC,1,1,0,3 Yard Run,(4:49) (Shotgun) P.Mahomes scrambles left end ran ob at KC 42 for 3 yards (T.Edmunds).,1st & 10 at KC 39
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,3,KC,1,2,0,8 Yard Pass,(4:10) (Shotgun) P.Mahomes pass short left to T.Kelce to 50 for 8 yards (M.Milano).,2nd & 7 at KC 42
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,3,KC,1,3,0,5 Yard Pass,(3:30) (Shotgun) P.Mahomes pass short right to B.Pringle to BUF 45 for 5 yards (Ta.Johnson).,1st & 10 at 50
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,3,KC,1,4,0,20 Yard Run,(2:56) (Shotgun) C.Edwards-Helaire right tackle to BUF 25 for 20 yards (D.Jackson).,2nd & 5 at BUF 45
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,3,KC,1,5,0,Touchdown Chiefs,"(2:14) M.Hardman left end for 25 yards, TOUCHDOWN.",1st & 10 at BUF 25
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,3,KC,1,6,1,Extra Point No Good,"H.Butker extra point is No Good, Hit Left Upright, Center-J.Winchester, Holder-T.Townsend.",XP attempt from BUF 15
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,4,BUF,1,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,4,BUF,1,2,0,Touchdown Bills,"(2:06) J.Allen pass deep middle to G.Davis for 75 yards, TOUCHDOWN.",1st & 10 at BUF 25
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,3RD QUARTER,4,BUF,1,3,1,Extra Point Good,"T.Bass extra point is GOOD, Center-R.Ferguson, Holder-M.Haack.",XP attempt from KC 15
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,1,KC,0,1,0,Kickoff,"T.Bass kicks 65 yards from BUF 35 to end zone, Touchback.",Kickoff from BUF 35
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,1,KC,0,2,0,6 Yard Run,(1:56) (Shotgun) P.Mahomes scrambles right end to KC 31 for 6 yards (C.Basham).,1st & 10 at KC 25
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,1,KC,0,3,0,6 Yard Pass,(1:15) (Shotgun) P.Mahomes pass short right to N.Gray to KC 37 for 6 yards (D.Jackson).,2nd & 4 at KC 31
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,1,KC,0,4,0,5 Yard Pass,(:31) (Shotgun) P.Mahomes pass short right to T.Hill to KC 42 for 5 yards (S.Lotulelei).,1st & 10 at KC 37
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,1,KC,0,5,0,7 Yard Pass,(15:00) (Shotgun) P.Mahomes pass short middle to T.Hill pushed ob at KC 49 for 7 yards (T.Edmunds).,2nd & 5 at KC 42
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,1,KC,0,6,0,Pass Incomplete,(14:25) (Shotgun) P.Mahomes pass incomplete short left.,1st & 10 at KC 49
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,1,KC,0,7,0,5 Yard Run,(14:18) (Shotgun) C.Edwards-Helaire left tackle to BUF 46 for 5 yards (E.Obada; J.Poyer).,2nd & 10 at KC 49
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,1,KC,0,8,0,Pass Incomplete,(13:38) (Shotgun) P.Mahomes pass incomplete short middle to B.Pringle.,3rd & 5 at BUF 46
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,1,KC,0,9,0,Punt,"(13:33) T.Townsend punts 38 yards to BUF 8, Center-J.Winchester, fair catch by M.Hyde.",4th & 5 at BUF 46
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,2,BUF,0,1,0,17 Yard Pass,(13:26) J.Allen pass deep left to G.Davis to BUF 25 for 17 yards (L.Sneed).,1st & 10 at BUF 8
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,2,BUF,0,2,0,Pass Incomplete,(12:49) (Shotgun) J.Allen pass incomplete short right to D.Knox.,1st & 10 at BUF 25
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,2,BUF,0,3,0,-5 Yard Penalty,"(12:44) (Shotgun) PENALTY on BUF-D.Knox, False Start, 5 yards, enforced at BUF 25 - No Play.",2nd & 10 at BUF 25
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,2,BUF,0,4,0,Pass Incomplete,(12:44) (Shotgun) J.Allen pass incomplete deep right to G.Davis.,2nd & 15 at BUF 20
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,2,BUF,0,5,0,-5 Yard Sack,(12:37) (Shotgun) J.Allen sacked at BUF 15 for -5 yards (J.Reed).,3rd & 15 at BUF 20
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,2,BUF,0,6,0,Penalty,"(11:58) M.Haack punts 54 yards to KC 31, Center-R.Ferguson. T.Hill ran ob at KC 44 for 13 yards (A.Smith).
+Penalty on BUF-T.Jones, Player Out of Bounds on Kick, offsetting, enforced at BUF 15 - No Play.
+Penalty on KC-D.O'Daniel, Low Block, offsetting.",4th & 20 at BUF 15
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,2,BUF,0,7,0,Punt,"(11:44) M.Haack punts 46 yards to KC 39, Center-R.Ferguson. T.Hill to BUF 16 for 45 yards (M.Haack; A.Smith).",4th & 20 at BUF 15
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,3,KC,1,1,0,3 Yard Run,(11:28) (Shotgun) J.McKinnon up the middle to BUF 13 for 3 yards (H.Phillips).,1st & 10 at BUF 16
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,3,KC,1,2,0,5 Yard Run,"(10:46) (Shotgun) J.McKinnon up the middle to BUF 8 for 5 yards (S.Lotulelei, J.Poyer). FUMBLES (J.Poyer), recovered by KC-A.Wylie at BUF 7.",2nd & 7 at BUF 13
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,3,KC,1,3,0,-3 Yard Run,(9:44) A.Wylie reported in as eligible. Direct snap to B.Bell.  J.McKinnon right end to BUF 10 for -3 yards (D.Jackson).,3rd & 1 at BUF 7
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,3,KC,1,4,1,Field Goal,"(8:58) H.Butker 28 yard field goal is GOOD, Center-J.Winchester, Holder-T.Townsend.",4th & 4 at BUF 10
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,4,BUF,1,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,4,BUF,1,2,0,8 Yard Pass,"(8:55) (Shotgun) J.Allen pass short left to C.Beasley to BUF 33 for 8 yards (L.Sneed, N.Bolton).",1st & 10 at BUF 25
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,4,BUF,1,3,0,-1 Yard Run,(8:14) (Shotgun) J.Allen left end to BUF 32 for -1 yards (F.Clark).,2nd & 2 at BUF 33
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,4,BUF,1,4,0,5 Yard Pass,(7:32) (Shotgun) J.Allen pass short left to C.Beasley to BUF 37 for 5 yards (J.Thornhill).,3rd & 3 at BUF 32
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,4,BUF,1,5,0,5 Yard Run,(6:50) T.Doyle reported in as eligible.  D.Singletary up the middle to BUF 42 for 5 yards (A.Hitchens).,1st & 10 at BUF 37
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,4,BUF,1,6,0,1 Yard Run,(6:19) (Shotgun) D.Singletary right end to BUF 43 for 1 yard (J.Thornhill).,2nd & 5 at BUF 42
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,4,BUF,1,7,0,9 Yard Run,(5:39) (Shotgun) J.Allen up the middle to KC 48 for 9 yards (A.Watts; C.Ward). KC-C.Ward was injured during the play. His return is Questionable.,3rd & 4 at BUF 43
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,4,BUF,1,8,0,Pass Incomplete,(5:01) (Shotgun) J.Allen pass incomplete short left to D.Singletary.,1st & 10 at KC 48
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,4,BUF,1,9,0,9 Yard Pass,(4:54) (Shotgun) J.Allen pass short right to C.Beasley to KC 39 for 9 yards (L.Sneed).,2nd & 10 at KC 48
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,4,BUF,1,10,0,3 Yard Run,(4:16) J.Allen left end ran ob at KC 36 for 3 yards (D.Sorensen).,3rd & 1 at KC 39
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,4,BUF,1,11,0,4 Yard Run,(4:11) (Shotgun) D.Singletary left end to KC 32 for 4 yards (W.Gay).,1st & 10 at KC 36
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,4,BUF,1,12,0,Pass Incomplete,(3:32) (Shotgun) J.Allen pass incomplete short right to C.Beasley (J.Thornhill).,2nd & 6 at KC 32
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,4,BUF,1,13,0,2 Yard Run,(3:28) (Shotgun) J.Allen left end to KC 30 for 2 yards (J.Reed).,3rd & 6 at KC 32
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,4,BUF,1,14,0,6 Yard Run,(2:48) (Shotgun) J.Allen scrambles right end pushed ob at KC 24 for 6 yards (D.Sorensen).,4th & 4 at KC 30
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,4,BUF,1,15,0,Pass Incomplete,(2:39) (Shotgun) J.Allen pass incomplete short middle to C.Beasley (L.Sneed).,1st & 10 at KC 24
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,4,BUF,1,16,0,4 Yard Run,(2:36) (Shotgun) J.Allen right end pushed ob at KC 20 for 4 yards (W.Gay).,2nd & 10 at KC 24
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,4,BUF,1,17,0,-7 Yard Pass,(2:31) (Shotgun) J.Allen pass short right to D.Singletary to KC 27 for -7 yards (C.Jones).,3rd & 6 at KC 20
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,4,BUF,1,18,0,Touchdown Bills,"(2:00) (Shotgun) J.Allen pass deep left to G.Davis for 27 yards, TOUCHDOWN.",4th & 13 at KC 27
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,4,BUF,1,19,1,2PT Conversion Success,TWO-POINT CONVERSION ATTEMPT. J.Allen pass to S.Diggs is complete. ATTEMPT SUCCEEDS.,XP attempt from KC 2
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,5,KC,1,1,0,Kickoff,"T.Bass kicks 65 yards from BUF 35 to end zone, Touchback.",Kickoff from BUF 35
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,5,KC,1,2,0,Pass Incomplete,(1:54) (Shotgun) P.Mahomes pass incomplete short right to J.McKinnon.,1st & 10 at KC 25
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,5,KC,1,3,0,Pass Incomplete,(1:47) (Shotgun) P.Mahomes pass incomplete short left to D.Robinson.,2nd & 10 at KC 25
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,5,KC,1,4,0,11 Yard Pass,(1:39) (Shotgun) P.Mahomes pass short left to T.Kelce to KC 36 for 11 yards (Ta.Johnson).,3rd & 10 at KC 25
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,5,KC,1,5,0,Pass Incomplete,"(1:17) (No Huddle, Shotgun) P.Mahomes pass incomplete short left to J.McKinnon.",1st & 10 at KC 36
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,5,KC,1,6,0,Touchdown Chiefs,"(1:13) (Shotgun) P.Mahomes pass short middle to T.Hill for 64 yards, TOUCHDOWN.",2nd & 10 at KC 36
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,5,KC,1,7,1,Extra Point Good,"H.Butker extra point is GOOD, Center-J.Winchester, Holder-T.Townsend.",XP attempt from BUF 15
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,6,BUF,1,1,0,Kickoff,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback.",Kickoff from KC 35
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,6,BUF,1,2,0,Pass Incomplete,(1:02) (Shotgun) J.Allen pass incomplete deep right to S.Diggs.,1st & 10 at BUF 25
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,6,BUF,1,3,0,28 Yard Pass,(:57) (Shotgun) J.Allen pass deep middle to G.Davis to KC 47 for 28 yards (D.Sorensen).,2nd & 10 at BUF 25
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,6,BUF,1,4,0,12 Yard Pass,(:49) (Shotgun) J.Allen pass short left to G.Davis to KC 35 for 12 yards (D.Baker).,1st & 10 at KC 47
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,6,BUF,1,5,0,Pass Incomplete,"(:32) (No Huddle, Shotgun) J.Allen pass incomplete deep right to S.Diggs (C.Ward).",1st & 10 at KC 35
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,6,BUF,1,6,0,16 Yard Pass,"(:23) (Shotgun) J.Allen pass deep right to E.Sanders to KC 19 for 16 yards (C.Ward).
+Penalty on KC-C.Ward, Defensive Pass Interference, declined.",2nd & 10 at KC 35
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,6,BUF,1,7,0,Touchdown Bills,"(:17) (Shotgun) J.Allen pass deep middle to G.Davis for 19 yards, TOUCHDOWN.",1st & 10 at KC 19
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,6,BUF,1,8,1,Extra Point Good,"T.Bass extra point is GOOD, Center-R.Ferguson, Holder-M.Haack.",XP attempt from KC 15
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,7,KC,1,1,0,Kickoff,"T.Bass kicks 65 yards from BUF 35 to end zone, Touchback.",Kickoff from BUF 35
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,7,KC,1,2,0,19 Yard Pass,(:13) (Shotgun) P.Mahomes pass short left to T.Hill to KC 44 for 19 yards (T.Edmunds; Ta.Johnson).,1st & 10 at KC 25
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,7,KC,1,3,0,25 Yard Pass,(:08) (Shotgun) P.Mahomes pass short middle to T.Kelce to BUF 31 for 25 yards (L.Wallace) [J.Hughes].,1st & 10 at KC 44
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,4TH QUARTER,7,KC,1,4,1,Field Goal,"(:03) H.Butker 49 yard field goal is GOOD, Center-J.Winchester, Holder-T.Townsend.",1st & 10 at BUF 31
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,OVERTIME,1,KC,1,1,0,Kickoff,"T.Bass kicks 65 yards from BUF 35 to end zone, Touchback.",Kickoff from BUF 35
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,OVERTIME,1,KC,1,2,0,4 Yard Run,(15:00) (Shotgun) C.Edwards-Helaire up the middle to KC 29 for 4 yards (T.Edmunds).,1st & 10 at KC 25
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,OVERTIME,1,KC,1,3,0,5 Yard Pass,(14:28) (Shotgun) P.Mahomes pass short right to B.Pringle to KC 34 for 5 yards (T.Edmunds).,2nd & 6 at KC 29
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,OVERTIME,1,KC,1,4,0,10 Yard Pass,(13:51) (Shotgun) P.Mahomes pass short left to T.Kelce to KC 44 for 10 yards (J.Poyer).,3rd & 1 at KC 34
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,OVERTIME,1,KC,1,5,0,2 Yard Run,(13:15) (Shotgun) C.Edwards-Helaire left end to KC 46 for 2 yards (A.Epenesa; S.Lotulelei).,1st & 10 at KC 44
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,OVERTIME,1,KC,1,6,0,16 Yard Pass,(12:38) (Shotgun) P.Mahomes pass short left to J.McKinnon to BUF 38 for 16 yards (M.Milano; J.Poyer).,2nd & 8 at KC 46
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,OVERTIME,1,KC,1,7,0,4 Yard Pass,(11:57) (Shotgun) P.Mahomes pass short right to T.Hill pushed ob at BUF 34 for 4 yards (M.Hyde).,1st & 10 at BUF 38
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,OVERTIME,1,KC,1,8,0,26 Yard Pass,(11:32) (Shotgun) P.Mahomes pass short right to M.Hardman ran ob at BUF 8 for 26 yards (D.Jackson).,2nd & 6 at BUF 34
+2021,Divisional Playoffs,SUN,01/23,Bills,Chiefs,OVERTIME,1,KC,1,9,1,Touchdown Chiefs,"(10:50) (Shotgun) P.Mahomes pass short right to T.Kelce for 8 yards, TOUCHDOWN.",1st & 8 at BUF 8

@@ -1,0 +1,169 @@
+Season,Week,Day,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayStart,PlayTimeFormation,PlayDescription
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,1,Los Angeles Rams,0,1,0,Kickoff from CIN 35,,Kickoff,"— E.McPherson kicks 65 yards from CIN 35 to end zone, Touchback."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,1,Los Angeles Rams,0,2,0,4 Yard Run,1st & 10 at LAR 25,15:00 1st,— C.Akers left tackle to LAR 29 for 4 yards (S.Hubbard).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,1,Los Angeles Rams,0,3,0,7 Yard Pass,2nd & 6 at LAR 29,"14:36 1st No Huddle, Shotgun","— M.Stafford pass short middle to C.Akers to LAR 36 for 7 yards (E.Apple, T.Hendrickson)."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,1,Los Angeles Rams,0,4,0,0 Yard Run,1st & 10 at LAR 36,13:52 1st,— C.Akers left end to LAR 36 for no gain (C.Awuzie).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,1,Los Angeles Rams,0,5,0,-7 Yard Sack,2nd & 10 at LAR 36,13:27 1st Shotgun,— M.Stafford sacked at LAR 29 for -7 yards (T.Hendrickson).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,1,Los Angeles Rams,0,6,0,-3 Yard Run,3rd & 17 at LAR 29,12:43 1st Shotgun,— D.Henderson left end to LAR 26 for -3 yards (B.Hill).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,1,Los Angeles Rams,0,7,0,Punt,4th & 20 at LAR 26,12:04 1st,"— J.Hekker punts 40 yards to CIN 34, Center-M.Orzech. T.Taylor to CIN 42 for 8 yards (M.Hoecht)."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,2,Cincinnati Bengals,0,1,0,8 Yard Pass,1st & 10 at CIN 42,11:54 1st Shotgun,— J.Burrow pass short right to T.Boyd pushed ob at 50 for 8 yards (J.Ramsey).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,2,Cincinnati Bengals,0,2,0,1 Yard Run,2nd & 2 at 50,11:23 1st Shotgun,"— J.Mixon left guard to LAR 49 for 1 yard (A.Robinson, G.Gaines)."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,2,Cincinnati Bengals,0,3,0,0 Yard Run,3rd & 1 at LAR 49,10:39 1st Shotgun,"— S.Perine right guard to LAR 49 for no gain (A.Robinson, G.Gaines)."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,2,Cincinnati Bengals,0,4,0,Pass Incomplete,4th & 1 at LAR 49,10:00 1st Shotgun,— J.Burrow pass incomplete short right to J.Chase (E.Jones).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,3,Los Angeles Rams,1,1,0,-1 Yard Run,1st & 10 at 50,09:57 1st,— C.Akers right guard to LAR 49 for -1 yards (L.Wilson).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,3,Los Angeles Rams,1,2,0,7 Yard Run,2nd & 11 at LAR 49,"09:33 1st No Huddle, Shotgun",— M.Stafford scrambles up the middle to CIN 44 for 7 yards (G.Pratt).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,3,Los Angeles Rams,1,3,0,20 Yard Pass,3rd & 4 at CIN 44,08:46 1st Shotgun,— M.Stafford pass short right to C.Kupp to CIN 24 for 20 yards (G.Pratt).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,3,Los Angeles Rams,1,4,0,4 Yard Run,1st & 10 at CIN 24,07:58 1st,"— D.Henderson left end to CIN 20 for 4 yards (M.Hilton, B.Hill)."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,3,Los Angeles Rams,1,5,0,3 Yard Pass,2nd & 6 at CIN 20,07:13 1st Shotgun,"— M.Stafford pass short left to D.Henderson to CIN 17 for 3 yards (C.Awuzie, K.Kareem)."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,3,Los Angeles Rams,1,6,1,Touchdown,3rd & 3 at CIN 17,06:26 1st Shotgun,"— M.Stafford pass deep right to O.Beckham for 17 yards, TOUCHDOWN."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,3,Los Angeles Rams,1,7,1,Extra Point,,06:22 1st,"— M.Gay extra point is GOOD, Center-M.Orzech, Holder-J.Hekker."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,4,Cincinnati Bengals,0,1,0,Kickoff from LAR 35,,Kickoff,"— M.Gay kicks 65 yards from LAR 35 to end zone, Touchback."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,4,Cincinnati Bengals,0,2,0,0 Yard Pass,1st & 10 at CIN 25,06:22 1st Shotgun,— J.Burrow pass short right to J.Mixon to CIN 25 for no gain (D.Long; T.Reeder).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,4,Cincinnati Bengals,0,3,0,6 Yard Pass,2nd & 10 at CIN 25,05:39 1st Shotgun,— J.Burrow pass short middle to J.Chase to CIN 31 for 6 yards (T.Rapp).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,4,Cincinnati Bengals,0,4,0,Pass Incomplete,3rd & 4 at CIN 31,05:00 1st Shotgun,— J.Burrow pass incomplete deep right to C.Evans.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,4,Cincinnati Bengals,0,5,0,Punt,4th & 4 at CIN 31,04:54 1st,"— K.Huber punts 41 yards to LAR 28, Center-C.Harris, fair catch by B.Powell."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,5,Los Angeles Rams,0,1,0,5 Yard Pass,1st & 10 at LAR 28,04:48 1st,— M.Stafford pass short right to B.Skowronek to LAR 33 for 5 yards (C.Awuzie).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,5,Los Angeles Rams,0,2,0,-5 Yard Penalty,2nd & 5 at LAR 33,04:00 1st Shotgun,"— PENALTY on LAR, Delay of Game, 5 yards, enforced at LAR 33 - No Play."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,5,Los Angeles Rams,0,3,0,3 Yard Run,2nd & 10 at LAR 28,03:34 1st Shotgun,— S.Michel right tackle to LAR 31 for 3 yards (S.Hubbard; G.Pratt).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,5,Los Angeles Rams,0,4,0,4 Yard Pass,3rd & 7 at LAR 31,"03:02 1st No Huddle, Shotgun",— M.Stafford pass short left to V.Jefferson to LAR 35 for 4 yards (C.Awuzie) [S.Hubbard].
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,5,Los Angeles Rams,0,5,0,Punt,4th & 3 at LAR 35,02:23 1st,"— J.Hekker punts 55 yards to CIN 10, Center-M.Orzech. T.Taylor to CIN 30 for 20 yards (B.Howell)."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,6,Cincinnati Bengals,1,1,0,13 Yard Run,1st & 10 at CIN 30,02:09 1st,— J.Mixon left tackle to CIN 43 for 13 yards (D.Williams; E.Weddle).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,6,Cincinnati Bengals,1,2,0,46 Yard Pass,1st & 10 at CIN 43,01:32 1st Shotgun,— J.Burrow pass deep right to J.Chase to LAR 11 for 46 yards (J.Ramsey) [E.Jones].
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,6,Cincinnati Bengals,1,3,0,Pass Incomplete,1st & 10 at LAR 11,00:42 1st Shotgun,— J.Burrow pass incomplete short left to T.Higgins (V.Miller).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,6,Cincinnati Bengals,1,4,0,Pass Incomplete,2nd & 10 at LAR 11,00:38 1st Shotgun,— J.Burrow pass incomplete short right to J.Mixon.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,6,Cincinnati Bengals,1,5,0,Pass Incomplete,3rd & 10 at LAR 11,00:36 1st Shotgun,— J.Burrow pass incomplete short middle to T.Higgins (J.Ramsey).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,1st Quarter,6,Cincinnati Bengals,1,6,1,Field Goal,4th & 10 at LAR 11,00:31 1st,"— E.McPherson 29 yard field goal is GOOD, Center-C.Harris, Holder-K.Huber."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,1,Los Angeles Rams,1,1,0,Kickoff from CIN 35,,Kickoff,"— E.McPherson kicks 65 yards from CIN 35 to end zone, Touchback."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,1,Los Angeles Rams,1,2,0,-1 Yard Run,1st & 10 at LAR 25,00:28 1st,— C.Akers up the middle to LAR 24 for -1 yards (V.Bell).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,1,Los Angeles Rams,1,3,0,Pass Incomplete,2nd & 11 at LAR 24,15:00 2nd Shotgun,— M.Stafford pass incomplete deep middle to C.Kupp [D.Reader].
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,1,Los Angeles Rams,1,4,0,35 Yard Pass,3rd & 11 at LAR 24,14:55 2nd Shotgun,— M.Stafford pass short right to O.Beckham pushed ob at CIN 41 for 35 yards (E.Apple).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,1,Los Angeles Rams,1,5,0,25 Yard Pass,1st & 10 at CIN 41,14:16 2nd,— M.Stafford pass short left to D.Henderson pushed ob at CIN 16 for 25 yards (C.Awuzie).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,1,Los Angeles Rams,1,6,0,5 Yard Run,1st & 10 at CIN 16,13:38 2nd,— D.Henderson left guard to CIN 11 for 5 yards (K.Kareem).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,1,Los Angeles Rams,1,7,0,Timeout,,12:56 2nd,— Timeout #1 by LAR at 12:56.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,1,Los Angeles Rams,1,8,1,Touchdown,2nd & 5 at CIN 11,12:56 2nd,"— M.Stafford pass short right to C.Kupp for 11 yards, TOUCHDOWN."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,1,Los Angeles Rams,1,9,0,2PT Conversion Fails,,12:51 2nd,— (Kick formation) TWO-POINT CONVERSION ATTEMPT. J.Hekker pass to M.Gay is incomplete. ATTEMPT FAILS. DEFENSIVE TWO-POINT ATTEMPT. G.Pratt intercepted the try attempt. ATTEMPT FAILS.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,2,Cincinnati Bengals,1,1,0,Kickoff from LAR 35,,Kickoff,"— M.Gay kicks 65 yards from LAR 35 to end zone, Touchback."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,2,Cincinnati Bengals,1,2,0,11 Yard Pass,1st & 10 at CIN 25,12:51 2nd Shotgun,— J.Burrow pass short middle to T.Boyd to CIN 36 for 11 yards (D.Long).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,2,Cincinnati Bengals,1,3,0,3 Yard Run,1st & 10 at CIN 36,12:15 2nd,"— J.Mixon right tackle to CIN 39 for 3 yards (A.Robinson, D.Williams)."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,2,Cincinnati Bengals,1,4,0,10 Yard Pass,2nd & 7 at CIN 39,11:34 2nd Shotgun,— J.Burrow pass short middle to J.Chase to CIN 49 for 10 yards (E.Weddle).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,2,Cincinnati Bengals,1,5,0,14 Yard Run,1st & 10 at CIN 49,11:02 2nd,— J.Mixon right guard to LAR 37 for 14 yards (E.Jones).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,2,Cincinnati Bengals,1,6,0,4 Yard Run,1st & 10 at LAR 37,10:24 2nd,— J.Mixon left tackle to LAR 33 for 4 yards (E.Jones).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,2,Cincinnati Bengals,1,7,0,0 Yard Pass,2nd & 6 at LAR 33,09:44 2nd Shotgun,— J.Burrow pass short right to J.Mixon to LAR 33 for no gain (D.Long).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,2,Cincinnati Bengals,1,8,0,14 Yard Pass,3rd & 6 at LAR 33,08:58 2nd Shotgun,— J.Burrow pass short right to T.Higgins to LAR 19 for 14 yards (D.Williams; T.Rapp).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,2,Cincinnati Bengals,1,9,0,4 Yard Run,1st & 10 at LAR 19,08:15 2nd,— D.Smith reported in as eligible. J.Mixon right end pushed ob at LAR 15 for 4 yards (D.Williams).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,2,Cincinnati Bengals,1,10,0,4 Yard Pass,2nd & 6 at LAR 15,07:37 2nd Shotgun,— J.Burrow pass short right to J.Mixon to LAR 11 for 4 yards (L.Floyd).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,2,Cincinnati Bengals,1,11,0,4 Yard Run,3rd & 2 at LAR 11,06:59 2nd Shotgun,— J.Chase left end pushed ob at LAR 7 for 4 yards (N.Scott).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,2,Cincinnati Bengals,1,12,0,1 Yard Run,1st & 7 at LAR 7,06:24 2nd,— J.Mixon left guard to LAR 6 for 1 yard (T.Reeder).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,2,Cincinnati Bengals,1,13,1,Touchdown,2nd & 6 at LAR 6,05:52 2nd,"— J.Mixon pass short right to T.Higgins for 6 yards, TOUCHDOWN."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,2,Cincinnati Bengals,1,14,1,Extra Point,,05:47 2nd,"— E.McPherson extra point is GOOD, Center-C.Harris, Holder-K.Huber."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,3,Los Angeles Rams,0,1,0,Kickoff from CIN 35,,Kickoff,"— E.McPherson kicks 65 yards from CIN 35 to end zone, Touchback."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,3,Los Angeles Rams,0,2,0,6 Yard Run,1st & 10 at LAR 25,05:47 2nd,— C.Akers right tackle to LAR 31 for 6 yards (L.Wilson).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,3,Los Angeles Rams,0,3,0,13 Yard Pass,2nd & 4 at LAR 31,05:23 2nd No Huddle,— M.Stafford pass short left to V.Jefferson to LAR 44 for 13 yards (L.Wilson).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,3,Los Angeles Rams,0,4,0,1 Yard Run,1st & 10 at LAR 44,04:38 2nd,— C.Akers up the middle to LAR 45 for 1 yard (J.Bates III).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,3,Los Angeles Rams,0,5,0,Pass Incomplete,2nd & 9 at LAR 45,03:54 2nd Shotgun,— M.Stafford pass incomplete short right to O.Beckham. LAR-O.Beckham was injured during the play. He is Out.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,3,Los Angeles Rams,0,6,0,16 Yard Pass,3rd & 9 at LAR 45,03:50 2nd Shotgun,"— M.Stafford pass short middle to B.Hopkins to CIN 39 for 16 yards (M.Hilton, J.Bates III)."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,3,Los Angeles Rams,0,7,0,-5 Yard Penalty,1st & 10 at CIN 39,03:08 2nd,"— PENALTY on LAR-K.Blanton, False Start, 5 yards, enforced at CIN 39 - No Play."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,3,Los Angeles Rams,0,8,0,Pass Incomplete,1st & 15 at CIN 44,02:46 2nd,— M.Stafford pass incomplete short right.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,3,Los Angeles Rams,0,9,0,1 Yard Run,2nd & 15 at CIN 44,02:40 2nd Shotgun,"— C.Akers left end to CIN 43 for 1 yard (G.Pratt, V.Bell)."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,3,Los Angeles Rams,0,10,0,Interception,3rd & 14 at CIN 43,"02:10 2nd No Huddle, Shotgun","— M.Stafford pass deep left intended for V.Jefferson INTERCEPTED by J.Bates III at CIN -6. Touchback. PENALTY on CIN, Unsportsmanlike Conduct, 10 yards, enforced at CIN 20."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,4,Cincinnati Bengals,0,1,0,5 Yard Pass,1st & 10 at CIN 10,02:00 2nd Shotgun,— J.Burrow pass short right to T.Higgins to CIN 15 for 5 yards (J.Ramsey).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,4,Cincinnati Bengals,0,2,0,6 Yard Pass,2nd & 5 at CIN 15,01:29 2nd Shotgun,— J.Burrow pass short right to C.Uzomah to CIN 21 for 6 yards (T.Rapp).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,4,Cincinnati Bengals,0,3,0,Pass Incomplete,1st & 10 at CIN 21,01:01 2nd Shotgun,— J.Burrow pass incomplete short right.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,4,Cincinnati Bengals,0,4,0,4 Yard Pass,2nd & 10 at CIN 21,00:55 2nd Shotgun,— J.Burrow pass short left to T.Boyd to CIN 25 for 4 yards (D.Long) [E.Jones].
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,4,Cincinnati Bengals,0,5,0,Timeout,,00:48 2nd,— Timeout #1 by CIN at 00:48.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,4,Cincinnati Bengals,0,6,0,-8 Yard Sack,3rd & 6 at CIN 25,00:48 2nd Shotgun,— J.Burrow sacked at CIN 17 for -8 yards (L.Floyd).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,4,Cincinnati Bengals,0,7,0,Timeout,,00:42 2nd,— Timeout #2 by LAR at 00:42.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,4,Cincinnati Bengals,0,8,0,Punt,4th & 14 at CIN 17,00:42 2nd,"— K.Huber punts 51 yards to LAR 32, Center-C.Harris. B.Powell to LAR 41 for 9 yards (Mi.Thomas)."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,5,Los Angeles Rams,0,1,0,Pass Incomplete,1st & 10 at LAR 41,00:30 2nd Shotgun,— M.Stafford pass incomplete deep left to D.Henderson.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,5,Los Angeles Rams,0,2,0,9 Yard Pass,2nd & 10 at LAR 41,00:26 2nd Shotgun,"— M.Stafford pass short right to C.Kupp to 50 for 9 yards (T.Flowers, E.Apple)."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,5,Los Angeles Rams,0,3,0,Timeout,,00:18 2nd,— Timeout #3 by LAR at 00:18.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,5,Los Angeles Rams,0,4,0,Pass Incomplete,3rd & 1 at 50,00:18 2nd Shotgun,— M.Stafford pass incomplete deep left to V.Jefferson.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,5,Los Angeles Rams,0,5,0,Punt,4th & 1 at 50,00:12 2nd,"— J.Hekker punts 50 yards to end zone, Center-M.Orzech, Touchback."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,2nd Quarter,6,Cincinnati Bengals,0,1,0,-1 Yard Run,1st & 10 at CIN 20,00:04 2nd,— J.Burrow kneels to CIN 19 for -1 yards.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,1,Cincinnati Bengals,1,1,0,Kickoff from LAR 35,,Kickoff,"— M.Gay kicks 65 yards from LAR 35 to end zone, Touchback."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,1,Cincinnati Bengals,1,2,1,Touchdown,1st & 10 at CIN 25,15:00 3rd,"— J.Burrow pass deep left to T.Higgins for 75 yards, TOUCHDOWN."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,1,Cincinnati Bengals,1,3,1,Extra Point,,14:48 3rd,"— E.McPherson extra point is GOOD, Center-C.Harris, Holder-K.Huber."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,2,Los Angeles Rams,0,1,0,Kickoff from CIN 35,,Kickoff,— E.McPherson kicks 65 yards from CIN 35 to LAR 0. B.Powell to LAR 17 for 17 yards (M.Bailey).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,2,Los Angeles Rams,0,2,0,Interception,1st & 10 at LAR 17,14:44 3rd Shotgun,— M.Stafford pass short middle intended for B.Skowronek INTERCEPTED by C.Awuzie at LAR 32. C.Awuzie to LAR 31 for 1 yard (B.Skowronek).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,3,Cincinnati Bengals,1,1,0,0 Yard Pass,1st & 10 at LAR 31,14:38 3rd Shotgun,— J.Burrow pass short left to J.Mixon to LAR 31 for no gain (L.Floyd).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,3,Cincinnati Bengals,1,2,0,-1 Yard Sack,2nd & 10 at LAR 31,14:18 3rd Shotgun,— J.Burrow sacked at LAR 32 for -1 yards (A.Donald).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,3,Cincinnati Bengals,1,3,0,10 Yard Pass,3rd & 11 at LAR 32,13:51 3rd Shotgun,"— J.Burrow pass short right to J.Chase to LAR 22 for 10 yards (D.Williams, T.Rapp)."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,3,Cincinnati Bengals,1,4,0,4 Yard Run,4th & 1 at LAR 22,13:09 3rd Shotgun,— J.Burrow scrambles up the middle to LAR 18 for 4 yards (T.Rapp).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,3,Cincinnati Bengals,1,5,0,2 Yard Run,1st & 10 at LAR 18,12:28 3rd,"— J.Mixon left tackle to LAR 16 for 2 yards (O.Okoronkwo, A.Robinson)."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,3,Cincinnati Bengals,1,6,0,5 Yard Pass,2nd & 8 at LAR 16,11:45 3rd Shotgun,— J.Burrow pass short right to C.Uzomah to LAR 11 for 5 yards (D.Williams; T.Rapp).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,3,Cincinnati Bengals,1,7,0,-9 Yard Sack,3rd & 3 at LAR 11,11:03 3rd Shotgun,— J.Burrow sacked at LAR 20 for -9 yards (A.Donald).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,3,Cincinnati Bengals,1,8,1,Field Goal,4th & 12 at LAR 20,10:19 3rd,"— E.McPherson 38 yard field goal is GOOD, Center-C.Harris, Holder-K.Huber."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,4,Los Angeles Rams,1,1,0,Kickoff from CIN 35,,Kickoff,"— E.McPherson kicks 65 yards from CIN 35 to end zone, Touchback."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,4,Los Angeles Rams,1,2,0,2 Yard Run,1st & 10 at LAR 25,10:15 3rd,"— C.Akers right guard to LAR 27 for 2 yards (S.Hubbard, B.Hill)."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,4,Los Angeles Rams,1,3,0,Pass Incomplete,2nd & 8 at LAR 27,"09:52 3rd No Huddle, Shotgun",— M.Stafford pass incomplete short right to C.Kupp.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,4,Los Angeles Rams,1,4,0,15 Yard Pass,3rd & 8 at LAR 27,09:49 3rd Shotgun,— M.Stafford pass short right to D.Henderson pushed ob at LAR 42 for 15 yards (L.Wilson).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,4,Los Angeles Rams,1,5,0,1 Yard Run,1st & 10 at LAR 42,09:08 3rd Shotgun,— D.Henderson up the middle to LAR 43 for 1 yard (G.Pratt).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,4,Los Angeles Rams,1,6,0,13 Yard Pass,2nd & 9 at LAR 43,08:40 3rd Shotgun,— M.Stafford pass short left to C.Kupp to CIN 44 for 13 yards (J.Bates III).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,4,Los Angeles Rams,1,7,0,16 Yard Pass,1st & 10 at CIN 44,08:06 3rd Shotgun,— M.Stafford pass short left to B.Hopkins to CIN 28 for 16 yards (L.Wilson; J.Bates III).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,4,Los Angeles Rams,1,8,0,7 Yard Pass,1st & 10 at CIN 28,07:27 3rd Shotgun,— M.Stafford pass short right to B.Skowronek pushed ob at CIN 21 for 7 yards (E.Apple).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,4,Los Angeles Rams,1,9,0,-2 Yard Run,2nd & 3 at CIN 21,06:51 3rd,— C.Akers up the middle to CIN 23 for -2 yards (S.Hubbard).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,4,Los Angeles Rams,1,10,0,Pass Incomplete,3rd & 5 at CIN 23,06:08 3rd Shotgun,— C.Kupp pass incomplete short right to M.Stafford.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,4,Los Angeles Rams,1,11,1,Field Goal,4th & 5 at CIN 23,06:02 3rd,"— M.Gay 41 yard field goal is GOOD, Center-M.Orzech, Holder-J.Hekker."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,5,Cincinnati Bengals,0,1,0,Kickoff from LAR 35,,Kickoff,"— M.Gay kicks 65 yards from LAR 35 to end zone, Touchback."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,5,Cincinnati Bengals,0,2,0,4 Yard Run,1st & 10 at CIN 25,05:58 3rd Shotgun,"— J.Mixon right end to CIN 29 for 4 yards (A.Donald, E.Jones)."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,5,Cincinnati Bengals,0,3,0,-7 Yard Sack,2nd & 6 at CIN 29,05:24 3rd Shotgun,— J.Burrow sacked at CIN 22 for -7 yards (E.Jones).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,5,Cincinnati Bengals,0,4,0,Pass Incomplete,3rd & 13 at CIN 22,04:42 3rd Shotgun,— J.Burrow pass incomplete short right to J.Chase.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,5,Cincinnati Bengals,0,5,0,Punt,4th & 13 at CIN 22,04:37 3rd,"— K.Huber punts 43 yards to LAR 35, Center-C.Harris. B.Powell to LAR 47 for 12 yards (C.Johnston)."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,6,Los Angeles Rams,0,1,0,-1 Yard Pass,1st & 10 at LAR 47,04:28 3rd,— M.Stafford pass short right to V.Jefferson to LAR 46 for -1 yards (L.Wilson). CIN-C.Awuzie was injured during the play.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,6,Los Angeles Rams,0,2,0,4 Yard Pass,2nd & 11 at LAR 46,03:56 3rd Shotgun,— M.Stafford pass short middle to C.Akers to 50 for 4 yards (L.Wilson) [D.Reader].
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,6,Los Angeles Rams,0,3,0,-6 Yard Sack,3rd & 7 at 50,"03:35 3rd No Huddle, Shotgun",— M.Stafford sacked at LAR 44 for -6 yards (D.Reader).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,6,Los Angeles Rams,0,4,0,Punt,4th & 13 at LAR 44,02:55 3rd,"— J.Hekker punts 40 yards to CIN 16, Center-M.Orzech, out of bounds."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,7,Cincinnati Bengals,0,1,0,-2 Yard Sack,1st & 10 at CIN 16,02:47 3rd Shotgun,— J.Burrow sacked at CIN 14 for -2 yards (A.Robinson).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,7,Cincinnati Bengals,0,2,0,-10 Yard Sack,2nd & 12 at CIN 14,02:09 3rd Shotgun,— J.Burrow sacked at CIN 4 for -10 yards (V.Miller).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,7,Cincinnati Bengals,0,3,0,17 Yard Pass,3rd & 22 at CIN 4,01:23 3rd Shotgun,"— J.Burrow pass short right to M.Thomas to CIN 21 for 17 yards (E.Weddle, J.Ramsey)."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,3rd Quarter,7,Cincinnati Bengals,0,4,0,Punt,4th & 5 at CIN 21,00:43 3rd,"— K.Huber punts 32 yards to LAR 47, Center-C.Harris. B.Powell to LAR 48 for 1 yard (M.Thomas)."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,1,Los Angeles Rams,0,1,0,5 Yard Run,1st & 10 at LAR 48,00:36 3rd,— C.Akers left end pushed ob at CIN 47 for 5 yards (V.Bell).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,1,Los Angeles Rams,0,2,0,-2 Yard Run,2nd & 5 at CIN 47,15:00 4th,— C.Akers left tackle to CIN 49 for -2 yards (S.Hubbard).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,1,Los Angeles Rams,0,3,0,Pass Incomplete,3rd & 7 at CIN 49,14:16 4th Shotgun,— M.Stafford pass incomplete deep right to V.Jefferson (E.Apple).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,1,Los Angeles Rams,0,4,0,Punt,4th & 7 at CIN 49,14:11 4th,"— J.Hekker punts 33 yards to CIN 16, Center-M.Orzech, fair catch by T.Taylor."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,2,Cincinnati Bengals,0,1,0,1 Yard Run,1st & 10 at CIN 16,14:05 4th,— J.Mixon left tackle to CIN 17 for 1 yard (E.Weddle).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,2,Cincinnati Bengals,0,2,0,16 Yard Pass,2nd & 9 at CIN 17,13:14 4th Shotgun,— J.Burrow pass short right to T.Boyd to CIN 33 for 16 yards (T.Rapp).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,2,Cincinnati Bengals,0,3,0,1 Yard Run,1st & 10 at CIN 33,12:38 4th Shotgun,— J.Mixon up the middle to CIN 34 for 1 yard (A.Robinson).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,2,Cincinnati Bengals,0,4,0,Pass Incomplete,2nd & 9 at CIN 34,11:59 4th Shotgun,— J.Burrow pass incomplete short right to T.Higgins (D.Williams).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,2,Cincinnati Bengals,0,5,0,-20 Yard Sack,3rd & 9 at CIN 34,11:55 4th Shotgun,"— J.Burrow sacked at CIN 28 for -6 yards (V.Miller). CIN-J.Burrow was injured during the play. PENALTY on CIN-I.Prince, Unnecessary Roughness, 14 yards, enforced between downs."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,2,Cincinnati Bengals,0,6,0,Punt,4th & 29 at CIN 14,11:38 4th,"— K.Huber punts 54 yards to LAR 32, Center-C.Harris. B.Powell to LAR 35 for 3 yards (T.Flowers, M.Thomas)."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,3,Los Angeles Rams,0,1,0,7 Yard Pass,1st & 10 at LAR 35,11:29 4th Shotgun,— M.Stafford pass short left to V.Jefferson pushed ob at LAR 42 for 7 yards (M.Hilton).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,3,Los Angeles Rams,0,2,0,-1 Yard Run,2nd & 3 at LAR 42,10:55 4th,"— S.Michel right tackle to LAR 41 for -1 yards (L.Wilson, M.Hilton)."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,3,Los Angeles Rams,0,3,0,Pass Incomplete,3rd & 4 at LAR 41,10:11 4th Shotgun,— M.Stafford pass incomplete short left to B.Skowronek.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,3,Los Angeles Rams,0,4,0,Punt,4th & 4 at LAR 41,10:07 4th,"— J.Hekker punts 43 yards to CIN 16, Center-M.Orzech, out of bounds."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,4,Cincinnati Bengals,0,1,0,12 Yard Run,1st & 10 at CIN 16,09:58 4th,"— D.Smith reported in as eligible. J.Mixon up the middle to CIN 28 for 12 yards (L.Floyd, D.Williams)."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,4,Cincinnati Bengals,0,2,0,8 Yard Run,1st & 10 at CIN 28,09:12 4th Shotgun,"— J.Mixon left guard to CIN 36 for 8 yards (E.Jones, L.Floyd)."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,4,Cincinnati Bengals,0,3,0,0 Yard Run,2nd & 2 at CIN 36,08:37 4th,— D.Smith reported in as eligible. J.Mixon left guard to CIN 36 for no gain (J.Hollins).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,4,Cincinnati Bengals,0,4,0,3 Yard Pass,3rd & 2 at CIN 36,08:01 4th Shotgun,— J.Burrow pass short left to C.Evans to CIN 39 for 3 yards (E.Jones).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,4,Cincinnati Bengals,0,5,0,-3 Yard Pass,1st & 10 at CIN 39,07:25 4th Shotgun,— J.Burrow pass short right to J.Mixon pushed ob at CIN 36 for -3 yards (E.Jones).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,4,Cincinnati Bengals,0,6,0,4 Yard Run,2nd & 13 at CIN 36,06:50 4th Shotgun,— J.Mixon right end to CIN 40 for 4 yards (D.Williams). LAR-E.Jones was injured during the play.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,4,Cincinnati Bengals,0,7,0,Pass Incomplete,3rd & 9 at CIN 40,06:23 4th Shotgun,— J.Burrow pass incomplete short left to T.Boyd.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,4,Cincinnati Bengals,0,8,0,Punt,4th & 9 at CIN 40,06:20 4th,"— K.Huber punts 39 yards to LAR 21, Center-C.Harris, fair catch by B.Powell."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,5,Los Angeles Rams,1,1,0,9 Yard Pass,1st & 10 at LAR 21,06:13 4th Shotgun,— M.Stafford pass short right to B.Hopkins to LAR 30 for 9 yards (S.Hubbard).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,5,Los Angeles Rams,1,2,0,Pass Incomplete,2nd & 1 at LAR 30,"05:48 4th No Huddle, Shotgun",— M.Stafford pass incomplete short right to B.Skowronek.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,5,Los Angeles Rams,1,3,0,0 Yard Run,3rd & 1 at LAR 30,05:44 4th,— C.Akers left guard to LAR 30 for no gain (G.Pratt).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,5,Los Angeles Rams,1,4,0,7 Yard Run,4th & 1 at LAR 30,05:00 4th,— C.Kupp right end to LAR 37 for 7 yards (J.Bates III; E.Apple).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,5,Los Angeles Rams,1,5,0,Pass Incomplete,1st & 10 at LAR 37,"04:36 4th No Huddle, Shotgun",— M.Stafford pass incomplete short middle to C.Akers (L.Wilson).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,5,Los Angeles Rams,1,6,0,8 Yard Pass,2nd & 10 at LAR 37,04:31 4th Shotgun,— M.Stafford pass short left to C.Kupp to LAR 45 for 8 yards (V.Bell).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,5,Los Angeles Rams,1,7,0,6 Yard Pass,3rd & 2 at LAR 45,"04:06 4th No Huddle, Shotgun",— M.Stafford pass short right to B.Hopkins to CIN 49 for 6 yards (V.Bell).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,5,Los Angeles Rams,1,8,0,3 Yard Pass,1st & 10 at CIN 49,"03:41 4th No Huddle, Shotgun","— M.Stafford pass short right to C.Akers to CIN 46 for 3 yards (V.Bell, S.Hubbard)."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,5,Los Angeles Rams,1,9,0,22 Yard Pass,2nd & 7 at CIN 46,"03:06 4th No Huddle, Shotgun",— M.Stafford pass short middle to C.Kupp to CIN 24 for 22 yards (J.Bates III).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,5,Los Angeles Rams,1,10,0,8 Yard Pass,1st & 10 at CIN 24,"02:34 4th No Huddle, Shotgun",— M.Stafford pass short right to C.Kupp to CIN 16 for 8 yards (L.Wilson).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,5,Los Angeles Rams,1,11,0,8 Yard Run,2nd & 2 at CIN 16,"02:02 4th No Huddle, Shotgun",— C.Akers up the middle to CIN 8 for 8 yards (G.Pratt; V.Bell).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,5,Los Angeles Rams,1,12,0,Pass Incomplete,1st & 8 at CIN 8,01:55 4th Shotgun,— M.Stafford pass incomplete short right to V.Jefferson.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,5,Los Angeles Rams,1,13,0,Pass Incomplete,2nd & 8 at CIN 8,01:51 4th Shotgun,— M.Stafford pass incomplete short right to D.Henderson.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,5,Los Angeles Rams,1,14,0,4 Yard Penalty,3rd & 8 at CIN 8,01:47 4th Shotgun,"— M.Stafford pass incomplete short middle to C.Kupp (L.Wilson) [D.Reader]. PENALTY on CIN-L.Wilson, Defensive Holding, 4 yards, enforced at CIN 8 - No Play."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,5,Los Angeles Rams,1,15,0,Penalty,1st & 4 at CIN 4,01:44 4th Shotgun,"— M.Stafford pass short right to C.Kupp for 4 yards, TOUCHDOWN NULLIFIED by Penalty. Penalty on LAR-R.Havenstein, Offensive Holding, offsetting, enforced at CIN 4 - No Play. Penalty on CIN-V.Bell, Unnecessary Roughness, offsetting."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,5,Los Angeles Rams,1,16,0,3 Yard Penalty,1st & 4 at CIN 4,01:38 4th Shotgun,"— M.Stafford pass incomplete short right to C.Kupp. PENALTY on CIN-E.Apple, Defensive Pass Interference, 3 yards, enforced at CIN 4 - No Play."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,5,Los Angeles Rams,1,17,0,0 Yard Run,1st & 1 at CIN 1,01:35 4th,— M.Stafford up the middle to CIN 1 for no gain (G.Pratt; S.Hubbard).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,5,Los Angeles Rams,1,18,0,Timeout,,01:29 4th,— Timeout #1 by CIN at 01:29.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,5,Los Angeles Rams,1,19,1,Touchdown,2nd & 1 at CIN 1,01:29 4th,"— M.Stafford pass short right to C.Kupp for 1 yard, TOUCHDOWN."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,5,Los Angeles Rams,1,20,1,Extra Point,,01:25 4th,"— M.Gay extra point is GOOD, Center-M.Orzech, Holder-J.Hekker."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,6,Cincinnati Bengals,0,1,0,Kickoff from LAR 35,,Kickoff,"— M.Gay kicks 65 yards from LAR 35 to end zone, Touchback."
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,6,Cincinnati Bengals,0,2,0,17 Yard Pass,1st & 10 at CIN 25,01:25 4th Shotgun,— J.Burrow pass short left to J.Chase ran ob at CIN 42 for 17 yards (N.Scott).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,6,Cincinnati Bengals,0,3,0,9 Yard Pass,1st & 10 at CIN 42,01:19 4th Shotgun,— J.Burrow pass short middle to T.Boyd to LAR 49 for 9 yards (E.Weddle) [V.Miller].
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,6,Cincinnati Bengals,0,4,0,Pass Incomplete,2nd & 1 at LAR 49,"00:54 4th No Huddle, Shotgun",— J.Burrow pass incomplete deep right to J.Chase.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,6,Cincinnati Bengals,0,5,0,0 Yard Run,3rd & 1 at LAR 49,00:48 4th Shotgun,— S.Perine right tackle to LAR 49 for no gain (G.Gaines; A.Donald).
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,6,Cincinnati Bengals,0,6,0,Timeout,,00:43 4th,— Timeout #2 by CIN at 00:43.
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,6,Cincinnati Bengals,0,7,0,Pass Incomplete,4th & 1 at LAR 49,00:43 4th Shotgun,— J.Burrow pass incomplete short right to S.Perine [A.Donald].
+2021,Super Bowl,SUN,02/13,Rams,Bengals,4th Quarter,7,Los Angeles Rams,0,1,0,-1 Yard Run,1st & 10 at LAR 49,00:39 4th,— M.Stafford kneels to LAR 48 for -1 yards.

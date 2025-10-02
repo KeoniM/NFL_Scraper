@@ -1,0 +1,118 @@
+Season,Week,Day,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayDescription,PlayStart
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,1,HOU,1,1,0,Kickoff,C.Santos kicks 60 yards from CHI 35 to HOU 5. S.Sims to HOU 26 for 21 yards (Q.Johnson; C.Johnson).,Kickoff from CHI 35
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,1,HOU,1,2,0,6 Yard Pass,(14:55) D.Mills pass short right to X.Hutchinson to HOU 32 for 6 yards (M.Baskerville; P.Moala).,1st & 10 at HOU 26
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,1,HOU,1,3,0,8 Yard Run,(14:21) D.Ogunbowale right guard to HOU 40 for 8 yards (T.Moore).,2nd & 4 at HOU 32
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,1,HOU,1,4,0,Pass Incomplete,(13:47) D.Mills pass incomplete short middle to X.Hutchinson.,1st & 10 at HOU 40
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,1,HOU,1,5,0,12 Yard Pass,(13:43) (Shotgun) D.Mills pass short right to T.Quitoriano to CHI 48 for 12 yards (A.Ogbongbemiga).,2nd & 10 at HOU 40
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,1,HOU,1,6,0,3 Yard Run,(13:07) D.Ogunbowale up the middle to CHI 45 for 3 yards (Z.Pickens).,1st & 10 at CHI 48
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,1,HOU,1,7,0,Pass Incomplete,(12:32) D.Mills pass incomplete short left to B.Skowronek.,2nd & 7 at CHI 45
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,1,HOU,1,8,0,6 Yard Pass,(12:27) (Shotgun) D.Mills pass short right to D.Ogunbowale to CHI 39 for 6 yards (A.Ogbongbemiga; J.Jones).,3rd & 7 at CHI 45
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,1,HOU,1,9,0,3 Yard Run,(11:51) D.Ogunbowale up the middle to CHI 36 for 3 yards (T.Moore).,4th & 1 at CHI 39
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,1,HOU,1,10,0,11 Yard Pass,(11:15) (Shotgun) D.Mills pass short right to C.Stover to CHI 25 for 11 yards (J.Jones; A.Ogbongbemiga).,1st & 10 at CHI 36
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,1,HOU,1,11,0,8 Yard Run,(10:41) X.Hutchinson left end pushed ob at CHI 17 for 8 yards (T.Smith).,1st & 10 at CHI 25
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,1,HOU,1,12,0,-2 Yard Run,(10:06) (Shotgun) D.Mills right tackle to CHI 19 for -2 yards (K.Kareem).,2nd & 2 at CHI 17
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,1,HOU,1,13,0,5 Yard Penalty,"(9:29) (Shotgun) D.Mills pass incomplete deep right to D.Ogunbowale.
+PENALTY on CHI-M.Baskerville, Defensive Holding, 5 yards, enforced at CHI 19 - No Play.",3rd & 4 at CHI 19
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,1,HOU,1,14,0,5 Yard Run,(9:25) J.Taylor right tackle to CHI 9 for 5 yards (E.Hicks).,1st & 10 at CHI 14
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,1,HOU,1,15,0,Touchdown Texans,"(8:45) (Shotgun) D.Mills pass short right to T.Quitoriano for 9 yards, TOUCHDOWN.",2nd & 5 at CHI 9
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,1,HOU,1,16,1,Extra Point Good,"K.Fairbairn extra point is GOOD, Center-J.Weeks, Holder-T.Townsend.",XP attempt from CHI 15
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,2,CHI,0,1,0,Kickoff,K.Fairbairn kicks 58 yards from HOU 35 to CHI 7. T.Scott to CHI 26 for 19 yards (B.Brooks).,Kickoff from HOU 35
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,2,CHI,0,2,0,9 Yard Run,"(8:35) R.Johnson left tackle to CHI 35 for 9 yards (J.Hansen, C.Bullock).",1st & 10 at CHI 26
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,2,CHI,0,3,0,3 Yard Run,(8:03) R.Johnson left end pushed ob at CHI 38 for 3 yards (D.Ross).,2nd & 1 at CHI 35
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,2,CHI,0,4,0,Pass Incomplete,(7:32) T.Bagent pass incomplete short middle.,1st & 10 at CHI 38
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,2,CHI,0,5,0,7 Yard Pass,(7:27) T.Bagent pass short left to R.Johnson pushed ob at CHI 45 for 7 yards (D.Phillips; C.Bullock).,2nd & 10 at CHI 38
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,2,CHI,0,6,0,9 Yard Pass,(6:50) (Shotgun) T.Bagent pass short left to S.Carlson to HOU 46 for 9 yards (D.Ross).,3rd & 3 at CHI 45
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,2,CHI,0,7,0,4 Yard Run,(6:11) T.Scott right end to HOU 42 for 4 yards (M.Stewart).,1st & 10 at HOU 46
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,2,CHI,0,8,0,5 Yard Run,(5:32) (Shotgun) R.Johnson right guard to HOU 37 for 5 yards (M.Ford).,2nd & 6 at HOU 42
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,2,CHI,0,9,0,Run for No Gain,(4:55) R.Johnson right guard to HOU 37 for no gain (M.Agim).,3rd & 1 at HOU 37
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,2,CHI,0,10,0,-5 Yard Penalty,"(4:11) (Shotgun) PENALTY on CHI-T.Sweeney, False Start, 5 yards, enforced at HOU 37 - No Play.",4th & 1 at HOU 37
+2024,Hall Of Fame,THU,08/01,Texans,Bears,1ST QUARTER,2,CHI,0,11,0,Punt,"(4:05) C.Waitman punts 31 yards to HOU 11, Center-C.Lyons, fair catch by M.Bryant.",4th & 6 at HOU 42
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,1,HOU,1,1,0,Run for No Gain,(3:58) J.Taylor right guard to HOU 11 for no gain (E.Hicks).,1st & 10 at HOU 11
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,1,HOU,1,2,0,9 Yard Pass,(3:14) (Shotgun) D.Mills pass short left to X.Hutchinson to HOU 20 for 9 yards (A.Colbert).,2nd & 10 at HOU 11
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,1,HOU,1,3,0,10 Yard Run,(2:37) J.Taylor up the middle to HOU 30 for 10 yards (E.Hicks).,3rd & 1 at HOU 20
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,1,HOU,1,4,0,3 Yard Run,(1:57) J.Taylor left guard to HOU 33 for 3 yards (B.Cowart).,1st & 10 at HOU 30
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,1,HOU,1,5,0,27 Yard Pass,(1:18) D.Mills pass deep middle to B.Skowronek to CHI 40 for 27 yards (J.Jones).,2nd & 7 at HOU 33
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,1,HOU,1,6,0,Pass Incomplete,(:33) (Shotgun) D.Mills pass incomplete short left to S.Sims.,1st & 10 at CHI 40
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,1,HOU,1,7,0,3 Yard Pass,(:29) (Shotgun) D.Mills pass short right to X.Hutchinson to CHI 37 for 3 yards (E.Hicks).,2nd & 10 at CHI 40
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,1,HOU,1,8,0,15 Yard Pass,"(15:00) (Shotgun) D.Mills pass short right to D.Ogunbowale to CHI 22 for 15 yards (C.Jones, A.Colbert).",3rd & 7 at CHI 37
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,1,HOU,1,9,0,1 Yard Run,(14:21) J.Taylor left tackle to CHI 21 for 1 yard (K.Kareem).,1st & 10 at CHI 22
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,1,HOU,1,10,0,2 Yard Run,(13:41) D.Mills scrambles right end ran ob at CHI 19 for 2 yards (C.Jones).,2nd & 9 at CHI 21
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,1,HOU,1,11,0,4 Yard Pass,(13:00) (Shotgun) D.Mills pass short left to B.Skowronek to CHI 15 for 4 yards (T.Moore).,3rd & 7 at CHI 19
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,1,HOU,1,12,1,Field Goal,"(12:16) K.Fairbairn 33 yard field goal is GOOD, Center-J.Weeks, Holder-T.Townsend.",4th & 3 at CHI 15
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,2,CHI,1,1,0,Kickoff,"K.Fairbairn kicks 66 yards from HOU 35 to CHI -1. T.Scott to CHI 20 for 21 yards (J.Hansen).
+Penalty on CHI-J.White, Illegal Formation, declined.",Kickoff from HOU 35
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,2,CHI,1,2,0,4 Yard Run,(12:10) K.Herbert left tackle to CHI 24 for 4 yards (N.Hewitt; M.Stewart).,1st & 10 at CHI 20
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,2,CHI,1,3,0,9 Yard Run,(11:32) (Shotgun) B.Rypien scrambles left guard to CHI 33 for 9 yards (C.Bullock).,2nd & 6 at CHI 24
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,2,CHI,1,4,0,3 Yard Run,(10:55) K.Herbert left end to CHI 36 for 3 yards (M.Bryant).,1st & 10 at CHI 33
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,2,CHI,1,5,0,18 Yard Pass,"(10:17) (Shotgun) B.Rypien pass short middle to T.Sweeney to HOU 46 for 18 yards (C.Bullock). FUMBLES (C.Bullock), touched at HOU 42, recovered by CHI-J.Carvin at HOU 48.",2nd & 7 at CHI 36
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,2,CHI,1,6,0,Pass Incomplete,(9:46) B.Rypien pass incomplete deep left to C.Johnson [M.Fisher].,1st & 10 at HOU 48
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,2,CHI,1,7,0,19 Yard Run,(9:40) (Shotgun) K.Herbert up the middle to HOU 29 for 19 yards (C.Bullock).,2nd & 10 at HOU 48
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,2,CHI,1,8,0,9 Yard Run,(9:01) K.Herbert left guard to HOU 20 for 9 yards (M.Fisher; M.Stewart).,1st & 10 at HOU 29
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,2,CHI,1,9,0,Touchdown Bears,"(8:28) (Shotgun) B.Rypien pass deep left to C.Johnson for 20 yards, TOUCHDOWN.",2nd & 1 at HOU 20
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,2,CHI,1,10,1,Extra Point Good,"C.Santos extra point is GOOD, Center-P.Scales, Holder-T.Taylor.",XP attempt from HOU 15
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,3,HOU,0,1,0,Kickoff,C.Santos kicks 59 yards from CHI 35 to HOU 6. J.Jordan to HOU 21 for 15 yards (A.Colbert).,Kickoff from CHI 35
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,3,HOU,0,2,0,4 Yard Pass,(8:18) (Shotgun) C.Keenum pass short right to J.Metchie to HOU 25 for 4 yards (T.Moore).,1st & 10 at HOU 21
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,3,HOU,0,3,0,2 Yard Run,(7:46) C.Akers left end to HOU 27 for 2 yards (Z.Pickens; C.Jones).,2nd & 6 at HOU 25
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,3,HOU,0,4,0,Pass Incomplete,(7:08) (Shotgun) C.Keenum pass incomplete short left to J.Metchie (L.Jones).,3rd & 4 at HOU 27
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,3,HOU,0,5,0,Punt,"(7:03) T.Townsend punts 66 yards to CHI 7, Center-J.Weeks. D.Carter pushed ob at CHI 16 for 9 yards (B.Hill).",4th & 4 at HOU 27
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,4,CHI,0,1,0,3 Yard Pass,(6:51) B.Rypien pass short right to F.Swain ran ob at CHI 19 for 3 yards.,1st & 10 at CHI 16
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,4,CHI,0,2,0,2 Yard Run,(6:15) R.Johnson right tackle to CHI 21 for 2 yards (N.Hewitt).,2nd & 7 at CHI 19
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,4,CHI,0,3,0,Pass Incomplete,(5:38) (Shotgun) B.Rypien pass incomplete deep left to D.Pettis.,3rd & 5 at CHI 21
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,4,CHI,0,4,0,Punt,"(5:33) C.Waitman punts 49 yards to HOU 30, Center-C.Lyons, out of bounds.",4th & 5 at CHI 21
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,5,HOU,1,1,0,3 Yard Pass,(5:26) C.Keenum pass short left to T.Hairston to HOU 33 for 3 yards (A.Colbert).,1st & 10 at HOU 30
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,5,HOU,1,2,0,7 Yard Run,(4:48) C.Akers up the middle to HOU 40 for 7 yards (C.Jones).,2nd & 7 at HOU 33
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,5,HOU,1,3,0,Run for No Gain,"(4:12) (Shotgun) C.Akers up the middle to HOU 40 for no gain (J.Blackwell, M.Baskerville).",1st & 10 at HOU 40
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,5,HOU,1,4,0,18 Yard Pass,(3:31) (Shotgun) C.Keenum pass short middle to X.Hutchinson to CHI 42 for 18 yards (L.Jones).,2nd & 10 at HOU 40
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,5,HOU,1,5,0,-1 Yard Run,(2:52) C.Akers right tackle to CHI 43 for -1 yards (C.Jones).,1st & 10 at CHI 42
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,5,HOU,1,6,0,14 Yard Pass,"(2:23) (Shotgun) J.Patterson to CHI 48 for -5 yards. FUMBLES, recovered by HOU-C.Keenum at CHI 49. C.Keenum pass short right to C.Akers to CHI 29 for 14 yards (A.Booker).",2nd & 11 at CHI 43
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,5,HOU,1,7,0,20 Yard Pass,(2:00) (Shotgun) C.Keenum pass deep right to X.Hutchinson ran ob at CHI 9 for 20 yards.,1st & 10 at CHI 29
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,5,HOU,1,8,0,5 Yard Run,(1:55) (Shotgun) C.Akers right guard to CHI 4 for 5 yards (J.Blackwell; C.Jones).,1st & 9 at CHI 9
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,5,HOU,1,9,0,Touchdown Texans,"(1:50) (Shotgun) C.Keenum pass short left to C.Akers for 4 yards, TOUCHDOWN.",2nd & 4 at CHI 4
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,5,HOU,1,10,1,Extra Point Good,"K.Fairbairn extra point is GOOD, Center-J.Weeks, Holder-T.Townsend.",XP attempt from CHI 15
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,6,CHI,1,1,0,Kickoff,K.Fairbairn kicks 65 yards from HOU 35 to CHI 0. J.Jackson to CHI 28 for 28 yards (D.Ross; A.Gaye).,Kickoff from HOU 35
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,6,CHI,1,2,0,7 Yard Pass,(1:38) (Shotgun) B.Rypien pass short middle to T.Sweeney to CHI 35 for 7 yards (J.Hill; L.Johnson).,1st & 10 at CHI 28
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,6,CHI,1,3,0,5 Yard Run,"(1:22) (No Huddle, Shotgun) R.Johnson up the middle to CHI 40 for 5 yards (J.Phillips, L.Johnson).",2nd & 3 at CHI 35
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,6,CHI,1,4,0,27 Yard Pass,"(1:04) (No Huddle, Shotgun) B.Rypien pass deep right to C.Johnson to HOU 33 for 27 yards (M.Ford) [M.Fisher].",1st & 10 at CHI 40
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,6,CHI,1,5,0,11 Yard Pass,(:56) (Shotgun) B.Rypien pass short left to D.Pettis ran ob at HOU 22 for 11 yards [K.Davis].,1st & 10 at HOU 33
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,6,CHI,1,6,0,Touchdown Bears,"(:51) (No Huddle, Shotgun) B.Rypien pass deep middle to T.Sweeney for 22 yards, TOUCHDOWN.",1st & 10 at HOU 22
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,6,CHI,1,7,1,Extra Point Good,"C.Santos extra point is GOOD, Center-P.Scales, Holder-T.Taylor.",XP attempt from HOU 15
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,7,HOU,0,1,0,Kickoff,C.Santos kicks 63 yards from CHI 35 to HOU 2. J.Johnson to HOU 26 for 24 yards (K.Kareem; C.Jones).,Kickoff from CHI 35
+2024,Hall Of Fame,THU,08/01,Texans,Bears,2ND QUARTER,7,HOU,0,2,0,-3 Yard Run,(:40) J.Taylor left end to HOU 23 for -3 yards (D.Hardy).,1st & 10 at HOU 26
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,1,CHI,1,1,0,Kickoff,"K.Fairbairn kicks 64 yards from HOU 35 to CHI 1. J.Jackson to CHI 32 for 31 yards (J.Phillips).
+Penalty on CHI-F.Swain, Illegal Formation, declined.",Kickoff from HOU 35
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,1,CHI,1,2,0,2 Yard Pass,(14:54) (Shotgun) B.Rypien pass short left to F.Swain pushed ob at CHI 34 for 2 yards (K.Boyd).,1st & 10 at CHI 32
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,1,CHI,1,3,0,20 Yard Pass,(14:15) (Shotgun) B.Rypien pass short middle to B.Bates to HOU 46 for 20 yards (J.Phillips).,2nd & 8 at CHI 34
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,1,CHI,1,4,0,5 Yard Run,(13:43) D.Felton left guard to HOU 41 for 5 yards (M.Harris).,1st & 10 at HOU 46
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,1,CHI,1,5,0,Pass Incomplete,"(12:56) (Shotgun) B.Rypien pass deep right to C.Johnson to HOU 20 for 21 yards (T.Pride).
+Houston challenged the pass completion ruling, and the play was REVERSED.
+(Shotgun) B.Rypien pass incomplete deep right to C.Johnson (T.Pride).",2nd & 5 at HOU 41
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,1,CHI,1,6,0,27 Yard Pass,(12:51) (Shotgun) B.Rypien pass short middle to B.Bates to HOU 14 for 27 yards (L.Johnson; B.Hill). HOU-L.Johnson was injured during the play.,3rd & 5 at HOU 41
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,1,CHI,1,7,0,5 Yard Run,(12:32) (Shotgun) D.Felton left guard to HOU 9 for 5 yards (M.Bryant).,1st & 10 at HOU 14
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,1,CHI,1,8,0,Pass Incomplete,(11:49) (Shotgun) B.Rypien pass incomplete short right to C.Johnson.,2nd & 5 at HOU 9
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,1,CHI,1,9,0,Touchdown Bears,"(11:44) (Shotgun) B.Rypien pass short left to C.Johnson for 9 yards, TOUCHDOWN.",3rd & 5 at HOU 9
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,1,CHI,1,10,1,Extra Point Good,"C.Santos extra point is GOOD, Center-P.Scales, Holder-T.Taylor.",XP attempt from HOU 15
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,2,HOU,0,1,0,Kickoff,"C.Santos kicks 65 yards from CHI 35 to end zone, Touchback to the HOU 30.",Kickoff from CHI 35
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,2,HOU,0,2,0,-9 Yard Run,"(11:39) J.Jordan right tackle to HOU 31 for 1 yard (K.Kareem; C.Jones).
+PENALTY on HOU-B.Skowronek, Offensive Holding, 10 yards, enforced at HOU 31.",1st & 10 at HOU 30
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,2,HOU,0,3,0,-7 Yard Sack,"(11:21) C.Keenum sacked at HOU 14 for -7 yards (B.Cowart). FUMBLES (B.Cowart), recovered by HOU-K.Zierer at HOU 14.",1st & 19 at HOU 21
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,2,HOU,0,4,0,Pass Incomplete,(10:49) (Shotgun) C.Keenum pass incomplete short right to C.Stover (L.Jones).,2nd & 26 at HOU 14
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,2,HOU,0,5,0,15 Yard Pass,"(10:43) (Shotgun) C.Keenum pass short right to C.Stover to HOU 29 for 15 yards (P.Moala, Q.Johnson).",3rd & 26 at HOU 14
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,2,HOU,0,6,0,Punt,"(10:00) T.Townsend punts 49 yards to CHI 22, Center-J.Weeks, fair catch by D.Pettis.",4th & 11 at HOU 29
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,3,CHI,0,1,0,4 Yard Run,"(9:51) D.Felton right tackle to CHI 26 for 4 yards (M.Agim, M.Bryant).",1st & 10 at CHI 22
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,3,CHI,0,2,0,1 Yard Pass,(9:15) A.Reed pass short right to D.Felton to CHI 27 for 1 yard (M.Tooley).,2nd & 6 at CHI 26
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,3,CHI,0,3,0,-5 Yard Penalty,"(8:30) (Shotgun) PENALTY on CHI-D.Kramer, False Start, 5 yards, enforced at CHI 27 - No Play.",3rd & 5 at CHI 27
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,3,CHI,0,4,0,9 Yard Pass,(8:11) (Shotgun) A.Reed pass short middle to D.Felton to CHI 31 for 9 yards (M.Tooley; B.Hill).,3rd & 10 at CHI 22
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,3,CHI,0,5,0,Punt,"(7:23) C.Waitman punts 52 yards to HOU 17, Center-C.Lyons. J.Taylor to HOU 26 for 9 yards (A.Colbert).
+PENALTY on HOU-J.Johnson, Illegal Block Above the Waist, 10 yards, enforced at HOU 21.",4th & 1 at CHI 31
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,4,HOU,0,1,0,Run for No Gain,(7:12) (Shotgun) J.Jordan up the middle to HOU 11 for no gain (J.White; R.Steward).,1st & 10 at HOU 11
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,4,HOU,0,2,0,20 Yard Pass,(6:35) (Shotgun) T.Boyle pass deep right to S.Sims ran ob at HOU 31 for 20 yards.,2nd & 10 at HOU 11
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,4,HOU,0,3,0,Pass Incomplete,(6:19) T.Boyle pass incomplete short right to S.Sims.,1st & 10 at HOU 31
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,4,HOU,0,4,0,-5 Yard Penalty,"(6:14) PENALTY on HOU-T.Hairston, False Start, 5 yards, enforced at HOU 31 - No Play.",2nd & 10 at HOU 31
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,4,HOU,0,5,0,-5 Yard Penalty,"(6:14) (Shotgun) PENALTY on HOU-D.Eiselen, False Start, 5 yards, enforced at HOU 26 - No Play.",2nd & 15 at HOU 26
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,4,HOU,0,6,0,4 Yard Run,(6:14) (Shotgun) J.Jordan up the middle to HOU 25 for 4 yards (P.Moala).,2nd & 20 at HOU 21
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,4,HOU,0,7,0,-3 Yard Pass,(5:36) (Shotgun) T.Boyle pass short left to B.Skowronek to HOU 22 for -3 yards (J.Blackwell).,3rd & 16 at HOU 25
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,4,HOU,0,8,0,Fumble,"(4:40) T.Townsend punts 42 yards to CHI 36, Center-J.Weeks. D.Pettis MUFFS catch, touched at CHI 38, RECOVERED by HOU-J.Taylor at CHI 38.",4th & 19 at HOU 22
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,5,HOU,0,1,0,Pass Incomplete,(4:28) T.Boyle pass incomplete deep middle to J.Johnson.,1st & 10 at CHI 38
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,5,HOU,0,2,0,-2 Yard Run,(4:23) B.Brooks right guard to CHI 40 for -2 yards (B.Cowart).,2nd & 10 at CHI 38
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,5,HOU,0,3,0,Pass Incomplete,(3:41) (Shotgun) T.Boyle pass incomplete short right to B.Brooks.,3rd & 12 at CHI 40
+2024,Hall Of Fame,THU,08/01,Texans,Bears,3RD QUARTER,5,HOU,0,4,0,Field Goal No Good,"(3:36) K.Fairbairn 58 yard field goal is No Good, Wide Right, Center-J.Weeks, Holder-T.Townsend.",4th & 12 at CHI 40

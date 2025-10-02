@@ -1,0 +1,189 @@
+Season,Week,Day,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayDescription,PlayStart
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,1,PHI,1,1,0,Kickoff,S.Gostkowski kicks 64 yards from NE 35 to PHI 1. C.Clement pushed ob at PHI 26 for 25 yards (P.Chung).,Kickoff from NE 35
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,1,PHI,1,2,0,4 Yard Pass,(14:54) N.Foles pass short right to N.Agholor to PHI 30 for 4 yards (K.Van Noy).,1st & 10 at PHI 26
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,1,PHI,1,3,0,2 Yard Pass,(14:20) (Shotgun) N.Foles pass short right to N.Agholor to PHI 32 for 2 yards (S.Gilmore).,2nd & 6 at PHI 30
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,1,PHI,1,4,0,17 Yard Pass,(13:37) (Shotgun) N.Foles pass short left to A.Jeffery ran ob at PHI 49 for 17 yards (E.Rowe).,3rd & 4 at PHI 32
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,1,PHI,1,5,0,-2 Yard Run,(13:12) L.Blount right tackle to PHI 47 for -2 yards (K.Van Noy).,1st & 10 at PHI 49
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,1,PHI,1,6,0,Pass Incomplete,(12:36) (Shotgun) N.Foles pass incomplete deep right to T.Smith (D.McCourty).,2nd & 12 at PHI 47
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,1,PHI,1,7,0,15 Yard Pass,(12:30) (Shotgun) N.Foles pass short middle to T.Smith to NE 38 for 15 yards (E.Rowe).,3rd & 12 at PHI 47
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,1,PHI,1,8,0,7 Yard Pass,(11:47) (Shotgun) N.Foles pass short middle to Z.Ertz to NE 31 for 7 yards (P.Chung).,1st & 10 at NE 38
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,1,PHI,1,9,0,4 Yard Run,(11:07) (Shotgun) J.Ajayi right end to NE 27 for 4 yards (J.Harrison; E.Roberts).,2nd & 3 at NE 31
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,1,PHI,1,10,0,6 Yard Run,(10:29) (Shotgun) J.Ajayi right tackle to NE 21 for 6 yards (K.Van Noy).,1st & 10 at NE 27
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,1,PHI,1,11,0,16 Yard Pass,"(9:51) (Shotgun) N.Foles pass short right to C.Clement to NE 5 for 16 yards (E.Roberts, D.Harmon).",2nd & 4 at NE 21
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,1,PHI,1,12,0,3 Yard Run,(9:07) I.Seumalo reported in as eligible.  L.Blount right guard to NE 2 for 3 yards (L.Guy).,1st & 5 at NE 5
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,1,PHI,1,13,0,-5 Yard Penalty,"(8:30) PENALTY on PHI-Z.Ertz, False Start, 5 yards, enforced at NE 2 - No Play.",2nd & 2 at NE 2
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,1,PHI,1,14,0,Pass Incomplete,(8:09) (Shotgun) N.Foles pass incomplete short left to N.Agholor.,2nd & 7 at NE 7
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,1,PHI,1,15,0,Pass Incomplete,(8:03) N.Foles pass incomplete short left to A.Jeffery (E.Rowe).,3rd & 7 at NE 7
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,1,PHI,1,16,1,Field Goal,"(7:58) J.Elliott 25 yard field goal is GOOD, Center-R.Lovato, Holder-D.Jones.",4th & 7 at NE 7
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,2,NE,1,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.",Kickoff from PHI 35
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,2,NE,1,2,0,Pass Incomplete,(7:55) T.Brady pass incomplete short left to B.Cooks.,1st & 10 at NE 25
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,2,NE,1,3,0,15 Yard Pass,(7:52) (Shotgun) T.Brady pass short left to J.White pushed ob at NE 40 for 15 yards (M.Jenkins).,2nd & 10 at NE 25
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,2,NE,1,4,0,5 Yard Penalty,"(7:36) (No Huddle, Shotgun) T.Brady pass short left to J.White to NE 44 for 4 yards (N.Bradham).
+PENALTY on PHI-P.Robinson, Defensive 12 On-field, 5 yards, enforced at NE 40 - No Play.",1st & 10 at NE 40
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,2,NE,1,5,0,28 Yard Pass,(7:15) T.Brady pass short left to C.Hogan to PHI 27 for 28 yards (C.Graham; R.McLeod).,1st & 5 at NE 45
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,2,NE,1,6,0,4 Yard Run,(6:45) (No Huddle) C.Hogan left end pushed ob at PHI 23 for 4 yards (J.Mills).,1st & 10 at PHI 27
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,2,NE,1,7,0,9 Yard Pass,(6:20) T.Brady pass short middle to R.Gronkowski to PHI 14 for 9 yards (R.McLeod).,2nd & 6 at PHI 23
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,2,NE,1,8,0,6 Yard Pass,(5:39) (Shotgun) T.Brady pass short middle to J.White to PHI 8 for 6 yards (N.Bradham).,1st & 10 at PHI 14
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,2,NE,1,9,0,Run for No Gain,(5:07) J.White up the middle to PHI 8 for no gain (N.Bradham).,2nd & 4 at PHI 8
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,2,NE,1,10,0,Pass Incomplete,(4:25) (Shotgun) T.Brady pass incomplete short middle to R.Gronkowski (J.Mills).,3rd & 4 at PHI 8
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,2,NE,1,11,1,Field Goal,"(4:20) S.Gostkowski 26 yard field goal is GOOD, Center-J.Cardona, Holder-R.Allen.",4th & 4 at PHI 8
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,3,PHI,1,1,0,Kickoff,S.Gostkowski kicks 63 yards from NE 35 to PHI 2. K.Barner to PHI 23 for 21 yards (B.King; J.Richards).,Kickoff from NE 35
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,3,PHI,1,2,0,7 Yard Pass,(4:12) (Shotgun) N.Foles pass short left to N.Agholor to PHI 30 for 7 yards (E.Rowe).,1st & 10 at PHI 23
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,3,PHI,1,3,0,36 Yard Run,(3:31) (Shotgun) L.Blount up the middle to NE 34 for 36 yards (D.Harmon).,2nd & 3 at PHI 30
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,3,PHI,1,4,0,Touchdown Eagles,"(2:41) N.Foles pass deep left to A.Jeffery for 34 yards, TOUCHDOWN.",1st & 10 at NE 34
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,1ST QUARTER,3,PHI,1,5,1,Extra Point No Good,"J.Elliott extra point is No Good, Wide Right, Center-R.Lovato, Holder-D.Jones.",XP attempt from NE 15
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,1,NE,0,1,0,Kickoff,J.Elliott kicks 64 yards from PHI 35 to NE 1. D.Lewis to NE 18 for 17 yards (N.Goode). NE-M.Flowers was injured during the play.,Kickoff from PHI 35
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,1,NE,0,2,0,8 Yard Run,(2:30) D.Lewis up the middle to NE 26 for 8 yards (M.Kendricks).,1st & 10 at NE 18
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,1,NE,0,3,0,-5 Yard Penalty,"(2:02) (No Huddle) PENALTY on NE-R.Gronkowski, False Start, 5 yards, enforced at NE 26 - No Play.",2nd & 2 at NE 26
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,1,NE,0,4,0,Pass Incomplete,(1:46) T.Brady pass incomplete deep middle to C.Hogan.,2nd & 7 at NE 21
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,1,NE,0,5,0,50 Yard Pass,(1:41) (Shotgun) T.Brady pass deep left to D.Amendola to PHI 29 for 50 yards (R.Darby).,3rd & 7 at NE 21
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,1,NE,0,6,0,12 Yard Pass,(1:02) (No Huddle) T.Brady pass short right to C.Hogan to PHI 17 for 12 yards (J.Mills).,1st & 10 at PHI 29
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,1,NE,0,7,0,6 Yard Run,(:39) (No Huddle) J.White left guard to PHI 11 for 6 yards (R.McLeod).,1st & 10 at PHI 17
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,1,NE,0,8,0,2 Yard Run,(:09) (No Huddle) J.White up the middle to PHI 9 for 2 yards (N.Bradham; C.Graham).,2nd & 4 at PHI 11
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,1,NE,0,9,0,1 Yard Run,(15:00) B.Cooks right end to PHI 8 for 1 yard (R.McLeod).,3rd & 2 at PHI 9
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,1,NE,0,10,0,Field Goal No Good,"(14:18) S.Gostkowski 26 yard field goal is No Good, Hit Left Upright, Center-J.Cardona, Holder-R.Allen. Mishandled snap.",4th & 1 at PHI 8
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,2,PHI,0,1,0,2 Yard Run,(14:13) (Shotgun) J.Ajayi right end to PHI 22 for 2 yards (D.McCourty; P.Chung).,1st & 10 at PHI 20
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,2,PHI,0,2,0,Pass Incomplete,(13:31) (Shotgun) N.Foles pass incomplete short right to C.Clement.,2nd & 8 at PHI 22
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,2,PHI,0,3,0,Pass Incomplete,(13:23) (Shotgun) N.Foles pass incomplete short right to Z.Ertz (D.McCourty).,3rd & 8 at PHI 22
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,2,PHI,0,4,0,Punt,"(13:16) D.Jones punts 41 yards to NE 37, Center-R.Lovato, fair catch by D.Amendola.",4th & 8 at PHI 22
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,3,NE,0,1,0,23 Yard Pass,(13:11) T.Brady pass deep left to B.Cooks to PHI 40 for 23 yards (M.Jenkins) [N.Bradham]. NE-B.Cooks was injured during the play. He is Out.,1st & 10 at NE 37
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,3,NE,0,2,0,Pass Incomplete,(12:49) (Shotgun) T.Brady pass incomplete short left to J.White (M.Jenkins) [T.Jernigan].,1st & 10 at PHI 40
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,3,NE,0,3,0,5 Yard Run,(12:45) D.Lewis up the middle to PHI 35 for 5 yards (N.Bradham; C.Graham).,2nd & 10 at PHI 40
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,3,NE,0,4,0,Pass Incomplete,(12:04) (Shotgun) D.Amendola pass incomplete short right to T.Brady.,3rd & 5 at PHI 35
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,3,NE,0,5,0,Turnover on Downs,(11:58) (Shotgun) T.Brady pass incomplete deep right to R.Gronkowski (J.Mills) [B.Graham].,4th & 5 at PHI 35
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,4,PHI,1,1,0,-1 Yard Run,"(11:53) (Shotgun) J.Ajayi right tackle to PHI 34 for -1 yards (T.Flowers, E.Roberts).",1st & 10 at PHI 35
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,4,PHI,1,2,0,4 Yard Run,(11:15) (Shotgun) J.Ajayi left tackle to PHI 38 for 4 yards (D.McCourty).,2nd & 11 at PHI 34
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,4,PHI,1,3,0,19 Yard Pass,(10:30) (Shotgun) N.Foles pass short middle to Z.Ertz to NE 43 for 19 yards (J.Richards).,3rd & 7 at PHI 38
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,4,PHI,1,4,0,Pass Incomplete,(9:45) (Shotgun) N.Foles pass incomplete short right to A.Jeffery.,1st & 10 at NE 43
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,4,PHI,1,5,0,22 Yard Pass,(9:40) (Shotgun) N.Foles pass deep right to A.Jeffery to NE 21 for 22 yards (S.Gilmore).,2nd & 10 at NE 43
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,4,PHI,1,6,0,Touchdown Eagles,"(8:55) I.Seumalo reported in as eligible.  L.Blount left end for 21 yards, TOUCHDOWN.",1st & 10 at NE 21
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,4,PHI,1,7,1,2PT Conversion Fails,TWO-POINT CONVERSION ATTEMPT. N.Foles pass to A.Jeffery is incomplete. ATTEMPT FAILS.,XP attempt from NE 2
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,5,NE,1,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.",Kickoff from PHI 35
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,5,NE,1,2,0,46 Yard Pass,(8:48) T.Brady pass short right to R.Burkhead to PHI 29 for 46 yards (C.Graham) [F.Cox].,1st & 10 at NE 25
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,5,NE,1,3,0,Pass Incomplete,(8:17) (No Huddle) T.Brady pass incomplete short right to D.Amendola.,1st & 10 at PHI 29
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,5,NE,1,4,0,2 Yard Pass,(8:12) (Shotgun) T.Brady pass short left to D.Amendola to PHI 27 for 2 yards (M.Jenkins).,2nd & 10 at PHI 29
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,5,NE,1,5,0,Pass Incomplete,(7:33) (Shotgun) T.Brady pass incomplete short right to J.White.,3rd & 8 at PHI 27
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,5,NE,1,6,1,Field Goal,"(7:29) S.Gostkowski 45 yard field goal is GOOD, Center-J.Cardona, Holder-R.Allen.",4th & 8 at PHI 27
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,6,PHI,0,1,0,Kickoff,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",Kickoff from NE 35
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,6,PHI,0,2,0,-5 Yard Penalty,"(7:24) (Shotgun) PENALTY on PHI-Z.Ertz, False Start, 5 yards, enforced at PHI 25 - No Play.",1st & 10 at PHI 25
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,6,PHI,0,3,0,1 Yard Run,(7:24) (Shotgun) C.Clement left end to PHI 21 for 1 yard (E.Roberts).,1st & 15 at PHI 20
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,6,PHI,0,4,0,10 Yard Pass,(6:40) (Shotgun) N.Foles pass short right to T.Smith to PHI 31 for 10 yards (S.Gilmore).,2nd & 14 at PHI 21
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,6,PHI,0,5,0,26 Yard Run,(5:55) (Shotgun) J.Ajayi right tackle to NE 43 for 26 yards (J.Harrison).,3rd & 4 at PHI 31
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,6,PHI,0,6,0,Interception,"(5:15) (No Huddle, Shotgun) N.Foles pass deep right intended for A.Jeffery INTERCEPTED by D.Harmon (S.Gilmore) at NE 2. D.Harmon to NE 10 for 8 yards (A.Jeffery; T.Burton).",1st & 10 at NE 43
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,7,NE,1,1,0,4 Yard Run,(5:01) D.Lewis left tackle to NE 14 for 4 yards (T.Jernigan; M.Kendricks).,1st & 10 at NE 10
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,7,NE,1,2,0,Pass Incomplete,(4:23) (Shotgun) T.Brady pass incomplete short left to R.Gronkowski (R.Darby).,2nd & 6 at NE 14
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,7,NE,1,3,0,5 Yard Penalty,"(4:19) (Shotgun) T.Brady pass incomplete short left to C.Hogan.
+PENALTY on PHI-J.Mills, Defensive Holding, 5 yards, enforced at NE 14 - No Play.",3rd & 6 at NE 14
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,7,NE,1,4,0,5 Yard Run,(4:15) D.Lewis left guard to NE 24 for 5 yards (F.Cox).,1st & 10 at NE 19
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,7,NE,1,5,0,7 Yard Run,(3:46) D.Lewis left end to NE 31 for 7 yards (B.Allen; M.Kendricks).,2nd & 5 at NE 24
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,7,NE,1,6,0,Pass Incomplete,(2:59) (Shotgun) T.Brady pass incomplete short middle to R.Gronkowski (R.McLeod).,1st & 10 at NE 31
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,7,NE,1,7,0,43 Yard Pass,(2:55) (Shotgun) T.Brady pass deep right to C.Hogan to PHI 26 for 43 yards (J.Mills).,2nd & 10 at NE 31
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,7,NE,1,8,0,Touchdown Patriots,"(2:12) J.White left guard for 26 yards, TOUCHDOWN.",1st & 10 at PHI 26
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,7,NE,1,9,1,Extra Point No Good,"S.Gostkowski extra point is No Good, Wide Left, Center-J.Cardona, Holder-R.Allen.",XP attempt from PHI 15
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,8,PHI,1,1,0,Kickoff,S.Gostkowski kicks 62 yards from NE 35 to PHI 3. K.Barner to PHI 30 for 27 yards (S.Gostkowski).,Kickoff from NE 35
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,8,PHI,1,2,0,7 Yard Pass,(1:59) (Shotgun) N.Foles pass short right to Z.Ertz pushed ob at PHI 37 for 7 yards (J.Richards).,1st & 10 at PHI 30
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,8,PHI,1,3,0,Pass Incomplete,(1:52) (Shotgun) N.Foles pass incomplete short left to T.Smith (E.Rowe).,2nd & 3 at PHI 37
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,8,PHI,1,4,0,55 Yard Pass,(1:46) (Shotgun) N.Foles pass short right to C.Clement to NE 8 for 55 yards (P.Chung).,3rd & 3 at PHI 37
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,8,PHI,1,5,0,6 Yard Run,(:53) (Shotgun) C.Clement left guard to NE 2 for 6 yards (D.Harmon; E.Roberts).,1st & 8 at NE 8
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,8,PHI,1,6,0,1 Yard Run,(:45) C.Clement up the middle to NE 1 for 1 yard (K.Van Noy).,2nd & 2 at NE 2
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,8,PHI,1,7,0,Pass Incomplete,(:41) (Shotgun) N.Foles pass incomplete short left to A.Jeffery (S.Gilmore).,3rd & 1 at NE 1
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,8,PHI,1,8,0,Touchdown Eagles,"(:38) (Shotgun) T.Burton pass short right to N.Foles for 1 yard, TOUCHDOWN. PHI 9-N.Foles first career Reception.",4th & 1 at NE 1
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,8,PHI,1,9,1,Extra Point Good,"J.Elliott extra point is GOOD, Center-R.Lovato, Holder-D.Jones.",XP attempt from NE 15
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,9,NE,0,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.",Kickoff from PHI 35
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,9,NE,0,2,0,Pass Incomplete,(:34) (Shotgun) T.Brady pass incomplete deep right to D.Amendola.,1st & 10 at NE 25
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,9,NE,0,3,0,19 Yard Pass,(:27) (Shotgun) T.Brady pass deep left to P.Dorsett to NE 44 for 19 yards (R.Darby).,2nd & 10 at NE 25
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,9,NE,0,4,0,6 Yard Run,(:22) (Shotgun) T.Brady scrambles left end to 50 for 6 yards (B.Graham).,1st & 10 at NE 44
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,9,NE,0,5,0,Pass Incomplete,(:04) T.Brady spiked the ball to stop the clock.,2nd & 4 at 50
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,2ND QUARTER,9,NE,0,6,0,23 Yard Pass,(:03) (Shotgun) T.Brady pass short right to D.Amendola to PHI 27 for 23 yards (C.Graham).,3rd & 4 at 50
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,1,NE,1,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.",Kickoff from PHI 35
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,1,NE,1,2,0,Pass Incomplete,(15:00) T.Brady pass incomplete short right to R.Gronkowski.,1st & 10 at NE 25
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,1,NE,1,3,0,25 Yard Pass,(14:57) (Shotgun) T.Brady pass deep right to R.Gronkowski pushed ob at 50 for 25 yards (C.Graham).,2nd & 10 at NE 25
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,1,NE,1,4,0,24 Yard Pass,(14:33) (Shotgun) T.Brady pass deep right to R.Gronkowski to PHI 26 for 24 yards (C.Graham).,1st & 10 at 50
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,1,NE,1,5,0,4 Yard Run,(14:10) (No Huddle) J.White left tackle to PHI 22 for 4 yards (V.Curry).,1st & 10 at PHI 26
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,1,NE,1,6,0,Pass Incomplete,(13:32) (Shotgun) T.Brady pass incomplete short right to J.Develin.,2nd & 6 at PHI 22
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,1,NE,1,7,0,14 Yard Pass,(13:25) (Shotgun) T.Brady pass short left to R.Gronkowski to PHI 8 for 14 yards (C.Graham).,3rd & 6 at PHI 22
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,1,NE,1,8,0,3 Yard Run,(12:55) (No Huddle) J.White up the middle to PHI 5 for 3 yards (J.Mills; C.Long).,1st & 8 at PHI 8
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,1,NE,1,9,0,Touchdown Patriots,"(12:19) (Shotgun) T.Brady pass short left to R.Gronkowski for 5 yards, TOUCHDOWN.",2nd & 5 at PHI 5
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,1,NE,1,10,1,Extra Point Good,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",XP attempt from PHI 15
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,2,PHI,1,1,0,Kickoff,"S.Gostkowski kicks 65 yards from NE 35 to PHI 0. K.Barner to PHI 25 for 25 yards (J.Bademosi).
+PENALTY on PHI-K.Grugier-Hill, Illegal Block Above the Waist, 10 yards, enforced at PHI 25.",Kickoff from NE 35
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,2,PHI,1,2,0,4 Yard Run,(12:08) (Shotgun) L.Blount left guard to PHI 19 for 4 yards (M.Brown; T.Flowers).,1st & 10 at PHI 15
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,2,PHI,1,3,0,Pass Incomplete,(11:34) (Shotgun) N.Foles pass incomplete short left to N.Agholor.,2nd & 6 at PHI 19
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,2,PHI,1,4,0,17 Yard Pass,(11:27) (Shotgun) N.Foles pass short left to N.Agholor ran ob at PHI 36 for 17 yards (P.Chung).,3rd & 6 at PHI 19
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,2,PHI,1,5,0,5 Yard Run,(10:53) I.Seumalo reported in as eligible.  L.Blount right end to PHI 41 for 5 yards (L.Guy).,1st & 10 at PHI 36
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,2,PHI,1,6,0,10 Yard Run,(10:10) (Shotgun) L.Blount left guard to NE 49 for 10 yards (M.Brown).,2nd & 5 at PHI 41
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,2,PHI,1,7,0,Pass Incomplete,(9:27) N.Foles pass incomplete short right to T.Smith.,1st & 10 at NE 49
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,2,PHI,1,8,0,9 Yard Run,(9:23) (Shotgun) J.Ajayi right end to NE 40 for 9 yards (E.Roberts; P.Chung).,2nd & 10 at NE 49
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,2,PHI,1,9,0,14 Yard Pass,(8:57) I.Seumalo reported in as eligible.  N.Foles pass short right to Z.Ertz to NE 26 for 14 yards (J.Richards).,3rd & 1 at NE 40
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,2,PHI,1,10,0,4 Yard Run,(8:14) (Shotgun) L.Blount left end to NE 22 for 4 yards (T.Flowers).,1st & 10 at NE 26
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,2,PHI,1,11,0,Pass Incomplete,(7:33) (Shotgun) N.Foles pass incomplete deep right to T.Burton.,2nd & 6 at NE 22
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,2,PHI,1,12,0,Touchdown Eagles,"(7:25) (Shotgun) N.Foles pass deep left to C.Clement for 22 yards, TOUCHDOWN.
+The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands.",3rd & 6 at NE 22
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,2,PHI,1,13,1,Extra Point Good,"J.Elliott extra point is GOOD, Center-R.Lovato, Holder-D.Jones.",XP attempt from NE 15
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,3,NE,1,1,0,Kickoff,J.Elliott kicks 65 yards from PHI 35 to NE 0. D.Lewis to NE 25 for 25 yards (N.Goode; T.Burton).,Kickoff from PHI 35
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,3,NE,1,2,0,1 Yard Run,(7:13) D.Lewis right tackle to NE 26 for 1 yard (J.Mills; V.Curry).,1st & 10 at NE 25
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,3,NE,1,3,0,5 Yard Penalty,"(6:37) T.Brady pass incomplete short left to C.Hogan (C.Graham).
+PENALTY on PHI-M.Kendricks, Defensive Holding, 5 yards, enforced at NE 26 - No Play.",2nd & 9 at NE 26
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,3,NE,1,4,0,1 Yard Run,(6:32) D.Lewis left guard to NE 32 for 1 yard (V.Curry; N.Bradham).,1st & 10 at NE 31
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,3,NE,1,5,0,16 Yard Pass,(5:51) T.Brady pass short middle to C.Hogan to NE 48 for 16 yards (R.Darby).,2nd & 9 at NE 32
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,3,NE,1,6,0,2 Yard Run,(5:20) (Shotgun) D.Lewis left guard to 50 for 2 yards (M.Jenkins).,1st & 10 at NE 48
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,3,NE,1,7,0,6 Yard Run,(4:45) D.Lewis up the middle to PHI 44 for 6 yards (R.McLeod; J.Mills).,2nd & 8 at 50
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,3,NE,1,8,0,18 Yard Pass,(4:07) (Shotgun) T.Brady pass deep left to D.Amendola to PHI 26 for 18 yards (P.Robinson).,3rd & 2 at PHI 44
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,3,NE,1,9,0,Touchdown Patriots,"(3:29) T.Brady pass deep right to C.Hogan for 26 yards, TOUCHDOWN.",1st & 10 at PHI 26
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,3RD QUARTER,3,NE,1,10,1,Extra Point Good,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",XP attempt from PHI 15
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,1,PHI,1,1,0,Kickoff,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",Kickoff from NE 35
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,1,PHI,1,2,0,24 Yard Pass,(3:23) (Shotgun) N.Foles pass deep right to N.Agholor pushed ob at PHI 49 for 24 yards (P.Chung).,1st & 10 at PHI 25
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,1,PHI,1,3,0,17 Yard Pass,(2:42) (Shotgun) N.Foles pass short middle to T.Smith to NE 34 for 17 yards (D.McCourty).,1st & 10 at PHI 49
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,1,PHI,1,4,0,2 Yard Run,(2:04) I.Seumalo reported in as eligible.  L.Blount right end to NE 32 for 2 yards (M.Brown).,1st & 10 at NE 34
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,1,PHI,1,5,0,9 Yard Run,"(1:23) N.Agholor left end to NE 23 for 9 yards (E.Rowe, P.Chung).",2nd & 8 at NE 32
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,1,PHI,1,6,0,Pass Incomplete,(:39) (Shotgun) N.Foles pass incomplete deep left to Z.Ertz [J.Harrison].,1st & 10 at NE 23
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,1,PHI,1,7,0,7 Yard Pass,(:34) (Shotgun) N.Foles pass short left to T.Smith pushed ob at NE 16 for 7 yards (D.McCourty).,2nd & 10 at NE 23
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,1,PHI,1,8,0,-8 Yard Pass,(15:00) N.Foles pass short right to N.Agholor to NE 24 for -8 yards (M.Flowers).,3rd & 3 at NE 16
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,1,PHI,1,9,1,Field Goal,"(14:14) J.Elliott 42 yard field goal is GOOD, Center-R.Lovato, Holder-D.Jones.
+Penalty on NE-J.Harrison, Defensive Offside, declined.",4th & 11 at NE 24
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,2,NE,1,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.",Kickoff from PHI 35
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,2,NE,1,2,0,5 Yard Run,(14:09) R.Burkhead right guard to NE 30 for 5 yards (P.Robinson).,1st & 10 at NE 25
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,2,NE,1,3,0,9 Yard Run,(13:43) (Shotgun) R.Burkhead left guard to NE 39 for 9 yards (V.Curry).,2nd & 5 at NE 30
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,2,NE,1,4,0,4 Yard Run,(13:11) R.Burkhead left end to NE 43 for 4 yards (J.Mills).,1st & 10 at NE 39
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,2,NE,1,5,0,3 Yard Pass,(12:29) T.Brady pass short left to C.Hogan to NE 46 for 3 yards (R.Darby).,2nd & 6 at NE 43
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,2,NE,1,6,0,7 Yard Pass,(11:49) (Shotgun) T.Brady pass short right to D.Amendola pushed ob at PHI 47 for 7 yards (J.Mills).,3rd & 3 at NE 46
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,2,NE,1,7,0,30 Yard Pass,(11:24) T.Brady pass short left to D.Amendola pushed ob at PHI 17 for 30 yards (R.McLeod).,1st & 10 at PHI 47
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,2,NE,1,8,0,9 Yard Pass,(10:57) T.Brady pass short left to D.Amendola to PHI 8 for 9 yards (B.Allen).,1st & 10 at PHI 17
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,2,NE,1,9,0,4 Yard Run,(10:13) J.White up the middle to PHI 4 for 4 yards (M.Kendricks).,2nd & 1 at PHI 8
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,2,NE,1,10,0,Pass Incomplete,(9:31) (Shotgun) T.Brady pass incomplete short left to J.White.,1st & 4 at PHI 4
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,2,NE,1,11,0,Touchdown Patriots,"(9:26) (Shotgun) T.Brady pass short left to R.Gronkowski for 4 yards, TOUCHDOWN.",2nd & 4 at PHI 4
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,2,NE,1,12,1,Extra Point Good,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",XP attempt from PHI 15
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,3,PHI,1,1,0,Kickoff,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",Kickoff from NE 35
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,3,PHI,1,2,0,4 Yard Run,(9:22) (Shotgun) J.Ajayi right end to PHI 29 for 4 yards (D.McCourty).,1st & 10 at PHI 25
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,3,PHI,1,3,0,Pass Incomplete,(8:43) (Shotgun) N.Foles pass incomplete deep left to T.Smith [J.Harrison].,2nd & 6 at PHI 29
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,3,PHI,1,4,0,7 Yard Pass,(8:35) (Shotgun) N.Foles pass short middle to Z.Ertz to PHI 36 for 7 yards (S.Gilmore).,3rd & 6 at PHI 29
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,3,PHI,1,5,0,2 Yard Run,(7:56) I.Seumalo reported in as eligible.  L.Blount left tackle to PHI 38 for 2 yards (L.Guy; T.Flowers).,1st & 10 at PHI 36
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,3,PHI,1,6,0,7 Yard Pass,"(7:11) N.Foles pass short right to C.Clement to PHI 45 for 7 yards (P.Chung, K.Van Noy).",2nd & 8 at PHI 38
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,3,PHI,1,7,0,Pass for No Gain,(6:26) (Shotgun) N.Foles pass short left to T.Smith to PHI 45 for no gain (D.McCourty) [K.Van Noy].,3rd & 1 at PHI 45
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,3,PHI,1,8,0,2 Yard Pass,(5:39) (Shotgun) N.Foles pass short left to Z.Ertz to PHI 47 for 2 yards (D.Harmon) [T.Flowers].,4th & 1 at PHI 45
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,3,PHI,1,9,0,1 Yard Run,(4:52) (Shotgun) L.Blount left guard to PHI 48 for 1 yard (M.Brown; T.Flowers).,1st & 10 at PHI 47
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,3,PHI,1,10,0,10 Yard Pass,(4:11) (Shotgun) N.Foles pass short right to N.Agholor to NE 42 for 10 yards (P.Chung).,2nd & 9 at PHI 48
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,3,PHI,1,11,0,18 Yard Pass,(3:25) (Shotgun) N.Foles pass short middle to N.Agholor to NE 24 for 18 yards (D.McCourty). NE-P.Chung was injured during the play. He is Out.,1st & 10 at NE 42
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,3,PHI,1,12,0,10 Yard Pass,(2:43) (Shotgun) N.Foles pass short left to N.Agholor pushed ob at NE 14 for 10 yards (D.Harmon).,1st & 10 at NE 24
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,3,PHI,1,13,0,3 Yard Run,(2:37) (Shotgun) J.Ajayi up the middle to NE 11 for 3 yards (M.Brown; L.Guy).,1st & 10 at NE 14
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,3,PHI,1,14,0,Pass Incomplete,(2:30) (Shotgun) N.Foles pass incomplete short right to A.Jeffery [T.Flowers].,2nd & 7 at NE 11
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,3,PHI,1,15,0,Touchdown Eagles,"(2:25) (Shotgun) N.Foles pass short left to Z.Ertz for 11 yards, TOUCHDOWN.
+The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field was confirmed.",3rd & 7 at NE 11
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,3,PHI,1,16,1,2PT Conversion Fails,TWO-POINT CONVERSION ATTEMPT. N.Foles pass to C.Clement is incomplete. ATTEMPT FAILS.,XP attempt from NE 2
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,4,NE,0,1,0,Kickoff,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.",Kickoff from PHI 35
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,4,NE,0,2,0,8 Yard Pass,(2:21) (Shotgun) T.Brady pass short right to R.Gronkowski pushed ob at NE 33 for 8 yards (N.Bradham).,1st & 10 at NE 25
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,4,NE,0,3,0,Fumble,"(2:16) (Shotgun) T.Brady sacked at NE 26 for -7 yards (B.Graham). FUMBLES (B.Graham) [B.Graham], RECOVERED by PHI-D.Barnett at NE 28. D.Barnett to NE 31 for -3 yards (D.Andrews).",2nd & 2 at NE 33
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,5,PHI,1,1,0,2 Yard Run,(2:09) L.Blount left guard to NE 29 for 2 yards (L.Guy; J.Richards).,1st & 10 at NE 31
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,5,PHI,1,2,0,3 Yard Run,(2:03) L.Blount right tackle to NE 26 for 3 yards (L.Guy).,2nd & 8 at NE 29
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,5,PHI,1,3,0,-1 Yard Run,"(1:56) I.Seumalo reported in as eligible.  L.Blount right tackle to NE 27 for -1 yards (A.Butler, M.Brown).",3rd & 5 at NE 26
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,5,PHI,1,4,1,Field Goal,"(1:10) J.Elliott 46 yard field goal is GOOD, Center-R.Lovato, Holder-D.Jones.",4th & 6 at NE 27
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,6,NE,0,1,0,Kickoff,J.Elliott kicks 58 yards from PHI 35 to NE 7. D.Lewis to NE 10 for 3 yards. Lateral to R.Burkhead to NE 9 for -1 yards (B.Braman).,Kickoff from PHI 35
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,6,NE,0,2,0,Pass Incomplete,(:58) (Shotgun) T.Brady pass incomplete deep right to C.Hogan.,1st & 10 at NE 9
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,6,NE,0,3,0,Pass Incomplete,(:53) (Shotgun) T.Brady pass incomplete short left to J.White.,2nd & 10 at NE 9
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,6,NE,0,4,0,Pass Incomplete,(:48) (Shotgun) T.Brady pass incomplete short middle to D.Amendola [C.Long].,3rd & 10 at NE 9
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,6,NE,0,5,0,13 Yard Pass,(:42) (Shotgun) T.Brady pass short middle to D.Amendola to NE 22 for 13 yards (N.Bradham) [C.Long].,4th & 10 at NE 9
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,6,NE,0,6,0,Pass Incomplete,(:27) T.Brady spiked the ball to stop the clock.,1st & 10 at NE 22
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,6,NE,0,7,0,11 Yard Pass,(:26) (Shotgun) T.Brady pass short right to R.Gronkowski pushed ob at NE 33 for 11 yards (P.Robinson).,2nd & 10 at NE 22
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,6,NE,0,8,0,16 Yard Pass,(:20) (Shotgun) T.Brady pass short right to R.Gronkowski to NE 49 for 16 yards (J.Mills) [T.Jernigan].,1st & 10 at NE 33
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,6,NE,0,9,0,Pass Incomplete,(:13) (Shotgun) T.Brady pass incomplete short left to P.Dorsett (R.Darby).,1st & 10 at NE 49
+2017,Super Bowl,SUN,02/04,Eagles,Patriots,4TH QUARTER,6,NE,0,10,0,Pass Incomplete,(:09) (Shotgun) T.Brady pass incomplete deep right to R.Gronkowski [F.Cox].,2nd & 10 at NE 49
