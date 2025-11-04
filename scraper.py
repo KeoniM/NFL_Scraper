@@ -1187,7 +1187,8 @@ class NflScraper:
 
           # highlight container for all plays
           plays_container_webelement = wait.until(
-            child_element_to_be_present(drive, (By.XPATH, "./div"))
+            # child_element_to_be_present(drive, (By.XPATH, "./div"))
+            child_element_to_be_present(drive, (By.XPATH, "./ul"))
           )
           self.driver.execute_script("arguments[0].style.border='3px solid red'", plays_container_webelement)
           
@@ -1195,8 +1196,10 @@ class NflScraper:
           # - Sometimes no plays within drives are posted. This does not mean that they did not happen, it means
           #   that they have not been posted.
           try:
-            wait.until(child_element_to_be_present(plays_container_webelement, (By.XPATH, "./div")))
-            every_play_in_drive = num_child_webelements_check(plays_container_webelement, (By.XPATH, "./div"), 0, 5)
+            # wait.until(child_element_to_be_present(plays_container_webelement, (By.XPATH, "./div")))
+            wait.until(child_element_to_be_present(plays_container_webelement, (By.XPATH, "./li")))
+            # every_play_in_drive = num_child_webelements_check(plays_container_webelement, (By.XPATH, "./div"), 0, 5)
+            every_play_in_drive = num_child_webelements_check(plays_container_webelement, (By.XPATH, "./li"), 0, 5)
           except:
             every_play_in_drive = []
             continue
