@@ -58,7 +58,70 @@ class NflScraper:
   ##########################################################################################################################
   ##########################################################################################################################
 
+  # # Version 1 (Outdated)
+  # # NFL main site
+  # def _open_nfl_website(self):
+  #   self.driver.get("https://www.nfl.com/")
 
+  # # NFL scores page
+  # def _open_nfl_scores_page(self):
+  #   self.driver.get("https://www.nfl.com/scores/")
+
+  # """
+  # PURPOSE:
+  #   - Opens the 'scores' page to a specified season and week.
+  # INPUT PARAMETERS:
+  #     chosen_year - String - Users choice of year (Season) that they would like to grab game data from
+  #     chosen_week - String - Users choice of week that they would like to grab data from
+  #    max_attempts -  int   - The maximum amount of errors allowed to occur when searching webelements before quitting.
+  # RETURN:
+  #   - A state of the website open to the desired season and week.
+  # """
+  # def select_year_and_week(self, chosen_year, chosen_week, max_attempts=5):
+  #     # Check to see if driver is on scores page. If not, will open scores page.
+  #     if(self.driver.current_url != "https://www.nfl.com/scores/"):
+  #         self._open_nfl_scores_page()
+
+  #     wait = WebDriverWait(self.driver, 20)
+
+  #     try:
+  #       wait.until(dropdown_search_and_select((By.ID, "Season"), chosen_year))
+  #       # Make sure the year has rendered before the week is searched. Without this, the DOM will mix weeks.
+  #       # - The webelement targeted here is the first game. If that webelement fully loads, then the year selected has rendered.
+  #       # wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div/div/div/div[2]/div/div[3]"))) # NFL_Scraper 1.0
+  #       # wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[4]/main/div/div/div/div[2]/div/div/div[2]/div/div[4]"))) # NFL_Scraper 1.1
+  #       # wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[4]/main/div/div/div/div[2]/div/div/div[2]/div/div[3]"))) # NFL_Scraper 1.11
+  #       wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div[2]/div/div/div[2]/div/div[3]"))) # NFL_Scraper 1.12
+  #       wait.until(dropdown_search_and_select((By.ID, "Week"), chosen_week))
+
+  #       # grabbing webelement containing text of which week the page is on
+  #       week_check = wait.until(
+  #         # EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div/div/div/div/div/div/div")) # NFL_Scraper 1.0
+  #         # EC.presence_of_element_located((By.XPATH, "/html/body/div[4]/main/div/div/div/div[2]/div/div/div/div/div/div")) # NFL_Scraper 1.1
+  #         EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div[2]/div/div/div/div/div/div")) # NFL_Scraper 1.12
+  #       )
+
+  #       # double check to be sure that the users "chosen_week" matches the page
+  #       if(" ".join(week_check.text.split()[2::]) == chosen_week):
+  #         # After the correct page has been selected (for a fact), this next step is to make sure the DOM renders completely before moving on.
+  #         # wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[4]/main/div/div/div/div[2]/div/div/div[2]/div/div[3]"))) # NFL_Scraper 1.11
+  #         wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div[2]/div/div/div[2]/div/div[3]"))) # NFL_Scraper 1.12
+  #         return
+  #       else:
+  #         return self.select_year_and_week(self.driver, chosen_year, chosen_week, max_attempts - 1)
+
+  #     # If dropdowns have not been found yet, will run method over again.
+  #     except StaleElementReferenceException:
+  #       if(max_attempts > 0):
+  #           print("SEARCHING, attempting {} more times (select year and week)".format(max_attempts))
+  #           return self.select_year_and_week(self.driver, chosen_year, chosen_week, max_attempts - 1)
+  #       else:
+  #           return print("Driver unable to find available options. Try again.")
+  #     except NoSuchElementException:
+  #       return print("This year/week is not an option./nSee if season and year are available using the method 'display_seasons_and_weeks()'")
+
+
+  # Version 2 (updated 11/25/2025)
   # NFL main site
   def _open_nfl_website(self):
     self.driver.get("https://www.nfl.com/")
@@ -85,12 +148,9 @@ class NflScraper:
       wait = WebDriverWait(self.driver, 20)
 
       try:
-        wait.until(dropdown_search_and_select((By.ID, "Season"), chosen_year))
+        wait.until(dropdown_search_and_select((By.ID, "season-select"), chosen_year))
         # Make sure the year has rendered before the week is searched. Without this, the DOM will mix weeks.
         # - The webelement targeted here is the first game. If that webelement fully loads, then the year selected has rendered.
-        # wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div/div/div/div[2]/div/div[3]"))) # NFL_Scraper 1.0
-        # wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[4]/main/div/div/div/div[2]/div/div/div[2]/div/div[4]"))) # NFL_Scraper 1.1
-        # wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[4]/main/div/div/div/div[2]/div/div/div[2]/div/div[3]"))) # NFL_Scraper 1.11
         wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div[2]/div/div/div[2]/div/div[3]"))) # NFL_Scraper 1.12
         wait.until(dropdown_search_and_select((By.ID, "Week"), chosen_week))
 
@@ -129,7 +189,53 @@ class NflScraper:
   ###########################################################################################################################
   ###########################################################################################################################
 
+  # # Version 1
+  # """
+  # PURPOSE:
+  #   - Display all available NFL seasons and weeks to grab data from.
+  # INPUT PARAMETERS:
+  #   max_attempts - int - maximum number of attempts to find webelements
+  # RETURN:
+  #     df_season_week_opions - dataframe - contains seasons and weeks available to gather data from.
+  # NOTES:
+  #   - Not all options in 'season' dropdown is actually avaiable
+  #   - 'Weeks' dropdown is different for almost every season
+  # """
+  # def display_seasons_and_weeks(self, max_attempts = 5):
 
+  #   # Check to make sure driver is on nfl scores page.
+  #   if(self.driver.current_url != "https://www.nfl.com/scores/"):
+  #     self._open_nfl_scores_page()
+
+  #   # Return dataframe that will contain seasons and weeks available
+  #   df_season_week_options = pd.DataFrame(columns=["Season", "Weeks"])
+
+  #   wait = WebDriverWait(self.driver, 20)
+
+  #   try:
+  #     # All available elements within 'season' dropdown placed into list.
+  #     season_webelement_options = wait.until(get_dropdown_options((By.CSS_SELECTOR, "#Season")))
+
+  #     # Finding 'Weeks' schedule for each season
+  #     for i in season_webelement_options:
+  #       try:
+  #         wait.until(dropdown_search_and_select((By.ID, "Season"), i))
+  #         weeks_webelement_options = wait.until(get_dropdown_options((By.CSS_SELECTOR, "#Week")))
+  #         season_and_weeks = [i, weeks_webelement_options]
+  #         df_season_week_options.loc[len(df_season_week_options)] = season_and_weeks
+  #       except TimeoutException: # This might be a mistake. if there is a TimeoutException I think it would end up returning a list while missing a season or week.
+  #          continue
+  #     return df_season_week_options
+    
+  #   # Error handling while searching for dropdowns. Will run method completely over again.
+  #   except StaleElementReferenceException: 
+  #     if(max_attempts > 0):
+  #       print("SEARCHING, attempting {} more times".format(max_attempts))
+  #       return self.display_seasons_and_weeks(max_attempts-1)
+  #     else:
+  #         return print("Driver unable to find available options. Try again.")
+  
+  # Version 2 (updated 11/25/2025)
   """
   PURPOSE:
     - Display all available NFL seasons and weeks to grab data from.
@@ -154,19 +260,26 @@ class NflScraper:
 
     try:
       # All available elements within 'season' dropdown placed into list.
-      season_webelement_options = wait.until(get_dropdown_options((By.CSS_SELECTOR, "#Season")))
+      season_webelement_options = wait.until(get_dropdown_options((By.ID, "season-select")))
 
       # Finding 'Weeks' schedule for each season
-      for i in season_webelement_options:
+      for season in season_webelement_options:
         try:
-          wait.until(dropdown_search_and_select((By.ID, "Season"), i))
-          weeks_webelement_options = wait.until(get_dropdown_options((By.CSS_SELECTOR, "#Week")))
-          season_and_weeks = [i, weeks_webelement_options]
+          # Selecting Season
+          wait.until(dropdown_search_and_select((By.ID, "season-select"), season))
+          # Identifying weeks in season
+          list_of_weeks = wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[2]/main/div/div/div/section/div/nav/ul")))
+          list_week_elements = list_of_weeks.find_elements(By.TAG_NAME, 'li')
+          weeks_in_season = [
+            wait.until(child_element_to_be_present(week, (By.XPATH, "./div/a/dl/dd[1]"))).text 
+            for week in list_week_elements
+            ]
+          season_and_weeks = [season, weeks_in_season]
           df_season_week_options.loc[len(df_season_week_options)] = season_and_weeks
         except TimeoutException: # This might be a mistake. if there is a TimeoutException I think it would end up returning a list while missing a season or week.
-           continue
+          continue
       return df_season_week_options
-    
+        
     # Error handling while searching for dropdowns. Will run method completely over again.
     except StaleElementReferenceException: 
       if(max_attempts > 0):
