@@ -151,21 +151,29 @@ class NflScraper:
         wait.until(dropdown_search_and_select((By.ID, "season-select"), chosen_year))
         # Make sure the year has rendered before the week is searched. Without this, the DOM will mix weeks.
         # - The webelement targeted here is the first game. If that webelement fully loads, then the year selected has rendered.
-        wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div[2]/div/div/div[2]/div/div[3]"))) # NFL_Scraper 1.12
-        wait.until(dropdown_search_and_select((By.ID, "Week"), chosen_week))
+        wait.until(EC.presence_of_element_located((By.XPATH, "html/body/div[2]/main/div/div/div/section/div[2]/div/div/div/div/div/div[1]/ul[1]/li[1]")))
+
+        # Select week
+        # - Searches through available weeks within season and opens chosen week page
+        carousel_week_select = wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[2]/main/div/div/div/section/div/nav/ul")))
+        week_options = carousel_week_select.find_elements(By.TAG_NAME, 'li')
+        for week in week_options:
+          week_option = wait.until(child_element_to_be_present(week, (By.XPATH, "./div/a/dl/dd[1]"))).text
+          if week_option == chosen_week:
+            chosen_week_url_webelement = wait.until(child_element_to_be_present(week, (By.XPATH, "./div/a")))
+            chosen_week_url = chosen_week_url_webelement.get_attribute("href")
+            self.driver.get(chosen_week_url)
+            break
 
         # grabbing webelement containing text of which week the page is on
         week_check = wait.until(
-          # EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div/div/div/div/div/div/div")) # NFL_Scraper 1.0
-          # EC.presence_of_element_located((By.XPATH, "/html/body/div[4]/main/div/div/div/div[2]/div/div/div/div/div/div")) # NFL_Scraper 1.1
-          EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div[2]/div/div/div/div/div/div")) # NFL_Scraper 1.12
+          EC.presence_of_element_located((By.XPATH, "/html/body/div[2]/main/div/div/div/section/div[2]/div[2]/div"))
         )
 
         # double check to be sure that the users "chosen_week" matches the page
-        if(" ".join(week_check.text.split()[2::]) == chosen_week):
+        if(week_check.text == chosen_week):
           # After the correct page has been selected (for a fact), this next step is to make sure the DOM renders completely before moving on.
-          # wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[4]/main/div/div/div/div[2]/div/div/div[2]/div/div[3]"))) # NFL_Scraper 1.11
-          wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div[2]/div/div/div[2]/div/div[3]"))) # NFL_Scraper 1.12
+          wait.until(EC.presence_of_element_located((By.XPATH, "html/body/div[2]/main/div/div/div/section/div[2]/div/div/div/div/div/div[1]/ul[1]/li[1]")))
           return
         else:
           return self.select_year_and_week(self.driver, chosen_year, chosen_week, max_attempts - 1)
@@ -297,7 +305,81 @@ class NflScraper:
   ###########################################################################################################################
   ###########################################################################################################################
 
+  # Outdated Version
+  # """
+  # PURPOSE:
+  #   - Get all game webelements in a specified week and season.
+  #     - Not meant to be called but to be used as a helper method for 'get_parsed_game_week_webelements()'
+  # INPUT PARAMETERS:
+  #    chosen_year - string - user chooses a season which happens to be all in years
+  #    chosen_week - string - user chooses a week within a given season
+  #   max_attempts -  int   - number of errors allowed when finding webelements
+  # RETURN:
+  #   - All webelements for games in specified week and season
+  # """
+  # def get_game_week_webelements(self, chosen_year, chosen_week, max_attempts=5):
 
+  #   self.select_year_and_week(chosen_year, chosen_week)
+
+  #   wait = WebDriverWait(self.driver, 5)
+
+  #   # webelement that shares a classname with all webelements that contain desired data (Titles/Scores/Byes/Upcoming).
+  #   # - Should be webelement container stating which week the page is on (e.g. 'Games - Week 2')
+  #   shared_classname_webelement = wait.until(
+  #       # /html/body/div[4]/main/div/div/div/div[2]/div/div/div
+  #       # EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div/div/div/div")) # NFL_Scraper 1.0
+  #       # EC.presence_of_element_located((By.XPATH, "/html/body/div[4]/main/div/div/div/div[2]/div/div/div")) # NFL_Scraper 1.1
+  #       EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div[2]/div/div/div")) # NFL_Scraper 1.12
+  #   )
+
+  #   # the shared classname for all desired webelements
+  #   scores_shared_classname = shared_classname_webelement.get_attribute("class")
+
+  #   # Different weeks have different amounts of games displaying. (each week as a different amount of desired webelements displaying).
+  #   num_score_elements = 19 # Week 1 - Week 17 
+  #   if chosen_week in ["Hall Of Fame", "Pro Bowl", "Super Bowl"]:
+  #       num_score_elements = 4
+  #   elif chosen_week in ["Conference Championships"]:
+  #       num_score_elements = 5
+  #   # elif chosen_week in ["Divisional Playoffs", "Wild Card Weekend"]:
+  #   elif chosen_week in ["Divisional Playoffs", "Wild Card"]: # NFL_Scraper 1.12
+  #       num_score_elements = 7
+
+  #   # A measure to ensure that all games (webelements) were captured
+  #   # NOTE: an issue that I have been running into is that the scraper will grab all webelements that 
+  #   #       are currently displaying in the DOM, but that does not necessarily mean that all of the
+  #   #       webelements are displaying at that time. This is the method that I came up with to combat 
+  #   #       that issue.
+  #   try:
+  #       # If same number of webelements are grabbed 5 times in a row, then that is likely the amount of game webelements available for that week
+  #       total = 0
+  #       array = [np.nan]
+  #       while( total % array[0] != 0):
+  #         total = 0
+  #         array = []
+  #         for i in range(0,5,1):
+  #           game_webelements = wait.until(enough_elements_present((By.CLASS_NAME, scores_shared_classname), num_score_elements))
+  #           total += len(game_webelements)
+  #           array.append(len(game_webelements))
+
+  #       checked_game_webelements = game_webelements
+
+  #   except TimeoutException:
+  #       if (max_attempts > 0):
+  #         print("SEARCHING, attempting {} more times (get game week data)".format(max_attempts))
+  #         return self.get_game_week_webelements(chosen_year, chosen_week, max_attempts - 1)
+  #       else:
+  #           return print("Unable to get game week data.")
+
+  #   # The first 3-4 elements to all score pages are titles and adds that are not wanted.
+  #   if (checked_game_webelements[1].text.lower() == "final"):
+  #      return checked_game_webelements[3::]
+  #   elif(checked_game_webelements[1].text.lower() == "upcoming"):
+  #      return checked_game_webelements[4::]
+  #   else:
+  #      return print("{} {} has not been accounted for yet. Look under 'get_game_week_webelements' and try to fix this".format(chosen_year, chosen_week))
+
+  # Version 2 (updated 11/25/2025)
   """
   PURPOSE:
     - Get all game webelements in a specified week and season.
@@ -315,17 +397,21 @@ class NflScraper:
 
     wait = WebDriverWait(self.driver, 5)
 
-    # webelement that shares a classname with all webelements that contain desired data (Titles/Scores/Byes/Upcoming).
-    # - Should be webelement container stating which week the page is on (e.g. 'Games - Week 2')
-    shared_classname_webelement = wait.until(
-        # /html/body/div[4]/main/div/div/div/div[2]/div/div/div
-        # EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div/div/div/div")) # NFL_Scraper 1.0
-        # EC.presence_of_element_located((By.XPATH, "/html/body/div[4]/main/div/div/div/div[2]/div/div/div")) # NFL_Scraper 1.1
-        EC.presence_of_element_located((By.XPATH, "/html/body/div[3]/main/div/div/div/div[2]/div/div/div")) # NFL_Scraper 1.12
+    # Parent webelement that has all game outcomes (Scores/Byes/Upcoming)
+    parent_webelement_games = wait.until(
+      EC.presence_of_element_located((By.XPATH, "/html/body/div[2]/main/div/div/div/section/div[2]/div/div/div/div/div"))
     )
+    # Games are separated into different sections based on the date of when the game took place 
+    # or if the team is on bye.
+    # - Each grouping of games are within div tags
+    game_groupings = parent_webelement_games.find_elements(By.TAG_NAME, './div')
+    for game_day in game_groupings:
+      self.driver.execute_script("arguments[0].style.border='3px solid blue'", game_day)
 
-    # the shared classname for all desired webelements
-    scores_shared_classname = shared_classname_webelement.get_attribute("class")
+
+    # STOPPED HERE.
+    # - trying to find all div tags under parent tag that has all game information in it including byes.
+
 
     # Different weeks have different amounts of games displaying. (each week as a different amount of desired webelements displaying).
     num_score_elements = 19 # Week 1 - Week 17 
