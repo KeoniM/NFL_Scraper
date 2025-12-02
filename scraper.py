@@ -401,28 +401,15 @@ class NflScraper:
     parent_webelement_games = wait.until(
       EC.presence_of_element_located((By.XPATH, "/html/body/div[2]/main/div/div/div/section/div[2]/div/div/div/div/div"))
     )
-    # Games are separated into different sections based on the date of when the game took place 
-    # or if the team is on bye.
-    # - Each grouping of games are within div tags
-    game_groupings_by_date = parent_webelement_games.find_elements(By.XPATH, './div')
-    for game_day in game_groupings_by_date:
-      # div tags that have attributes are adds. They are not webelements that have game data in them.
-      has_attributes = self.driver.execute_script("return arguments[0].attributes.length > 0;", game_day)
-      if has_attributes:
-        continue
-      else:
-        self.driver.execute_script("arguments[0].style.border='3px solid blue'", game_day)
 
-    # I feel like I should have a check to make sure all games are accounted for.
-    # - For now I will leave it alone until it poses a problem
-
-    # A measure to ensure that all games (webelements) were captured
+    # This block of code doubles as:
+    # 1. Grabbing all webelements that contain game data
+    # 2. A measure to ensure that all games (webelements) were captured
     # NOTE: an issue that I have been running into is that the scraper will grab all webelements that 
     #       are currently displaying in the DOM, but that does not necessarily mean that all of the
     #       webelements are displaying at that time. This is the method that I came up with to combat 
     #       that issue.
     try:
-        
         # If same number of webelements are grabbed 5 times in a row, then that is likely the amount of game webelements available for that week
         total = 0
         array = [np.nan]
@@ -430,29 +417,33 @@ class NflScraper:
           total = 0
           array = []
           for i in range(0,5,1):
-
-            # Will implement 'enough_child_elements_present' here.
-            
-            game_webelements = wait.until(enough_elements_present((By.CLASS_NAME, scores_shared_classname), num_score_elements))
+            # Games are separated into different sections based on the date of when the game took place or if the team is on bye.
+            # - Each grouping of games are within div tags
+            game_webelements = wait.until(enough_child_elements_present(parent_webelement_games, (By.XPATH, './div'), 1))
+            print(len(game_webelements))
             total += len(game_webelements)
             array.append(len(game_webelements))
-
+        # Final Answer (A list that has all game webelements)
         checked_game_webelements = game_webelements
-
     except TimeoutException:
         if (max_attempts > 0):
           print("SEARCHING, attempting {} more times (get game week data)".format(max_attempts))
           return self.get_game_week_webelements(chosen_year, chosen_week, max_attempts - 1)
         else:
             return print("Unable to get game week data.")
+        
+    # Taking out adds
+    game_webelements = []
+    for game_day in checked_game_webelements:
+      # tags that have attributes are adds. They are not webelements that have game data in them.
+      has_attributes = self.driver.execute_script("return arguments[0].attributes.length > 0;", game_day)
+      if has_attributes:
+        continue
+      else:
+        self.driver.execute_script("arguments[0].style.border='3px solid blue'", game_day)
+        game_webelements.append(game_day)
 
-    # The first 3-4 elements to all score pages are titles and adds that are not wanted.
-    if (checked_game_webelements[1].text.lower() == "final"):
-       return checked_game_webelements[3::]
-    elif(checked_game_webelements[1].text.lower() == "upcoming"):
-       return checked_game_webelements[4::]
-    else:
-       return print("{} {} has not been accounted for yet. Look under 'get_game_week_webelements' and try to fix this".format(chosen_year, chosen_week))
+    return game_webelements
 
 
   #############################################################################
