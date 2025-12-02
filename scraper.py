@@ -404,24 +404,17 @@ class NflScraper:
     # Games are separated into different sections based on the date of when the game took place 
     # or if the team is on bye.
     # - Each grouping of games are within div tags
-    game_groupings = parent_webelement_games.find_elements(By.TAG_NAME, './div')
-    for game_day in game_groupings:
-      self.driver.execute_script("arguments[0].style.border='3px solid blue'", game_day)
+    game_groupings_by_date = parent_webelement_games.find_elements(By.XPATH, './div')
+    for game_day in game_groupings_by_date:
+      # div tags that have attributes are adds. They are not webelements that have game data in them.
+      has_attributes = self.driver.execute_script("return arguments[0].attributes.length > 0;", game_day)
+      if has_attributes:
+        continue
+      else:
+        self.driver.execute_script("arguments[0].style.border='3px solid blue'", game_day)
 
-
-    # STOPPED HERE.
-    # - trying to find all div tags under parent tag that has all game information in it including byes.
-
-
-    # Different weeks have different amounts of games displaying. (each week as a different amount of desired webelements displaying).
-    num_score_elements = 19 # Week 1 - Week 17 
-    if chosen_week in ["Hall Of Fame", "Pro Bowl", "Super Bowl"]:
-        num_score_elements = 4
-    elif chosen_week in ["Conference Championships"]:
-        num_score_elements = 5
-    # elif chosen_week in ["Divisional Playoffs", "Wild Card Weekend"]:
-    elif chosen_week in ["Divisional Playoffs", "Wild Card"]: # NFL_Scraper 1.12
-        num_score_elements = 7
+    # I feel like I should have a check to make sure all games are accounted for.
+    # - For now I will leave it alone until it poses a problem
 
     # A measure to ensure that all games (webelements) were captured
     # NOTE: an issue that I have been running into is that the scraper will grab all webelements that 
@@ -429,13 +422,17 @@ class NflScraper:
     #       webelements are displaying at that time. This is the method that I came up with to combat 
     #       that issue.
     try:
+        
         # If same number of webelements are grabbed 5 times in a row, then that is likely the amount of game webelements available for that week
         total = 0
         array = [np.nan]
-        while( total % array[0] != 0):
+        while( total % array[0] != 0 ):
           total = 0
           array = []
           for i in range(0,5,1):
+
+            # Will implement 'enough_child_elements_present' here.
+            
             game_webelements = wait.until(enough_elements_present((By.CLASS_NAME, scores_shared_classname), num_score_elements))
             total += len(game_webelements)
             array.append(len(game_webelements))
