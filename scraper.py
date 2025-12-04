@@ -18,7 +18,7 @@ from custom_conditions import dropdown_search_and_select
 from custom_conditions import child_element_to_be_present
 from custom_conditions import enough_child_elements_present
 from custom_conditions import get_dropdown_options
-from custom_conditions import one_or_the_other
+from custom_conditions import one_or_the_other_child
 
 # exceptions
 from selenium.common.exceptions import StaleElementReferenceException
@@ -420,7 +420,6 @@ class NflScraper:
             # Games are separated into different sections based on the date of when the game took place or if the team is on bye.
             # - Each grouping of games are within div tags
             game_webelements = wait.until(enough_child_elements_present(parent_webelement_games, (By.XPATH, './div'), 1))
-            print(len(game_webelements))
             total += len(game_webelements)
             array.append(len(game_webelements))
         # Final Answer (A list that has all game webelements)
@@ -451,17 +450,86 @@ class NflScraper:
   #          METHODS THAT EXTRACT SCORING DATA FROM GAME WEBELEMENTS          #
   #                                                                           #
   #############################################################################
-  
 
+  # - I need to create a new version of this.
+  #   - Each grouping of games are separated by dates(?) (e.g. 'Thursday Night Football, December 4th',
+  #                                                            'Thursday, December 16th',
+  #                                                            'Sunday, November 16th, International Game',
+  #                                                            'Teams on Bye')
+  #                                                            - I dont exactly know how to categorize this.
+  #                                                            - Game status?
+
+  # Version 1
+  # """
+  # PURPOSE:
+  #   - Parse out different types of game webelements 
+  #     (games played, upcoming games, bye weeks, cancelled games)
+  # INPUT PARAMETERS:
+  #    chosen_year - string - user chooses a season which happens to be all in years
+  #    chosen_week - string - user chooses a week within a given season
+  # RETURN:
+  #   - list of parsed game webelements -> [games_played, games_bye, games_cancelled, games_upcoming]
+  # """
+  # def get_parsed_game_week_webelements(self, chosen_year, chosen_week):
+
+  #   wait = WebDriverWait(self.driver, 2)
+
+  #   game_week_webelements = self.get_game_week_webelements(chosen_year, chosen_week)
+
+  #   # Lists to return
+  #   games_played = []
+  #   games_bye = []
+  #   games_cancelled = []
+  #   games_upcoming = []
+
+  #   for i in game_week_webelements:
+  #       try:
+  #           # locator1 = (By.XPATH, "./div/div/button/div") 
+  #           # - Locator for webelements that contain (cancelled games, games played, upcoming games)
+  #           # locator2 = (By.XPATH, ".//button/div[1]")
+  #           # - Locator for webelements that are bye weeks
+  #           game = wait.until(one_or_the_other_child(i, (By.XPATH, "./div/div/button/div"), (By.XPATH, ".//button/div[1]")))
+
+  #           if game[1] == 1:
+  #             status_and_date = wait.until(child_element_to_be_present(game[0], (By.XPATH, "./div[1]")))
+  #             game_data = status_and_date.text.split()
+  #             # The only status games that I have come across are
+  #             # 1. Cancelled game
+  #             # 2. Final outcome
+  #             # 3. Upcoming games
+  #             if game_data.count('CANCELLED') >= 1:
+  #               games_cancelled.append(i)
+  #             elif game_data.count('FINAL') >= 1:
+  #               games_played.append(i)
+  #             else:
+  #               games_upcoming.append(i)
+  #           else:
+  #             games_bye.append(i)    
+            
+  #       except:
+  #         continue
+ 
+  #   # print("{} {} has {} played_games, {} byes, {} cancelled games, {} upcoming games".format(chosen_year, 
+  #   #                                                                                          chosen_week, 
+  #   #                                                                                          len(games_played), 
+  #   #                                                                                          len(games_bye), 
+  #   #                                                                                          len(games_cancelled), 
+  #   #                                                                                          len(games_upcoming)))
+
+  #   return [games_played, games_bye, games_cancelled, games_upcoming]
+
+  # Version 2 (updated 12/03/2025)
   """
   PURPOSE:
-    - Parse out different types of game webelements 
-      (games played, upcoming games, bye weeks, cancelled games)
+    - Organize game week webelements by description followed by games that follow
   INPUT PARAMETERS:
      chosen_year - string - user chooses a season which happens to be all in years
      chosen_week - string - user chooses a week within a given season
   RETURN:
-    - list of parsed game webelements -> [games_played, games_bye, games_cancelled, games_upcoming]
+    - list of organized game week webelements
+      [[game_week_description, [games within game week description]], 
+       [game_week_description, [games within game week description]],
+        .... ]
   """
   def get_parsed_game_week_webelements(self, chosen_year, chosen_week):
 
@@ -469,47 +537,37 @@ class NflScraper:
 
     game_week_webelements = self.get_game_week_webelements(chosen_year, chosen_week)
 
-    # Lists to return
-    games_played = []
-    games_bye = []
-    games_cancelled = []
-    games_upcoming = []
+    # 'game_week_webelements' will give me a list webelements containing groupings of games.
+    # These webelements will have:
+    # 1. A description with something like "Thursday Night Football, December 4th" or "Sunday, December 7th"
+    # 2. A list of webelements containing games that fall under that description
 
-    for i in game_week_webelements:
-        try:
-            # locator1 = (By.XPATH, "./div/div/button/div") 
-            # - Locator for webelements that contain (cancelled games, games played, upcoming games)
-            # locator2 = (By.XPATH, ".//button/div[1]")
-            # - Locator for webelements that are bye weeks
-            game = wait.until(one_or_the_other(i, (By.XPATH, "./div/div/button/div"), (By.XPATH, ".//button/div[1]")))
+    # Will create a list of list elements. 
+    # each list element within the list will look like: 
+    # [games_description, [webelement of each game]]
+    game_groupings = []
 
-            if game[1] == 1:
-              status_and_date = wait.until(child_element_to_be_present(game[0], (By.XPATH, "./div[1]")))
-              game_data = status_and_date.text.split()
-              # The only status games that I have come across are
-              # 1. Cancelled game
-              # 2. Final outcome
-              # 3. Upcoming games
-              if game_data.count('CANCELLED') >= 1:
-                games_cancelled.append(i)
-              elif game_data.count('FINAL') >= 1:
-                games_played.append(i)
-              else:
-                games_upcoming.append(i)
-            else:
-              games_bye.append(i)    
-            
-        except:
-          continue
- 
-    # print("{} {} has {} played_games, {} byes, {} cancelled games, {} upcoming games".format(chosen_year, 
-    #                                                                                          chosen_week, 
-    #                                                                                          len(games_played), 
-    #                                                                                          len(games_bye), 
-    #                                                                                          len(games_cancelled), 
-    #                                                                                          len(games_upcoming)))
+    for game_grouping in game_week_webelements:
 
-    return [games_played, games_bye, games_cancelled, games_upcoming]
+      # Will eventually have to account for game groupings that are descriptionless
+      game_grouping_description = wait.until(child_element_to_be_present(game_grouping, (By.XPATH, "./div[1]")))
+
+      # games_description
+      game_group_description = game_grouping_description.text
+
+      # [webelement of each game]
+      if "Bye" in game_group_description:
+        teams_on_bye = wait.until(enough_child_elements_present(game_grouping, (By.XPATH, './div[2]/div/div'), 1))
+        game_groupings.append([game_group_description, teams_on_bye])
+      else:
+        grouping_games = wait.until(enough_child_elements_present(game_grouping, (By.XPATH, './ul/li'), 1))
+        game_groupings.append([game_group_description, grouping_games])
+
+    # for i in game_groupings:
+    #   print(i[0])
+    #   print(len(i[1]))
+
+    return game_groupings
 
   """
   PURPOSE:
