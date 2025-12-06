@@ -179,7 +179,7 @@ class NflScraper:
           return self.select_year_and_week(self.driver, chosen_year, chosen_week, max_attempts - 1)
 
       # If dropdowns have not been found yet, will run method over again.
-      except StaleElementReferenceException:
+      except (StaleElementReferenceException, TimeoutException) as e:
         if(max_attempts > 0):
             print("SEARCHING, attempting {} more times (select year and week)".format(max_attempts))
             return self.select_year_and_week(self.driver, chosen_year, chosen_week, max_attempts - 1)
@@ -187,6 +187,7 @@ class NflScraper:
             return print("Driver unable to find available options. Try again.")
       except NoSuchElementException:
         return print("This year/week is not an option./nSee if season and year are available using the method 'display_seasons_and_weeks()'")
+
 
 
   ###########################################################################################################################
@@ -550,7 +551,8 @@ class NflScraper:
     for game_grouping in game_week_webelements:
 
       # Will eventually have to account for game groupings that are descriptionless
-      game_grouping_description = wait.until(child_element_to_be_present(game_grouping, (By.XPATH, "./div[1]")))
+      game_grouping_description = wait.until(child_element_to_be_present(game_grouping, (By.XPATH, "./div[1]/div/div/h3")))
+      self.driver.execute_script("arguments[0].style.border='3px solid red'", game_grouping_description)
 
       # games_description
       game_group_description = game_grouping_description.text
@@ -699,7 +701,7 @@ class NflScraper:
   #     oganized_game_data = [away_team_name, away_record, away_score, away_win,
   #                           home_team_name, home_record, home_score, home_win,
   #                           away_seeding, home_seeding, is_postseason]
-      
+
   #     return oganized_game_data
     
   #   # Loop that goes through each game webelement of a specified game week
@@ -734,7 +736,7 @@ class NflScraper:
   #         individual_game_data.insert(0, chosen_week)
   #         individual_game_data.insert(0, chosen_year)
   #         df_week_scores.loc[len(df_week_scores)] = individual_game_data
-      
+
   #   return df_week_scores
 
   # Version 2 (updated 12/04/2025)
@@ -746,46 +748,89 @@ class NflScraper:
     chosen_week - string - user chooses a week within a given season
   RETURN:
     df_week_scores - Dataframe - contains all data for outcomes of each game webelement
+  NOTE:
+    - The idea is to grab all raw data that cannot be created using feature engineering
+      from other features. (e.g. season record, playoffs, did a team win, playoff seeding)
   """
   def get_game_week_scores(self, chosen_year, chosen_week):
 
     grouped_games_by_week = self.get_parsed_game_week_webelements(chosen_year, chosen_week)
 
+    # Create df that all scores will go into.
+    # return dataframe
+    df_week_scores = pd.DataFrame(columns=["Season", "Week", "GameStatus", "Day", "Date", 
+                                           "AwayTeam", "AwayScore", "HomeTeam", "HomeScore"])
+
     for group in grouped_games_by_week:
-      grouped_games_description = group[0]
+      grouped_games_description = group[0].split(", ")
       grouped_games = group[1]
+
+      # print(grouped_games_description)
+
       # Bye week
-      if "Bye" in grouped_games_description:
-        continue
-        # for game in grouped_games:
+      if "Bye" in grouped_games_description[0]:
+        for bye in grouped_games:
+          individual_game = []
+          # individual_game += [np.nan] * 9
+          individual_game.insert(0, chosen_year)
+          individual_game.insert(1, chosen_week)
+          individual_game.insert(2, "BYE")
+          individual_game.insert(3, None)
+          individual_game.insert(4, None)
+          individual_game.insert(6, np.nan)
+          individual_game.insert(7, None)
+          individual_game.insert(8, np.nan)
+          # team name (I guess put in 'AwayTeam'?)
+          team_name = bye.find_element(By.XPATH, "./div[2]/div")
+          self.driver.execute_script("arguments[0].style.border='3px solid blue'", team_name)
+          individual_game.insert(5, team_name.text)
+          # Add individual game data to week scores dataframe
+          df_week_scores.loc[len(df_week_scores)] = individual_game
       # Regular games
       else:
         for game in grouped_games:
+          # [Season, Week] 
+          individual_game = [chosen_year, chosen_week]
 
-          # game description
-          print(grouped_games_description)
-
-          # game status
+          # GameStatus
           game_status = game.find_element(By.XPATH, "./div/div[2]/div/div/div")
-          print(game_status.text)
+          if game_status.text == "FINAL":
+            individual_game.append(game_status.text)
+          else:
+            individual_game.append("TBD")
+            
+          # [Day, Date]
+          individual_game.extend([grouped_games_description[0], grouped_games_description[1]])
 
-          # away team
+          # [AwayTeam, AwayScore]
           away_team = game.find_element(By.XPATH, "./div/div[1]/div[1]/div[1]/div/div[2]/div[2]")
           self.driver.execute_script("arguments[0].style.border='3px solid blue'", away_team)
           away_name = away_team.find_element(By.XPATH, "./span[3]")
           away_score = away_team.find_element(By.XPATH, "./div/div/span")
-          print(away_name.text)
-          print(away_score.text)
-
-          # home team
+          individual_game.append(away_name.text)
+          try:
+            individual_game.append(int(away_score.text))
+          except ValueError:
+            individual_game.append(np.nan)
+          # [HomeTeam, HomeScore]
           home_team = game.find_element(By.XPATH, "./div/div[1]/div[1]/div[2]/div/div[2]/div[2]")
           self.driver.execute_script("arguments[0].style.border='3px solid red'", home_team)
           home_name = home_team.find_element(By.XPATH, "./span[3]")
           home_score = home_team.find_element(By.XPATH, "./div/div/span")
-          print(home_name.text)
-          print(home_score.text)
+          individual_game.append(home_name.text)
+          # I understand this is redundant and I could put 'away_score' and 'home_score' together.
+          # This just seems to flow a bit nicer.
+          try:
+            individual_game.append(int(home_score.text))
+          except ValueError:
+            individual_game.append(np.nan)
 
-      
+          # Add individual game data to week scores dataframe
+          df_week_scores.loc[len(df_week_scores)] = individual_game
+
+    print(df_week_scores)
+
+
 
     # As far as I see, there are 3 different types of game grouping description:
     # 1. regular games:
