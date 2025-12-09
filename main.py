@@ -77,13 +77,13 @@ def main():
     # Initializing instance of NflScraper 
     scraper = NflScraper(relative_path_to_webdriver)
 
-    # # Printing a dataframe containing all available seasons and weeks
-    # available_seasons_and_weeks = scraper.display_seasons_and_weeks()
-    # print(available_seasons_and_weeks)
+    # Printing a dataframe containing all available seasons and weeks
+    available_seasons_and_weeks = scraper.display_seasons_and_weeks()
+    print(available_seasons_and_weeks)
 
-    # # List of Available seasons & List of Available weeks
-    # all_available_seasons = available_seasons_and_weeks["Season"].tolist()
-    # all_available_weeks_for_associated_seasons = available_seasons_and_weeks["Weeks"].tolist()
+    # List of Available seasons & List of Available weeks
+    all_available_seasons = available_seasons_and_weeks["Season"].tolist()
+    all_available_weeks_for_associated_seasons = available_seasons_and_weeks["Weeks"].tolist()
 
     #########################################
     # EXAMPLES ON HOW TO GRAB GAME OUTCOMES #
@@ -92,9 +92,9 @@ def main():
     # Example 1 (get_scores_given_seasons_and_weeks)
     # - Get scores from a given list of seasons and their associated weeks
     #   - Provide a list of file names for csv files, if 'None' then default will be used
-    example_seasons = ['2025']
-    example_weeks = [['WEEK 14']]
-    # example_weeks = [all_available_weeks_for_associated_seasons[all_available_seasons.index("2025")]]
+    example_seasons = ['2010']
+    # example_weeks = [['WILD CARD WEEKEND']]
+    example_weeks = [all_available_weeks_for_associated_seasons[all_available_seasons.index("2010")]]
     example_file_names = None
     get_scores_given_seasons_and_weeks(scraper, 
                                        example_seasons, 
