@@ -115,13 +115,13 @@ class NflScraper:
           wait.until(EC.presence_of_element_located((By.XPATH, "html/body/div[2]/main/div/div/div/section/div[2]/div/div/div/div/div/div[1]/ul[1]/li[1]")))
           return
         else:
-          return self.select_year_and_week(self.driver, chosen_year, chosen_week, max_attempts - 1)
+          return self.select_year_and_week(chosen_year, chosen_week, max_attempts - 1)
 
       # If dropdowns have not been found yet, will run method over again.
       except (StaleElementReferenceException, TimeoutException) as e:
         if(max_attempts > 0):
             print("SEARCHING, attempting {} more times (select year and week)".format(max_attempts))
-            return self.select_year_and_week(self.driver, chosen_year, chosen_week, max_attempts - 1)
+            return self.select_year_and_week(chosen_year, chosen_week, max_attempts - 1)
         else:
             return print("Driver unable to find available options. Try again.")
       except NoSuchElementException:
@@ -161,25 +161,23 @@ class NflScraper:
     wait = WebDriverWait(self.driver, 20)
 
     try:
-      # All available elements within 'season' dropdown placed into list.
-      season_webelement_options = wait.until(get_dropdown_options((By.ID, "season-select")))
+      # All available options within 'season' dropdown placed into list.
+      list_of_available_seasons = wait.until(get_dropdown_options((By.ID, "season-select")))
 
       # Finding 'Weeks' schedule for each season
-      for season in season_webelement_options:
-        try:
-          # Selecting Season
-          wait.until(dropdown_search_and_select((By.ID, "season-select"), season))
-          # Identifying weeks in season
-          list_of_weeks = wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[2]/main/div/div/div/section/div/nav/ul")))
-          list_week_elements = list_of_weeks.find_elements(By.TAG_NAME, 'li')
-          weeks_in_season = [
-            wait.until(child_element_to_be_present(week, (By.XPATH, "./div/a/dl/dd[1]"))).text 
-            for week in list_week_elements
-            ]
-          season_and_weeks = [season, weeks_in_season]
-          df_season_week_options.loc[len(df_season_week_options)] = season_and_weeks
-        except TimeoutException: # This might be a mistake. if there is a TimeoutException I think it would end up returning a list while missing a season or week.
-          continue
+      for season in list_of_available_seasons:
+        # Selecting Season
+        wait.until(dropdown_search_and_select((By.ID, "season-select"), season))
+        # Identifying available weeks in season
+        weeks_parent_webelement = wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[2]/main/div/div/div/section/div/nav/ul")))
+        available_week_webelements = weeks_parent_webelement.find_elements(By.TAG_NAME, 'li')
+        available_weeks_in_season = [
+          wait.until(child_element_to_be_present(week, (By.XPATH, "./div/a/dl/dd[1]"))).text 
+          for week in available_week_webelements
+          ]
+        season_and_weeks = [season, available_weeks_in_season]
+        df_season_week_options.loc[len(df_season_week_options)] = season_and_weeks
+
       return df_season_week_options
         
     # Error handling while searching for dropdowns. Will run method completely over again.
@@ -240,11 +238,11 @@ class NflScraper:
           for i in range(0,5,1):
             # Games are separated into different sections based on the date of when the game took place or if the team is on bye.
             # - Each grouping of games are within div tags
-            game_webelements = wait.until(enough_child_elements_present(parent_webelement_games, (By.XPATH, './div'), 1))
-            total += len(game_webelements)
-            array.append(len(game_webelements))
+            grouped_games_elements = wait.until(enough_child_elements_present(parent_webelement_games, (By.XPATH, './div'), 1))
+            total += len(grouped_games_elements)
+            array.append(len(grouped_games_elements))
         # Final Answer (A list that has all game webelements)
-        checked_game_webelements = game_webelements
+        checked_group_game_elements = grouped_games_elements
     except TimeoutException:
         if (max_attempts > 0):
           print("SEARCHING, attempting {} more times (get game week data)".format(max_attempts))
@@ -253,17 +251,17 @@ class NflScraper:
             return print("Unable to get game week data.")
         
     # Taking out adds
-    game_webelements = []
-    for game_day in checked_game_webelements:
+    clean_grouped_game_elements = []
+    for grouped_game_day in checked_group_game_elements:
       # tags that have attributes are adds. They are not webelements that have game data in them.
-      has_attributes = self.driver.execute_script("return arguments[0].attributes.length > 0;", game_day)
+      has_attributes = self.driver.execute_script("return arguments[0].attributes.length > 0;", grouped_game_day)
       if has_attributes:
         continue
       else:
-        self.driver.execute_script("arguments[0].style.border='3px solid blue'", game_day)
-        game_webelements.append(game_day)
+        self.driver.execute_script("arguments[0].style.border='3px solid blue'", grouped_game_day)
+        clean_grouped_game_elements.append(grouped_game_day)
 
-    return game_webelements
+    return clean_grouped_game_elements
 
 
   #############################################################################
@@ -297,33 +295,34 @@ class NflScraper:
     # 1. A description with something like "Thursday Night Football, December 4th" or "Sunday, December 7th"
     # 2. A list of webelements containing games that fall under that description
 
-    # Will create a list of list elements. 
-    # each list element within the list will look like: 
+    # game_groupings - 3D list(?) (list of list elements that have lists)
+    # each element within the outside list will look like:
     # [games_description, [webelement of each game]]
-    game_groupings = []
+    organized_game_groupings = []
 
-    for game_grouping in game_week_webelements:
+    # for game_grouping in game_week_webelements:
+    for grouped_games in game_week_webelements:
 
       # games_description
       try:
-        game_grouping_description = wait.until(child_element_to_be_present(game_grouping, (By.XPATH, "./div[1]/div/div/h3")))
-        game_group_description = game_grouping_description.text
-        self.driver.execute_script("arguments[0].style.border='3px solid red'", game_grouping_description)
+        grouped_games_description = wait.until(child_element_to_be_present(grouped_games, (By.XPATH, "./div[1]/div/div/h3")))
+        self.driver.execute_script("arguments[0].style.border='3px solid red'", grouped_games_description)
+        group_description = grouped_games_description.text
       # descriptionless games (Games that have not be determined yet)
       except:
-        game_grouping_description = wait.until(child_element_to_be_present(game_grouping, (By.XPATH, "./div[1]/div")))
-        game_group_description = "TBD, TBD"
+        grouped_games_description = wait.until(child_element_to_be_present(grouped_games, (By.XPATH, "./div[1]/div")))
+        group_description = "TBD, TBD"
 
       # [webelement of each game]
-      if any(i in game_group_description for i in ["Bye", "Clinched Playoffs"]):
+      if any(i in group_description for i in ["Bye", "Clinched Playoffs"]):
       # if "Bye" in game_group_description:
-        teams_on_bye = wait.until(enough_child_elements_present(game_grouping, (By.XPATH, './div[2]/div/div'), 1))
-        game_groupings.append([game_group_description, teams_on_bye])
+        teams_on_bye = wait.until(enough_child_elements_present(grouped_games, (By.XPATH, './div[2]/div/div'), 1))
+        organized_game_groupings.append([group_description, teams_on_bye])
       else:
-        grouping_games = wait.until(enough_child_elements_present(game_grouping, (By.XPATH, './ul/li'), 1))
-        game_groupings.append([game_group_description, grouping_games])
+        games_in_group = wait.until(enough_child_elements_present(grouped_games, (By.XPATH, './ul/li'), 1))
+        organized_game_groupings.append([group_description, games_in_group])
 
-    return game_groupings
+    return organized_game_groupings
 
   # Version 2 (updated 12/04/2025)
   """
@@ -340,25 +339,25 @@ class NflScraper:
   """
   def get_game_week_scores(self, chosen_year, chosen_week):
 
-    grouped_games_by_week = self.get_parsed_game_week_webelements(chosen_year, chosen_week)
+    grouped_games_in_week = self.get_parsed_game_week_webelements(chosen_year, chosen_week)
 
     # Create df that all scores will go into.
     # return dataframe
-    df_week_scores = pd.DataFrame(columns=["Season", "Week", "GameStatus", "GameSlot", "Date", 
+    df_week_scores = pd.DataFrame(columns=["Season", "Week", "GameStatus", "GameSlot", "GameDate", 
                                            "AwayTeam", "AwayScore", "HomeTeam", "HomeScore"])
 
-    for group in grouped_games_by_week:
-      grouped_games_description = group[0].split(", ")
-      grouped_games = group[1]
+    for group in grouped_games_in_week:
+      group_games_description = group[0].split(", ")
+      group_games = group[1]
 
       # Bye week OR Clinched Playoffs
       # if "Bye" in grouped_games_description[0]:
-      if any(i in grouped_games_description[0] for i in ["Bye", "Clinched Playoffs"]):
-        for off_week in grouped_games:
+      if any(i in group_games_description[0] for i in ["Bye", "Clinched Playoffs"]):
+        for off_week in group_games:
           individual_game = []
           individual_game.insert(0, chosen_year)
           individual_game.insert(1, chosen_week)
-          if "Bye" in grouped_games_description[0]:
+          if "Bye" in group_games_description[0]:
             individual_game.insert(2, "BYE")
           else:
             individual_game.insert(2, "Clinched Playoffs")
@@ -375,7 +374,7 @@ class NflScraper:
           df_week_scores.loc[len(df_week_scores)] = individual_game
       # Regular games
       else:
-        for game in grouped_games:
+        for game in group_games:
           # [Season, Week] 
           individual_game = [chosen_year, chosen_week]
 
@@ -387,7 +386,7 @@ class NflScraper:
             individual_game.insert(2, "TBD")
             
           # [Day, Date]
-          individual_game.extend([grouped_games_description[0], grouped_games_description[1]])
+          individual_game.extend([group_games_description[0], group_games_description[1]])
 
           # [AwayTeam, AwayScore]
           away_team = game.find_element(By.XPATH, "./div/div[1]/div[1]/div[1]/div/div[2]/div[2]")
