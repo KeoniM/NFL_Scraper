@@ -77,13 +77,13 @@ def main():
     # Initializing instance of NflScraper 
     scraper = NflScraper(relative_path_to_webdriver)
 
-    # Printing a dataframe containing all available seasons and weeks
-    available_seasons_and_weeks = scraper.display_seasons_and_weeks()
-    print(available_seasons_and_weeks)
+    # # Printing a dataframe containing all available seasons and weeks
+    # available_seasons_and_weeks = scraper.display_seasons_and_weeks()
+    # print(available_seasons_and_weeks)
 
-    # List of Available seasons & List of Available weeks
-    all_available_seasons = available_seasons_and_weeks["Season"].tolist()
-    all_available_weeks_for_associated_seasons = available_seasons_and_weeks["Weeks"].tolist()
+    # # List of Available seasons & List of Available weeks
+    # all_available_seasons = available_seasons_and_weeks["Season"].tolist()
+    # all_available_weeks_for_associated_seasons = available_seasons_and_weeks["Weeks"].tolist()
 
     #########################################
     # EXAMPLES ON HOW TO GRAB GAME OUTCOMES #
@@ -92,14 +92,14 @@ def main():
     # # Example 1 (get_scores_given_seasons_and_weeks)
     # # - Get scores from a given list of seasons and their associated weeks
     # #   - Provide a list of file names for csv files, if 'None' then default will be used
-    example_seasons = ['2019']
-    # # example_weeks = [['WILD CARD WEEKEND']]
-    example_weeks = [all_available_weeks_for_associated_seasons[all_available_seasons.index("2019")]]
-    example_file_names = None
-    get_scores_given_seasons_and_weeks(scraper, 
-                                       example_seasons, 
-                                       example_weeks, 
-                                       example_file_names)
+    # example_seasons = ['2025']
+    # # example_weeks = [['PRO BOWL']]
+    # example_weeks = [all_available_weeks_for_associated_seasons[all_available_seasons.index("2025")]]
+    # example_file_names = None
+    # get_scores_given_seasons_and_weeks(scraper, 
+    #                                    example_seasons, 
+    #                                    example_weeks, 
+    #                                    example_file_names)
     
     # # Example 2 (get_scores_given_seasons_and_weeks)
     # # - Get all available scores from every week in every season
@@ -111,13 +111,13 @@ def main():
     # EXAMPLES ON HOW TO GRAB GAME PLAYS #
     ######################################
 
-    # # Example 1 (get_plays_given_seasons_and_weeks)
-    # # - Grabbing plays from specified list of seasons and weeks
-    # example_seasons = ['2025']
-    # example_weeks = [['Week 12']]
-    # # example_file_names = ['2024_week 3_plays']
-    # example_file_names = None
-    # get_plays_given_seasons_and_weeks(scraper, example_seasons, example_weeks, example_file_names)
+    # Example 1 (get_plays_given_seasons_and_weeks)
+    # - Grabbing plays from specified list of seasons and weeks
+    example_seasons = ['2025']
+    example_weeks = [['WEEK 12']]
+    # example_file_names = ['2024_week 3_plays']
+    example_file_names = None
+    get_plays_given_seasons_and_weeks(scraper, example_seasons, example_weeks, example_file_names)
 
     # # Example 2 (get_plays_given_seasons_and_weeks)
     # # - Grabbing all plays from a specified season and starting at desired week

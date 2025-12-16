@@ -271,6 +271,15 @@ class NflScraper:
   #############################################################################
 
 
+
+  # I want to make adjustments to this method.
+  # - Currently it returns all games in a selected week.
+  #   - All games include byes, upcoming games, canceled games,
+  #     and completed.
+  #     - What I want to do is have it be able to return only
+  #       completed games.
+
+
   # Version 2 (updated 12/03/2025)
   """
   PURPOSE:
@@ -284,7 +293,8 @@ class NflScraper:
        [game_week_description, [games within game week description]],
         .... ]
   """
-  def get_parsed_game_week_webelements(self, chosen_year, chosen_week):
+  # def get_parsed_game_week_webelements(self, chosen_year, chosen_week):
+  def get_parsed_game_week_webelements(self, chosen_year, chosen_week, only_completed_games = False):
 
     wait = WebDriverWait(self.driver, 2)
 
@@ -300,6 +310,9 @@ class NflScraper:
     # [games_description, [webelement of each game]]
     organized_game_groupings = []
 
+
+
+
     # for game_grouping in game_week_webelements:
     for grouped_games in game_week_webelements:
 
@@ -308,6 +321,13 @@ class NflScraper:
         grouped_games_description = wait.until(child_element_to_be_present(grouped_games, (By.XPATH, "./div[1]/div/div/h3")))
         self.driver.execute_script("arguments[0].style.border='3px solid red'", grouped_games_description)
         group_description = grouped_games_description.text
+
+        if only_completed_games:
+          # check for groupings that only have all completed games (game_status = FINAL)
+          # - if not -> continue onto the next grouping
+          # - if so -> keep going.
+          #            - Dont need to do anything.
+
       # descriptionless games (Games that have not be determined yet)
       except:
         grouped_games_description = wait.until(child_element_to_be_present(grouped_games, (By.XPATH, "./div[1]/div")))
@@ -322,7 +342,19 @@ class NflScraper:
         games_in_group = wait.until(enough_child_elements_present(grouped_games, (By.XPATH, './ul/li'), 1))
         organized_game_groupings.append([group_description, games_in_group])
 
+
+
+
     return organized_game_groupings
+
+
+
+
+
+
+
+
+
 
   # Version 2 (updated 12/04/2025)
   """
@@ -392,23 +424,23 @@ class NflScraper:
           away_team = game.find_element(By.XPATH, "./div/div[1]/div[1]/div[1]/div/div[2]/div[2]")
           self.driver.execute_script("arguments[0].style.border='3px solid blue'", away_team)
           away_name = away_team.find_element(By.XPATH, "./span[3]")
-          away_score = away_team.find_element(By.XPATH, "./div/div/span")
           individual_game.insert(5, away_name.text)
           try:
+            away_score = away_team.find_element(By.XPATH, "./div/div/span")
             individual_game.insert(6, int(away_score.text))
-          except ValueError:
+          except (ValueError, NoSuchElementException):
             individual_game.insert(6, np.nan)
           # [HomeTeam, HomeScore]
           home_team = game.find_element(By.XPATH, "./div/div[1]/div[1]/div[2]/div/div[2]/div[2]")
           self.driver.execute_script("arguments[0].style.border='3px solid red'", home_team)
           home_name = home_team.find_element(By.XPATH, "./span[3]")
-          home_score = home_team.find_element(By.XPATH, "./div/div/span")
           individual_game.insert(7, home_name.text)
           # I understand this is redundant and I could put 'away_score' and 'home_score' together.
           # This just seems to flow a bit nicer.
           try:
+            home_score = home_team.find_element(By.XPATH, "./div/div/span")
             individual_game.insert(8, int(home_score.text))
-          except ValueError:
+          except (ValueError, NoSuchElementException):
             individual_game.insert(8, np.nan)
 
           # Add individual game data to week scores dataframe
@@ -446,6 +478,10 @@ class NflScraper:
                                           'Quarter', 
                                           'DriveNumber', 'TeamWithPossession', 'IsScoringDrive',
                                           'PlayNumberInDrive', 'IsScoringPlay', 'PlayOutcome', 'PlayStart', 'PlayTimeFormation', 'PlayDescription'])
+    
+    ########################
+    # LOCAL HELPER METHODS #
+    ########################
 
     """
     PURPOSE:
@@ -470,8 +506,9 @@ class NflScraper:
           array.append(len(webelements))
       return webelements
     
-
-
+    """
+    NEED TO ADD METHOD DESCRIPTION
+    """
 
     def clean_game(game_info, game_webelement):
 
@@ -497,13 +534,9 @@ class NflScraper:
       )
       self.driver.execute_script("arguments[0].style.border='3px solid red'", game_parent_webelement)
 
-
-
       # I need to create 2 separate methods of mining for plays.
       # - One method is a regular method of grabbing plays
       # - Two method is a reversed method of grabbing plays
-
-
 
       # Button webelement that changes the state of the wrapper webelement to display all drives within game
       all_drives_button_webelement = wait.until(
@@ -517,11 +550,6 @@ class NflScraper:
       else:
         # print('NO')
         self.driver.execute_script("arguments[0].scrollIntoView(); arguments[0].click();", all_drives_button_webelement)
-
-
-
-
-
 
       # Highlights the dropdown menu that changes the state of the wrapper webelement to display a specified quarter of the game.
       quarter_dropdown_menu_webelement = wait.until(
@@ -657,16 +685,103 @@ class NflScraper:
     
 
 
+
+    # This method is way too bulky. This would take forever.
+    # - I am going to try and take another route. 
+    #   - I think in the original method where I grouped games
+    #     webelements, returning all games, I will
+    #     create another function that allows the return of all
+    #     completed games (games that actually contain plays). 
+    #     - The original method returns everthing from canceled games,
+    #       bye weeks upcoming games and completed games. All I need
+    #       here are completed games.
+
+    # def all_completed_games_in_week(chosen_year, chosen_week):
+      
+    #   game_week_webelements = self.get_parsed_game_week_webelements(chosen_year, chosen_week)
+    #   completed_games = []
+
+    #   for game_group in game_week_webelements:
+    #     if any(i in game_group[0] for i in ["Bye", "Clinched Playoffs"]):
+    #       continue
+    #     else:
+    #       for game in game_group[1]:
+    #         game_status = game.find_element(By.XPATH, "./div/div[2]/div/div/div")
+    #         if game_status.text == "FINAL":
+    #           # self.driver.execute_script("arguments[0].style.border='3px solid red'", game)
+    #           completed_games.append(game)
+    
+    #   return completed_games
+
+
+
+
+
+
+    ######################
+    # MAIN CONTROL BLOCK #
+    ######################
+
+
     # get_parsed_game_week_webelements[0] -> returns all webelements of games that were played during the specified week
-    game_week_webelements = self.get_parsed_game_week_webelements(chosen_year, chosen_week)[0]
+    game_week_webelements = self.get_parsed_game_week_webelements(chosen_year, chosen_week)
+
+    for game_group in game_week_webelements:
+      print(game_group[0])
+      for game in game_group[1]:
+        self.driver.execute_script("arguments[0].style.border='3px solid red'", game)
+
+
+
+
+
+
+    # completed_games_webelements = all_completed_games_in_week(chosen_year, chosen_week)
+
+    # Because of the new updated nfl website, I need to locate all completed games and 
+    # add their webelements to a list to loop through.
+
+    # # All completed games will have a "FINAL" status next to them. I will leverage this and use it to organize games
+    # # to grab play data from.
+
+    # completed_games = []
+
+    # for game_group in game_week_webelements:
+    #   print(game_group[0])
+    #   if any(i in game_group[0] for i in ["Bye", "Clinched Playoffs"]):
+    #    continue
+    #   else:
+    #     for game in game_group[1]:
+    #       game_status = game.find_element(By.XPATH, "./div/div[2]/div/div/div")
+    #       if game_status.text == "FINAL":
+    #         self.driver.execute_script("arguments[0].style.border='3px solid red'", game)
+    #         completed_games.append(game)
+
 
     ###########################
     # LOOP THROUGH EVERY GAME #
     ###########################
+
     for i in range(len(game_week_webelements)):
+    # for i in range(len(completed_games_webelements)):
+
+
+
+
 
       # This is necessary because these webelements seem to change when you move forward and backward through pages
       game = self.get_parsed_game_week_webelements(chosen_year,chosen_week)[0][i]
+
+
+      # game = all_completed_games_in_week(chosen_year, chosen_week)[i]
+      # self.driver.execute_script("arguments[0].style.border='3px solid red'", game)
+
+
+      # There has to be a better way. This is too much.
+
+
+
+
 
       try:
 
