@@ -278,6 +278,17 @@ class NflScraper:
   #     and completed.
   #     - What I want to do is have it be able to return only
   #       completed games.
+  #       
+  #       - I have come to find out that, because of how I am grabbing
+  #         plays from compeleted games, this too is very bulky.
+  #         - I think I want to locate all grouped games that have
+  #           the potential for completed games in them.
+  #           - These potential groups of games would include
+  #             1. completed games
+  #             2. upcoming games
+  #             3. canceled games
+  #             4. games that have not been determined yet
+
 
 
   # Version 2 (updated 12/03/2025)
@@ -294,7 +305,7 @@ class NflScraper:
         .... ]
   """
   # def get_parsed_game_week_webelements(self, chosen_year, chosen_week):
-  def get_parsed_game_week_webelements(self, chosen_year, chosen_week, only_completed_games = False):
+  def get_parsed_game_week_webelements(self, chosen_year, chosen_week, potentially_with_plays_only = False):
 
     wait = WebDriverWait(self.driver, 2)
 
@@ -310,9 +321,6 @@ class NflScraper:
     # [games_description, [webelement of each game]]
     organized_game_groupings = []
 
-
-
-
     # for game_grouping in game_week_webelements:
     for grouped_games in game_week_webelements:
 
@@ -321,29 +329,24 @@ class NflScraper:
         grouped_games_description = wait.until(child_element_to_be_present(grouped_games, (By.XPATH, "./div[1]/div/div/h3")))
         self.driver.execute_script("arguments[0].style.border='3px solid red'", grouped_games_description)
         group_description = grouped_games_description.text
-
-        if only_completed_games:
-          # check for groupings that only have all completed games (game_status = FINAL)
-          # - if not -> continue onto the next grouping
-          # - if so -> keep going.
-          #            - Dont need to do anything.
-
       # descriptionless games (Games that have not be determined yet)
       except:
+        # upcoming games that have not been determined yet will not have plays within them.
+        if potentially_with_plays_only:
+          continue
         grouped_games_description = wait.until(child_element_to_be_present(grouped_games, (By.XPATH, "./div[1]/div")))
         group_description = "TBD, TBD"
 
       # [webelement of each game]
       if any(i in group_description for i in ["Bye", "Clinched Playoffs"]):
-      # if "Bye" in game_group_description:
+        # Teams on bye or have clinched playoffs will not have plays in them
+        if potentially_with_plays_only:
+          continue
         teams_on_bye = wait.until(enough_child_elements_present(grouped_games, (By.XPATH, './div[2]/div/div'), 1))
         organized_game_groupings.append([group_description, teams_on_bye])
       else:
         games_in_group = wait.until(enough_child_elements_present(grouped_games, (By.XPATH, './ul/li'), 1))
         organized_game_groupings.append([group_description, games_in_group])
-
-
-
 
     return organized_game_groupings
 
@@ -724,15 +727,12 @@ class NflScraper:
 
 
     # get_parsed_game_week_webelements[0] -> returns all webelements of games that were played during the specified week
-    game_week_webelements = self.get_parsed_game_week_webelements(chosen_year, chosen_week)
+    # game_week_webelements = self.get_parsed_game_week_webelements(chosen_year, chosen_week, True)
 
-    for game_group in game_week_webelements:
-      print(game_group[0])
-      for game in game_group[1]:
-        self.driver.execute_script("arguments[0].style.border='3px solid red'", game)
+    # grouped games in a week that have the potential to have plays within them
+    active_grouped_games_webelements = self.get_parsed_game_week_webelements(chosen_year, chosen_week, True)
 
-
-
+    print(len(active_grouped_games_webelements))
 
 
 
@@ -758,11 +758,12 @@ class NflScraper:
     #         completed_games.append(game)
 
 
+
     ###########################
     # LOOP THROUGH EVERY GAME #
     ###########################
 
-    for i in range(len(game_week_webelements)):
+    for i in range(len(active_grouped_games_webelements)):
     # for i in range(len(completed_games_webelements)):
 
 
@@ -770,7 +771,16 @@ class NflScraper:
 
 
       # This is necessary because these webelements seem to change when you move forward and backward through pages
-      game = self.get_parsed_game_week_webelements(chosen_year,chosen_week)[0][i]
+      game_group = self.get_parsed_game_week_webelements(chosen_year,chosen_week, True)[i]
+
+      for game in game_group[1]:
+        print(game_group[0])
+        for game in game_group[1]:
+          self.driver.execute_script("arguments[0].style.border='3px solid red'", game)
+
+      # This is for testing purposes.
+      # - Will take out
+      continue
 
 
       # game = all_completed_games_in_week(chosen_year, chosen_week)[i]
