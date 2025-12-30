@@ -515,14 +515,12 @@ class NflScraper:
 
     def clean_game(game_info, game_webelement):
 
-      df_game_plays = pd.DataFrame(columns=['Season', 'Week', 'Day', 'Date', 'AwayTeam', 'HomeTeam', 
+      df_game_plays = pd.DataFrame(columns=['Season', 'Week', 'GameSlot', 'Date', 'AwayTeam', 'HomeTeam', 
                                             'Quarter', 
                                             'DriveNumber', 'TeamWithPossession', 'IsScoringDrive',
                                             'PlayNumberInDrive', 'IsScoringPlay', 'PlayOutcome', 'PlayStart', 'PlayTimeFormation', 'PlayDescription'])
 
       # UPDATE for newly updated website (August 2025)
-
-
 
       # Need to figure out orientation of webpage.
       # - Although all games have the similar page setup, some game pages are oriented different than others.
@@ -685,40 +683,6 @@ class NflScraper:
             print(play_data)
 
       return df_game_plays
-    
-
-
-
-    # This method is way too bulky. This would take forever.
-    # - I am going to try and take another route. 
-    #   - I think in the original method where I grouped games
-    #     webelements, returning all games, I will
-    #     create another function that allows the return of all
-    #     completed games (games that actually contain plays). 
-    #     - The original method returns everthing from canceled games,
-    #       bye weeks upcoming games and completed games. All I need
-    #       here are completed games.
-
-    # def all_completed_games_in_week(chosen_year, chosen_week):
-      
-    #   game_week_webelements = self.get_parsed_game_week_webelements(chosen_year, chosen_week)
-    #   completed_games = []
-
-    #   for game_group in game_week_webelements:
-    #     if any(i in game_group[0] for i in ["Bye", "Clinched Playoffs"]):
-    #       continue
-    #     else:
-    #       for game in game_group[1]:
-    #         game_status = game.find_element(By.XPATH, "./div/div[2]/div/div/div")
-    #         if game_status.text == "FINAL":
-    #           # self.driver.execute_script("arguments[0].style.border='3px solid red'", game)
-    #           completed_games.append(game)
-    
-    #   return completed_games
-
-
-
-
 
 
     ######################
@@ -726,140 +690,88 @@ class NflScraper:
     ######################
 
 
-    # get_parsed_game_week_webelements[0] -> returns all webelements of games that were played during the specified week
-    # game_week_webelements = self.get_parsed_game_week_webelements(chosen_year, chosen_week, True)
-
     # grouped games in a week that have the potential to have plays within them
     active_grouped_games_webelements = self.get_parsed_game_week_webelements(chosen_year, chosen_week, True)
 
-    print(len(active_grouped_games_webelements))
-
-
-
-    # completed_games_webelements = all_completed_games_in_week(chosen_year, chosen_week)
-
-    # Because of the new updated nfl website, I need to locate all completed games and 
-    # add their webelements to a list to loop through.
-
-    # # All completed games will have a "FINAL" status next to them. I will leverage this and use it to organize games
-    # # to grab play data from.
-
-    # completed_games = []
-
-    # for game_group in game_week_webelements:
-    #   print(game_group[0])
-    #   if any(i in game_group[0] for i in ["Bye", "Clinched Playoffs"]):
-    #    continue
-    #   else:
-    #     for game in game_group[1]:
-    #       game_status = game.find_element(By.XPATH, "./div/div[2]/div/div/div")
-    #       if game_status.text == "FINAL":
-    #         self.driver.execute_script("arguments[0].style.border='3px solid red'", game)
-    #         completed_games.append(game)
-
+    # print(len(active_grouped_games_webelements))
+    # print(len(active_grouped_games_webelements[0][1]))
+    # print(len(active_grouped_games_webelements[1][1]))
 
 
     ###########################
     # LOOP THROUGH EVERY GAME #
     ###########################
 
-    for i in range(len(active_grouped_games_webelements)):
-    # for i in range(len(completed_games_webelements)):
 
+    # for i in range(len(active_grouped_games_webelements)):
+    for game_group_num in range(len(active_grouped_games_webelements)):
 
+      # # This is necessary because these webelements seem to change when you move forward and backward through pages
+      # game_group = self.get_parsed_game_week_webelements(chosen_year,chosen_week, True)[i]
 
+      # for game in game_group[1]:
+      for game_num in range(len(active_grouped_games_webelements[game_group_num][1])):
 
+        games_in_week = self.get_parsed_game_week_webelements(chosen_year,chosen_week, True)
 
-      # This is necessary because these webelements seem to change when you move forward and backward through pages
-      game_group = self.get_parsed_game_week_webelements(chosen_year,chosen_week, True)[i]
+        game_group = games_in_week[game_group_num]
 
-      for game in game_group[1]:
-        print(game_group[0])
-        for game in game_group[1]:
-          self.driver.execute_script("arguments[0].style.border='3px solid red'", game)
+        game = game_group[1][game_num]
 
-      # This is for testing purposes.
-      # - Will take out
-      continue
+        # game = self.get_parsed_game_week_webelements(chosen_year,chosen_week, True)[game_group_num][1][game_num]
 
+        # Scroll to and Highlight focused game
+        self.driver.execute_script("arguments[0].scrollIntoView(); arguments[0].style.border='3px solid red';", game)
 
-      # game = all_completed_games_in_week(chosen_year, chosen_week)[i]
-      # self.driver.execute_script("arguments[0].style.border='3px solid red'", game)
+        try:
 
-
-      # There has to be a better way. This is too much.
-
-
-
-
-
-      try:
-
-        # ['Year', 'Week']
-        game_info = [chosen_year, chosen_week]
-
-        # Locating game button to 
-        # 1. Use as parent element to grab "game_info"
-        # 2. Click to get to "play_by_play_data"
-        game_button_webelement = wait.until(child_element_to_be_present(game, (By.XPATH, "./div/div/button")))
-
-        self.driver.execute_script("arguments[0].style.border='3px solid red'", game_button_webelement)
-
-        # ['Day', 'Date']
-        game_date_webelement = wait.until(child_element_to_be_present(game_button_webelement, (By.XPATH, "./div/div[1]")))
-        self.driver.execute_script("arguments[0].style.border='3px solid red'", game_date_webelement)
-        game_date = game_date_webelement.text.split()
-        game_info.extend(game_date[2::])
-
-        # ['Away Team', 'Home Team']
-        game_team_scores_webelement = wait.until(child_element_to_be_present(game_button_webelement, (By.XPATH, "./div/div[2]")))
-        self.driver.execute_script("arguments[0].style.border='3px solid red'", game_team_scores_webelement)
-        game_team_scores_data = game_team_scores_webelement.text.split()
-
-        team_names_data = [] # list for team names ['Away Team', 'Home Team']
-        multi_word_team_name = [] # Used for the rare case of a team having multiple strings within their name.
-        # Loop will receive list somewhat like:
-        # ['AwayTeam', 'AwayRecord', 'AwayScore', 'HomeTeam', 'HomeRecord', 'HomeScore']
-        # Rarely loop will receive list like:
-        # ['AwayTeam First half of name', 'AwayTeam Second half of name', 'AwayRecord', 'AwayScore', 'HomeTeam', 'HomeRecord', 'HomeScore']
-        # Either way we want to get list to be like:
-        # ['Away Team', 'Home Team']
-        while(len(game_team_scores_data) != 0):
-          if (game_team_scores_data[0].count("-") > 0 or game_team_scores_data[0].isdigit()):
-            if len(multi_word_team_name) > 0:
-                team_names_data.append(" ".join(multi_word_team_name))
-                multi_word_team_name.clear()
-            game_team_scores_data.pop(0)
+          # Make sure game has been completed (if not, skip game.)
+          game_status = game.find_element(By.XPATH, "./div/div[2]/div/div/div")
+          self.driver.execute_script("arguments[0].style.border='3px solid red'", game_status)
+          if game_status.text != "FINAL":
             continue
-          else:
-            multi_word_team_name.append(game_team_scores_data[0])
-            game_team_scores_data.pop(0)
-            continue
-          
-        # game_details = ['Year', 'Week', 'Day', 'Date', 'Away Team', 'Home Team']]
-        game_info.extend(team_names_data)
 
-        # Scroll into view and click using JavaScript
-        self.driver.execute_script("arguments[0].scrollIntoView(); arguments[0].click();", game_button_webelement)
+          # ['Year', 'Week']
+          game_info = [chosen_year, chosen_week]
+
+          # ['Game Slot', 'Date']
+          group_games_description = game_group[0].split(", ")
+          game_info.extend(group_games_description)
+
+          # ['Away Team', 'Home Team']
+          away_team = game.find_element(By.XPATH, "./div/div[1]/div[1]/div[1]/div/div[2]/div[2]")
+          self.driver.execute_script("arguments[0].style.border='3px solid blue'", away_team)
+          away_name = away_team.find_element(By.XPATH, "./span[3]")
+          game_info.append(away_name.text)
+
+          home_team = game.find_element(By.XPATH, "./div/div[1]/div[1]/div[2]/div/div[2]/div[2]")
+          self.driver.execute_script("arguments[0].style.border='3px solid red'", home_team)
+          home_name = home_team.find_element(By.XPATH, "./span[3]")
+          game_info.append(home_name.text)
+
+          # Locating and accessing the game url (Where all plays are located)
+          game_url = wait.until(child_element_to_be_present(game, (By.XPATH, "./div/a"))).get_attribute("href")
+
+          self.driver.get(game_url)
+
+          # 
+          max_retries = 3
+          attempt = 0
+          while attempt < max_retries:
+            try:
+              
+              df_plays_in_single_game = clean_game(game_info, game)
+
+              df_week_plays = pd.concat([df_week_plays, df_plays_in_single_game], ignore_index=True)
+
+              break
+
+            except Exception as e:
+              print(f"Attempt {attempt + 1} failed: {e}")
+              attempt += 1
 
 
-        max_retries = 3
-        attempt = 0
-        while attempt < max_retries:
-          try:
-            
-            df_plays_in_single_game = clean_game(game_info, game)
-
-            df_week_plays = pd.concat([df_week_plays, df_plays_in_single_game], ignore_index=True)
-
-            break
-
-          except Exception as e:
-            print(f"Attempt {attempt + 1} failed: {e}")
-            attempt += 1
-
-
-      except NoSuchElementException:
-        print("No Such Element")
+        except NoSuchElementException:
+          print("No Such Element")
 
     return df_week_plays
