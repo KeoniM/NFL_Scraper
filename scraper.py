@@ -88,9 +88,9 @@ class NflScraper:
 
       try:
         wait.until(dropdown_search_and_select((By.ID, "season-select"), chosen_year))
-        # Make sure the year has rendered before the week is searched. Without this, the DOM will mix weeks.
-        # - The webelement targeted here is the first game. If that webelement fully loads, then the year selected has rendered.
-        wait.until(EC.presence_of_element_located((By.XPATH, "html/body/div[2]/main/div/div/div/section/div[2]/div/div/div/div/div/div[1]/ul[1]/li[1]")))
+        # # Make sure the year has rendered before the week is searched. Without this, the DOM will mix weeks.
+        # # - The webelement targeted here is the first game. If that webelement fully loads, then the year selected has rendered.
+        # wait.until(EC.presence_of_element_located((By.XPATH, "html/body/div[2]/main/div/div/div/section/div[2]/div/div/div/div/div/div[1]/ul[1]/li[1]")))
 
         # Select week
         # - Searches through available weeks within season and opens chosen week page
@@ -454,7 +454,6 @@ class NflScraper:
     return df_week_scores
 
 
-
 # Version 3 (For updated website) (August 2025) (& Error catching)
 ##################################################################################
 #                                                                                #
@@ -477,7 +476,7 @@ class NflScraper:
     wait = WebDriverWait(self.driver, 20)
 
     # Return Dataframe
-    df_week_plays = pd.DataFrame(columns=['Season', 'Week', 'Day', 'Date', 'AwayTeam', 'HomeTeam', 
+    df_week_plays = pd.DataFrame(columns=['Season', 'Week', 'GameSlot', 'Date', 'AwayTeam', 'HomeTeam', 
                                           'Quarter', 
                                           'DriveNumber', 'TeamWithPossession', 'IsScoringDrive',
                                           'PlayNumberInDrive', 'IsScoringPlay', 'PlayOutcome', 'PlayStart', 'PlayTimeFormation', 'PlayDescription'])
@@ -515,8 +514,8 @@ class NflScraper:
 
     def clean_game(game_info, game_webelement):
 
-      df_game_plays = pd.DataFrame(columns=['Season', 'Week', 'GameSlot', 'Date', 'AwayTeam', 'HomeTeam', 
-                                            'Quarter', 
+      df_game_plays = pd.DataFrame(columns=['Season', 'Week', 'GameSlot', 'Date', 'AwayTeam', 'HomeTeam',
+                                            'Quarter',
                                             'DriveNumber', 'TeamWithPossession', 'IsScoringDrive',
                                             'PlayNumberInDrive', 'IsScoringPlay', 'PlayOutcome', 'PlayStart', 'PlayTimeFormation', 'PlayDescription'])
 
@@ -543,13 +542,10 @@ class NflScraper:
       all_drives_button_webelement = wait.until(
         child_element_to_be_present(game_parent_webelement, (By.XPATH, "./div/div/button[2]"))
       )
-      # self.driver.execute_script("arguments[0].scrollIntoView(); arguments[0].click();", all_drives_button_webelement)
 
       if orientation_webelement.get_attribute("id") == 'live':
-        # print('YES')
         self.driver.execute_script("arguments[0].scrollIntoView()", all_drives_button_webelement)
       else:
-        # print('NO')
         self.driver.execute_script("arguments[0].scrollIntoView(); arguments[0].click();", all_drives_button_webelement)
 
       # Highlights the dropdown menu that changes the state of the wrapper webelement to display a specified quarter of the game.
@@ -598,9 +594,7 @@ class NflScraper:
             child_element_to_be_present(drive, (By.XPATH, "./button/div/div"))
           )
           self.driver.execute_script("arguments[0].style.border='3px solid red'", drive_outcome_webelement)
-          
-          # if (drive_outcome_webelement.text == 'Touchdown'):
-          #   is_scoring_drive = 1
+
           if drive_outcome_webelement.text in ("Field Goal", "Touchdown"):
             is_scoring_drive = 1
 
@@ -689,39 +683,33 @@ class NflScraper:
     # MAIN CONTROL BLOCK #
     ######################
 
-
     # grouped games in a week that have the potential to have plays within them
     active_grouped_games_webelements = self.get_parsed_game_week_webelements(chosen_year, chosen_week, True)
-
-    # print(len(active_grouped_games_webelements))
-    # print(len(active_grouped_games_webelements[0][1]))
-    # print(len(active_grouped_games_webelements[1][1]))
-
 
     ###########################
     # LOOP THROUGH EVERY GAME #
     ###########################
 
-
-    # for i in range(len(active_grouped_games_webelements)):
+    # looping through all game groupings of the week
     for game_group_num in range(len(active_grouped_games_webelements)):
 
-      # # This is necessary because these webelements seem to change when you move forward and backward through pages
-      # game_group = self.get_parsed_game_week_webelements(chosen_year,chosen_week, True)[i]
-
-      # for game in game_group[1]:
+      # Looping through all games within current game group
       for game_num in range(len(active_grouped_games_webelements[game_group_num][1])):
 
+        # This is necessary because these webelements seem to change when you move forward and backward through pages
         games_in_week = self.get_parsed_game_week_webelements(chosen_year,chosen_week, True)
 
+        # [game_group_name, [All game webelements in game group]]
         game_group = games_in_week[game_group_num]
 
         game = game_group[1][game_num]
 
-        # game = self.get_parsed_game_week_webelements(chosen_year,chosen_week, True)[game_group_num][1][game_num]
-
         # Scroll to and Highlight focused game
         self.driver.execute_script("arguments[0].scrollIntoView(); arguments[0].style.border='3px solid red';", game)
+
+        ##########################
+        # OVERHEAD DATA FOR GAME #
+        ##########################
 
         try:
 
@@ -734,9 +722,9 @@ class NflScraper:
           # ['Year', 'Week']
           game_info = [chosen_year, chosen_week]
 
-          # ['Game Slot', 'Date']
+          # ['GameSlot', 'Date']
           group_games_description = game_group[0].split(", ")
-          game_info.extend(group_games_description)
+          game_info.extend(group_games_description[:2])
 
           # ['Away Team', 'Home Team']
           away_team = game.find_element(By.XPATH, "./div/div[1]/div[1]/div[1]/div/div[2]/div[2]")
@@ -754,7 +742,10 @@ class NflScraper:
 
           self.driver.get(game_url)
 
-          # 
+          ########################################
+          # EXTRACTING PLAY BY PLAY DATA IN GAME #
+          ########################################
+
           max_retries = 3
           attempt = 0
           while attempt < max_retries:
