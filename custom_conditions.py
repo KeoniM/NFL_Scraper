@@ -195,7 +195,7 @@ RETURN:
 NEXT ITERATION:
     - Can probably make this more flexable by creating a list of locators instead of limiting it to 2
 """
-class one_or_the_other(object):
+class one_or_the_other_child(object):
 
     def __init__(self, parent_webelement, locator1, locator2):
         self.parent_webelement = parent_webelement

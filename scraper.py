@@ -106,13 +106,17 @@ class NflScraper:
 
         # grabbing webelement containing text of which week the page is on (e.g. "WEEK 1")
         week_check = wait.until(
-          EC.presence_of_element_located((By.XPATH, "/html/body/div[2]/main/div/div/div/section/div[2]/div[2]/div"))
+          # EC.presence_of_element_located((By.XPATH, "/html/body/div[2]/main/div/div/div/section/div[2]/div[2]/div"))
+          EC.presence_of_element_located((By.XPATH, "/html/body/div/main/div[2]/div/div/section/div[3]/div/div/span")) # update 01/15/2026
         )
+
+        print(week_check.text)
 
         # double check to be sure that the users "chosen_week" matches the page
         if(week_check.text == chosen_week):
           # After the correct page has been selected (for a fact), this next step is to make sure the DOM renders completely before moving on.
-          wait.until(EC.presence_of_element_located((By.XPATH, "html/body/div[2]/main/div/div/div/section/div[2]/div/div/div/div/div/div[1]/ul[1]/li[1]")))
+          # wait.until(EC.presence_of_element_located((By.XPATH, "html/body/div[2]/main/div/div/div/section/div[2]/div/div/div/div/div/div[1]/ul[1]/li[1]")))
+          wait.until(EC.presence_of_element_located((By.XPATH, "html/body/div/main/div[2]/div/div/section/div[2]/div/div/div/div/div[1]/ul[1]/li[1]"))) # update 01/15/2026
           return
         else:
           return self.select_year_and_week(chosen_year, chosen_week, max_attempts - 1)
@@ -218,7 +222,8 @@ class NflScraper:
 
     # Parent webelement that has all game outcomes (Scores/Byes/Upcoming)
     parent_webelement_games = wait.until(
-      EC.presence_of_element_located((By.XPATH, "/html/body/div[2]/main/div/div/div/section/div[2]/div/div/div/div/div"))
+      # EC.presence_of_element_located((By.XPATH, "/html/body/div[2]/main/div/div/div/section/div[2]/div/div/div/div/div"))
+      EC.presence_of_element_located((By.XPATH, "html/body/div/main/div[2]/div/div/section/div[2]/div/div/div/div")) # Updated 1/15/2026
     )
 
     # This block of code doubles as:
@@ -524,13 +529,15 @@ class NflScraper:
       # Need to figure out orientation of webpage.
       # - Although all games have the similar page setup, some game pages are oriented different than others.
       orientation_webelement = wait.until(
-        EC.presence_of_element_located((By.XPATH, "/html/body/div/main/div[2]/div/div/section[2]/div/div/button[1]"))
+        # EC.presence_of_element_located((By.XPATH, "/html/body/div/main/div[2]/div/div/section[2]/div/div/button[1]")) 
+        EC.presence_of_element_located((By.XPATH, "/html/body/div/main/div[2]/div/div/section[last()]/div/div/button[1]")) # Needed to update for seasons 2017 and below
       )
       print(orientation_webelement.get_attribute("id"))
 
       # Wrapper webelement containing all plays, separated by quarters and drives
       game_parent_webelement = wait.until(
-        EC.presence_of_element_located((By.XPATH, "/html/body/div/main/div[2]/div/div/section[2]/div/div[2]/div/div/div/section/div"))
+        # EC.presence_of_element_located((By.XPATH, "/html/body/div/main/div[2]/div/div/section[2]/div/div[2]/div/div/div/section/div"))
+        EC.presence_of_element_located((By.XPATH, "/html/body/div/main/div[2]/div/div/section[last()]/div/div[2]/div/div/div/section/div"))
       )
       self.driver.execute_script("arguments[0].style.border='3px solid red'", game_parent_webelement)
 
