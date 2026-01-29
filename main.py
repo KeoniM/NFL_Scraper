@@ -127,7 +127,7 @@ def main():
     example_weeks = all_available_weeks_for_associated_seasons[index_of_desired_season]
     # get_plays_given_seasons_and_weeks(scraper, example_season, [example_weeks])
     # - With start week given
-    example_start_week = example_weeks.index("PRESEASON WEEK 3")
+    example_start_week = example_weeks.index("WEEK 5")
     example_week_start = [example_weeks[example_start_week::]] # Needs to be a list of lists
     get_plays_given_seasons_and_weeks(scraper, example_season, example_week_start)
 
