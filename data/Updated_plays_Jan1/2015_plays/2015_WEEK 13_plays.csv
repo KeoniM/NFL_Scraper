@@ -1,0 +1,179 @@
+Season,Week,GameSlot,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayStart,PlayTimeFormation,PlayDescription
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,1,Green Bay Packers,0,1,0,Kickoff from DET 35,,Kickoff,— S.Martin kicks 69 yards from DET 35 to GB -4. J.Janis to GB 18 for 22 yards (Q.Diggs).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,1,Green Bay Packers,0,2,0,5 Yard Run,1st & 10 at GB 18,14:55 1st Shotgun,— J.Starks right tackle to GB 23 for 5 yards (T.Whitehead).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,1,Green Bay Packers,0,3,0,6 Yard Run,2nd & 5 at GB 23,"14:33 1st No Huddle, Shotgun",— J.Starks up the middle to GB 29 for 6 yards (I.Abdul-Quddus).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,1,Green Bay Packers,0,4,0,4 Yard Run,1st & 10 at GB 29,14:01 1st Shotgun,"— J.Starks right tackle to GB 33 for 4 yards (J.Jones, I.Abdul-Quddus)."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,1,Green Bay Packers,0,5,0,Pass Incomplete,2nd & 6 at GB 33,13:37 1st Shotgun,— A.Rodgers pass incomplete short right to J.Starks.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,1,Green Bay Packers,0,6,0,5 Yard Penalty,3rd & 6 at GB 33,13:31 1st Shotgun,"— PENALTY on DET-J.Jones, Neutral Zone Infraction, 5 yards, enforced at GB 33 - No Play."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,1,Green Bay Packers,0,7,0,-1 Yard Run,3rd & 1 at GB 38,13:31 1st Shotgun,— J.Starks left end to GB 37 for -1 yards (T.Whitehead).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,1,Green Bay Packers,0,8,0,Punt,4th & 2 at GB 37,13:01 1st,"— T.Masthay punts 31 yards to DET 32, Center-B.Goode, out of bounds."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,2,Detroit Lions,1,1,0,12 Yard Run,1st & 10 at DET 32,12:52 1st,— A.Abdullah right tackle to DET 44 for 12 yards (Q.Rollins).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,2,Detroit Lions,1,2,0,1 Yard Pass,1st & 10 at DET 44,12:15 1st Shotgun,— M.Stafford pass short right to T.Riddick to DET 45 for 1 yard (S.Shields).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,2,Detroit Lions,1,3,0,20 Yard Pass,2nd & 9 at DET 45,11:33 1st Shotgun,— M.Stafford pass short middle to C.Johnson to GB 35 for 20 yards (M.Burnett).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,2,Detroit Lions,1,4,0,0 Yard Run,1st & 10 at GB 35,10:55 1st,— J.Bell left end to GB 35 for no gain (D.Jones).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,2,Detroit Lions,1,5,0,7 Yard Pass,2nd & 10 at GB 35,10:10 1st Shotgun,— M.Stafford pass short middle to J.Bell to GB 28 for 7 yards (S.Shields; J.Ryan) [L.Guion].
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,2,Detroit Lions,1,6,0,-5 Yard Penalty,3rd & 3 at GB 28,09:23 1st Shotgun,"— PENALTY on DET-G.Tate, False Start, 5 yards, enforced at GB 28 - No Play."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,2,Detroit Lions,1,7,0,Pass Incomplete,3rd & 8 at GB 33,08:58 1st Shotgun,— M.Stafford pass incomplete deep middle to C.Johnson.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,2,Detroit Lions,1,8,1,Field Goal,4th & 8 at GB 33,08:53 1st,"— M.Prater 51 yard field goal is GOOD, Center-D.Muhlbach, Holder-S.Martin."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,3,Green Bay Packers,0,1,0,Kickoff from DET 35,,Kickoff,"— S.Martin kicks 65 yards from DET 35 to end zone, Touchback."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,3,Green Bay Packers,0,2,0,-6 Yard Pass,1st & 10 at GB 20,08:48 1st,"— A.Rodgers pass short left to J.Starks to DET 48 for 32 yards (G.Quin) [I.Abdul-Quddus]. PENALTY on GB-J.Sitton, Face Mask (15 Yards), 14 yards, enforced at GB 28."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,3,Green Bay Packers,0,3,0,-2 Yard Run,1st & 16 at GB 14,08:16 1st Shotgun,"— J.Starks right end to GB 12 for -2 yards (D.Tapp). FUMBLES (D.Tapp), and recovers at GB 12. J.Starks to GB 12 for no gain (D.Slay)."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,3,Green Bay Packers,0,4,0,Pass Incomplete,2nd & 18 at GB 12,07:45 1st Shotgun,— A.Rodgers pass incomplete deep left to J.Janis.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,3,Green Bay Packers,0,5,0,16 Yard Pass,3rd & 18 at GB 12,07:37 1st Shotgun,— A.Rodgers pass deep middle to J.Abbrederis to GB 28 for 16 yards (Q.Diggs) [H.Ngata].
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,3,Green Bay Packers,0,6,0,Punt,4th & 2 at GB 28,06:51 1st,"— T.Masthay punts 48 yards to DET 24, Center-B.Goode, fair catch by G.Tate."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,4,Detroit Lions,1,1,0,-3 Yard Run,1st & 10 at DET 24,06:43 1st,— A.Abdullah right tackle to DET 21 for -3 yards (M.Daniels).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,4,Detroit Lions,1,2,0,8 Yard Pass,2nd & 13 at DET 21,06:07 1st Shotgun,— M.Stafford pass short left to G.Tate to DET 29 for 8 yards (C.Hayward).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,4,Detroit Lions,1,3,0,12 Yard Pass,3rd & 5 at DET 29,05:23 1st Shotgun,— M.Stafford pass short middle to G.Tate to DET 41 for 12 yards (J.Thomas).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,4,Detroit Lions,1,4,0,12 Yard Run,1st & 10 at DET 41,04:46 1st Shotgun,— M.Stafford scrambles up the middle to GB 47 for 12 yards (J.Peppers).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,4,Detroit Lions,1,5,0,36 Yard Run,1st & 10 at GB 47,04:00 1st,— A.Abdullah right tackle to GB 11 for 36 yards (H.Clinton-Dix; M.Burnett).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,4,Detroit Lions,1,6,0,3 Yard Run,1st & 10 at GB 11,03:14 1st Shotgun,— A.Abdullah up the middle to GB 8 for 3 yards (M.Burnett).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,4,Detroit Lions,1,7,0,5 Yard Pass,2nd & 7 at GB 8,02:32 1st Shotgun,— M.Stafford pass short middle to G.Tate to GB 3 for 5 yards (M.Burnett; C.Matthews).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,4,Detroit Lions,1,8,1,Touchdown,3rd & 2 at GB 3,01:53 1st Shotgun,"— M.Stafford pass short right to E.Ebron for 3 yards, TOUCHDOWN [H.Clinton-Dix]."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,4,Detroit Lions,1,9,1,Extra Point,,01:50 1st,"— M.Prater extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,5,Green Bay Packers,0,1,0,Kickoff from DET 35,,Kickoff,"— S.Martin kicks 65 yards from DET 35 to end zone, Touchback."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,5,Green Bay Packers,0,2,0,2 Yard Run,1st & 10 at GB 20,01:50 1st Shotgun,— E.Lacy left end to GB 22 for 2 yards (S.Tulloch; C.Reid).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,5,Green Bay Packers,0,3,0,Interception,2nd & 8 at GB 22,01:22 1st Shotgun,— A.Rodgers pass deep middle intended for J.Jones INTERCEPTED by G.Quin at GB 41. G.Quin to GB 17 for 24 yards (J.Kuhn).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,6,Detroit Lions,1,1,1,Touchdown,1st & 10 at GB 17,01:08 1st Shotgun,"— M.Stafford pass deep right to C.Johnson for 17 yards, TOUCHDOWN."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,1st Quarter,6,Detroit Lions,1,2,1,Extra Point,,01:02 1st,"— M.Prater extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin. PENALTY on GB-C.Hayward, Defensive Offside, 5 yards, enforced between downs."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,1,Green Bay Packers,0,1,0,Kickoff from DET 40,,Kickoff,"— S.Martin kicks 60 yards from DET 40 to end zone, Touchback."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,1,Green Bay Packers,0,2,0,Pass Incomplete,1st & 10 at GB 20,01:02 1st Shotgun,"— A.Rodgers pass incomplete [S.Tulloch]. PENALTY on GB-A.Rodgers, Intentional Grounding, 11 yards, enforced at GB 20."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,1,Green Bay Packers,0,3,0,40 Yard Penalty,2nd & 21 at GB 9,00:55 1st Shotgun,"— A.Rodgers pass incomplete deep right to R.Rodgers [C.Reid]. PENALTY on DET-I.Abdul-Quddus, Defensive Pass Interference, 40 yards, enforced at GB 9 - No Play."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,1,Green Bay Packers,0,4,0,-1 Yard Run,1st & 10 at GB 49,00:44 1st Shotgun,— E.Lacy right tackle to GB 48 for -1 yards (I.Abdul-Quddus).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,1,Green Bay Packers,0,5,0,15 Yard Pass,2nd & 11 at GB 48,00:09 1st Shotgun,— A.Rodgers pass short middle to R.Rodgers to DET 37 for 15 yards (J.Bynes).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,1,Green Bay Packers,0,6,0,Pass Incomplete,1st & 10 at DET 37,15:00 2nd Shotgun,— A.Rodgers pass incomplete short right to J.Abbrederis.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,1,Green Bay Packers,0,7,0,19 Yard Pass,2nd & 10 at DET 37,14:57 2nd Shotgun,— A.Rodgers pass short left to R.Rodgers to DET 18 for 19 yards (I.Abdul-Quddus).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,1,Green Bay Packers,0,8,0,2 Yard Run,1st & 10 at DET 18,14:27 2nd Shotgun,— E.Lacy up the middle to DET 16 for 2 yards (C.Reid).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,1,Green Bay Packers,0,9,0,2 Yard Pass,2nd & 8 at DET 16,13:43 2nd Shotgun,— A.Rodgers pass short left to R.Cobb to DET 14 for 2 yards (I.Abdul-Quddus).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,1,Green Bay Packers,0,10,0,-9 Yard Sack,3rd & 6 at DET 14,13:03 2nd Shotgun,— A.Rodgers sacked at DET 23 for -9 yards (D.Taylor).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,1,Green Bay Packers,0,11,0,Field Goal No Good,4th & 15 at DET 23,12:19 2nd,"— M.Crosby 41 yard field goal is No Good, Hit Left Upright, Center-B.Goode, Holder-T.Masthay."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,2,Detroit Lions,0,1,0,4 Yard Run,1st & 10 at DET 31,12:15 2nd Shotgun,— A.Abdullah right tackle to DET 35 for 4 yards (M.Daniels).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,2,Detroit Lions,0,2,0,Pass Incomplete,2nd & 6 at DET 35,11:37 2nd Shotgun,— M.Stafford pass incomplete short left to A.Abdullah.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,2,Detroit Lions,0,3,0,Pass Incomplete,3rd & 6 at DET 35,11:33 2nd Shotgun,— M.Stafford pass incomplete short middle to C.Fuller (Q.Rollins).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,2,Detroit Lions,0,4,0,Punt,4th & 6 at DET 35,11:26 2nd,"— S.Martin punts 40 yards to GB 25, Center-D.Muhlbach, fair catch by M.Hyde."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,3,Green Bay Packers,0,1,0,6 Yard Pass,1st & 10 at GB 25,11:18 2nd Shotgun,— A.Rodgers pass short middle to J.Starks to GB 31 for 6 yards (C.Wilson).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,3,Green Bay Packers,0,2,0,-3 Yard Run,2nd & 4 at GB 31,10:46 2nd Shotgun,— J.Starks right end to GB 28 for -3 yards (H.Ngata).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,3,Green Bay Packers,0,3,0,-9 Yard Sack,3rd & 7 at GB 28,10:05 2nd Shotgun,"— A.Rodgers sacked at GB 18 for -10 yards (D.Taylor). FUMBLES (D.Taylor) [D.Taylor], recovered by GB-C.Linsley at GB 19. C.Linsley to GB 19 for no gain (E.Ansah)."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,3,Green Bay Packers,0,4,0,Punt,4th & 16 at GB 19,09:25 2nd,"— T.Masthay punts 52 yards to DET 29, Center-B.Goode. G.Tate to DET 35 for 6 yards (J.Kuhn). PENALTY on DET-Q.Diggs, Offensive Holding, 10 yards, enforced at DET 29."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,4,Detroit Lions,0,1,0,1 Yard Run,1st & 10 at DET 19,09:16 2nd Shotgun,— A.Abdullah left tackle to DET 20 for 1 yard (H.Clinton-Dix).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,4,Detroit Lions,0,2,0,5 Yard Penalty,2nd & 9 at DET 20,08:51 2nd Shotgun,"— PENALTY on GB-L.Guion, Neutral Zone Infraction, 5 yards, enforced at DET 20 - No Play."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,4,Detroit Lions,0,3,0,-3 Yard Run,2nd & 4 at DET 25,08:21 2nd Shotgun,— A.Abdullah up the middle to DET 22 for -3 yards (M.Neal).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,4,Detroit Lions,0,4,0,-3 Yard Sack,3rd & 7 at DET 22,07:37 2nd Shotgun,— M.Stafford sacked at DET 19 for -3 yards (M.Hyde).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,4,Detroit Lions,0,5,0,Punt,4th & 10 at DET 19,07:00 2nd,"— S.Martin punts 56 yards to GB 25, Center-D.Muhlbach, fair catch by M.Hyde."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,5,Green Bay Packers,0,1,0,0 Yard Run,1st & 10 at GB 25,06:51 2nd Shotgun,— E.Lacy left tackle to GB 25 for no gain (K.Thornton).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,5,Green Bay Packers,0,2,0,-1 Yard Run,2nd & 10 at GB 25,"06:16 2nd No Huddle, Shotgun",— R.Cobb left end to GB 24 for -1 yards (S.Tulloch).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,5,Green Bay Packers,0,3,0,13 Yard Penalty,3rd & 11 at GB 24,05:39 2nd Shotgun,"— A.Rodgers pass incomplete short middle to R.Cobb. PENALTY on DET-Q.Diggs, Defensive Pass Interference, 13 yards, enforced at GB 24 - No Play."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,5,Green Bay Packers,0,4,0,6 Yard Pass,1st & 10 at GB 37,05:33 2nd Shotgun,— A.Rodgers pass short left to D.Adams to GB 43 for 6 yards (N.Lawson).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,5,Green Bay Packers,0,5,0,7 Yard Pass,2nd & 4 at GB 43,04:56 2nd Shotgun,— A.Rodgers pass short middle to R.Cobb to 50 for 7 yards (D.Carey). GB-C.Linsley was injured during the play. His return is Questionable.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,5,Green Bay Packers,0,6,0,-10 Yard Penalty,1st & 10 at 50,04:22 2nd Shotgun,"— A.Rodgers pass incomplete deep right to J.Jones. PENALTY on GB-J.Tretter, Offensive Holding, 10 yards, enforced at 50 - No Play."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,5,Green Bay Packers,0,7,0,1 Yard Run,1st & 20 at GB 40,04:15 2nd Shotgun,— E.Lacy up the middle to GB 41 for 1 yard (C.Wilson).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,5,Green Bay Packers,0,8,0,-3 Yard Pass,2nd & 19 at GB 41,03:40 2nd Shotgun,— A.Rodgers pass short middle to E.Lacy to GB 38 for -3 yards (T.Whitehead) [D.Taylor].
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,5,Green Bay Packers,0,9,0,Pass Incomplete,3rd & 22 at GB 38,02:53 2nd Shotgun,— A.Rodgers pass incomplete deep left to J.Jones [E.Ansah].
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,5,Green Bay Packers,0,10,0,Punt,4th & 22 at GB 38,02:44 2nd,"— T.Masthay punts 62 yards to end zone, Center-B.Goode, Touchback."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,6,Detroit Lions,0,1,0,-3 Yard Run,1st & 10 at DET 20,02:35 2nd,— A.Abdullah up the middle to DET 17 for -3 yards (M.Burnett).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,6,Detroit Lions,0,2,0,Timeout,,02:29 2nd,— Timeout #1 by GB at 02:29.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,6,Detroit Lions,0,3,0,7 Yard Pass,2nd & 13 at DET 17,02:29 2nd Shotgun,— M.Stafford pass short left to T.Riddick to DET 24 for 7 yards (C.Hayward; J.Ryan).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,6,Detroit Lions,0,4,0,Timeout,,02:23 2nd,— Timeout #2 by GB at 02:23.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,6,Detroit Lions,0,5,0,-4 Yard Sack,3rd & 6 at DET 24,02:23 2nd Shotgun,— M.Stafford sacked at DET 20 for -4 yards (H.Clinton-Dix).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,6,Detroit Lions,0,6,0,Timeout,,02:19 2nd,— Timeout #3 by GB at 02:19.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,6,Detroit Lions,0,7,0,Punt,4th & 10 at DET 20,02:19 2nd,"— S.Martin punts 52 yards to GB 28, Center-D.Muhlbach, fair catch by M.Hyde."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,7,Green Bay Packers,0,1,0,4 Yard Pass,1st & 10 at GB 28,02:11 2nd Shotgun,— A.Rodgers pass short middle to D.Adams to GB 32 for 4 yards (J.Bynes) [E.Ansah].
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,7,Green Bay Packers,0,2,0,5 Yard Run,2nd & 6 at GB 32,02:00 2nd Shotgun,— A.Rodgers scrambles right end ran ob at GB 37 for 5 yards (J.Bynes).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,7,Green Bay Packers,0,3,0,0 Yard Run,3rd & 1 at GB 37,01:51 2nd Shotgun,— J.Starks left tackle to GB 37 for no gain (I.Abdul-Quddus).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,7,Green Bay Packers,0,4,0,Timeout,,01:46 2nd,— Timeout #1 by DET at 01:46.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,7,Green Bay Packers,0,5,0,Punt,4th & 1 at GB 37,01:45 2nd,"— T.Masthay punts 53 yards to DET 10, Center-B.Goode, out of bounds."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,8,Detroit Lions,0,1,0,10 Yard Pass,1st & 10 at DET 10,01:37 2nd Shotgun,— M.Stafford pass short right to G.Tate to DET 20 for 10 yards (J.Thomas).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,8,Detroit Lions,0,2,0,Pass Incomplete,1st & 10 at DET 20,"01:17 2nd No Huddle, Shotgun",— M.Stafford pass incomplete deep right to G.Tate.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,8,Detroit Lions,0,3,0,Pass Incomplete,2nd & 10 at DET 20,01:11 2nd Shotgun,— M.Stafford pass incomplete short right to G.Tate.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,8,Detroit Lions,0,4,0,9 Yard Pass,3rd & 10 at DET 20,01:07 2nd Shotgun,— M.Stafford pass short middle to T.Riddick to DET 29 for 9 yards (C.Hayward).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,8,Detroit Lions,0,5,0,Punt,4th & 1 at DET 29,00:21 2nd,"— S.Martin punts 55 yards to GB 16, Center-D.Muhlbach, fair catch by M.Hyde."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,2nd Quarter,9,Green Bay Packers,0,1,0,-1 Yard Run,1st & 10 at GB 16,00:13 2nd,— A.Rodgers kneels to GB 15 for -1 yards.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,1,Detroit Lions,1,1,0,Kickoff from GB 35,,Kickoff,— M.Crosby kicks 72 yards from GB 35 to DET -7. A.Abdullah to DET 18 for 25 yards (C.Banjo). DET-T.Lewis was injured during the play. His return is Questionable.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,1,Detroit Lions,1,2,0,18 Yard Pass,1st & 10 at DET 18,14:55 3rd,— M.Stafford pass short left to J.Bell to DET 36 for 18 yards (C.Hayward).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,1,Detroit Lions,1,3,0,13 Yard Pass,1st & 10 at DET 36,14:17 3rd Shotgun,— M.Stafford pass short right to G.Tate pushed ob at DET 49 for 13 yards (J.Ryan).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,1,Detroit Lions,1,4,0,3 Yard Run,1st & 10 at DET 49,13:43 3rd,— A.Abdullah right tackle to GB 48 for 3 yards (J.Ryan; M.Hyde).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,1,Detroit Lions,1,5,0,Pass Incomplete,2nd & 7 at GB 48,12:59 3rd Shotgun,— M.Stafford pass incomplete deep left to C.Johnson.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,1,Detroit Lions,1,6,0,15 Yard Pass,3rd & 7 at GB 48,12:52 3rd Shotgun,— M.Stafford pass short right to C.Fuller to GB 33 for 15 yards (H.Clinton-Dix; Q.Rollins) [J.Thomas].
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,1,Detroit Lions,1,7,0,3 Yard Run,1st & 10 at GB 33,12:06 3rd,— G.Tate left end pushed ob at GB 30 for 3 yards (H.Clinton-Dix).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,1,Detroit Lions,1,8,0,7 Yard Pass,2nd & 7 at GB 30,11:32 3rd Shotgun,— M.Stafford pass short right to G.Tate to GB 23 for 7 yards (J.Elliott).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,1,Detroit Lions,1,9,0,Pass Incomplete,1st & 10 at GB 23,10:45 3rd Shotgun,— M.Stafford pass incomplete deep middle to C.Johnson.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,1,Detroit Lions,1,10,0,4 Yard Run,2nd & 10 at GB 23,10:39 3rd,— T.Riddick right tackle to GB 19 for 4 yards (M.Daniels; J.Ryan).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,1,Detroit Lions,1,11,0,-5 Yard Penalty,3rd & 6 at GB 19,10:00 3rd Shotgun,"— PENALTY on DET-L.Warford, False Start, 5 yards, enforced at GB 19 - No Play."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,1,Detroit Lions,1,12,0,8 Yard Pass,3rd & 11 at GB 24,09:41 3rd Shotgun,— M.Stafford pass short left to T.Jones to GB 16 for 8 yards (M.Neal).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,1,Detroit Lions,1,13,1,Field Goal,4th & 3 at GB 16,08:58 3rd,"— M.Prater 34 yard field goal is GOOD, Center-D.Muhlbach, Holder-S.Martin."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,2,Green Bay Packers,1,1,0,Kickoff from DET 35,,Kickoff,— S.Martin kicks 55 yards from DET 35 to GB 10. M.Hyde to GB 25 for 15 yards (M.Burton).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,2,Green Bay Packers,1,2,0,Pass Incomplete,1st & 10 at GB 25,08:47 3rd Shotgun,— A.Rodgers pass incomplete deep left to D.Adams [J.Jones]. DET-Q.Diggs was injured during the play. His return is Probable.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,2,Green Bay Packers,1,3,0,0 Yard Run,2nd & 10 at GB 25,08:42 3rd Shotgun,— J.Crockett up the middle to GB 25 for no gain (I.Abdul-Quddus).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,2,Green Bay Packers,1,4,0,26 Yard Pass,3rd & 10 at GB 25,08:02 3rd Shotgun,— A.Rodgers pass short right to R.Rodgers to DET 49 for 26 yards (G.Quin).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,2,Green Bay Packers,1,5,0,4 Yard Run,1st & 10 at DET 49,07:26 3rd Shotgun,— J.Crockett left tackle to DET 45 for 4 yards (D.Carey).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,2,Green Bay Packers,1,6,0,12 Yard Run,2nd & 6 at DET 45,"06:54 3rd No Huddle, Shotgun",— J.Crockett right tackle to DET 33 for 12 yards (E.Ansah). DET-D.Carey was injured during the play.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,2,Green Bay Packers,1,7,0,25 Yard Pass,1st & 10 at DET 33,06:29 3rd Shotgun,— A.Rodgers pass short right to J.Starks to DET 8 for 25 yards (S.Tulloch; G.Quin).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,2,Green Bay Packers,1,8,1,Touchdown,1st & 8 at DET 8,05:53 3rd Shotgun,"— J.Starks right tackle to DET 5 for 3 yards (I.Abdul-Quddus). FUMBLES (I.Abdul-Quddus), recovered by GB-R.Cobb at DET 0. TOUCHDOWN."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,2,Green Bay Packers,1,9,1,Extra Point,,05:44 3rd,"— M.Crosby extra point is GOOD, Center-B.Goode, Holder-T.Masthay."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,3,Detroit Lions,0,1,0,Kickoff from GB 35,,Kickoff,"— M.Crosby kicks 65 yards from GB 35 to end zone, Touchback."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,3,Detroit Lions,0,2,0,Fumble,1st & 10 at DET 20,05:44 3rd,"— M.Stafford sacked at DET 12 for -8 yards (J.Peppers). FUMBLES (J.Peppers), RECOVERED by GB-J.Ryan at DET 12. J.Ryan to DET 12 for no gain (B.Pettigrew)."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,4,Green Bay Packers,1,1,0,1 Yard Pass,1st & 10 at DET 12,05:37 3rd Shotgun,— A.Rodgers pass short left to R.Rodgers to DET 11 for 1 yard (C.Reid).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,4,Green Bay Packers,1,2,0,3 Yard Pass,2nd & 9 at DET 11,04:56 3rd Shotgun,— A.Rodgers pass short right to R.Rodgers to DET 8 for 3 yards (D.Carey; J.Bynes).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,4,Green Bay Packers,1,3,1,Touchdown,3rd & 6 at DET 8,04:12 3rd Shotgun,"— A.Rodgers pass short middle to D.Adams for 8 yards, TOUCHDOWN."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,4,Green Bay Packers,1,4,1,Extra Point,,04:06 3rd,"— M.Crosby extra point is GOOD, Center-B.Goode, Holder-T.Masthay."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,5,Detroit Lions,0,1,0,Kickoff from GB 35,,Kickoff,— M.Crosby kicks 69 yards from GB 35 to DET -4. A.Abdullah to DET 22 for 26 yards (C.Hayward).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,5,Detroit Lions,0,2,0,4 Yard Run,1st & 10 at DET 22,03:59 3rd,— A.Abdullah up the middle to DET 26 for 4 yards (J.Ryan).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,5,Detroit Lions,0,3,0,5 Yard Pass,2nd & 6 at DET 26,03:17 3rd Shotgun,— M.Stafford pass short middle to T.Riddick to DET 31 for 5 yards (C.Matthews).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,5,Detroit Lions,0,4,0,6 Yard Run,3rd & 1 at DET 31,02:39 3rd,— J.Bell left tackle to DET 37 for 6 yards (C.Matthews). DET-M.Ola was injured during the play. His return is Questionable.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,5,Detroit Lions,0,5,0,4 Yard Run,1st & 10 at DET 37,02:17 3rd Shotgun,— J.Bell left tackle to DET 41 for 4 yards (J.Ryan).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,5,Detroit Lions,0,6,0,5 Yard Pass,2nd & 6 at DET 41,01:39 3rd Shotgun,— M.Stafford pass short right to T.Riddick to DET 46 for 5 yards (C.Hayward).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,5,Detroit Lions,0,7,0,Pass Incomplete,3rd & 1 at DET 46,00:52 3rd Shotgun,— M.Stafford pass incomplete short middle to T.Jones [J.Peppers].
+2015,WEEK 13,Thursday,December 3rd,GB,DET,3rd Quarter,5,Detroit Lions,0,8,0,Punt,4th & 1 at DET 46,00:48 3rd,"— S.Martin punts 36 yards to GB 18, Center-D.Muhlbach, downed by DET-T.Whitehead."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,1,Green Bay Packers,0,1,0,3 Yard Pass,1st & 10 at GB 18,00:38 3rd Shotgun,— A.Rodgers pass short left to D.Adams to GB 21 for 3 yards (N.Lawson).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,1,Green Bay Packers,0,2,0,10 Yard Run,2nd & 7 at GB 21,"00:10 3rd No Huddle, Shotgun",— J.Crockett left tackle to GB 31 for 10 yards (G.Quin).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,1,Green Bay Packers,0,3,0,-4 Yard Run,1st & 10 at GB 31,15:00 4th Shotgun,— J.Crockett left tackle to GB 27 for -4 yards (Q.Diggs).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,1,Green Bay Packers,0,4,0,Pass Incomplete,2nd & 14 at GB 27,14:26 4th Shotgun,— A.Rodgers pass incomplete deep right to D.Adams [D.Tapp]. GB-D.Bakhtiari was injured during the play.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,1,Green Bay Packers,0,5,0,-9 Yard Sack,3rd & 14 at GB 27,14:20 4th Shotgun,— A.Rodgers sacked at GB 18 for -9 yards (E.Ansah).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,1,Green Bay Packers,0,6,0,Punt,4th & 23 at GB 18,13:41 4th,"— T.Masthay punts 40 yards to DET 42, Center-B.Goode, fair catch by G.Tate."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,2,Detroit Lions,1,1,0,8 Yard Run,1st & 10 at DET 42,13:35 4th,— A.Abdullah right tackle to 50 for 8 yards (J.Ryan).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,2,Detroit Lions,1,2,0,4 Yard Run,2nd & 2 at 50,12:59 4th,— A.Abdullah right tackle to GB 46 for 4 yards (M.Burnett).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,2,Detroit Lions,1,3,0,7 Yard Pass,1st & 10 at GB 46,12:14 4th Shotgun,— M.Stafford pass short left to C.Johnson to GB 39 for 7 yards (S.Shields).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,2,Detroit Lions,1,4,0,-10 Yard Penalty,2nd & 3 at GB 39,11:33 4th,"— A.Abdullah right end to GB 38 for 1 yard (M.Burnett). PENALTY on DET-L.Waddle, Offensive Holding, 10 yards, enforced at GB 39 - No Play."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,2,Detroit Lions,1,5,0,Pass Incomplete,2nd & 13 at GB 49,11:08 4th Shotgun,"— M.Stafford pass incomplete deep right. Penalty on DET-L.Warford, Ineligible Downfield Pass, declined. Ball thrown away"
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,2,Detroit Lions,1,6,0,5 Yard Penalty,3rd & 13 at GB 49,10:59 4th Shotgun,"— M.Stafford pass incomplete short left to T.Riddick. PENALTY on GB-J.Peppers, Defensive Offside, 5 yards, enforced at GB 49 - No Play."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,2,Detroit Lions,1,7,0,6 Yard Pass,3rd & 8 at GB 44,10:54 4th Shotgun,— M.Stafford pass short left to E.Ebron to GB 38 for 6 yards (S.Shields).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,2,Detroit Lions,1,8,0,4 Yard Pass,4th & 2 at GB 38,10:08 4th Shotgun,— M.Stafford pass short right to G.Tate to GB 34 for 4 yards (J.Ryan).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,2,Detroit Lions,1,9,0,1 Yard Run,1st & 10 at GB 34,09:28 4th Shotgun,— A.Abdullah right tackle to GB 33 for 1 yard (Q.Rollins).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,2,Detroit Lions,1,10,0,Pass Incomplete,2nd & 9 at GB 33,08:41 4th Shotgun,— M.Stafford pass incomplete deep left to C.Johnson. GB-C.Hayward was injured during the play.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,2,Detroit Lions,1,11,0,10 Yard Run,3rd & 9 at GB 33,08:34 4th Shotgun,— M.Stafford scrambles right end ran ob at GB 23 for 10 yards (Q.Rollins).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,2,Detroit Lions,1,12,0,-1 Yard Run,1st & 10 at GB 23,08:04 4th,— J.Bell right tackle to GB 24 for -1 yards (M.Pennel; B.Raji).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,2,Detroit Lions,1,13,0,Pass Incomplete,2nd & 11 at GB 24,07:21 4th Shotgun,— M.Stafford pass incomplete short right to T.Riddick.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,2,Detroit Lions,1,14,0,Pass Incomplete,3rd & 11 at GB 24,07:17 4th Shotgun,— M.Stafford pass incomplete short right to C.Johnson (S.Shields).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,2,Detroit Lions,1,15,0,Timeout,,07:11 4th,— Timeout #1 by DET at 07:11.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,2,Detroit Lions,1,16,1,Field Goal,4th & 11 at GB 24,07:11 4th,"— M.Prater 42 yard field goal is GOOD, Center-D.Muhlbach, Holder-S.Martin."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,3,Green Bay Packers,1,1,0,Kickoff from DET 35,,Kickoff,— S.Martin kicks 73 yards from DET 35 to GB -8. J.Janis to GB 16 for 24 yards (D.Carey).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,3,Green Bay Packers,1,2,0,6 Yard Run,1st & 10 at GB 16,07:01 4th Shotgun,— A.Rodgers scrambles right end ran ob at GB 22 for 6 yards (I.Abdul-Quddus).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,3,Green Bay Packers,1,3,0,3 Yard Run,2nd & 4 at GB 22,06:34 4th Shotgun,— J.Starks up the middle to GB 25 for 3 yards (S.Tulloch).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,3,Green Bay Packers,1,4,0,Pass Incomplete,3rd & 1 at GB 25,05:53 4th Shotgun,— A.Rodgers pass incomplete short left to J.Starks (S.Tulloch) [I.Abdul-Quddus].
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,3,Green Bay Packers,1,5,0,Timeout,,05:47 4th,— Timeout #1 by GB at 05:47.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,3,Green Bay Packers,1,6,0,16 Yard Pass,4th & 1 at GB 25,05:47 4th Shotgun,— A.Rodgers pass short right to R.Cobb pushed ob at GB 41 for 16 yards (D.Slay).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,3,Green Bay Packers,1,7,0,4 Yard Pass,1st & 10 at GB 41,"05:31 4th No Huddle, Shotgun",— A.Rodgers pass short left to R.Cobb pushed ob at GB 45 for 4 yards (Q.Diggs).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,3,Green Bay Packers,1,8,0,7 Yard Pass,2nd & 6 at GB 45,05:09 4th Shotgun,— A.Rodgers pass short left to J.Starks ran ob at DET 48 for 7 yards (S.Tulloch).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,3,Green Bay Packers,1,9,0,-5 Yard Penalty,1st & 10 at DET 48,04:39 4th Shotgun,"— PENALTY on GB-D.Barclay, False Start, 5 yards, enforced at DET 48 - No Play."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,3,Green Bay Packers,1,10,0,26 Yard Pass,1st & 15 at GB 47,04:37 4th Shotgun,— A.Rodgers pass short right to R.Rodgers to DET 27 for 26 yards (I.Abdul-Quddus; G.Quin).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,3,Green Bay Packers,1,11,0,11 Yard Pass,1st & 10 at DET 27,"04:15 4th No Huddle, Shotgun",— A.Rodgers pass short right to R.Rodgers to DET 16 for 11 yards (G.Quin).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,3,Green Bay Packers,1,12,0,-1 Yard Pass,1st & 10 at DET 16,03:47 4th Shotgun,— A.Rodgers pass short right to J.Starks to DET 17 for -1 yards (I.Abdul-Quddus).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,3,Green Bay Packers,1,13,0,Pass Incomplete,2nd & 11 at DET 17,"03:17 4th No Huddle, Shotgun",— A.Rodgers pass incomplete deep left to D.Adams (N.Lawson).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,3,Green Bay Packers,1,14,1,Touchdown,3rd & 11 at DET 17,03:12 4th Shotgun,"— A.Rodgers scrambles left end for 17 yards, TOUCHDOWN."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,3,Green Bay Packers,1,15,1,Extra Point,,03:04 4th,"— M.Crosby extra point is GOOD, Center-B.Goode, Holder-T.Masthay."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,4,Detroit Lions,0,1,0,Kickoff from GB 35,,Kickoff,"— M.Crosby kicks 65 yards from GB 35 to end zone, Touchback."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,4,Detroit Lions,0,2,0,-5 Yard Penalty,1st & 10 at DET 20,03:04 4th,"— PENALTY on DET-L.Waddle, False Start, 5 yards, enforced at DET 20 - No Play."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,4,Detroit Lions,0,3,0,-1 Yard Run,1st & 15 at DET 15,03:04 4th,— J.Bell right end to DET 14 for -1 yards (J.Ryan).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,4,Detroit Lions,0,4,0,Timeout,,03:00 4th,— Timeout #2 by GB at 03:00.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,4,Detroit Lions,0,5,0,4 Yard Pass,2nd & 16 at DET 14,03:00 4th Shotgun,— M.Stafford pass short left to G.Tate to DET 18 for 4 yards (H.Clinton-Dix; Q.Rollins).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,4,Detroit Lions,0,6,0,Timeout,,02:54 4th,— Timeout #3 by GB at 02:54.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,4,Detroit Lions,0,7,0,29 Yard Pass,3rd & 12 at DET 18,02:54 4th Shotgun,— M.Stafford pass deep middle to T.Jones to DET 47 for 29 yards (H.Clinton-Dix).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,4,Detroit Lions,0,8,0,0 Yard Run,1st & 10 at DET 47,02:11 4th,— J.Bell up the middle to DET 47 for no gain (M.Burnett).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,4,Detroit Lions,0,9,0,-2 Yard Run,2nd & 10 at DET 47,02:00 4th,— J.Bell right end to DET 45 for -2 yards (M.Daniels).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,4,Detroit Lions,0,10,0,-1 Yard Run,3rd & 12 at DET 45,01:17 4th,— J.Bell left tackle to DET 44 for -1 yards (J.Peppers).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,4,Detroit Lions,0,11,0,Timeout,,00:30 4th,— Timeout #2 by DET at 00:30.
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,4,Detroit Lions,0,12,0,Punt,4th & 13 at DET 44,00:29 4th,"— S.Martin punts 35 yards to GB 21, Center-D.Muhlbach, fair catch by M.Hyde."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,5,Green Bay Packers,1,1,0,Pass Incomplete,1st & 10 at GB 21,00:23 4th Shotgun,— A.Rodgers pass incomplete deep right to R.Cobb (Q.Diggs) [J.Bynes].
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,5,Green Bay Packers,1,2,0,Pass Incomplete,2nd & 10 at GB 21,00:16 4th Shotgun,— A.Rodgers pass incomplete deep right to J.Abbrederis (I.Abdul-Quddus).
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,5,Green Bay Packers,1,3,0,18 Yard Pass,3rd & 10 at GB 21,00:06 4th Shotgun,"— A.Rodgers pass deep left to J.Jones to GB 40 for 19 yards. Lateral to R.Rodgers to GB 24 for -16 yards. Lateral to A.Rodgers to GB 24 for no gain (D.Taylor). PENALTY on DET-D.Taylor, Face Mask (15 Yards), 15 yards, enforced at GB 24."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,5,Green Bay Packers,1,4,1,Touchdown,1st & 10 at GB 39,00:00 4th Shotgun,"— A.Rodgers pass deep middle to R.Rodgers for 61 yards, TOUCHDOWN."
+2015,WEEK 13,Thursday,December 3rd,GB,DET,4th Quarter,5,Green Bay Packers,1,5,0,2PT Conversion Fails,,00:00 4th,— TWO-POINT CONVERSION ATTEMPT. A.Rodgers rushes kneels. ATTEMPT FAILS.
