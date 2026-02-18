@@ -111,10 +111,10 @@ def main():
     # EXAMPLES ON HOW TO GRAB GAME PLAYS #
     ######################################
 
-    # # Example 1 (get_plays_given_seasons_and_weeks)
+    # # # Example 1 (get_plays_given_seasons_and_weeks)
     # # - Grabbing plays from specified list of seasons and weeks
-    # example_seasons = ['2010']
-    # example_weeks = [['PRESEASON WEEK 1']]
+    # example_seasons = ['2015']
+    # example_weeks = [['WEEK 17']]
     # # example_file_names = ['2024_week 3_plays']
     # example_file_names = None
     # get_plays_given_seasons_and_weeks(scraper, example_seasons, example_weeks, example_file_names)
@@ -122,12 +122,12 @@ def main():
     # Example 2 (get_plays_given_seasons_and_weeks)
     # Grabbing all plays from a specified season
     # - Without start week given
-    index_of_desired_season = all_available_seasons.index("2013")
+    index_of_desired_season = all_available_seasons.index("2016")
     example_season = [all_available_seasons[index_of_desired_season]] # Needs to be a list of lists
     example_weeks = all_available_weeks_for_associated_seasons[index_of_desired_season]
     # get_plays_given_seasons_and_weeks(scraper, example_season, [example_weeks])
     # - With start week given
-    example_start_week = example_weeks.index("WEEK 16")
+    example_start_week = example_weeks.index("PRESEASON WEEK 4")
     example_week_start = [example_weeks[example_start_week::]] # Needs to be a list of lists
     get_plays_given_seasons_and_weeks(scraper, example_season, example_week_start)
 
