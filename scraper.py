@@ -173,7 +173,8 @@ class NflScraper:
         # Selecting Season
         wait.until(dropdown_search_and_select((By.ID, "season-select"), season))
         # Identifying available weeks in season
-        weeks_parent_webelement = wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[2]/main/div/div/div/section/div/nav/ul")))
+        # weeks_parent_webelement = wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[2]/main/div/div/div/section/div/nav/ul")))
+        weeks_parent_webelement = wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div/main/div[2]/div/div/section/div/nav/ul"))) # Updated 02/19/2026
         available_week_webelements = weeks_parent_webelement.find_elements(By.TAG_NAME, 'li')
         available_weeks_in_season = [
           wait.until(child_element_to_be_present(week, (By.XPATH, "./div/a/dl/dd[1]"))).text 
