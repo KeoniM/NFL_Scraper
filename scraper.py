@@ -530,14 +530,12 @@ class NflScraper:
       # Need to figure out orientation of webpage.
       # - Although all games have the similar page setup, some game pages are oriented different than others.
       orientation_webelement = wait.until(
-        # EC.presence_of_element_located((By.XPATH, "/html/body/div/main/div[2]/div/div/section[2]/div/div/button[1]")) 
-        EC.presence_of_element_located((By.XPATH, "/html/body/div/main/div[2]/div/div/section[last()]/div/div/button[1]")) # Needed to update for seasons 2017 and below
+        EC.presence_of_element_located((By.XPATH, "/html/body/div/main/div[2]/div/div/section[last()]/div/div/button[1]"))
       )
       print(orientation_webelement.get_attribute("id"))
 
       # Wrapper webelement containing all plays, separated by quarters and drives
       game_parent_webelement = wait.until(
-        # EC.presence_of_element_located((By.XPATH, "/html/body/div/main/div[2]/div/div/section[2]/div/div[2]/div/div/div/section/div"))
         EC.presence_of_element_located((By.XPATH, "/html/body/div/main/div[2]/div/div/section[last()]/div/div[2]/div/div/div/section/div"))
       )
       self.driver.execute_script("arguments[0].style.border='3px solid red'", game_parent_webelement)
@@ -634,9 +632,7 @@ class NflScraper:
           # - Sometimes no plays within drives are posted. This does not mean that they did not happen, it means
           #   that they have not been posted.
           try:
-            # wait.until(child_element_to_be_present(plays_container_webelement, (By.XPATH, "./div")))
             wait.until(child_element_to_be_present(plays_container_webelement, (By.XPATH, "./li")))
-            # every_play_in_drive = num_child_webelements_check(plays_container_webelement, (By.XPATH, "./div"), 0, 5)
             every_play_in_drive = num_child_webelements_check(plays_container_webelement, (By.XPATH, "./li"), 0, 5)
           except:
             every_play_in_drive = []
