@@ -25,6 +25,9 @@ from selenium.common.exceptions import StaleElementReferenceException
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import TimeoutException
 
+# to stop running program
+import sys
+
 """
 PURPOSE: 
   - Webscraping data from the National Football League's website (nfl.com)
@@ -88,14 +91,11 @@ class NflScraper:
 
       try:
         wait.until(dropdown_search_and_select((By.ID, "season-select"), chosen_year))
-        # # Make sure the year has rendered before the week is searched. Without this, the DOM will mix weeks.
-        # # - The webelement targeted here is the first game. If that webelement fully loads, then the year selected has rendered.
-        # wait.until(EC.presence_of_element_located((By.XPATH, "html/body/div[2]/main/div/div/div/section/div[2]/div/div/div/div/div/div[1]/ul[1]/li[1]")))
-
         # Select week
         # - Searches through available weeks within season and opens chosen week page
         carousel_week_select = wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[2]/main/div/div/div/section/div/nav/ul")))
-        week_options = carousel_week_select.find_elements(By.TAG_NAME, 'li')
+        # Waits for carousel elements (week elements) to render in site before grabbing them
+        week_options = wait.until( lambda driver: carousel_week_select.find_elements(By.TAG_NAME, 'li') )
         for week in week_options:
           week_option = wait.until(child_element_to_be_present(week, (By.XPATH, "./div/a/dl/dd[1]"))).text
           if week_option == chosen_week:
@@ -652,6 +652,10 @@ class NflScraper:
 
             self.driver.execute_script("arguments[0].style.border='3px solid red'", play)
 
+            # If plays within drive appear too far out of screen, scraper will not pick up.
+            if play_count_in_drive % 5 == 0:
+              self.driver.execute_script("arguments[0].scrollIntoView()", play)
+
             play_outcome_and_start_webelements = num_child_webelements_check(play, (By.XPATH, "./div[1]/div"), 0, 5)
             texts = [child.text for child in play_outcome_and_start_webelements if child.text.strip()]
 
@@ -764,6 +768,10 @@ class NflScraper:
             except Exception as e:
               print(f"Attempt {attempt + 1} failed: {e}")
               attempt += 1
+          
+              if attempt == max_retries:
+                print("Max retries exceeded. Exiting program.")
+                sys.exit(1)
 
 
         except NoSuchElementException:
