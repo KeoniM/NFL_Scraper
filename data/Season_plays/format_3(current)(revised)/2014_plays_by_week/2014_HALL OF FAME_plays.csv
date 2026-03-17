@@ -1,0 +1,160 @@
+Season,Week,GameSlot,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayStart,PlayTimeFormation,PlayDescription
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,1,New York Giants,0,1,0,Kickoff from BUF 35,,Kickoff,"— D.Hopkins kicks 65 yards from BUF 35 to end zone, Touchback."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,1,New York Giants,0,2,0,Pass Incomplete,1st & 10 at NYG 20,15:00 1st,— E.Manning pass incomplete short right to J.Jernigan.
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,1,New York Giants,0,3,0,-1 Yard Run,2nd & 10 at NYG 20,15:00 1st,— R.Jennings left guard to NYG 19 for -1 yards (N.Bradham).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,1,New York Giants,0,4,0,6 Yard Pass,3rd & 11 at NYG 19,14:13 1st Shotgun,— E.Manning pass short right to R.Jennings to NYG 25 for 6 yards (N.Bradham).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,1,New York Giants,0,5,0,Punt,4th & 5 at NYG 25,13:43 1st Punt formation,"— S.Weatherford punts 58 yards to BUF 17, Center-Z.DeOssie, out of bounds."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,2,Buffalo Bills,0,1,0,2 Yard Run,1st & 10 at BUF 17,13:37 1st,— C.Spiller left guard to BUF 19 for 2 yards (M.Kiwanuka).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,2,Buffalo Bills,0,2,0,8 Yard Pass,2nd & 8 at BUF 19,13:37 1st,— E.Manuel pass short middle to L.Smith to BUF 27 for 8 yards (J.McClain).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,2,Buffalo Bills,0,3,0,Pass Incomplete,1st & 10 at BUF 27,12:32 1st,— E.Manuel pass incomplete deep left to S.Watkins.
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,2,Buffalo Bills,0,4,0,7 Yard Run,2nd & 10 at BUF 27,12:27 1st,— F.Jackson left tackle ran ob at BUF 34 for 7 yards (P.Amukamara).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,2,Buffalo Bills,0,5,0,Pass Incomplete,3rd & 3 at BUF 34,11:49 1st Shotgun,— E.Manuel pass incomplete short right to S.Watkins (M.Kiwanuka).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,2,Buffalo Bills,0,6,0,Punt,4th & 3 at BUF 34,11:45 1st,"— B.Moorman punts 41 yards to NYG 25, Center-G.Sanborn, fair catch by J.Jernigan."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,3,New York Giants,0,1,0,9 Yard Pass,1st & 10 at NYG 25,11:38 1st Shotgun,— E.Manning pass short right to R.Jennings to NYG 34 for 9 yards (A.Williams).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,3,New York Giants,0,2,0,-1 Yard Run,2nd & 1 at NYG 34,11:13 1st No Huddle,— R.Jennings right guard to NYG 33 for -1 yards (J.Hughes; Ma.Williams).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,3,New York Giants,0,3,0,5 Yard Pass,3rd & 2 at NYG 33,10:41 1st Shotgun,— E.Manning pass short right to R.Jennings to NYG 38 for 5 yards (Ma.Williams).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,3,New York Giants,0,4,0,5 Yard Pass,1st & 10 at NYG 38,10:09 1st Shotgun,— E.Manning pass short left to J.Jernigan to NYG 43 for 5 yards (R.Brooks).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,3,New York Giants,0,5,0,Fumble,2nd & 5 at NYG 43,09:37 1st No Huddle,"— E.Manning sacked at NYG 31 for -12 yards (K.Williams). FUMBLES (K.Williams), RECOVERED by BUF-K.Rivers at NYG 22. Penalty on NYG-J.Pugh, Offensive Holding, declined."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,4,Buffalo Bills,1,1,0,Pass Incomplete,1st & 10 at NYG 22,09:26 1st,— E.Manuel pass incomplete deep left to Mi.Williams.
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,4,Buffalo Bills,1,2,0,11 Yard Pass,2nd & 10 at NYG 22,09:21 1st,— E.Manuel pass short left to Mi.Williams to NYG 11 for 11 yards (J.McClain; J.Williams).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,4,Buffalo Bills,1,3,0,-1 Yard Run,1st & 10 at NYG 11,08:39 1st,— F.Jackson right guard to NYG 12 for -1 yards (J.McClain).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,4,Buffalo Bills,1,4,0,Pass Incomplete,2nd & 11 at NYG 12,08:02 1st,— E.Manuel pass incomplete left (J.Pierre-Paul).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,4,Buffalo Bills,1,5,0,Pass Incomplete,3rd & 11 at NYG 12,07:59 1st,— E.Manuel pass incomplete short right to S.Watkins (J.Williams).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,4,Buffalo Bills,1,6,1,Field Goal,4th & 11 at NYG 12,07:59 1st Field Goal formation,"— D.Carpenter 30 yard field goal is GOOD, Center-G.Sanborn, Holder-B.Moorman."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,5,New York Giants,1,1,0,Kickoff from BUF 35,,Kickoff,"— D.Hopkins kicks 65 yards from BUF 35 to end zone, Touchback."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,5,New York Giants,1,2,0,1 Yard Run,1st & 10 at NYG 20,07:53 1st,— R.Jennings right tackle to NYG 21 for 1 yard (S.Charles).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,5,New York Giants,1,3,0,4 Yard Run,2nd & 9 at NYG 21,07:15 1st,— R.Jennings right guard to NYG 25 for 4 yards (D.Searcy).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,5,New York Giants,1,4,0,8 Yard Pass,3rd & 5 at NYG 25,06:36 1st Shotgun,— E.Manning pass short middle to J.Jernigan to NYG 33 for 8 yards (M.Butler).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,5,New York Giants,1,5,0,6 Yard Run,1st & 10 at NYG 33,06:02 1st,— A.Williams left guard to NYG 39 for 6 yards (N.Bradham).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,5,New York Giants,1,6,0,5 Yard Run,2nd & 4 at NYG 39,05:26 1st,— A.Williams left guard to NYG 44 for 5 yards (N.Bradham).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,5,New York Giants,1,7,0,2 Yard Run,1st & 10 at NYG 44,04:53 1st,— A.Williams right guard to NYG 46 for 2 yards (R.Johnson).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,5,New York Giants,1,8,0,8 Yard Run,2nd & 8 at NYG 46,04:10 1st,— R.Jennings left tackle to BUF 46 for 8 yards (P.Brown).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,5,New York Giants,1,9,0,0 Yard Run,1st & 10 at BUF 46,03:25 1st,— R.Jennings right tackle to BUF 46 for no gain (S.Charles).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,5,New York Giants,1,10,0,12 Yard Run,2nd & 10 at BUF 46,02:47 1st,— R.Jennings left tackle to BUF 34 for 12 yards (D.Searcy).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,5,New York Giants,1,11,0,10 Yard Pass,1st & 10 at BUF 34,02:06 1st,— E.Manning pass short left to D.Fells to BUF 24 for 10 yards (R.Brooks).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,5,New York Giants,1,12,0,21 Yard Run,1st & 10 at BUF 24,01:28 1st,— A.Williams left end to BUF 3 for 21 yards (R.Johnson).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,5,New York Giants,1,13,0,Timeout,,00:53 1st,— Timeout #1 by BUF at 00:53.
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,5,New York Giants,1,14,1,Touchdown,1st & 3 at BUF 3,00:53 1st,"— A.Williams right guard for 3 yards, TOUCHDOWN."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,1st Quarter,5,New York Giants,1,15,1,Extra Point,,00:49 1st,"— J.Brown extra point is GOOD, Center-Z.DeOssie, Holder-S.Weatherford."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,1,Buffalo Bills,1,1,0,Kickoff from NYG 35,,Kickoff,"— J.Brown kicks 65 yards from NYG 35 to end zone, Touchback."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,1,Buffalo Bills,1,2,0,Pass Incomplete,1st & 10 at BUF 20,00:49 1st,— J.Tuel pass incomplete deep left to T.Graham. #7 in at QB
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,1,Buffalo Bills,1,3,0,9 Yard Pass,2nd & 10 at BUF 20,00:40 1st,— J.Tuel pass short right to R.Woods to BUF 29 for 9 yards (W.Thurmond).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,1,Buffalo Bills,1,4,0,12 Yard Pass,3rd & 1 at BUF 29,00:07 1st,— J.Tuel pass short right to R.Woods to BUF 41 for 12 yards (A.Rolle).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,1,Buffalo Bills,1,5,0,2 Yard Pass,1st & 10 at BUF 41,15:00 2nd Shotgun,— J.Tuel pass short right to A.Dixon to BUF 43 for 2 yards (J.Williams).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,1,Buffalo Bills,1,6,0,4 Yard Run,2nd & 8 at BUF 43,14:22 2nd Shotgun,— A.Dixon left guard to BUF 47 for 4 yards (J.McClain).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,1,Buffalo Bills,1,7,0,5 Yard Penalty,3rd & 4 at BUF 47,13:42 2nd Shotgun,"— J.Tuel sacked at BUF 43 for -4 yards (J.Hankins). PENALTY on NYG-P.Amukamara, Illegal Contact, 5 yards, enforced at BUF 47 - No Play."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,1,Buffalo Bills,1,8,0,5 Yard Penalty,1st & 10 at NYG 48,13:20 2nd Shotgun,"— J.Tuel pass incomplete deep right to T.Graham. PENALTY on NYG-D.Rodgers-Cromartie, Defensive Holding, 5 yards, enforced at NYG 48 - No Play."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,1,Buffalo Bills,1,9,0,3 Yard Pass,1st & 10 at NYG 43,12:50 2nd Shotgun,— J.Tuel pass short right to C.Hogan to NYG 40 for 3 yards (W.Thurmond).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,1,Buffalo Bills,1,10,0,13 Yard Run,2nd & 7 at NYG 40,12:31 2nd,— J.Tuel right end ran ob at NYG 27 for 13 yards (Z.Bowman).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,1,Buffalo Bills,1,11,0,Pass Incomplete,1st & 10 at NYG 27,12:01 2nd,— J.Tuel pass incomplete short right to T.Graham.
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,1,Buffalo Bills,1,12,0,11 Yard Run,2nd & 10 at NYG 27,11:58 2nd Shotgun,— A.Dixon right guard to NYG 16 for 11 yards (C.Taylor).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,1,Buffalo Bills,1,13,0,3 Yard Pass,1st & 10 at NYG 16,11:24 2nd Shotgun,— J.Tuel pass short right to A.Dixon to NYG 13 for 3 yards (D.Kennard).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,1,Buffalo Bills,1,14,0,8 Yard Pass,2nd & 7 at NYG 13,10:45 2nd Shotgun,— J.Tuel pass short left to T.Graham to NYG 5 for 8 yards (J.Hosley).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,1,Buffalo Bills,1,15,0,-1 Yard Run,1st & 5 at NYG 5,10:08 2nd,— B.Brown left guard to NYG 6 for -1 yards (D.Kennard).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,1,Buffalo Bills,1,16,0,Pass Incomplete,2nd & 6 at NYG 6,09:30 2nd,— J.Tuel pass incomplete short left to T.Graham.
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,1,Buffalo Bills,1,17,0,4 Yard Pass,3rd & 6 at NYG 6,09:28 2nd Shotgun,— J.Tuel pass short left to A.Dixon to NYG 2 for 4 yards (S.Adkins).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,1,Buffalo Bills,1,18,1,Touchdown,4th & 2 at NYG 2,09:03 2nd Shotgun,"— J.Tuel pass short left to R.Woods for 2 yards, TOUCHDOWN."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,1,Buffalo Bills,1,19,1,Extra Point,,09:00 2nd,"— D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-B.Moorman."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,2,New York Giants,1,1,0,Kickoff from BUF 35,,Kickoff,"— D.Hopkins kicks 65 yards from BUF 35 to end zone, Touchback."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,2,New York Giants,1,2,0,-1 Yard Run,1st & 10 at NYG 20,09:00 2nd,— A.Williams left end to NYG 19 for -1 yards (J.Wynn). Nassib in at QB
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,2,New York Giants,1,3,0,13 Yard Pass,2nd & 11 at NYG 19,08:24 2nd,— R.Nassib pass short right to L.Donnell to NYG 32 for 13 yards (J.Meeks).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,2,New York Giants,1,4,0,12 Yard Run,1st & 10 at NYG 32,07:44 2nd,— A.Williams right end to NYG 44 for 12 yards (D.Williams).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,2,New York Giants,1,5,0,25 Yard Pass,1st & 10 at NYG 44,06:58 2nd,— R.Nassib pass short middle to M.Harris to BUF 31 for 25 yards (D.Williams).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,2,New York Giants,1,6,0,3 Yard Run,1st & 10 at BUF 31,06:15 2nd,— P.Hillis right guard to BUF 28 for 3 yards (R.Johnson).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,2,New York Giants,1,7,0,0 Yard Run,2nd & 7 at BUF 28,05:41 2nd,— P.Hillis right tackle to BUF 28 for no gain (S.Charles).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,2,New York Giants,1,8,0,Pass Incomplete,3rd & 7 at BUF 28,05:05 2nd Shotgun,— R.Nassib pass incomplete short middle to L.Donnell [M.Lawson].
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,2,New York Giants,1,9,1,Field Goal,4th & 7 at BUF 28,05:01 2nd Field Goal formation,"— B.McManus 47 yard field goal is GOOD, Center-Z.DeOssie, Holder-S.Weatherford."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,3,Buffalo Bills,0,1,0,Kickoff from NYG 35,,Kickoff,"— B.McManus kicks 65 yards from NYG 35 to end zone, Touchback."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,3,Buffalo Bills,0,2,0,0 Yard Run,1st & 10 at BUF 20,04:58 2nd,— A.Dixon right tackle to BUF 20 for no gain (M.Herzlich).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,3,Buffalo Bills,0,3,0,-6 Yard Sack,2nd & 10 at BUF 20,04:27 2nd,— J.Tuel sacked at BUF 14 for -6 yards (D.Moore).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,3,Buffalo Bills,0,4,0,15 Yard Pass,3rd & 16 at BUF 14,03:47 2nd Shotgun,— J.Tuel pass short right to T.Graham to BUF 29 for 15 yards (C.Taylor).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,3,Buffalo Bills,0,5,0,Punt,4th & 1 at BUF 29,03:19 2nd,"— B.Moorman punts 58 yards to NYG 13, Center-G.Sanborn. P.Parker to NYG 28 for 15 yards (M.Easley)."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,4,New York Giants,0,1,0,5 Yard Pass,1st & 10 at NYG 28,03:08 2nd,— R.Nassib pass short left to M.Harris to NYG 33 for 5 yards (B.Felder).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,4,New York Giants,0,2,0,4 Yard Run,2nd & 5 at NYG 33,02:35 2nd Shotgun,— P.Hillis right guard to NYG 37 for 4 yards (R.Johnson).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,4,New York Giants,0,3,0,10 Yard Pass,3rd & 1 at NYG 37,02:35 2nd Shotgun,"— R.Nassib pass short right to M.Harris to NYG 47 for 10 yards (M.Butler). Penalty on BUF-M.Butler, Defensive Holding, declined. Penalty on BUF-R.Johnson, Defensive Holding, declined."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,4,New York Giants,0,4,0,-4 Yard Pass,1st & 10 at NYG 47,01:56 2nd Shotgun,— R.Nassib pass short right to P.Hillis to NYG 43 for -4 yards (S.Sylvester).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,4,New York Giants,0,5,0,Pass Incomplete,2nd & 14 at NYG 43,"01:31 2nd No Huddle, Shotgun",— R.Nassib pass incomplete deep middle to J.Talley.
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,4,New York Giants,0,6,0,Pass Incomplete,3rd & 14 at NYG 43,01:25 2nd Shotgun,— R.Nassib pass incomplete deep middle to M.Harris.
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,4,New York Giants,0,7,0,Punt,4th & 14 at NYG 43,01:19 2nd Punt formation,"— S.Weatherford punt is BLOCKED by M.Easley, Center-Z.DeOssie, ball out of bounds at NYG 38."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,5,Buffalo Bills,0,1,0,7 Yard Pass,1st & 10 at NYG 38,01:10 2nd,— J.Tuel pass short left to A.Dixon to NYG 31 for 7 yards (C.James).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,5,Buffalo Bills,0,2,0,2 Yard Pass,2nd & 3 at NYG 31,"00:45 2nd No Huddle, Shotgun",— J.Tuel pass short left to C.Hogan to NYG 29 for 2 yards (C.James).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,5,Buffalo Bills,0,3,0,Timeout,,00:38 2nd,— Timeout #2 by BUF at 00:38.
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,5,Buffalo Bills,0,4,0,7 Yard Pass,3rd & 1 at NYG 29,00:38 2nd Shotgun,— J.Tuel pass short right to C.Hogan to NYG 22 for 7 yards (J.Hosley).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,5,Buffalo Bills,0,5,0,Pass Incomplete,1st & 10 at NYG 22,00:34 2nd Shotgun,— J.Tuel pass incomplete deep middle to C.Hogan (Q.Demps).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,5,Buffalo Bills,0,6,0,14 Yard Penalty,2nd & 10 at NYG 22,00:30 2nd Shotgun,"— J.Tuel pass incomplete deep right to T.Graham. PENALTY on NYG-Z.Bowman, Defensive Pass Interference, 14 yards, enforced at NYG 22 - No Play."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,5,Buffalo Bills,0,7,0,Interception,1st & 8 at NYG 8,00:25 2nd Shotgun,— J.Tuel pass short right intended for T.Graham INTERCEPTED by C.Taylor (Z.Bowman) at NYG 0. Touchback. deflected off 11 Graham
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,2nd Quarter,6,New York Giants,0,1,0,0 Yard Run,1st & 10 at NYG 20,00:20 2nd,— R.Nassib kneels to NYG 20 for no gain.
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,1,Buffalo Bills,0,1,0,Kickoff from NYG 35,,Kickoff,"— B.McManus kicks 65 yards from NYG 35 to end zone, Touchback."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,1,Buffalo Bills,0,2,0,9 Yard Run,1st & 10 at BUF 20,15:00 3rd,— B.Brown left end to BUF 29 for 9 yards (C.Taylor). #9 Lewis in at QB
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,1,Buffalo Bills,0,3,0,5 Yard Penalty,2nd & 1 at BUF 29,14:32 3rd,"— T.Lewis pass incomplete short left to K.Elliott. PENALTY on NYG-J.Hosley, Defensive Holding, 5 yards, enforced at BUF 29 - No Play."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,1,Buffalo Bills,0,4,0,4 Yard Run,1st & 10 at BUF 34,14:29 3rd,— B.Brown left guard to BUF 38 for 4 yards (J.Hankins; D.Moore).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,1,Buffalo Bills,0,5,0,19 Yard Run,2nd & 6 at BUF 38,13:57 3rd,— B.Brown right end to NYG 43 for 19 yards (N.Berhe).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,1,Buffalo Bills,0,6,0,8 Yard Run,1st & 10 at NYG 43,13:30 3rd,— B.Brown left end to NYG 35 for 8 yards (K.Adams; C.Taylor).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,1,Buffalo Bills,0,7,0,1 Yard Run,2nd & 2 at NYG 35,12:57 3rd,— E.Rodriguez right guard to NYG 34 for 1 yard (K.Quarles; C.Taylor).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,1,Buffalo Bills,0,8,0,0 Yard Run,3rd & 1 at NYG 34,12:09 3rd,— A.Dixon left guard to NYG 34 for no gain (J.Bromley).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,1,Buffalo Bills,0,9,0,2 Yard Run,4th & 1 at NYG 34,11:31 3rd,— E.Rodriguez left guard to NYG 32 for 2 yards (K.Adams).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,1,Buffalo Bills,0,10,0,Interception,1st & 10 at NYG 32,11:05 3rd,— T.Lewis pass deep right intended for M.Easley INTERCEPTED by Z.Bowman at NYG -4. Touchback.
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,2,New York Giants,0,1,0,1 Yard Run,1st & 10 at NYG 20,10:59 3rd Shotgun,— P.Hillis right guard to NYG 21 for 1 yard (P.Brown; R.Johnson).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,2,New York Giants,0,2,0,-10 Yard Penalty,2nd & 9 at NYG 21,10:28 3rd No Huddle,"— R.Nassib pass short left to P.Parker to NYG 29 for 8 yards (B.Felder). PENALTY on NYG-J.Talley, Offensive Pass Interference, 10 yards, enforced at NYG 21 - No Play."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,2,New York Giants,0,3,0,13 Yard Run,2nd & 19 at NYG 11,10:09 3rd,— P.Hillis right guard to NYG 24 for 13 yards (P.Brown).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,2,New York Giants,0,4,0,15 Yard Penalty,3rd & 6 at NYG 24,"09:35 3rd No Huddle, Shotgun","— R.Nassib pass short middle intended for P.Hillis INTERCEPTED by R.Cockrell at NYG 24. R.Cockrell to NYG 12 for 12 yards (R.Gaines). Penalty on BUF-S.Charles, Illegal Use of Hands, declined. PENALTY on BUF-S.Charles, Roughing the Passer, 15 yards, enforced at NYG 24 - No Play. Blow to the head."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,2,New York Giants,0,5,0,8 Yard Run,1st & 10 at NYG 39,09:21 3rd Shotgun,— P.Hillis right guard to NYG 47 for 8 yards (J.Smith).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,2,New York Giants,0,6,0,Pass Incomplete,2nd & 2 at NYG 47,08:59 3rd No Huddle,"— R.Nassib pass incomplete short middle to P.Hillis. PENALTY on NYG-R.Nassib, Intentional Grounding, 10 yards, enforced at NYG 47."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,2,New York Giants,0,7,0,7 Yard Run,3rd & 12 at NYG 37,08:24 3rd,— P.Hillis right guard to NYG 44 for 7 yards (D.Williams).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,2,New York Giants,0,8,0,Punt,4th & 5 at NYG 44,08:01 3rd Punt formation,"— S.Weatherford punts 56 yards to end zone, Center-Z.DeOssie, Touchback."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,3,Buffalo Bills,1,1,0,13 Yard Pass,1st & 10 at BUF 20,07:51 3rd Shotgun,"— T.Lewis pass short middle to C.Gragg to BUF 33 for 13 yards (M.Herzlich). Penalty on NYG-J.Hosley, Defensive Holding, declined."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,3,Buffalo Bills,1,2,0,6 Yard Pass,1st & 10 at BUF 33,07:36 3rd,— T.Lewis pass short middle to B.Brown to BUF 39 for 6 yards (C.Taylor).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,3,Buffalo Bills,1,3,0,Pass Incomplete,2nd & 4 at BUF 39,06:55 3rd Shotgun,— T.Lewis pass incomplete short middle to R.Woods.
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,3,Buffalo Bills,1,4,0,26 Yard Pass,3rd & 4 at BUF 39,06:53 3rd Shotgun,— T.Lewis pass short right to R.Woods to NYG 35 for 26 yards (C.Taylor; N.Berhe).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,3,Buffalo Bills,1,5,0,-4 Yard Run,1st & 10 at NYG 35,06:10 3rd Shotgun,"— T.Lewis FUMBLES (Aborted) at NYG 39, and recovers at NYG 39."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,3,Buffalo Bills,1,6,0,6 Yard Pass,2nd & 14 at NYG 39,05:38 3rd Shotgun,— T.Lewis pass short middle to B.Brown to NYG 33 for 6 yards (S.Adkins).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,3,Buffalo Bills,1,7,0,0 Yard Pass,3rd & 8 at NYG 33,04:59 3rd Shotgun,— T.Lewis pass short left to C.Gragg to NYG 33 for no gain (J.Hosley).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,3,Buffalo Bills,1,8,0,Timeout,,04:12 3rd,— Timeout #1 by BUF at 04:12.
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,3,Buffalo Bills,1,9,1,Field Goal,4th & 8 at NYG 33,04:12 3rd Field Goal formation,"— D.Carpenter 51 yard field goal is GOOD, Center-G.Sanborn, Holder-B.Moorman."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,4,New York Giants,0,1,0,Kickoff from BUF 35,,Kickoff,"— D.Hopkins kicks 65 yards from BUF 35 to end zone, Touchback."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,4,New York Giants,0,2,0,17 Yard Pass,1st & 10 at NYG 20,04:08 3rd,— R.Nassib pass short left to M.Manningham to NYG 37 for 17 yards (K.McIlwain).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,4,New York Giants,0,3,0,-1 Yard Run,1st & 10 at NYG 37,03:35 3rd,— K.Gaskins right guard to NYG 36 for -1 yards (J.Smith).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,4,New York Giants,0,4,0,5 Yard Penalty,2nd & 11 at NYG 36,02:58 3rd,"— R.Nassib sacked at NYG 28 for -8 yards (L.Cohen). PENALTY on BUF-J.Harley, Illegal Contact, 5 yards, enforced at NYG 36 - No Play."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,4,New York Giants,0,5,0,0 Yard Run,1st & 10 at NYG 41,02:29 3rd,— K.Gaskins right guard to NYG 41 for no gain (L.Cohen).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,4,New York Giants,0,6,0,7 Yard Run,2nd & 10 at NYG 41,01:50 3rd,— K.Gaskins right tackle to NYG 48 for 7 yards (R.Johnson).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,4,New York Giants,0,7,0,Pass Incomplete,3rd & 3 at NYG 48,01:10 3rd,— R.Nassib pass incomplete short left to M.Harris [J.Smith].
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,3rd Quarter,4,New York Giants,0,8,0,Punt,4th & 3 at NYG 48,01:04 3rd Punt formation,"— S.Weatherford punts 43 yards to BUF 9, Center-Z.DeOssie. T.Graham to BUF 23 for 14 yards (K.Davis)."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,1,Buffalo Bills,0,1,0,2 Yard Run,1st & 10 at BUF 23,00:54 3rd,— B.Brown left guard to BUF 25 for 2 yards (K.Adams).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,1,Buffalo Bills,0,2,0,-1 Yard Run,2nd & 8 at BUF 25,00:22 3rd,— B.Brown left guard to BUF 24 for -1 yards (K.Adams).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,1,Buffalo Bills,0,3,0,5 Yard Pass,3rd & 9 at BUF 24,15:00 4th Shotgun,"— T.Lewis pass short right to C.Gragg to BUF 29 for 5 yards (N.Berhe). FUMBLES (N.Berhe), and recovers at BUF 29."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,1,Buffalo Bills,0,4,0,Punt,4th & 4 at BUF 29,14:18 4th,"— J.Dombrowski punts 45 yards to NYG 26, Center-G.Sanborn. P.Parker to NYG 31 for 5 yards (K.Ladler)."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,2,New York Giants,1,1,0,-4 Yard Run,1st & 10 at NYG 31,14:09 4th,— K.Gaskins right guard to NYG 27 for -4 yards (T.Powell).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,2,New York Giants,1,2,1,Touchdown,2nd & 14 at NYG 27,13:29 4th,"— R.Nassib pass deep right to C.Washington for 73 yards, TOUCHDOWN."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,2,New York Giants,1,3,1,Extra Point,,13:18 4th,"— J.Brown extra point is GOOD, Center-Z.DeOssie, Holder-S.Weatherford."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,3,Buffalo Bills,0,1,0,Kickoff from NYG 35,,Kickoff,"— J.Brown kicks 65 yards from NYG 35 to end zone, Touchback."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,3,Buffalo Bills,0,2,0,3 Yard Run,1st & 10 at BUF 20,13:18 4th,— R.Wingo right tackle to BUF 23 for 3 yards (K.Wynn).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,3,Buffalo Bills,0,3,0,10 Yard Run,2nd & 7 at BUF 23,12:48 4th,— R.Wingo right guard to BUF 33 for 10 yards (J.Hosley).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,3,Buffalo Bills,0,4,0,10 Yard Pass,1st & 10 at BUF 33,12:17 4th,— T.Lewis pass short right to K.Elliott ran ob at BUF 43 for 10 yards.
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,3,Buffalo Bills,0,5,0,2 Yard Run,1st & 10 at BUF 43,11:52 4th,— R.Wingo left guard to BUF 45 for 2 yards (K.Wynn).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,3,Buffalo Bills,0,6,0,Pass Incomplete,2nd & 8 at BUF 45,11:20 4th,— T.Lewis pass incomplete short left to K.Elliott.
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,3,Buffalo Bills,0,7,0,-2 Yard Sack,3rd & 8 at BUF 45,11:15 4th Shotgun,— T.Lewis sacked at BUF 43 for -2 yards (K.Wynn).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,3,Buffalo Bills,0,8,0,Punt,4th & 10 at BUF 43,10:38 4th Punt formation,"— J.Dombrowski punts 48 yards to NYG 9, Center-G.Sanborn. P.Parker to NYG 22 for 13 yards (J.Gaines)."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,4,New York Giants,0,1,0,-5 Yard Run,1st & 10 at NYG 22,10:27 4th,— M.Cox left guard to NYG 17 for -5 yards (L.Cohen). # 17 Painter in at QB
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,4,New York Giants,0,2,0,9 Yard Run,2nd & 15 at NYG 17,09:55 4th,— M.Cox right guard to NYG 26 for 9 yards (D.Jacobs).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,4,New York Giants,0,3,0,7 Yard Run,3rd & 6 at NYG 26,09:21 4th,— M.Cox left guard to NYG 33 for 7 yards (K.Ladler).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,4,New York Giants,0,4,0,-5 Yard Run,1st & 10 at NYG 33,08:50 4th,— M.Cox right tackle to NYG 28 for -5 yards (L.Cohen).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,4,New York Giants,0,5,0,7 Yard Run,2nd & 15 at NYG 28,08:14 4th,— J.Conner left guard to NYG 35 for 7 yards (K.Ladler; D.Brim).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,4,New York Giants,0,6,0,8 Yard Pass,3rd & 8 at NYG 35,07:35 4th,— C.Painter pass short right to M.Cox to NYG 43 for 8 yards (J.Gaines).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,4,New York Giants,0,7,0,0 Yard Run,1st & 10 at NYG 43,07:01 4th,— M.Cox left tackle to NYG 43 for no gain (T.Powell).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,4,New York Giants,0,8,0,9 Yard Pass,2nd & 10 at NYG 43,06:10 4th,— C.Painter pass short left to T.Harvey to BUF 48 for 9 yards (K.Ladler; K.McIlwain).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,4,New York Giants,0,9,0,2 Yard Run,3rd & 1 at BUF 48,05:33 4th Shotgun,— M.Cox left guard to BUF 46 for 2 yards (X.Boyd).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,4,New York Giants,0,10,0,0 Yard Run,1st & 10 at BUF 46,04:53 4th,— M.Cox left guard to BUF 46 for no gain (L.Cohen; D.Brim).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,4,New York Giants,0,11,0,-5 Yard Run,2nd & 10 at BUF 46,03:58 4th,— M.Cox right end to NYG 49 for -5 yards (I.Igbinosun; X.Boyd).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,4,New York Giants,0,12,0,9 Yard Pass,3rd & 15 at NYG 49,03:23 4th Shotgun,— C.Painter pass short left to M.Harris to BUF 42 for 9 yards (K.Ladler).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,4,New York Giants,0,13,0,Punt,4th & 6 at BUF 42,03:23 4th Punt formation,"— S.Weatherford punts 27 yards to BUF 15, Center-Z.DeOssie, fair catch by T.Graham."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,5,Buffalo Bills,0,1,0,7 Yard Pass,1st & 10 at BUF 15,02:35 4th Shotgun,— T.Lewis pass short right to R.Wingo to BUF 22 for 7 yards (R.Weaver).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,5,Buffalo Bills,0,2,0,Pass Incomplete,2nd & 3 at BUF 22,"02:20 4th No Huddle, Shotgun",— T.Lewis pass incomplete short middle to C.Gragg.
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,5,Buffalo Bills,0,3,0,8 Yard Pass,3rd & 3 at BUF 22,02:10 4th Shotgun,— T.Lewis pass short left to T.Gurley to BUF 30 for 8 yards (S.Adkins).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,5,Buffalo Bills,0,4,0,Pass Incomplete,1st & 10 at BUF 30,02:00 4th Shotgun,— T.Lewis pass incomplete short middle to R.Wingo.
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,5,Buffalo Bills,0,5,0,-20 Yard Sack,2nd & 10 at BUF 30,01:56 4th Shotgun,"— T.Lewis sacked at BUF 22 for -8 yards (J.Stanton). FUMBLES (J.Stanton) [J.Stanton], recovered by BUF-C.Kouandjio at BUF 10. C.Kouandjio to BUF 10 for no gain (E.Dieke)."
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,5,Buffalo Bills,0,6,0,Timeout,,01:45 4th,— Timeout #2 by BUF at 01:45.
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,5,Buffalo Bills,0,7,0,6 Yard Pass,3rd & 30 at BUF 10,01:45 4th Shotgun,— T.Lewis pass short left to C.Gragg to BUF 16 for 6 yards (C.Fenner).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,5,Buffalo Bills,0,8,0,Pass Incomplete,4th & 24 at BUF 16,01:39 4th Shotgun,— T.Lewis pass incomplete deep middle to C.Holley.
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,6,New York Giants,0,1,0,0 Yard Run,1st & 10 at BUF 16,01:33 4th,— M.Cox right guard to BUF 16 for no gain (T.Powell).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,6,New York Giants,0,2,0,3 Yard Run,2nd & 10 at BUF 16,01:08 4th,— K.Gaskins right guard to BUF 13 for 3 yards (D.Jacobs).
+2014,HALL OF FAME,Sunday,August 3rd,NYG,BUF,4th Quarter,6,New York Giants,0,3,0,-1 Yard Run,3rd & 7 at BUF 13,00:23 4th,— C.Painter kneels to BUF 14 for -1 yards.
