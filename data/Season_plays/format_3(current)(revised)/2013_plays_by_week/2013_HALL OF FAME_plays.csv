@@ -1,0 +1,185 @@
+Season,Week,GameSlot,Date,AwayTeam,HomeTeam,Quarter,DriveNumber,TeamWithPossession,IsScoringDrive,PlayNumberInDrive,IsScoringPlay,PlayOutcome,PlayStart,PlayTimeFormation,PlayDescription
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,1,Dallas Cowboys,0,1,0,Kickoff from MIA 35,,Kickoff,— D.Carpenter kicks 72 yards from MIA 35 to DAL -7. C.Beasley to DAL 17 for 24 yards (J.Freeny).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,1,Dallas Cowboys,0,2,0,4 Yard Run,1st & 10 at DAL 17,15:00 1st,— L.Dunbar left end to DAL 21 for 4 yards (R.Marshall).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,1,Dallas Cowboys,0,3,0,18 Yard Pass,2nd & 6 at DAL 21,15:00 1st,— K.Orton pass short middle to D.Rosario to DAL 39 for 18 yards (C.Clemons).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,1,Dallas Cowboys,0,4,0,7 Yard Run,1st & 10 at DAL 39,15:00 1st,— L.Dunbar left end to DAL 46 for 7 yards (C.Clemons).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,1,Dallas Cowboys,0,5,0,11 Yard Run,2nd & 3 at DAL 46,13:21 1st,— L.Dunbar left tackle to MIA 43 for 11 yards (P.Wheeler).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,1,Dallas Cowboys,0,6,0,0 Yard Run,1st & 10 at MIA 43,13:21 1st,— L.Dunbar right guard to MIA 43 for no gain (P.Wheeler).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,1,Dallas Cowboys,0,7,0,7 Yard Pass,2nd & 10 at MIA 43,12:09 1st Shotgun,— K.Orton pass short right to L.Dunbar to MIA 36 for 7 yards (R.Jones; B.Grimes).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,1,Dallas Cowboys,0,8,0,Pass Incomplete,3rd & 3 at MIA 36,12:09 1st Shotgun,— K.Orton pass incomplete short right to D.Harris.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,1,Dallas Cowboys,0,9,0,Punt,4th & 3 at MIA 36,11:18 1st Punt formation,"— C.Jones punts 28 yards to MIA 8, Center-L.Ladouceur, fair catch by D.Presley."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,2,Miami Dolphins,0,1,0,Fumble,1st & 10 at MIA 8,11:11 1st,"— R.Tannehill FUMBLES (Aborted) at MIA 8, RECOVERED by DAL-N.Hayden at MIA 9."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,3,Dallas Cowboys,1,1,0,4 Yard Run,1st & 9 at MIA 9,11:07 1st,— P.Tanner left tackle to MIA 5 for 4 yards (D.Patterson).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,3,Dallas Cowboys,1,2,0,2 Yard Run,2nd & 5 at MIA 5,11:07 1st,— P.Tanner right tackle to MIA 3 for 2 yards (K.Randall).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,3,Dallas Cowboys,1,3,0,2 Yard Penalty,3rd & 3 at MIA 3,09:41 1st Shotgun,"— N.Stephens pass incomplete short left to C.Beasley. PENALTY on MIA-W.Davis, Defensive Pass Interference, 2 yards, enforced at MIA 3 - No Play."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,3,Dallas Cowboys,1,4,0,Timeout,,09:41 1st,— Timeout #1 by MIA at 09:41.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,3,Dallas Cowboys,1,5,0,0 Yard Run,1st & 1 at MIA 1,09:41 1st,— P.Tanner right guard to MIA 1 for no gain (A.Francis).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,3,Dallas Cowboys,1,6,1,Touchdown,2nd & 1 at MIA 1,09:41 1st,"— P.Tanner left guard for 1 yard, TOUCHDOWN."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,3,Dallas Cowboys,1,7,1,Extra Point,,08:58 1st,"— D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,4,Miami Dolphins,0,1,0,Kickoff from DAL 35,,Kickoff,— D.Bailey kicks 65 yards from DAL 35 to MIA 0. D.Presley to MIA 23 for 23 yards (A.Armstrong).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,4,Miami Dolphins,0,2,0,1 Yard Run,1st & 10 at MIA 23,08:58 1st,— R.Tannehill scrambles up the middle to MIA 24 for 1 yard (N.Hayden).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,4,Miami Dolphins,0,3,0,10 Yard Run,2nd & 9 at MIA 24,08:58 1st,— L.Miller left tackle to MIA 34 for 10 yards (M.Johnson).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,4,Miami Dolphins,0,4,0,11 Yard Run,1st & 10 at MIA 34,08:58 1st,— L.Miller right tackle to MIA 45 for 11 yards (J.Wilcox; S.Moore).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,4,Miami Dolphins,0,5,0,Pass Incomplete,1st & 10 at MIA 45,08:58 1st,— R.Tannehill pass incomplete short left to M.McNutt.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,4,Miami Dolphins,0,6,0,Pass Incomplete,2nd & 10 at MIA 45,08:58 1st,— R.Tannehill pass incomplete short right to M.McNutt (S.Moore).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,4,Miami Dolphins,0,7,0,Pass Incomplete,3rd & 10 at MIA 45,08:58 1st Shotgun,— R.Tannehill pass incomplete short middle to L.Miller.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,4,Miami Dolphins,0,8,0,Punt,4th & 10 at MIA 45,08:58 1st Punt formation,"— B.Fields punts 47 yards to DAL 8, Center-J.Denney. C.Beasley to DAL 12 for 4 yards (R.Stanford)."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,5,Dallas Cowboys,0,1,0,17 Yard Run,1st & 10 at DAL 12,06:52 1st,— P.Tanner left guard to DAL 29 for 17 yards (K.McCray; E.Onyenekwu).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,5,Dallas Cowboys,0,2,0,1 Yard Run,1st & 10 at DAL 29,06:52 1st,— P.Tanner right tackle to DAL 30 for 1 yard (K.Randall).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,5,Dallas Cowboys,0,3,0,3 Yard Pass,2nd & 9 at DAL 30,05:31 1st,— N.Stephens pass short right to G.Escobar to DAL 33 for 3 yards (R.Marshall).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,5,Dallas Cowboys,0,4,0,5 Yard Pass,3rd & 6 at DAL 33,05:31 1st Shotgun,— N.Stephens pass short right to C.Beasley pushed ob at DAL 38 for 5 yards (R.Marshall).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,5,Dallas Cowboys,0,5,0,Punt,4th & 1 at DAL 38,05:31 1st Punt formation,"— C.Jones punts 55 yards to MIA 7, Center-L.Ladouceur, downed by DAL-K.Wilber."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,6,Miami Dolphins,0,1,0,3 Yard Run,1st & 10 at MIA 7,04:19 1st,— D.Thomas right guard to MIA 10 for 3 yards (T.Reed).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,6,Miami Dolphins,0,2,0,4 Yard Pass,2nd & 7 at MIA 10,04:19 1st Shotgun,— R.Tannehill pass short right to D.Keller to MIA 14 for 4 yards (C.McSurdy).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,6,Miami Dolphins,0,3,0,7 Yard Pass,3rd & 3 at MIA 14,04:19 1st Shotgun,— R.Tannehill pass short middle to B.Gibson to MIA 21 for 7 yards (J.Wilcox).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,6,Miami Dolphins,0,4,0,1 Yard Pass,1st & 10 at MIA 21,04:19 1st,— M.Moore pass short right to D.Thomas to MIA 22 for 1 yard (D.Holloman) [K.Wilber]. DAL-B.Bass was injured during the play.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,6,Miami Dolphins,0,5,0,5 Yard Penalty,2nd & 9 at MIA 22,01:54 1st,"— D.Thomas right end to MIA 22 for no gain (C.McSurdy). PENALTY on DAL-M.Taylor, Defensive Offside, 5 yards, enforced at MIA 22 - No Play."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,6,Miami Dolphins,0,6,0,5 Yard Run,2nd & 4 at MIA 27,01:54 1st,"— D.Thomas left tackle to MIA 32 for 5 yards (J.Wilcox). Penalty on DAL-N.Hayden, Defensive Offside, declined."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,6,Miami Dolphins,0,7,0,Pass Incomplete,1st & 10 at MIA 32,01:54 1st,— M.Moore pass incomplete short middle to M.Egnew.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,6,Miami Dolphins,0,8,0,Pass Incomplete,2nd & 10 at MIA 32,01:54 1st Shotgun,— M.Moore pass incomplete short left to M.Egnew.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,6,Miami Dolphins,0,9,0,9 Yard Pass,3rd & 10 at MIA 32,01:54 1st Shotgun,— M.Moore pass short right to B.Tyms to MIA 41 for 9 yards (B.Underwood).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,1st Quarter,6,Miami Dolphins,0,10,0,Punt,4th & 1 at MIA 41,01:54 1st Punt formation,"— B.Fields punts 59 yards to end zone, Center-J.Denney, Touchback."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,1,Dallas Cowboys,1,1,0,-7 Yard Sack,1st & 10 at DAL 20,00:18 1st,— N.Stephens sacked at DAL 13 for -7 yards (D.Shelby).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,1,Dallas Cowboys,1,2,0,8 Yard Penalty,2nd & 17 at DAL 13,15:00 2nd,"— N.Stephens pass incomplete short left to A.Armstrong. PENALTY on MIA-D.Patterson, Defensive Pass Interference, 8 yards, enforced at DAL 13 - No Play."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,1,Dallas Cowboys,1,3,0,4 Yard Run,1st & 10 at DAL 21,15:00 2nd,— P.Tanner right tackle to DAL 25 for 4 yards (K.Randall).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,1,Dallas Cowboys,1,4,0,-2 Yard Pass,2nd & 6 at DAL 25,15:00 2nd,— N.Stephens pass short right to P.Tanner to DAL 23 for -2 yards (J.Freeny).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,1,Dallas Cowboys,1,5,0,18 Yard Pass,3rd & 8 at DAL 23,13:33 2nd Shotgun,— N.Stephens pass deep middle to A.Armstrong to DAL 41 for 18 yards (R.Stanford; K.McCray).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,1,Dallas Cowboys,1,6,0,9 Yard Run,1st & 10 at DAL 41,13:33 2nd,— P.Tanner left guard to 50 for 9 yards (J.Freeny).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,1,Dallas Cowboys,1,7,0,Pass Incomplete,2nd & 1 at 50,12:11 2nd,— N.Stephens pass incomplete short right to C.Beasley.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,1,Dallas Cowboys,1,8,0,4 Yard Run,3rd & 1 at 50,12:11 2nd,— P.Tanner left guard to MIA 46 for 4 yards (K.McCray).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,1,Dallas Cowboys,1,9,0,17 Yard Run,1st & 10 at MIA 46,11:25 2nd,— P.Tanner right tackle to MIA 29 for 17 yards (J.Trusnik).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,1,Dallas Cowboys,1,10,0,2 Yard Run,1st & 10 at MIA 29,10:42 2nd,— J.Randle left guard to MIA 27 for 2 yards (J.Freeny).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,1,Dallas Cowboys,1,11,0,Pass Incomplete,2nd & 8 at MIA 27,10:02 2nd,— N.Stephens pass incomplete deep right to C.Beasley.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,1,Dallas Cowboys,1,12,0,-4 Yard Sack,3rd & 8 at MIA 27,09:55 2nd,— N.Stephens sacked at MIA 31 for -4 yards (D.Shelby).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,1,Dallas Cowboys,1,13,1,Field Goal,4th & 12 at MIA 31,09:20 2nd,"— D.Bailey 49 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,2,Dallas Cowboys,1,1,0,Kickoff from DAL 35,,Kickoff,— S.Benton kicks 70 yards from DAL 35 to MIA -5. D.Presley to MIA 21 for 26 yards (E.Frampton).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,2,Dallas Cowboys,1,2,0,Pass Incomplete,1st & 10 at MIA 21,09:14 2nd,— M.Moore pass incomplete deep middle to B.Tyms.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,2,Dallas Cowboys,1,3,0,3 Yard Run,2nd & 10 at MIA 21,09:14 2nd,— D.Thomas right tackle to MIA 24 for 3 yards (J.Pendleton).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,2,Dallas Cowboys,1,4,0,45 Yard Pass,3rd & 7 at MIA 24,09:14 2nd Shotgun,— M.Moore pass short middle to C.Bumphis pushed ob at DAL 31 for 45 yards (M.Johnson). DAL-M.Johnson was injured during the play. His return is Probable.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,2,Dallas Cowboys,1,5,0,7 Yard Run,1st & 10 at DAL 31,09:14 2nd,— B.Tyms left end to DAL 24 for 7 yards (B.Webb; J.Hamilton). end around
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,2,Dallas Cowboys,1,6,0,-6 Yard Run,2nd & 3 at DAL 24,09:14 2nd,— D.Thomas left tackle to DAL 30 for -6 yards (G.Selvie; M.Taylor).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,2,Dallas Cowboys,1,7,1,Touchdown,3rd & 9 at DAL 30,09:14 2nd Shotgun,"— M.Moore pass short middle intended for C.Bumphis INTERCEPTED by D.Holloman at DAL 25. D.Holloman for 75 yards, TOUCHDOWN."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,3,Miami Dolphins,1,1,0,Kickoff from DAL 35,,Kickoff,"— S.Benton kicks 65 yards from DAL 35 to end zone, Touchback."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,3,Miami Dolphins,1,2,0,9 Yard Run,1st & 10 at MIA 20,06:35 2nd,— M.Gillislee right tackle to MIA 29 for 9 yards (B.Magee).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,3,Miami Dolphins,1,3,0,-10 Yard Penalty,2nd & 1 at MIA 29,06:05 2nd,"— M.Gillislee right guard to MIA 36 for 7 yards (B.Magee). PENALTY on MIA-D.Sims, Offensive Holding, 10 yards, enforced at MIA 29 - No Play."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,3,Miami Dolphins,1,4,0,9 Yard Pass,2nd & 11 at MIA 19,06:05 2nd Shotgun,— M.Moore pass short left to J.Gray to MIA 28 for 9 yards (B.Magee; J.Hamilton).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,3,Miami Dolphins,1,5,0,18 Yard Pass,3rd & 2 at MIA 28,05:05 2nd,— M.Moore pass short right to J.Gray ran ob at MIA 46 for 18 yards (J.Wilcox).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,3,Miami Dolphins,1,6,0,4 Yard Pass,1st & 10 at MIA 46,04:34 2nd,— M.Moore pass short left to M.Egnew to 50 for 4 yards (J.Wilcox; B.Magee).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,3,Miami Dolphins,1,7,0,21 Yard Pass,2nd & 6 at 50,04:00 2nd,— M.Moore pass deep middle to J.Fuller to DAL 29 for 21 yards (J.Wilcox).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,3,Miami Dolphins,1,8,0,6 Yard Pass,1st & 10 at DAL 29,"03:28 2nd No Huddle, Shotgun",— M.Moore pass short right to B.Tyms to DAL 23 for 6 yards (B.Underwood).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,3,Miami Dolphins,1,9,0,7 Yard Run,2nd & 4 at DAL 23,03:28 2nd,— J.Gray right tackle to DAL 16 for 7 yards (B.Magee).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,3,Miami Dolphins,1,10,0,5 Yard Penalty,1st & 10 at DAL 16,02:30 2nd,"— M.Gillislee right tackle to DAL 17 for -1 yards (L.Cohen). PENALTY on DAL-L.Cohen, Defensive Offside, 5 yards, enforced at DAL 16 - No Play."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,3,Miami Dolphins,1,11,0,8 Yard Pass,1st & 5 at DAL 11,02:08 2nd,— M.Moore pass short middle to C.Bumphis to DAL 3 for 8 yards (B.Underwood).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,3,Miami Dolphins,1,12,0,Timeout,,02:00 2nd,— Timeout #2 by MIA at 02:00.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,3,Miami Dolphins,1,13,0,-2 Yard Run,1st & 3 at DAL 3,02:00 2nd,— M.Gillislee right guard to DAL 5 for -2 yards (J.Pendleton).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,3,Miami Dolphins,1,14,0,Timeout,,01:52 2nd,— Timeout #1 by DAL at 01:52.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,3,Miami Dolphins,1,15,0,-14 Yard Sack,2nd & 5 at DAL 5,01:52 2nd,— M.Moore sacked at DAL 19 for -14 yards (G.Selvie).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,3,Miami Dolphins,1,16,0,Timeout,,01:41 2nd,— Timeout #2 by DAL at 01:41.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,3,Miami Dolphins,1,17,0,10 Yard Pass,3rd & 19 at DAL 19,01:41 2nd Shotgun,— M.Moore pass short left to M.Gillislee to DAL 9 for 10 yards (J.Pendleton).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,3,Miami Dolphins,1,18,0,Timeout,,01:30 2nd,— Timeout #3 by DAL at 01:30.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,3,Miami Dolphins,1,19,1,Field Goal,4th & 9 at DAL 9,01:30 2nd Field Goal formation,"— D.Carpenter 27 yard field goal is GOOD, Center-J.Denney, Holder-B.Fields."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,4,Dallas Cowboys,0,1,0,Kickoff from MIA 35,,Kickoff,— D.Carpenter kicks 66 yards from MIA 35 to DAL -1. B.Webb to DAL 17 for 18 yards (J.Kaddu).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,4,Dallas Cowboys,0,2,0,-9 Yard Penalty,1st & 10 at DAL 17,01:29 2nd Shotgun,"— N.Stephens pass short right to G.Escobar ran ob at DAL 27 for 10 yards. PENALTY on DAL-D.Weems, Illegal Use of Hands, 9 yards, enforced at DAL 17 - No Play."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,4,Dallas Cowboys,0,3,0,4 Yard Run,1st & 19 at DAL 8,01:20 2nd,— J.Randle left guard to DAL 12 for 4 yards (D.Jordan).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,4,Dallas Cowboys,0,4,0,Pass Incomplete,2nd & 15 at DAL 12,"01:20 2nd No Huddle, Shotgun",— N.Stephens pass incomplete short left to G.Escobar.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,4,Dallas Cowboys,0,5,0,10 Yard Run,3rd & 15 at DAL 12,01:20 2nd Shotgun,— J.Randle right guard to DAL 22 for 10 yards (D.Jordan).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,4,Dallas Cowboys,0,6,0,Timeout,,00:44 2nd,— Timeout #3 by MIA at 00:44.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,4,Dallas Cowboys,0,7,0,Punt,4th & 5 at DAL 22,00:44 2nd Punt formation,"— C.Jones punts 52 yards to MIA 26, Center-L.Ladouceur. D.Presley to MIA 41 for 15 yards (J.Wilcox)."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,5,Miami Dolphins,0,1,0,14 Yard Pass,1st & 10 at MIA 41,00:34 2nd Shotgun,— M.Moore pass short middle to M.Egnew to DAL 45 for 14 yards (B.Magee).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,5,Miami Dolphins,0,2,0,Pass Incomplete,1st & 10 at DAL 45,00:17 2nd,— M.Moore spiked the ball to stop the clock.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,5,Miami Dolphins,0,3,0,Pass Incomplete,2nd & 10 at DAL 45,00:16 2nd Shotgun,— M.Moore pass incomplete short left [G.Selvie].
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,2nd Quarter,5,Miami Dolphins,0,4,0,7 Yard Pass,3rd & 10 at DAL 45,00:09 2nd Shotgun,— M.Moore pass short left to C.Bumphis to DAL 38 for 7 yards (B.Webb).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,1,Miami Dolphins,0,1,0,Kickoff from DAL 35,,Kickoff,"— S.Benton kicks 65 yards from DAL 35 to end zone, Touchback."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,1,Miami Dolphins,0,2,0,-2 Yard Run,1st & 10 at MIA 20,15:00 3rd,— J.Gray right tackle to MIA 18 for -2 yards (M.Taylor).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,1,Miami Dolphins,0,3,0,-6 Yard Sack,2nd & 12 at MIA 18,15:00 3rd,— P.Devlin sacked at MIA 12 for -6 yards (G.Selvie).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,1,Miami Dolphins,0,4,0,Pass Incomplete,3rd & 18 at MIA 12,15:00 3rd Shotgun,— P.Devlin pass incomplete deep right to J.Pruitt.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,1,Miami Dolphins,0,5,0,Punt,4th & 18 at MIA 12,15:00 3rd Punt formation,"— B.Fields punts 57 yards to DAL 31, Center-J.Denney. B.Webb to DAL 41 for 10 yards (J.Jenkins). PENALTY on DAL-B.Magee, Offensive Holding, 10 yards, enforced at DAL 31."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,2,Dallas Cowboys,0,1,0,0 Yard Run,1st & 10 at DAL 21,13:34 3rd,— J.Randle right tackle to DAL 21 for no gain (J.Jenkins).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,2,Dallas Cowboys,0,2,0,Sack,2nd & 10 at DAL 21,13:34 3rd Shotgun,"— A.Tanney sacked at DAL 20 for -1 yards (T.Okpalaugo). FUMBLES (T.Okpalaugo), recovered by DAL-T.Benford at DAL 33."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,2,Dallas Cowboys,0,3,0,10 Yard Run,1st & 10 at DAL 33,12:04 3rd,— J.Randle right guard to DAL 43 for 10 yards (J.Kovacs).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,2,Dallas Cowboys,0,4,0,6 Yard Pass,1st & 10 at DAL 43,12:04 3rd,— A.Tanney pass short right to T.Benford to DAL 49 for 6 yards (R.Stanford).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,2,Dallas Cowboys,0,5,0,3 Yard Run,2nd & 4 at DAL 49,12:04 3rd,— J.Randle left guard to MIA 48 for 3 yards (K.McCray).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,2,Dallas Cowboys,0,6,0,5 Yard Run,3rd & 1 at MIA 48,09:51 3rd,— J.Randle left end to MIA 43 for 5 yards (J.Kaddu).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,2,Dallas Cowboys,0,7,0,-5 Yard Penalty,1st & 10 at MIA 43,09:51 3rd,"— J.Randle left tackle to MIA 43 for no gain (J.Jenkins). PENALTY on DAL-A.Smith, Illegal Shift, 5 yards, enforced at MIA 43 - No Play."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,2,Dallas Cowboys,0,8,0,10 Yard Run,1st & 15 at MIA 48,09:51 3rd,— J.Randle right guard to MIA 38 for 10 yards (K.Johnson). reversed field and went left
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,2,Dallas Cowboys,0,9,0,Pass Incomplete,2nd & 5 at MIA 38,08:09 3rd,— A.Tanney pass incomplete short right to T.Benford.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,2,Dallas Cowboys,0,10,0,Timeout,,08:04 3rd,— Timeout #1 by DAL at 08:04.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,2,Dallas Cowboys,0,11,0,Pass Incomplete,3rd & 5 at MIA 38,08:04 3rd Shotgun,— A.Tanney pass incomplete short left to T.Benford [D.Jordan].
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,2,Dallas Cowboys,0,12,0,Punt,4th & 5 at MIA 38,07:59 3rd Punt formation,"— S.Benton punts 35 yards to MIA 3, Center-L.Ladouceur, downed by DAL-A.Armstrong."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,3,Miami Dolphins,0,1,0,10 Yard Pass,1st & 10 at MIA 3,07:47 3rd,— P.Devlin pass short left to E.Rodriguez to MIA 13 for 10 yards (T.Reed).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,3,Miami Dolphins,0,2,0,9 Yard Run,1st & 10 at MIA 13,07:19 3rd,— M.Gillislee left tackle to MIA 22 for 9 yards (D.Holloman; J.Heath).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,3,Miami Dolphins,0,3,0,25 Yard Pass,2nd & 1 at MIA 22,07:19 3rd Shotgun,— P.Devlin pass deep right to M.Egnew to MIA 47 for 25 yards (M.Pellerin).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,3,Miami Dolphins,0,4,0,Pass Incomplete,1st & 10 at MIA 47,06:10 3rd No Huddle,— P.Devlin pass incomplete short right to K.Miller.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,3,Miami Dolphins,0,5,0,-2 Yard Run,2nd & 10 at MIA 47,06:08 3rd,— M.Gillislee right guard to MIA 45 for -2 yards (M.Taylor; J.Pendleton).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,3,Miami Dolphins,0,6,0,29 Yard Run,3rd & 12 at MIA 45,06:08 3rd Shotgun,"— P.Devlin scrambles right end to DAL 41 for 14 yards (D.Holloman). PENALTY on DAL-D.Holloman, Unnecessary Roughness, 15 yards, enforced at DAL 41."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,3,Miami Dolphins,0,7,0,5 Yard Penalty,1st & 10 at DAL 26,06:08 3rd,"— M.Gillislee right end to DAL 25 for 1 yard (L.Cohen). PENALTY on DAL-L.Cohen, Defensive Offside, 5 yards, enforced at DAL 26 - No Play."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,3,Miami Dolphins,0,8,0,9 Yard Pass,1st & 5 at DAL 21,06:08 3rd,— P.Devlin pass short left to E.Rodriguez to DAL 12 for 9 yards (J.Hamilton).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,3,Miami Dolphins,0,9,0,2 Yard Run,1st & 10 at DAL 12,06:08 3rd,— J.Gray right guard to DAL 10 for 2 yards (C.Lawrence).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,3,Miami Dolphins,0,10,0,1 Yard Run,2nd & 8 at DAL 10,03:44 3rd,— J.Gray right tackle to DAL 9 for 1 yard (T.Reed).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,3,Miami Dolphins,0,11,0,1 Yard Run,3rd & 7 at DAL 9,03:07 3rd Shotgun,— P.Devlin scrambles up the middle to DAL 8 for 1 yard (G.Selvie).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,3rd Quarter,3,Miami Dolphins,0,12,0,Turnover on Downs,4th & 6 at DAL 8,02:30 3rd Shotgun,— P.Devlin pass short left to C.Bumphis to DAL 3 for 5 yards (X.Brewer).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,1,Dallas Cowboys,0,1,0,-2 Yard Penalty,1st & 10 at DAL 3,02:13 3rd,"— PENALTY on DAL-D.Weems, False Start, 2 yards, enforced at DAL 3 - No Play."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,1,Dallas Cowboys,0,2,0,Pass Incomplete,1st & 12 at DAL 1,02:13 3rd,— A.Tanney pass incomplete short left to C.Cochart [C.Burnette].
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,1,Dallas Cowboys,0,3,0,13 Yard Pass,2nd & 12 at DAL 1,02:13 3rd,— A.Tanney pass short left to T.Benford to DAL 14 for 13 yards (J.Kovacs).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,1,Dallas Cowboys,0,4,0,11 Yard Run,1st & 10 at DAL 14,01:32 3rd,— J.Randle right guard to DAL 25 for 11 yards (J.Kaddu).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,1,Dallas Cowboys,0,5,0,8 Yard Run,1st & 10 at DAL 25,00:53 3rd,— J.Randle right tackle to DAL 33 for 8 yards (J.Jenkins).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,1,Dallas Cowboys,0,6,0,1 Yard Run,2nd & 2 at DAL 33,00:11 3rd,— J.Randle left guard to DAL 34 for 1 yard (L.Robinson).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,1,Dallas Cowboys,0,7,0,3 Yard Run,3rd & 1 at DAL 34,15:00 4th,— J.Randle left guard to DAL 37 for 3 yards (L.Robinson).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,1,Dallas Cowboys,0,8,0,3 Yard Run,1st & 10 at DAL 37,15:00 4th,— J.Randle right tackle to DAL 40 for 3 yards (J.Kaddu).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,1,Dallas Cowboys,0,9,0,Pass Incomplete,2nd & 7 at DAL 40,15:00 4th,— A.Tanney pass incomplete short right to A.Smith.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,1,Dallas Cowboys,0,10,0,6 Yard Pass,3rd & 7 at DAL 40,15:00 4th Shotgun,— A.Tanney pass short right to T.Benford to DAL 46 for 6 yards (J.Posey).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,1,Dallas Cowboys,0,11,0,Punt,4th & 1 at DAL 46,12:55 4th Punt formation,"— S.Benton punts 12 yards to MIA 42, Center-J.Anderson, downed by DAL-A.Armstrong."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,2,Miami Dolphins,1,1,0,29 Yard Run,1st & 10 at MIA 42,12:43 4th,— J.Gray right tackle to DAL 29 for 29 yards (J.Heath).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,2,Miami Dolphins,1,2,0,11 Yard Penalty,1st & 10 at DAL 29,12:43 4th,"— P.Devlin pass incomplete short right to K.Davis. PENALTY on DAL-M.Pellerin, Defensive Pass Interference, 11 yards, enforced at DAL 29 - No Play."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,2,Miami Dolphins,1,3,0,6 Yard Pass,1st & 10 at DAL 18,12:43 4th Shotgun,— P.Devlin pass short left to K.Miller to DAL 12 for 6 yards (T.Reed).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,2,Miami Dolphins,1,4,0,6 Yard Run,2nd & 4 at DAL 12,12:43 4th,— M.Gillislee left tackle to DAL 6 for 6 yards (T.Reed).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,2,Miami Dolphins,1,5,0,0 Yard Run,1st & 6 at DAL 6,12:43 4th,— M.Gillislee right tackle to DAL 6 for no gain (T.Reed; G.Selvie).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,2,Miami Dolphins,1,6,0,1 Yard Run,2nd & 6 at DAL 6,10:14 4th Shotgun,— J.Gray left guard to DAL 5 for 1 yard (L.Cohen).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,2,Miami Dolphins,1,7,0,Pass Incomplete,3rd & 5 at DAL 5,09:33 4th Shotgun,— P.Devlin pass incomplete short middle to K.Miller.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,2,Miami Dolphins,1,8,1,Touchdown,4th & 5 at DAL 5,09:29 4th Shotgun,"— P.Devlin pass short middle to K.Davis for 5 yards, TOUCHDOWN."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,2,Miami Dolphins,1,9,1,Extra Point,,09:26 4th,"— D.Carpenter extra point is GOOD, Center-J.Denney, Holder-B.Fields."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,3,Dallas Cowboys,0,1,0,Kickoff from MIA 35,,Kickoff,"— D.Carpenter kicks 65 yards from MIA 35 to end zone, Touchback."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,3,Dallas Cowboys,0,2,0,Pass Incomplete,1st & 10 at DAL 20,09:26 4th Shotgun,— A.Tanney pass incomplete deep left to E.Rogers.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,3,Dallas Cowboys,0,3,0,Pass Incomplete,2nd & 10 at DAL 20,09:20 4th,— A.Tanney pass incomplete short left to E.Rogers (D.Presley).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,3,Dallas Cowboys,0,4,0,1 Yard Pass,3rd & 10 at DAL 20,09:16 4th Shotgun,— A.Tanney pass short right to C.Cochart to DAL 21 for 1 yard (L.Robinson).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,3,Dallas Cowboys,0,5,0,Punt,4th & 9 at DAL 21,08:39 4th Punt formation,"— S.Benton punts 35 yards to MIA 44, Center-J.Anderson. D.Presley to MIA 48 for 4 yards (J.Heath)."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,4,Miami Dolphins,1,1,0,Penalty,1st & 10 at MIA 48,08:27 4th,"— P.Devlin pass incomplete deep right to K.Davis (M.Pellerin). Penalty on DAL-X.Brewer, Defensive Holding, offsetting, enforced at MIA 48 - No Play. Penalty on MIA-M.Egnew, Offensive Holding, offsetting."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,4,Miami Dolphins,1,2,0,1 Yard Run,1st & 10 at MIA 48,08:27 4th,— M.Gillislee left guard to MIA 49 for 1 yard (L.Cohen; D.Lacey).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,4,Miami Dolphins,1,3,0,-5 Yard Sack,2nd & 9 at MIA 49,07:40 4th,— P.Devlin sacked at MIA 44 for -5 yards (T.Reed).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,4,Miami Dolphins,1,4,0,10 Yard Pass,3rd & 14 at MIA 44,07:40 4th Shotgun,— P.Devlin pass short left to J.Gray to DAL 46 for 10 yards (D.Lacey).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,4,Miami Dolphins,1,5,0,Timeout,,06:18 4th,— Timeout #2 by DAL at 06:18.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,4,Miami Dolphins,1,6,0,16 Yard Pass,4th & 4 at DAL 46,06:18 4th,— P.Devlin pass short right to K.Davis to DAL 30 for 16 yards (T.Reed).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,4,Miami Dolphins,1,7,0,3 Yard Run,1st & 10 at DAL 30,06:18 4th,— J.Gray up the middle to DAL 27 for 3 yards (T.Reed; L.Cohen).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,4,Miami Dolphins,1,8,0,Pass Incomplete,2nd & 7 at DAL 27,06:18 4th,— P.Devlin pass incomplete deep right to C.Bumphis (M.Pellerin).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,4,Miami Dolphins,1,9,0,Pass Incomplete,3rd & 7 at DAL 27,04:57 4th Shotgun,— P.Devlin pass incomplete short middle to M.Gillislee.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,4,Miami Dolphins,1,10,1,Field Goal,4th & 7 at DAL 27,04:54 4th Field Goal formation,"— D.Carpenter 45 yard field goal is GOOD, Center-J.Denney, Holder-B.Fields."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,5,Dallas Cowboys,0,1,0,Kickoff from MIA 35,,Kickoff,"— D.Carpenter kicks 65 yards from MIA 35 to end zone, Touchback."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,5,Dallas Cowboys,0,2,0,6 Yard Run,1st & 10 at DAL 20,04:50 4th,— A.Tanney scrambles right end to DAL 26 for 6 yards (T.Okpalaugo).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,5,Dallas Cowboys,0,3,0,3 Yard Run,2nd & 4 at DAL 26,04:43 4th,— K.Lawrence right tackle to DAL 29 for 3 yards (D.Hinds).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,5,Dallas Cowboys,0,4,0,0 Yard Run,3rd & 1 at DAL 29,04:00 4th,— K.Lawrence right guard to DAL 29 for no gain (D.Hinds).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,5,Dallas Cowboys,0,5,0,Punt,4th & 1 at DAL 29,03:24 4th Punt formation,"— S.Benton punts 34 yards to MIA 37, Center-J.Anderson. D.Presley MUFFS catch, recovered by MIA at MIA 37."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,6,Miami Dolphins,0,1,0,Pass Incomplete,1st & 10 at MIA 37,03:12 4th Shotgun,— M.Moore pass incomplete short right to K.Stafford.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,6,Miami Dolphins,0,2,0,9 Yard Pass,2nd & 10 at MIA 37,03:12 4th Shotgun,— M.Moore pass short right to M.Egnew to MIA 46 for 9 yards (B.Magee).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,6,Miami Dolphins,0,3,0,-1 Yard Run,3rd & 1 at MIA 46,02:38 4th,"— M.Moore FUMBLES (Aborted) at MIA 46, and recovers at MIA 45. M.Moore to MIA 45 for no gain (L.Cohen)."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,6,Miami Dolphins,0,4,0,Turnover on Downs,4th & 2 at MIA 45,02:26 4th Shotgun,— M.Moore pass short right to J.Gray to MIA 43 for -2 yards (M.Pellerin).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,7,Dallas Cowboys,1,1,0,3 Yard Run,1st & 10 at MIA 43,02:20 4th,— K.Lawrence left guard to MIA 40 for 3 yards (D.Hinds).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,7,Dallas Cowboys,1,2,0,Timeout,,02:14 4th,— Timeout #1 by MIA at 02:14.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,7,Dallas Cowboys,1,3,0,1 Yard Run,2nd & 7 at MIA 40,02:14 4th,— K.Lawrence right guard to MIA 39 for 1 yard (J.Posey).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,7,Dallas Cowboys,1,4,0,Timeout,,02:09 4th,— Timeout #2 by MIA at 02:09.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,7,Dallas Cowboys,1,5,0,32 Yard Pass,3rd & 6 at MIA 39,02:09 4th Shotgun,— A.Tanney pass deep right to J.Green to MIA 7 for 32 yards (J.Posey; K.Johnson).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,7,Dallas Cowboys,1,6,1,Touchdown,1st & 7 at MIA 7,02:02 4th,"— K.Lawrence left guard for 7 yards, TOUCHDOWN."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,7,Dallas Cowboys,1,7,1,Extra Point,,01:57 4th,"— D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,8,Miami Dolphins,1,1,0,Kickoff from DAL 35,,Kickoff,— S.Benton kicks 64 yards from DAL 35 to MIA 1. D.Presley to MIA 21 for 20 yards (A.Armstrong).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,8,Miami Dolphins,1,2,0,24 Yard Pass,1st & 10 at MIA 21,01:57 4th No Huddle,— M.Moore pass short middle to K.Miller to MIA 45 for 24 yards (J.Hamilton).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,8,Miami Dolphins,1,3,0,27 Yard Pass,1st & 10 at MIA 45,"01:30 4th No Huddle, Shotgun",— M.Moore pass deep right to K.Davis to DAL 28 for 27 yards (J.Hamilton).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,8,Miami Dolphins,1,4,0,Pass Incomplete,1st & 10 at DAL 28,"01:30 4th No Huddle, Shotgun",— M.Moore pass incomplete short right to J.Gray [M.Taylor].
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,8,Miami Dolphins,1,5,0,20 Yard Pass,2nd & 10 at DAL 28,00:59 4th Shotgun,— M.Moore pass deep left to C.Bumphis to DAL 8 for 20 yards (X.Brewer).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,8,Miami Dolphins,1,6,0,Pass Incomplete,1st & 8 at DAL 8,"00:59 4th No Huddle, Shotgun",— M.Moore pass incomplete short right to K.Davis.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,8,Miami Dolphins,1,7,0,3 Yard Pass,2nd & 8 at DAL 8,00:33 4th Shotgun,— M.Moore pass short left to K.Stafford to DAL 5 for 3 yards (B.Webb).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,8,Miami Dolphins,1,8,0,Pass Incomplete,3rd & 5 at DAL 5,00:27 4th Shotgun,— M.Moore pass incomplete short right to K.Miller (J.Pendleton).
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,8,Miami Dolphins,1,9,0,Timeout,,00:22 4th,— Timeout #3 by DAL at 00:22.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,8,Miami Dolphins,1,10,1,Touchdown,4th & 5 at DAL 5,00:22 4th Shotgun,"— M.Moore pass short right to K.Miller for 5 yards, TOUCHDOWN. touchdown caught off of another player's hands"
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,8,Miami Dolphins,1,11,1,Extra Point,,00:16 4th,"— D.Carpenter extra point is GOOD, Center-J.Denney, Holder-B.Fields."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,9,Dallas Cowboys,0,1,0,Kickoff from MIA 35,,Kickoff,"— B.Fields kicks onside 11 yards from MIA 35 to MIA 46, impetus ends at MIA 49, out of bounds. Penalty on DAL, Illegal Formation, offsetting, enforced at MIA 35 - No Play. Penalty on DAL-A.Armstrong, Illegal Bat, offsetting."
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,9,Dallas Cowboys,0,2,0,Kickoff from MIA 35,,Kickoff,— B.Fields kicks onside 12 yards from MIA 35 to MIA 47. A.Armstrong (didn't try to advance) ran ob at MIA 47 for no gain.
+2013,HALL OF FAME,Sunday,August 4th,MIA,DAL,4th Quarter,9,Dallas Cowboys,0,3,0,-1 Yard Run,1st & 10 at MIA 47,00:16 4th,— A.Tanney kneels to MIA 48 for -1 yards.
