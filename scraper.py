@@ -408,7 +408,7 @@ class NflScraper:
           individual_game.insert(7, None)
           individual_game.insert(8, np.nan)
           # team name (I guess put in 'AwayTeam'?)
-          team_name = off_week.find_element(By.XPATH, "./div[2]/div")
+          team_name = off_week.find_element(By.XPATH, "./div[2]/div[1]/span[1]")
           self.driver.execute_script("arguments[0].style.border='3px solid blue'", team_name)
           individual_game.insert(5, team_name.text)
           # Add individual game data to week scores dataframe
@@ -435,7 +435,8 @@ class NflScraper:
           away_name = away_team.find_element(By.XPATH, "./span[3]")
           individual_game.insert(5, away_name.text)
           try:
-            away_score = away_team.find_element(By.XPATH, "./div/div/span")
+            # away_score = away_team.find_element(By.XPATH, "./div/div/span")
+            away_score = away_team.find_element(By.XPATH, "./div/div/div[1]")
             individual_game.insert(6, int(away_score.text))
           except (ValueError, NoSuchElementException):
             individual_game.insert(6, np.nan)
@@ -447,7 +448,8 @@ class NflScraper:
           # I understand this is redundant and I could put 'away_score' and 'home_score' together.
           # This just seems to flow a bit nicer.
           try:
-            home_score = home_team.find_element(By.XPATH, "./div/div/span")
+            # home_score = home_team.find_element(By.XPATH, "./div/div/span")
+            home_score = home_team.find_element(By.XPATH, "./div/div/div[1]")
             individual_game.insert(8, int(home_score.text))
           except (ValueError, NoSuchElementException):
             individual_game.insert(8, np.nan)
