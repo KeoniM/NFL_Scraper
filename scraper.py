@@ -93,7 +93,8 @@ class NflScraper:
         wait.until(dropdown_search_and_select((By.ID, "season-select"), chosen_year))
         # Select week
         # - Searches through available weeks within season and opens chosen week page
-        carousel_week_select = wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[2]/main/div/div/div/section/div/nav/ul")))
+        # carousel_week_select = wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[2]/main/div/div/div/section/div/nav/ul")))
+        carousel_week_select = wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[2]/main/div/div/div/section/div/nav/ul"))) # Updated 08/07/2026
         # Waits for carousel elements (week elements) to render in site before grabbing them
         week_options = wait.until( lambda driver: carousel_week_select.find_elements(By.TAG_NAME, 'li') )
         for week in week_options:
@@ -107,7 +108,8 @@ class NflScraper:
         # grabbing webelement containing text of which week the page is on (e.g. "WEEK 1")
         week_check = wait.until(
           # EC.presence_of_element_located((By.XPATH, "/html/body/div[2]/main/div/div/div/section/div[2]/div[2]/div"))
-          EC.presence_of_element_located((By.XPATH, "/html/body/div/main/div[2]/div/div/section/div[3]/div/div/span")) # update 01/15/2026
+          # EC.presence_of_element_located((By.XPATH, "/html/body/div/main/div[2]/div/div/section/div[3]/div/div/span")) # update 01/15/2026
+          EC.presence_of_element_located((By.XPATH, "/html/body/div[2]/main/div/div/div/section/div[3]/div/div/span")) # update 08/07/2026
         )
 
         print(week_check.text)
@@ -116,7 +118,8 @@ class NflScraper:
         if(week_check.text == chosen_week):
           # After the correct page has been selected (for a fact), this next step is to make sure the DOM renders completely before moving on.
           # wait.until(EC.presence_of_element_located((By.XPATH, "html/body/div[2]/main/div/div/div/section/div[2]/div/div/div/div/div/div[1]/ul[1]/li[1]")))
-          wait.until(EC.presence_of_element_located((By.XPATH, "html/body/div/main/div[2]/div/div/section/div[2]/div/div/div/div/div[1]/ul[1]/li[1]"))) # update 01/15/2026
+          # wait.until(EC.presence_of_element_located((By.XPATH, "html/body/div/main/div[2]/div/div/section/div[2]/div/div/div/div/div[1]/ul[1]/li[1]"))) # update 01/15/2026
+          wait.until(EC.presence_of_element_located((By.XPATH, "html/body/div[2]/main/div/div/div/section/div[2]/div/div/div/div/div[1]/ul[1]/li[1]"))) # update 08/07/2026
           return
         else:
           return self.select_year_and_week(chosen_year, chosen_week, max_attempts - 1)
@@ -174,7 +177,8 @@ class NflScraper:
         wait.until(dropdown_search_and_select((By.ID, "season-select"), season))
         # Identifying available weeks in season
         # weeks_parent_webelement = wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[2]/main/div/div/div/section/div/nav/ul")))
-        weeks_parent_webelement = wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div/main/div[2]/div/div/section/div/nav/ul"))) # Updated 02/19/2026
+        # weeks_parent_webelement = wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div/main/div[2]/div/div/section/div/nav/ul"))) # Updated 02/19/2026
+        weeks_parent_webelement = wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div[2]/main/div/div/div/section/div/nav/ul"))) # Updated 08/07/2026
         available_week_webelements = weeks_parent_webelement.find_elements(By.TAG_NAME, 'li')
         available_weeks_in_season = [
           wait.until(child_element_to_be_present(week, (By.XPATH, "./div/a/dl/dd[1]"))).text 
@@ -224,7 +228,8 @@ class NflScraper:
     # Parent webelement that has all game outcomes (Scores/Byes/Upcoming)
     parent_webelement_games = wait.until(
       # EC.presence_of_element_located((By.XPATH, "/html/body/div[2]/main/div/div/div/section/div[2]/div/div/div/div/div"))
-      EC.presence_of_element_located((By.XPATH, "html/body/div/main/div[2]/div/div/section/div[2]/div/div/div/div")) # Updated 1/15/2026
+      # EC.presence_of_element_located((By.XPATH, "html/body/div/main/div[2]/div/div/section/div[2]/div/div/div/div")) # Updated 1/15/2026
+      EC.presence_of_element_located((By.XPATH, "html/body/div/main/div/div/div/section/div[2]/div/div/div/div")) # Updated 8/07/2026
     )
 
     # This block of code doubles as:
