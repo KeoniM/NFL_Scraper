@@ -48,22 +48,22 @@ Season,Week,GameStatus,GameSlot,GameDate,AwayTeam,AwayScore,HomeTeam,HomeScore
 2026,PRESEASON WEEK 3,FINAL,Friday,August 28th,MIN,6.0,DEN,34.0
 2026,PRESEASON WEEK 3,FINAL,Saturday,August 29th,DET,25.0,IND,16.0
 2026,PRESEASON WEEK 3,FINAL,Saturday,August 29th,CHI,24.0,TEN,15.0
-2026,WEEK 1,TBD,Sunday Night Football,September 9th,NE,,SEA,
-2026,WEEK 1,TBD,Thursday,September 10th,SF,,LAR,
-2026,WEEK 1,TBD,Sunday,September 13th,CHI,,CAR,
-2026,WEEK 1,TBD,Sunday,September 13th,TB,,CIN,
-2026,WEEK 1,TBD,Sunday,September 13th,NO,,DET,
-2026,WEEK 1,TBD,Sunday,September 13th,BUF,,HOU,
-2026,WEEK 1,TBD,Sunday,September 13th,BAL,,IND,
-2026,WEEK 1,TBD,Sunday,September 13th,CLE,,JAX,
-2026,WEEK 1,TBD,Sunday,September 13th,ATL,,PIT,
-2026,WEEK 1,TBD,Sunday,September 13th,NYJ,,TEN,
-2026,WEEK 1,TBD,Sunday,September 13th,AZ,,LAC,
-2026,WEEK 1,TBD,Sunday,September 13th,MIA,,LV,
-2026,WEEK 1,TBD,Sunday,September 13th,GB,,MIN,
-2026,WEEK 1,TBD,Sunday,September 13th,WAS,,PHI,
-2026,WEEK 1,TBD,Sunday Night Football,September 13th,DAL,,NYG,
-2026,WEEK 1,TBD,Monday Night Football,September 14th,DEN,,KC,
+2026,WEEK 1,FINAL,Sunday Night Football,September 9th,NE,10.0,SEA,13.0
+2026,WEEK 1,FINAL,Thursday,September 10th,SF,27.0,LAR,7.0
+2026,WEEK 1,FINAL,Sunday,September 13th,CHI,59.0,CAR,37.0
+2026,WEEK 1,FINAL,Sunday,September 13th,TB,27.0,CIN,33.0
+2026,WEEK 1,FINAL,Sunday,September 13th,NO,30.0,DET,31.0
+2026,WEEK 1,FINAL,Sunday,September 13th,BUF,36.0,HOU,31.0
+2026,WEEK 1,FINAL,Sunday,September 13th,BAL,41.0,IND,23.0
+2026,WEEK 1,FINAL,Sunday,September 13th,CLE,10.0,JAX,34.0
+2026,WEEK 1,FINAL,Sunday,September 13th,ATL,13.0,PIT,20.0
+2026,WEEK 1,FINAL,Sunday,September 13th,NYJ,23.0,TEN,10.0
+2026,WEEK 1,FINAL,Sunday,September 13th,AZ,26.0,LAC,14.0
+2026,WEEK 1,FINAL,Sunday,September 13th,MIA,13.0,LV,27.0
+2026,WEEK 1,FINAL,Sunday,September 13th,GB,22.0,MIN,39.0
+2026,WEEK 1,FINAL,Sunday,September 13th,WAS,22.0,PHI,24.0
+2026,WEEK 1,FINAL,Sunday Night Football,September 13th,DAL,20.0,NYG,28.0
+2026,WEEK 1,FINAL,Monday Night Football,September 14th,DEN,10.0,KC,31.0
 2026,WEEK 2,TBD,Thursday Night Football,September 17th,DET,,BUF,
 2026,WEEK 2,TBD,Sunday,September 20th,CAR,,ATL,
 2026,WEEK 2,TBD,Sunday,September 20th,NO,,BAL,
