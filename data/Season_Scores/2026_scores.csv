@@ -64,22 +64,22 @@ Season,Week,GameStatus,GameSlot,GameDate,AwayTeam,AwayScore,HomeTeam,HomeScore
 2026,WEEK 1,FINAL,Sunday,September 13th,WAS,22.0,PHI,24.0
 2026,WEEK 1,FINAL,Sunday Night Football,September 13th,DAL,20.0,NYG,28.0
 2026,WEEK 1,FINAL,Monday Night Football,September 14th,DEN,10.0,KC,31.0
-2026,WEEK 2,TBD,Thursday Night Football,September 17th,DET,,BUF,
-2026,WEEK 2,TBD,Sunday,September 20th,CAR,,ATL,
-2026,WEEK 2,TBD,Sunday,September 20th,NO,,BAL,
-2026,WEEK 2,TBD,Sunday,September 20th,MIN,,CHI,
-2026,WEEK 2,TBD,Sunday,September 20th,CIN,,HOU,
-2026,WEEK 2,TBD,Sunday,September 20th,PIT,,NE,
-2026,WEEK 2,TBD,Sunday,September 20th,GB,,NYJ,
-2026,WEEK 2,TBD,Sunday,September 20th,CLE,,TB,
-2026,WEEK 2,TBD,Sunday,September 20th,PHI,,TEN,
-2026,WEEK 2,TBD,Sunday,September 20th,JAX,,DEN,
-2026,WEEK 2,TBD,Sunday,September 20th,LV,,LAC,
-2026,WEEK 2,TBD,Sunday,September 20th,SEA,,AZ,
-2026,WEEK 2,TBD,Sunday,September 20th,WAS,,DAL,
-2026,WEEK 2,TBD,Sunday,September 20th,MIA,,SF,
-2026,WEEK 2,TBD,Sunday Night Football,September 20th,IND,,KC,
-2026,WEEK 2,TBD,Monday Night Football,September 21st,NYG,,LAR,
+2026,WEEK 2,FINAL,Thursday Night Football,September 17th,DET,31.0,BUF,41.0
+2026,WEEK 2,FINAL,Sunday,September 20th,CAR,34.0,ATL,3.0
+2026,WEEK 2,FINAL,Sunday,September 20th,NO,24.0,BAL,17.0
+2026,WEEK 2,FINAL,Sunday,September 20th,MIN,9.0,CHI,3.0
+2026,WEEK 2,FINAL,Sunday,September 20th,CIN,20.0,HOU,6.0
+2026,WEEK 2,FINAL,Sunday,September 20th,PIT,3.0,NE,20.0
+2026,WEEK 2,FINAL,Sunday,September 20th,GB,20.0,NYJ,17.0
+2026,WEEK 2,FINAL,Sunday,September 20th,CLE,23.0,TB,19.0
+2026,WEEK 2,FINAL,Sunday,September 20th,PHI,24.0,TEN,20.0
+2026,WEEK 2,FINAL,Sunday,September 20th,JAX,13.0,DEN,20.0
+2026,WEEK 2,FINAL,Sunday,September 20th,LV,26.0,LAC,14.0
+2026,WEEK 2,FINAL,Sunday,September 20th,SEA,31.0,AZ,7.0
+2026,WEEK 2,FINAL,Sunday,September 20th,WAS,20.0,DAL,37.0
+2026,WEEK 2,FINAL,Sunday,September 20th,MIA,13.0,SF,35.0
+2026,WEEK 2,FINAL,Sunday Night Football,September 20th,IND,30.0,KC,33.0
+2026,WEEK 2,FINAL,Monday Night Football,September 21st,NYG,6.0,LAR,28.0
 2026,WEEK 3,TBD,Thursday Night Football,September 24th,ATL,,GB,
 2026,WEEK 3,TBD,Sunday,September 27th,LAC,,BUF,
 2026,WEEK 3,TBD,Sunday,September 27th,CAR,,CLE,
