@@ -5912,22 +5912,22 @@ Season,Week,GameStatus,GameSlot,GameDate,AwayTeam,AwayScore,HomeTeam,HomeScore
 2026,WEEK 2,FINAL,Sunday,September 20th,MIA,13.0,SF,35.0
 2026,WEEK 2,FINAL,Sunday Night Football,September 20th,IND,30.0,KC,33.0
 2026,WEEK 2,FINAL,Monday Night Football,September 21st,NYG,6.0,LAR,28.0
-2026,WEEK 3,TBD,Thursday Night Football,September 24th,ATL,,GB,
-2026,WEEK 3,TBD,Sunday,September 27th,LAC,,BUF,
-2026,WEEK 3,TBD,Sunday,September 27th,CAR,,CLE,
-2026,WEEK 3,TBD,Sunday,September 27th,NYJ,,DET,
-2026,WEEK 3,TBD,Sunday,September 27th,HOU,,IND,
-2026,WEEK 3,TBD,Sunday,September 27th,NE,,JAX,
-2026,WEEK 3,TBD,Sunday,September 27th,KC,,MIA,
-2026,WEEK 3,TBD,Sunday,September 27th,TEN,,NYG,
-2026,WEEK 3,TBD,Sunday,September 27th,CIN,,PIT,
-2026,WEEK 3,TBD,Sunday,September 27th,SEA,,WAS,
-2026,WEEK 3,TBD,Sunday,September 27th,AZ,,SF,
-2026,WEEK 3,TBD,Sunday,September 27th,MIN,,TB,
-2026,WEEK 3,TBD,Sunday,September 27th,LV,,NO,
-2026,WEEK 3,TBD,Sunday,September 27th,BAL,,DAL,
-2026,WEEK 3,TBD,Sunday Night Football,September 27th,LAR,,DEN,
-2026,WEEK 3,TBD,Monday Night Football,September 28th,PHI,,CHI,
+2026,WEEK 3,FINAL,Thursday Night Football,September 24th,ATL,35.0,GB,14.0
+2026,WEEK 3,FINAL,Sunday,September 27th,LAC,16.0,BUF,24.0
+2026,WEEK 3,FINAL,Sunday,September 27th,CAR,18.0,CLE,21.0
+2026,WEEK 3,FINAL,Sunday,September 27th,NYJ,24.0,DET,31.0
+2026,WEEK 3,FINAL,Sunday,September 27th,HOU,17.0,IND,19.0
+2026,WEEK 3,FINAL,Sunday,September 27th,NE,6.0,JAX,35.0
+2026,WEEK 3,FINAL,Sunday,September 27th,KC,24.0,MIA,10.0
+2026,WEEK 3,FINAL,Sunday,September 27th,TEN,7.0,NYG,12.0
+2026,WEEK 3,FINAL,Sunday,September 27th,CIN,27.0,PIT,30.0
+2026,WEEK 3,FINAL,Sunday,September 27th,SEA,31.0,WAS,33.0
+2026,WEEK 3,FINAL,Sunday,September 27th,AZ,30.0,SF,36.0
+2026,WEEK 3,FINAL,Sunday,September 27th,MIN,23.0,TB,16.0
+2026,WEEK 3,FINAL,Sunday,September 27th,LV,35.0,NO,27.0
+2026,WEEK 3,FINAL,Sunday,September 27th,BAL,34.0,DAL,31.0
+2026,WEEK 3,FINAL,Sunday Night Football,September 27th,LAR,26.0,DEN,30.0
+2026,WEEK 3,FINAL,Monday Night Football,September 28th,PHI,7.0,CHI,27.0
 2026,WEEK 4,TBD,Thursday Night Football,October 1st,PIT,,CLE,
 2026,WEEK 4,TBD,Sunday,October 4th,IND,,WAS,
 2026,WEEK 4,TBD,Sunday,October 4th,TEN,,BAL,
@@ -5953,9 +5953,9 @@ Season,Week,GameStatus,GameSlot,GameDate,AwayTeam,AwayScore,HomeTeam,HomeScore
 2026,WEEK 5,TBD,Sunday,October 11th,IND,,PIT,
 2026,WEEK 5,TBD,Sunday,October 11th,HOU,,TEN,
 2026,WEEK 5,TBD,Sunday,October 11th,NYG,,WAS,
+2026,WEEK 5,TBD,Sunday,October 11th,CHI,,GB,
 2026,WEEK 5,TBD,Sunday,October 11th,DEN,,LAC,
 2026,WEEK 5,TBD,Sunday,October 11th,DET,,AZ,
-2026,WEEK 5,TBD,Sunday,October 11th,CHI,,GB,
 2026,WEEK 5,TBD,Sunday,October 11th,SF,,SEA,
 2026,WEEK 5,TBD,Sunday Night Football,October 11th,BAL,,ATL,
 2026,WEEK 5,TBD,Monday Night Football,October 12th,BUF,,LAR,
