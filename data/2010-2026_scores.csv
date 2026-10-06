@@ -5928,22 +5928,22 @@ Season,Week,GameStatus,GameSlot,GameDate,AwayTeam,AwayScore,HomeTeam,HomeScore
 2026,WEEK 3,FINAL,Sunday,September 27th,BAL,34.0,DAL,31.0
 2026,WEEK 3,FINAL,Sunday Night Football,September 27th,LAR,26.0,DEN,30.0
 2026,WEEK 3,FINAL,Monday Night Football,September 28th,PHI,7.0,CHI,27.0
-2026,WEEK 4,TBD,Thursday Night Football,October 1st,PIT,,CLE,
-2026,WEEK 4,TBD,Sunday,October 4th,IND,,WAS,
-2026,WEEK 4,TBD,Sunday,October 4th,TEN,,BAL,
-2026,WEEK 4,TBD,Sunday,October 4th,NE,,BUF,
-2026,WEEK 4,TBD,Sunday,October 4th,NYJ,,CHI,
-2026,WEEK 4,TBD,Sunday,October 4th,JAX,,CIN,
-2026,WEEK 4,TBD,Sunday,October 4th,DAL,,HOU,
-2026,WEEK 4,TBD,Sunday,October 4th,AZ,,NYG,
-2026,WEEK 4,TBD,Sunday,October 4th,LAR,,PHI,
-2026,WEEK 4,TBD,Sunday,October 4th,GB,,TB,
-2026,WEEK 4,TBD,Sunday,October 4th,MIA,,MIN,
-2026,WEEK 4,TBD,Sunday,October 4th,KC,,LV,
-2026,WEEK 4,TBD,Sunday,October 4th,LAC,,SEA,
-2026,WEEK 4,TBD,Sunday,October 4th,DEN,,SF,
-2026,WEEK 4,TBD,Sunday Night Football,October 4th,DET,,CAR,
-2026,WEEK 4,TBD,Monday Night Football,October 5th,ATL,,NO,
+2026,WEEK 4,FINAL,Thursday Night Football,October 1st,PIT,24.0,CLE,27.0
+2026,WEEK 4,FINAL,Sunday,October 4th,IND,30.0,WAS,13.0
+2026,WEEK 4,FINAL,Sunday,October 4th,TEN,18.0,BAL,24.0
+2026,WEEK 4,FINAL,Sunday,October 4th,NE,29.0,BUF,26.0
+2026,WEEK 4,FINAL,Sunday,October 4th,NYJ,12.0,CHI,23.0
+2026,WEEK 4,FINAL,Sunday,October 4th,JAX,22.0,CIN,17.0
+2026,WEEK 4,FINAL,Sunday,October 4th,DAL,34.0,HOU,30.0
+2026,WEEK 4,FINAL,Sunday,October 4th,AZ,24.0,NYG,36.0
+2026,WEEK 4,FINAL,Sunday,October 4th,LAR,24.0,PHI,20.0
+2026,WEEK 4,FINAL,Sunday,October 4th,GB,17.0,TB,14.0
+2026,WEEK 4,FINAL,Sunday,October 4th,MIA,10.0,MIN,15.0
+2026,WEEK 4,FINAL,Sunday,October 4th,KC,30.0,LV,27.0
+2026,WEEK 4,FINAL,Sunday,October 4th,LAC,23.0,SEA,30.0
+2026,WEEK 4,FINAL,Sunday,October 4th,DEN,14.0,SF,24.0
+2026,WEEK 4,FINAL,Sunday Night Football,October 4th,DET,26.0,CAR,32.0
+2026,WEEK 4,FINAL,Monday Night Football,October 5th,ATL,45.0,NO,24.0
 2026,WEEK 5,TBD,Thursday Night Football,October 8th,TB,,DAL,
 2026,WEEK 5,TBD,Sunday,October 11th,PHI,,JAX,
 2026,WEEK 5,TBD,Sunday,October 11th,CIN,,MIA,
