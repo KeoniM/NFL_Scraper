@@ -5944,21 +5944,21 @@ Season,Week,GameStatus,GameSlot,GameDate,AwayTeam,AwayScore,HomeTeam,HomeScore
 2026,WEEK 4,FINAL,Sunday,October 4th,DEN,14.0,SF,24.0
 2026,WEEK 4,FINAL,Sunday Night Football,October 4th,DET,26.0,CAR,32.0
 2026,WEEK 4,FINAL,Monday Night Football,October 5th,ATL,45.0,NO,24.0
-2026,WEEK 5,TBD,Thursday Night Football,October 8th,TB,,DAL,
-2026,WEEK 5,TBD,Sunday,October 11th,PHI,,JAX,
-2026,WEEK 5,TBD,Sunday,October 11th,CIN,,MIA,
-2026,WEEK 5,TBD,Sunday,October 11th,LV,,NE,
-2026,WEEK 5,TBD,Sunday,October 11th,MIN,,NO,
-2026,WEEK 5,TBD,Sunday,October 11th,CLE,,NYJ,
-2026,WEEK 5,TBD,Sunday,October 11th,IND,,PIT,
-2026,WEEK 5,TBD,Sunday,October 11th,HOU,,TEN,
-2026,WEEK 5,TBD,Sunday,October 11th,NYG,,WAS,
-2026,WEEK 5,TBD,Sunday,October 11th,CHI,,GB,
-2026,WEEK 5,TBD,Sunday,October 11th,DEN,,LAC,
-2026,WEEK 5,TBD,Sunday,October 11th,DET,,AZ,
-2026,WEEK 5,TBD,Sunday,October 11th,SF,,SEA,
-2026,WEEK 5,TBD,Sunday Night Football,October 11th,BAL,,ATL,
-2026,WEEK 5,TBD,Monday Night Football,October 12th,BUF,,LAR,
+2026,WEEK 5,FINAL,Thursday Night Football,October 8th,TB,24.0,DAL,16.0
+2026,WEEK 5,FINAL,Sunday,October 11th,PHI,17.0,JAX,19.0
+2026,WEEK 5,FINAL,Sunday,October 11th,CIN,31.0,MIA,24.0
+2026,WEEK 5,FINAL,Sunday,October 11th,LV,17.0,NE,45.0
+2026,WEEK 5,FINAL,Sunday,October 11th,MIN,23.0,NO,13.0
+2026,WEEK 5,FINAL,Sunday,October 11th,CLE,12.0,NYJ,17.0
+2026,WEEK 5,FINAL,Sunday,October 11th,IND,22.0,PIT,34.0
+2026,WEEK 5,FINAL,Sunday,October 11th,HOU,26.0,TEN,3.0
+2026,WEEK 5,FINAL,Sunday,October 11th,NYG,27.0,WAS,27.0
+2026,WEEK 5,FINAL,Sunday,October 11th,CHI,7.0,GB,31.0
+2026,WEEK 5,FINAL,Sunday,October 11th,DEN,23.0,LAC,17.0
+2026,WEEK 5,FINAL,Sunday,October 11th,DET,45.0,AZ,21.0
+2026,WEEK 5,FINAL,Sunday,October 11th,SF,32.0,SEA,29.0
+2026,WEEK 5,FINAL,Sunday Night Football,October 11th,BAL,30.0,ATL,23.0
+2026,WEEK 5,FINAL,Monday Night Football,October 12th,BUF,37.0,LAR,34.0
 2026,WEEK 5,BYE,,,CAR,,,
 2026,WEEK 5,BYE,,,KC,,,
 2026,WEEK 6,TBD,Thursday Night Football,October 15th,SEA,,DEN,
