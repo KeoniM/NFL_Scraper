@@ -129,20 +129,20 @@ Season,Week,GameStatus,GameSlot,GameDate,AwayTeam,AwayScore,HomeTeam,HomeScore
 2026,WEEK 5,FINAL,Monday Night Football,October 12th,BUF,37.0,LAR,34.0
 2026,WEEK 5,BYE,,,CAR,,,
 2026,WEEK 5,BYE,,,KC,,,
-2026,WEEK 6,TBD,Thursday Night Football,October 15th,SEA,,DEN,
-2026,WEEK 6,TBD,Sunday,October 18th,HOU,,JAX,
-2026,WEEK 6,TBD,Sunday,October 18th,CHI,,ATL,
-2026,WEEK 6,TBD,Sunday,October 18th,BAL,,CLE,
-2026,WEEK 6,TBD,Sunday,October 18th,TEN,,IND,
-2026,WEEK 6,TBD,Sunday,October 18th,NYJ,,NE,
-2026,WEEK 6,TBD,Sunday,October 18th,NO,,NYG,
-2026,WEEK 6,TBD,Sunday,October 18th,CAR,,PHI,
-2026,WEEK 6,TBD,Sunday,October 18th,PIT,,TB,
-2026,WEEK 6,TBD,Sunday,October 18th,AZ,,LAR,
-2026,WEEK 6,TBD,Sunday,October 18th,LAC,,KC,
-2026,WEEK 6,TBD,Sunday,October 18th,BUF,,LV,
-2026,WEEK 6,TBD,Sunday Night Football,October 18th,DAL,,GB,
-2026,WEEK 6,TBD,Monday Night Football,October 19th,WAS,,SF,
+2026,WEEK 6,FINAL,Thursday Night Football,October 15th,SEA,14.0,DEN,17.0
+2026,WEEK 6,FINAL,Sunday,October 18th,HOU,34.0,JAX,31.0
+2026,WEEK 6,FINAL,Sunday,October 18th,CHI,31.0,ATL,23.0
+2026,WEEK 6,FINAL,Sunday,October 18th,BAL,10.0,CLE,13.0
+2026,WEEK 6,FINAL,Sunday,October 18th,TEN,26.0,IND,20.0
+2026,WEEK 6,FINAL,Sunday,October 18th,NYJ,19.0,NE,26.0
+2026,WEEK 6,FINAL,Sunday,October 18th,NO,34.0,NYG,27.0
+2026,WEEK 6,FINAL,Sunday,October 18th,CAR,25.0,PHI,14.0
+2026,WEEK 6,FINAL,Sunday,October 18th,PIT,26.0,TB,19.0
+2026,WEEK 6,FINAL,Sunday,October 18th,AZ,18.0,LAR,16.0
+2026,WEEK 6,FINAL,Sunday,October 18th,LAC,6.0,KC,22.0
+2026,WEEK 6,FINAL,Sunday,October 18th,BUF,33.0,LV,30.0
+2026,WEEK 6,FINAL,Sunday Night Football,October 18th,DAL,13.0,GB,23.0
+2026,WEEK 6,FINAL,Monday Night Football,October 19th,WAS,17.0,SF,23.0
 2026,WEEK 6,BYE,,,CIN,,,
 2026,WEEK 6,BYE,,,DET,,,
 2026,WEEK 6,BYE,,,MIA,,,
